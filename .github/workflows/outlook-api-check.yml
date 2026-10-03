@@ -1,8 +1,5 @@
 name: Check Outlook API connection
 on:
-  push:
-    branches: [main]
-    paths: [.github/workflows/outlook-api-check.yml]
   workflow_dispatch: {}
 permissions:
   contents: read
