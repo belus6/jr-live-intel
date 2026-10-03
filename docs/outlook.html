@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Juniper Global Outlook | Juniper Resilience</title>
+<style>
+:root{font-family:system-ui,sans-serif;color:#181312;background:#f0ece6;line-height:1.65}*{box-sizing:border-box}body{margin:0}main{max-width:1060px;margin:auto;padding:32px 24px}a{color:#4a7c59}header{border-bottom:1px solid #d8d1c7;padding-bottom:24px}.brand{letter-spacing:.25em;font-size:12px;font-weight:700}.brand span{color:#4a7c59}h1{font-size:clamp(30px,5vw,48px);line-height:1.15;margin:20px 0 12px}h2{font-size:26px;margin-top:36px}h3{font-size:21px;line-height:1.35;margin-top:0}.muted{color:#6c635c;font-size:13px}.tools{display:flex;gap:16px;flex-wrap:wrap;align-items:center;margin:20px 0}button,select{font:inherit;padding:8px 12px;border:1px solid #d8d1c7;border-radius:8px;background:white}article,.assessment{background:#fff;border:1px solid #e3ddd4;border-radius:14px;padding:24px;margin:16px 0}.assessment{background:#eaf2ed}.label{font-size:11px;text-transform:uppercase;letter-spacing:.12em;font-weight:700;color:#4a7c59}.meta{display:flex;gap:20px;flex-wrap:wrap;border-top:1px solid #e3ddd4;padding-top:12px}.source-list li{margin:12px 0}.empty{padding:40px 0}p{margin:12px 0}:focus-visible{outline:2px solid #4a7c59;outline-offset:3px}[hidden]{display:none!important}@media print{.tools,.back{display:none}body{background:white}main{max-width:none;padding:0}article{break-inside:avoid}a{color:inherit}}
+</style>
+</head>
+<body><main>
+<header><div class="brand">JUNIPER <span>RESILIENCE</span></div><h1>Juniper Global Outlook</h1><p>Geopolitical developments, community resilience, and potential downstream exposure.</p><a class="back" href="index.html">Return to live intelligence</a></header>
+<div id="notice" role="status" class="empty">Loading the latest published edition…</div>
+<div id="report" hidden>
+<p id="edition" class="muted"></p>
+<section class="assessment"><div class="label">Global assessment</div><p id="summary"></p></section>
+<div class="tools"><label for="archive">Edition</label><select id="archive"><option value="">Latest Outlook</option></select><label for="region">Region</label><select id="region"><option value="all">All regions</option></select><button id="print" type="button">Print / save PDF</button></div>
+<div id="developments"></div>
+<section><h2>Sources</h2><ol id="sources" class="source-list"></ol></section>
+<footer class="muted"><p id="coverage"></p><p id="disclosure"></p></footer>
+</div>
+<script>
+const regions=['Americas','Europe','Middle East and North Africa','Sub-Saharan Africa','Asia-Pacific'];
+const byId=id=>document.getElementById(id);
+function el(tag,text,className){const node=document.createElement(tag);if(text)node.textContent=text;if(className)node.className=className;return node}
+let edition;
+const editionId=new URLSearchParams(location.search).get('edition');
+
+function render(){
+ const target=byId('developments');target.replaceChildren();
+ for(const region of regions){
+  const entries=edition.developments.filter(x=>x.region===region);
+  if(!entries.length||(byId('region').value!=='all'&&byId('region').value!==region))continue;
+  const section=el('section');section.append(el('h2',region));
+  for(const item of entries){
+   const card=el('article');card.append(el('h3',item.title),el('p',item.facts),el('p',item.response),el('div','Potential downstream effects','label'),el('p',item.effects),el('div','Downstream Outlook','label'),el('p',item.outlook));
+   const meta=el('div',null,'meta');meta.append(el('p','Horizon: '+item.horizon),el('p','Confidence: '+item.confidence));card.append(meta,el('div','Indicators','label'),el('p',item.indicators));
+   const refs=el('p',null,'muted');refs.append(document.createTextNode('Evidence: '));
+   item.source_ids.forEach((id,i)=>{if(i)refs.append(document.createTextNode(', '));const index=edition.sources.findIndex(x=>x.id===id);const a=el('a','['+(index+1)+']');a.href='#source-'+index;refs.append(a)});
+   card.append(refs);section.append(card);
+  }target.append(section);
+ }
+}
+byId('archive').addEventListener('change',()=>{const url=new URL(location.href);if(byId('archive').value)url.searchParams.set('edition',byId('archive').value);else url.searchParams.delete('edition');location.href=url.href});
+byId('region').addEventListener('change',render);byId('print').addEventListener('click',()=>window.print());
+(async()=>{
+ try{
+  if(editionId&&!/^[a-zA-Z0-9][a-zA-Z0-9_-]{0,79}$/.test(editionId))throw new Error('Invalid edition ID');
+  const response=await fetch('data/outlook/'+(editionId||'latest')+'.json',{cache:'no-store'});
+  if(response.status===404){byId('notice').textContent=editionId?'This Outlook edition could not be found. Use Latest Outlook to return to the current edition.':'The first Juniper Global Outlook has not yet been published.';return}
+  if(!response.ok)throw new Error('Fetch failed');
+  edition=await response.json();
+  if(edition.status!=='published'||!Array.isArray(edition.developments)||!Array.isArray(edition.sources))throw new Error('Invalid edition');
+  document.title=edition.title+' | Juniper Resilience';
+  byId('edition').textContent='Published '+new Date(edition.published_at).toLocaleString(undefined,{dateStyle:'long',timeStyle:'short'})+' · Information cutoff '+new Date(edition.information_cutoff).toLocaleString(undefined,{dateStyle:'long',timeStyle:'short'})+' · Edition '+edition.id;
+  byId('summary').textContent=edition.summary;byId('coverage').textContent=edition.coverage;byId('disclosure').textContent=edition.disclosure;
+  for(const region of regions.filter(r=>edition.developments.some(d=>d.region===r))){const option=el('option',region);option.value=region;byId('region').append(option)}
+  edition.sources.forEach((source,index)=>{const li=el('li');li.id='source-'+index;const a=el('a',source.name);const url=new URL(source.url);if(url.protocol!=='https:')throw new Error('Invalid source URL');a.href=url.href;a.target='_blank';a.rel='noopener noreferrer';li.append(a,el('div','Published '+source.published+' · Accessed '+source.accessed,'muted'));byId('sources').append(li)});
+  try{const response=await fetch('data/outlook/index.json',{cache:'no-store'});if(response.ok){const archive=await response.json();for(const item of archive.editions){const option=el('option',item.title+' · '+new Date(item.published_at).toLocaleDateString());option.value=item.id;byId('archive').append(option)}byId('archive').value=editionId||''}}catch(error){/* The current edition remains readable if the archive is unavailable. */}
+  render();byId('notice').hidden=true;byId('report').hidden=false;
+ }catch(error){byId('notice').textContent='The latest edition could not be loaded. Please try again later.'}
+})();
+</script></main></body></html>
