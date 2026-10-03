@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-03T01:15:07.964179+00:00",
+ "generated": "2026-10-03T06:33:41.758220+00:00",
  "sample": false,
- "count": 100,
+ "count": 112,
  "events": [
   {
    "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
@@ -57,6 +57,34 @@
    "flag": "🇭🇹",
    "region": "Latin America & Caribbean",
    "baseline": 4.53,
+   "watch": []
+  },
+  {
+   "title": "Bangkok at breaking point as floods turn streets into stagnant lakes",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+   "time": "2026-10-03T02:00:46+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "United Kingdom",
+   "city": "London",
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T06:33:41.758220+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "1c9c78704916",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
    "watch": []
   },
   {
@@ -227,6 +255,67 @@
    "flag": "🇧🇷",
    "region": "Latin America & Caribbean",
    "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "4 injured in Kyiv Oblast as Russian drones reportedly strike pharmaceutical warehouse",
+   "summary": "",
+   "url": "https://kyivindependent.com/4-injured-in-kyiv-oblast-as-russian-drones-reportedly-strike-pharmaceutical-warehouse/",
+   "time": "2026-10-03T03:38:43+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/4-injured-in-kyiv-oblast-as-russian-drones-reportedly-strike-pharmaceutical-warehouse/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-03T06:33:41.758220+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "9ba5675524b5",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "North Korea launches ballistic missile as tensions with Seoul grow over border mine blasts",
+   "summary": "",
+   "url": "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand",
+   "time": "2026-10-03T02:40:43+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "South Korea",
+   "city": "Seoul",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand",
+     "tier": "B"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T06:33:41.758220+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "214961068527",
+   "flag": "🇰🇷",
+   "region": "East & SE Asia",
+   "baseline": 1.36,
    "watch": []
   },
   {
@@ -706,6 +795,174 @@
    "watch": []
   },
   {
+   "title": "Worst ever outbreak of bluetongue hits British farms",
+   "summary": "",
+   "url": "https://www.theguardian.com/environment/2026/oct/03/bluetongue-hits-british-farmers",
+   "time": "2026-10-03T05:00:52+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/environment/2026/oct/03/bluetongue-hits-british-farmers",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T06:33:41.758220+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "986caa090d3f",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "New claims that Netanyahu rejected Hamas offer to release captives",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss",
+   "time": "2026-10-03T04:58:43+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T06:33:41.758220+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c6e41be3cdbb",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Brazil’s Lula and Bolsonaro draw thousands as campaigns near end",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/brazils-lula-and-bolsonaro-draw-thousands-as-campaigns-near-end?traffic_source=rss",
+   "time": "2026-10-03T04:43:15+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Brazil",
+   "city": "Rio de Janeiro",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/brazils-lula-and-bolsonaro-draw-thousands-as-campaigns-near-end?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T06:33:41.758220+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f6b4f81579f3",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "India’s Cockroach Party headlines day of anti-establishment protests",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/indias-cockroach-party-headlines-day-of-anti-establishment-protests?traffic_source=rss",
+   "time": "2026-10-03T04:28:03+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/indias-cockroach-party-headlines-day-of-anti-establishment-protests?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T06:33:41.758220+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e2f16183a5c4",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "M5.0 earthquake, 163 km SE of Petropavlovsk-Kamchatsky, Russia",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal",
+   "time": "2026-10-03T02:59:06.296000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Russia",
+   "city": null,
+   "lat": 52.0836,
+   "lon": 160.4217,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-03T06:33:41.758220+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "be8ae090d954",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Schools ablaze as student protests spread across France",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss",
+   "time": "2026-10-03T01:46:10+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T06:33:41.758220+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0bc214a36abc",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
    "title": "Cyclospora found at Mexican farm linked to lettuce outbreak, FDA says",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/oct/02/cyclospora-mexico-farm-lettuce",
@@ -759,6 +1016,34 @@
    "flag": "🇦🇺",
    "region": "Oceania",
    "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 7 km NNW of Ibusuki, Japan",
+   "summary": "Depth 127 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz9w",
+   "time": "2026-10-03T00:11:38.239000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Japan",
+   "city": null,
+   "lat": 31.2953,
+   "lon": 130.6093,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz9w",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-03T06:33:41.758220+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "6a6ee3ee4541",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
    "watch": []
   },
   {
@@ -1660,6 +1945,34 @@
    "flag": "🇭🇹",
    "region": "Latin America & Caribbean",
    "baseline": 4.53,
+   "watch": []
+  },
+  {
+   "title": "M5.0 earthquake, 63 km SW of Panguna, Papua New Guinea",
+   "summary": "Depth 38 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz0x",
+   "time": "2026-10-02T11:14:14.383000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -6.6368,
+   "lon": 155.0136,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz0x",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-03T06:33:41.758220+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "c40ccde871de",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
    "watch": []
   },
   {
@@ -2813,6 +3126,34 @@
    "flag": "🇹🇹",
    "region": "Latin America & Caribbean",
    "baseline": 2.37,
+   "watch": []
+  },
+  {
+   "title": "Barbados - Level 1: Exercise Normal Precautions",
+   "summary": "Exercise normal precautionSummary not available",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.brb.html",
+   "time": "2026-10-03T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Barbados",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 1,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.brb.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-03T06:33:41.758220+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "7018e2ea8c00",
+   "flag": "🇧🇧",
+   "region": "Latin America & Caribbean",
+   "baseline": 1.62,
    "watch": []
   }
  ]

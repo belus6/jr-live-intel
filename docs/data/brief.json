@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-03T01:15:07.964179+00:00",
+ "generated": "2026-10-03T06:33:41.758220+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
-  "1": 0,
-  "2": 46,
-  "3": 14,
-  "4": 6,
+  "1": 1,
+  "2": 48,
+  "3": 15,
+  "4": 5,
   "5": 2
  },
  "watch_hits": [
@@ -65,14 +65,14 @@
     "time": "2026-10-02T08:39:40+00:00"
    },
    {
-    "id": "24f578776c30",
-    "title": "Turkey: Stock market scandal hits half a million investors",
-    "country": "Turkey",
+    "id": "c6e41be3cdbb",
+    "title": "New claims that Netanyahu rejected Hamas offer to release captives",
+    "country": "Israel",
     "city": null,
-    "category": "political",
-    "severity": 3,
+    "category": "crime",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-02T04:32:00+00:00"
+    "time": "2026-10-03T04:58:43+00:00"
    },
    {
     "id": "990594c3a766",
@@ -83,16 +83,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-02T08:41:32+00:00"
-   },
-   {
-    "id": "aa3d0b8edade",
-    "title": "Green flood alert in Islamic Republic of Iran",
-    "country": "Iran",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T06:25:28+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -107,14 +97,14 @@
     "time": "2026-10-02T18:54:19+00:00"
    },
    {
-    "id": "fe27128e63d9",
-    "title": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast",
+    "id": "f6b4f81579f3",
+    "title": "Brazil’s Lula and Bolsonaro draw thousands as campaigns near end",
     "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 4,
+    "city": "Rio de Janeiro",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-02T02:00:07+00:00"
+    "time": "2026-10-03T04:43:15+00:00"
    },
    {
     "id": "4d384ea8df8c",
@@ -167,14 +157,96 @@
     "time": "2026-10-02T12:00:00+00:00"
    },
    {
-    "id": "5f90fd2ac10d",
-    "title": "Level 1 - Global Dengue",
-    "country": "Colombia",
+    "id": "7018e2ea8c00",
+    "title": "Barbados - Level 1: Exercise Normal Precautions",
+    "country": "Barbados",
+    "city": null,
+    "category": "advisory",
+    "severity": 1,
+    "confidence": "A1",
+    "time": "2026-10-03T00:00:00+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "1c9c78704916",
+    "title": "Bangkok at breaking point as floods turn streets into stagnant lakes",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-03T02:00:46+00:00"
+   },
+   {
+    "id": "1f968d16c144",
+    "title": "UK sanctions 7 Russians over deportation, indoctrination of Ukrainian children",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-02T13:58:41+00:00"
+   },
+   {
+    "id": "d5e1c029219e",
+    "title": "Students and police clash as France struggles to quell school protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-02T13:40:56+00:00"
+   },
+   {
+    "id": "986caa090d3f",
+    "title": "Worst ever outbreak of bluetongue hits British farms",
+    "country": "United Kingdom",
     "city": null,
     "category": "health",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T04:00:00+00:00"
+    "confidence": "B3",
+    "time": "2026-10-03T05:00:52+00:00"
+   },
+   {
+    "id": "0bc214a36abc",
+    "title": "Schools ablaze as student protests spread across France",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-03T01:46:10+00:00"
+   },
+   {
+    "id": "28fb2c1bfd8b",
+    "title": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T21:37:11+00:00"
+   },
+   {
+    "id": "14f1e7cf3821",
+    "title": "French Unrest: Are we witnessing a new 'Yellow Vests' movement?",
+    "country": "France",
+    "city": "Marseille",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T18:54:00+00:00"
+   },
+   {
+    "id": "094066d3e671",
+    "title": "Spain's parliament rejects housing bill as protests continue",
+    "country": "Spain",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T16:39:00+00:00"
    }
   ],
   "Eastern Europe": [
@@ -197,6 +269,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-02T14:50:59+00:00"
+   },
+   {
+    "id": "9ba5675524b5",
+    "title": "4 injured in Kyiv Oblast as Russian drones reportedly strike pharmaceutical warehouse",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-03T03:38:43+00:00"
    },
    {
     "id": "f4f6a98c1b93",
@@ -247,101 +329,19 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-02T12:33:55+00:00"
-   },
-   {
-    "id": "31bb0177891e",
-    "title": "Ukraine returned 41 civilians from occupied territories through Volyn border crossing in August and September, says ombudsman",
-    "country": "Ukraine",
-    "city": null,
-    "category": "transport",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-02T17:23:39+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "487abc27c3e0",
-    "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
-    "country": "Ireland",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-02T05:45:23+00:00"
-   },
-   {
-    "id": "1f968d16c144",
-    "title": "UK sanctions 7 Russians over deportation, indoctrination of Ukrainian children",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-02T13:58:41+00:00"
-   },
-   {
-    "id": "d5e1c029219e",
-    "title": "Students and police clash as France struggles to quell school protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-02T13:40:56+00:00"
-   },
-   {
-    "id": "28fb2c1bfd8b",
-    "title": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-02T21:37:11+00:00"
-   },
-   {
-    "id": "14f1e7cf3821",
-    "title": "French Unrest: Are we witnessing a new 'Yellow Vests' movement?",
-    "country": "France",
-    "city": "Marseille",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-02T18:54:00+00:00"
-   },
-   {
-    "id": "094066d3e671",
-    "title": "Spain's parliament rejects housing bill as protests continue",
-    "country": "Spain",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-02T16:39:00+00:00"
-   },
-   {
-    "id": "ccc33b23ced5",
-    "title": "Spanish right wing votes down housing crisis plans as protest movement grows",
-    "country": "Spain",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-02T16:27:47+00:00"
-   },
-   {
-    "id": "1bc779b2c964",
-    "title": "G7 to release 100m barrels from reserves to combat surging diesel prices – as it happened",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-02T16:11:12+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "214961068527",
+    "title": "North Korea launches ballistic missile as tensions with Seoul grow over border mine blasts",
+    "country": "South Korea",
+    "city": "Seoul",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-03T02:40:43+00:00"
+   },
    {
     "id": "b0ebf637ded0",
     "title": "North Korea fires ballistic missile towards the sea, South Korea says",
@@ -351,6 +351,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-02T23:55:24+00:00"
+   },
+   {
+    "id": "6a6ee3ee4541",
+    "title": "M4.5 earthquake, 7 km NNW of Ibusuki, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T00:11:38.239000+00:00"
    },
    {
     "id": "f06c150c4a47",
@@ -383,6 +393,16 @@
     "time": "2026-10-02T12:59:16+00:00"
    },
    {
+    "id": "c40ccde871de",
+    "title": "M5.0 earthquake, 63 km SW of Panguna, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T11:14:14.383000+00:00"
+   },
+   {
     "id": "69e5381f4f90",
     "title": "M4.5 earthquake, 101 km NE of Ruteng, Indonesia",
     "country": "Indonesia",
@@ -391,26 +411,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-02T06:48:06.954000+00:00"
-   },
-   {
-    "id": "f72c7f4c1b6f",
-    "title": "M4.8 earthquake, 192 km WNW of Tobelo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T05:38:55.084000+00:00"
-   },
-   {
-    "id": "aa146550fa12",
-    "title": "M4.9 earthquake, 97 km S of Panguna, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T04:10:58.487000+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -527,6 +527,38 @@
     "time": "2026-10-02T06:53:35.007000+00:00"
    }
   ],
+  "South Asia": [
+   {
+    "id": "e2f16183a5c4",
+    "title": "India’s Cockroach Party headlines day of anti-establishment protests",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-03T04:28:03+00:00"
+   },
+   {
+    "id": "9ce3904014d2",
+    "title": "'Make our streets safer!' Mass women's protests sweep India over sexual violence",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T14:57:07+00:00"
+   },
+   {
+    "id": "e09e2540e162",
+    "title": "India’s Cockroach movement launches new protests over changes to voter roll",
+    "country": "India",
+    "city": "Mumbai",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T14:42:16+00:00"
+   }
+  ],
   "Oceania": [
    {
     "id": "30d8bb45d086",
@@ -567,26 +599,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-02T10:00:05+00:00"
-   },
-   {
-    "id": "8336f8a7dc94",
-    "title": "M5.1 earthquake, 159 km SE of Gizo, Solomon Islands",
-    "country": "Solomon Islands",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T04:44:53.423000+00:00"
-   },
-   {
-    "id": "ce6034589ae0",
-    "title": "M5.0 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T04:27:05.754000+00:00"
    }
   ],
   "Central Asia": [
@@ -599,28 +611,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-02T23:00:49+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "9ce3904014d2",
-    "title": "'Make our streets safer!' Mass women's protests sweep India over sexual violence",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-02T14:57:07+00:00"
-   },
-   {
-    "id": "e09e2540e162",
-    "title": "India’s Cockroach movement launches new protests over changes to voter roll",
-    "country": "India",
-    "city": "Mumbai",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-02T14:42:16+00:00"
    }
   ]
  }
