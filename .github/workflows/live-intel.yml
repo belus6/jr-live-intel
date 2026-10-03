@@ -1,0 +1,35 @@
+name: Live intelligence feed
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes (GitHub may delay scheduled runs at busy times)
+  workflow_dispatch: {}       # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-intel
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Pull sources and build events
+        env:
+          ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
+        run: python pipeline/run.py
+      - name: Save results
+        run: |
+          git config user.name "jr-live-bot"
+          git config user.email "jr-live-bot@users.noreply.github.com"
+          git add docs/data
+          git diff --cached --quiet || git commit -m "Live feed update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
