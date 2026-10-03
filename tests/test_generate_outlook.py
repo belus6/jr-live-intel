@@ -62,6 +62,18 @@ class GenerateOutlookTests(unittest.TestCase):
         with patch.dict(os.environ, {}, clear=True), self.assertRaises(ValueError): generator.generate('request-test', self.root, self.api)
         self.assertFalse(self.calls)
 
+    def test_api_errors_are_specific_without_response_secrets(self):
+        class Response:
+            status_code = 429
+            def json(self): return {'error': {'code': 'insufficient_quota', 'message': 'secret-content-do-not-log', 'param': None}}
+        message = generator.api_error(Response())
+        self.assertIn('insufficient_quota', message)
+        self.assertNotIn('secret-content', message)
+        class UnsafeResponse:
+            status_code = 400
+            def json(self): return {'error': {'code': 'secret-content-do-not-log', 'param': 'secret-content-do-not-log'}}
+        self.assertNotIn('secret-content', generator.api_error(UnsafeResponse()))
+
     def test_previous_topics_are_supplied(self):
         folder = self.root / 'docs/data/outlook/generated';folder.mkdir(parents=True)
         (folder / 'prior.json').write_text(json.dumps(dict(self.draft, published_at='2026-10-01T10:00:00Z')))
