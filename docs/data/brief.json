@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-03T16:18:04.678865+00:00",
+ "generated": "2026-10-03T19:20:47.409939+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 37,
-  "3": 15,
-  "4": 8,
-  "5": 2
+  "2": 36,
+  "3": 14,
+  "4": 11,
+  "5": 1
  },
  "watch_hits": [],
  "regions": {
@@ -31,6 +31,26 @@
     "severity": 4,
     "confidence": "B1",
     "time": "2026-10-03T06:16:47+00:00"
+   },
+   {
+    "id": "a211e6271c2a",
+    "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
+    "country": "Algeria",
+    "city": "Algiers",
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-03T18:03:08+00:00"
+   },
+   {
+    "id": "cc6ac8b932c1",
+    "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-03T16:17:23+00:00"
    },
    {
     "id": "9af71971eec1",
@@ -71,113 +91,19 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-02T22:52:01+00:00"
-   },
-   {
-    "id": "cade27fabc18",
-    "title": "UN says at least 150,000 have fled their homes in Yemen amid fighting",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-03T13:39:11+00:00"
-   },
-   {
-    "id": "a2ea068fbbe2",
-    "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-03T10:48:28+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "b8c8b30aa4b4",
-    "title": "At least 5,700 killed, wounded in Haiti gang crisis this year: UN",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 5,
-    "confidence": "C4",
-    "time": "2026-10-02T18:54:19+00:00"
-   },
-   {
-    "id": "f6b4f81579f3",
-    "title": "Brazil’s Lula and Bolsonaro draw thousands as campaigns near end",
-    "country": "Brazil",
-    "city": "Rio de Janeiro",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T04:43:15+00:00"
-   },
-   {
-    "id": "4d384ea8df8c",
-    "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
-    "country": "Brazil",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-02T21:12:29+00:00"
-   },
-   {
-    "id": "425a9f1b81f2",
-    "title": "M5.0 earthquake, 26 km SSW of Güiria, Venezuela",
-    "country": "Venezuela",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T16:31:25.762000+00:00"
-   },
-   {
-    "id": "7018e2ea8c00",
-    "title": "Barbados - Level 1: Exercise Normal Precautions",
-    "country": "Barbados",
-    "city": null,
-    "category": "advisory",
-    "severity": 1,
-    "confidence": "A1",
-    "time": "2026-10-03T00:00:00+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "f95090e9daee",
-    "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
-    "country": "United States",
-    "city": "New York",
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-03T07:00:35+00:00"
-   },
-   {
-    "id": "493b28c7b4ea",
-    "title": "Washington should pay attention to Ukraine's new robotic counteroffensive",
-    "country": "United States",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-02T18:47:12+00:00"
-   },
-   {
-    "id": "817d6b60f8ff",
-    "title": "Cyclospora found at Mexican farm linked to lettuce outbreak, FDA says",
-    "country": "Mexico",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T00:27:28+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "3e21d9cdbb6c",
+    "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-03T16:10:00+00:00"
+   },
    {
     "id": "1c9c78704916",
     "title": "Bangkok at breaking point as floods turn streets into stagnant lakes",
@@ -197,6 +123,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-03T15:42:45+00:00"
+   },
+   {
+    "id": "24180f2c59c6",
+    "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-03T13:34:11+00:00"
    },
    {
     "id": "ed9272d5794a",
@@ -237,26 +173,28 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-03T11:35:48+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "f95090e9daee",
+    "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
+    "country": "United States",
+    "city": "New York",
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-03T07:00:35+00:00"
    },
    {
-    "id": "36f14d837b3d",
-    "title": "Barricades & the blame game: the French school protests",
-    "country": "France",
+    "id": "817d6b60f8ff",
+    "title": "Cyclospora found at Mexican farm linked to lettuce outbreak, FDA says",
+    "country": "Mexico",
     "city": null,
-    "category": "unrest",
+    "category": "health",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-03T09:25:58+00:00"
-   },
-   {
-    "id": "a0ee723d261f",
-    "title": "Floods sweep cars through streets after intense rain in Spain",
-    "country": "Spain",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T08:17:40+00:00"
+    "time": "2026-10-03T00:27:28+00:00"
    }
   ],
   "Eastern Europe": [
@@ -301,26 +239,6 @@
     "time": "2026-10-03T03:38:43+00:00"
    },
    {
-    "id": "f4f6a98c1b93",
-    "title": "Ukraine war latest: Russia takes aim at key Kyiv bridge for second day",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-02T17:59:03+00:00"
-   },
-   {
-    "id": "9c5a313fcf5b",
-    "title": "M5.8 earthquake, 165 km SSE of Vilyuchinsk, Russia",
-    "country": "Russia",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-02T16:34:41.010000+00:00"
-   },
-   {
     "id": "5aa42f21f839",
     "title": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
     "country": "Bosnia & Herzegovina",
@@ -339,6 +257,26 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-03T02:59:06.296000+00:00"
+   },
+   {
+    "id": "32bbc17aefb2",
+    "title": "M4.6 earthquake, 46 km SSW of Paratunka, Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T20:37:48.318000+00:00"
+   },
+   {
+    "id": "73cee91969ac",
+    "title": "M4.9 earthquake, 136 km SSE of Vilyuchinsk, Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T20:25:29.894000+00:00"
    }
   ],
   "East & SE Asia": [
@@ -361,6 +299,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-02T23:55:24+00:00"
+   },
+   {
+    "id": "867951a8cf42",
+    "title": "M4.9 earthquake, 72 km NE of Sittwe, Burma (Myanmar)",
+    "country": "Myanmar",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T18:12:46.916000+00:00"
+   },
+   {
+    "id": "3aefd771c95f",
+    "title": "M4.6 earthquake, 76 km NNE of Lae, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T17:24:12.545000+00:00"
    },
    {
     "id": "ac4c34c5e7b1",
@@ -401,16 +359,38 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-02T20:34:56.862000+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "f587a9c0fee1",
+    "title": "Is the CJP changing India’s political landscape?",
+    "country": "India",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-03T19:00:01+00:00"
    },
    {
-    "id": "f06c150c4a47",
-    "title": "M4.6 earthquake, 67 km ESE of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
+    "id": "35755971bb5a",
+    "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
+    "country": "Pakistan",
     "city": null,
-    "category": "hazard",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T20:26:02.878000+00:00"
+    "confidence": "B3",
+    "time": "2026-10-03T10:46:20+00:00"
+   },
+   {
+    "id": "e2f16183a5c4",
+    "title": "India’s Cockroach Party headlines day of anti-establishment protests",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-03T04:28:03+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -435,6 +415,16 @@
     "time": "2026-10-03T07:58:45+00:00"
    },
    {
+    "id": "e98c6a7754e2",
+    "title": "Ethiopia's Tigray rebels abandon regional capital Mekelle as government forces enter city",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-03T07:58:45+00:00"
+   },
+   {
     "id": "904c900bd956",
     "title": "Ethiopian army pushes back Tigrayan rebels",
     "country": "Ethiopia",
@@ -443,6 +433,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-02T20:46:00+00:00"
+   },
+   {
+    "id": "9fd5e576e3b6",
+    "title": "Green forest fire notification in The Democratic Republic of Congo",
+    "country": "DRC",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T19:00:44+00:00"
    },
    {
     "id": "c2bcfd26f4ef",
@@ -473,48 +473,38 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-03T11:01:09+00:00"
-   },
-   {
-    "id": "64b3d936e6a4",
-    "title": "Green forest fire notification in Angola",
-    "country": "Angola",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T23:03:04+00:00"
-   },
-   {
-    "id": "fa0b3122c296",
-    "title": "On the run for 20 years, Ugandan warlord Kony still 'active' within the Lord's Resistance Army",
-    "country": "CAR",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-02T19:31:27+00:00"
    }
   ],
-  "South Asia": [
+  "Latin America & Caribbean": [
    {
-    "id": "35755971bb5a",
-    "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
-    "country": "Pakistan",
-    "city": null,
+    "id": "f6b4f81579f3",
+    "title": "Brazil’s Lula and Bolsonaro draw thousands as campaigns near end",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-03T10:46:20+00:00"
+    "time": "2026-10-03T04:43:15+00:00"
    },
    {
-    "id": "e2f16183a5c4",
-    "title": "India’s Cockroach Party headlines day of anti-establishment protests",
-    "country": "India",
+    "id": "4d384ea8df8c",
+    "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
+    "country": "Brazil",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-03T04:28:03+00:00"
+    "time": "2026-10-02T21:12:29+00:00"
+   },
+   {
+    "id": "7018e2ea8c00",
+    "title": "Barbados - Level 1: Exercise Normal Precautions",
+    "country": "Barbados",
+    "city": null,
+    "category": "advisory",
+    "severity": 1,
+    "confidence": "A1",
+    "time": "2026-10-03T00:00:00+00:00"
    }
   ],
   "Oceania": [
