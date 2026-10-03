@@ -1,0 +1,35 @@
+{
+  "id": "example-only",
+  "status": "draft",
+  "published_at": "2026-10-03T15:00:00Z",
+  "title": "Juniper Global Outlook",
+  "disclosure": "AI-assisted research and analysis; reviewed before publication.",
+  "summary": "Replace with a researched global assessment.",
+  "coverage": "State coverage limitations here.",
+  "developments": [
+    {
+      "region": "Americas",
+      "title": "Replace with a verified development",
+      "facts": "Dated reported facts, with source references.",
+      "response": "Verified activity by a named mission-driven organization.",
+      "effects": "Evidence-supported potential downstream effects.",
+      "outlook": "Time-bounded assessment and assumptions.",
+      "horizon": "30 to 90 days",
+      "confidence": "Moderate, with an explicit reason.",
+      "indicators": "Indicators that would confirm or overturn the assessment.",
+      "source_ids": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "name": "Replace with source title",
+      "url": "https://example.com",
+      "published": "2026-10-03",
+      "accessed": "2026-10-03"
+    }
+  ],
+  "information_cutoff": "2026-10-03T14:00:00Z"
+}

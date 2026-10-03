@@ -8,6 +8,17 @@ A live security-event feed that costs nothing to run. Every 15 minutes, GitHub's
 - **Watchlist**: put your travellers, events and offices in `config/watchlist.json`. Matching events are flagged on the dashboard, and severity 4 and 5 events can be pushed to Slack, Teams or Discord.
 - **Archive**: every event ever seen is kept in `docs/data/archive/` by month, for trend analysis later.
 - **Risk matrix** (`docs/matrix.html`): the full Global Risk Matrix 2026, served from the same site.
+- **Juniper Global Outlook** (`docs/outlook.html`): latest reviewed edition, regional filters, source references, and print/PDF layout. Displays an explicit unpublished state until the first edition is ready.
+
+## Publish an Outlook edition
+
+Follow `reports/EDITORIAL.md` and use `reports/example.json` as the structure. The example is a draft and cannot be published. Replace every placeholder with researched content, review the edition, then mark it `published` and run:
+
+```sh
+python pipeline/publish_outlook.py reports/edition.json
+```
+
+Commit the page changes and `docs/data/outlook` to the Pages branch to deploy. Publication stores an immutable edition file, updates the archive index, and points `latest.json` to the most recent publication. Each edition includes a timezone-qualified information cutoff. Archived editions can be opened with `outlook.html?edition=EDITION_ID`. The existing fifteen-minute live-feed workflow does not generate or overwrite Outlook editions. Automated research generation still requires a provider integration; no model credentials or recurring model costs are introduced by this change.
 
 ## Set it up (about 20 minutes, no coding)
 
