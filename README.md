@@ -18,7 +18,23 @@ Follow `reports/EDITORIAL.md` and use `reports/example.json` as the structure. T
 python pipeline/publish_outlook.py reports/edition.json
 ```
 
-Commit the page changes and `docs/data/outlook` to the Pages branch to deploy. Publication stores an immutable edition file, updates the archive index, and points `latest.json` to the most recent publication. Each edition includes a timezone-qualified information cutoff. Archived editions can be opened with `outlook.html?edition=EDITION_ID`. The existing fifteen-minute live-feed workflow does not generate or overwrite Outlook editions. Automated research generation still requires a provider integration; no model credentials or recurring model costs are introduced by this change.
+Commit the page changes and `docs/data/outlook` to the Pages branch to deploy. Publication stores an immutable edition file, updates the archive index, and points `latest.json` to the most recent publication. Each edition includes a timezone-qualified information cutoff. Archived editions can be opened with `outlook.html?edition=EDITION_ID`. The existing fifteen-minute live-feed workflow does not generate or overwrite Outlook editions. On-demand generation now uses the OpenAI API through the owner-only Generate Juniper Global Outlook workflow; every fresh generation incurs API usage. Draft generation never overwrites a reviewed publication.
+
+## Generate a fresh Outlook with the button
+
+1. Save an OpenAI API key as repository Actions secret `OPENAI_API_KEY`. Fund the API account and set an account/project spending limit. Do not put this key in a webpage or repository file.
+2. Merge the Outlook implementation into `main`. `generate-outlook.yml` is manual only, and its job runs only for GitHub actor `belus6` on `main`.
+3. Open `generate.html` from the dashboard. Create a GitHub fine-grained token restricted to `jr-live-intel`, with **Actions: Read and write** and **Contents: Read-only**. Enter it in the connection field. This GitHub token stays in memory and is sent only to `api.github.com`; a page reload requires reconnecting.
+4. Click **Generate Outlook Report**. The button dispatches a unique request, disables repeated clicks during that request, polls its GitHub run, and opens the result below the button automatically, keeping the connection available for another report. The OpenAI secret is read only by the runner. Use the GitHub workflow page as a fallback without a browser token.
+5. **Latest Outlook** opens the last generated draft without another API call. Reviewed editions remain accessible through **Published editions**.
+
+Every run uses two bounded model requests: current web research (up to 20 tool calls) and structured report writing. Model output is checked for source provenance, dates, required fields, references, and completion before saving. This checks structure and source inclusion, not the truth of every claim; drafts remain explicitly unreviewed. Inputs contain recent edition topics to discourage repetitive coverage. Counts of input/output tokens and web calls are saved with a cost estimate at the documented 2026-10-03 standard rates; the OpenAI billing dashboard is authoritative.
+
+Generated drafts are committed to this **public** repository under `docs/data/outlook/generated/`; use public-information inputs only. Report text can be cached in browser session storage to avoid a Pages deployment delay. Credentials are never cached there. Reports and the API secret are separate: no API key is returned to the browser.
+
+The workflow shares the live feed's concurrency group to avoid competing bot commits. Queueing is normal. If a run fails or times out, check its run page before generating again; partial API work can be billed. The workflow does not automatically retry billed requests. Existing reports remain readable during failures.
+
+Local validation: `python -m unittest discover -s tests -v` and `node tests/test_generate_ui.cjs`. An actual end-to-end run must be tested on GitHub after merging, because the secret is held there. This workspace cannot read it.
 
 ## Set it up (about 20 minutes, no coding)
 

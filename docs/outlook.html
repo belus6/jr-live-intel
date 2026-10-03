@@ -8,7 +8,7 @@
 </style>
 </head>
 <body><main>
-<header><div class="brand">JUNIPER <span>RESILIENCE</span></div><h1>Juniper Global Outlook</h1><p>Geopolitical developments, community resilience, and potential downstream exposure.</p><a class="back" href="index.html">Return to live intelligence</a></header>
+<header><div class="brand">JUNIPER <span>RESILIENCE</span></div><h1>Juniper Global Outlook</h1><p>Geopolitical developments, community resilience, and potential downstream exposure.</p><a class="back" href="index.html">Return to live intelligence</a> · <a class="back" href="generate.html">Generate Outlook Report</a> · <a class="back" href="outlook.html?draft=latest">Latest Outlook</a> · <a class="back" href="outlook.html">Published editions</a></header>
 <div id="notice" role="status" class="empty">Loading the latest published edition…</div>
 <div id="report" hidden>
 <p id="edition" class="muted"></p>
@@ -23,6 +23,7 @@ const regions=['Americas','Europe','Middle East and North Africa','Sub-Saharan A
 const byId=id=>document.getElementById(id);
 function el(tag,text,className){const node=document.createElement(tag);if(text)node.textContent=text;if(className)node.className=className;return node}
 let edition;
+const draftId=new URLSearchParams(location.search).get("draft");
 const editionId=new URLSearchParams(location.search).get('edition');
 
 function render(){
@@ -44,14 +45,19 @@ byId('archive').addEventListener('change',()=>{const url=new URL(location.href);
 byId('region').addEventListener('change',render);byId('print').addEventListener('click',()=>window.print());
 (async()=>{
  try{
+  if(draftId&&!/^[a-zA-Z0-9][a-zA-Z0-9_-]{0,79}$/.test(draftId))throw new Error('Invalid draft ID');
   if(editionId&&!/^[a-zA-Z0-9][a-zA-Z0-9_-]{0,79}$/.test(editionId))throw new Error('Invalid edition ID');
-  const response=await fetch('data/outlook/'+(editionId||'latest')+'.json',{cache:'no-store'});
-  if(response.status===404){byId('notice').textContent=editionId?'This Outlook edition could not be found. Use Latest Outlook to return to the current edition.':'The first Juniper Global Outlook has not yet been published.';return}
+  const url=draftId?(draftId==='latest'?'data/outlook/latest-generated.json':'data/outlook/generated/'+draftId+'.json'):'data/outlook/'+(editionId||'latest')+'.json';
+  const cached=draftId&&draftId!=='latest'?sessionStorage.getItem('juniper-outlook-'+draftId):null;
+  const response=cached?{ok:true,status:200,json:async()=>JSON.parse(cached)}:await fetch(url,{cache:'no-store'});
+  if(response.status===404){byId('notice').textContent=draftId?'No generated report is available yet. Use Generate Outlook Report to create one.':editionId?'This Outlook edition could not be found. Use Latest Outlook to return to the current edition.':'The first Juniper Global Outlook has not yet been published.';return}
   if(!response.ok)throw new Error('Fetch failed');
   edition=await response.json();
-  if(edition.status!=='published'||!Array.isArray(edition.developments)||!Array.isArray(edition.sources))throw new Error('Invalid edition');
+  if((draftId?edition.status!=='draft':edition.status!=='published')||!Array.isArray(edition.developments)||!Array.isArray(edition.sources))throw new Error('Invalid edition');
   document.title=edition.title+' | Juniper Resilience';
-  byId('edition').textContent='Published '+new Date(edition.published_at).toLocaleString(undefined,{dateStyle:'long',timeStyle:'short'})+' · Information cutoff '+new Date(edition.information_cutoff).toLocaleString(undefined,{dateStyle:'long',timeStyle:'short'})+' · Edition '+edition.id;
+  byId('edition').textContent=(draftId?'Generated draft ':'Published ')+new Date(edition.published_at).toLocaleString(undefined,{dateStyle:'long',timeStyle:'short'})+' · Information cutoff '+new Date(edition.information_cutoff).toLocaleString(undefined,{dateStyle:'long',timeStyle:'short'})+' · Edition '+edition.id;
+  if(draftId){byId('archive').hidden=true;document.querySelector('label[for=archive]').hidden=true;}
+  if(edition.usage){byId('edition').textContent+=' · Estimated API cost $'+Number(edition.usage.estimated_usd).toFixed(2);}
   byId('summary').textContent=edition.summary;byId('coverage').textContent=edition.coverage;byId('disclosure').textContent=edition.disclosure;
   for(const region of regions.filter(r=>edition.developments.some(d=>d.region===r))){const option=el('option',region);option.value=region;byId('region').append(option)}
   edition.sources.forEach((source,index)=>{const li=el('li');li.id='source-'+index;const a=el('a',source.name);const url=new URL(source.url);if(url.protocol!=='https:')throw new Error('Invalid source URL');a.href=url.href;a.target='_blank';a.rel='noopener noreferrer';li.append(a,el('div','Published '+source.published+' · Accessed '+source.accessed,'muted'));byId('sources').append(li)});
