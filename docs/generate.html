@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; connect-src https://api.github.com; base-uri 'none'; form-action 'none'; object-src 'none'">
+<meta name="referrer" content="no-referrer"><title>Generate Outlook | Juniper Resilience</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f0ece6;color:#181312;font:16px/1.65 system-ui,sans-serif}main{max-width:800px;padding:32px 24px;margin:auto}.brand{font-size:12px;letter-spacing:.25em;font-weight:700;color:#4a7c59}h1{font-size:38px;line-height:1.2}section{background:white;border:1px solid #e3ddd4;padding:24px;border-radius:14px;margin:24px 0}a{color:#4a7c59}button{font:inherit;background:#4a7c59;color:white;border:0;border-radius:8px;padding:12px 18px;cursor:pointer}button:disabled{opacity:.55;cursor:wait}button.secondary{background:#eee7dc;color:#181312}input{font:inherit;padding:10px;border:1px solid #aaa;border-radius:8px;width:100%;margin:8px 0 16px}.muted{color:#6c635c;font-size:14px}.buttons{display:flex;flex-wrap:wrap;gap:12px;align-items:center}[hidden]{display:none!important}#status{white-space:pre-wrap}:focus-visible{outline:3px solid #181312;outline-offset:3px}details li{margin:8px 0}iframe{width:100%;height:80vh;border:1px solid #e3ddd4;border-radius:8px}
+</style><script src="generate.js" defer></script></head><body><main>
+<div class="brand">JUNIPER RESILIENCE</div><h1>Generate Outlook Report</h1>
+<p>Research current developments and write a fresh Juniper Global Outlook using the editorial rules.</p>
+<section id="connection"><h2>Connect your GitHub account</h2>
+<p>The generator is restricted to <strong>belus6</strong>. Connect once for this page session.</p>
+<details><summary>Get a GitHub token for this button</summary><ol>
+<li>Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener noreferrer">GitHub fine-grained token settings</a>.</li>
+<li>Name it <strong>Juniper Outlook button</strong>, choose an expiration and resource owner <strong>belus6</strong>.</li>
+<li>Under <strong>Repository access</strong>, select only <strong>jr-live-intel</strong>.</li>
+<li>Under repository permissions, give <strong>Actions: Read and write</strong> and <strong>Contents: Read-only</strong>.</li>
+<li>Generate the token and enter it below. This is your GitHub token, separate from the OpenAI key already saved in GitHub.</li>
+</ol></details>
+<form id="connect-form"><label for="github-token">GitHub fine-grained token</label><input type="password" id="github-token" autocomplete="off" spellcheck="false" placeholder="github_pat_…" required><button id="connect" type="submit">Connect GitHub</button></form>
+<p class="muted">The token goes only to api.github.com and stays in this page’s memory. Closing or refreshing clears the connection.</p></section>
+<section><div class="buttons"><button id="generate" disabled>Generate Outlook Report</button><button id="disconnect" class="secondary" hidden>Disconnect</button><a href="outlook.html?draft=latest">Latest Outlook</a></div>
+<p id="status" role="status" aria-live="polite">Connect GitHub to generate a report.</p>
+<p><a id="run-link" hidden target="_blank" rel="noopener noreferrer">View generation progress in GitHub</a></p>
+<p class="muted">Each new generation uses your OpenAI API balance. Results are unreviewed drafts and are saved in this public repository. The completed report opens automatically. If this page closes, the workflow continues.</p></section>
+<section id="result" hidden><h2>Your generated Outlook</h2><p><a id="open-report" target="_blank" rel="noopener noreferrer">Open full report / print PDF</a></p><iframe id="report-frame" title="Generated Juniper Global Outlook"></iframe></section>
+<p><a href="index.html">Return to live intelligence</a> · <a href="https://github.com/belus6/jr-live-intel/actions/workflows/generate-outlook.yml" target="_blank" rel="noopener noreferrer">Run from GitHub instead</a></p>
+</main></body></html>

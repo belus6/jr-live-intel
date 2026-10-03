@@ -9,15 +9,15 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parent.parent
 REGIONS = {'Americas', 'Europe', 'Middle East and North Africa', 'Sub-Saharan Africa', 'Asia-Pacific'}
 
-def validate(edition):
+def validate(edition, require_published=True):
     for key in ('id', 'published_at', 'information_cutoff', 'title', 'summary', 'disclosure', 'coverage'):
         if not isinstance(edition.get(key), str) or not edition[key].strip():
             raise ValueError(f'Missing {key}')
-    if edition.get('status') != 'published':
+    if require_published and edition.get('status') != 'published':
         raise ValueError('Only reviewed editions marked published may be published')
     if not re.fullmatch(r'[a-zA-Z0-9][a-zA-Z0-9_-]{0,79}', edition['id']):
         raise ValueError('Invalid edition ID')
-    if edition['id'] in {'latest', 'index'}:
+    if edition['id'] in {'latest', 'index', 'latest-generated'}:
         raise ValueError('Edition ID is reserved')
     stamp = dt.datetime.fromisoformat(edition['published_at'].replace('Z', '+00:00'))
     if stamp.tzinfo is None or stamp > dt.datetime.now(dt.timezone.utc):
@@ -66,7 +66,9 @@ def publish(path):
     if archive.exists():
         raise ValueError('Edition ID already exists; use a new ID for corrections')
     existing = sorted(folder.glob('*.json'))
-    editions = [json.loads(p.read_text(encoding='utf-8')) for p in existing if p.name not in {'latest.json', 'index.json'}]
+    editions = [json.loads(p.read_text(encoding='utf-8')) for p in existing if p.name not in {'latest.json', 'index.json', 'latest-generated.json'}]
+    for previous in editions:
+        validate(previous)
     editions.append(edition)
     editions.sort(key=lambda e: dt.datetime.fromisoformat(e['published_at'].replace('Z', '+00:00')), reverse=True)
     content = json.dumps(edition, ensure_ascii=False, indent=2) + '\n'
