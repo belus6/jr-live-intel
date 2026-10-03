@@ -30,7 +30,7 @@ Commit the page changes and `docs/data/outlook` to the Pages branch to deploy. P
 
 Every run uses two bounded model requests: current web research (up to 20 tool calls) and structured report writing. Model output is checked for source provenance, dates, required fields, references, and completion before saving. This checks structure and source inclusion, not the truth of every claim; drafts remain explicitly unreviewed. Inputs contain recent edition topics to discourage repetitive coverage. Counts of input/output tokens and web calls are saved with a cost estimate at the documented 2026-10-03 standard rates; the OpenAI billing dashboard is authoritative.
 
-Generated drafts are committed to this **public** repository under `docs/data/outlook/generated/`; use public-information inputs only. Report text can be cached in browser session storage to avoid a Pages deployment delay. Credentials are never cached there. Reports and the API secret are separate: no API key is returned to the browser.
+Generated drafts are committed to this **public** repository under `docs/data/outlook/generated/`; use public-information inputs only. Saved draft JSON is read directly from GitHub contents, so bot commits do not require another Pages build to make reports readable. Report text can also be cached in browser session storage. Credentials are never cached there. Reports and the API secret are separate: no API key is returned to the browser.
 
 The workflow shares the live feed's concurrency group to avoid competing bot commits. Queueing is normal. If a run fails or times out, check its run page before generating again; partial API work can be billed. The workflow does not automatically retry billed requests. Existing reports remain readable during failures.
 

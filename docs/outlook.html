@@ -47,9 +47,9 @@ byId('region').addEventListener('change',render);byId('print').addEventListener(
  try{
   if(draftId&&!/^[a-zA-Z0-9][a-zA-Z0-9_-]{0,79}$/.test(draftId))throw new Error('Invalid draft ID');
   if(editionId&&!/^[a-zA-Z0-9][a-zA-Z0-9_-]{0,79}$/.test(editionId))throw new Error('Invalid edition ID');
-  const url=draftId?(draftId==='latest'?'data/outlook/latest-generated.json':'data/outlook/generated/'+draftId+'.json'):'data/outlook/'+(editionId||'latest')+'.json';
+  const url=draftId?'https://api.github.com/repos/belus6/jr-live-intel/contents/docs/data/outlook/'+(draftId==='latest'?'latest-generated.json':'generated/'+draftId+'.json')+'?ref=main':'data/outlook/'+(editionId||'latest')+'.json';
   const cached=draftId&&draftId!=='latest'?sessionStorage.getItem('juniper-outlook-'+draftId):null;
-  const response=cached?{ok:true,status:200,json:async()=>JSON.parse(cached)}:await fetch(url,{cache:'no-store'});
+  const response=cached?{ok:true,status:200,json:async()=>JSON.parse(cached)}:await fetch(url,{cache:'no-store',headers:draftId?{Accept:'application/vnd.github.raw+json'}:{}});
   if(response.status===404){byId('notice').textContent=draftId?'No generated report is available yet. Use Generate Outlook Report to create one.':editionId?'This Outlook edition could not be found. Use Latest Outlook to return to the current edition.':'The first Juniper Global Outlook has not yet been published.';return}
   if(!response.ok)throw new Error('Fetch failed');
   edition=await response.json();
