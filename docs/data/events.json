@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-03T19:20:47.409939+00:00",
+ "generated": "2026-10-03T22:19:29.290016+00:00",
  "sample": false,
- "count": 151,
+ "count": 157,
  "events": [
   {
    "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
@@ -244,11 +244,16 @@
      "name": "France 24",
      "url": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
      "tier": "B"
+    },
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-world-4025-rdf",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-03T12:03:09.196597+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B2",
+   "corroboration": 2,
    "id": "f2353553635d",
    "flag": "🇦🇪",
    "region": "Middle East & N. Africa",
@@ -1309,6 +1314,146 @@
    "watch": []
   },
   {
+   "title": "Met launches murder inquiry after man shot dead at London memorial service",
+   "summary": "",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/03/met-launches-inquiry-after-man-shot-dead-at-london-memorial-service",
+   "time": "2026-10-03T22:04:08+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "United Kingdom",
+   "city": "London",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/03/met-launches-inquiry-after-man-shot-dead-at-london-memorial-service",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T22:19:29.290016+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e5688df03351",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "France arrests 5,000 people, mostly teens, as school protests spread",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread",
+   "time": "2026-10-03T21:57:35+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T22:19:29.290016+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "817ee821c542",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 121 km SW of Puerto Madero, Mexico",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze6",
+   "time": "2026-10-03T20:33:45.577000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Mexico",
+   "city": null,
+   "lat": 14.1052,
+   "lon": -93.3523,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze6",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-03T22:19:29.290016+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "f5c0e174b71d",
+   "flag": "🇲🇽",
+   "region": "North America",
+   "baseline": 3.32,
+   "watch": []
+  },
+  {
+   "title": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
+   "summary": "",
+   "url": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election",
+   "time": "2026-10-03T20:16:01+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Brazil",
+   "city": "Sao Paulo",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T22:19:29.290016+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "78e34d65814f",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "M5.1 earthquake, 182 km SSE of Vilyuchinsk, Russia",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze2",
+   "time": "2026-10-03T20:00:44.104000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Russia",
+   "city": null,
+   "lat": 51.5457,
+   "lon": 159.8296,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze2",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-03T22:19:29.290016+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3bd37ca1d13d",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
    "title": "Green forest fire notification in The Democratic Republic of Congo",
    "summary": "On 01/10/2026, a forest fire started in The Democratic Republic of Congo, until 03/10/2026.",
    "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032552",
@@ -2049,6 +2194,34 @@
    "flag": "🇯🇵",
    "region": "East & SE Asia",
    "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 153 km SSE of Vilyuchinsk, Russia",
+   "summary": "Depth 35 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz9s",
+   "time": "2026-10-02T23:54:13.503000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Russia",
+   "city": null,
+   "lat": 51.7161,
+   "lon": 159.4679,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz9s",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-03T22:19:29.290016+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "85b64ebcb88e",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
    "watch": []
   },
   {

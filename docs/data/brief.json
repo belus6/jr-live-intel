@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-03T19:20:47.409939+00:00",
+ "generated": "2026-10-03T22:19:29.290016+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 36,
-  "3": 14,
-  "4": 11,
+  "2": 34,
+  "3": 13,
+  "4": 10,
   "5": 1
  },
  "watch_hits": [],
@@ -31,6 +31,16 @@
     "severity": 4,
     "confidence": "B1",
     "time": "2026-10-03T06:16:47+00:00"
+   },
+   {
+    "id": "f2353553635d",
+    "title": "UAE investigators say Omani Flydubai co-pilot was planning 'terrorist' attack",
+    "country": "UAE",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B2",
+    "time": "2026-10-03T06:17:45+00:00"
    },
    {
     "id": "a211e6271c2a",
@@ -71,16 +81,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-03T11:56:46+00:00"
-   },
-   {
-    "id": "f2353553635d",
-    "title": "UAE investigators say Omani Flydubai co-pilot was planning 'terrorist' attack",
-    "country": "UAE",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-03T06:17:45+00:00"
    },
    {
     "id": "e85a5d27d03d",
@@ -145,6 +145,26 @@
     "time": "2026-10-03T14:19:46+00:00"
    },
    {
+    "id": "e5688df03351",
+    "title": "Met launches murder inquiry after man shot dead at London memorial service",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-03T22:04:08+00:00"
+   },
+   {
+    "id": "817ee821c542",
+    "title": "France arrests 5,000 people, mostly teens, as school protests spread",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-03T21:57:35+00:00"
+   },
+   {
     "id": "717a0aefda27",
     "title": "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
     "country": "Spain",
@@ -153,26 +173,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-03T13:20:35+00:00"
-   },
-   {
-    "id": "23fdcd6c6e58",
-    "title": "French high school engulfed in flames as student protests continue",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T12:59:27+00:00"
-   },
-   {
-    "id": "735db06fe9eb",
-    "title": "Protesters across Spain demand action over housing crisis",
-    "country": "Spain",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T11:35:48+00:00"
    }
   ],
   "North America": [
@@ -187,6 +187,16 @@
     "time": "2026-10-03T07:00:35+00:00"
    },
    {
+    "id": "f5c0e174b71d",
+    "title": "M4.5 earthquake, 121 km SW of Puerto Madero, Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T20:33:45.577000+00:00"
+   },
+   {
     "id": "817d6b60f8ff",
     "title": "Cyclospora found at Mexican farm linked to lettuce outbreak, FDA says",
     "country": "Mexico",
@@ -195,88 +205,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-03T00:27:28+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "081a242bcc8a",
-    "title": "Embassies not planning to evacuate Kyiv amid Russia's bombardment, Foreign Ministry confirms",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-02T20:56:20+00:00"
-   },
-   {
-    "id": "243210a5ef80",
-    "title": "5 Russian missiles and drones exploded on Moldova's territory in overnight attack against Ukraine, Sandu says",
-    "country": "Moldova",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-03T10:03:27+00:00"
-   },
-   {
-    "id": "23aaa0fcd487",
-    "title": "General Staff: Russia has lost 1,538,950 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-03T06:59:56+00:00"
-   },
-   {
-    "id": "9ba5675524b5",
-    "title": "4 injured in Kyiv Oblast as Russian drones reportedly strike pharmaceutical warehouse",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-03T03:38:43+00:00"
-   },
-   {
-    "id": "5aa42f21f839",
-    "title": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
-    "country": "Bosnia & Herzegovina",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T07:57:53+00:00"
-   },
-   {
-    "id": "be8ae090d954",
-    "title": "M5.0 earthquake, 163 km SE of Petropavlovsk-Kamchatsky, Russia",
-    "country": "Russia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T02:59:06.296000+00:00"
-   },
-   {
-    "id": "32bbc17aefb2",
-    "title": "M4.6 earthquake, 46 km SSW of Paratunka, Russia",
-    "country": "Russia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T20:37:48.318000+00:00"
-   },
-   {
-    "id": "73cee91969ac",
-    "title": "M4.9 earthquake, 136 km SSE of Vilyuchinsk, Russia",
-    "country": "Russia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T20:25:29.894000+00:00"
    }
   ],
   "East & SE Asia": [
@@ -349,16 +277,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-03T00:11:38.239000+00:00"
-   },
-   {
-    "id": "8f515f05edc3",
-    "title": "M4.5 earthquake, 86 km E of Noda, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T20:34:56.862000+00:00"
    }
   ],
   "South Asia": [
@@ -425,16 +343,6 @@
     "time": "2026-10-03T07:58:45+00:00"
    },
    {
-    "id": "904c900bd956",
-    "title": "Ethiopian army pushes back Tigrayan rebels",
-    "country": "Ethiopia",
-    "city": "Addis Ababa",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-02T20:46:00+00:00"
-   },
-   {
     "id": "9fd5e576e3b6",
     "title": "Green forest fire notification in The Democratic Republic of Congo",
     "country": "DRC",
@@ -473,9 +381,101 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-03T11:01:09+00:00"
+   },
+   {
+    "id": "64b3d936e6a4",
+    "title": "Green forest fire notification in Angola",
+    "country": "Angola",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T23:03:04+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "243210a5ef80",
+    "title": "5 Russian missiles and drones exploded on Moldova's territory in overnight attack against Ukraine, Sandu says",
+    "country": "Moldova",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-03T10:03:27+00:00"
+   },
+   {
+    "id": "23aaa0fcd487",
+    "title": "General Staff: Russia has lost 1,538,950 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-03T06:59:56+00:00"
+   },
+   {
+    "id": "9ba5675524b5",
+    "title": "4 injured in Kyiv Oblast as Russian drones reportedly strike pharmaceutical warehouse",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-03T03:38:43+00:00"
+   },
+   {
+    "id": "3bd37ca1d13d",
+    "title": "M5.1 earthquake, 182 km SSE of Vilyuchinsk, Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T20:00:44.104000+00:00"
+   },
+   {
+    "id": "5aa42f21f839",
+    "title": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
+    "country": "Bosnia & Herzegovina",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-03T07:57:53+00:00"
+   },
+   {
+    "id": "be8ae090d954",
+    "title": "M5.0 earthquake, 163 km SE of Petropavlovsk-Kamchatsky, Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T02:59:06.296000+00:00"
+   },
+   {
+    "id": "85b64ebcb88e",
+    "title": "M4.7 earthquake, 153 km SSE of Vilyuchinsk, Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T23:54:13.503000+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "78e34d65814f",
+    "title": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
+    "country": "Brazil",
+    "city": "Sao Paulo",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-03T20:16:01+00:00"
+   },
    {
     "id": "f6b4f81579f3",
     "title": "Brazil’s Lula and Bolsonaro draw thousands as campaigns near end",
@@ -485,16 +485,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-03T04:43:15+00:00"
-   },
-   {
-    "id": "4d384ea8df8c",
-    "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
-    "country": "Brazil",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-02T21:12:29+00:00"
    },
    {
     "id": "7018e2ea8c00",
