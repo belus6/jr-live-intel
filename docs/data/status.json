@@ -1,69 +1,69 @@
 {
- "generated": "2026-10-03T00:57:05.130683+00:00",
+ "generated": "2026-10-03T01:15:07.964179+00:00",
  "sources": [
   {
    "id": "us-state-advisories",
    "name": "U.S. State Department travel advisories",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "note": "ok",
-   "secs": 0.1
+   "secs": 3.2
   },
   {
    "id": "uk-fcdo",
    "name": "UK FCDO travel advice updates",
    "ok": true,
-   "items": 0,
-   "note": "no fixture",
-   "secs": 0.0
+   "items": 20,
+   "note": "ok",
+   "secs": 0.3
   },
   {
    "id": "cdc-notices",
    "name": "CDC travel health notices",
    "ok": true,
-   "items": 0,
-   "note": "no fixture",
-   "secs": 0.0
+   "items": 1,
+   "note": "ok",
+   "secs": 0.3
   },
   {
    "id": "usgs-quakes",
    "name": "USGS earthquakes M4.5+",
    "ok": true,
-   "items": 1,
+   "items": 19,
    "note": "ok",
-   "secs": 0.0
+   "secs": 0.1
   },
   {
    "id": "gdacs",
    "name": "GDACS disaster alerts",
    "ok": true,
-   "items": 1,
+   "items": 47,
    "note": "ok",
-   "secs": 0.0
+   "secs": 3.3
   },
   {
    "id": "reliefweb",
    "name": "ReliefWeb updates",
    "ok": true,
    "items": 0,
-   "note": "no fixture",
-   "secs": 0.0
+   "note": "ok",
+   "secs": 0.3
   },
   {
    "id": "un-news",
    "name": "UN News",
    "ok": true,
-   "items": 0,
-   "note": "no fixture",
-   "secs": 0.0
+   "items": 5,
+   "note": "ok",
+   "secs": 0.5
   },
   {
    "id": "bbc-world",
    "name": "BBC World",
    "ok": true,
-   "items": 2,
+   "items": 5,
    "note": "ok",
-   "secs": 0.0
+   "secs": 0.3
   },
   {
    "id": "aljazeera",
@@ -71,79 +71,76 @@
    "ok": true,
    "items": 2,
    "note": "ok",
-   "secs": 0.0
+   "secs": 0.3
   },
   {
    "id": "france24",
    "name": "France 24",
    "ok": true,
-   "items": 1,
+   "items": 12,
    "note": "ok",
-   "secs": 0.0
+   "secs": 0.4
   },
   {
    "id": "dw",
    "name": "Deutsche Welle",
    "ok": true,
-   "items": 0,
-   "note": "no fixture",
-   "secs": 0.0
+   "items": 3,
+   "note": "ok",
+   "secs": 0.6
   },
   {
    "id": "guardian-world",
    "name": "The Guardian World",
    "ok": true,
-   "items": 0,
-   "note": "no fixture",
-   "secs": 0.0
+   "items": 14,
+   "note": "ok",
+   "secs": 0.8
   },
   {
    "id": "npr-world",
    "name": "NPR World",
    "ok": true,
-   "items": 0,
-   "note": "no fixture",
-   "secs": 0.0
+   "items": 1,
+   "note": "ok",
+   "secs": 0.3
   },
   {
    "id": "africanews",
    "name": "Africanews",
    "ok": true,
-   "items": 0,
-   "note": "no fixture",
-   "secs": 0.0
+   "items": 8,
+   "note": "ok",
+   "secs": 0.3
   },
   {
    "id": "kyiv-independent",
    "name": "Kyiv Independent",
    "ok": true,
-   "items": 0,
-   "note": "no fixture",
-   "secs": 0.0
+   "items": 8,
+   "note": "ok",
+   "secs": 0.3
   },
   {
    "id": "times-of-israel",
    "name": "Times of Israel",
-   "ok": true,
+   "ok": false,
    "items": 0,
-   "note": "no fixture",
-   "secs": 0.0
+   "note": "403 Client Error: Forbidden for url: https://www.timesofisrael.com/feed/"
   },
   {
    "id": "gdelt-security",
    "name": "GDELT security events (English)",
-   "ok": true,
-   "items": 2,
-   "note": "ok",
-   "secs": 0.0
+   "ok": false,
+   "items": 0,
+   "note": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28protest%20OR%20airstrike%20OR%20explosion%20OR%20%22gunmen%22%"
   },
   {
    "id": "gdelt-unrest-es-fr",
    "name": "GDELT unrest (Spanish and French)",
-   "ok": true,
+   "ok": false,
    "items": 0,
-   "note": "no fixture",
-   "secs": 0.0
+   "note": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28protesta%20OR%20manifestaci%C3%B3n%20OR%20bloqueo%20OR%20manif"
   }
  ]
 }

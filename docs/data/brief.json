@@ -1,109 +1,626 @@
 {
- "generated": "2026-10-03T00:57:05.130683+00:00",
- "sample": true,
+ "generated": "2026-10-03T01:15:07.964179+00:00",
+ "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 3,
-  "3": 1,
-  "4": 3,
-  "5": 1
+  "2": 46,
+  "3": 14,
+  "4": 6,
+  "5": 2
  },
  "watch_hits": [
-  "cd0075b71cd3",
-  "10e012f98ee9",
-  "3eefcff35d1b",
-  "a3957bea9acf"
+  "4172218f6898"
  ],
  "regions": {
   "Middle East & N. Africa": [
    {
-    "id": "cd0075b71cd3",
-    "title": "Israeli air strikes hit southern Lebanon, 12 killed",
-    "country": "Lebanon",
+    "id": "d2b2311a82a3",
+    "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+    "country": "Yemen",
     "city": null,
     "category": "conflict",
     "severity": 5,
-    "confidence": "B2",
-    "time": "2026-10-02T19:47:32+00:00"
+    "confidence": "B3",
+    "time": "2026-10-03T00:00:00+00:00"
    },
    {
-    "id": "10e012f98ee9",
-    "title": "Drone attack reported near Dubai port, flights briefly suspended",
-    "country": "UAE",
-    "city": "Dubai",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-02T23:47:32+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "a7e9c023aaf2",
-    "title": "Orange flood alert in Bangladesh",
-    "country": "Bangladesh",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-02T18:47:32+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "431f020c6079",
-    "title": "M6.3 earthquake, 45 km SW of Padang, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-02T17:47:32.395000+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "2dee048f1ff9",
-    "title": "Gunmen kidnap aid workers in northern Mali",
-    "country": "Mali",
+    "id": "e85a5d27d03d",
+    "title": "Two Iranian men charged over alleged terror plot targeting Manchester’s Jewish community",
+    "country": "Iran",
     "city": null,
     "category": "terrorism",
     "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-02T16:47:32+00:00"
+    "time": "2026-10-02T22:52:01+00:00"
    },
    {
-    "id": "a3957bea9acf",
-    "title": "Thousands protest in Nairobi over new finance bill as police fire tear gas",
-    "country": "Kenya",
-    "city": "Nairobi",
+    "id": "4172218f6898",
+    "title": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
+    "country": "UAE",
+    "city": "Dubai",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-02T15:40:05+00:00"
+   },
+   {
+    "id": "8637af7b90b2",
+    "title": "Escalating fighting in Yemen deepens food security crisis",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-02T12:00:00+00:00"
+   },
+   {
+    "id": "59de51494158",
+    "title": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+    "country": "Israel",
+    "city": "Tel Aviv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-02T08:39:40+00:00"
+   },
+   {
+    "id": "24f578776c30",
+    "title": "Turkey: Stock market scandal hits half a million investors",
+    "country": "Turkey",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-02T04:32:00+00:00"
+   },
+   {
+    "id": "990594c3a766",
+    "title": "Libya's pay strike rallies teachers across divided nation",
+    "country": "Libya",
+    "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-02T21:47:32+00:00"
+    "confidence": "C4",
+    "time": "2026-10-02T08:41:32+00:00"
    },
    {
-    "id": "21e2977aca67",
-    "title": "Uganda - Level 2: Exercise Increased Caution",
-    "country": "Uganda",
+    "id": "aa3d0b8edade",
+    "title": "Green flood alert in Islamic Republic of Iran",
+    "country": "Iran",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T06:25:28+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "b8c8b30aa4b4",
+    "title": "At least 5,700 killed, wounded in Haiti gang crisis this year: UN",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 5,
+    "confidence": "C4",
+    "time": "2026-10-02T18:54:19+00:00"
+   },
+   {
+    "id": "fe27128e63d9",
+    "title": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-02T02:00:07+00:00"
+   },
+   {
+    "id": "4d384ea8df8c",
+    "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
+    "country": "Brazil",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T21:12:29+00:00"
+   },
+   {
+    "id": "425a9f1b81f2",
+    "title": "M5.0 earthquake, 26 km SSW of Güiria, Venezuela",
+    "country": "Venezuela",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T16:31:25.762000+00:00"
+   },
+   {
+    "id": "51a71c5ed6b5",
+    "title": "Ecuador",
+    "country": "Ecuador",
     "city": null,
     "category": "advisory",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-02T04:47:32+00:00"
+    "time": "2026-10-02T15:26:29+00:00"
+   },
+   {
+    "id": "16312bb53c2b",
+    "title": "Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T15:16:39+00:00"
+   },
+   {
+    "id": "6695ec5948d5",
+    "title": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecurity in the Middle East",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T12:00:00+00:00"
+   },
+   {
+    "id": "5f90fd2ac10d",
+    "title": "Level 1 - Global Dengue",
+    "country": "Colombia",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T04:00:00+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "081a242bcc8a",
+    "title": "Embassies not planning to evacuate Kyiv amid Russia's bombardment, Foreign Ministry confirms",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-02T20:56:20+00:00"
+   },
+   {
+    "id": "69b2ad54974b",
+    "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-02T14:50:59+00:00"
+   },
+   {
+    "id": "f4f6a98c1b93",
+    "title": "Ukraine war latest: Russia takes aim at key Kyiv bridge for second day",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-02T17:59:03+00:00"
+   },
+   {
+    "id": "9c5a313fcf5b",
+    "title": "M5.8 earthquake, 165 km SSE of Vilyuchinsk, Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-02T16:34:41.010000+00:00"
+   },
+   {
+    "id": "b2df60fa69f8",
+    "title": "Russian soldiers 'had to drink urine to survive' after being abandoned by commanders, POWs say",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-02T16:04:53+00:00"
+   },
+   {
+    "id": "428128b1c6ac",
+    "title": "Russian Mi-8 helicopter reportedly shot down in friendly-fire incident over Voronezh Oblast",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-02T15:40:18+00:00"
+   },
+   {
+    "id": "abc17a7be1dd",
+    "title": "Ukraine aims to produce up to 400 interceptor drones as Russian jet-powered drone use grows, Zelensky says",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-02T12:33:55+00:00"
+   },
+   {
+    "id": "31bb0177891e",
+    "title": "Ukraine returned 41 civilians from occupied territories through Volyn border crossing in August and September, says ombudsman",
+    "country": "Ukraine",
+    "city": null,
+    "category": "transport",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-02T17:23:39+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "487abc27c3e0",
+    "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
+    "country": "Ireland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-02T05:45:23+00:00"
+   },
+   {
+    "id": "1f968d16c144",
+    "title": "UK sanctions 7 Russians over deportation, indoctrination of Ukrainian children",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-02T13:58:41+00:00"
+   },
+   {
+    "id": "d5e1c029219e",
+    "title": "Students and police clash as France struggles to quell school protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-02T13:40:56+00:00"
+   },
+   {
+    "id": "28fb2c1bfd8b",
+    "title": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T21:37:11+00:00"
+   },
+   {
+    "id": "14f1e7cf3821",
+    "title": "French Unrest: Are we witnessing a new 'Yellow Vests' movement?",
+    "country": "France",
+    "city": "Marseille",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T18:54:00+00:00"
+   },
+   {
+    "id": "094066d3e671",
+    "title": "Spain's parliament rejects housing bill as protests continue",
+    "country": "Spain",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T16:39:00+00:00"
+   },
+   {
+    "id": "ccc33b23ced5",
+    "title": "Spanish right wing votes down housing crisis plans as protest movement grows",
+    "country": "Spain",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T16:27:47+00:00"
+   },
+   {
+    "id": "1bc779b2c964",
+    "title": "G7 to release 100m barrels from reserves to combat surging diesel prices – as it happened",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T16:11:12+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "b0ebf637ded0",
+    "title": "North Korea fires ballistic missile towards the sea, South Korea says",
+    "country": "North Korea",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-02T23:55:24+00:00"
+   },
+   {
+    "id": "f06c150c4a47",
+    "title": "M4.6 earthquake, 67 km ESE of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T20:26:02.878000+00:00"
+   },
+   {
+    "id": "1070d30a828e",
+    "title": "M4.8 earthquake, 78 km WSW of San Nicolas, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T15:10:19.729000+00:00"
+   },
+   {
+    "id": "ae28b4d39e68",
+    "title": "Green flood alert in Thailand",
+    "country": "Thailand",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T12:59:16+00:00"
+   },
+   {
+    "id": "69e5381f4f90",
+    "title": "M4.5 earthquake, 101 km NE of Ruteng, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T06:48:06.954000+00:00"
+   },
+   {
+    "id": "f72c7f4c1b6f",
+    "title": "M4.8 earthquake, 192 km WNW of Tobelo, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T05:38:55.084000+00:00"
+   },
+   {
+    "id": "aa146550fa12",
+    "title": "M4.9 earthquake, 97 km S of Panguna, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T04:10:58.487000+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "904c900bd956",
+    "title": "Ethiopian army pushes back Tigrayan rebels",
+    "country": "Ethiopia",
+    "city": "Addis Ababa",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-02T20:46:00+00:00"
+   },
+   {
+    "id": "de5398f63d17",
+    "title": "Guinea-Bissau junta blocks Embaló’s planned return, citing security concerns",
+    "country": "Guinea-Bissau",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-02T07:52:03+00:00"
+   },
+   {
+    "id": "3ed0f133d957",
+    "title": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies",
+    "country": "Eritrea",
+    "city": "Asmara",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-02T07:43:58+00:00"
+   },
+   {
+    "id": "64b3d936e6a4",
+    "title": "Green forest fire notification in Angola",
+    "country": "Angola",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T23:03:04+00:00"
+   },
+   {
+    "id": "fa0b3122c296",
+    "title": "On the run for 20 years, Ugandan warlord Kony still 'active' within the Lord's Resistance Army",
+    "country": "CAR",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T19:31:27+00:00"
+   },
+   {
+    "id": "f35e09f7f2bb",
+    "title": "Mobile labs speed up Ebola testing in eastern DR Congo",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-02T11:06:18+00:00"
    }
   ],
   "North America": [
    {
-    "id": "3eefcff35d1b",
-    "title": "Mexico City: road blockades by farmers snarl traffic on airport route",
+    "id": "493b28c7b4ea",
+    "title": "Washington should pay attention to Ukraine's new robotic counteroffensive",
+    "country": "United States",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-02T18:47:12+00:00"
+   },
+   {
+    "id": "817d6b60f8ff",
+    "title": "Cyclospora found at Mexican farm linked to lettuce outbreak, FDA says",
     "country": "Mexico",
-    "city": "Mexico City",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-03T00:27:28+00:00"
+   },
+   {
+    "id": "9288a3b6c31a",
+    "title": "The Cornell 7: Allegations spark fury over gang rape culture",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T14:39:34+00:00"
+   },
+   {
+    "id": "6519e5825c7a",
+    "title": "What the media got right and wrong about Cornell gang rape case",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T13:53:28+00:00"
+   },
+   {
+    "id": "33cd8cbd893e",
+    "title": "M4.8 earthquake, 35 km SSW of El Colomo, Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T06:53:35.007000+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "30d8bb45d086",
+    "title": "Magnitude 4.8 earthquake hits Victoria with tremors felt across Melbourne",
+    "country": "Australia",
+    "city": "Melbourne",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-03T00:23:49+00:00"
+   },
+   {
+    "id": "b1b8ca69a7ff",
+    "title": "M4.7 earthquake, 5 km NNE of Korumburra, Australia",
+    "country": "Australia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T16:01:39.581000+00:00"
+   },
+   {
+    "id": "96a7d365a1fd",
+    "title": "M5.0 earthquake, 6 km E of Inglewood, New Zealand",
+    "country": "New Zealand",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T13:57:15.838000+00:00"
+   },
+   {
+    "id": "9ad6605069ba",
+    "title": "OpenAI disclose another hack on government department in Australia",
+    "country": "Australia",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T10:00:05+00:00"
+   },
+   {
+    "id": "8336f8a7dc94",
+    "title": "M5.1 earthquake, 159 km SE of Gizo, Solomon Islands",
+    "country": "Solomon Islands",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T04:44:53.423000+00:00"
+   },
+   {
+    "id": "ce6034589ae0",
+    "title": "M5.0 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T04:27:05.754000+00:00"
+   }
+  ],
+  "Central Asia": [
+   {
+    "id": "b9a326c1c8f4",
+    "title": "Green forest fire notification in Kazakhstan",
+    "country": "Kazakhstan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T23:00:49+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "9ce3904014d2",
+    "title": "'Make our streets safer!' Mass women's protests sweep India over sexual violence",
+    "country": "India",
+    "city": "Delhi",
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-02T23:47:32+00:00"
+    "time": "2026-10-02T14:57:07+00:00"
+   },
+   {
+    "id": "e09e2540e162",
+    "title": "India’s Cockroach movement launches new protests over changes to voter roll",
+    "country": "India",
+    "city": "Mumbai",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T14:42:16+00:00"
    }
   ]
  }
