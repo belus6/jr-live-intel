@@ -1,0 +1,249 @@
+{
+ "generated": "2026-10-03T00:57:05.130683+00:00",
+ "sample": true,
+ "count": 8,
+ "events": [
+  {
+   "title": "Israeli air strikes hit southern Lebanon, 12 killed",
+   "summary": "",
+   "url": "https://example.org/bbc/2",
+   "time": "2026-10-02T19:47:32+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Lebanon",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://example.org/bbc/2",
+     "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://example.org/aj/1",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T00:57:05.130683+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "cd0075b71cd3",
+   "flag": "🇱🇧",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.29,
+   "watch": [
+    "Field staff, Lebanon"
+   ]
+  },
+  {
+   "title": "Orange flood alert in Bangladesh",
+   "summary": "Flooding affecting 200000 people",
+   "url": "https://www.gdacs.org/x",
+   "time": "2026-10-02T18:47:32+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Bangladesh",
+   "city": null,
+   "lat": 23.7,
+   "lon": 90.4,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/x",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-03T00:57:05.130683+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "a7e9c023aaf2",
+   "flag": "🇧🇩",
+   "region": "South Asia",
+   "baseline": 3.12,
+   "watch": []
+  },
+  {
+   "title": "M6.3 earthquake, 45 km SW of Padang, Indonesia",
+   "summary": "Depth 30 km. Alert: yellow.",
+   "url": "https://earthquake.usgs.gov/x",
+   "time": "2026-10-02T17:47:32.395000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -1.2,
+   "lon": 100.1,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/x",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-03T00:57:05.130683+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "431f020c6079",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "Gunmen kidnap aid workers in northern Mali",
+   "summary": "",
+   "url": "https://example.org/aj/2",
+   "time": "2026-10-02T16:47:32+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Mali",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://example.org/aj/2",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T00:57:05.130683+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2dee048f1ff9",
+   "flag": "🇲🇱",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.62,
+   "watch": []
+  },
+  {
+   "title": "Drone attack reported near Dubai port, flights briefly suspended",
+   "summary": "",
+   "url": "https://example.org/gd/2",
+   "time": "2026-10-02T23:47:32+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "UAE",
+   "city": "Dubai",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "thenationalnews.com (via GDELT)",
+     "url": "https://example.org/gd/2",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-03T00:57:05.130683+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "10e012f98ee9",
+   "flag": "🇦🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.53,
+   "watch": [
+    "Partner office, Dubai"
+   ]
+  },
+  {
+   "title": "Mexico City: road blockades by farmers snarl traffic on airport route",
+   "summary": "",
+   "url": "https://example.org/f24/1",
+   "time": "2026-10-02T23:47:32+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Mexico",
+   "city": "Mexico City",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://example.org/f24/1",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-03T00:57:05.130683+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3eefcff35d1b",
+   "flag": "🇲🇽",
+   "region": "North America",
+   "baseline": 3.32,
+   "watch": [
+    "Exec visit, Mexico City"
+   ]
+  },
+  {
+   "title": "Thousands protest in Nairobi over new finance bill as police fire tear gas",
+   "summary": "",
+   "url": "https://example.org/bbc/1",
+   "time": "2026-10-02T21:47:32+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Kenya",
+   "city": "Nairobi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://example.org/bbc/1",
+     "tier": "B"
+    },
+    {
+     "name": "nation.africa (via GDELT)",
+     "url": "https://example.org/gd/1",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-03T00:57:05.130683+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "a3957bea9acf",
+   "flag": "🇰🇪",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.97,
+   "watch": [
+    "Programme team, Nairobi"
+   ]
+  },
+  {
+   "title": "Uganda - Level 2: Exercise Increased Caution",
+   "summary": "Reissued after review.",
+   "url": "https://travel.state.gov/x",
+   "time": "2026-10-02T04:47:32+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Uganda",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/x",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-03T00:57:05.130683+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "21e2977aca67",
+   "flag": "🇺🇬",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.45,
+   "watch": []
+  }
+ ]
+}

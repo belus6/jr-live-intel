@@ -1,0 +1,9 @@
+{
+  "_readme": "Locations your travellers, staff or events are in. Any event in these places is flagged on the dashboard, and severity 4 or 5 events trigger the optional alert webhook. Leave city out to watch the whole country.",
+  "locations": [
+    {"label": "Exec visit, Mexico City", "country": "Mexico", "city": "Mexico City"},
+    {"label": "Programme team, Nairobi", "country": "Kenya", "city": "Nairobi"},
+    {"label": "Partner office, Dubai", "country": "UAE", "city": "Dubai"},
+    {"label": "Field staff, Lebanon", "country": "Lebanon"}
+  ]
+}

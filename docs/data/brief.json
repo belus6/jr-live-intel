@@ -1,0 +1,110 @@
+{
+ "generated": "2026-10-03T00:57:05.130683+00:00",
+ "sample": true,
+ "window_hours": 24,
+ "counts": {
+  "1": 0,
+  "2": 3,
+  "3": 1,
+  "4": 3,
+  "5": 1
+ },
+ "watch_hits": [
+  "cd0075b71cd3",
+  "10e012f98ee9",
+  "3eefcff35d1b",
+  "a3957bea9acf"
+ ],
+ "regions": {
+  "Middle East & N. Africa": [
+   {
+    "id": "cd0075b71cd3",
+    "title": "Israeli air strikes hit southern Lebanon, 12 killed",
+    "country": "Lebanon",
+    "city": null,
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "B2",
+    "time": "2026-10-02T19:47:32+00:00"
+   },
+   {
+    "id": "10e012f98ee9",
+    "title": "Drone attack reported near Dubai port, flights briefly suspended",
+    "country": "UAE",
+    "city": "Dubai",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-02T23:47:32+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "a7e9c023aaf2",
+    "title": "Orange flood alert in Bangladesh",
+    "country": "Bangladesh",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-02T18:47:32+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "431f020c6079",
+    "title": "M6.3 earthquake, 45 km SW of Padang, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-02T17:47:32.395000+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "2dee048f1ff9",
+    "title": "Gunmen kidnap aid workers in northern Mali",
+    "country": "Mali",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-02T16:47:32+00:00"
+   },
+   {
+    "id": "a3957bea9acf",
+    "title": "Thousands protest in Nairobi over new finance bill as police fire tear gas",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-02T21:47:32+00:00"
+   },
+   {
+    "id": "21e2977aca67",
+    "title": "Uganda - Level 2: Exercise Increased Caution",
+    "country": "Uganda",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-02T04:47:32+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "3eefcff35d1b",
+    "title": "Mexico City: road blockades by farmers snarl traffic on airport route",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-02T23:47:32+00:00"
+   }
+  ]
+ }
+}

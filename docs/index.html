@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Juniper Resilience · Live Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+<style>
+:root{color-scheme:light;--bg:#F0ECE6;--surface:#fff;--surface-2:#F7F4EF;--ink:#181312;--ink-2:#4a4440;--ink-3:#857d76;--line:#E3DDD4;
+--sage:#8FAF8A;--sage-deep:#4A7C59;--tint:#EAF2ED;--gold:#C8860A;--ocean:#0F1E36;--land:#2C3B55;
+--s1:#5E9E78;--s2:#2F5F8A;--s3:#D49A3A;--s4:#C96B45;--s5:#A94442;--r:14px}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:Manrope,system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+body{padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
+a{color:var(--sage-deep)}
+button,select,input{font-family:inherit}
+:focus-visible{outline:2px solid var(--sage-deep);outline-offset:2px}
+.wrap{max-width:1440px;margin:0 auto;padding:22px 28px 40px}
+header{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;margin-bottom:18px}
+.wordmark{font-size:13px;font-weight:700;letter-spacing:.32em}
+.wordmark span{color:#6F9668}
+.tagline{font-size:12px;color:var(--ink-3);margin-top:4px}
+h1{font-size:30px;font-weight:600;letter-spacing:-.02em;margin:10px 0 0}
+.head-r{display:flex;gap:10px;align-items:center;flex-wrap:wrap;font-size:13px;color:var(--ink-2)}
+.pill{display:inline-flex;align-items:center;gap:6px;padding:7px 12px;border-radius:999px;background:var(--surface);border:1px solid var(--line);font-size:12.5px;font-weight:600;color:var(--ink-2);text-decoration:none;cursor:pointer}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--s1)}
+.dot.warn{background:var(--s3)}
+.banner{background:#FFF6E3;border:1px solid #F0D9A8;color:#7a5a12;border-radius:var(--r);padding:10px 14px;font-size:13px;margin-bottom:14px}
+.tabs{display:flex;gap:6px;margin-bottom:14px}
+.tab{padding:9px 16px;border-radius:999px;border:1px solid var(--line);background:transparent;font-size:13px;font-weight:600;color:var(--ink-2);cursor:pointer}
+.tab.on{background:var(--ink);color:#F4EFE3;border-color:var(--ink)}
+.pulse-row{display:grid;grid-template-columns:repeat(5,1fr) 1.3fr;gap:8px;margin-bottom:14px}
+.cnt{background:var(--surface);border-radius:var(--r);padding:12px 14px;border:1px solid var(--line)}
+.cnt b{display:block;font-size:24px;font-weight:600;letter-spacing:-.02em}
+.cnt small{font-size:12px;color:var(--ink-3)}
+.cnt.watch{background:var(--ink);color:#F4EFE3;border-color:var(--ink)}
+.cnt.watch small{color:#c9c1b4}
+.grid{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(340px,1fr);gap:14px;align-items:start}
+.mapbox{background:var(--ocean);border-radius:var(--r);overflow:hidden;position:sticky;top:12px}
+#map{display:block;width:100%;height:auto}
+.legend{display:flex;gap:14px;flex-wrap:wrap;padding:10px 14px;background:#262626;color:#d7d2ca;font-size:12px}
+.legend i{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:-1px}
+.panel{background:var(--surface);border-radius:var(--r);border:1px solid var(--line)}
+.controls{padding:12px;display:flex;flex-wrap:wrap;gap:8px;border-bottom:1px solid var(--line)}
+.controls select,.controls input[type=search]{padding:8px 10px;border:1px solid var(--line);border-radius:10px;font-size:13px;background:var(--surface-2);color:var(--ink)}
+.controls input[type=search]{flex:1;min-width:140px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;padding:0 12px 12px;border-bottom:1px solid var(--line)}
+.chip{padding:6px 10px;border-radius:999px;border:1px solid var(--line);background:var(--surface);font-size:12px;font-weight:600;color:var(--ink-2);cursor:pointer}
+.chip.on{background:var(--tint);border-color:var(--sage);color:var(--sage-deep)}
+label.tog{display:flex;align-items:center;gap:6px;font-size:13px;color:var(--ink-2);padding:0 4px}
+.feed{max-height:calc(100vh - 260px);min-height:420px;overflow:auto}
+.ev{display:grid;grid-template-columns:44px 1fr;gap:12px;padding:13px 14px;border-bottom:1px solid var(--line);cursor:pointer;background:none;border-left:0;border-right:0;border-top:0;width:100%;text-align:left;color:inherit}
+.ev:hover{background:var(--surface-2)}
+.sev{width:44px;height:44px;border-radius:12px;display:flex;flex-direction:column;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:17px;line-height:1}
+.sev small{font-size:9.5px;font-weight:600;opacity:.85;margin-top:2px}
+.ev-place{font-size:12px;color:var(--ink-3);font-weight:600}
+.ev-title{font-size:14px;font-weight:600;margin:3px 0 5px;line-height:1.35}
+.ev-meta{display:flex;flex-wrap:wrap;gap:6px;font-size:11.5px;color:var(--ink-3);align-items:center}
+.tag{padding:2px 8px;border-radius:999px;background:var(--surface-2);border:1px solid var(--line);font-weight:600;color:var(--ink-2)}
+.tag.w{background:var(--ink);color:#F4EFE3;border-color:var(--ink)}
+.empty{padding:40px 20px;text-align:center;color:var(--ink-3);font-size:14px}
+.brief{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+.brief .panel{padding:16px}
+.brief h3{margin:0 0 10px;font-size:16px}
+.bi{padding:8px 0;border-top:1px solid var(--line);font-size:13px;display:flex;gap:10px;cursor:pointer}
+.bi:first-of-type{border-top:0}
+.bi .s{flex:0 0 26px;height:22px;border-radius:7px;color:#fff;font-weight:700;font-size:12px;display:flex;align-items:center;justify-content:center}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{font-size:12px;color:var(--ink-3);font-weight:600}
+.ov{position:fixed;inset:0;background:rgba(24,19,18,.45);display:none;align-items:center;justify-content:center;padding:20px;z-index:50}
+.ov.open{display:flex}
+.modal{background:var(--surface);border-radius:18px;max-width:640px;width:100%;max-height:88vh;overflow:auto}
+.mh{background:var(--ink);color:#F4EFE3;padding:18px 22px;display:flex;justify-content:space-between;gap:14px}
+.mh h2{margin:4px 0 0;font-size:19px;line-height:1.3}
+.mh small{color:#c9c1b4}
+.mb{padding:18px 22px;font-size:14px;line-height:1.55;color:var(--ink-2)}
+.mb h4{margin:16px 0 6px;font-size:13px;color:var(--ink)}
+.close{background:transparent;border:1px solid rgba(244,239,227,.35);color:#F4EFE3;border-radius:10px;padding:6px 12px;cursor:pointer;height:fit-content}
+.kv{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.kv div{background:var(--surface-2);border-radius:10px;padding:10px}
+.kv b{display:block;font-size:16px;color:var(--ink)}
+.kv small{font-size:11.5px;color:var(--ink-3)}
+@media (prefers-reduced-motion:no-preference){.pulse{animation:p 2.2s ease-out infinite}@keyframes p{0%{r:4;opacity:.7}100%{r:22;opacity:0}}}
+@media (max-width:980px){.grid{grid-template-columns:1fr}.mapbox{position:static}.pulse-row{grid-template-columns:repeat(3,1fr)}.feed{max-height:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div>
+    <div class="wordmark">JUNIPER <span>RESILIENCE</span></div>
+    <div class="tagline">Securing the Conditions for Impact</div>
+    <h1>Live intelligence</h1>
+  </div>
+  <div class="head-r">
+    <span id="upd">Loading feed</span>
+    <button class="pill" id="srcPill" onclick="show('sources')"><span class="dot" id="srcDot"></span><span id="srcTxt">Sources</span></button>
+    <a class="pill" href="matrix.html">Open risk matrix</a>
+  </div>
+</header>
+<div class="banner" id="sample" hidden>This is sample data generated for testing. The first scheduled run replaces it with live events.</div>
+<div class="tabs" role="tablist">
+  <button class="tab on" data-v="live" onclick="show('live')">Live feed</button>
+  <button class="tab" data-v="brief" onclick="show('brief')">Daily brief</button>
+  <button class="tab" data-v="sources" onclick="show('sources')">Sources</button>
+</div>
+
+<section id="v-live">
+  <div class="pulse-row" id="counts"></div>
+  <div class="grid">
+    <div class="mapbox">
+      <svg id="map" viewBox="0 0 960 500" role="img" aria-label="World map of current events"></svg>
+      <div class="legend"><span><i style="background:var(--s5)"></i>5 Critical</span><span><i style="background:var(--s4)"></i>4 High</span><span><i style="background:var(--s3)"></i>3 Elevated</span><span><i style="background:var(--s2)"></i>2 Moderate</span><span><i style="background:var(--s1)"></i>1 Low</span></div>
+    </div>
+    <div class="panel">
+      <div class="controls">
+        <input type="search" id="q" placeholder="Search place or keyword" oninput="render()">
+        <select id="win" onchange="render()"><option value="6">Last 6 hours</option><option value="24" selected>Last 24 hours</option><option value="48">Last 48 hours</option><option value="0">All active</option></select>
+        <select id="minsev" onchange="render()"><option value="1">All severities</option><option value="3">Severity 3 and up</option><option value="4">Severity 4 and up</option></select>
+        <select id="reg" onchange="render()"><option value="">All regions</option></select>
+        <label class="tog"><input type="checkbox" id="wo" onchange="render()"> Watchlist only</label>
+      </div>
+      <div class="chips" id="cats"></div>
+      <div class="feed" id="feed"></div>
+    </div>
+  </div>
+</section>
+
+<section id="v-brief" hidden><div class="brief" id="briefBox"></div></section>
+<section id="v-sources" hidden><div class="panel"><table><thead><tr><th>Source</th><th>Status</th><th>Items this run</th><th>Note</th></tr></thead><tbody id="srcBody"></tbody></table></div></section>
+</div>
+
+<div class="ov" id="ov" onclick="if(event.target===this)closeEv()"><div class="modal" role="dialog" aria-modal="true" id="modal"></div></div>
+
+<script>
+const SEVC={1:'var(--s1)',2:'var(--s2)',3:'var(--s3)',4:'var(--s4)',5:'var(--s5)'};
+const SEVL={1:'Low',2:'Moderate',3:'Elevated',4:'High',5:'Critical'};
+const CATL={conflict:'Armed conflict',terrorism:'Terrorism',unrest:'Protest and unrest',crime:'Crime',political:'Political',hazard:'Natural hazard',health:'Health',transport:'Transport disruption',cyber:'Cyber',advisory:'Travel advisory'};
+const REL={A:'official or government source',B:'established news organisation',C:'regional outlet or aggregator',D:'social media or unverified'};
+const CRED={1:'confirmed by an official source or three or more independent sources',2:'reported by two independent sources',3:'single established source, not yet corroborated',4:'single regional or aggregated report',5:'single unverified report'};
+const NAME_MAP={'United States of America':'United States','Dem. Rep. Congo':'DRC','Central African Rep.':'CAR',"Côte d'Ivoire":"Cote d'Ivoire",'Eq. Guinea':'Equatorial Guinea','S. Sudan':'South Sudan','Bosnia and Herz.':'Bosnia & Herzegovina','Dominican Rep.':'Dominican Republic','Trinidad and Tobago':'Trinidad & Tobago','Czechia':'Czech Republic','Congo':'Congo Republic','Solomon Is.':'Solomon Islands','United Arab Emirates':'UAE','Macedonia':'North Macedonia','North Macedonia':'North Macedonia','eSwatini':'Eswatini','W. Sahara':'Morocco','Somaliland':'Somalia'};
+let EV=[],BRIEF=null,STATUS=null,cats=new Set(),centroids={},proj,GEN=null;
+const ago=t=>{const m=Math.round((Date.now()-new Date(t))/60000);return m<60?m+' min ago':m<1440?Math.round(m/60)+' h ago':Math.round(m/1440)+' d ago'};
+const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+async function load(){
+  const bust='?t='+Date.now();
+  try{
+    const [e,b,s]=await Promise.all(['data/events.json','data/brief.json','data/status.json'].map(u=>fetch(u+bust).then(r=>{if(!r.ok)throw new Error(u);return r.json()})));
+    EV=e.events||[];BRIEF=b;STATUS=s;GEN=e.generated;
+    document.getElementById('sample').hidden=!e.sample;
+    document.getElementById('upd').textContent='Updated '+ago(e.generated);
+    const ok=s.sources.filter(x=>x.ok).length,n=s.sources.length;
+    document.getElementById('srcTxt').textContent=ok+' of '+n+' sources working';
+    document.getElementById('srcDot').className='dot'+(ok<n?' warn':'');
+    const regs=[...new Set(EV.map(x=>x.region))].sort();
+    document.getElementById('reg').innerHTML='<option value="">All regions</option>'+regs.map(r=>`<option>${esc(r)}</option>`).join('');
+    const cs=[...new Set(EV.map(x=>x.category))];
+    document.getElementById('cats').innerHTML=cs.map(c=>`<button class="chip" data-c="${c}" onclick="tc('${c}',this)">${CATL[c]||c}</button>`).join('');
+    render();renderBrief();renderSources();
+  }catch(err){
+    document.getElementById('feed').innerHTML='<div class="empty">The feed files could not be loaded. Open this page through its web address (GitHub Pages), not as a local file, and check that the workflow has run at least once.</div>';
+    document.getElementById('upd').textContent='Feed not loaded';
+  }
+}
+function tc(c,b){cats.has(c)?cats.delete(c):cats.add(c);b.classList.toggle('on');render();}
+function filtered(){
+  const q=document.getElementById('q').value.toLowerCase().trim(),win=+document.getElementById('win').value,ms=+document.getElementById('minsev').value,rg=document.getElementById('reg').value,wo=document.getElementById('wo').checked;
+  return EV.filter(e=>(!win||(Date.now()-new Date(e.time))/36e5<=win)&&e.severity>=ms&&(!rg||e.region===rg)&&(!cats.size||cats.has(e.category))&&(!wo||e.watch.length)&&(!q||(e.title+' '+e.country+' '+(e.city||'')).toLowerCase().includes(q)));
+}
+function render(){
+  const list=filtered(),last24=EV.filter(e=>(Date.now()-new Date(e.time))/36e5<=24);
+  document.getElementById('counts').innerHTML=[5,4,3,2,1].map(s=>`<div class="cnt"><b style="color:${SEVC[s]}">${last24.filter(e=>e.severity===s).length}</b><small>${SEVL[s]} in 24 hours</small></div>`).join('')+`<div class="cnt watch"><b>${EV.filter(e=>e.watch.length).length}</b><small>Events near watched locations</small></div>`;
+  document.getElementById('feed').innerHTML=list.length?list.map(e=>`<button class="ev" onclick="openEv('${e.id}')">
+    <div class="sev" style="background:${SEVC[e.severity]}">${e.severity}<small>${e.confidence}</small></div>
+    <div><div class="ev-place">${e.flag} ${esc(e.city?e.city+', '+e.country:e.country)}</div>
+    <div class="ev-title">${esc(e.title)}</div>
+    <div class="ev-meta"><span class="tag">${CATL[e.category]||e.category}</span><span>${ago(e.time)}</span><span>${e.corroboration} source${e.corroboration>1?'s':''}</span>${e.watch.map(w=>`<span class="tag w">${esc(w)}</span>`).join('')}</div></div></button>`).join(''):'<div class="empty">No events match these filters. Widen the time window or clear a filter.</div>';
+  drawPoints(list);
+}
+function openEv(id){
+  const e=EV.find(x=>x.id===id);if(!e)return;
+  const g=e.confidence;
+  document.getElementById('modal').innerHTML=`<div class="mh"><div><small>${e.flag} ${esc(e.city?e.city+', '+e.country:e.country)} · ${CATL[e.category]||e.category}</small><h2>${esc(e.title)}</h2></div><button class="close" onclick="closeEv()">Close</button></div>
+  <div class="mb">${e.summary?`<p>${esc(e.summary)}</p>`:''}
+  <div class="kv"><div><b style="color:${SEVC[e.severity]}">${e.severity} ${SEVL[e.severity]}</b><small>Severity</small></div><div><b>${g}</b><small>Confidence grade</small></div><div><b>${e.baseline.toFixed(2)}</b><small>Country baseline risk</small></div></div>
+  <h4>What the grade means</h4><p>${g[0]}: best source is ${REL[g[0]]}. ${g[1]}: ${CRED[g[1]]}.</p>
+  <h4>Sources</h4>${e.sources.map(s=>`<div><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a> <span style="color:var(--ink-3)">(${s.tier})</span></div>`).join('')}
+  <h4>When</h4><p>Reported ${new Date(e.time).toUTCString()} (${ago(e.time)}).</p>
+  ${e.watch.length?`<h4>Watched locations affected</h4><p>${e.watch.map(esc).join(', ')}</p>`:''}
+  <p style="font-size:12.5px;color:var(--ink-3)">Automatically collected and scored. Confirm with the original source before acting, especially for grades 4 and 5.</p></div>`;
+  document.getElementById('ov').classList.add('open');
+}
+function closeEv(){document.getElementById('ov').classList.remove('open')}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeEv()});
+function renderBrief(){
+  const box=document.getElementById('briefBox');
+  if(!BRIEF||!Object.keys(BRIEF.regions).length){box.innerHTML='<div class="panel empty">No events in the last 24 hours.</div>';return;}
+  box.innerHTML=Object.entries(BRIEF.regions).sort((a,b)=>Math.max(...b[1].map(x=>x.severity))-Math.max(...a[1].map(x=>x.severity))).map(([r,items])=>`<div class="panel"><h3>${esc(r)}</h3>${items.map(i=>`<div class="bi" onclick="openEv('${i.id}')"><span class="s" style="background:${SEVC[i.severity]}">${i.severity}</span><span><b>${esc(i.city||i.country)}</b> ${esc(i.title)} <span style="color:var(--ink-3)">· ${i.confidence}</span></span></div>`).join('')}</div>`).join('');
+}
+function renderSources(){
+  document.getElementById('srcBody').innerHTML=STATUS.sources.map(s=>`<tr><td>${esc(s.name)}</td><td>${s.ok?'Working':'<b style="color:var(--s5)">Failed</b>'}</td><td>${s.items}</td><td style="color:var(--ink-3)">${esc(s.note)}</td></tr>`).join('');
+}
+function show(v){document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('on',t.dataset.v===v));['live','brief','sources'].forEach(x=>document.getElementById('v-'+x).hidden=x!==v);}
+
+// map
+const svg=d3.select('#map');let gPts;
+async function drawMap(){
+  proj=d3.geoNaturalEarth1().scale(170).translate([480,265]);
+  const path=d3.geoPath(proj);
+  try{
+    const w=await fetch('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json').then(r=>r.json());
+    const feats=topojson.feature(w,w.objects.countries).features;
+    svg.append('g').selectAll('path').data(feats).join('path').attr('d',path).attr('fill','var(--land)').attr('stroke','#0F1E36').attr('stroke-width',.5);
+    feats.forEach(f=>{const n=f.properties.name;centroids[NAME_MAP[n]||n]=d3.geoCentroid(f)});
+  }catch(e){}
+  gPts=svg.append('g');
+  render();
+}
+function hashJ(id,k){let h=0;for(const c of id+k)h=(h*31+c.charCodeAt(0))|0;return ((h%1000)/1000-.5)*2.2}
+function drawPoints(list){
+  if(!gPts||!proj)return;
+  const pts=list.map(e=>{const c=e.lat!=null?[e.lon,e.lat]:centroids[e.country]?[centroids[e.country][0]+hashJ(e.id,'x'),centroids[e.country][1]+hashJ(e.id,'y')]:null;if(!c)return null;const p=proj(c);return p?{e,x:p[0],y:p[1]}:null}).filter(Boolean).sort((a,b)=>a.e.severity-b.e.severity);
+  gPts.selectAll('*').remove();
+  pts.filter(p=>p.e.severity>=4&&(Date.now()-new Date(p.e.time))/36e5<6).forEach(p=>gPts.append('circle').attr('class','pulse').attr('cx',p.x).attr('cy',p.y).attr('r',4).attr('fill','none').attr('stroke',SEVC[p.e.severity]).attr('stroke-width',2));
+  gPts.selectAll('circle.pt').data(pts).join('circle').attr('class','pt').attr('cx',d=>d.x).attr('cy',d=>d.y).attr('r',d=>3+d.e.severity*1.4).attr('fill',d=>SEVC[d.e.severity]).attr('stroke',d=>d.e.watch.length?'#fff':'rgba(0,0,0,.35)').attr('stroke-width',d=>d.e.watch.length?2:1).style('cursor','pointer')
+    .on('click',(ev,d)=>openEv(d.e.id)).append('title').text(d=>`${d.e.severity} · ${d.e.city||d.e.country}: ${d.e.title}`);
+}
+drawMap();load();setInterval(load,5*60*1000);
+</script>
+</body>
+</html>
