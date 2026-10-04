@@ -1,16 +1,58 @@
 {
- "generated": "2026-10-04T17:52:08.352266+00:00",
+ "generated": "2026-10-04T20:56:33.239017+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
-  "1": 0,
-  "2": 36,
-  "3": 25,
+  "1": 1,
+  "2": 38,
+  "3": 26,
   "4": 4,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
+  "Latin America & Caribbean": [
+   {
+    "id": "9f0d8c524226",
+    "title": "Brazil presidential election 2026: first-round live results",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "B2",
+    "time": "2026-10-04T19:01:28+00:00"
+   },
+   {
+    "id": "336739524f36",
+    "title": "Brazil goes to polls in decisive election for future of Latin America",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-04T08:53:01+00:00"
+   },
+   {
+    "id": "f4076f3f8fa9",
+    "title": "M5.0 earthquake, 295 km S of Burica, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-04T14:06:10.385000+00:00"
+   },
+   {
+    "id": "1a3234e3f66f",
+    "title": "Brazil polls open in a few hours",
+    "country": "Brazil",
+    "city": "Sao Paulo",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-04T08:25:26+00:00"
+   }
+  ],
   "Middle East & N. Africa": [
    {
     "id": "dec00c17caac",
@@ -21,16 +63,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-04T15:16:03+00:00"
-   },
-   {
-    "id": "a211e6271c2a",
-    "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
-    "country": "Algeria",
-    "city": "Algiers",
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-03T18:03:08+00:00"
    },
    {
     "id": "1a3e7e8a4e92",
@@ -83,6 +115,16 @@
     "time": "2026-10-04T12:48:50+00:00"
    },
    {
+    "id": "59a7e57e6e26",
+    "title": "Ethiopian federal forces control Tigray capital as regional rivals meet in Egypt",
+    "country": "Egypt",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-04T10:22:43+00:00"
+   },
+   {
     "id": "496c0cfd35ea",
     "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
     "country": "Saudi Arabia",
@@ -91,48 +133,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-04T03:33:49+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "336739524f36",
-    "title": "Brazil goes to polls in decisive election for future of Latin America",
-    "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-04T08:53:01+00:00"
-   },
-   {
-    "id": "f4076f3f8fa9",
-    "title": "M5.0 earthquake, 295 km S of Burica, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-04T14:06:10.385000+00:00"
-   },
-   {
-    "id": "1a3234e3f66f",
-    "title": "Brazil polls open in a few hours",
-    "country": "Brazil",
-    "city": "Sao Paulo",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T08:25:26+00:00"
-   },
-   {
-    "id": "78e34d65814f",
-    "title": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
-    "country": "Brazil",
-    "city": "Sao Paulo",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T20:16:01+00:00"
    }
   ],
   "Oceania": [
@@ -241,6 +241,16 @@
     "time": "2026-10-04T09:52:14+00:00"
    },
    {
+    "id": "f0140e6307b6",
+    "title": "Merz unveils new aid for Ukraine as Russia strikes Kyiv during German leader's visit",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-04T08:38:43+00:00"
+   },
+   {
     "id": "128d5350d541",
     "title": "'Very dangerous moment' — Russia sharing jet-powered drone tech with North Korea, Zelensky says",
     "country": "Russia",
@@ -299,16 +309,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-04T09:14:04+00:00"
-   },
-   {
-    "id": "eb8c6250ca01",
-    "title": "General Staff: Russia has lost 1,540,700 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-04T08:08:12+00:00"
    }
   ],
   "Western Europe": [
@@ -321,6 +321,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-04T15:23:26+00:00"
+   },
+   {
+    "id": "824575f18a8b",
+    "title": "Hundreds of schools to shut Monday as France braces for more student protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-04T12:50:45+00:00"
    },
    {
     "id": "4c393fc41180",
@@ -381,16 +391,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-03T22:04:08+00:00"
-   },
-   {
-    "id": "817ee821c542",
-    "title": "France arrests 5,000 people, mostly teens, as school protests spread",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T21:57:35+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -415,6 +415,16 @@
     "time": "2026-10-04T01:41:28+00:00"
    },
    {
+    "id": "6fdc1691dc51",
+    "title": "Green forest fire notification in Ethiopia",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-04T19:00:35+00:00"
+   },
+   {
     "id": "fb6f14e1b9c2",
     "title": "Trump sets off on midterm blitz – are his trademark rallies a liability for Republicans?",
     "country": "CAR",
@@ -423,16 +433,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-04T11:00:28+00:00"
-   },
-   {
-    "id": "9fd5e576e3b6",
-    "title": "Green forest fire notification in The Democratic Republic of Congo",
-    "country": "DRC",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T19:00:44+00:00"
    }
   ],
   "North America": [
@@ -465,32 +465,32 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-04T15:15:09+00:00"
-   },
-   {
-    "id": "f5c0e174b71d",
-    "title": "M4.5 earthquake, 121 km SW of Puerto Madero, Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T20:33:45.577000+00:00"
    }
   ],
   "South Asia": [
    {
-    "id": "f587a9c0fee1",
-    "title": "Is the CJP changing India’s political landscape?",
-    "country": "India",
-    "city": null,
-    "category": "political",
-    "severity": 3,
+    "id": "49994202f91d",
+    "title": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-03T19:00:01+00:00"
+    "time": "2026-10-04T19:20:08+00:00"
    },
    {
     "id": "2762a0649064",
     "title": "Indian police accused of sexual harassment against journalists at protest",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-04T17:01:19+00:00"
+   },
+   {
+    "id": "9bd8778db707",
+    "title": "Indian police accused of sexually harassing journalists at protest",
     "country": "India",
     "city": null,
     "category": "unrest",
