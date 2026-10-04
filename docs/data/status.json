@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T22:19:29.290016+00:00",
+ "generated": "2026-10-04T01:51:00.905335+00:00",
  "sources": [
   {
    "id": "us-state-advisories",
@@ -7,7 +7,7 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.7
+   "secs": 0.8
   },
   {
    "id": "uk-fcdo",
@@ -15,7 +15,7 @@
    "ok": true,
    "items": 20,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.1
   },
   {
    "id": "cdc-notices",
@@ -29,7 +29,7 @@
    "id": "usgs-quakes",
    "name": "USGS earthquakes M4.5+",
    "ok": true,
-   "items": 10,
+   "items": 9,
    "note": "ok",
    "secs": 0.1
   },
@@ -37,9 +37,9 @@
    "id": "gdacs",
    "name": "GDACS disaster alerts",
    "ok": true,
-   "items": 37,
+   "items": 38,
    "note": "ok",
-   "secs": 2.9
+   "secs": 2.5
   },
   {
    "id": "reliefweb",
@@ -47,7 +47,7 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "un-news",
@@ -55,23 +55,23 @@
    "ok": true,
    "items": 2,
    "note": "ok",
-   "secs": 0.4
+   "secs": 0.2
   },
   {
    "id": "bbc-world",
    "name": "BBC World",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "note": "ok",
-   "secs": 0.4
+   "secs": 0.3
   },
   {
    "id": "aljazeera",
    "name": "Al Jazeera",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "id": "france24",
@@ -79,7 +79,7 @@
    "ok": true,
    "items": 13,
    "note": "ok",
-   "secs": 0.4
+   "secs": 0.3
   },
   {
    "id": "dw",
@@ -87,13 +87,13 @@
    "ok": true,
    "items": 3,
    "note": "ok",
-   "secs": 0.7
+   "secs": 0.2
   },
   {
    "id": "guardian-world",
    "name": "The Guardian World",
    "ok": true,
-   "items": 15,
+   "items": 16,
    "note": "ok",
    "secs": 0.7
   },
@@ -103,7 +103,7 @@
    "ok": true,
    "items": 1,
    "note": "ok",
-   "secs": 0.4
+   "secs": 0.2
   },
   {
    "id": "africanews",
@@ -117,9 +117,9 @@
    "id": "kyiv-independent",
    "name": "Kyiv Independent",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "times-of-israel",
@@ -131,16 +131,18 @@
   {
    "id": "gdelt-security",
    "name": "GDELT security events (English)",
-   "ok": false,
+   "ok": true,
    "items": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28protest%20OR%20airstrike%20OR%20explosion%20OR%20%22gunmen%22%"
+   "note": "ok",
+   "secs": 20.0
   },
   {
    "id": "gdelt-unrest-es-fr",
    "name": "GDELT unrest (Spanish and French)",
-   "ok": false,
+   "ok": true,
    "items": 0,
-   "note": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=25)"
+   "note": "ok",
+   "secs": 11.3
   }
  ]
 }

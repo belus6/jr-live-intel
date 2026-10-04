@@ -1,27 +1,17 @@
 {
- "generated": "2026-10-03T22:19:29.290016+00:00",
+ "generated": "2026-10-04T01:51:00.905335+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
-  "1": 1,
-  "2": 34,
-  "3": 13,
+  "1": 0,
+  "2": 30,
+  "3": 15,
   "4": 10,
-  "5": 1
+  "5": 0
  },
  "watch_hits": [],
  "regions": {
   "Middle East & N. Africa": [
-   {
-    "id": "d2b2311a82a3",
-    "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-10-03T00:00:00+00:00"
-   },
    {
     "id": "343ac8790106",
     "title": "Flydubai co-pilot attacked captain with crash axe in ‘terrorist act’: UAE",
@@ -83,14 +73,36 @@
     "time": "2026-10-03T11:56:46+00:00"
    },
    {
-    "id": "e85a5d27d03d",
-    "title": "Two Iranian men charged over alleged terror plot targeting Manchester’s Jewish community",
-    "country": "Iran",
+    "id": "7f2f299e32ca",
+    "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+    "country": "Yemen",
+    "city": "Sanaa",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-04T00:00:29+00:00"
+   },
+   {
+    "id": "cade27fabc18",
+    "title": "UN says at least 150,000 have fled their homes in Yemen amid fighting",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-03T13:39:11+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "f910ad11690f",
+    "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
+    "country": "Australia",
     "city": null,
     "category": "terrorism",
     "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-02T22:52:01+00:00"
+    "time": "2026-10-04T01:26:39+00:00"
    }
   ],
   "Western Europe": [
@@ -155,6 +167,16 @@
     "time": "2026-10-03T22:04:08+00:00"
    },
    {
+    "id": "18344e72b5ca",
+    "title": "Man shot dead at London memorial service in ‘senseless act of violence’",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-03T22:04:08+00:00"
+   },
+   {
     "id": "817ee821c542",
     "title": "France arrests 5,000 people, mostly teens, as school protests spread",
     "country": "France",
@@ -163,16 +185,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-03T21:57:35+00:00"
-   },
-   {
-    "id": "717a0aefda27",
-    "title": "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T13:20:35+00:00"
    }
   ],
   "North America": [
@@ -187,6 +199,16 @@
     "time": "2026-10-03T07:00:35+00:00"
    },
    {
+    "id": "547e49be80b6",
+    "title": "Why Canada is preparing for a (long shot) US invasion",
+    "country": "Canada",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-03T23:30:06+00:00"
+   },
+   {
     "id": "f5c0e174b71d",
     "title": "M4.5 earthquake, 121 km SW of Puerto Madero, Mexico",
     "country": "Mexico",
@@ -195,16 +217,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-03T20:33:45.577000+00:00"
-   },
-   {
-    "id": "817d6b60f8ff",
-    "title": "Cyclospora found at Mexican farm linked to lettuce outbreak, FDA says",
-    "country": "Mexico",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T00:27:28+00:00"
    }
   ],
   "East & SE Asia": [
@@ -219,14 +231,34 @@
     "time": "2026-10-03T02:40:43+00:00"
    },
    {
-    "id": "b0ebf637ded0",
-    "title": "North Korea fires ballistic missile towards the sea, South Korea says",
-    "country": "North Korea",
+    "id": "e7ffaf5c9466",
+    "title": "M5.9 earthquake, 39 km WSW of Tambolaka, Indonesia",
+    "country": "Indonesia",
     "city": null,
-    "category": "conflict",
+    "category": "hazard",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-02T23:55:24+00:00"
+    "confidence": "A1",
+    "time": "2026-10-03T22:55:55.358000+00:00"
+   },
+   {
+    "id": "1f79fe202963",
+    "title": "M4.5 earthquake, 293 km SSE of Tabiauan, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T23:14:35.782000+00:00"
+   },
+   {
+    "id": "091c0b71121f",
+    "title": "Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T23:14:32+00:00"
    },
    {
     "id": "867951a8cf42",
@@ -267,16 +299,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-03T06:05:21.157000+00:00"
-   },
-   {
-    "id": "6a6ee3ee4541",
-    "title": "M4.5 earthquake, 7 km NNW of Ibusuki, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T00:11:38.239000+00:00"
    }
   ],
   "South Asia": [
@@ -381,16 +403,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-03T11:01:09+00:00"
-   },
-   {
-    "id": "64b3d936e6a4",
-    "title": "Green forest fire notification in Angola",
-    "country": "Angola",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T23:03:04+00:00"
    }
   ],
   "Eastern Europe": [
@@ -453,16 +465,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-03T02:59:06.296000+00:00"
-   },
-   {
-    "id": "85b64ebcb88e",
-    "title": "M4.7 earthquake, 153 km SSE of Vilyuchinsk, Russia",
-    "country": "Russia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T23:54:13.503000+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -485,40 +487,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-03T04:43:15+00:00"
-   },
-   {
-    "id": "7018e2ea8c00",
-    "title": "Barbados - Level 1: Exercise Normal Precautions",
-    "country": "Barbados",
-    "city": null,
-    "category": "advisory",
-    "severity": 1,
-    "confidence": "A1",
-    "time": "2026-10-03T00:00:00+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "30d8bb45d086",
-    "title": "Magnitude 4.8 earthquake hits Victoria with tremors felt across Melbourne",
-    "country": "Australia",
-    "city": "Melbourne",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T00:23:49+00:00"
-   }
-  ],
-  "Central Asia": [
-   {
-    "id": "b9a326c1c8f4",
-    "title": "Green forest fire notification in Kazakhstan",
-    "country": "Kazakhstan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-02T23:00:49+00:00"
    }
   ]
  }

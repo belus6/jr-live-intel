@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-03T22:19:29.290016+00:00",
+ "generated": "2026-10-04T01:51:00.905335+00:00",
  "sample": false,
- "count": 157,
+ "count": 164,
  "events": [
   {
    "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
@@ -57,6 +57,34 @@
    "flag": "🇭🇹",
    "region": "Latin America & Caribbean",
    "baseline": 4.53,
+   "watch": []
+  },
+  {
+   "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+   "time": "2026-10-04T01:26:39+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Australia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T01:51:00.905335+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f910ad11690f",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
    "watch": []
   },
   {
@@ -494,6 +522,90 @@
    "flag": "🇧🇷",
    "region": "Latin America & Caribbean",
    "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
+   "time": "2026-10-04T00:00:29+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": "Sanaa",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T01:51:00.905335+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7f2f299e32ca",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Why Canada is preparing for a (long shot) US invasion",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-03T23:30:06+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Canada",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T01:51:00.905335+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "547e49be80b6",
+   "flag": "🇨🇦",
+   "region": "North America",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "M5.9 earthquake, 39 km WSW of Tambolaka, Indonesia",
+   "summary": "Depth 46 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer",
+   "time": "2026-10-03T22:55:55.358000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -9.5672,
+   "lon": 118.9078,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-04T01:51:00.905335+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e7ffaf5c9466",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
    "watch": []
   },
   {
@@ -1314,6 +1426,62 @@
    "watch": []
   },
   {
+   "title": "M4.5 earthquake, 293 km SSE of Tabiauan, Philippines",
+   "summary": "Depth 575 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
+   "time": "2026-10-03T23:14:35.782000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Philippines",
+   "city": null,
+   "lat": 3.5895,
+   "lon": 122.9296,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-04T01:51:00.905335+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "1f79fe202963",
+   "flag": "🇵🇭",
+   "region": "East & SE Asia",
+   "baseline": 3.11,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
+   "summary": "On 10/3/2026 10:55:55 PM, an earthquake occurred in Indonesia potentially affecting 130 thousand in MMI V. The earthquake had Magnitude 5.9M, Depth:45.951km.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569326",
+   "time": "2026-10-03T23:14:32+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -9.5672,
+   "lon": 118.9078,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569326",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-04T01:51:00.905335+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "091c0b71121f",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
    "title": "Met launches murder inquiry after man shot dead at London memorial service",
    "summary": "",
    "url": "https://www.theguardian.com/uk-news/2026/oct/03/met-launches-inquiry-after-man-shot-dead-at-london-memorial-service",
@@ -1336,6 +1504,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "e5688df03351",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "Man shot dead at London memorial service in ‘senseless act of violence’",
+   "summary": "",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/03/met-launches-inquiry-after-man-shot-dead-at-london-memorial-service",
+   "time": "2026-10-03T22:04:08+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "United Kingdom",
+   "city": "London",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/03/met-launches-inquiry-after-man-shot-dead-at-london-memorial-service",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T01:51:00.905335+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "18344e72b5ca",
    "flag": "🇬🇧",
    "region": "Western Europe",
    "baseline": 1.29,
