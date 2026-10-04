@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-04T20:56:33.239017+00:00",
+ "generated": "2026-10-04T23:52:57.791577+00:00",
  "sample": false,
- "count": 204,
+ "count": 208,
  "events": [
   {
    "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
@@ -29,6 +29,62 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
+   "time": "2026-10-04T22:23:30+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T23:52:57.791577+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "d3c79a8dcad5",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "US bombers pulled from RAF Fairford base after suspected terror plot",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot",
+   "time": "2026-10-04T21:25:03+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "United Kingdom",
+   "city": "London",
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T23:52:57.791577+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "cc1ae6e0b5c3",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
    "watch": []
   },
   {
@@ -90,6 +146,34 @@
    "flag": "🇪🇬",
    "region": "Middle East & N. Africa",
    "baseline": 2.82,
+   "watch": []
+  },
+  {
+   "title": "Polls close in first round of Brazil’s high-stakes presidential election",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+   "time": "2026-10-04T13:52:33+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Brazil",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T23:52:57.791577+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "152e6c35fa0d",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
    "watch": []
   },
   {
@@ -613,6 +697,62 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "fe27128e63d9",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "Russian drone strike hits energy facility in Poltava Oblast, leaves 22,000 without power",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-drone-strike-hits-energy-facility-in-poltava-oblast-leaves-22-000-without-power/",
+   "time": "2026-10-04T21:37:32+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-drone-strike-hits-energy-facility-in-poltava-oblast-leaves-22-000-without-power/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-04T23:52:57.791577+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "92613f210523",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
+   "time": "2026-10-04T20:00:05+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Brazil",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T23:52:57.791577+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "54b67bf0cbcc",
    "flag": "🇧🇷",
    "region": "Latin America & Caribbean",
    "baseline": 3.13,
@@ -2151,6 +2291,34 @@
    "watch": []
   },
   {
+   "title": "Dozens detained at authorized Communist Party rally after chants of 'Down with the Tsar'",
+   "summary": "",
+   "url": "https://kyivindependent.com/dozens-detained-at-authorized-communist-party-rally-after-chants-of-down-with-the-tsar/",
+   "time": "2026-10-04T23:30:43+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Russia",
+   "city": "Moscow",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/dozens-detained-at-authorized-communist-party-rally-after-chants-of-down-with-the-tsar/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-04T23:52:57.791577+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "23e7233633e1",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
    "title": "M4.8 earthquake, 32 km SSE of Jurm, Afghanistan",
    "summary": "Depth 249 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn",
@@ -2886,6 +3054,34 @@
    "flag": "🇪🇸",
    "region": "Western Europe",
    "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M5.0 earthquake, 37 km N of Ruteng, Indonesia",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5",
+   "time": "2026-10-04T10:13:07.298000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -8.2698,
+   "lon": 120.4532,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-04T23:52:57.791577+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e9bf3657c5e4",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
    "watch": []
   },
   {
@@ -4133,90 +4329,6 @@
    "flag": "🇰🇿",
    "region": "Central Asia",
    "baseline": 2.76,
-   "watch": []
-  },
-  {
-   "title": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet",
-   "time": "2026-10-02T21:37:11+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "28fb2c1bfd8b",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Riot police clash with students as education protests rage in France",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-02T21:13:27+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T12:03:09.196597+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "142c7ef1fe04",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
-   "time": "2026-10-02T21:12:29+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Brazil",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4d384ea8df8c",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
    "watch": []
   },
   {
