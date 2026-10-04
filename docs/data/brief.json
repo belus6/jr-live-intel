@@ -1,37 +1,29 @@
 {
- "generated": "2026-10-04T01:51:00.905335+00:00",
+ "generated": "2026-10-04T07:50:45.566262+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 30,
+  "2": 24,
   "3": 15,
-  "4": 10,
+  "4": 6,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
+  "Oceania": [
+   {
+    "id": "f910ad11690f",
+    "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
+    "country": "Australia",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-04T01:26:39+00:00"
+   }
+  ],
   "Middle East & N. Africa": [
-   {
-    "id": "343ac8790106",
-    "title": "Flydubai co-pilot attacked captain with crash axe in ‘terrorist act’: UAE",
-    "country": "UAE",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B1",
-    "time": "2026-10-03T06:16:47+00:00"
-   },
-   {
-    "id": "f2353553635d",
-    "title": "UAE investigators say Omani Flydubai co-pilot was planning 'terrorist' attack",
-    "country": "UAE",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B2",
-    "time": "2026-10-03T06:17:45+00:00"
-   },
    {
     "id": "a211e6271c2a",
     "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
@@ -73,6 +65,16 @@
     "time": "2026-10-03T11:56:46+00:00"
    },
    {
+    "id": "496c0cfd35ea",
+    "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-04T03:33:49+00:00"
+   },
+   {
     "id": "7f2f299e32ca",
     "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
     "country": "Yemen",
@@ -91,18 +93,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-03T13:39:11+00:00"
-   }
-  ],
-  "Oceania": [
+   },
    {
-    "id": "f910ad11690f",
-    "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
-    "country": "Australia",
+    "id": "a2ea068fbbe2",
+    "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
+    "country": "Yemen",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-04T01:26:39+00:00"
+    "time": "2026-10-03T10:48:28+00:00"
    }
   ],
   "Western Europe": [
@@ -115,16 +115,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-03T16:10:00+00:00"
-   },
-   {
-    "id": "1c9c78704916",
-    "title": "Bangkok at breaking point as floods turn streets into stagnant lakes",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-03T02:00:46+00:00"
    },
    {
     "id": "1ed9736ff5b6",
@@ -157,6 +147,16 @@
     "time": "2026-10-03T14:19:46+00:00"
    },
    {
+    "id": "c735dd4e1a5a",
+    "title": "Revealed: Government quietly dropped plan to prepare England for wildfires",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-04T07:00:21+00:00"
+   },
+   {
     "id": "e5688df03351",
     "title": "Met launches murder inquiry after man shot dead at London memorial service",
     "country": "United Kingdom",
@@ -187,153 +187,17 @@
     "time": "2026-10-03T21:57:35+00:00"
    }
   ],
-  "North America": [
-   {
-    "id": "f95090e9daee",
-    "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
-    "country": "United States",
-    "city": "New York",
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-03T07:00:35+00:00"
-   },
-   {
-    "id": "547e49be80b6",
-    "title": "Why Canada is preparing for a (long shot) US invasion",
-    "country": "Canada",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-03T23:30:06+00:00"
-   },
-   {
-    "id": "f5c0e174b71d",
-    "title": "M4.5 earthquake, 121 km SW of Puerto Madero, Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T20:33:45.577000+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "214961068527",
-    "title": "North Korea launches ballistic missile as tensions with Seoul grow over border mine blasts",
-    "country": "South Korea",
-    "city": "Seoul",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-03T02:40:43+00:00"
-   },
-   {
-    "id": "e7ffaf5c9466",
-    "title": "M5.9 earthquake, 39 km WSW of Tambolaka, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-03T22:55:55.358000+00:00"
-   },
-   {
-    "id": "1f79fe202963",
-    "title": "M4.5 earthquake, 293 km SSE of Tabiauan, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T23:14:35.782000+00:00"
-   },
-   {
-    "id": "091c0b71121f",
-    "title": "Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T23:14:32+00:00"
-   },
-   {
-    "id": "867951a8cf42",
-    "title": "M4.9 earthquake, 72 km NE of Sittwe, Burma (Myanmar)",
-    "country": "Myanmar",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T18:12:46.916000+00:00"
-   },
-   {
-    "id": "3aefd771c95f",
-    "title": "M4.6 earthquake, 76 km NNE of Lae, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T17:24:12.545000+00:00"
-   },
-   {
-    "id": "ac4c34c5e7b1",
-    "title": "Green flood alert in Malaysia",
-    "country": "Malaysia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T06:54:19+00:00"
-   },
-   {
-    "id": "fa3a5ea70e42",
-    "title": "M4.8 earthquake, 112 km S of Koshima, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T06:05:21.157000+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "f587a9c0fee1",
-    "title": "Is the CJP changing India’s political landscape?",
-    "country": "India",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-03T19:00:01+00:00"
-   },
-   {
-    "id": "35755971bb5a",
-    "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
-    "country": "Pakistan",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T10:46:20+00:00"
-   },
-   {
-    "id": "e2f16183a5c4",
-    "title": "India’s Cockroach Party headlines day of anti-establishment protests",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T04:28:03+00:00"
-   }
-  ],
   "Sub-Saharan Africa": [
+   {
+    "id": "f4c26fc91bb6",
+    "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-04T01:41:28+00:00"
+   },
    {
     "id": "bc29c64637c7",
     "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
@@ -405,7 +269,91 @@
     "time": "2026-10-03T11:01:09+00:00"
    }
   ],
+  "North America": [
+   {
+    "id": "547e49be80b6",
+    "title": "Why Canada is preparing for a (long shot) US invasion",
+    "country": "Canada",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-03T23:30:06+00:00"
+   },
+   {
+    "id": "f5c0e174b71d",
+    "title": "M4.5 earthquake, 121 km SW of Puerto Madero, Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T20:33:45.577000+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "e7ffaf5c9466",
+    "title": "M5.9 earthquake, 39 km WSW of Tambolaka, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-03T22:55:55.358000+00:00"
+   },
+   {
+    "id": "1f79fe202963",
+    "title": "M4.5 earthquake, 293 km SSE of Tabiauan, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T23:14:35.782000+00:00"
+   },
+   {
+    "id": "091c0b71121f",
+    "title": "Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T23:14:32+00:00"
+   },
+   {
+    "id": "867951a8cf42",
+    "title": "M4.9 earthquake, 72 km NE of Sittwe, Burma (Myanmar)",
+    "country": "Myanmar",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T18:12:46.916000+00:00"
+   },
+   {
+    "id": "3aefd771c95f",
+    "title": "M4.6 earthquake, 76 km NNE of Lae, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-03T17:24:12.545000+00:00"
+   }
+  ],
   "Eastern Europe": [
+   {
+    "id": "a3644cfe05f2",
+    "title": "Latvia partial election results put PM's pro-Ukraine party ahead but coalition partners stumble",
+    "country": "Latvia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-03T20:58:30+00:00"
+   },
    {
     "id": "243210a5ef80",
     "title": "5 Russian missiles and drones exploded on Moldova's territory in overnight attack against Ukraine, Sandu says",
@@ -415,26 +363,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-03T10:03:27+00:00"
-   },
-   {
-    "id": "23aaa0fcd487",
-    "title": "General Staff: Russia has lost 1,538,950 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-03T06:59:56+00:00"
-   },
-   {
-    "id": "9ba5675524b5",
-    "title": "4 injured in Kyiv Oblast as Russian drones reportedly strike pharmaceutical warehouse",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-03T03:38:43+00:00"
    },
    {
     "id": "3bd37ca1d13d",
@@ -455,16 +383,28 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-03T07:57:53+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "f587a9c0fee1",
+    "title": "Is the CJP changing India’s political landscape?",
+    "country": "India",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-03T19:00:01+00:00"
    },
    {
-    "id": "be8ae090d954",
-    "title": "M5.0 earthquake, 163 km SE of Petropavlovsk-Kamchatsky, Russia",
-    "country": "Russia",
+    "id": "35755971bb5a",
+    "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
+    "country": "Pakistan",
     "city": null,
-    "category": "hazard",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T02:59:06.296000+00:00"
+    "confidence": "B3",
+    "time": "2026-10-03T10:46:20+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -477,16 +417,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-03T20:16:01+00:00"
-   },
-   {
-    "id": "f6b4f81579f3",
-    "title": "Brazil’s Lula and Bolsonaro draw thousands as campaigns near end",
-    "country": "Brazil",
-    "city": "Rio de Janeiro",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T04:43:15+00:00"
    }
   ]
  }
