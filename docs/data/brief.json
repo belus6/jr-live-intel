@@ -1,16 +1,98 @@
 {
- "generated": "2026-10-04T13:45:05.432744+00:00",
+ "generated": "2026-10-04T17:52:08.352266+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 26,
-  "3": 18,
-  "4": 5,
+  "2": 36,
+  "3": 25,
+  "4": 4,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
+  "Middle East & N. Africa": [
+   {
+    "id": "dec00c17caac",
+    "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+    "country": "Egypt",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-04T15:16:03+00:00"
+   },
+   {
+    "id": "a211e6271c2a",
+    "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
+    "country": "Algeria",
+    "city": "Algiers",
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-03T18:03:08+00:00"
+   },
+   {
+    "id": "1a3e7e8a4e92",
+    "title": "Air strike in Sudan kills UN aid truck driver: WFP",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-04T16:28:43+00:00"
+   },
+   {
+    "id": "ee06122e2bb4",
+    "title": "Why is fighting intensifying in Yemen’s Taiz governorate?",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-04T13:31:15+00:00"
+   },
+   {
+    "id": "6cc15fe66ee5",
+    "title": "Yemen's leader announces counter-offensive as Houthis cut off supply route to besieged city",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-04T12:59:17+00:00"
+   },
+   {
+    "id": "8f828acbb5b0",
+    "title": "Yemen's government declares counter-offensive as Houthis cut vital route to besieged city",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-04T12:59:17+00:00"
+   },
+   {
+    "id": "fa1b1a80e0f1",
+    "title": "Yemen’s leader announces military operation to retake Houthi-held territory",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-04T12:48:50+00:00"
+   },
+   {
+    "id": "496c0cfd35ea",
+    "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-04T03:33:49+00:00"
+   }
+  ],
   "Latin America & Caribbean": [
    {
     "id": "336739524f36",
@@ -21,6 +103,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-04T08:53:01+00:00"
+   },
+   {
+    "id": "f4076f3f8fa9",
+    "title": "M5.0 earthquake, 295 km S of Burica, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-04T14:06:10.385000+00:00"
    },
    {
     "id": "1a3234e3f66f",
@@ -55,118 +147,190 @@
     "time": "2026-10-04T01:26:39+00:00"
    }
   ],
-  "Middle East & N. Africa": [
+  "East & SE Asia": [
    {
-    "id": "a211e6271c2a",
-    "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
-    "country": "Algeria",
-    "city": "Algiers",
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-03T18:03:08+00:00"
-   },
-   {
-    "id": "cc6ac8b932c1",
-    "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-03T16:17:23+00:00"
-   },
-   {
-    "id": "6cc15fe66ee5",
-    "title": "Yemen's leader announces counter-offensive as Houthis cut off supply route to besieged city",
-    "country": "Yemen",
+    "id": "8d79a6d45d89",
+    "title": "M5.5 earthquake, Volcano Islands, Japan region",
+    "country": "Japan",
     "city": null,
-    "category": "conflict",
+    "category": "hazard",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-04T12:59:17+00:00"
+    "confidence": "A1",
+    "time": "2026-10-04T11:12:48.270000+00:00"
    },
    {
-    "id": "fa1b1a80e0f1",
-    "title": "Yemen’s leader announces military operation to retake Houthi-held territory",
-    "country": "Yemen",
+    "id": "e7ffaf5c9466",
+    "title": "M5.9 earthquake, 39 km WSW of Tambolaka, Indonesia",
+    "country": "Indonesia",
     "city": null,
-    "category": "conflict",
+    "category": "hazard",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-04T12:48:50+00:00"
+    "confidence": "A1",
+    "time": "2026-10-03T22:55:55.358000+00:00"
    },
    {
-    "id": "496c0cfd35ea",
-    "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 3,
+    "id": "c95cefffb2f4",
+    "title": "Philippines arrests 244 suspects in online scam crackdown",
+    "country": "Philippines",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-04T03:33:49+00:00"
+    "time": "2026-10-04T16:00:50+00:00"
    },
    {
-    "id": "7f2f299e32ca",
-    "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
-    "country": "Yemen",
-    "city": "Sanaa",
-    "category": "conflict",
-    "severity": 3,
+    "id": "e09b1c1826ac",
+    "title": "Japan summons US envoy as marine arrested over Okinawa murder",
+    "country": "Japan",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-04T00:00:29+00:00"
+    "time": "2026-10-04T15:45:04+00:00"
    },
    {
-    "id": "87100873ec24",
-    "title": "M4.7 earthquake, 21 km SSE of Saimbeyli, Turkey",
-    "country": "Turkey",
+    "id": "4edf254b7b89",
+    "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-04T14:36:57+00:00"
+   },
+   {
+    "id": "72190e8dacbd",
+    "title": "US marine arrested in Japan on suspicion of killing woman, police say",
+    "country": "Japan",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-04T13:46:19+00:00"
+   },
+   {
+    "id": "b34dc6b89d1c",
+    "title": "The week in pictures: Disaster averted on Flydubai flight, French school protests and Bangkok floods",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-04T13:35:11+00:00"
+   },
+   {
+    "id": "629e23892720",
+    "title": "M4.6 earthquake, 110 km S of Dampit, Indonesia",
+    "country": "Indonesia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-04T11:19:26.314000+00:00"
+    "time": "2026-10-04T12:36:47.744000+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "358e8aea6916",
+    "title": "Russian strike hits Kyiv amid Chancellor Merz visit",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-04T09:52:14+00:00"
    },
    {
-    "id": "852b1661295b",
-    "title": "Israel prepares to mark October 7",
-    "country": "Israel",
-    "city": "Tel Aviv",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T10:59:38+00:00"
+    "id": "128d5350d541",
+    "title": "'Very dangerous moment' — Russia sharing jet-powered drone tech with North Korea, Zelensky says",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-04T16:36:40+00:00"
+   },
+   {
+    "id": "a8d5028b7f52",
+    "title": "Eight countries including China join military exercises in Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-04T13:28:26+00:00"
+   },
+   {
+    "id": "65a4da039861",
+    "title": "Germany announces $1.46 billion in aid for Ukraine, including interceptor drones",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-04T13:18:47+00:00"
+   },
+   {
+    "id": "880666291f6c",
+    "title": "Germany announces $1.46 billion in aid for Ukraine, including interceptor drones, air defense missiles",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-04T13:18:47+00:00"
+   },
+   {
+    "id": "37f9f31a5df6",
+    "title": "How Russia’s new jet drones are changing the threat to Kyiv",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-04T13:18:33+00:00"
+   },
+   {
+    "id": "394e05b83fa4",
+    "title": "Russia targets Kyiv bridges for fourth consecutive day, hits Northern Bridge",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-04T09:14:04+00:00"
+   },
+   {
+    "id": "eb8c6250ca01",
+    "title": "General Staff: Russia has lost 1,540,700 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-04T08:08:12+00:00"
    }
   ],
   "Western Europe": [
    {
-    "id": "3e21d9cdbb6c",
-    "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-03T16:10:00+00:00"
-   },
-   {
-    "id": "1ed9736ff5b6",
-    "title": "Italy’s Ustica enigma: Can French files solve mystery crash blamed on stray missile?",
-    "country": "Italy",
-    "city": null,
-    "category": "conflict",
+    "id": "02acb264226f",
+    "title": "Mass shootings leave two people dead in Georgia and 12-year-old girl dead in Baltimore",
+    "country": "Austria",
+    "city": "Vienna",
+    "category": "crime",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-03T15:42:45+00:00"
+    "time": "2026-10-04T15:23:26+00:00"
    },
    {
-    "id": "ed9272d5794a",
-    "title": "‘This can’t go on’: tens of thousands protest against housing crisis in Spain",
-    "country": "Spain",
-    "city": "Madrid",
+    "id": "4c393fc41180",
+    "title": "More than 400 schools in France to be closed on Monday as more protests planned",
+    "country": "France",
+    "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-03T14:19:46+00:00"
+    "confidence": "B3",
+    "time": "2026-10-04T15:08:23+00:00"
    },
    {
     "id": "8321bdd5f0bf",
@@ -217,170 +381,16 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-03T22:04:08+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "8d79a6d45d89",
-    "title": "M5.5 earthquake, Volcano Islands, Japan region",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-04T11:12:48.270000+00:00"
    },
    {
-    "id": "e7ffaf5c9466",
-    "title": "M5.9 earthquake, 39 km WSW of Tambolaka, Indonesia",
-    "country": "Indonesia",
+    "id": "817ee821c542",
+    "title": "France arrests 5,000 people, mostly teens, as school protests spread",
+    "country": "France",
     "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-03T22:55:55.358000+00:00"
-   },
-   {
-    "id": "b34dc6b89d1c",
-    "title": "The week in pictures: Disaster averted on Flydubai flight, French school protests and Bangkok floods",
-    "country": "Thailand",
-    "city": "Bangkok",
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-04T13:35:11+00:00"
-   },
-   {
-    "id": "629e23892720",
-    "title": "M4.6 earthquake, 110 km S of Dampit, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-04T12:36:47.744000+00:00"
-   },
-   {
-    "id": "fb233eb632bc",
-    "title": "M4.6 earthquake, 121 km SW of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-04T11:09:47.398000+00:00"
-   },
-   {
-    "id": "81f942653a64",
-    "title": "M5.3 earthquake, 81 km SSW of Banda Aceh, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T23:37:34.235000+00:00"
-   },
-   {
-    "id": "1f79fe202963",
-    "title": "M4.5 earthquake, 293 km SSE of Tabiauan, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T23:14:35.782000+00:00"
-   },
-   {
-    "id": "091c0b71121f",
-    "title": "Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-03T23:14:32+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "358e8aea6916",
-    "title": "Russian strike hits Kyiv amid Chancellor Merz visit",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-04T09:52:14+00:00"
-   },
-   {
-    "id": "65a4da039861",
-    "title": "Germany announces $1.46 billion in aid for Ukraine, including interceptor drones",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-04T13:18:47+00:00"
-   },
-   {
-    "id": "37f9f31a5df6",
-    "title": "How Russia’s new jet drones are changing the threat to Kyiv",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-04T13:18:33+00:00"
-   },
-   {
-    "id": "394e05b83fa4",
-    "title": "Russia targets Kyiv bridges for fourth consecutive day, hits Northern Bridge",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-04T09:14:04+00:00"
-   },
-   {
-    "id": "eb8c6250ca01",
-    "title": "General Staff: Russia has lost 1,540,700 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-04T08:08:12+00:00"
-   },
-   {
-    "id": "4cc90ba8a1f5",
-    "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-04T07:58:36+00:00"
-   },
-   {
-    "id": "a3644cfe05f2",
-    "title": "Latvia partial election results put PM's pro-Ukraine party ahead but coalition partners stumble",
-    "country": "Latvia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-03T20:58:30+00:00"
-   },
-   {
-    "id": "8873b789c270",
-    "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T13:30:57+00:00"
+    "time": "2026-10-03T21:57:35+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -423,16 +433,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-03T19:00:44+00:00"
-   },
-   {
-    "id": "c2bcfd26f4ef",
-    "title": "Florida court reverses felony murder charge for death of baby left in hot car",
-    "country": "CAR",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-03T14:00:00+00:00"
    }
   ],
   "North America": [
@@ -445,6 +445,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-03T23:30:06+00:00"
+   },
+   {
+    "id": "7fe35f854287",
+    "title": "Why Canada is wargaming a (long shot) US invasion",
+    "country": "Canada",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-03T23:30:06+00:00"
+   },
+   {
+    "id": "5e3701dbb8a9",
+    "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-04T15:15:09+00:00"
    },
    {
     "id": "f5c0e174b71d",
@@ -467,6 +487,46 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-03T19:00:01+00:00"
+   },
+   {
+    "id": "2762a0649064",
+    "title": "Indian police accused of sexual harassment against journalists at protest",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-04T17:01:19+00:00"
+   },
+   {
+    "id": "b2741094f4de",
+    "title": "Mass protests demanding poll chief resignation shake India for third day",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-04T16:55:03+00:00"
+   },
+   {
+    "id": "e15814426078",
+    "title": "Woman at centre of Cornell gang rape lawsuit targeted with threats, lawyer says",
+    "country": "Maldives",
+    "city": "Male",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-04T16:25:01+00:00"
+   },
+   {
+    "id": "7464f163e977",
+    "title": "‘We need freedom’: New Delhi women protest sexual violence",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-04T15:20:48+00:00"
    }
   ]
  }

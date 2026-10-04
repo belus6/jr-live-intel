@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-04T13:45:05.432744+00:00",
+ "generated": "2026-10-04T17:52:08.352266+00:00",
  "sample": false,
- "count": 186,
+ "count": 196,
  "events": [
   {
    "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
@@ -57,6 +57,34 @@
    "flag": "🇭🇹",
    "region": "Latin America & Caribbean",
    "baseline": 4.53,
+   "watch": []
+  },
+  {
+   "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+   "time": "2026-10-04T15:16:03+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Egypt",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "dec00c17caac",
+   "flag": "🇪🇬",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.82,
    "watch": []
   },
   {
@@ -586,6 +614,146 @@
    "watch": []
   },
   {
+   "title": "'Very dangerous moment' — Russia sharing jet-powered drone tech with North Korea, Zelensky says",
+   "summary": "",
+   "url": "https://kyivindependent.com/very-dangerous-moment-russia-sharing-jet-powered-drone-tech-with-north-korea-zelensky-says/",
+   "time": "2026-10-04T16:36:40+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": "Moscow",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/very-dangerous-moment-russia-sharing-jet-powered-drone-tech-with-north-korea-zelensky-says/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "128d5350d541",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Air strike in Sudan kills UN aid truck driver: WFP",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
+   "time": "2026-10-04T16:28:43+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "1a3e7e8a4e92",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
+   "title": "Mass shootings leave two people dead in Georgia and 12-year-old girl dead in Baltimore",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/04/mass-shootings-georgia-baltimore",
+   "time": "2026-10-04T15:23:26+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Austria",
+   "city": "Vienna",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/04/mass-shootings-georgia-baltimore",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "02acb264226f",
+   "flag": "🇦🇹",
+   "region": "Western Europe",
+   "baseline": 1.0,
+   "watch": []
+  },
+  {
+   "title": "Why is fighting intensifying in Yemen’s Taiz governorate?",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss",
+   "time": "2026-10-04T13:31:15+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ee06122e2bb4",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Eight countries including China join military exercises in Russia",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/04/eight-countries-including-china-join-military-exercises-in-russia/",
+   "time": "2026-10-04T13:28:26+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/04/eight-countries-including-china-join-military-exercises-in-russia/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "a8d5028b7f52",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
    "title": "Germany announces $1.46 billion in aid for Ukraine, including interceptor drones",
    "summary": "",
    "url": "https://kyivindependent.com/germany-announces-1-46-billion-in-aid-for-ukraine-including-interceptor-drones/",
@@ -608,6 +776,34 @@
    "confidence": "C4",
    "corroboration": 1,
    "id": "65a4da039861",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Germany announces $1.46 billion in aid for Ukraine, including interceptor drones, air defense missiles",
+   "summary": "",
+   "url": "https://kyivindependent.com/germany-announces-1-46-billion-in-aid-for-ukraine-including-interceptor-drones/",
+   "time": "2026-10-04T13:18:47+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/germany-announces-1-46-billion-in-aid-for-ukraine-including-interceptor-drones/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "880666291f6c",
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
@@ -664,6 +860,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "6cc15fe66ee5",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Yemen's government declares counter-offensive as Houthis cut vital route to besieged city",
+   "summary": "",
+   "url": "https://www.france24.com/en/middle-east/20261004-yemen-leader-announces-counter-offensive-as-houthis-cut-off-supply-route-besieged-city-taiz",
+   "time": "2026-10-04T12:59:17+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261004-yemen-leader-announces-counter-offensive-as-houthis-cut-off-supply-route-besieged-city-taiz",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8f828acbb5b0",
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
@@ -982,6 +1206,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "547e49be80b6",
+   "flag": "🇨🇦",
+   "region": "North America",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Why Canada is wargaming a (long shot) US invasion",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-03T23:30:06+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Canada",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7fe35f854287",
    "flag": "🇨🇦",
    "region": "North America",
    "baseline": 1.05,
@@ -1805,34 +2057,6 @@
    "watch": []
   },
   {
-   "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-01T15:05:36+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ethiopia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9718114b06be",
-   "flag": "🇪🇹",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.2,
-   "watch": []
-  },
-  {
    "title": "UN Member States weigh latest Security Council veto, this time on Iran",
    "summary": "",
    "url": "https://news.un.org/feed/view/en/story/2026/10/1168505",
@@ -1858,6 +2082,314 @@
    "flag": "🇮🇷",
    "region": "Middle East & N. Africa",
    "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Indian police accused of sexual harassment against journalists at protest",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-04T17:01:19+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2762a0649064",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Mass protests demanding poll chief resignation shake India for third day",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
+   "time": "2026-10-04T16:55:03+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b2741094f4de",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Woman at centre of Cornell gang rape lawsuit targeted with threats, lawyer says",
+   "summary": "",
+   "url": "https://www.france24.com/en/americas/20261004-woman-at-center-of-cornell-gang-rape-allegations-targeted-with-threats-jane-doe",
+   "time": "2026-10-04T16:25:01+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Maldives",
+   "city": "Male",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261004-woman-at-center-of-cornell-gang-rape-allegations-targeted-with-threats-jane-doe",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e15814426078",
+   "flag": "🇲🇻",
+   "region": "South Asia",
+   "baseline": 2.32,
+   "watch": []
+  },
+  {
+   "title": "Philippines arrests 244 suspects in online scam crackdown",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss",
+   "time": "2026-10-04T16:00:50+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Philippines",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c95cefffb2f4",
+   "flag": "🇵🇭",
+   "region": "East & SE Asia",
+   "baseline": 3.11,
+   "watch": []
+  },
+  {
+   "title": "Japan summons US envoy as marine arrested over Okinawa murder",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
+   "time": "2026-10-04T15:45:04+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Japan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e09b1c1826ac",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "‘We need freedom’: New Delhi women protest sexual violence",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/we-need-freedom-new-delhi-women-protest-sexual-violence?traffic_source=rss",
+   "time": "2026-10-04T15:20:48+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": "Delhi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/we-need-freedom-new-delhi-women-protest-sexual-violence?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7464f163e977",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+   "time": "2026-10-04T15:15:09+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "United States",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5e3701dbb8a9",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "More than 400 schools in France to be closed on Monday as more protests planned",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned",
+   "time": "2026-10-04T15:08:23+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4c393fc41180",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-04T14:36:57+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Japan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4edf254b7b89",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "M5.0 earthquake, 295 km S of Burica, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8",
+   "time": "2026-10-04T14:06:10.385000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 5.3695,
+   "lon": -82.7171,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "f4076f3f8fa9",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
+   "title": "US marine arrested in Japan on suspicion of killing woman, police say",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder",
+   "time": "2026-10-04T13:46:19+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Japan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "72190e8dacbd",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
    "watch": []
   },
   {
@@ -2113,6 +2645,34 @@
    "watch": []
   },
   {
+   "title": "Le Pen stands by top ally Bardella as anti-Semitism claims hit star of French far right",
+   "summary": "",
+   "url": "https://www.france24.com/en/france/20261004-le-pen-stands-by-top-ally-bardella-as-anti-semitism-claims-hit-star-of-french-far-right",
+   "time": "2026-10-04T09:18:46+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Jordan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261004-le-pen-stands-by-top-ally-bardella-as-anti-semitism-claims-hit-star-of-french-far-right",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "427fe2958980",
+   "flag": "🇯🇴",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
    "title": "Brazil polls open in a few hours",
    "summary": "",
    "url": "https://www.france24.com/en/brazil-polls-open-in-a-few-hours",
@@ -2194,6 +2754,34 @@
    "flag": "🇬🇧",
    "region": "Western Europe",
    "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 21 km NE of Lae, Papua New Guinea",
+   "summary": "Depth 94 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
+   "time": "2026-10-04T01:38:46.078000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -6.5916,
+   "lon": 147.1353,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-04T17:52:08.352266+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "ec89540a8658",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
    "watch": []
   },
   {
@@ -3528,34 +4116,6 @@
    "watch": []
   },
   {
-   "title": "Ukraine returned 41 civilians from occupied territories through Volyn border crossing in August and September, says ombudsman",
-   "summary": "",
-   "url": "https://kyivindependent.com/ukraine-returned-41-civilians-from-occupied-territories-through-volyn-border-crossing-in-august-and-september-says-ombudsman/",
-   "time": "2026-10-02T17:23:39+00:00",
-   "tier": "C",
-   "category": "transport",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/ukraine-returned-41-civilians-from-occupied-territories-through-volyn-border-crossing-in-august-and-september-says-ombudsman/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "31bb0177891e",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.",
    "summary": "On 10/2/2026 4:34:41 PM, an earthquake occurred in Russia potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.8M, Depth:29.477km.",
    "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569129",
@@ -3584,34 +4144,6 @@
    "watch": []
   },
   {
-   "title": "Spain's parliament rejects housing bill as protests continue",
-   "summary": "",
-   "url": "https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-10-02T16:39:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Spain",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "094066d3e671",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "M5.0 earthquake, 26 km SSW of Güiria, Venezuela",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz5h",
@@ -3637,62 +4169,6 @@
    "flag": "🇻🇪",
    "region": "Latin America & Caribbean",
    "baseline": 4.49,
-   "watch": []
-  },
-  {
-   "title": "Spanish right wing votes down housing crisis plans as protest movement grows",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/02/spanish-right-wing-votes-down-housing-crisis-plans-protest-movement-grows",
-   "time": "2026-10-02T16:27:47+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Spain",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/02/spanish-right-wing-votes-down-housing-crisis-plans-protest-movement-grows",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ccc33b23ced5",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "G7 to release 100m barrels from reserves to combat surging diesel prices – as it happened",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
-   "time": "2026-10-02T16:11:12+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "1bc779b2c964",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -3780,34 +4256,6 @@
    "watch": []
   },
   {
-   "title": "Spanish lawmakers vote down affordable housing bills in blow to Sanchez’s government",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261002-spanish-lawmakers-vote-down-affordable-housing-bills-in-blow-to-sanchez-s-government",
-   "time": "2026-10-02T15:12:47+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Spain",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261002-spanish-lawmakers-vote-down-affordable-housing-bills-in-blow-to-sanchez-s-government",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "536c28d00cee",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "M4.8 earthquake, 78 km WSW of San Nicolas, Philippines",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1q",
@@ -3836,146 +4284,6 @@
    "watch": []
   },
   {
-   "title": "Watch: Why students in France are protesting",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-02T15:02:15+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3d871330761a",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "'Make our streets safer!' Mass women's protests sweep India over sexual violence",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/access-asia/20261002-make-our-streets-safer-mass-women-s-protests-sweep-india-over-sexual-violence",
-   "time": "2026-10-02T14:57:07+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": "Delhi",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/access-asia/20261002-make-our-streets-safer-mass-women-s-protests-sweep-india-over-sexual-violence",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9ce3904014d2",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "India’s Cockroach movement launches new protests over changes to voter roll",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
-   "time": "2026-10-02T14:42:16+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": "Mumbai",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "e09e2540e162",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "The Cornell 7: Allegations spark fury over gang rape culture",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/the-51/20261002-the-cornell-7-allegations-spark-fury-over-gang-rape-culture",
-   "time": "2026-10-02T14:39:34+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/the-51/20261002-the-cornell-7-allegations-spark-fury-over-gang-rape-culture",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9288a3b6c31a",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "Fires, fury and hundreds of arrests as France gripped by student protests",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france",
-   "time": "2026-10-02T14:10:21+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "aad50998bae0",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "M5.0 earthquake, 6 km E of Inglewood, New Zealand",
    "summary": "Depth 10 km. Alert: green.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1c",
@@ -4001,34 +4309,6 @@
    "flag": "🇳🇿",
    "region": "Oceania",
    "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "What the media got right and wrong about Cornell gang rape case",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/scoop/20261002-what-the-media-got-right-and-wrong-about-cornell-gang-rape-case",
-   "time": "2026-10-02T13:53:28+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/scoop/20261002-what-the-media-got-right-and-wrong-about-cornell-gang-rape-case",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "6519e5825c7a",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
    "watch": []
   },
   {
