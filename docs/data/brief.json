@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-05T04:28:41.364947+00:00",
+ "generated": "2026-10-05T11:47:38.560872+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 34,
+  "2": 44,
   "3": 24,
-  "4": 6,
+  "4": 8,
   "5": 0
  },
  "watch_hits": [],
@@ -33,16 +33,6 @@
     "time": "2026-10-04T13:52:33+00:00"
    },
    {
-    "id": "336739524f36",
-    "title": "Brazil goes to polls in decisive election for future of Latin America",
-    "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-04T08:53:01+00:00"
-   },
-   {
     "id": "54b67bf0cbcc",
     "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
     "country": "Brazil",
@@ -53,6 +43,26 @@
     "time": "2026-10-04T20:00:05+00:00"
    },
    {
+    "id": "025638cff40f",
+    "title": "Green flood alert in Nicaragua",
+    "country": "Nicaragua",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-05T06:14:36+00:00"
+   },
+   {
+    "id": "f847aef83dd3",
+    "title": "Green flood alert in Honduras",
+    "country": "Honduras",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-05T05:54:37+00:00"
+   },
+   {
     "id": "f4076f3f8fa9",
     "title": "M5.0 earthquake, 295 km S of Burica, Panama",
     "country": "Panama",
@@ -61,19 +71,39 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-04T14:06:10.385000+00:00"
-   },
-   {
-    "id": "1a3234e3f66f",
-    "title": "Brazil polls open in a few hours",
-    "country": "Brazil",
-    "city": "Sao Paulo",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T08:25:26+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "80339bb3e3af",
+    "title": "US withdraws all bombers from UK base at centre of suspected terror attack",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-05T09:49:23+00:00"
+   },
+   {
+    "id": "418e3bab0cec",
+    "title": "Britain's Green Party votes to class Zionism as a form of racism",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-05T09:44:43+00:00"
+   },
+   {
+    "id": "ef7d1e69f5f2",
+    "title": "Monday briefing: You asked, we answered – how will the US midterms go?",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-05T05:44:42+00:00"
+   },
    {
     "id": "d3c79a8dcad5",
     "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
@@ -105,6 +135,16 @@
     "time": "2026-10-04T15:23:26+00:00"
    },
    {
+    "id": "448bd0a8084e",
+    "title": "Spanish PM Sanchez calls snap election amid housing crisis",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-05T08:42:29+00:00"
+   },
+   {
     "id": "824575f18a8b",
     "title": "Hundreds of schools to shut Monday as France braces for more student protests",
     "country": "France",
@@ -113,46 +153,6 @@
     "severity": 2,
     "confidence": "B1",
     "time": "2026-10-04T12:50:45+00:00"
-   },
-   {
-    "id": "4c393fc41180",
-    "title": "More than 400 schools in France to be closed on Monday as more protests planned",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T15:08:23+00:00"
-   },
-   {
-    "id": "8321bdd5f0bf",
-    "title": "Up to 500 French schools to be totally or partly closed Monday amid student protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T12:50:45+00:00"
-   },
-   {
-    "id": "b21d5e03dbab",
-    "title": "Spain protests flare after housing bill rejected: Will it cause snap poll?",
-    "country": "Spain",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T10:16:49+00:00"
-   },
-   {
-    "id": "c735dd4e1a5a",
-    "title": "Revealed: Government quietly dropped plan to prepare England for wildfires",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T07:00:21+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -165,6 +165,36 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-04T15:16:03+00:00"
+   },
+   {
+    "id": "e6fc5f3458e0",
+    "title": "Yemen war: What’s the latest, as government forces claim advances?",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-05T09:38:26+00:00"
+   },
+   {
+    "id": "a56e15a1075d",
+    "title": "Yemen military announces broad range of strikes against Houthis in bid to retake lost territory",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-05T08:12:54+00:00"
+   },
+   {
+    "id": "32352e55dcb8",
+    "title": "Yemeni government forces launch major offensive to retake Houthi-held territory",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-05T08:06:51+00:00"
    },
    {
     "id": "cd4f0b00c0ec",
@@ -205,140 +235,60 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-04T13:31:15+00:00"
-   },
-   {
-    "id": "6cc15fe66ee5",
-    "title": "Yemen's leader announces counter-offensive as Houthis cut off supply route to besieged city",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-04T12:59:17+00:00"
-   },
-   {
-    "id": "8f828acbb5b0",
-    "title": "Yemen's government declares counter-offensive as Houthis cut vital route to besieged city",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-04T12:59:17+00:00"
-   },
-   {
-    "id": "fa1b1a80e0f1",
-    "title": "Yemen’s leader announces military operation to retake Houthi-held territory",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-04T12:48:50+00:00"
    }
   ],
-  "East & SE Asia": [
+  "Sub-Saharan Africa": [
    {
-    "id": "8d79a6d45d89",
-    "title": "M5.5 earthquake, Volcano Islands, Japan region",
-    "country": "Japan",
+    "id": "fda4598bb77f",
+    "title": "Guinea opposition leader Aliou Bah freed after presidential pardon",
+    "country": "Guinea",
     "city": null,
-    "category": "hazard",
+    "category": "political",
     "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-04T11:12:48.270000+00:00"
+    "confidence": "C4",
+    "time": "2026-10-05T11:20:18+00:00"
    },
    {
-    "id": "c95cefffb2f4",
-    "title": "Philippines arrests 244 suspects in online scam crackdown",
-    "country": "Philippines",
+    "id": "600798f8905e",
+    "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
+    "country": "Ethiopia",
     "city": null,
-    "category": "crime",
-    "severity": 2,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-04T16:00:50+00:00"
+    "time": "2026-10-05T01:03:54+00:00"
    },
    {
-    "id": "e09b1c1826ac",
-    "title": "Japan summons US envoy as marine arrested over Okinawa murder",
-    "country": "Japan",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T15:45:04+00:00"
-   },
-   {
-    "id": "4edf254b7b89",
-    "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T14:36:57+00:00"
-   },
-   {
-    "id": "e508f2ccb83f",
-    "title": "US Marine arrested over murder of woman in Japan's Okinawa",
-    "country": "Japan",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T14:36:57+00:00"
-   },
-   {
-    "id": "72190e8dacbd",
-    "title": "US marine arrested in Japan on suspicion of killing woman, police say",
-    "country": "Japan",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T13:46:19+00:00"
-   },
-   {
-    "id": "b34dc6b89d1c",
-    "title": "The week in pictures: Disaster averted on Flydubai flight, French school protests and Bangkok floods",
-    "country": "Thailand",
-    "city": "Bangkok",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-04T13:35:11+00:00"
-   },
-   {
-    "id": "629e23892720",
-    "title": "M4.6 earthquake, 110 km S of Dampit, Indonesia",
-    "country": "Indonesia",
+    "id": "6fdc1691dc51",
+    "title": "Green forest fire notification in Ethiopia",
+    "country": "Ethiopia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-04T12:36:47.744000+00:00"
+    "time": "2026-10-04T19:00:35+00:00"
    }
   ],
   "Eastern Europe": [
    {
-    "id": "358e8aea6916",
-    "title": "Russian strike hits Kyiv amid Chancellor Merz visit",
-    "country": "Ukraine",
-    "city": "Kyiv",
+    "id": "3850d983ea97",
+    "title": "Estonia moves troops closer to Russian border amid shift in strategic thinking",
+    "country": "Estonia",
+    "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-04T09:52:14+00:00"
+    "confidence": "C4",
+    "time": "2026-10-05T09:57:01+00:00"
    },
    {
-    "id": "f0140e6307b6",
-    "title": "Merz unveils new aid for Ukraine as Russia strikes Kyiv during German leader's visit",
+    "id": "c668b1e03ef9",
+    "title": "General Staff: Russia has lost 1,542,720 troops in Ukraine since Feb. 24, 2022",
     "country": "Ukraine",
-    "city": "Kyiv",
+    "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-04T08:38:43+00:00"
+    "confidence": "C4",
+    "time": "2026-10-05T06:38:04+00:00"
    },
    {
     "id": "92613f210523",
@@ -401,49 +351,37 @@
     "time": "2026-10-04T13:18:33+00:00"
    }
   ],
-  "Sub-Saharan Africa": [
+  "South Asia": [
    {
-    "id": "600798f8905e",
-    "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
-    "country": "Ethiopia",
+    "id": "907dcb3fd7b8",
+    "title": "Pakistan installs fishing nets at security outposts to block drone attacks",
+    "country": "Pakistan",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-05T01:03:54+00:00"
+    "time": "2026-10-05T08:20:34+00:00"
    },
    {
-    "id": "3b364386b6b4",
-    "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-04T11:05:02+00:00"
-   },
-   {
-    "id": "6fdc1691dc51",
-    "title": "Green forest fire notification in Ethiopia",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-04T19:00:35+00:00"
-   },
-   {
-    "id": "fb6f14e1b9c2",
-    "title": "Trump sets off on midterm blitz – are his trademark rallies a liability for Republicans?",
-    "country": "CAR",
+    "id": "17ea6f8608d7",
+    "title": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
+    "country": "Pakistan",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-04T11:00:28+00:00"
-   }
-  ],
-  "South Asia": [
+    "time": "2026-10-05T11:38:26+00:00"
+   },
+   {
+    "id": "28875419dcf0",
+    "title": "Indian police detain demonstrators as protests over voter roll revision intensify",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-05T11:04:03+00:00"
+   },
    {
     "id": "49994202f91d",
     "title": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
@@ -493,16 +431,100 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-04T16:25:01+00:00"
-   },
+   }
+  ],
+  "East & SE Asia": [
    {
-    "id": "7464f163e977",
-    "title": "‘We need freedom’: New Delhi women protest sexual violence",
-    "country": "India",
-    "city": "Delhi",
+    "id": "c192d9d8d95e",
+    "title": "Growing outrage in Japan after US Marine arrested in woman’s killing",
+    "country": "Japan",
+    "city": "Tokyo",
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-04T15:20:48+00:00"
+    "time": "2026-10-05T11:25:45+00:00"
+   },
+   {
+    "id": "397d28399a57",
+    "title": "U.S. Marine suspected in woman's death arrested in Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-05T10:53:37+00:00"
+   },
+   {
+    "id": "0b8b6fd10f67",
+    "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+    "country": "Japan",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-05T08:22:41+00:00"
+   },
+   {
+    "id": "5ecbb9034eac",
+    "title": "Extreme heat warnings issued for parts of southern California",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-05T08:20:52+00:00"
+   },
+   {
+    "id": "234c31b87b7c",
+    "title": "M4.9 earthquake, Volcano Islands, Japan region",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-05T07:13:38.006000+00:00"
+   },
+   {
+    "id": "e15a9cea3597",
+    "title": "M4.8 earthquake, 191 km ESE of Sarangani, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-05T06:14:15.888000+00:00"
+   },
+   {
+    "id": "ba1c610c6c44",
+    "title": "Who were the top teen athletes at the Asian Games?",
+    "country": "China",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-05T05:12:38+00:00"
+   },
+   {
+    "id": "c95cefffb2f4",
+    "title": "Philippines arrests 244 suspects in online scam crackdown",
+    "country": "Philippines",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-04T16:00:50+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "d28828ea7621",
+    "title": "M5.0 earthquake, 71 km E of ‘Ohonua, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-05T05:26:44.808000+00:00"
    }
   ],
   "North America": [
