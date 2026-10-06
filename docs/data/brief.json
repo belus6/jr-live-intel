@@ -1,17 +1,109 @@
 {
- "generated": "2026-10-06T07:54:48.014985+00:00",
+ "generated": "2026-10-06T14:47:26.743637+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 46,
-  "3": 26,
-  "4": 7,
+  "2": 52,
+  "3": 32,
+  "4": 8,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
+  "Western Europe": [
+   {
+    "id": "66e3049709be",
+    "title": "UK police arrest 22-year-old British man in suspected Fairford base plot",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B2",
+    "time": "2026-10-06T12:26:41+00:00"
+   },
+   {
+    "id": "e0ea96f5941c",
+    "title": "'They Stole a City' author Lauren Collins on how Wilmington coup was 'covered up'",
+    "country": "France",
+    "city": "Paris",
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-06T13:53:53+00:00"
+   },
+   {
+    "id": "ca3d19f682ef",
+    "title": "UK police arrest British national linked to airbase incident",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-06T13:44:19+00:00"
+   },
+   {
+    "id": "ddc03b059955",
+    "title": "Philip Ingram sees Russia, China and Iran stepping up ‘gray zone’ activities across UK and Europe",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T11:13:12+00:00"
+   },
+   {
+    "id": "44b7945fafaf",
+    "title": "🔴 Live: Thousands of students march across France as clashes reported in Lyon and Strasbourg",
+    "country": "France",
+    "city": "Lyon",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T10:40:47+00:00"
+   },
+   {
+    "id": "9912cf9785a4",
+    "title": "Badenoch claims of Tory air defence plan ‘we haven’t called it Iron Dome’ - despite phrase in press release - UK politics live",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T07:42:28+00:00"
+   },
+   {
+    "id": "df4fda0f438b",
+    "title": "France braces for national day of school protests as boy loses hand",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-05T15:50:50+00:00"
+   },
+   {
+    "id": "01742875cce7",
+    "title": "Asos customers receive ‘hack’ notification threatening to leak data",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T13:35:31+00:00"
+   }
+  ],
   "Middle East & N. Africa": [
+   {
+    "id": "9210e135882e",
+    "title": "US, Israeli and European far-right figures to gather for conference in Israel",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-06T12:21:01+00:00"
+   },
    {
     "id": "5e57742d32ab",
     "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on October 7 anniversary eve",
@@ -53,126 +145,34 @@
     "time": "2026-10-05T15:45:46+00:00"
    },
    {
-    "id": "8a9f6e232321",
-    "title": "Russia: Foreign minister praises governemt in Kabul",
-    "country": "Afghanistan",
-    "city": "Kabul",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-05T13:00:33+00:00"
+    "id": "4354b6ea5a70",
+    "title": "‘Deranged’ and ‘dangerous’ Trump calls for Iran to strike US cities amid historic ratings low | First Thing",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T12:29:42+00:00"
    },
    {
-    "id": "32352e55dcb8",
-    "title": "Yemeni government forces launch major offensive to retake Houthi-held territory",
+    "id": "a629663412a9",
+    "title": "Pakistan, Turkiye and Saudi deterrence against Houthis: What that means",
     "country": "Yemen",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C2",
-    "time": "2026-10-05T08:06:51+00:00"
-   },
-   {
-    "id": "aa42b4ccf869",
-    "title": "UN rights council condemns attacks on civilians in Sudan, calls for truce",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-06T02:54:31+00:00"
+    "time": "2026-10-06T12:22:46+00:00"
    },
    {
-    "id": "8a1ab5123bf9",
-    "title": "Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows",
+    "id": "a12635307e18",
+    "title": "Yemen's Houthis claim attack on Riyadh airport",
     "country": "Saudi Arabia",
     "city": "Riyadh",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-06T01:39:54+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "80339bb3e3af",
-    "title": "US withdraws all bombers from UK base at centre of suspected terror attack",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-05T09:49:23+00:00"
-   },
-   {
-    "id": "418e3bab0cec",
-    "title": "Britain's Green Party votes to class Zionism as a form of racism",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-05T09:44:43+00:00"
-   },
-   {
-    "id": "9912cf9785a4",
-    "title": "Badenoch claims of Tory air defence plan ‘we haven’t called it Iron Dome’ - despite phrase in press release - UK politics live",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T07:42:28+00:00"
-   },
-   {
-    "id": "448bd0a8084e",
-    "title": "Spanish PM Sanchez calls snap election amid housing crisis",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-05T08:42:29+00:00"
-   },
-   {
-    "id": "df4fda0f438b",
-    "title": "France braces for national day of school protests as boy loses hand",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-05T15:50:50+00:00"
-   },
-   {
-    "id": "4cb5e0a371ab",
-    "title": "‘Bully in every way’: domestic abuse survivors say ex-partners behind far-right UK street patrols",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T06:00:05+00:00"
-   },
-   {
-    "id": "491fe68f3797",
-    "title": "Violent clashes erupt after mass housing protest in Barcelona",
-    "country": "Spain",
-    "city": "Barcelona",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T04:34:51+00:00"
-   },
-   {
-    "id": "ab5316551a63",
-    "title": "Live: Tens of thousands expected at Paris protests as unions join students",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T02:31:54+00:00"
+    "time": "2026-10-06T10:15:00+00:00"
    }
   ],
   "Eastern Europe": [
@@ -185,6 +185,46 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-10-06T00:00:52+00:00"
+   },
+   {
+    "id": "795b2a6a1858",
+    "title": "The price of doing business in Russia",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-06T12:54:43+00:00"
+   },
+   {
+    "id": "dc666ca7f64a",
+    "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T12:42:19+00:00"
+   },
+   {
+    "id": "2b29d0863b4b",
+    "title": "Ship sinks and crew missing after Black Sea drone attack",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T11:53:21+00:00"
+   },
+   {
+    "id": "eec151f7f896",
+    "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T09:48:37+00:00"
    },
    {
     "id": "049db987a69b",
@@ -215,49 +255,39 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-05T23:50:12+00:00"
-   },
+   }
+  ],
+  "Sub-Saharan Africa": [
    {
-    "id": "819ff92527f3",
-    "title": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-05T23:50:12+00:00"
-   },
-   {
-    "id": "6bdefc5b6b38",
-    "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
-    "country": "Ukraine",
+    "id": "bfaa587595b1",
+    "title": "Ethiopia 'fears Tigray conflict could get out of control'",
+    "country": "Ethiopia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-05T20:03:06+00:00"
+    "time": "2026-10-06T14:11:00+00:00"
    },
    {
-    "id": "9eee587dcf70",
-    "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
-    "country": "Ukraine",
+    "id": "f137d42aa65b",
+    "title": "Tigray students relocated by conflict say fled forced conscription",
+    "country": "Ethiopia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-05T12:33:20+00:00"
+    "time": "2026-10-06T12:29:04+00:00"
    },
    {
-    "id": "3850d983ea97",
-    "title": "Estonia moves troops closer to Russian border amid shift in strategic thinking",
-    "country": "Estonia",
+    "id": "21813435bd35",
+    "title": "Tigray violence drives risk of Ethiopia-Eritrea war, analyst says",
+    "country": "Ethiopia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-05T09:57:01+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
+    "time": "2026-10-06T10:20:38+00:00"
+   },
    {
     "id": "079bcec973f1",
     "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
@@ -299,181 +329,27 @@
     "time": "2026-10-05T21:10:43+00:00"
    },
    {
-    "id": "1273fef494e6",
-    "title": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
-    "country": "Somalia",
-    "city": "Mogadishu",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-05T12:00:24+00:00"
-   },
-   {
-    "id": "fda4598bb77f",
-    "title": "Guinea opposition leader Aliou Bah freed after presidential pardon",
-    "country": "Guinea",
+    "id": "590fc1431463",
+    "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+    "country": "DRC",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-05T11:20:18+00:00"
-   },
-   {
-    "id": "4e07f39a4ecd",
-    "title": "Several killed in Senegal as heavy rains cause flooding, damage to infrastructure",
-    "country": "Senegal",
-    "city": "Dakar",
-    "category": "hazard",
+    "category": "health",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-06T06:18:41+00:00"
-   },
-   {
-    "id": "ca890bee0aee",
-    "title": "M4.6 earthquake, 12 km ENE of Metahāra, Ethiopia",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-05T19:47:55.779000+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "a4b322100a59",
-    "title": "South Korea shipped fuel to Russia via sanctioned vessels, media reports",
-    "country": "South Korea",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-06T03:13:48+00:00"
-   },
-   {
-    "id": "c1c2a40be820",
-    "title": "M4.6 earthquake, Izu Islands, Japan region",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-06T04:28:36.912000+00:00"
-   },
-   {
-    "id": "cb94674ad3d3",
-    "title": "M4.8 earthquake, 146 km WNW of Panguna, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-05T22:48:53.669000+00:00"
-   },
-   {
-    "id": "d2fe3f49e0a8",
-    "title": "M4.5 earthquake, 39 km SW of Tambolaka, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-05T21:38:05.713000+00:00"
-   },
-   {
-    "id": "0cda25c96fea",
-    "title": "M4.7 earthquake, 75 km NNE of Yonakuni, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-05T13:30:45.560000+00:00"
-   },
-   {
-    "id": "c192d9d8d95e",
-    "title": "Growing outrage in Japan after US Marine arrested in woman’s killing",
-    "country": "Japan",
-    "city": "Tokyo",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-05T11:25:45+00:00"
-   },
-   {
-    "id": "397d28399a57",
-    "title": "U.S. Marine suspected in woman's death arrested in Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-05T10:53:37+00:00"
-   },
-   {
-    "id": "0b8b6fd10f67",
-    "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-    "country": "Japan",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-05T08:22:41+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "907dcb3fd7b8",
-    "title": "Pakistan installs fishing nets at security outposts to block drone attacks",
-    "country": "Pakistan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-05T08:20:34+00:00"
-   },
-   {
-    "id": "d36a145c5e4e",
-    "title": "M4.6 earthquake, 31 km S of Tezpur, India",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-05T22:53:42.181000+00:00"
-   },
-   {
-    "id": "10e122e0d178",
-    "title": "Supporters of Imran Khan start march on locked-down Islamabad",
-    "country": "Pakistan",
-    "city": "Islamabad",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-05T15:19:46+00:00"
-   },
-   {
-    "id": "17ea6f8608d7",
-    "title": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
-    "country": "Pakistan",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-05T11:38:26+00:00"
-   },
-   {
-    "id": "28875419dcf0",
-    "title": "Indian police detain demonstrators as protests over voter roll revision intensify",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-05T11:04:03+00:00"
+    "confidence": "B2",
+    "time": "2026-10-06T12:46:56+00:00"
    }
   ],
   "North America": [
+   {
+    "id": "75eb2df91c6a",
+    "title": "New York governor declares state of emergency after spike in measles cases",
+    "country": "United States",
+    "city": "New York",
+    "category": "health",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T13:17:51+00:00"
+   },
    {
     "id": "c3922e9c384d",
     "title": "New York declares statewide disaster emergency as measles cases rise",
@@ -483,6 +359,16 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-05T21:23:04+00:00"
+   },
+   {
+    "id": "6f1c9150d135",
+    "title": "US citizen alleges immigration agent in Chicago shot her from behind",
+    "country": "United States",
+    "city": "Chicago",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T14:08:55+00:00"
    },
    {
     "id": "33ab75f1bf80",
@@ -523,6 +409,152 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-05T19:43:33+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "cbffdb9aa3b6",
+    "title": "What to know about nationwide protests in India over voter list changes",
+    "country": "India",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T11:44:06+00:00"
+   },
+   {
+    "id": "aa8cda30c1ce",
+    "title": "Indian opposition MPs detained in protest against election chief",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-06T10:05:22+00:00"
+   },
+   {
+    "id": "be361a12a9a6",
+    "title": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T14:13:55+00:00"
+   },
+   {
+    "id": "04b4989ff132",
+    "title": "India opposition parties rally for election chief’s exit over voter list changes",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T14:06:37+00:00"
+   },
+   {
+    "id": "d36a145c5e4e",
+    "title": "M4.6 earthquake, 31 km S of Tezpur, India",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-05T22:53:42.181000+00:00"
+   },
+   {
+    "id": "10e122e0d178",
+    "title": "Supporters of Imran Khan start march on locked-down Islamabad",
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-05T15:19:46+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "a4b322100a59",
+    "title": "South Korea shipped fuel to Russia via sanctioned vessels, media reports",
+    "country": "South Korea",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-06T03:13:48+00:00"
+   },
+   {
+    "id": "398d18c85f7e",
+    "title": "M4.9 earthquake, 48 km NNE of Semporna, Malaysia",
+    "country": "Malaysia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-06T13:11:22.577000+00:00"
+   },
+   {
+    "id": "541a02ea64d0",
+    "title": "Green forest fire notification in China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-06T11:06:51+00:00"
+   },
+   {
+    "id": "c1c2a40be820",
+    "title": "M4.6 earthquake, Izu Islands, Japan region",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-06T04:28:36.912000+00:00"
+   },
+   {
+    "id": "cb94674ad3d3",
+    "title": "M4.8 earthquake, 146 km WNW of Panguna, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-05T22:48:53.669000+00:00"
+   },
+   {
+    "id": "d2fe3f49e0a8",
+    "title": "M4.5 earthquake, 39 km SW of Tambolaka, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-05T21:38:05.713000+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "e11fe77c04ef",
+    "title": "Australia faces summer of extreme weather, Anthony Albanese warns at pre-Cop",
+    "country": "Tuvalu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T11:36:12+00:00"
+   },
+   {
+    "id": "a22219302f5e",
+    "title": "M4.9 earthquake, State of Yap, Federated States of Micronesia",
+    "country": "Micronesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-06T04:40:28.098000+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -567,6 +599,16 @@
     "time": "2026-10-05T23:01:15+00:00"
    },
    {
+    "id": "b81a60a934db",
+    "title": "Green forest fire notification in Brazil",
+    "country": "Brazil",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-05T23:00:54+00:00"
+   },
+   {
     "id": "ee358f01e7c4",
     "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
     "country": "Brazil",
@@ -575,28 +617,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-05T20:06:18+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "a22219302f5e",
-    "title": "M4.9 earthquake, State of Yap, Federated States of Micronesia",
-    "country": "Micronesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-06T04:40:28.098000+00:00"
-   },
-   {
-    "id": "97e9b7e80306",
-    "title": "M4.6 earthquake, 21 km S of Luganville, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-05T11:47:07.753000+00:00"
    }
   ]
  }
