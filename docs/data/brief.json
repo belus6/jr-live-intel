@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-06T19:59:49.155522+00:00",
+ "generated": "2026-10-06T23:44:27.910246+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 70,
-  "3": 42,
+  "2": 79,
+  "3": 38,
   "4": 8,
   "5": 0
  },
@@ -95,6 +95,48 @@
     "time": "2026-10-06T11:13:12+00:00"
    }
   ],
+  "Oceania": [
+   {
+    "id": "fd6cd8b97c9e",
+    "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on 7 October anniversary",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-06T20:59:31+00:00"
+   },
+   {
+    "id": "57bd37888add",
+    "title": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
+    "country": "New Zealand",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T23:11:27+00:00"
+   },
+   {
+    "id": "e11fe77c04ef",
+    "title": "Australia faces summer of extreme weather, Anthony Albanese warns at pre-Cop",
+    "country": "Tuvalu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T11:36:12+00:00"
+   },
+   {
+    "id": "a22219302f5e",
+    "title": "M4.9 earthquake, State of Yap, Federated States of Micronesia",
+    "country": "Micronesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-06T04:40:28.098000+00:00"
+   }
+  ],
   "Middle East & N. Africa": [
    {
     "id": "9210e135882e",
@@ -117,14 +159,14 @@
     "time": "2026-10-06T07:00:06+00:00"
    },
    {
-    "id": "68eb0737c903",
-    "title": "In Iraq, ISIS members once jailed in Syria face trial",
-    "country": "Iraq",
+    "id": "c1e3d7cea88d",
+    "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
+    "country": "Yemen",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-05T22:04:44+00:00"
+    "time": "2026-10-06T21:57:03+00:00"
    },
    {
     "id": "fd1778b2c312",
@@ -321,24 +363,24 @@
     "time": "2026-10-06T05:00:02+00:00"
    },
    {
-    "id": "e1aac747dbfe",
-    "title": "What’s happening in Ethiopia?",
-    "country": "Ethiopia",
+    "id": "590fc1431463",
+    "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+    "country": "DRC",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-05T23:38:51+00:00"
+    "category": "health",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-06T12:46:56+00:00"
    },
    {
-    "id": "7bbcff009b7f",
-    "title": "Ethiopia: PM vows to secure sea access amid fears of return to war",
-    "country": "Ethiopia",
+    "id": "3b29e7f8a080",
+    "title": "Kenya confirms first Ebola death as 28 contacts traced",
+    "country": "Kenya",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-05T21:18:51+00:00"
+    "category": "health",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-06T09:57:32+00:00"
    }
   ],
   "North America": [
@@ -363,14 +405,34 @@
     "time": "2026-10-06T13:17:51+00:00"
    },
    {
-    "id": "c3922e9c384d",
-    "title": "New York declares statewide disaster emergency as measles cases rise",
+    "id": "1455085b9c8a",
+    "title": "LA and San Diego residents ‘horrified’ by Trump’s comment: ‘obsessed with us’",
     "country": "United States",
-    "city": "New York",
-    "category": "health",
+    "city": "Los Angeles",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-05T21:23:04+00:00"
+    "confidence": "B3",
+    "time": "2026-10-06T22:49:00+00:00"
+   },
+   {
+    "id": "0ba5436e10e1",
+    "title": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+    "country": "Canada",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T22:06:04+00:00"
+   },
+   {
+    "id": "7728537e97ae",
+    "title": "US arrests suspect in connection with Tumbler Ridge school shooting",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T21:28:35+00:00"
    },
    {
     "id": "85a55c11508c",
@@ -401,26 +463,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-06T14:08:55+00:00"
-   },
-   {
-    "id": "33ab75f1bf80",
-    "title": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T07:12:00+00:00"
-   },
-   {
-    "id": "3165a58217bc",
-    "title": "Former ‘American Idol’ singer Caleb Flynn gets life for wife’s murder",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T01:24:53+00:00"
    }
   ],
   "South Asia": [
@@ -473,16 +515,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-06T14:06:37+00:00"
-   },
-   {
-    "id": "d36a145c5e4e",
-    "title": "M4.6 earthquake, 31 km S of Tezpur, India",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-05T22:53:42.181000+00:00"
    }
   ],
   "East & SE Asia": [
@@ -495,6 +527,46 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-06T03:13:48+00:00"
+   },
+   {
+    "id": "2ef09e6c2644",
+    "title": "M4.8 earthquake, 190 km SW of Abepura, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-06T21:56:42.540000+00:00"
+   },
+   {
+    "id": "1a91a3c51abf",
+    "title": "Tokyo protests US military presence after Okinawa killing",
+    "country": "Japan",
+    "city": "Tokyo",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T21:20:28+00:00"
+   },
+   {
+    "id": "6733c4b7c3fb",
+    "title": "M4.5 earthquake, 43 km WNW of Bengkulu, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-06T19:01:59.145000+00:00"
+   },
+   {
+    "id": "20fd8d63b12a",
+    "title": "M4.9 earthquake, 114 km SW of Turpan, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-06T18:15:34.402000+00:00"
    },
    {
     "id": "398d18c85f7e",
@@ -517,37 +589,37 @@
     "time": "2026-10-06T11:06:51+00:00"
    },
    {
-    "id": "c1c2a40be820",
-    "title": "M4.6 earthquake, Izu Islands, Japan region",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-06T04:28:36.912000+00:00"
-   },
-   {
-    "id": "cb94674ad3d3",
-    "title": "M4.8 earthquake, 146 km WNW of Panguna, Papua New Guinea",
+    "id": "acebe8ba2e5e",
+    "title": "M4.9 earthquake, 55 km ESE of Kokopo, Papua New Guinea",
     "country": "Papua New Guinea",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-05T22:48:53.669000+00:00"
-   },
-   {
-    "id": "d2fe3f49e0a8",
-    "title": "M4.5 earthquake, 39 km SW of Tambolaka, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-05T21:38:05.713000+00:00"
+    "time": "2026-10-06T08:45:26.946000+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "966e1931e948",
+    "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
+    "country": "Venezuela",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T23:05:38+00:00"
+   },
+   {
+    "id": "50b11070dffb",
+    "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T22:07:44+00:00"
+   },
    {
     "id": "6fb81961e3de",
     "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
@@ -587,58 +659,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-06T06:14:44+00:00"
-   },
-   {
-    "id": "92d88aef9f73",
-    "title": "Green forest fire notification in Bolivia",
-    "country": "Bolivia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-05T23:01:15+00:00"
-   },
-   {
-    "id": "b81a60a934db",
-    "title": "Green forest fire notification in Brazil",
-    "country": "Brazil",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-05T23:00:54+00:00"
-   },
-   {
-    "id": "ee358f01e7c4",
-    "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
-    "country": "Brazil",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-05T20:06:18+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "e11fe77c04ef",
-    "title": "Australia faces summer of extreme weather, Anthony Albanese warns at pre-Cop",
-    "country": "Tuvalu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T11:36:12+00:00"
-   },
-   {
-    "id": "a22219302f5e",
-    "title": "M4.9 earthquake, State of Yap, Federated States of Micronesia",
-    "country": "Micronesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-06T04:40:28.098000+00:00"
    }
   ]
  }
