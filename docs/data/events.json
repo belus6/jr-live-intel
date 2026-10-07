@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-07T02:43:24.985850+00:00",
+ "generated": "2026-10-07T09:22:09.535922+00:00",
  "sample": false,
- "count": 338,
+ "count": 325,
  "events": [
+  {
+   "title": "Russia slams Ukraine with missiles, drones on Putin's 74th birthday, at least 15 dead",
+   "summary": "",
+   "url": "https://kyivindependent.com/russia-slams-kyiv-in-mass-missile-drone-attack-on-putins-74th-birthday/",
+   "time": "2026-10-07T00:25:09+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-slams-kyiv-in-mass-missile-drone-attack-on-putins-74th-birthday/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-07T09:22:09.535922+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "bc2866f03e3a",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
   {
    "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on 7 October anniversary",
    "summary": "",
@@ -770,39 +798,6 @@
    "watch": []
   },
   {
-   "title": "Flydubai co-pilot attempted 'terrorist attack,' UAE says",
-   "summary": "",
-   "url": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-10-03T08:17:00+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "UAE",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    },
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-04T13:45:05.432744+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "d8f6c4224883",
-   "flag": "🇦🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.53,
-   "watch": []
-  },
-  {
    "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
@@ -828,77 +823,6 @@
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "UAE investigators say Omani Flydubai co-pilot was planning 'terrorist' attack",
-   "summary": "",
-   "url": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
-   "time": "2026-10-03T06:17:45+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "UAE",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
-     "tier": "B"
-    },
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T12:03:09.196597+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "f2353553635d",
-   "flag": "🇦🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.53,
-   "watch": []
-  },
-  {
-   "title": "Flydubai co-pilot attacked captain with crash axe in ‘terrorist act’: UAE",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae?traffic_source=rss",
-   "time": "2026-10-03T06:16:47+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "UAE",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae?traffic_source=rss",
-     "tier": "B"
-    },
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-     "tier": "B"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T12:03:09.196597+00:00",
-   "confidence": "B1",
-   "corroboration": 3,
-   "id": "343ac8790106",
-   "flag": "🇦🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.53,
    "watch": []
   },
   {
@@ -3218,179 +3142,6 @@
    "watch": []
   },
   {
-   "title": "Russia targets Kyiv bridges for fourth consecutive day, hits Northern Bridge",
-   "summary": "",
-   "url": "https://kyivindependent.com/russia-targets-kyiv-bridges-for-fourth-consecutive-day-hits-northern-bridge/",
-   "time": "2026-10-04T09:14:04+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russia-targets-kyiv-bridges-for-fourth-consecutive-day-hits-northern-bridge/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-04T13:45:05.432744+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "394e05b83fa4",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Merz unveils new aid for Ukraine as Russia strikes Kyiv during German leader's visit",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261004-merz-unveils-new-aid-for-ukraine-as-russia-strikes-kyiv-during-german-leader-s-visit",
-   "time": "2026-10-04T08:38:43+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261004-merz-unveils-new-aid-for-ukraine-as-russia-strikes-kyiv-during-german-leader-s-visit",
-     "tier": "B"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-04T20:56:33.239017+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "f0140e6307b6",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "General Staff: Russia has lost 1,540,700 troops in Ukraine since Feb. 24, 2022",
-   "summary": "",
-   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-540-700-troops-in-ukraine-since-feb-24-2022/",
-   "time": "2026-10-04T08:08:12+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-540-700-troops-in-ukraine-since-feb-24-2022/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-04T13:45:05.432744+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "eb8c6250ca01",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
-   "summary": "",
-   "url": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities",
-   "time": "2026-10-04T07:58:36+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-04T13:45:05.432744+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4cc90ba8a1f5",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
-   "summary": "",
-   "url": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-10-04T03:48:00+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ethiopia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-05T11:47:38.560872+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4035476d7894",
-   "flag": "🇪🇹",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.2,
-   "watch": []
-  },
-  {
-   "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
-   "time": "2026-10-04T03:33:49+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Saudi Arabia",
-   "city": "Riyadh",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-04T07:50:45.566262+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "496c0cfd35ea",
-   "flag": "🇸🇦",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
-   "watch": []
-  },
-  {
    "title": "M5.9 earthquake, 39 km WSW of Tambolaka, Indonesia",
    "summary": "Depth 46 km. Alert: green.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer",
@@ -3615,6 +3366,202 @@
    "watch": []
   },
   {
+   "title": "French police suspend use of stun grenades after high-school protester loses hand",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
+   "time": "2026-10-07T09:09:07+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-07T09:22:09.535922+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "edcf43002982",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Thousands protest in France to support students calling for more resources in schools",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/07/nx-s1-5992967/thousands-protest-in-france-to-support-students-calling-for-more-resources-in-schools",
+   "time": "2026-10-07T08:44:20+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/07/nx-s1-5992967/thousands-protest-in-france-to-support-students-calling-for-more-resources-in-schools",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-07T09:22:09.535922+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "09da4552cbe8",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "American teacher based in France discusses the student-led protests",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/07/nx-s1-5992754/american-teacher-based-in-france-discusses-the-student-led-protests",
+   "time": "2026-10-07T08:44:10+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Marseille",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/07/nx-s1-5992754/american-teacher-based-in-france-discusses-the-student-led-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-07T09:22:09.535922+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "08f431705825",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "India's opposition leader dragged onto bus as police break up protest",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-07T07:45:47+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-07T09:22:09.535922+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "6edf64bf13ee",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 80 km SW of El Arenal, Mexico",
+   "summary": "Depth 62 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1",
+   "time": "2026-10-07T07:43:19.524000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Mexico",
+   "city": null,
+   "lat": 14.6207,
+   "lon": -93.1891,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-07T09:22:09.535922+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "fbd63415bb37",
+   "flag": "🇲🇽",
+   "region": "North America",
+   "baseline": 3.32,
+   "watch": []
+  },
+  {
+   "title": "Scientists who put faith in technology less likely to take climate action",
+   "summary": "",
+   "url": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
+   "time": "2026-10-07T06:00:36+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "United Kingdom",
+   "city": "London",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-07T09:22:09.535922+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "52016bfae199",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "Detective breaks down in court as she recalls finding Beau Lamarre-Condon’s alleged murder victims",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb",
+   "time": "2026-10-07T05:47:03+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Australia",
+   "city": "Sydney",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-07T09:22:09.535922+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3a3c3e3fc006",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
    "title": "Haiti postpones elections indefinitely as gang violence hampers preparations",
    "summary": "",
    "url": "https://www.france24.com/en/americas/20261007-haiti-postpones-elections-indefinitely-as-gang-violence-hampers-preparations",
@@ -3640,6 +3587,34 @@
    "flag": "🇭🇹",
    "region": "Latin America & Caribbean",
    "baseline": 4.53,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 37 km ESE of Iwaki, Japan",
+   "summary": "Depth 53 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0mr",
+   "time": "2026-10-07T00:22:41.953000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Japan",
+   "city": null,
+   "lat": 36.9504,
+   "lon": 141.2803,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0mr",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-07T09:22:09.535922+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3f7beb2ccf7b",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
    "watch": []
   },
   {
@@ -3808,6 +3783,34 @@
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, Kermadec Islands, New Zealand",
+   "summary": "Depth 71 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ll",
+   "time": "2026-10-06T22:12:46.267000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "New Zealand",
+   "city": null,
+   "lat": -29.8721,
+   "lon": -177.6188,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ll",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-07T09:22:09.535922+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "347cc8a1cff3",
+   "flag": "🇳🇿",
+   "region": "Oceania",
+   "baseline": 1.05,
    "watch": []
   },
   {
@@ -4060,6 +4063,34 @@
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2.101 million .",
+   "summary": "From 06/10/2026 to 07/10/2026, a Tropical Storm (maximum wind speed of 176 km/h) ISAIAS-26 was active in Atlantic. The cyclone affects these countries: United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 2.101 million .",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001334",
+   "time": "2026-10-06T21:01:35+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "United States",
+   "city": null,
+   "lat": 22.0,
+   "lon": -94.1,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001334",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-07T09:22:09.535922+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "45dd70358cac",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
    "watch": []
   },
   {
@@ -4652,6 +4683,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "beec7ffdd15b",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "France's conundrum: How to cut spending amid protests",
+   "summary": "",
+   "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-world-4025-rdf",
+   "time": "2026-10-06T16:49:00+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-world-4025-rdf",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-07T09:22:09.535922+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c1e5a2e63a1e",
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
@@ -6877,72 +6936,6 @@
    "watch": []
   },
   {
-   "title": "Spanish PM Sanchez calls snap election amid housing crisis",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261005-spanish-pm-sanchez-calls-snap-election-amid-housing-crisis",
-   "time": "2026-10-05T08:42:29+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Spain",
-   "city": "Madrid",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261005-spanish-pm-sanchez-calls-snap-election-amid-housing-crisis",
-     "tier": "B"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-05T11:47:38.560872+00:00",
-   "confidence": "B1",
-   "corroboration": 3,
-   "id": "448bd0a8084e",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-05T08:22:41+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Japan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-05T11:47:38.560872+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "0b8b6fd10f67",
-   "flag": "🇯🇵",
-   "region": "East & SE Asia",
-   "baseline": 1.07,
-   "watch": []
-  },
-  {
    "title": "Extreme heat warnings issued for parts of southern California",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/oct/05/extreme-heat-warnings-southern-california",
@@ -6968,34 +6961,6 @@
    "flag": "🇮🇩",
    "region": "East & SE Asia",
    "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "French high school protests: 'Mum if you see this it's for my future'",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/press-review/20261005-mum-if-you-see-this-it-s-for-my-future",
-   "time": "2026-10-05T08:06:51+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/press-review/20261005-mum-if-you-see-this-it-s-for-my-future",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-05T11:47:38.560872+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b3d1dd8b2fca",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -7167,62 +7132,6 @@
    "watch": []
   },
   {
-   "title": "Hundreds of French schools closed amid protests",
-   "summary": "",
-   "url": "https://www.dw.com/en/hundreds-of-french-schools-closed-amid-protests/a-79542656?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-10-05T05:48:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/hundreds-of-french-schools-closed-amid-protests/a-79542656?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-05T11:47:38.560872+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "95a7360c3745",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Hundreds of French schools shut, teen loses hand in protests",
-   "summary": "",
-   "url": "https://www.dw.com/en/hundreds-of-french-schools-shut-teen-loses-hand-in-protests/a-79542656?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-10-05T05:48:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/hundreds-of-french-schools-shut-teen-loses-hand-in-protests/a-79542656?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-06T01:22:38.925437+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "7d968dad258f",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "M5.0 earthquake, 71 km E of ‘Ohonua, Tonga",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme",
@@ -7248,95 +7157,6 @@
    "flag": "🇹🇴",
    "region": "Oceania",
    "baseline": 1.93,
-   "watch": []
-  },
-  {
-   "title": "Live: Student's hand blown off as protests continue in France, disrupting at least 413 schools",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261005-live-up-to-500-schools-to-shut-in-france-as-student-protests-continue",
-   "time": "2026-10-05T05:15:51+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261005-live-up-to-500-schools-to-shut-in-france-as-student-protests-continue",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-05T11:47:38.560872+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "8e17cfa3736c",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Who were the top teen athletes at the Asian Games?",
-   "summary": "",
-   "url": "https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss",
-   "time": "2026-10-05T05:12:38+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "China",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-05T11:47:38.560872+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ba1c610c6c44",
-   "flag": "🇨🇳",
-   "region": "East & SE Asia",
-   "baseline": 2.75,
-   "watch": []
-  },
-  {
-   "title": "France closes up to 500 schools Monday over student protests",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-05T04:49:14+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261005-up-to-500-french-schools-to-be-closed-monday-as-protests-continue",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-05T11:47:38.560872+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "59d988747f63",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -8740,34 +8560,6 @@
    "watch": []
   },
   {
-   "title": "Eastern Spain braces for torrential rain and flooding",
-   "summary": "",
-   "url": "https://www.theguardian.com/environment/2026/oct/02/weather-tracker-eastern-spain-torrential-rain-flooding-nepal-landslides",
-   "time": "2026-10-02T08:58:10+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Spain",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/environment/2026/oct/02/weather-tracker-eastern-spain-torrential-rain-flooding-nepal-landslides",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-03T12:03:09.196597+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fc941bd5f828",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Ukraine",
    "summary": "Updated information about the Russian invasion of Ukraine ('Warnings and insurance' page).",
    "url": "https://www.gov.uk/foreign-travel-advice/ukraine",
@@ -8793,202 +8585,6 @@
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "M4.8 earthquake, 35 km SSW of El Colomo, Mexico",
-   "summary": "Depth 24 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzx",
-   "time": "2026-10-02T06:53:35.007000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Mexico",
-   "city": null,
-   "lat": 18.7561,
-   "lon": -104.3753,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzx",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "33cd8cbd893e",
-   "flag": "🇲🇽",
-   "region": "North America",
-   "baseline": 3.32,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 101 km NE of Ruteng, Indonesia",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzy",
-   "time": "2026-10-02T06:48:06.954000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": -7.9511,
-   "lon": 121.0985,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzy",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "69e5381f4f90",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "Green flood alert in Islamic Republic of Iran",
-   "summary": "On 27/09/2026, a flood started in Islamic Republic of Iran, lasting until 29/09/2026 (last update). The flood caused 1 deaths and 0 displaced .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104206",
-   "time": "2026-10-02T06:25:28+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Iran",
-   "city": null,
-   "lat": 37.2492965,
-   "lon": 55.1659018,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104206",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "aa3d0b8edade",
-   "flag": "🇮🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.58,
-   "watch": []
-  },
-  {
-   "title": "M4.8 earthquake, 192 km WNW of Tobelo, Indonesia",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzt",
-   "time": "2026-10-02T05:38:55.084000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": 2.5781,
-   "lon": 126.4944,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzt",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "f72c7f4c1b6f",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "M5.1 earthquake, 159 km SE of Gizo, Solomon Islands",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl",
-   "time": "2026-10-02T04:44:53.423000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Solomon Islands",
-   "city": null,
-   "lat": -8.9326,
-   "lon": 158.0215,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "8336f8a7dc94",
-   "flag": "🇸🇧",
-   "region": "Oceania",
-   "baseline": 2.71,
-   "watch": []
-  },
-  {
-   "title": "M5.0 earthquake, south of the Fiji Islands",
-   "summary": "Depth 557 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi",
-   "time": "2026-10-02T04:27:05.754000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Fiji",
-   "city": null,
-   "lat": -24.7752,
-   "lon": 178.6446,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "ce6034589ae0",
-   "flag": "🇫🇯",
-   "region": "Oceania",
-   "baseline": 2.12,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, 97 km S of Panguna, Papua New Guinea",
-   "summary": "Depth 35 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg",
-   "time": "2026-10-02T04:10:58.487000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Papua New Guinea",
-   "city": null,
-   "lat": -7.1852,
-   "lon": 155.6075,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "aa146550fa12",
-   "flag": "🇵🇬",
-   "region": "East & SE Asia",
-   "baseline": 3.3,
    "watch": []
   },
   {

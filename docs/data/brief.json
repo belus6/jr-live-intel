@@ -1,18 +1,100 @@
 {
- "generated": "2026-10-07T02:43:24.985850+00:00",
+ "generated": "2026-10-07T09:22:09.535922+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 80,
-  "3": 38,
-  "4": 8,
-  "5": 0
+  "2": 78,
+  "3": 31,
+  "4": 7,
+  "5": 1
  },
  "watch_hits": [
   "c7db7eae702a"
  ],
  "regions": {
+  "Eastern Europe": [
+   {
+    "id": "bc2866f03e3a",
+    "title": "Russia slams Ukraine with missiles, drones on Putin's 74th birthday, at least 15 dead",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "C4",
+    "time": "2026-10-07T00:25:09+00:00"
+   },
+   {
+    "id": "c7e64480caaf",
+    "title": "Russia slams Kyiv in mass missile, drone attack on Putin's 74th birthday",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-07T00:25:09+00:00"
+   },
+   {
+    "id": "14c7cc8c022f",
+    "title": "Ship sinks off Bulgaria after drone attack in Black Sea",
+    "country": "Bulgaria",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T16:53:04+00:00"
+   },
+   {
+    "id": "32b6629d1d9c",
+    "title": "M5.9 earthquake, 264 km SSW of Severo-Kuril’sk, Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-06T16:48:21.805000+00:00"
+   },
+   {
+    "id": "d2c13ef2c076",
+    "title": "Ukraine fires nearly 900 drones at Russia, says Moscow",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T16:01:42+00:00"
+   },
+   {
+    "id": "6498bbe14df5",
+    "title": "Russian losses to Ukrainian drones surge in early October, Madyar says",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-06T15:06:46+00:00"
+   },
+   {
+    "id": "795b2a6a1858",
+    "title": "The price of doing business in Russia",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-06T12:54:43+00:00"
+   },
+   {
+    "id": "dc666ca7f64a",
+    "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T12:42:19+00:00"
+   }
+  ],
   "Western Europe": [
    {
     "id": "66e3049709be",
@@ -107,6 +189,16 @@
     "time": "2026-10-06T20:59:31+00:00"
    },
    {
+    "id": "3a3c3e3fc006",
+    "title": "Detective breaks down in court as she recalls finding Beau Lamarre-Condon’s alleged murder victims",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-07T05:47:03+00:00"
+   },
+   {
     "id": "57bd37888add",
     "title": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
     "country": "New Zealand",
@@ -117,6 +209,16 @@
     "time": "2026-10-06T23:11:27+00:00"
    },
    {
+    "id": "347cc8a1cff3",
+    "title": "M4.7 earthquake, Kermadec Islands, New Zealand",
+    "country": "New Zealand",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-06T22:12:46.267000+00:00"
+   },
+   {
     "id": "e11fe77c04ef",
     "title": "Australia faces summer of extreme weather, Anthony Albanese warns at pre-Cop",
     "country": "Tuvalu",
@@ -125,16 +227,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-06T11:36:12+00:00"
-   },
-   {
-    "id": "a22219302f5e",
-    "title": "M4.9 earthquake, State of Yap, Federated States of Micronesia",
-    "country": "Micronesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-06T04:40:28.098000+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -147,16 +239,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-06T12:21:01+00:00"
-   },
-   {
-    "id": "5e57742d32ab",
-    "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on October 7 anniversary eve",
-    "country": "Palestine",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-06T07:00:06+00:00"
    },
    {
     "id": "407ee9cd0b20",
@@ -217,88 +299,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-06T16:46:06+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "c7e64480caaf",
-    "title": "Russia slams Kyiv in mass missile, drone attack on Putin's 74th birthday",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-07T00:25:09+00:00"
    },
    {
-    "id": "14c7cc8c022f",
-    "title": "Ship sinks off Bulgaria after drone attack in Black Sea",
-    "country": "Bulgaria",
+    "id": "2b5550e6a34d",
+    "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
+    "country": "Israel",
     "city": null,
-    "category": "conflict",
+    "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-06T16:53:04+00:00"
-   },
-   {
-    "id": "32b6629d1d9c",
-    "title": "M5.9 earthquake, 264 km SSW of Severo-Kuril’sk, Russia",
-    "country": "Russia",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-06T16:48:21.805000+00:00"
-   },
-   {
-    "id": "d2c13ef2c076",
-    "title": "Ukraine fires nearly 900 drones at Russia, says Moscow",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T16:01:42+00:00"
-   },
-   {
-    "id": "6498bbe14df5",
-    "title": "Russian losses to Ukrainian drones surge in early October, Madyar says",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-06T15:06:46+00:00"
-   },
-   {
-    "id": "795b2a6a1858",
-    "title": "The price of doing business in Russia",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-06T12:54:43+00:00"
-   },
-   {
-    "id": "dc666ca7f64a",
-    "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T12:42:19+00:00"
-   },
-   {
-    "id": "2b29d0863b4b",
-    "title": "Ship sinks and crew missing after Black Sea drone attack",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T11:53:21+00:00"
+    "time": "2026-10-06T14:47:39+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -353,16 +363,6 @@
     "time": "2026-10-06T10:20:38+00:00"
    },
    {
-    "id": "079bcec973f1",
-    "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
-    "country": "South Africa",
-    "city": "Pretoria",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T05:00:02+00:00"
-   },
-   {
     "id": "590fc1431463",
     "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
     "country": "DRC",
@@ -381,6 +381,16 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-06T09:57:32+00:00"
+   },
+   {
+    "id": "3a420e68c393",
+    "title": "Kenya ministry of health confirms first imported Ebola case",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-06T09:51:44+00:00"
    }
   ],
   "North America": [
@@ -403,6 +413,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-06T13:17:51+00:00"
+   },
+   {
+    "id": "fbd63415bb37",
+    "title": "M4.9 earthquake, 80 km SW of El Arenal, Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-07T07:43:19.524000+00:00"
    },
    {
     "id": "55fd5cc04dee",
@@ -445,24 +465,14 @@
     "time": "2026-10-06T21:28:35+00:00"
    },
    {
-    "id": "85a55c11508c",
-    "title": "Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.",
+    "id": "45dd70358cac",
+    "title": "Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2.101 million .",
     "country": "United States",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-06T18:35:52+00:00"
-   },
-   {
-    "id": "fda677089bc2",
-    "title": "Whistleblower suit alleges Trump ordered FBI investigation on LA anti-ICE protesters",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T18:08:31+00:00"
+    "time": "2026-10-06T21:01:35+00:00"
    }
   ],
   "South Asia": [
@@ -485,6 +495,16 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-06T10:05:22+00:00"
+   },
+   {
+    "id": "6edf64bf13ee",
+    "title": "India's opposition leader dragged onto bus as police break up protest",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-07T07:45:47+00:00"
    },
    {
     "id": "01a00f71fa81",
@@ -517,16 +537,58 @@
     "time": "2026-10-06T14:06:37+00:00"
    }
   ],
+  "Latin America & Caribbean": [
+   {
+    "id": "ee3f3391196d",
+    "title": "Haiti postpones elections indefinitely as gang violence hampers preparations",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-07T01:06:11+00:00"
+   },
+   {
+    "id": "966e1931e948",
+    "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
+    "country": "Venezuela",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T23:05:38+00:00"
+   },
+   {
+    "id": "50b11070dffb",
+    "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T22:07:44+00:00"
+   },
+   {
+    "id": "6fb81961e3de",
+    "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
+    "country": "Trinidad & Tobago",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T16:53:21+00:00"
+   }
+  ],
   "East & SE Asia": [
    {
-    "id": "a4b322100a59",
-    "title": "South Korea shipped fuel to Russia via sanctioned vessels, media reports",
-    "country": "South Korea",
+    "id": "3f7beb2ccf7b",
+    "title": "M4.5 earthquake, 37 km ESE of Iwaki, Japan",
+    "country": "Japan",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-06T03:13:48+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-07T00:22:41.953000+00:00"
    },
    {
     "id": "8b8e504c507d",
@@ -597,78 +659,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-06T11:06:51+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "ee3f3391196d",
-    "title": "Haiti postpones elections indefinitely as gang violence hampers preparations",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-07T01:06:11+00:00"
-   },
-   {
-    "id": "966e1931e948",
-    "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
-    "country": "Venezuela",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T23:05:38+00:00"
-   },
-   {
-    "id": "50b11070dffb",
-    "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
-    "country": "Argentina",
-    "city": "Buenos Aires",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T22:07:44+00:00"
-   },
-   {
-    "id": "6fb81961e3de",
-    "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
-    "country": "Trinidad & Tobago",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T16:53:21+00:00"
-   },
-   {
-    "id": "0db2c18898ca",
-    "title": "M4.5 earthquake, 60 km WNW of Colchani, Bolivia",
-    "country": "Bolivia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-06T06:54:10.618000+00:00"
-   },
-   {
-    "id": "fc1a12a13da9",
-    "title": "M4.7 earthquake, 36 km WNW of Ollagüe, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-06T06:16:33.173000+00:00"
-   },
-   {
-    "id": "6ead7f530fb7",
-    "title": "Green flood alert in Guatemala",
-    "country": "Guatemala",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-06T06:14:44+00:00"
    }
   ]
  }
