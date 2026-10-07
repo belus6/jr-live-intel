@@ -1,15 +1,16 @@
 {
- "generated": "2026-10-07T09:22:09.535922+00:00",
+ "generated": "2026-10-07T16:48:16.939908+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 78,
-  "3": 31,
-  "4": 7,
-  "5": 1
+  "2": 77,
+  "3": 23,
+  "4": 5,
+  "5": 2
  },
  "watch_hits": [
+  "dca46984e97d",
   "c7db7eae702a"
  ],
  "regions": {
@@ -23,6 +24,56 @@
     "severity": 5,
     "confidence": "C4",
     "time": "2026-10-07T00:25:09+00:00"
+   },
+   {
+    "id": "6b9505c52336",
+    "title": "Russia slams Ukraine with missiles, drones on Putin's 74th birthday, at least 23 dead including 5 children",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "C4",
+    "time": "2026-10-07T00:25:09+00:00"
+   },
+   {
+    "id": "8b1dc14dd9c5",
+    "title": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-07T16:22:44+00:00"
+   },
+   {
+    "id": "6ced54b2f9f6",
+    "title": "Russian attacks kill at least 28, injure more than 130 over past day, rescue efforts continue in Pryluky",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-07T13:21:11+00:00"
+   },
+   {
+    "id": "8c70096c3819",
+    "title": "EU ambassadors wave through largest-ever list of Russia sanctions",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-07T11:51:18+00:00"
+   },
+   {
+    "id": "922262025e62",
+    "title": "EU provides Ukraine 1.2 billion euros for drones and missiles",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-07T10:54:59+00:00"
    },
    {
     "id": "c7e64480caaf",
@@ -43,357 +94,19 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-06T16:53:04+00:00"
-   },
-   {
-    "id": "32b6629d1d9c",
-    "title": "M5.9 earthquake, 264 km SSW of Severo-Kuril’sk, Russia",
-    "country": "Russia",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-06T16:48:21.805000+00:00"
-   },
-   {
-    "id": "d2c13ef2c076",
-    "title": "Ukraine fires nearly 900 drones at Russia, says Moscow",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T16:01:42+00:00"
-   },
-   {
-    "id": "6498bbe14df5",
-    "title": "Russian losses to Ukrainian drones surge in early October, Madyar says",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-06T15:06:46+00:00"
-   },
-   {
-    "id": "795b2a6a1858",
-    "title": "The price of doing business in Russia",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-06T12:54:43+00:00"
-   },
-   {
-    "id": "dc666ca7f64a",
-    "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T12:42:19+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "66e3049709be",
-    "title": "UK police arrest 22-year-old British man in suspected Fairford base plot",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B2",
-    "time": "2026-10-06T12:26:41+00:00"
-   },
-   {
-    "id": "8e148a534781",
-    "title": "Police make seventh arrest over UK airbase incident",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-06T19:51:46+00:00"
-   },
-   {
-    "id": "0e1bb047f4d0",
-    "title": "British man arrested over suspected RAF Fairford terrorism plot",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-06T18:13:44+00:00"
-   },
-   {
-    "id": "e0ea96f5941c",
-    "title": "'They Stole a City' author Lauren Collins on how Wilmington coup was 'covered up'",
-    "country": "France",
-    "city": "Paris",
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-06T13:53:53+00:00"
-   },
-   {
-    "id": "ca3d19f682ef",
-    "title": "UK police arrest British national linked to airbase incident",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-06T13:44:19+00:00"
-   },
-   {
-    "id": "a26c65ddbdcb",
-    "title": "Badenoch denies plan for ‘British Iron Dome’ – after Tories use phrase in press release",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T17:58:35+00:00"
-   },
-   {
-    "id": "68ac2f055d9f",
-    "title": "🔴 Live: French PM denies 'police repression', suspends classes as clashes erupt at student protests",
-    "country": "France",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T14:21:35+00:00"
-   },
-   {
-    "id": "ddc03b059955",
-    "title": "Philip Ingram sees Russia, China and Iran stepping up ‘gray zone’ activities across UK and Europe",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T11:13:12+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "fd6cd8b97c9e",
-    "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on 7 October anniversary",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-06T20:59:31+00:00"
-   },
-   {
-    "id": "3a3c3e3fc006",
-    "title": "Detective breaks down in court as she recalls finding Beau Lamarre-Condon’s alleged murder victims",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-07T05:47:03+00:00"
-   },
-   {
-    "id": "57bd37888add",
-    "title": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T23:11:27+00:00"
-   },
-   {
-    "id": "347cc8a1cff3",
-    "title": "M4.7 earthquake, Kermadec Islands, New Zealand",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-06T22:12:46.267000+00:00"
-   },
-   {
-    "id": "e11fe77c04ef",
-    "title": "Australia faces summer of extreme weather, Anthony Albanese warns at pre-Cop",
-    "country": "Tuvalu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T11:36:12+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "9210e135882e",
-    "title": "US, Israeli and European far-right figures to gather for conference in Israel",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-06T12:21:01+00:00"
-   },
-   {
-    "id": "407ee9cd0b20",
-    "title": "Two Houthi missiles target Yemen’s Aden International Airport",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-07T01:59:15+00:00"
-   },
-   {
-    "id": "243d38d4f120",
-    "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-07T00:35:57+00:00"
-   },
-   {
-    "id": "728b84c913de",
-    "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-07T00:26:47+00:00"
-   },
-   {
-    "id": "c1e3d7cea88d",
-    "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T21:57:03+00:00"
-   },
-   {
-    "id": "fd1778b2c312",
-    "title": "Yemen’s Taiz residents fear food and fuel crisis amid fighting",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T17:34:32+00:00"
-   },
-   {
-    "id": "d83655bcec80",
-    "title": "What would it take for the Yemen offensive to succeed?",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T16:46:06+00:00"
-   },
-   {
-    "id": "2b5550e6a34d",
-    "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
-    "country": "Israel",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T14:47:39+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "960d1422e150",
-    "title": "Tuareg rebels withdraw from strategic town of Kidal in northern Mali",
-    "country": "Mali",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T17:46:52+00:00"
-   },
-   {
-    "id": "98aab074d745",
-    "title": "Renewed violence in Ethiopia's Tigray leaves dozens of children wounded",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-06T14:54:46+00:00"
-   },
-   {
-    "id": "bfaa587595b1",
-    "title": "Ethiopia 'fears Tigray conflict could get out of control'",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T14:11:00+00:00"
-   },
-   {
-    "id": "f137d42aa65b",
-    "title": "Tigray students relocated by conflict say fled forced conscription",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T12:29:04+00:00"
-   },
-   {
-    "id": "21813435bd35",
-    "title": "Tigray violence drives risk of Ethiopia-Eritrea war, analyst says",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-06T10:20:38+00:00"
-   },
-   {
-    "id": "590fc1431463",
-    "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-06T12:46:56+00:00"
-   },
-   {
-    "id": "3b29e7f8a080",
-    "title": "Kenya confirms first Ebola death as 28 contacts traced",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-06T09:57:32+00:00"
-   },
-   {
-    "id": "3a420e68c393",
-    "title": "Kenya ministry of health confirms first imported Ebola case",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-06T09:51:44+00:00"
    }
   ],
   "North America": [
+   {
+    "id": "ddbd550d5641",
+    "title": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
+    "country": "United States",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-07T15:03:26+00:00"
+   },
    {
     "id": "c8ae7e38a59b",
     "title": "Will the Iran war cost Trump in the US midterm elections? Your questions answered",
@@ -403,16 +116,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-06T17:30:12+00:00"
-   },
-   {
-    "id": "75eb2df91c6a",
-    "title": "New York governor declares state of emergency after spike in measles cases",
-    "country": "United States",
-    "city": "New York",
-    "category": "health",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T13:17:51+00:00"
    },
    {
     "id": "fbd63415bb37",
@@ -475,69 +178,315 @@
     "time": "2026-10-06T21:01:35+00:00"
    }
   ],
-  "South Asia": [
+  "Middle East & N. Africa": [
    {
-    "id": "cbffdb9aa3b6",
-    "title": "What to know about nationwide protests in India over voter list changes",
-    "country": "India",
+    "id": "75c450e9ffba",
+    "title": "Three years on, October 7 massacre sites in Israel draw visitors seeking to remember",
+    "country": "Israel",
     "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-07T13:21:08+00:00"
+   },
+   {
+    "id": "f3fb2d5eff63",
+    "title": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-07T16:02:17+00:00"
+   },
+   {
+    "id": "6bc6fc228201",
+    "title": "‘Palestinians will bear the cost’: UK consulate in East Jerusalem prepares to shut its doors",
+    "country": "Israel",
+    "city": "Jerusalem",
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-06T11:44:06+00:00"
+    "time": "2026-10-07T15:14:12+00:00"
    },
    {
-    "id": "aa8cda30c1ce",
-    "title": "Indian opposition MPs detained in protest against election chief",
-    "country": "India",
+    "id": "2f33834916e1",
+    "title": "Devastation in Gaza: Three years of war reshape the enclave beyond recognition",
+    "country": "Palestine",
     "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-06T10:05:22+00:00"
-   },
-   {
-    "id": "6edf64bf13ee",
-    "title": "India's opposition leader dragged onto bus as police break up protest",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-07T07:45:47+00:00"
+    "time": "2026-10-07T13:17:32+00:00"
    },
    {
-    "id": "01a00f71fa81",
-    "title": "M5.1 earthquake, 34 km NNW of Bāgeshwar, India",
-    "country": "India",
+    "id": "ac5f90717229",
+    "title": "Israeli attacks across Gaza kill at least four Palestinians",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-07T11:13:32+00:00"
+   },
+   {
+    "id": "dd89ed49684b",
+    "title": "Yemen's Houthis claim strikes on Aden, Riyadh airports",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-07T06:49:00+00:00"
+   },
+   {
+    "id": "407ee9cd0b20",
+    "title": "Two Houthi missiles target Yemen’s Aden International Airport",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-07T01:59:15+00:00"
+   },
+   {
+    "id": "243d38d4f120",
+    "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-07T00:35:57+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "fd6cd8b97c9e",
+    "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on 7 October anniversary",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-06T20:59:31+00:00"
+   },
+   {
+    "id": "e6c3eaa43393",
+    "title": "M4.5 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-06T16:53:11.296000+00:00"
+    "time": "2026-10-07T10:20:33.568000+00:00"
    },
    {
-    "id": "be361a12a9a6",
-    "title": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
-    "country": "India",
+    "id": "3a3c3e3fc006",
+    "title": "Detective breaks down in court as she recalls finding Beau Lamarre-Condon’s alleged murder victims",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-07T05:47:03+00:00"
+   },
+   {
+    "id": "57bd37888add",
+    "title": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
+    "country": "New Zealand",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T23:11:27+00:00"
+   },
+   {
+    "id": "347cc8a1cff3",
+    "title": "M4.7 earthquake, Kermadec Islands, New Zealand",
+    "country": "New Zealand",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-06T22:12:46.267000+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "8e148a534781",
+    "title": "Police make seventh arrest over UK airbase incident",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-06T19:51:46+00:00"
+   },
+   {
+    "id": "0e1bb047f4d0",
+    "title": "British man arrested over suspected RAF Fairford terrorism plot",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-06T18:13:44+00:00"
+   },
+   {
+    "id": "a26c65ddbdcb",
+    "title": "Badenoch denies plan for ‘British Iron Dome’ – after Tories use phrase in press release",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T17:58:35+00:00"
+   },
+   {
+    "id": "ab2bccb54076",
+    "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-06T18:05:44+00:00"
+   },
+   {
+    "id": "4d00cb9a97e6",
+    "title": "Tear gas in Paris and Marseille as school protests grow across France",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-06T18:03:19+00:00"
+   },
+   {
+    "id": "0b99cda7787e",
+    "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+    "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-06T14:13:55+00:00"
+    "time": "2026-10-07T16:41:57+00:00"
    },
    {
-    "id": "04b4989ff132",
-    "title": "India opposition parties rally for election chief’s exit over voter list changes",
-    "country": "India",
-    "city": "Delhi",
+    "id": "3076f058f752",
+    "title": "What France's student protesters want – and what the government is offering",
+    "country": "France",
+    "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-06T14:06:37+00:00"
+    "time": "2026-10-07T16:41:57+00:00"
+   },
+   {
+    "id": "1f2086a77b13",
+    "title": "Minister denies police brutality as student protests continue across France – Europe live",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-07T16:35:29+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "2e09b1a35654",
+    "title": "Eritrean troops deploy in Ethiopia's Tigray region, witnesses say",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-07T14:58:31+00:00"
+   },
+   {
+    "id": "865b54715be9",
+    "title": "The secrets behind Mali junta’s takeover of Kidal without a fight",
+    "country": "Mali",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-07T13:55:40+00:00"
+   },
+   {
+    "id": "960d1422e150",
+    "title": "Tuareg rebels withdraw from strategic town of Kidal in northern Mali",
+    "country": "Mali",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-06T17:46:52+00:00"
+   },
+   {
+    "id": "dca46984e97d",
+    "title": "'I got so scared': Nairobi residents worried after Kenya's first Ebola death",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-07T13:27:22+00:00"
+   },
+   {
+    "id": "7fae9761808b",
+    "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-07T12:46:39+00:00"
+   },
+   {
+    "id": "90220aa59231",
+    "title": "Kenya races to trace all contacts after first Ebola death, WHO official says",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-07T12:00:00+00:00"
+   },
+   {
+    "id": "e130d37cd507",
+    "title": "MSF warns Ebola spread in DR Congo's North Kivu province is 'out of control'",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-07T11:20:08+00:00"
+   },
+   {
+    "id": "c373167c9734",
+    "title": "Kenyan health workers demand protection after first Ebola death",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-07T10:05:31+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "634dfe399821",
+    "title": "Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-07T15:03:44+00:00"
+   },
    {
     "id": "ee3f3391196d",
     "title": "Haiti postpones elections indefinitely as gang violence hampers preparations",
@@ -580,6 +529,26 @@
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "75c4e548ddb4",
+    "title": "Japan beer giants raided over alleged price-fixing cartel",
+    "country": "Japan",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-07T12:09:59+00:00"
+   },
+   {
+    "id": "1de545d03632",
+    "title": "M4.7 earthquake, 22 km WNW of Manado, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-07T10:57:34.247000+00:00"
+   },
    {
     "id": "3f7beb2ccf7b",
     "title": "M4.5 earthquake, 37 km ESE of Iwaki, Japan",
@@ -639,26 +608,48 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-06T18:15:34.402000+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "3c274d8feaad",
+    "title": "India",
+    "country": "India",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-07T10:56:27+00:00"
    },
    {
-    "id": "398d18c85f7e",
-    "title": "M4.9 earthquake, 48 km NNE of Semporna, Malaysia",
-    "country": "Malaysia",
+    "id": "6edf64bf13ee",
+    "title": "India's opposition leader dragged onto bus as police break up protest",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-07T07:45:47+00:00"
+   },
+   {
+    "id": "c9c36b537e25",
+    "title": "M5.1 earthquake, 34 km NW of Bāgeshwar, India",
+    "country": "India",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-06T13:11:22.577000+00:00"
+    "time": "2026-10-06T16:53:12.578000+00:00"
    },
    {
-    "id": "541a02ea64d0",
-    "title": "Green forest fire notification in China",
-    "country": "China",
+    "id": "01a00f71fa81",
+    "title": "M5.1 earthquake, 34 km NNW of Bāgeshwar, India",
+    "country": "India",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-06T11:06:51+00:00"
+    "time": "2026-10-06T16:53:11.296000+00:00"
    }
   ]
  }
