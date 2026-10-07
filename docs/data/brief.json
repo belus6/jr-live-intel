@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-06T23:44:27.910246+00:00",
+ "generated": "2026-10-07T02:43:24.985850+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 79,
+  "2": 80,
   "3": 38,
   "4": 8,
   "5": 0
@@ -159,6 +159,36 @@
     "time": "2026-10-06T07:00:06+00:00"
    },
    {
+    "id": "407ee9cd0b20",
+    "title": "Two Houthi missiles target Yemen’s Aden International Airport",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-07T01:59:15+00:00"
+   },
+   {
+    "id": "243d38d4f120",
+    "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-07T00:35:57+00:00"
+   },
+   {
+    "id": "728b84c913de",
+    "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-07T00:26:47+00:00"
+   },
+   {
     "id": "c1e3d7cea88d",
     "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
     "country": "Yemen",
@@ -187,48 +217,18 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-06T16:46:06+00:00"
-   },
-   {
-    "id": "2b5550e6a34d",
-    "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
-    "country": "Israel",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T14:47:39+00:00"
-   },
-   {
-    "id": "4354b6ea5a70",
-    "title": "‘Deranged’ and ‘dangerous’ Trump calls for Iran to strike US cities amid historic ratings low | First Thing",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T12:29:42+00:00"
-   },
-   {
-    "id": "a629663412a9",
-    "title": "Pakistan, Turkiye and Saudi deterrence against Houthis: What that means",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-06T12:22:46+00:00"
    }
   ],
   "Eastern Europe": [
    {
-    "id": "06a41081ddf8",
-    "title": "Largest oil facility in Moscow region erupts in flames following massive Ukrainian drone attack",
-    "country": "Russia",
-    "city": "Moscow",
+    "id": "c7e64480caaf",
+    "title": "Russia slams Kyiv in mass missile, drone attack on Putin's 74th birthday",
+    "country": "Ukraine",
+    "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-06T00:00:52+00:00"
+    "confidence": "C4",
+    "time": "2026-10-07T00:25:09+00:00"
    },
    {
     "id": "14c7cc8c022f",
@@ -405,6 +405,16 @@
     "time": "2026-10-06T13:17:51+00:00"
    },
    {
+    "id": "55fd5cc04dee",
+    "title": "LA and San Diego residents ‘horrified’ by Trump suggesting Iran bomb them",
+    "country": "United States",
+    "city": "Los Angeles",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-06T23:45:02+00:00"
+   },
+   {
     "id": "1455085b9c8a",
     "title": "LA and San Diego residents ‘horrified’ by Trump’s comment: ‘obsessed with us’",
     "country": "United States",
@@ -453,16 +463,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-06T18:08:31+00:00"
-   },
-   {
-    "id": "6f1c9150d135",
-    "title": "US citizen alleges immigration agent in Chicago shot her from behind",
-    "country": "United States",
-    "city": "Chicago",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T14:08:55+00:00"
    }
   ],
   "South Asia": [
@@ -529,6 +529,16 @@
     "time": "2026-10-06T03:13:48+00:00"
    },
    {
+    "id": "8b8e504c507d",
+    "title": "M4.9 earthquake, 189 km SW of Abepura, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-06T21:56:43.985000+00:00"
+   },
+   {
     "id": "2ef09e6c2644",
     "title": "M4.8 earthquake, 190 km SW of Abepura, Indonesia",
     "country": "Indonesia",
@@ -587,19 +597,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-06T11:06:51+00:00"
-   },
-   {
-    "id": "acebe8ba2e5e",
-    "title": "M4.9 earthquake, 55 km ESE of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-06T08:45:26.946000+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "ee3f3391196d",
+    "title": "Haiti postpones elections indefinitely as gang violence hampers preparations",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-07T01:06:11+00:00"
+   },
    {
     "id": "966e1931e948",
     "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
