@@ -1,19 +1,29 @@
 {
- "generated": "2026-10-08T15:37:38.969831+00:00",
+ "generated": "2026-10-08T20:50:16.427538+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 80,
-  "3": 27,
-  "4": 10,
-  "5": 3
+  "2": 72,
+  "3": 30,
+  "4": 9,
+  "5": 2
  },
  "watch_hits": [
   "87982053d8ae"
  ],
  "regions": {
   "Eastern Europe": [
+   {
+    "id": "705a7c20dc77",
+    "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-10-08T11:25:28+00:00"
+   },
    {
     "id": "6be4db2f6bab",
     "title": "US senators urge Trump administration to enforce new Russia sanctions law ahead of Oct. 18 deadline",
@@ -25,24 +35,14 @@
     "time": "2026-10-08T01:52:29+00:00"
    },
    {
-    "id": "365d140701d1",
-    "title": "At least 24 killed as Russia launches massive attack on Ukraine",
-    "country": "Ukraine",
+    "id": "6f614945babd",
+    "title": "Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US",
+    "country": "Georgia",
     "city": null,
-    "category": "conflict",
-    "severity": 5,
+    "category": "hazard",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-07T18:32:08+00:00"
-   },
-   {
-    "id": "317e26d12cfe",
-    "title": "Ukraine war latest: Russian attack on Pryluky kills at least 20, including 5 children",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 5,
-    "confidence": "C4",
-    "time": "2026-10-07T18:08:27+00:00"
+    "time": "2026-10-08T20:02:47+00:00"
    },
    {
     "id": "50897c145fb9",
@@ -53,6 +53,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-08T14:00:05+00:00"
+   },
+   {
+    "id": "08e9edd22551",
+    "title": "Drones above, robots below — inside Operation Vivaldi, Ukraine’s push to recapture territory in Donetsk Oblast",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-08T13:12:30+00:00"
    },
    {
     "id": "452daa925b81",
@@ -83,183 +93,19 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-08T08:18:32+00:00"
-   },
-   {
-    "id": "35277f1de759",
-    "title": "General Staff: Russia has lost 1,547,780 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-08T07:26:13+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "6bcbbde098cc",
-    "title": "Volcanic eruption is on going for Taal in Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-08T13:00:44+00:00"
-   },
-   {
-    "id": "f36cef45f0bd",
-    "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-    "country": "South Korea",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T12:01:34+00:00"
-   },
-   {
-    "id": "e22e4f055b51",
-    "title": "M5.5 earthquake, 17 km SW of Burias, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-08T08:07:59.114000+00:00"
-   },
-   {
-    "id": "bbb1edea9d49",
-    "title": "South Korea warns of AI-aided hacking after bank data breaches",
-    "country": "South Korea",
-    "city": "Seoul",
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T12:17:00+00:00"
-   },
-   {
-    "id": "05782c64dd26",
-    "title": "Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI>=IV.",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-08T08:27:59+00:00"
-   },
-   {
-    "id": "ca57f407337b",
-    "title": "M4.6 earthquake, 61 km W of Banda Aceh, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-08T07:45:12.588000+00:00"
-   },
-   {
-    "id": "de10c54a6d51",
-    "title": "Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T03:54:09+00:00"
-   },
-   {
-    "id": "aa81777e68d5",
-    "title": "M4.7 earthquake, 101 km NE of Ruteng, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-08T03:00:01.461000+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "3b5cc0079f0d",
-    "title": "Egypt accuses 6 Journalists of terrorism in press freedom crackdown",
-    "country": "Egypt",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-08T12:07:16+00:00"
-   },
-   {
-    "id": "b87e3962f4fc",
-    "title": "No longer the same Israel? October 7th and the future of the Jewish State",
-    "country": "Israel",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-07T22:10:13+00:00"
-   },
-   {
-    "id": "08df42352409",
-    "title": "British Jewish groups hold London vigil for victims of 7 October attacks",
-    "country": "Israel",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-07T17:41:59+00:00"
-   },
-   {
-    "id": "f8f53101b552",
-    "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-08T07:17:51+00:00"
-   },
-   {
-    "id": "1a161a00070f",
-    "title": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T14:43:19+00:00"
-   },
-   {
-    "id": "df3da3e3f15d",
-    "title": "Conflict in Yemen: What are the Houthis’ aims?",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T12:52:30+00:00"
-   },
-   {
-    "id": "93b715272e7f",
-    "title": "Yemen: Residents of Taiz fear food supply shortages amidst the siege",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-08T11:22:30+00:00"
-   },
-   {
-    "id": "9238ba06e97a",
-    "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T05:06:09+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "aa37e843dc5a",
+    "title": "Two Latvian men arrested at UK base housing US and NATO intelligence hubs",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-08T16:57:19+00:00"
+   },
    {
     "id": "af7cd9a9ce56",
     "title": "Palestinians gained 'nothing' from October 7, Egyptian businessman Naguib Sawiris says",
@@ -301,16 +147,6 @@
     "time": "2026-10-08T06:00:12+00:00"
    },
    {
-    "id": "a31eb22c07d1",
-    "title": "Maricarmen dies at 87 after eviction sparked Spain housing protests",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-07T18:02:47+00:00"
-   },
-   {
     "id": "64ab559ababd",
     "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
     "country": "Spain",
@@ -331,14 +167,178 @@
     "time": "2026-10-08T03:38:46+00:00"
    },
    {
-    "id": "f3aacb5b4ed7",
-    "title": "Evicted pensioner Maricarmen Abascal, heart of Spain's housing protests, dies",
-    "country": "Spain",
-    "city": "Madrid",
+    "id": "863f09cf3c7e",
+    "title": "‘Nothing will stop us’: French student protests show few signs of ending",
+    "country": "France",
+    "city": null,
     "category": "unrest",
     "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-08T20:22:33+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "6bcbbde098cc",
+    "title": "Volcanic eruption is on going for Taal in Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-08T13:00:44+00:00"
+   },
+   {
+    "id": "f36cef45f0bd",
+    "title": "South Korea test-flies its first domestically developed hypersonic weapon",
+    "country": "South Korea",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T12:01:34+00:00"
+   },
+   {
+    "id": "e22e4f055b51",
+    "title": "M5.5 earthquake, 17 km SW of Burias, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-08T08:07:59.114000+00:00"
+   },
+   {
+    "id": "80869e8abdd8",
+    "title": "Video shows dramatic eruption of volcano near Manila",
+    "country": "Philippines",
+    "city": "Manila",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-08T16:55:38+00:00"
+   },
+   {
+    "id": "b5154849f725",
+    "title": "M4.7 earthquake, 84 km WNW of Bengkulu, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-08T15:23:47.618000+00:00"
+   },
+   {
+    "id": "bbb1edea9d49",
+    "title": "South Korea warns of AI-aided hacking after bank data breaches",
+    "country": "South Korea",
+    "city": "Seoul",
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-08T12:17:00+00:00"
+   },
+   {
+    "id": "05782c64dd26",
+    "title": "Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI>=IV.",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-08T08:27:59+00:00"
+   },
+   {
+    "id": "ca57f407337b",
+    "title": "M4.6 earthquake, 61 km W of Banda Aceh, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-08T07:45:12.588000+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "3b5cc0079f0d",
+    "title": "Egypt accuses 6 Journalists of terrorism in press freedom crackdown",
+    "country": "Egypt",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-08T12:07:16+00:00"
+   },
+   {
+    "id": "b87e3962f4fc",
+    "title": "No longer the same Israel? October 7th and the future of the Jewish State",
+    "country": "Israel",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-07T22:10:13+00:00"
+   },
+   {
+    "id": "b2818d7d9e98",
+    "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "political",
+    "severity": 3,
     "confidence": "B2",
-    "time": "2026-10-07T19:19:07+00:00"
+    "time": "2026-10-08T15:21:46+00:00"
+   },
+   {
+    "id": "f8f53101b552",
+    "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-08T07:17:51+00:00"
+   },
+   {
+    "id": "3dc8e9312bb4",
+    "title": "How much worse can Yemen’s humanitarian crisis become?",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T20:06:08+00:00"
+   },
+   {
+    "id": "5a0472272816",
+    "title": "Israel’s downgrading of UK consulate aims to tighten its hold on Jerusalem",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T17:16:03+00:00"
+   },
+   {
+    "id": "1a161a00070f",
+    "title": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T14:43:19+00:00"
+   },
+   {
+    "id": "df3da3e3f15d",
+    "title": "Conflict in Yemen: What are the Houthis’ aims?",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T12:52:30+00:00"
    }
   ],
   "Oceania": [
@@ -411,16 +411,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-08T02:05:33+00:00"
-   },
-   {
-    "id": "62e1f10ce121",
-    "title": "M4.6 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-07T18:13:13.966000+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -433,6 +423,16 @@
     "severity": 4,
     "confidence": "C4",
     "time": "2026-10-08T08:16:54+00:00"
+   },
+   {
+    "id": "6face518261a",
+    "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+    "country": "Eritrea",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T16:11:32+00:00"
    },
    {
     "id": "fb710e34faab",
@@ -455,14 +455,14 @@
     "time": "2026-10-08T10:18:06+00:00"
    },
    {
-    "id": "b07347fa4910",
-    "title": "Africa joins the data center backlash",
-    "country": "Ethiopia",
+    "id": "fadaf5c3b005",
+    "title": "Green forest fire notification in Mozambique",
+    "country": "Mozambique",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-07T20:37:55+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-08T19:01:05+00:00"
    },
    {
     "id": "5730df7a0552",
@@ -493,28 +493,28 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-08T11:22:28+00:00"
-   },
-   {
-    "id": "1119c45daa97",
-    "title": "Kenya boosts Ebola preparedness after registering first case",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-08T05:41:28+00:00"
    }
   ],
   "North America": [
    {
-    "id": "1c7bac9684cf",
-    "title": "FBI says it thwarted terrorist attack in Minnesota by an 18-year-old it supplied with an AK-47",
+    "id": "1087bad0f204",
+    "title": "Open letter to the US administration: The G20 invitation to Putin should come with conditions",
+    "country": "United States",
+    "city": "Miami",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-08T18:15:11+00:00"
+   },
+   {
+    "id": "d81c2c667af5",
+    "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
     "country": "United States",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-07T20:27:27+00:00"
+    "time": "2026-10-08T16:05:37+00:00"
    },
    {
     "id": "8ab2f5d22866",
@@ -539,6 +539,16 @@
     "time": "2026-10-08T11:45:17+00:00"
    },
    {
+    "id": "d5c09058d4ea",
+    "title": "India’s Cockroach movement says members detained as protests continue",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-08T19:49:03+00:00"
+   },
+   {
     "id": "4f2223654b80",
     "title": "56 Ukrainians still missing as Nepal ends flash flood search-and-rescue operation",
     "country": "Nepal",
@@ -547,16 +557,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-07T21:18:21+00:00"
-   },
-   {
-    "id": "36a2c823a155",
-    "title": "Indian opposition leader Rahul Gandhi detained over election chief protest",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-07T19:40:07+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -629,16 +629,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-07T20:56:51.318000+00:00"
-   },
-   {
-    "id": "f31873508302",
-    "title": "M4.7 earthquake, 45 km WNW of Ollagüe, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-07T15:46:14.830000+00:00"
    }
   ]
  }
