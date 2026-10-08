@@ -1,17 +1,16 @@
 {
- "generated": "2026-10-08T08:00:40.171451+00:00",
+ "generated": "2026-10-08T15:37:38.969831+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 74,
-  "3": 22,
-  "4": 6,
-  "5": 4
+  "2": 80,
+  "3": 27,
+  "4": 10,
+  "5": 3
  },
  "watch_hits": [
-  "87982053d8ae",
-  "dca46984e97d"
+  "87982053d8ae"
  ],
  "regions": {
   "Eastern Europe": [
@@ -46,6 +45,46 @@
     "time": "2026-10-07T18:08:27+00:00"
    },
    {
+    "id": "50897c145fb9",
+    "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T14:00:05+00:00"
+   },
+   {
+    "id": "452daa925b81",
+    "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
+    "country": "Bulgaria",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T11:45:00+00:00"
+   },
+   {
+    "id": "4d2d90bad7cb",
+    "title": "Middle Corridor: Can Bulgaria be a safe gateway for Asian imports to the EU?",
+    "country": "Bulgaria",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T08:38:00+00:00"
+   },
+   {
+    "id": "0a22d20df65e",
+    "title": "Lithuania calls for EU sanctions against Russian grain",
+    "country": "Lithuania",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-08T08:18:32+00:00"
+   },
+   {
     "id": "35277f1de759",
     "title": "General Staff: Russia has lost 1,547,780 troops in Ukraine since Feb. 24, 2022",
     "country": "Ukraine",
@@ -54,91 +93,183 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-08T07:26:13+00:00"
-   },
-   {
-    "id": "1e21f8b66bc7",
-    "title": "Russia's largest Yandex data center reportedly hit in drone attack",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-08T03:14:20+00:00"
-   },
-   {
-    "id": "02d17146c8e5",
-    "title": "Lithuania to deploy troops along border with Russia's Kaliningrad after Latvia incident",
-    "country": "Lithuania",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-07T22:56:37+00:00"
-   },
-   {
-    "id": "28354b40bcac",
-    "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-07T18:12:58+00:00"
-   },
-   {
-    "id": "8b1dc14dd9c5",
-    "title": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-07T16:22:44+00:00"
    }
   ],
-  "North America": [
+  "East & SE Asia": [
    {
-    "id": "0549791ff550",
-    "title": "Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.056 million .",
-    "country": "Mexico",
+    "id": "6bcbbde098cc",
+    "title": "Volcanic eruption is on going for Taal in Philippines",
+    "country": "Philippines",
     "city": null,
     "category": "hazard",
-    "severity": 5,
+    "severity": 4,
     "confidence": "A1",
-    "time": "2026-10-07T15:33:28+00:00"
+    "time": "2026-10-08T13:00:44+00:00"
    },
    {
-    "id": "1c7bac9684cf",
-    "title": "FBI says it thwarted terrorist attack in Minnesota by an 18-year-old it supplied with an AK-47",
-    "country": "United States",
+    "id": "f36cef45f0bd",
+    "title": "South Korea test-flies its first domestically developed hypersonic weapon",
+    "country": "South Korea",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T12:01:34+00:00"
+   },
+   {
+    "id": "e22e4f055b51",
+    "title": "M5.5 earthquake, 17 km SW of Burias, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-08T08:07:59.114000+00:00"
+   },
+   {
+    "id": "bbb1edea9d49",
+    "title": "South Korea warns of AI-aided hacking after bank data breaches",
+    "country": "South Korea",
+    "city": "Seoul",
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-08T12:17:00+00:00"
+   },
+   {
+    "id": "05782c64dd26",
+    "title": "Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI>=IV.",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-08T08:27:59+00:00"
+   },
+   {
+    "id": "ca57f407337b",
+    "title": "M4.6 earthquake, 61 km W of Banda Aceh, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-08T07:45:12.588000+00:00"
+   },
+   {
+    "id": "de10c54a6d51",
+    "title": "Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-08T03:54:09+00:00"
+   },
+   {
+    "id": "aa81777e68d5",
+    "title": "M4.7 earthquake, 101 km NE of Ruteng, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-08T03:00:01.461000+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "3b5cc0079f0d",
+    "title": "Egypt accuses 6 Journalists of terrorism in press freedom crackdown",
+    "country": "Egypt",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-08T12:07:16+00:00"
+   },
+   {
+    "id": "b87e3962f4fc",
+    "title": "No longer the same Israel? October 7th and the future of the Jewish State",
+    "country": "Israel",
     "city": null,
     "category": "terrorism",
     "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-07T20:27:27+00:00"
+    "time": "2026-10-07T22:10:13+00:00"
    },
    {
-    "id": "ddbd550d5641",
-    "title": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
-    "country": "United States",
+    "id": "08df42352409",
+    "title": "British Jewish groups hold London vigil for victims of 7 October attacks",
+    "country": "Israel",
     "city": null,
-    "category": "political",
+    "category": "terrorism",
     "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-07T15:03:26+00:00"
+    "time": "2026-10-07T17:41:59+00:00"
    },
    {
-    "id": "8ab2f5d22866",
-    "title": "Patricia Krenwinkel, former Manson follower, granted parole for third time",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "crime",
-    "severity": 2,
+    "id": "f8f53101b552",
+    "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-08T07:17:51+00:00"
+   },
+   {
+    "id": "1a161a00070f",
+    "title": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-07T23:37:11+00:00"
+    "time": "2026-10-08T14:43:19+00:00"
+   },
+   {
+    "id": "df3da3e3f15d",
+    "title": "Conflict in Yemen: What are the Houthis’ aims?",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T12:52:30+00:00"
+   },
+   {
+    "id": "93b715272e7f",
+    "title": "Yemen: Residents of Taiz fear food supply shortages amidst the siege",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-08T11:22:30+00:00"
+   },
+   {
+    "id": "9238ba06e97a",
+    "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T05:06:09+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "af7cd9a9ce56",
+    "title": "Palestinians gained 'nothing' from October 7, Egyptian businessman Naguib Sawiris says",
+    "country": "France",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-08T11:12:58+00:00"
+   },
    {
     "id": "ae099881247f",
     "title": "Royal Navy serviceman charged with obtaining information to benefit foreign power",
@@ -148,6 +279,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-08T07:14:20+00:00"
+   },
+   {
+    "id": "0445ad2b131d",
+    "title": "UK ramps up sanctions against Russian shadow fleet, crypto industry, big oil",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-08T11:21:10+00:00"
    },
    {
     "id": "43873ad544cb",
@@ -170,6 +311,26 @@
     "time": "2026-10-07T18:02:47+00:00"
    },
    {
+    "id": "64ab559ababd",
+    "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-08T05:56:02+00:00"
+   },
+   {
+    "id": "9f3d9df43065",
+    "title": "France's school protests: What lies behind the anger",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-08T03:38:46+00:00"
+   },
+   {
     "id": "f3aacb5b4ed7",
     "title": "Evicted pensioner Maricarmen Abascal, heart of Spain's housing protests, dies",
     "country": "Spain",
@@ -178,140 +339,120 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-07T19:19:07+00:00"
-   },
-   {
-    "id": "27f1ebcfb03f",
-    "title": "France: Government suspends stun grenade use in school protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-07T16:15:54+00:00"
-   },
-   {
-    "id": "30cfa58ee3b0",
-    "title": "Senegal and Morocco set for AFCON title rematch – in Swiss sports court",
-    "country": "Switzerland",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T07:17:51+00:00"
-   },
-   {
-    "id": "db80919ec0b5",
-    "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
-    "country": "Spain",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T07:15:45+00:00"
-   },
-   {
-    "id": "64ab559ababd",
-    "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T05:56:02+00:00"
    }
   ],
-  "Middle East & N. Africa": [
+  "Oceania": [
    {
-    "id": "b87e3962f4fc",
-    "title": "No longer the same Israel? October 7th and the future of the Jewish State",
-    "country": "Israel",
+    "id": "03982bf9308b",
+    "title": "Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI>=VII).",
+    "country": "Vanuatu",
     "city": null,
-    "category": "terrorism",
+    "category": "hazard",
     "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-07T22:10:13+00:00"
+    "confidence": "A1",
+    "time": "2026-10-08T09:09:40+00:00"
    },
    {
-    "id": "08df42352409",
-    "title": "British Jewish groups hold London vigil for victims of 7 October attacks",
-    "country": "Israel",
+    "id": "c3f434414032",
+    "title": "M6.3 earthquake, 102 km NE of Norsup, Vanuatu",
+    "country": "Vanuatu",
     "city": null,
-    "category": "terrorism",
+    "category": "hazard",
     "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-07T17:41:59+00:00"
+    "confidence": "A1",
+    "time": "2026-10-08T09:00:07.768000+00:00"
    },
    {
-    "id": "75c450e9ffba",
-    "title": "Three years on, October 7 massacre sites in Israel draw visitors seeking to remember",
-    "country": "Israel",
+    "id": "5d19f2a87e15",
+    "title": "One Nation’s AI video is vile and tired – but the ensloppification of Australian politics doesn’t stop there",
+    "country": "Australia",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-07T13:21:08+00:00"
+    "time": "2026-10-08T14:00:22+00:00"
    },
    {
-    "id": "f8f53101b552",
-    "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-08T07:17:51+00:00"
-   },
-   {
-    "id": "8b31e36e19a9",
-    "title": "Why is Guantanamo prison still open?",
-    "country": "Afghanistan",
+    "id": "993b2abe33e1",
+    "title": "M5.1 earthquake, 236 km E of Levuka, Fiji",
+    "country": "Fiji",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T01:49:11+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-08T10:07:28.642000+00:00"
    },
    {
-    "id": "4ccd0cba8b75",
-    "title": "Israel marks three years since October 7 attack ahead of elections",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "id": "930b80f3a50a",
+    "title": "NSW police commissioner made last-minute bid to hold closed-door hearings into Sydney anti-Herzog protest",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-07T21:50:07+00:00"
+    "time": "2026-10-08T05:30:47+00:00"
    },
    {
-    "id": "5f5cea727669",
-    "title": "‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "id": "bea2b8f88a08",
+    "title": "Jurors in Beau Lamarre-Condon murder trial shown photo of alleged ‘execution-style’ gunshot wound",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-07T21:00:01+00:00"
+    "time": "2026-10-08T04:26:32+00:00"
    },
    {
-    "id": "3d5c948cfd46",
-    "title": "Houthi forces appear to make slow advance in south-west Yemen",
-    "country": "Yemen",
+    "id": "733f40ba7b9b",
+    "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites",
+    "country": "Australia",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "cyber",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-07T19:45:47+00:00"
+    "time": "2026-10-08T02:05:33+00:00"
+   },
+   {
+    "id": "62e1f10ce121",
+    "title": "M4.6 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-07T18:13:13.966000+00:00"
    }
   ],
   "Sub-Saharan Africa": [
    {
-    "id": "2e09b1a35654",
-    "title": "Eritrean troops deploy in Ethiopia's Tigray region, witnesses say",
+    "id": "6e97e454b416",
+    "title": "Activist Semi Keba faces extradition to Benin after court setback",
+    "country": "Benin",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-08T08:16:54+00:00"
+   },
+   {
+    "id": "fb710e34faab",
+    "title": "Eritrean troops reportedly enter Ethiopia’s Tigray region",
     "country": "Ethiopia",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C2",
-    "time": "2026-10-07T14:58:31+00:00"
+    "confidence": "B3",
+    "time": "2026-10-08T10:30:13+00:00"
+   },
+   {
+    "id": "d28366239cc1",
+    "title": "DRC: New fighting in Masisi as AU delegation rushes to save ceasefire",
+    "country": "DRC",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-08T10:18:06+00:00"
    },
    {
     "id": "b07347fa4910",
@@ -324,24 +465,34 @@
     "time": "2026-10-07T20:37:55+00:00"
    },
    {
-    "id": "865b54715be9",
-    "title": "The secrets behind Mali junta’s takeover of Kidal without a fight",
-    "country": "Mali",
+    "id": "5730df7a0552",
+    "title": "Uganda",
+    "country": "Uganda",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-07T13:55:40+00:00"
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-08T13:51:08+00:00"
    },
    {
-    "id": "dca46984e97d",
-    "title": "'I got so scared': Nairobi residents worried after Kenya's first Ebola death",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "health",
+    "id": "9dad20af65c6",
+    "title": "Democratic Republic of the Congo",
+    "country": "DRC",
+    "city": null,
+    "category": "advisory",
     "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-07T13:27:22+00:00"
+    "confidence": "A1",
+    "time": "2026-10-08T12:20:38+00:00"
+   },
+   {
+    "id": "edfea672f7fd",
+    "title": "Nigeria: 20 kidnapped graduates rescued after week-long search",
+    "country": "Nigeria",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-08T11:22:28+00:00"
    },
    {
     "id": "1119c45daa97",
@@ -352,39 +503,73 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-08T05:41:28+00:00"
-   },
+   }
+  ],
+  "North America": [
    {
-    "id": "94e8d7311f51",
-    "title": "Why single Ebola death in Kenya has prompted fears of wider African spread",
-    "country": "Kenya",
+    "id": "1c7bac9684cf",
+    "title": "FBI says it thwarted terrorist attack in Minnesota by an 18-year-old it supplied with an AK-47",
+    "country": "United States",
     "city": null,
-    "category": "health",
-    "severity": 2,
+    "category": "terrorism",
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-08T05:34:34+00:00"
+    "time": "2026-10-07T20:27:27+00:00"
    },
    {
-    "id": "c4e46d6f2923",
-    "title": "How kidnappings are hitting Nigeria’s Borno families hard",
-    "country": "Nigeria",
-    "city": null,
+    "id": "8ab2f5d22866",
+    "title": "Patricia Krenwinkel, former Manson follower, granted parole for third time",
+    "country": "United States",
+    "city": "Los Angeles",
     "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-08T00:47:32+00:00"
+    "time": "2026-10-07T23:37:11+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "f0f2be23beac",
+    "title": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
+    "country": "India",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T11:45:17+00:00"
    },
    {
-    "id": "92f006ebbb1e",
-    "title": "Kenya: Health Minister insists no ebola outbreak in country",
-    "country": "Kenya",
+    "id": "4f2223654b80",
+    "title": "56 Ukrainians still missing as Nepal ends flash flood search-and-rescue operation",
+    "country": "Nepal",
     "city": null,
-    "category": "health",
+    "category": "hazard",
     "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-07T20:16:59+00:00"
+    "time": "2026-10-07T21:18:21+00:00"
+   },
+   {
+    "id": "36a2c823a155",
+    "title": "Indian opposition leader Rahul Gandhi detained over election chief protest",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-07T19:40:07+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "ac63524f68ef",
+    "title": "Residents airlifted to safety after flooding in central Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-08T11:31:22+00:00"
+   },
    {
     "id": "20f15090fa33",
     "title": "M4.5 earthquake, 39 km NE of Calama, Chile",
@@ -436,6 +621,16 @@
     "time": "2026-10-07T22:01:02+00:00"
    },
    {
+    "id": "2ca0a7d26ead",
+    "title": "M4.6 earthquake, 18 km NNE of Posoltega, Nicaragua",
+    "country": "Nicaragua",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-07T20:56:51.318000+00:00"
+   },
+   {
     "id": "f31873508302",
     "title": "M4.7 earthquake, 45 km WNW of Ollagüe, Chile",
     "country": "Chile",
@@ -444,182 +639,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-07T15:46:14.830000+00:00"
-   },
-   {
-    "id": "634dfe399821",
-    "title": "Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-07T15:03:44+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "930b80f3a50a",
-    "title": "NSW police commissioner made last-minute bid to hold closed-door hearings into Sydney anti-Herzog protest",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T05:30:47+00:00"
-   },
-   {
-    "id": "bea2b8f88a08",
-    "title": "Jurors in Beau Lamarre-Condon murder trial shown photo of alleged ‘execution-style’ gunshot wound",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T04:26:32+00:00"
-   },
-   {
-    "id": "733f40ba7b9b",
-    "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites",
-    "country": "Australia",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T02:05:33+00:00"
-   },
-   {
-    "id": "07c2f301779c",
-    "title": "‘Catastrophic wildfire loop’ after colonisation left parts of Australia more at risk from bushfires, study finds",
-    "country": "Australia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-07T15:00:53+00:00"
-   },
-   {
-    "id": "e6c3eaa43393",
-    "title": "M4.5 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-07T10:20:33.568000+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "de10c54a6d51",
-    "title": "Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T03:54:09+00:00"
-   },
-   {
-    "id": "aa81777e68d5",
-    "title": "M4.7 earthquake, 101 km NE of Ruteng, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-08T03:00:01.461000+00:00"
-   },
-   {
-    "id": "9507e62b8e51",
-    "title": "How toxic haze is causing Singapore’s landmarks to disappear",
-    "country": "Singapore",
-    "city": "Singapore",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-07T22:10:20+00:00"
-   },
-   {
-    "id": "e13ee466579a",
-    "title": "M4.9 earthquake, 13 km SE of Yokoshiba, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-07T19:13:47.589000+00:00"
-   },
-   {
-    "id": "a99d9b551343",
-    "title": "M4.6 earthquake, 48 km SSW of Angoram, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-07T17:36:13.751000+00:00"
-   },
-   {
-    "id": "775f4b77716b",
-    "title": "M4.7 earthquake, 34 km E of Sarangani, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-07T16:42:49.325000+00:00"
-   },
-   {
-    "id": "ae28b4d39e68",
-    "title": "Green flood alert in Thailand",
-    "country": "Thailand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-07T15:19:12+00:00"
-   },
-   {
-    "id": "75c4e548ddb4",
-    "title": "Japan beer giants raided over alleged price-fixing cartel",
-    "country": "Japan",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-07T12:09:59+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "4f2223654b80",
-    "title": "56 Ukrainians still missing as Nepal ends flash flood search-and-rescue operation",
-    "country": "Nepal",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-07T21:18:21+00:00"
-   },
-   {
-    "id": "36a2c823a155",
-    "title": "Indian opposition leader Rahul Gandhi detained over election chief protest",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-07T19:40:07+00:00"
-   },
-   {
-    "id": "3c274d8feaad",
-    "title": "India",
-    "country": "India",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-07T10:56:27+00:00"
    }
   ]
  }

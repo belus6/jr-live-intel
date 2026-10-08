@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T08:00:40.171451+00:00",
+ "generated": "2026-10-08T15:37:38.969831+00:00",
  "sources": [
   {
    "id": "us-state-advisories",
@@ -7,7 +7,7 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.7
+   "secs": 0.5
   },
   {
    "id": "uk-fcdo",
@@ -15,7 +15,7 @@
    "ok": true,
    "items": 20,
    "note": "ok",
-   "secs": 0.8
+   "secs": 0.1
   },
   {
    "id": "cdc-notices",
@@ -29,17 +29,17 @@
    "id": "usgs-quakes",
    "name": "USGS earthquakes M4.5+",
    "ok": true,
-   "items": 13,
+   "items": 18,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.1
   },
   {
    "id": "gdacs",
    "name": "GDACS disaster alerts",
    "ok": true,
-   "items": 61,
+   "items": 60,
    "note": "ok",
-   "secs": 2.2
+   "secs": 1.8
   },
   {
    "id": "reliefweb",
@@ -47,23 +47,23 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.4
+   "secs": 0.2
   },
   {
    "id": "un-news",
    "name": "UN News",
    "ok": true,
-   "items": 2,
+   "items": 1,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.5
   },
   {
    "id": "bbc-world",
    "name": "BBC World",
    "ok": true,
-   "items": 7,
+   "items": 10,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.4
   },
   {
    "id": "aljazeera",
@@ -77,23 +77,23 @@
    "id": "france24",
    "name": "France 24",
    "ok": true,
-   "items": 14,
+   "items": 12,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "dw",
    "name": "Deutsche Welle",
    "ok": true,
-   "items": 2,
+   "items": 3,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.4
   },
   {
    "id": "guardian-world",
    "name": "The Guardian World",
    "ok": true,
-   "items": 16,
+   "items": 13,
    "note": "ok",
    "secs": 0.6
   },
@@ -101,25 +101,25 @@
    "id": "npr-world",
    "name": "NPR World",
    "ok": true,
-   "items": 1,
+   "items": 2,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.4
   },
   {
    "id": "africanews",
    "name": "Africanews",
    "ok": true,
-   "items": 12,
+   "items": 13,
    "note": "ok",
-   "secs": 0.4
+   "secs": 0.3
   },
   {
    "id": "kyiv-independent",
    "name": "Kyiv Independent",
    "ok": true,
-   "items": 7,
+   "items": 2,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "id": "times-of-israel",
@@ -138,10 +138,9 @@
   {
    "id": "gdelt-unrest-es-fr",
    "name": "GDELT unrest (Spanish and French)",
-   "ok": true,
+   "ok": false,
    "items": 0,
-   "note": "ok",
-   "secs": 24.0
+   "note": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28protesta%20OR%20manifestaci%C3%B3n%20OR%20bloqueo%20OR%20manif"
   }
  ]
 }
