@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-07T21:48:03.359095+00:00",
+ "generated": "2026-10-08T01:35:49.742809+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 63,
-  "3": 21,
-  "4": 4,
-  "5": 6
+  "2": 56,
+  "3": 19,
+  "4": 5,
+  "5": 3
  },
  "watch_hits": [
   "dca46984e97d"
@@ -35,34 +35,14 @@
     "time": "2026-10-07T18:08:27+00:00"
    },
    {
-    "id": "bc2866f03e3a",
-    "title": "Russia slams Ukraine with missiles, drones on Putin's 74th birthday, at least 15 dead",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 5,
-    "confidence": "C4",
-    "time": "2026-10-07T00:25:09+00:00"
-   },
-   {
-    "id": "6b9505c52336",
-    "title": "Russia slams Ukraine with missiles, drones on Putin's 74th birthday, at least 23 dead including 5 children",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 5,
-    "confidence": "C4",
-    "time": "2026-10-07T00:25:09+00:00"
-   },
-   {
-    "id": "61e94cb6a0e8",
-    "title": "Russia slams Ukraine with missiles, drones on Putin's 74th birthday, at least 28 dead including 5 children",
-    "country": "Russia",
+    "id": "02d17146c8e5",
+    "title": "Lithuania to deploy troops along border with Russia's Kaliningrad after Latvia incident",
+    "country": "Lithuania",
     "city": null,
     "category": "conflict",
-    "severity": 5,
+    "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-07T00:25:09+00:00"
+    "time": "2026-10-07T22:56:37+00:00"
    },
    {
     "id": "28354b40bcac",
@@ -93,6 +73,26 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-07T13:21:11+00:00"
+   },
+   {
+    "id": "9cafd25b5d89",
+    "title": "Russian attacks kill at least 28, injure more than 138 over past day, rescue efforts continue in Pryluky",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-07T13:21:11+00:00"
+   },
+   {
+    "id": "8c70096c3819",
+    "title": "EU ambassadors wave through largest-ever list of Russia sanctions",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-07T11:51:18+00:00"
    }
   ],
   "North America": [
@@ -127,6 +127,16 @@
     "time": "2026-10-07T15:03:26+00:00"
    },
    {
+    "id": "8ab2f5d22866",
+    "title": "Patricia Krenwinkel, former Manson follower, granted parole for third time",
+    "country": "United States",
+    "city": "Los Angeles",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-07T23:37:11+00:00"
+   },
+   {
     "id": "fbd63415bb37",
     "title": "M4.9 earthquake, 80 km SW of El Arenal, Mexico",
     "country": "Mexico",
@@ -135,39 +145,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-07T07:43:19.524000+00:00"
-   },
-   {
-    "id": "55fd5cc04dee",
-    "title": "LA and San Diego residents ‘horrified’ by Trump suggesting Iran bomb them",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T23:45:02+00:00"
-   },
-   {
-    "id": "1455085b9c8a",
-    "title": "LA and San Diego residents ‘horrified’ by Trump’s comment: ‘obsessed with us’",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T22:49:00+00:00"
-   },
-   {
-    "id": "0ba5436e10e1",
-    "title": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
-    "country": "Canada",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T22:06:04+00:00"
    }
   ],
   "Middle East & N. Africa": [
+   {
+    "id": "b87e3962f4fc",
+    "title": "No longer the same Israel? October 7th and the future of the Jewish State",
+    "country": "Israel",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-07T22:10:13+00:00"
+   },
    {
     "id": "08df42352409",
     "title": "British Jewish groups hold London vigil for victims of 7 October attacks",
@@ -187,6 +177,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-07T13:21:08+00:00"
+   },
+   {
+    "id": "4ccd0cba8b75",
+    "title": "Israel marks three years since October 7 attack ahead of elections",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-07T21:50:07+00:00"
    },
    {
     "id": "5f5cea727669",
@@ -227,26 +227,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-07T15:14:12+00:00"
-   },
-   {
-    "id": "2f33834916e1",
-    "title": "Devastation in Gaza: Three years of war reshape the enclave beyond recognition",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-07T13:17:32+00:00"
-   },
-   {
-    "id": "ac5f90717229",
-    "title": "Israeli attacks across Gaza kill at least four Palestinians",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-07T11:13:32+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -291,6 +271,16 @@
     "time": "2026-10-07T13:27:22+00:00"
    },
    {
+    "id": "c4e46d6f2923",
+    "title": "How kidnappings are hitting Nigeria’s Borno families hard",
+    "country": "Nigeria",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-08T00:47:32+00:00"
+   },
+   {
     "id": "92f006ebbb1e",
     "title": "Kenya: Health Minister insists no ebola outbreak in country",
     "country": "Kenya",
@@ -319,16 +309,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-07T12:00:00+00:00"
-   },
-   {
-    "id": "e130d37cd507",
-    "title": "MSF warns Ebola spread in DR Congo's North Kivu province is 'out of control'",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-07T11:20:08+00:00"
    }
   ],
   "Western Europe": [
@@ -343,6 +323,16 @@
     "time": "2026-10-07T18:02:47+00:00"
    },
    {
+    "id": "f3aacb5b4ed7",
+    "title": "Evicted pensioner Maricarmen Abascal, heart of Spain's housing protests, dies",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-07T19:19:07+00:00"
+   },
+   {
     "id": "27f1ebcfb03f",
     "title": "France: Government suspends stun grenade use in school protests",
     "country": "France",
@@ -351,6 +341,16 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-07T16:15:54+00:00"
+   },
+   {
+    "id": "a4d39c021d84",
+    "title": "Death of 87-year old sparks furious Spain housing protests",
+    "country": "Spain",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-08T01:15:27+00:00"
    },
    {
     "id": "c76ecc3224ab",
@@ -391,26 +391,48 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-07T20:04:00+00:00"
-   },
+   }
+  ],
+  "Latin America & Caribbean": [
    {
-    "id": "5022b54cae4b",
-    "title": "Over 100 arrested in Belgium student protests over education costs",
-    "country": "Belgium",
+    "id": "0eacb1598651",
+    "title": "‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro",
+    "country": "Brazil",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-07T17:28:56+00:00"
+    "time": "2026-10-07T22:14:58+00:00"
    },
    {
-    "id": "0b99cda7787e",
-    "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-    "country": "France",
-    "city": null,
+    "id": "ae12e741a827",
+    "title": "Thousands protest Flavio Bolsonaro, fearing far-right return in Brazil",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-07T16:41:57+00:00"
+    "time": "2026-10-07T22:01:02+00:00"
+   },
+   {
+    "id": "f31873508302",
+    "title": "M4.7 earthquake, 45 km WNW of Ollagüe, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-07T15:46:14.830000+00:00"
+   },
+   {
+    "id": "634dfe399821",
+    "title": "Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-07T15:03:44+00:00"
    }
   ],
   "South Asia": [
@@ -515,78 +537,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-07T10:57:34.247000+00:00"
-   },
-   {
-    "id": "3f7beb2ccf7b",
-    "title": "M4.5 earthquake, 37 km ESE of Iwaki, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-07T00:22:41.953000+00:00"
-   },
-   {
-    "id": "8b8e504c507d",
-    "title": "M4.9 earthquake, 189 km SW of Abepura, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-06T21:56:43.985000+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "f31873508302",
-    "title": "M4.7 earthquake, 45 km WNW of Ollagüe, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-07T15:46:14.830000+00:00"
-   },
-   {
-    "id": "634dfe399821",
-    "title": "Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-07T15:03:44+00:00"
-   },
-   {
-    "id": "ee3f3391196d",
-    "title": "Haiti postpones elections indefinitely as gang violence hampers preparations",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-07T01:06:11+00:00"
-   },
-   {
-    "id": "966e1931e948",
-    "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
-    "country": "Venezuela",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T23:05:38+00:00"
-   },
-   {
-    "id": "50b11070dffb",
-    "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
-    "country": "Argentina",
-    "city": "Buenos Aires",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T22:07:44+00:00"
    }
   ],
   "Oceania": [
@@ -619,26 +569,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-07T05:47:03+00:00"
-   },
-   {
-    "id": "57bd37888add",
-    "title": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-06T23:11:27+00:00"
-   },
-   {
-    "id": "347cc8a1cff3",
-    "title": "M4.7 earthquake, Kermadec Islands, New Zealand",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-06T22:12:46.267000+00:00"
    }
   ]
  }
