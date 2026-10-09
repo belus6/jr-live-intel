@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-09T19:48:00.924469+00:00",
+ "generated": "2026-10-09T23:50:44.234490+00:00",
  "sample": false,
- "count": 409,
+ "count": 419,
  "events": [
+  {
+   "title": "M5.0 earthquake, 14 km SE of Río Grande, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197",
+   "time": "2026-10-09T19:04:49.305000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.6161,
+   "lon": -81.2492,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-09T19:48:00.924469+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "014750f87e3e",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
   {
    "title": "M7.7 earthquake, 12 km WSW of Pitaloza Arriba, Panama",
    "summary": "Depth 13 km. Alert: red.",
@@ -29,6 +57,34 @@
    "flag": "🇵🇦",
    "region": "Latin America & Caribbean",
    "baseline": 2.22,
+   "watch": []
+  },
+  {
+   "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+   "summary": "",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+   "time": "2026-10-09T12:00:00+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0206f47c7129",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
    "watch": []
   },
   {
@@ -340,6 +396,34 @@
    "watch": []
   },
   {
+   "title": "Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 500 thousand (in MMI>=VII).",
+   "summary": "On 10/9/2026 5:56:06 PM, an earthquake occurred in Panama potentially affecting 500 thousand (in MMI>=VII). The earthquake had Magnitude 7.7M, Depth:12.647km.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570339",
+   "time": "2026-10-09T18:04:04+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.5868,
+   "lon": -80.769,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570339",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "fa44072ff232",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
    "title": "Residents of Ukraine's Kramatorsk forced to flee as drone strikes intensify",
    "summary": "",
    "url": "https://www.france24.com/en/tv-shows/focus/20261009-residents-of-ukraine-s-kramatorsk-forced-to-flee-as-drone-strikes-intensify",
@@ -474,6 +558,34 @@
    "confidence": "C4",
    "corroboration": 1,
    "id": "aa845c9ed85b",
+   "flag": "🇦🇹",
+   "region": "Western Europe",
+   "baseline": 1.0,
+   "watch": []
+  },
+  {
+   "title": "'We were being arrested like terrorists'— Ukrainian journalist says his detention in Austria was brutal",
+   "summary": "",
+   "url": "https://kyivindependent.com/ukrainian-investigative-journalist-mykhailo-tkach-detained-in-austria-while-on-assignment/",
+   "time": "2026-10-08T20:52:34+00:00",
+   "tier": "C",
+   "category": "terrorism",
+   "country": "Austria",
+   "city": "Vienna",
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukrainian-investigative-journalist-mykhailo-tkach-detained-in-austria-while-on-assignment/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "84f71c524c15",
    "flag": "🇦🇹",
    "region": "Western Europe",
    "baseline": 1.0,
@@ -1101,34 +1213,6 @@
    "watch": []
   },
   {
-   "title": "In Iraq, ISIS members once jailed in Syria face trial",
-   "summary": "",
-   "url": "https://www.npr.org/2026/10/05/nx-s1-5991613/in-iraq-isis-members-once-jailed-in-syria-face-trial",
-   "time": "2026-10-05T22:04:44+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Iraq",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/05/nx-s1-5991613/in-iraq-isis-members-once-jailed-in-syria-face-trial",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-06T01:22:38.925437+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "68eb0737c903",
-   "flag": "🇮🇶",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.28,
-   "watch": []
-  },
-  {
    "title": "Brazil presidential election 2026: first-round live results",
    "summary": "",
    "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
@@ -1274,6 +1358,118 @@
    "watch": []
   },
   {
+   "title": "Zelenskyy denounces Trump’s decision to lift diesel sanctions on Russia as ‘weak’ – US politics live",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+   "time": "2026-10-09T23:02:10+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3f61370ada62",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
+   "time": "2026-10-09T22:50:15+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Mexico",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ef3bd82466e4",
+   "flag": "🇲🇽",
+   "region": "North America",
+   "baseline": 3.32,
+   "watch": []
+  },
+  {
+   "title": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
+   "time": "2026-10-09T20:00:24+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "dd5cb5a3e2bf",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+   "time": "2026-10-09T19:32:13+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Canada",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2ab0cef12094",
+   "flag": "🇨🇦",
+   "region": "North America",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
    "title": "Navi Pillay wins Nobel Peace Prize as US sanctions threaten international justice",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/09/navi-pillay-wins-nobel-peace-prize-as-us-sanctions-threaten-international-justice/",
@@ -1352,6 +1548,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "38313822e3d0",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warnings",
+   "summary": "",
+   "url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
+   "time": "2026-10-09T18:39:03+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "United States",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "aa79563c7cfb",
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
@@ -3796,34 +4020,6 @@
    "watch": []
   },
   {
-   "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
-   "time": "2026-10-06T21:57:03+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-06T23:44:27.910246+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c1e3d7cea88d",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
    "title": "Will the Iran war cost Trump in the US midterm elections? Your questions answered",
    "summary": "",
    "url": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
@@ -4244,31 +4440,255 @@
    "watch": []
   },
   {
-   "title": "M5.0 earthquake, 14 km SE of Río Grande, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197",
-   "time": "2026-10-09T19:04:49.305000+00:00",
-   "tier": "A",
+   "title": "Police clash with protesters in Brussels as thousands march against spending cuts",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts/",
+   "time": "2026-10-09T22:28:07+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Belgium",
+   "city": "Brussels",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "9ecabdc4c3ac",
+   "flag": "🇧🇪",
+   "region": "Western Europe",
+   "baseline": 1.27,
+   "watch": []
+  },
+  {
+   "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-09T21:55:51+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Australia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8bf4e51301a6",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
+   "time": "2026-10-09T21:30:22+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Mexico",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ad72ec55e316",
+   "flag": "🇲🇽",
+   "region": "North America",
+   "baseline": 3.32,
+   "watch": []
+  },
+  {
+   "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-09T21:26:30+00:00",
+   "tier": "B",
    "category": "hazard",
    "country": "Panama",
    "city": null,
-   "lat": 7.6161,
-   "lon": -81.2492,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a2c73dc80df6",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
+   "title": "M4.6 earthquake, 96 km NE of Ozernovskiy, Russia",
+   "summary": "Depth 78 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ah",
+   "time": "2026-10-09T21:19:16.481000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Russia",
+   "city": null,
+   "lat": 52.0441,
+   "lon": 157.5832,
    "severity": 2,
    "sources": [
     {
      "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ah",
      "tier": "A"
     }
    ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
    "confidence": "A1",
    "corroboration": 1,
-   "id": "014750f87e3e",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
+   "id": "bb56780eb4f5",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "New York City’s Marble Hill residents furious after ICE shooting: ‘Why do this?’",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
+   "time": "2026-10-09T21:08:53+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "United States",
+   "city": "New York",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "437ac38a8130",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 121 km S of Kokopo, Papua New Guinea",
+   "summary": "Depth 51 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19v",
+   "time": "2026-10-09T20:20:09.257000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -5.4312,
+   "lon": 152.1103,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19v",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "20f6e1a57979",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
+   "watch": []
+  },
+  {
+   "title": "Schools crisis in France: Investment fails to inspire confidence",
+   "summary": "",
+   "url": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-world-4025-rdf",
+   "time": "2026-10-09T19:52:00+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-world-4025-rdf",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "89ab8d1dcf21",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Injured Orangutan rescued from Indonesia wildfires",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
+   "time": "2026-10-09T19:14:56+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e45d47c52265",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
    "watch": []
   },
   {
@@ -4297,6 +4717,44 @@
    "flag": "🇲🇼",
    "region": "Sub-Saharan Africa",
    "baseline": 3.23,
+   "watch": []
+  },
+  {
+   "title": "🔴 Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warning",
+   "summary": "",
+   "url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
+   "time": "2026-10-09T18:41:26+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
+     "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
+     "tier": "B"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B1",
+   "corroboration": 3,
+   "id": "2154dfd20144",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
    "watch": []
   },
   {
@@ -4556,6 +5014,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "0bfcb20b7310",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "French students vow to keep up protests as UN voices 'concern' over violence",
+   "summary": "",
+   "url": "https://www.france24.com/en/france/20261009-french-students-vow-to-keep-up-protests-as-un-voices-concern-over-violence",
+   "time": "2026-10-09T15:37:42+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261009-french-students-vow-to-keep-up-protests-as-un-voices-concern-over-violence",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a115b1e75e3e",
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
@@ -6411,6 +6897,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Sudan",
+   "summary": "On 02/10/2026, a forest fire started in Sudan, until 08/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032624",
+   "time": "2026-10-08T15:02:52+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Sudan",
+   "city": null,
+   "lat": 7.24679966928245,
+   "lon": 32.71484525442974,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032624",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "5845a3df04eb",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
    "title": "French students vow to continue protests, saying ministers’ pledges not enough",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue",
@@ -7251,6 +7765,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Australia",
+   "summary": "On 07/10/2026, a forest fire started in Australia, until 07/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032616",
+   "time": "2026-10-08T07:00:33+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Australia",
+   "city": null,
+   "lat": -16.20969911861709,
+   "lon": 134.0672510907094,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032616",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-09T23:50:44.234490+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "1c78c4282108",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
    "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
    "summary": "",
    "url": "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies",
@@ -7823,62 +8365,6 @@
    "watch": []
   },
   {
-   "title": "Patricia Krenwinkel, former Manson follower, granted parole for third time",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/07/patricia-krenwinkel-manson-follower-parole",
-   "time": "2026-10-07T23:37:11+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United States",
-   "city": "Los Angeles",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/07/patricia-krenwinkel-manson-follower-parole",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T01:35:49.742809+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "8ab2f5d22866",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro",
-   "summary": "",
-   "url": "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss",
-   "time": "2026-10-07T22:14:58+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Brazil",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T01:35:49.742809+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "0eacb1598651",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
-   "watch": []
-  },
-  {
    "title": "How toxic haze is causing Singapore’s landmarks to disappear",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
@@ -7904,90 +8390,6 @@
    "flag": "🇸🇬",
    "region": "East & SE Asia",
    "baseline": 1.07,
-   "watch": []
-  },
-  {
-   "title": "Thousands protest Flavio Bolsonaro, fearing far-right return in Brazil",
-   "summary": "",
-   "url": "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil",
-   "time": "2026-10-07T22:01:02+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Brazil",
-   "city": "Rio de Janeiro",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T01:35:49.742809+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ae12e741a827",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
-   "watch": []
-  },
-  {
-   "title": "Thousands protest presidential candidate Flavio Bolsonaro, fearing far-right return in Brazil",
-   "summary": "",
-   "url": "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil",
-   "time": "2026-10-07T22:01:02+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Brazil",
-   "city": "Rio de Janeiro",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T08:00:40.171451+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "93fea3979504",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
-   "watch": []
-  },
-  {
-   "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-07T21:40:24+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Spain",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-07T21:48:03.359095+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c76ecc3224ab",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -8019,34 +8421,6 @@
    "watch": []
   },
   {
-   "title": "French PM vows to address debt despite student protests",
-   "summary": "",
-   "url": "https://www.france24.com/en/french-pm-vows-to-address-debt-despite-student-protests",
-   "time": "2026-10-07T21:13:32+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/french-pm-vows-to-address-debt-despite-student-protests",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-07T21:48:03.359095+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "81b022a18053",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "M4.6 earthquake, 18 km NNE of Posoltega, Nicaragua",
    "summary": "Depth 206 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0uq",
@@ -8075,34 +8449,6 @@
    "watch": []
   },
   {
-   "title": "France schools protests: more than 6,000 arrested since start of demonstrations",
-   "summary": "",
-   "url": "https://www.france24.com/en/france-schools-protests-more-than-6-100-arrested-since-start-of-demonstrations",
-   "time": "2026-10-07T20:17:55+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france-schools-protests-more-than-6-100-arrested-since-start-of-demonstrations",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-07T21:48:03.359095+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "588c7aac4fd4",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Kenya: Health Minister insists no ebola outbreak in country",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/07/kenya-health-minister-insists-no-ebola-outbreak-in-country/",
@@ -8128,34 +8474,6 @@
    "flag": "🇰🇪",
    "region": "Sub-Saharan Africa",
    "baseline": 2.97,
-   "watch": []
-  },
-  {
-   "title": "French police suspend use of stun grenades at school protests as minister rejects accusations of brutality",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
-   "time": "2026-10-07T20:04:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-07T21:48:03.359095+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4ad5253e29a2",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -10738,34 +11056,6 @@
    "flag": "🇹🇴",
    "region": "Oceania",
    "baseline": 1.93,
-   "watch": []
-  },
-  {
-   "title": "M4.8 earthquake, 32 km SSE of Jurm, Afghanistan",
-   "summary": "Depth 249 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn",
-   "time": "2026-10-04T20:27:25.597000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Afghanistan",
-   "city": null,
-   "lat": 36.611,
-   "lon": 71.0216,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-04T20:56:33.239017+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "23f0770e6d6a",
-   "flag": "🇦🇫",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.8,
    "watch": []
   },
   {
