@@ -1,18 +1,101 @@
 {
- "generated": "2026-10-09T14:31:03.631403+00:00",
+ "generated": "2026-10-09T19:48:00.924469+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 62,
-  "3": 29,
-  "4": 5,
-  "5": 0
+  "2": 65,
+  "3": 40,
+  "4": 6,
+  "5": 1
  },
  "watch_hits": [
+  "b0afa1dbfbfc",
   "03fb43ce2420"
  ],
  "regions": {
+  "Latin America & Caribbean": [
+   {
+    "id": "61c4c14c70b1",
+    "title": "M7.7 earthquake, 12 km WSW of Pitaloza Arriba, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-10-09T17:56:06.036000+00:00"
+   },
+   {
+    "id": "e63474bf542c",
+    "title": "Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 460 thousand (in MMI>=VII).",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-09T18:04:04+00:00"
+   },
+   {
+    "id": "53b7415c8863",
+    "title": "M5.5 earthquake, 3 km SW of Bajo Corral, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-09T18:22:15.709000+00:00"
+   },
+   {
+    "id": "86c2bbf0f1a5",
+    "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-09T18:29:26+00:00"
+   },
+   {
+    "id": "014750f87e3e",
+    "title": "M5.0 earthquake, 14 km SE of Río Grande, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T19:04:49.305000+00:00"
+   },
+   {
+    "id": "f0ce07ae3067",
+    "title": "Driver films from inside vehicle as car swept away in Chile floods",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T14:27:03+00:00"
+   },
+   {
+    "id": "0d0eb103dbcb",
+    "title": "M4.8 earthquake, 17 km S of Nandaime, Nicaragua",
+    "country": "Nicaragua",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T12:33:43.985000+00:00"
+   },
+   {
+    "id": "b575745bb643",
+    "title": "M5.1 earthquake, 72 km SSW of Colchane, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T10:22:14.915000+00:00"
+   }
+  ],
   "Western Europe": [
    {
     "id": "a0755a9a1512",
@@ -25,14 +108,44 @@
     "time": "2026-10-09T11:51:07+00:00"
    },
    {
-    "id": "aa37e843dc5a",
-    "title": "Two Latvian men arrested at UK base housing US and NATO intelligence hubs",
-    "country": "United Kingdom",
-    "city": null,
+    "id": "aa845c9ed85b",
+    "title": "'We were being arrested like terrorists' - Ukrainian journalist says his detention in Austria was brutal",
+    "country": "Austria",
+    "city": "Vienna",
     "category": "terrorism",
     "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-08T20:52:34+00:00"
+   },
+   {
+    "id": "727ecc2f7b28",
+    "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-08T16:57:19+00:00"
+    "time": "2026-10-09T18:40:10+00:00"
+   },
+   {
+    "id": "3537827af8bd",
+    "title": "Labour hails byelection win as return of leftwing voters after Starmer era",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T17:08:19+00:00"
+   },
+   {
+    "id": "a2b619691abd",
+    "title": "EU's Covid recovery fund was 'absolutely a success': European Court of Auditors' Pierre Moscovici",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T15:51:06+00:00"
    },
    {
     "id": "1b082b075d13",
@@ -63,36 +176,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-09T07:14:58+00:00"
-   },
-   {
-    "id": "733d6de6d08e",
-    "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
-    "country": "France",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T22:10:53+00:00"
-   },
-   {
-    "id": "2ddf0e6b0109",
-    "title": "Spain: Madrid protesters mourn evicted pensioner Maricarmen Abascal",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-09T12:32:32+00:00"
-   },
-   {
-    "id": "31a597d84a4f",
-    "title": "French high school students react to Education Minister’s measures",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-09T13:35:53+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -105,6 +188,36 @@
     "severity": 4,
     "confidence": "A1",
     "time": "2026-10-09T09:14:54+00:00"
+   },
+   {
+    "id": "c1072301ab11",
+    "title": "Navi Pillay awarded Peace Prize: 'Lifetime spent fighting for what's right & to uphold human rights'",
+    "country": "South Africa",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T17:27:56+00:00"
+   },
+   {
+    "id": "6f8197325820",
+    "title": "Eritrean troops in Ethiopia raise fears of a regional war",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T15:20:00+00:00"
+   },
+   {
+    "id": "16fec3b1446d",
+    "title": "Ethiopia and Eritrea trade war accusations as regional conflict threatens to escalate",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-09T14:08:43+00:00"
    },
    {
     "id": "5d53afccb501",
@@ -145,36 +258,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-09T07:52:38+00:00"
-   },
-   {
-    "id": "6face518261a",
-    "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
-    "country": "Eritrea",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T16:11:32+00:00"
-   },
-   {
-    "id": "03fb43ce2420",
-    "title": "Kenya Red Cross supports response to country’s first Ebola case",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-09T11:24:36+00:00"
-   },
-   {
-    "id": "9841187850bc",
-    "title": "Ebola outbreak: Border surveillance gaps raise concerns in the Central African Republic",
-    "country": "CAR",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-09T11:23:25+00:00"
    }
   ],
   "North America": [
@@ -189,24 +272,24 @@
     "time": "2026-10-09T04:26:55+00:00"
    },
    {
-    "id": "1087bad0f204",
-    "title": "Open letter to the US administration: The G20 invitation to Putin should come with conditions",
-    "country": "United States",
-    "city": "Miami",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-08T18:15:11+00:00"
-   },
-   {
-    "id": "d81c2c667af5",
-    "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+    "id": "38313822e3d0",
+    "title": "Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warning",
     "country": "United States",
     "city": null,
-    "category": "conflict",
+    "category": "hazard",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-08T16:05:37+00:00"
+    "time": "2026-10-09T18:39:03+00:00"
+   },
+   {
+    "id": "0c29aac5e8a2",
+    "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
+    "country": "United States",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T12:00:00+00:00"
    },
    {
     "id": "2e1c49758c09",
@@ -217,6 +300,26 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-09T01:50:05+00:00"
+   },
+   {
+    "id": "161700b928c1",
+    "title": "US immigration officials defend ICE agents who shot man in same car as child",
+    "country": "United States",
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T17:36:09+00:00"
+   },
+   {
+    "id": "6f765f93a3a6",
+    "title": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
+    "country": "United States",
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T16:36:31+00:00"
    },
    {
     "id": "0749b8e0af45",
@@ -237,16 +340,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-09T04:26:19+00:00"
-   },
-   {
-    "id": "1729b9a566ad",
-    "title": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
-    "country": "Mexico",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T20:40:55+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -271,14 +364,44 @@
     "time": "2026-10-09T09:47:10+00:00"
    },
    {
-    "id": "b2818d7d9e98",
-    "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-    "country": "Israel",
-    "city": "Jerusalem",
+    "id": "a02f28c4e04b",
+    "title": "Navi Pillay wins Nobel Peace Prize as US sanctions threaten international justice",
+    "country": "Palestine",
+    "city": null,
     "category": "political",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-08T15:21:46+00:00"
+    "confidence": "C4",
+    "time": "2026-10-09T18:49:16+00:00"
+   },
+   {
+    "id": "c1d00befd1c8",
+    "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T18:15:06+00:00"
+   },
+   {
+    "id": "95e6bc00ae76",
+    "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T17:19:43+00:00"
+   },
+   {
+    "id": "88bd9eb39468",
+    "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T12:00:00+00:00"
    },
    {
     "id": "a998ebeb03f2",
@@ -299,39 +422,49 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-09T00:50:38+00:00"
-   },
-   {
-    "id": "f5546ece23d5",
-    "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T00:12:18+00:00"
-   },
-   {
-    "id": "8d5ff260b6b8",
-    "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T22:54:23+00:00"
-   },
-   {
-    "id": "3dc8e9312bb4",
-    "title": "How much worse can Yemen’s humanitarian crisis become?",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T20:06:08+00:00"
    }
   ],
   "Eastern Europe": [
+   {
+    "id": "a39c84b4a879",
+    "title": "Ukraine war latest: Drones strike another Yandex data center in Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-09T18:12:16+00:00"
+   },
+   {
+    "id": "3de485ce2c5b",
+    "title": "US sanctions court that seeks to arrest Putin, prompts backlash",
+    "country": "Ukraine",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-09T17:57:08+00:00"
+   },
+   {
+    "id": "880b6945f9a5",
+    "title": "Record 20 Russian officers killed in Ukrainian strikes on headquarters in Donetsk, monitors say",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-09T17:48:21+00:00"
+   },
+   {
+    "id": "a37af641c3e4",
+    "title": "Why have EU sanctions missed the company behind Russia’s tank industry?",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-09T16:34:56+00:00"
+   },
    {
     "id": "3066296e32d5",
     "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
@@ -371,46 +504,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-09T10:16:55+00:00"
-   },
-   {
-    "id": "9bf59ff6d06d",
-    "title": "General Staff: Russia has lost 1,549,490 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-09T06:57:31+00:00"
-   },
-   {
-    "id": "33226ef32281",
-    "title": "Ukraine reportedly targets Russian cruise missile fuel plant, oil depot in overnight attack",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-09T03:51:11+00:00"
-   },
-   {
-    "id": "b37ace4b74de",
-    "title": "Ukraine confirms strikes on Russian cruise missile fuel plant, missile facilities",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-09T03:51:11+00:00"
-   },
-   {
-    "id": "e6d6f867f939",
-    "title": "Millions on alert as Hurricane Isaias set to bring dangerous storm surge",
-    "country": "Georgia",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T01:21:04+00:00"
    }
   ],
   "South Asia": [
@@ -453,6 +546,16 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-09T12:23:00+00:00"
+   },
+   {
+    "id": "632944449df7",
+    "title": "Amid heartache of Nepal flooding disaster, fear remains",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T12:00:00+00:00"
    },
    {
     "id": "15eddac63ef3",
@@ -547,88 +650,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-08T23:00:52+00:00"
-   },
-   {
-    "id": "80869e8abdd8",
-    "title": "Video shows dramatic eruption of volcano near Manila",
-    "country": "Philippines",
-    "city": "Manila",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T16:55:38+00:00"
-   },
-   {
-    "id": "b5154849f725",
-    "title": "M4.7 earthquake, 84 km WNW of Bengkulu, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-08T15:23:47.618000+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "0d0eb103dbcb",
-    "title": "M4.8 earthquake, 17 km S of Nandaime, Nicaragua",
-    "country": "Nicaragua",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-09T12:33:43.985000+00:00"
-   },
-   {
-    "id": "b575745bb643",
-    "title": "M5.1 earthquake, 72 km SSW of Colchane, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-09T10:22:14.915000+00:00"
-   },
-   {
-    "id": "2b34ece6f2c5",
-    "title": "Chile: Santiago flooding turns streets to rivers as Kast declares state of catastrophe",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-09T07:40:40+00:00"
-   },
-   {
-    "id": "e0962a63877f",
-    "title": "Green flood alert in Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-09T06:06:46+00:00"
-   },
-   {
-    "id": "a09ab7cdc118",
-    "title": "Green flood alert in Brazil",
-    "country": "Brazil",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-09T06:06:33+00:00"
-   },
-   {
-    "id": "5016337a021c",
-    "title": "Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-08T23:26:56+00:00"
    }
   ]
  }
