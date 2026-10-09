@@ -1,96 +1,180 @@
 {
- "generated": "2026-10-09T07:24:10.537441+00:00",
+ "generated": "2026-10-09T14:31:03.631403+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 67,
-  "3": 33,
-  "4": 9,
-  "5": 1
+  "2": 62,
+  "3": 29,
+  "4": 5,
+  "5": 0
  },
- "watch_hits": [],
+ "watch_hits": [
+  "03fb43ce2420"
+ ],
  "regions": {
-  "Eastern Europe": [
+  "Western Europe": [
    {
-    "id": "705a7c20dc77",
-    "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
-    "country": "Ukraine",
-    "city": "Kyiv",
+    "id": "a0755a9a1512",
+    "title": "Residents of Ukraine's Kramatorsk forced to flee as drone strikes intensify",
+    "country": "France",
+    "city": null,
     "category": "conflict",
-    "severity": 5,
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-08T11:25:28+00:00"
+    "time": "2026-10-09T11:51:07+00:00"
    },
    {
-    "id": "9bf59ff6d06d",
-    "title": "General Staff: Russia has lost 1,549,490 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
+    "id": "aa37e843dc5a",
+    "title": "Two Latvian men arrested at UK base housing US and NATO intelligence hubs",
+    "country": "United Kingdom",
     "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-08T16:57:19+00:00"
+   },
+   {
+    "id": "1b082b075d13",
+    "title": "'Absolute torture': Female US inmate in critical condition after botched execution",
+    "country": "France",
+    "city": null,
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T14:03:43+00:00"
+   },
+   {
+    "id": "a5f4ff65a09a",
+    "title": "Leader of Jewish Greens calls for Zack Polanski to resign after byelection loss",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T13:13:15+00:00"
+   },
+   {
+    "id": "0bc99a9c741d",
+    "title": "Labour fends off Green party to win Holborn and St Pancras byelection",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T07:14:58+00:00"
+   },
+   {
+    "id": "733d6de6d08e",
+    "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
+    "country": "France",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T22:10:53+00:00"
+   },
+   {
+    "id": "2ddf0e6b0109",
+    "title": "Spain: Madrid protesters mourn evicted pensioner Maricarmen Abascal",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-09T12:32:32+00:00"
+   },
+   {
+    "id": "31a597d84a4f",
+    "title": "French high school students react to Education Minister’s measures",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T13:35:53+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "8e66d275a817",
+    "title": "Eritrea",
+    "country": "Eritrea",
+    "city": null,
+    "category": "advisory",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-09T09:14:54+00:00"
+   },
+   {
+    "id": "5d53afccb501",
+    "title": "Who is Navi Pillay, winner of the 2026 Nobel Peace Prize?",
+    "country": "South Africa",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T14:02:58+00:00"
+   },
+   {
+    "id": "b6491691c057",
+    "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T13:31:07+00:00"
+   },
+   {
+    "id": "4b98d86c97ba",
+    "title": "Court of Arbitration for Sport hears Senegal's appeal over AFCON title",
+    "country": "Kenya",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T10:48:41+00:00"
+   },
+   {
+    "id": "a41311f16055",
+    "title": "Tigray war: Why peace talks may fail before they even begin {Africanews Debates}",
+    "country": "South Africa",
+    "city": "Pretoria",
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-09T06:57:31+00:00"
+    "time": "2026-10-09T07:52:38+00:00"
    },
    {
-    "id": "33226ef32281",
-    "title": "Ukraine reportedly targets Russian cruise missile fuel plant, oil depot in overnight attack",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-09T03:51:11+00:00"
-   },
-   {
-    "id": "e6d6f867f939",
-    "title": "Millions on alert as Hurricane Isaias set to bring dangerous storm surge",
-    "country": "Georgia",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T01:21:04+00:00"
-   },
-   {
-    "id": "6f614945babd",
-    "title": "Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US",
-    "country": "Georgia",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T20:02:47+00:00"
-   },
-   {
-    "id": "50897c145fb9",
-    "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
-    "country": "Ukraine",
+    "id": "6face518261a",
+    "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+    "country": "Eritrea",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-08T14:00:05+00:00"
+    "time": "2026-10-08T16:11:32+00:00"
    },
    {
-    "id": "08e9edd22551",
-    "title": "Drones above, robots below — inside Operation Vivaldi, Ukraine’s push to recapture territory in Donetsk Oblast",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-08T13:12:30+00:00"
+    "id": "03fb43ce2420",
+    "title": "Kenya Red Cross supports response to country’s first Ebola case",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "category": "health",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-09T11:24:36+00:00"
    },
    {
-    "id": "452daa925b81",
-    "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
-    "country": "Bulgaria",
+    "id": "9841187850bc",
+    "title": "Ebola outbreak: Border surveillance gaps raise concerns in the Central African Republic",
+    "country": "CAR",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "health",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-08T11:45:00+00:00"
+    "time": "2026-10-09T11:23:25+00:00"
    }
   ],
   "North America": [
@@ -135,6 +219,16 @@
     "time": "2026-10-09T01:50:05+00:00"
    },
    {
+    "id": "0749b8e0af45",
+    "title": "New York police push politician to ground during anti-ICE protest",
+    "country": "United States",
+    "city": "New York",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T08:59:49+00:00"
+   },
+   {
     "id": "306aebb6328f",
     "title": "ICE agent shoots man in New York City",
     "country": "United States",
@@ -167,14 +261,14 @@
     "time": "2026-10-09T02:28:58+00:00"
    },
    {
-    "id": "3b5cc0079f0d",
-    "title": "Egypt accuses 6 Journalists of terrorism in press freedom crackdown",
-    "country": "Egypt",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-08T12:07:16+00:00"
+    "id": "36e107403e13",
+    "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-09T09:47:10+00:00"
    },
    {
     "id": "b2818d7d9e98",
@@ -185,16 +279,6 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-10-08T15:21:46+00:00"
-   },
-   {
-    "id": "2796c16f3f85",
-    "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-08T12:01:55+00:00"
    },
    {
     "id": "a998ebeb03f2",
@@ -235,120 +319,214 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-08T22:54:23+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "aa37e843dc5a",
-    "title": "Two Latvian men arrested at UK base housing US and NATO intelligence hubs",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-08T16:57:19+00:00"
    },
    {
-    "id": "af7cd9a9ce56",
-    "title": "Palestinians gained 'nothing' from October 7, Egyptian businessman Naguib Sawiris says",
-    "country": "France",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-08T11:12:58+00:00"
-   },
-   {
-    "id": "0bc99a9c741d",
-    "title": "Labour fends off Green party to win Holborn and St Pancras byelection",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T07:14:58+00:00"
-   },
-   {
-    "id": "733d6de6d08e",
-    "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
-    "country": "France",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T22:10:53+00:00"
-   },
-   {
-    "id": "0445ad2b131d",
-    "title": "UK ramps up sanctions against Russian shadow fleet, crypto industry, big oil",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-08T11:21:10+00:00"
-   },
-   {
-    "id": "cacf02cef63a",
-    "title": "Northern Ireland’s Sinn Fein faces police probe as protest tensions fester",
-    "country": "Ireland",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-09T03:47:41+00:00"
-   },
-   {
-    "id": "f17598cb26e1",
-    "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
-    "country": "Spain",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-09T01:15:49+00:00"
-   },
-   {
-    "id": "b26ad872e5de",
-    "title": "Hundreds of farmers rally in Paris against EU-Mercosur pact and import fears",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-08T21:57:25+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "6bcbbde098cc",
-    "title": "Volcanic eruption is on going for Taal in Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-08T13:00:44+00:00"
-   },
-   {
-    "id": "f36cef45f0bd",
-    "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-    "country": "South Korea",
+    "id": "3dc8e9312bb4",
+    "title": "How much worse can Yemen’s humanitarian crisis become?",
+    "country": "Yemen",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-08T12:01:34+00:00"
+    "time": "2026-10-08T20:06:08+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "3066296e32d5",
+    "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T13:09:15+00:00"
    },
    {
-    "id": "e22e4f055b51",
-    "title": "M5.5 earthquake, 17 km SW of Burias, Philippines",
-    "country": "Philippines",
+    "id": "f3aed019e82e",
+    "title": "Ukraine takes aim at Russia’s AI data infrastructure",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T13:01:57+00:00"
+   },
+   {
+    "id": "59bd213d8e9c",
+    "title": "Exclusive: Putin puts a price on Trump's Ukraine energy truce — Kyiv fears the cost",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-09T11:08:31+00:00"
+   },
+   {
+    "id": "efd7e8eca92b",
+    "title": "Second Russian Yandex data center damaged by drone attack in two days, company says",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-09T10:16:55+00:00"
+   },
+   {
+    "id": "9bf59ff6d06d",
+    "title": "General Staff: Russia has lost 1,549,490 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-09T06:57:31+00:00"
+   },
+   {
+    "id": "33226ef32281",
+    "title": "Ukraine reportedly targets Russian cruise missile fuel plant, oil depot in overnight attack",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-09T03:51:11+00:00"
+   },
+   {
+    "id": "b37ace4b74de",
+    "title": "Ukraine confirms strikes on Russian cruise missile fuel plant, missile facilities",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-09T03:51:11+00:00"
+   },
+   {
+    "id": "e6d6f867f939",
+    "title": "Millions on alert as Hurricane Isaias set to bring dangerous storm surge",
+    "country": "Georgia",
     "city": null,
     "category": "hazard",
     "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T01:21:04+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "9515cc921066",
+    "title": "India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-09T01:55:34+00:00"
+   },
+   {
+    "id": "f7789fc46e4e",
+    "title": "India protests grow over Election Commission mistrust",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T13:08:49+00:00"
+   },
+   {
+    "id": "b77fd07fe392",
+    "title": "Satire silenced: Indian artists face censorship as anti-Modi protests grow",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T12:37:49+00:00"
+   },
+   {
+    "id": "c5396ec30a57",
+    "title": "India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T12:23:00+00:00"
+   },
+   {
+    "id": "15eddac63ef3",
+    "title": "Bangladesh",
+    "country": "Bangladesh",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-08T08:07:59.114000+00:00"
+    "time": "2026-10-09T10:14:33+00:00"
+   },
+   {
+    "id": "d86535f64f50",
+    "title": "Meet India's feisty Gen Z protester who is taking on Modi",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T07:19:24+00:00"
+   },
+   {
+    "id": "d5c09058d4ea",
+    "title": "India’s Cockroach movement says members detained as protests continue",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-08T19:49:03+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "e0ce8be06cd6",
+    "title": "M5.4 earthquake, 99 km NE of Norsup, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T13:51:42.764000+00:00"
+   },
+   {
+    "id": "2a07afa35197",
+    "title": "M4.9 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T05:17:04.106000+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "5ff1f443223e",
+    "title": "Indonesia: Baby orangutan saved from Borneo wildfires as habitat destruction escalates",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-09T13:28:28+00:00"
+   },
+   {
+    "id": "a3aa8d2a6af0",
+    "title": "M4.6 earthquake, 17 km NNE of Santa Cruz, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T09:17:18.680000+00:00"
    },
    {
     "id": "b51aee23b562",
@@ -389,185 +567,39 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-08T15:23:47.618000+00:00"
-   },
-   {
-    "id": "bbb1edea9d49",
-    "title": "South Korea warns of AI-aided hacking after bank data breaches",
-    "country": "South Korea",
-    "city": "Seoul",
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T12:17:00+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "03982bf9308b",
-    "title": "Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI>=VII).",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-08T09:09:40+00:00"
-   },
-   {
-    "id": "c3f434414032",
-    "title": "M6.3 earthquake, 102 km NE of Norsup, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-08T09:00:07.768000+00:00"
-   },
-   {
-    "id": "2a07afa35197",
-    "title": "M4.9 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-09T05:17:04.106000+00:00"
-   },
-   {
-    "id": "5d19f2a87e15",
-    "title": "One Nation’s AI video is vile and tired – but the ensloppification of Australian politics doesn’t stop there",
-    "country": "Australia",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T14:00:22+00:00"
-   },
-   {
-    "id": "993b2abe33e1",
-    "title": "M5.1 earthquake, 236 km E of Levuka, Fiji",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-08T10:07:28.642000+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "6e97e454b416",
-    "title": "Activist Semi Keba faces extradition to Benin after court setback",
-    "country": "Benin",
-    "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-08T08:16:54+00:00"
-   },
-   {
-    "id": "6face518261a",
-    "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
-    "country": "Eritrea",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T16:11:32+00:00"
-   },
-   {
-    "id": "fb710e34faab",
-    "title": "Eritrean troops reportedly enter Ethiopia’s Tigray region",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T10:30:13+00:00"
-   },
-   {
-    "id": "d28366239cc1",
-    "title": "DRC: New fighting in Masisi as AU delegation rushes to save ceasefire",
-    "country": "DRC",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-08T10:18:06+00:00"
-   },
-   {
-    "id": "f237d76231ef",
-    "title": "Vehicles torched in South Africa during protests over asylum ruling",
-    "country": "South Africa",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-09T06:31:08+00:00"
-   },
-   {
-    "id": "ac3d80e96e83",
-    "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-    "country": "South Africa",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-09T04:44:22+00:00"
-   },
-   {
-    "id": "efb08982dde4",
-    "title": "ICE shooting of New York man in car with five-year-old sparks protests",
-    "country": "CAR",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-09T03:25:33+00:00"
-   },
-   {
-    "id": "eda4600362d8",
-    "title": "Kenyan patient suspected of Ebola infection tests negative",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T23:53:42+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "f0f2be23beac",
-    "title": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
-    "country": "India",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T11:45:17+00:00"
-   },
-   {
-    "id": "9515cc921066",
-    "title": "India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-09T01:55:34+00:00"
-   },
-   {
-    "id": "d5c09058d4ea",
-    "title": "India’s Cockroach movement says members detained as protests continue",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T19:49:03+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "0d0eb103dbcb",
+    "title": "M4.8 earthquake, 17 km S of Nandaime, Nicaragua",
+    "country": "Nicaragua",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T12:33:43.985000+00:00"
+   },
+   {
+    "id": "b575745bb643",
+    "title": "M5.1 earthquake, 72 km SSW of Colchane, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T10:22:14.915000+00:00"
+   },
+   {
+    "id": "2b34ece6f2c5",
+    "title": "Chile: Santiago flooding turns streets to rivers as Kast declares state of catastrophe",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-09T07:40:40+00:00"
+   },
    {
     "id": "e0962a63877f",
     "title": "Green flood alert in Chile",
@@ -597,16 +629,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-08T23:26:56+00:00"
-   },
-   {
-    "id": "ac63524f68ef",
-    "title": "Residents airlifted to safety after flooding in central Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T11:31:22+00:00"
    }
   ]
  }
