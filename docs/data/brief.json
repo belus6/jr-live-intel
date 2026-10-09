@@ -1,17 +1,15 @@
 {
- "generated": "2026-10-09T01:00:59.271592+00:00",
+ "generated": "2026-10-09T07:24:10.537441+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 73,
-  "3": 32,
-  "4": 8,
-  "5": 2
+  "2": 67,
+  "3": 33,
+  "4": 9,
+  "5": 1
  },
- "watch_hits": [
-  "87982053d8ae"
- ],
+ "watch_hits": [],
  "regions": {
   "Eastern Europe": [
    {
@@ -25,14 +23,34 @@
     "time": "2026-10-08T11:25:28+00:00"
    },
    {
-    "id": "6be4db2f6bab",
-    "title": "US senators urge Trump administration to enforce new Russia sanctions law ahead of Oct. 18 deadline",
+    "id": "9bf59ff6d06d",
+    "title": "General Staff: Russia has lost 1,549,490 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-09T06:57:31+00:00"
+   },
+   {
+    "id": "33226ef32281",
+    "title": "Ukraine reportedly targets Russian cruise missile fuel plant, oil depot in overnight attack",
     "country": "Russia",
     "city": null,
-    "category": "political",
-    "severity": 5,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-08T01:52:29+00:00"
+    "time": "2026-10-09T03:51:11+00:00"
+   },
+   {
+    "id": "e6d6f867f939",
+    "title": "Millions on alert as Hurricane Isaias set to bring dangerous storm surge",
+    "country": "Georgia",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T01:21:04+00:00"
    },
    {
     "id": "6f614945babd",
@@ -73,26 +91,150 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-08T11:45:00+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "1457b0aa5832",
+    "title": "Mexico prison clash in strife-torn Sinaloa state leaves 10 dead",
+    "country": "Mexico",
+    "city": null,
+    "category": "unrest",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-09T04:26:55+00:00"
    },
    {
-    "id": "4d2d90bad7cb",
-    "title": "Middle Corridor: Can Bulgaria be a safe gateway for Asian imports to the EU?",
-    "country": "Bulgaria",
+    "id": "1087bad0f204",
+    "title": "Open letter to the US administration: The G20 invitation to Putin should come with conditions",
+    "country": "United States",
+    "city": "Miami",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-08T18:15:11+00:00"
+   },
+   {
+    "id": "d81c2c667af5",
+    "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+    "country": "United States",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-08T08:38:00+00:00"
+    "time": "2026-10-08T16:05:37+00:00"
    },
    {
-    "id": "0a22d20df65e",
-    "title": "Lithuania calls for EU sanctions against Russian grain",
-    "country": "Lithuania",
+    "id": "2e1c49758c09",
+    "title": "ICE agent shoots man in New York City with five-year-old reportedly in car",
+    "country": "United States",
+    "city": "New York",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-09T01:50:05+00:00"
+   },
+   {
+    "id": "306aebb6328f",
+    "title": "ICE agent shoots man in New York City",
+    "country": "United States",
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T04:26:19+00:00"
+   },
+   {
+    "id": "1729b9a566ad",
+    "title": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
+    "country": "Mexico",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-08T20:40:55+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "12e5a4110424",
+    "title": "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-09T02:28:58+00:00"
+   },
+   {
+    "id": "3b5cc0079f0d",
+    "title": "Egypt accuses 6 Journalists of terrorism in press freedom crackdown",
+    "country": "Egypt",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-08T12:07:16+00:00"
+   },
+   {
+    "id": "b2818d7d9e98",
+    "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-08T15:21:46+00:00"
+   },
+   {
+    "id": "2796c16f3f85",
+    "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-08T12:01:55+00:00"
+   },
+   {
+    "id": "a998ebeb03f2",
+    "title": "From Aden to Sanaa, Yemenis struggle to deal with soaring living costs",
+    "country": "Yemen",
+    "city": "Sanaa",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T05:53:04+00:00"
+   },
+   {
+    "id": "dde4f5cc8174",
+    "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+    "country": "Sudan",
     "city": null,
     "category": "political",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-08T08:18:32+00:00"
+    "confidence": "B3",
+    "time": "2026-10-09T00:50:38+00:00"
+   },
+   {
+    "id": "f5546ece23d5",
+    "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T00:12:18+00:00"
+   },
+   {
+    "id": "8d5ff260b6b8",
+    "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-08T22:54:23+00:00"
    }
   ],
   "Western Europe": [
@@ -117,14 +259,14 @@
     "time": "2026-10-08T11:12:58+00:00"
    },
    {
-    "id": "ae099881247f",
-    "title": "Royal Navy serviceman charged with obtaining information to benefit foreign power",
+    "id": "0bc99a9c741d",
+    "title": "Labour fends off Green party to win Holborn and St Pancras byelection",
     "country": "United Kingdom",
     "city": "London",
-    "category": "terrorism",
-    "severity": 4,
+    "category": "political",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-08T07:14:20+00:00"
+    "time": "2026-10-09T07:14:58+00:00"
    },
    {
     "id": "733d6de6d08e",
@@ -147,34 +289,34 @@
     "time": "2026-10-08T11:21:10+00:00"
    },
    {
-    "id": "43873ad544cb",
-    "title": "Voting opens in high-stakes Holborn and St Pancras byelection",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T06:00:12+00:00"
-   },
-   {
-    "id": "64ab559ababd",
-    "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-08T05:56:02+00:00"
-   },
-   {
-    "id": "9f3d9df43065",
-    "title": "France's school protests: What lies behind the anger",
-    "country": "France",
+    "id": "cacf02cef63a",
+    "title": "Northern Ireland’s Sinn Fein faces police probe as protest tensions fester",
+    "country": "Ireland",
     "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-08T03:38:46+00:00"
+    "confidence": "B3",
+    "time": "2026-10-09T03:47:41+00:00"
+   },
+   {
+    "id": "f17598cb26e1",
+    "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
+    "country": "Spain",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T01:15:49+00:00"
+   },
+   {
+    "id": "b26ad872e5de",
+    "title": "Hundreds of farmers rally in Paris against EU-Mercosur pact and import fears",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-08T21:57:25+00:00"
    }
   ],
   "East & SE Asia": [
@@ -207,6 +349,16 @@
     "severity": 3,
     "confidence": "A1",
     "time": "2026-10-08T08:07:59.114000+00:00"
+   },
+   {
+    "id": "b51aee23b562",
+    "title": "M5.2 earthquake, 117 km SE of Bitung, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T05:11:04.200000+00:00"
    },
    {
     "id": "986bfcacfe92",
@@ -247,98 +399,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-08T12:17:00+00:00"
-   },
-   {
-    "id": "05782c64dd26",
-    "title": "Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI>=IV.",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-08T08:27:59+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "3b5cc0079f0d",
-    "title": "Egypt accuses 6 Journalists of terrorism in press freedom crackdown",
-    "country": "Egypt",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-08T12:07:16+00:00"
-   },
-   {
-    "id": "b2818d7d9e98",
-    "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-08T15:21:46+00:00"
-   },
-   {
-    "id": "2796c16f3f85",
-    "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-08T12:01:55+00:00"
-   },
-   {
-    "id": "f8f53101b552",
-    "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-08T07:17:51+00:00"
-   },
-   {
-    "id": "f5546ece23d5",
-    "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T00:12:18+00:00"
-   },
-   {
-    "id": "8d5ff260b6b8",
-    "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T22:54:23+00:00"
-   },
-   {
-    "id": "3dc8e9312bb4",
-    "title": "How much worse can Yemen’s humanitarian crisis become?",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T20:06:08+00:00"
-   },
-   {
-    "id": "5a0472272816",
-    "title": "Israel’s downgrading of UK consulate aims to tighten its hold on Jerusalem",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T17:16:03+00:00"
    }
   ],
   "Oceania": [
@@ -363,6 +423,16 @@
     "time": "2026-10-08T09:00:07.768000+00:00"
    },
    {
+    "id": "2a07afa35197",
+    "title": "M4.9 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T05:17:04.106000+00:00"
+   },
+   {
     "id": "5d19f2a87e15",
     "title": "One Nation’s AI video is vile and tired – but the ensloppification of Australian politics doesn’t stop there",
     "country": "Australia",
@@ -381,36 +451,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-08T10:07:28.642000+00:00"
-   },
-   {
-    "id": "930b80f3a50a",
-    "title": "NSW police commissioner made last-minute bid to hold closed-door hearings into Sydney anti-Herzog protest",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T05:30:47+00:00"
-   },
-   {
-    "id": "bea2b8f88a08",
-    "title": "Jurors in Beau Lamarre-Condon murder trial shown photo of alleged ‘execution-style’ gunshot wound",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T04:26:32+00:00"
-   },
-   {
-    "id": "733f40ba7b9b",
-    "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites",
-    "country": "Australia",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T02:05:33+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -455,6 +495,36 @@
     "time": "2026-10-08T10:18:06+00:00"
    },
    {
+    "id": "f237d76231ef",
+    "title": "Vehicles torched in South Africa during protests over asylum ruling",
+    "country": "South Africa",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-09T06:31:08+00:00"
+   },
+   {
+    "id": "ac3d80e96e83",
+    "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+    "country": "South Africa",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T04:44:22+00:00"
+   },
+   {
+    "id": "efb08982dde4",
+    "title": "ICE shooting of New York man in car with five-year-old sparks protests",
+    "country": "CAR",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T03:25:33+00:00"
+   },
+   {
     "id": "eda4600362d8",
     "title": "Kenyan patient suspected of Ebola infection tests negative",
     "country": "Kenya",
@@ -463,68 +533,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-08T23:53:42+00:00"
-   },
-   {
-    "id": "ab7dc42590b9",
-    "title": "South Africa protests turn violent amid rage over asylum ruling",
-    "country": "South Africa",
-    "city": "Johannesburg",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T20:43:34+00:00"
-   },
-   {
-    "id": "fadaf5c3b005",
-    "title": "Green forest fire notification in Mozambique",
-    "country": "Mozambique",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-08T19:01:05+00:00"
-   },
-   {
-    "id": "5730df7a0552",
-    "title": "Uganda",
-    "country": "Uganda",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-08T13:51:08+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "1087bad0f204",
-    "title": "Open letter to the US administration: The G20 invitation to Putin should come with conditions",
-    "country": "United States",
-    "city": "Miami",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-08T18:15:11+00:00"
-   },
-   {
-    "id": "d81c2c667af5",
-    "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
-    "country": "United States",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-08T16:05:37+00:00"
-   },
-   {
-    "id": "1729b9a566ad",
-    "title": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
-    "country": "Mexico",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T20:40:55+00:00"
    }
   ],
   "South Asia": [
@@ -539,6 +547,16 @@
     "time": "2026-10-08T11:45:17+00:00"
    },
    {
+    "id": "9515cc921066",
+    "title": "India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T01:55:34+00:00"
+   },
+   {
     "id": "d5c09058d4ea",
     "title": "India’s Cockroach movement says members detained as protests continue",
     "country": "India",
@@ -550,6 +568,26 @@
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "e0962a63877f",
+    "title": "Green flood alert in Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T06:06:46+00:00"
+   },
+   {
+    "id": "a09ab7cdc118",
+    "title": "Green flood alert in Brazil",
+    "country": "Brazil",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T06:06:33+00:00"
+   },
    {
     "id": "5016337a021c",
     "title": "Chile",
@@ -569,26 +607,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-08T11:31:22+00:00"
-   },
-   {
-    "id": "20f15090fa33",
-    "title": "M4.5 earthquake, 39 km NE of Calama, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-08T05:35:56.016000+00:00"
-   },
-   {
-    "id": "12167e8511d7",
-    "title": "Protesters in Colombia rally against ties with Israel",
-    "country": "Colombia",
-    "city": "Bogota",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-08T05:09:13+00:00"
    }
   ]
  }
