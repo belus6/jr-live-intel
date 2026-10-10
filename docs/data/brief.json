@@ -1,18 +1,17 @@
 {
- "generated": "2026-10-10T10:49:50.252981+00:00",
+ "generated": "2026-10-10T16:07:22.741496+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 68,
+  "2": 59,
   "3": 38,
   "4": 6,
-  "5": 5
+  "5": 4
  },
  "watch_hits": [
   "4230e30a6837",
-  "b0afa1dbfbfc",
-  "03fb43ce2420"
+  "915697a161fe"
  ],
  "regions": {
   "North America": [
@@ -77,16 +76,6 @@
     "time": "2026-10-09T18:39:03+00:00"
    },
    {
-    "id": "0c29aac5e8a2",
-    "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T12:00:00+00:00"
-   },
-   {
     "id": "5b6c036a5a60",
     "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
     "country": "United States",
@@ -95,6 +84,16 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-09T20:20:09+00:00"
+   },
+   {
+    "id": "25b95088c818",
+    "title": "Mexican judge sentences three men for murders of Australian, US surfers",
+    "country": "Mexico",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-10T14:37:26+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -149,6 +148,16 @@
     "time": "2026-10-09T18:04:04+00:00"
    },
    {
+    "id": "7d9a2d8ee8c0",
+    "title": "Panic in Panama as 7.7 quake hits, cathedral collapses and tsunami warnings spread",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-10T10:11:20+00:00"
+   },
+   {
     "id": "53b7415c8863",
     "title": "M5.5 earthquake, 3 km SW of Bajo Corral, Panama",
     "country": "Panama",
@@ -167,29 +176,9 @@
     "severity": 2,
     "confidence": "B1",
     "time": "2026-10-09T18:41:26+00:00"
-   },
-   {
-    "id": "86c2bbf0f1a5",
-    "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-09T18:29:26+00:00"
    }
   ],
   "Middle East & N. Africa": [
-   {
-    "id": "0206f47c7129",
-    "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-10-09T12:00:00+00:00"
-   },
    {
     "id": "da1532009611",
     "title": "A year of ceasefire in Gaza through the lens of NPR's reporter",
@@ -199,6 +188,16 @@
     "severity": 4,
     "confidence": "B2",
     "time": "2026-10-10T09:00:00+00:00"
+   },
+   {
+    "id": "357f0f18d370",
+    "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-10T12:40:57+00:00"
    },
    {
     "id": "1b2a123be07b",
@@ -211,136 +210,54 @@
     "time": "2026-10-10T04:34:55+00:00"
    },
    {
-    "id": "4230e30a6837",
-    "title": "Israeli drone attack wounds six in Lebanon near Syria border",
-    "country": "Lebanon",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-10T00:22:52+00:00"
-   },
-   {
-    "id": "a02f28c4e04b",
-    "title": "Navi Pillay wins Nobel Peace Prize as US sanctions threaten international justice",
-    "country": "Palestine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-09T18:49:16+00:00"
-   },
-   {
-    "id": "c1d00befd1c8",
-    "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+    "id": "8d4e4807bed1",
+    "title": "Photos: What a year of ceasefire in Gaza looks like",
     "country": "Palestine",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T18:15:06+00:00"
+    "confidence": "B2",
+    "time": "2026-10-10T09:00:00+00:00"
    },
    {
-    "id": "95e6bc00ae76",
-    "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
+    "id": "412599f6c086",
+    "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
     "country": "Sudan",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-09T17:19:43+00:00"
+    "time": "2026-10-10T14:49:32+00:00"
    },
    {
-    "id": "88bd9eb39468",
-    "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
+    "id": "49520607cbda",
+    "title": "Has Yemen returned to ‘full-scale war’?",
     "country": "Yemen",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-09T12:00:00+00:00"
-   }
-  ],
-  "Western Europe": [
+    "time": "2026-10-10T14:10:24+00:00"
+   },
    {
-    "id": "a0755a9a1512",
-    "title": "Residents of Ukraine's Kramatorsk forced to flee as drone strikes intensify",
-    "country": "France",
+    "id": "db94c4c78eb8",
+    "title": "Yemen says advancing against Houthis around key Bab al-Mandab strait",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-10T13:45:14+00:00"
+   },
+   {
+    "id": "9dcd8b975e17",
+    "title": "Hunger and malnutrition stalk Gazans, a year on from ceasefire",
+    "country": "Israel",
     "city": null,
     "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-09T11:51:07+00:00"
-   },
-   {
-    "id": "727ecc2f7b28",
-    "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-09T18:40:10+00:00"
-   },
-   {
-    "id": "3537827af8bd",
-    "title": "Labour hails byelection win as return of leftwing voters after Starmer era",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T17:08:19+00:00"
-   },
-   {
-    "id": "a2b619691abd",
-    "title": "EU's Covid recovery fund was 'absolutely a success': European Court of Auditors' Pierre Moscovici",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T15:51:06+00:00"
-   },
-   {
-    "id": "1b082b075d13",
-    "title": "'Absolute torture': Female US inmate in critical condition after botched execution",
-    "country": "France",
-    "city": null,
-    "category": "crime",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T14:03:43+00:00"
-   },
-   {
-    "id": "a5f4ff65a09a",
-    "title": "Leader of Jewish Greens calls for Zack Polanski to resign after byelection loss",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T13:13:15+00:00"
-   },
-   {
-    "id": "96454629fa6a",
-    "title": "Madrid mourns evicted retiree, 'icon' of Spain housing protests",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-09T13:51:52+00:00"
-   },
-   {
-    "id": "2ddf0e6b0109",
-    "title": "Spain: Madrid protesters mourn evicted pensioner Maricarmen Abascal",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-09T12:32:32+00:00"
+    "time": "2026-10-10T11:00:08+00:00"
    }
   ],
   "Eastern Europe": [
@@ -351,8 +268,58 @@
     "city": "Moscow",
     "category": "political",
     "severity": 3,
-    "confidence": "B3",
+    "confidence": "B2",
     "time": "2026-10-10T09:12:51+00:00"
+   },
+   {
+    "id": "4e91103d0032",
+    "title": "Russian attack on Ukrainian city kills 15, a day after Trump eases diesel sanctions on Moscow",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-10T15:39:23+00:00"
+   },
+   {
+    "id": "3109903c0610",
+    "title": "Exclusive: 'It felt like a trap.' How Ukraine was blindsided by Trump's Putin pivot",
+    "country": "Ukraine",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-10T15:01:00+00:00"
+   },
+   {
+    "id": "1514ac21cbdd",
+    "title": "Inside Ukraine’s robot army fighting Russia",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-10T12:27:49+00:00"
+   },
+   {
+    "id": "7a82a41c1484",
+    "title": "Why is US turning to Russia for diesel despite sanctions?",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-10T12:16:12+00:00"
+   },
+   {
+    "id": "da21187513ce",
+    "title": "'Every extra billion will be spent on this' — Zelensky warns as missiles hit Kyiv after Russia sanctions relief",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-10T11:22:55+00:00"
    },
    {
     "id": "caec5dc36259",
@@ -365,64 +332,14 @@
     "time": "2026-10-10T06:57:52+00:00"
    },
    {
-    "id": "5b4d180a6e43",
-    "title": "Major fire reported at oil terminal linked to Russia's Novoshakhtinsk refinery after suspected drone strike",
+    "id": "91609b85b0af",
+    "title": "Russian guided bombs hit Zaporizhzhia residential neighborhood, killing at least 20, injuring 18",
     "country": "Russia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-10T03:22:53+00:00"
-   },
-   {
-    "id": "3ca23fbf9b66",
-    "title": "‘I want to thank President Putin’, Trump says after agreeing to lift sanctions on Russian diesel – as it happened",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-10T02:02:45+00:00"
-   },
-   {
-    "id": "af4e0e460090",
-    "title": "Key things to know about Hurricane Isaias as millions under evacuation orders",
-    "country": "Georgia",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-10T01:50:32+00:00"
-   },
-   {
-    "id": "26454a683eb0",
-    "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-10T01:40:51+00:00"
-   },
-   {
-    "id": "3f61370ada62",
-    "title": "Zelenskyy denounces Trump’s decision to lift diesel sanctions on Russia as ‘weak’ – US politics live",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T23:02:10+00:00"
-   },
-   {
-    "id": "dd5cb5a3e2bf",
-    "title": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T20:00:24+00:00"
+    "time": "2026-10-10T04:55:22+00:00"
    }
   ],
   "East & SE Asia": [
@@ -435,6 +352,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-10T07:50:59+00:00"
+   },
+   {
+    "id": "4493513203a4",
+    "title": "M4.6 earthquake, 31 km SE of Vanimo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-10T09:42:58.899000+00:00"
    },
    {
     "id": "67eca6596ee3",
@@ -475,16 +402,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-09T19:14:56+00:00"
-   },
-   {
-    "id": "5ff1f443223e",
-    "title": "Indonesia: Baby orangutan saved from Borneo wildfires as habitat destruction escalates",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-09T13:28:28+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -509,54 +426,14 @@
     "time": "2026-10-09T17:27:56+00:00"
    },
    {
-    "id": "6f8197325820",
-    "title": "Eritrean troops in Ethiopia raise fears of a regional war",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T15:20:00+00:00"
-   },
-   {
-    "id": "16fec3b1446d",
-    "title": "Ethiopia and Eritrea trade war accusations as regional conflict threatens to escalate",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-09T14:08:43+00:00"
-   },
-   {
-    "id": "5d53afccb501",
-    "title": "Who is Navi Pillay, winner of the 2026 Nobel Peace Prize?",
-    "country": "South Africa",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T14:02:58+00:00"
-   },
-   {
-    "id": "b6491691c057",
-    "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-09T13:31:07+00:00"
-   },
-   {
-    "id": "03fb43ce2420",
-    "title": "Kenya Red Cross supports response to country’s first Ebola case",
+    "id": "915697a161fe",
+    "title": "Kenyan health ministry urges churches to raise awareness about Ebola",
     "country": "Kenya",
     "city": "Nairobi",
     "category": "health",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-09T11:24:36+00:00"
+    "confidence": "C4",
+    "time": "2026-10-10T13:52:55+00:00"
    },
    {
     "id": "ebc88a61f80b",
@@ -567,9 +444,131 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-10T07:05:59+00:00"
+   },
+   {
+    "id": "aebcb8329334",
+    "title": "Green forest fire notification in Malawi",
+    "country": "Malawi",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-09T19:02:01+00:00"
+   },
+   {
+    "id": "e3ee1a6f91e2",
+    "title": "‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting",
+    "country": "CAR",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-09T18:29:56+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "727ecc2f7b28",
+    "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T18:40:10+00:00"
+   },
+   {
+    "id": "3537827af8bd",
+    "title": "Labour hails byelection win as return of leftwing voters after Starmer era",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-09T17:08:19+00:00"
+   },
+   {
+    "id": "bb9830568221",
+    "title": "How a South African billionaire is turning a corner of Somerset into ‘one man’s estate’",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-10T13:00:58+00:00"
+   },
+   {
+    "id": "ce87a7753bc0",
+    "title": "Study explores links between 19th-century Manchester workers and enslaved Africans in Caribbean",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-10T12:00:56+00:00"
+   },
+   {
+    "id": "7f6563eab53a",
+    "title": "Severe injuries at French student protests draw scrutiny to police tactics",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-10T10:20:54+00:00"
+   },
+   {
+    "id": "d6b34ee49b4a",
+    "title": "‘We’re not asking for luxury’: school protesters in Paris suburb feel abandoned by French state",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-10T09:00:53+00:00"
+   },
+   {
+    "id": "3cfd53026f0d",
+    "title": "Ireland Catholic residents react to UK ban on Protestant march",
+    "country": "Ireland",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-10T07:31:34+00:00"
+   },
+   {
+    "id": "20a093e65172",
+    "title": "Green flood alert in Italy",
+    "country": "Italy",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-10T07:04:44+00:00"
    }
   ],
   "South Asia": [
+   {
+    "id": "8b6577fed39f",
+    "title": "India's 'cockroach' movement says leader, thousands of protesters detained in New Delhi crackdown",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-10T06:37:40+00:00"
+   },
+   {
+    "id": "ec42445de7f6",
+    "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-10T13:23:42+00:00"
+   },
    {
     "id": "450719ce0313",
     "title": "India's 'cockroach' movement: \"This is unprecedented\"",
@@ -579,6 +578,16 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-10T09:20:21+00:00"
+   },
+   {
+    "id": "29786025c576",
+    "title": "India detains 'cockroach' leaders ahead of election protest",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-10T09:18:11+00:00"
    },
    {
     "id": "0c8746d2ff7d",
@@ -619,36 +628,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-10T04:07:30+00:00"
-   },
-   {
-    "id": "c1869d2bf347",
-    "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T03:29:50+00:00"
-   },
-   {
-    "id": "f7789fc46e4e",
-    "title": "India protests grow over Election Commission mistrust",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-09T13:08:49+00:00"
-   },
-   {
-    "id": "b77fd07fe392",
-    "title": "Satire silenced: Indian artists face censorship as anti-Modi protests grow",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-09T12:37:49+00:00"
    }
   ],
   "Oceania": [
@@ -671,16 +650,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-09T21:55:51+00:00"
-   },
-   {
-    "id": "e0ce8be06cd6",
-    "title": "M5.4 earthquake, 99 km NE of Norsup, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-09T13:51:42.764000+00:00"
    }
   ]
  }
