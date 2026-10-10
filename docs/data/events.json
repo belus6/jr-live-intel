@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-10T20:04:39.257596+00:00",
+ "generated": "2026-10-10T23:34:04.686368+00:00",
  "sample": false,
- "count": 422,
+ "count": 421,
  "events": [
+  {
+   "title": "Yemen - Level 4: Do Not Travel",
+   "summary": "Do not travel in Yemen due to risk of terrorism , unrest , crime , health risks , kidnapping , and landmines . Do not travel to Yemen for any reason, including the island of Socotra. The U.S. Embassy in Sana’a suspended its operations in February 2015. The U.S. government cannot offer emergency services to U.S. citizens in Yemen due to the safety risks. Terrorism The Department of State re-designa",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.yem.html",
+   "time": "2026-10-10T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.yem.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "233b6ffaec19",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
   {
    "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
    "summary": "",
@@ -375,6 +403,62 @@
    "flag": "🇮🇱",
    "region": "Middle East & N. Africa",
    "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Saudi Arabia - Level 3: Reconsider Travel",
+   "summary": "Reconsider travel to Saudi Arabia due to risk of drone and missile targeting of American interests by Iran and the Iranian-supported Houthis, armed conflict, terrorism, exit bans, and local laws regarding social media activity. Some areas have increased risk. Read the entire Travel Advisory. U.S. government employee travel restrictions U.S. government employees working in Saudi Arabia require spec",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sau.html",
+   "time": "2026-10-10T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Saudi Arabia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sau.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "901e8ac37bb3",
+   "flag": "🇸🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 45 km SSE of Pedasí, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b3",
+   "time": "2026-10-09T23:54:22.924000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.1444,
+   "lon": -79.8903,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b3",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "dc10707bb6a3",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
    "watch": []
   },
   {
@@ -1022,34 +1106,6 @@
    "watch": []
   },
   {
-   "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on 7 October anniversary",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/06/israeli-ambassador-australia-friendship-october-7-attack-anniversary-ntwnfb",
-   "time": "2026-10-06T20:59:31+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Australia",
-   "city": "Sydney",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/06/israeli-ambassador-australia-friendship-october-7-attack-anniversary-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-06T23:44:27.910246+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fd6cd8b97c9e",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
    "title": "Saudi Arabia",
    "summary": "Updated information about regional tensions (‘Warnings and insurance’ page).",
    "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia",
@@ -1195,6 +1251,90 @@
    "watch": []
   },
   {
+   "title": "11-year-old boy killed, five injured by Russian drone attack in Dnipropetrovsk Oblast",
+   "summary": "",
+   "url": "https://kyivindependent.com/11-year-old-boy-killed-five-injured-by-russian-drone-attack-in-dnipropetrovsk-oblast/",
+   "time": "2026-10-10T22:51:10+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/11-year-old-boy-killed-five-injured-by-russian-drone-attack-in-dnipropetrovsk-oblast/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "0a9d5247ae0f",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
+   "time": "2026-10-10T21:02:49+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ac3427bb8b9d",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "'Will only lead to more slaughter' — bipartisan backlash erupts in US over Trump-Russia diesel deal",
+   "summary": "",
+   "url": "https://kyivindependent.com/will-only-lead-to-more-slaughter-bipartisan-backlash-erupts-in-us-over-trump-russia-diesel-deal/",
+   "time": "2026-10-10T20:41:26+00:00",
+   "tier": "C",
+   "category": "political",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/will-only-lead-to-more-slaughter-bipartisan-backlash-erupts-in-us-over-trump-russia-diesel-deal/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "0b0b36874b8c",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
    "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
    "summary": "",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
@@ -1301,6 +1441,39 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "cb166a61d1b0",
+   "flag": "🇸🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+   "time": "2026-10-10T15:54:12+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Saudi Arabia",
+   "city": "Riyadh",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+     "tier": "B"
+    },
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "05a24d92a367",
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
@@ -1444,6 +1617,34 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Trump, Zelensky clash over diesel deal as Russian strikes on Ukraine kill 21, including children",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261010-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-on-ukraine-kill-21-including-children",
+   "time": "2026-10-10T13:39:42+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261010-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-on-ukraine-kill-21-including-children",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a947c2ef279e",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -3971,118 +4172,6 @@
    "watch": []
   },
   {
-   "title": "Lithuania to deploy troops along border with Russia's Kaliningrad after Latvia incident",
-   "summary": "",
-   "url": "https://kyivindependent.com/lithuania-to-deploy-troops-along-border-with-russias-kaliningrad-after-latvia-incident/",
-   "time": "2026-10-07T22:56:37+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Lithuania",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/lithuania-to-deploy-troops-along-border-with-russias-kaliningrad-after-latvia-incident/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-08T01:35:49.742809+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "02d17146c8e5",
-   "flag": "🇱🇹",
-   "region": "Eastern Europe",
-   "baseline": 1.19,
-   "watch": []
-  },
-  {
-   "title": "Israel marks three years since October 7 attack ahead of elections",
-   "summary": "",
-   "url": "https://www.france24.com/en/middle-east/20261007-israel-three-years-october-7-attack-elections",
-   "time": "2026-10-07T21:50:07+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261007-israel-three-years-october-7-attack-elections",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T01:35:49.742809+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4ccd0cba8b75",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
-   "time": "2026-10-07T21:00:01+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-07T21:48:03.359095+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "5f5cea727669",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "Africa joins the data center backlash",
-   "summary": "",
-   "url": "https://www.france24.com/en/africa-joins-the-data-center-backlash",
-   "time": "2026-10-07T20:37:55+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ethiopia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/africa-joins-the-data-center-backlash",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-07T21:48:03.359095+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b07347fa4910",
-   "flag": "🇪🇹",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.2,
-   "watch": []
-  },
-  {
    "title": "‘Palestinians will bear the cost’: UK consulate in East Jerusalem prepares to shut its doors",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel",
@@ -4531,31 +4620,143 @@
    "watch": []
   },
   {
-   "title": "Latvia partial election results put PM's pro-Ukraine party ahead but coalition partners stumble",
+   "title": "Green forest fire notification in Mongolia, China",
+   "summary": "On 09/10/2026, a forest fire started in Mongolia, China, until 10/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032703",
+   "time": "2026-10-10T23:00:42+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Mongolia",
+   "city": null,
+   "lat": 46.755627039016346,
+   "lon": 119.11747015453685,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032703",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "13f3862167c2",
+   "flag": "🇲🇳",
+   "region": "East & SE Asia",
+   "baseline": 2.33,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 171 km SSW of Pagar Alam, Indonesia",
+   "summary": "Depth 30 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gu",
+   "time": "2026-10-10T21:38:09.130000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -5.403,
+   "lon": 102.5418,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gu",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "158f5daf7ff5",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "Protests against voter roll revisions rock capital of world's largest democracy",
    "summary": "",
-   "url": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble",
-   "time": "2026-10-03T20:58:30+00:00",
+   "url": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
+   "time": "2026-10-10T21:19:57+00:00",
    "tier": "B",
-   "category": "political",
-   "country": "Latvia",
+   "category": "unrest",
+   "country": "India",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble",
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-04T07:50:45.566262+00:00",
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
    "confidence": "B3",
    "corroboration": 1,
-   "id": "a3644cfe05f2",
-   "flag": "🇱🇻",
-   "region": "Eastern Europe",
-   "baseline": 1.28,
+   "id": "7e5c7923379b",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
+   "time": "2026-10-10T21:10:06+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Mexico",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "9db3f4d12f1b",
+   "flag": "🇲🇽",
+   "region": "North America",
+   "baseline": 3.32,
+   "watch": []
+  },
+  {
+   "title": "Philippines volcano erupts, creating 6km-high ash cloud",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
+   "time": "2026-10-10T20:37:17+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Philippines",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "bcc64de29c17",
+   "flag": "🇵🇭",
+   "region": "East & SE Asia",
+   "baseline": 3.11,
    "watch": []
   },
   {
@@ -4701,6 +4902,34 @@
    ]
   },
   {
+   "title": "M4.8 earthquake, 11 km SSW of Tebario, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fj",
+   "time": "2026-10-10T15:58:19.800000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.6231,
+   "lon": -81.0112,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fj",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "2b8cd6695497",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
    "title": "Green flood alert in France",
    "summary": "On 29/09/2026, a flood started in France, lasting until 08/10/2026 (last update). The flood caused 0 deaths and 136 displaced .",
    "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104202",
@@ -4813,6 +5042,34 @@
    "watch": [
     "Programme team, Nairobi"
    ]
+  },
+  {
+   "title": "M4.8 earthquake, 12 km NE of La Tronosa, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ex",
+   "time": "2026-10-10T13:46:56.921000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.5187,
+   "lon": -80.5165,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ex",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e789eeddd7c0",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
   },
   {
    "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
@@ -5652,6 +5909,34 @@
    "watch": []
   },
   {
+   "title": "M4.5 earthquake, 9 km WNW of Flores, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ck",
+   "time": "2026-10-10T04:33:03.219000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.5239,
+   "lon": -80.4791,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ck",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "1c8762669cfb",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
    "title": "India deploys police and restricts transport ahead of mass protest in Delhi",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss",
@@ -5901,6 +6186,62 @@
    "flag": "🇵🇦",
    "region": "Latin America & Caribbean",
    "baseline": 2.22,
+   "watch": []
+  },
+  {
+   "title": "M4.6 earthquake, 9 km NNE of La Tronosa, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bj",
+   "time": "2026-10-10T00:51:48.773000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.5164,
+   "lon": -80.5568,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bj",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e6e84e036b99",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 7 km S of Trudarmeyskiy, Russia",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bi",
+   "time": "2026-10-10T00:47:02.729000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Russia",
+   "city": null,
+   "lat": 54.0661,
+   "lon": 86.4114,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bi",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "6ee83a229b96",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
    "watch": []
   },
   {
@@ -6275,6 +6616,62 @@
    "flag": "🇮🇩",
    "region": "East & SE Asia",
    "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Indonesia",
+   "summary": "On 29/09/2026, a forest fire started in Indonesia, until 08/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032658",
+   "time": "2026-10-09T19:07:06+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -2.8399898507821004,
+   "lon": 133.43214593762085,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032658",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "8c8c35483560",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Papua New Guinea",
+   "summary": "On 04/10/2026, a forest fire started in Papua New Guinea, until 10/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032666",
+   "time": "2026-10-09T19:03:06+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -9.173558045845883,
+   "lon": 142.54046565035674,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032666",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-10T23:34:04.686368+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "fc270661cd42",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
    "watch": []
   },
   {
@@ -7892,258 +8289,6 @@
    "flag": "🇦🇱",
    "region": "Eastern Europe",
    "baseline": 2.14,
-   "watch": []
-  },
-  {
-   "title": "Hundreds of farmers rally in Paris against EU-Mercosur pact and import fears",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/08/hundreds-of-farmers-rally-in-paris-against-eu-mercosur-pact-and-import-fears/",
-   "time": "2026-10-08T21:57:25+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/08/hundreds-of-farmers-rally-in-paris-against-eu-mercosur-pact-and-import-fears/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-09T01:00:59.271592+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "b26ad872e5de",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "French ministers scramble to appease students after 10 days of protests",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue",
-   "time": "2026-10-08T21:47:23+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T01:00:59.271592+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "dbad876a1bb1",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Police use tear gas and water cannons on student protestors in Paris",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
-   "time": "2026-10-08T21:17:05+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T01:00:59.271592+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4e8986f89bef",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "South Africa protests turn violent amid rage over asylum ruling",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss",
-   "time": "2026-10-08T20:43:34+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "South Africa",
-   "city": "Johannesburg",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T01:00:59.271592+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ab7dc42590b9",
-   "flag": "🇿🇦",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.02,
-   "watch": []
-  },
-  {
-   "title": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
-   "time": "2026-10-08T20:40:55+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Mexico",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T01:00:59.271592+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "1729b9a566ad",
-   "flag": "🇲🇽",
-   "region": "North America",
-   "baseline": 3.32,
-   "watch": []
-  },
-  {
-   "title": "Spain mourns Maricarmen Abascal, whose eviction sparked housing protests",
-   "summary": "",
-   "url": "https://www.france24.com/en/spain-mourns-maricarmen-abascal-whose-eviction-sparked-housing-protests",
-   "time": "2026-10-08T20:35:36+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Spain",
-   "city": "Madrid",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/spain-mourns-maricarmen-abascal-whose-eviction-sparked-housing-protests",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T01:00:59.271592+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "404fc089506c",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "‘Nothing will stop us’: French student protests show few signs of ending",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261008-nothing-will-stop-us-french-student-protests-show-few-signs-of-ending",
-   "time": "2026-10-08T20:22:33+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261008-nothing-will-stop-us-french-student-protests-show-few-signs-of-ending",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T20:50:16.427538+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "863f09cf3c7e",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "'Fighting for our future': France high school students vow no let-up",
-   "summary": "",
-   "url": "https://www.france24.com/en/fighting-for-our-future-france-high-school-students-vow-no-let-up",
-   "time": "2026-10-08T20:17:01+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/fighting-for-our-future-france-high-school-students-vow-no-let-up",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T20:50:16.427538+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "5bdd5d74eaa8",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Thousands march in Madrid after death of evicted pensioner Maricarmen",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen",
-   "time": "2026-10-08T20:11:34+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Spain",
-   "city": "Madrid",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T20:50:16.427538+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d34b26a84f91",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -10948,146 +11093,6 @@
    "watch": []
   },
   {
-   "title": "Green forest fire notification in Bolivia",
-   "summary": "On 02/10/2026, a forest fire started in Bolivia, until 05/10/2026.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032574",
-   "time": "2026-10-05T23:01:15+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Bolivia",
-   "city": null,
-   "lat": -13.03369843080149,
-   "lon": -63.12195092480172,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032574",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T01:22:38.925437+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "92d88aef9f73",
-   "flag": "🇧🇴",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.09,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Brazil",
-   "summary": "On 03/10/2026, a forest fire started in Brazil, until 06/10/2026.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032572",
-   "time": "2026-10-05T23:00:54+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Brazil",
-   "city": null,
-   "lat": -2.8091794178387137,
-   "lon": -54.12036502437531,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032572",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T14:47:26.743637+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "b81a60a934db",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 31 km S of Tezpur, India",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzth",
-   "time": "2026-10-05T22:53:42.181000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "India",
-   "city": null,
-   "lat": 26.3539,
-   "lon": 92.8359,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzth",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T07:54:48.014985+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "d36a145c5e4e",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "M4.8 earthquake, 146 km WNW of Panguna, Papua New Guinea",
-   "summary": "Depth 142 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tztg",
-   "time": "2026-10-05T22:48:53.669000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Papua New Guinea",
-   "city": null,
-   "lat": -5.7949,
-   "lon": 154.2682,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tztg",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T07:54:48.014985+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "cb94674ad3d3",
-   "flag": "🇵🇬",
-   "region": "East & SE Asia",
-   "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 39 km SW of Tambolaka, Indonesia",
-   "summary": "Depth 35 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzss",
-   "time": "2026-10-05T21:38:05.713000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": -9.6687,
-   "lon": 118.9729,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzss",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T07:54:48.014985+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "d2fe3f49e0a8",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
    "title": "New York declares statewide disaster emergency as measles cases rise",
    "summary": "",
    "url": "https://www.france24.com/en/americas/20261005-new-york-declares-statewide-disaster-emergency-as-measles-cases-rise",
@@ -11146,34 +11151,6 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
-   "time": "2026-10-05T20:06:18+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Brazil",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-06T01:22:38.925437+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ee358f01e7c4",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
    "watch": []
   },
   {
