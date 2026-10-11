@@ -1,39 +1,38 @@
 {
- "generated": "2026-10-11T08:58:02.411867+00:00",
+ "generated": "2026-10-11T15:32:51.277595+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 46,
-  "3": 30,
+  "2": 41,
+  "3": 32,
   "4": 3,
   "5": 0
  },
  "watch_hits": [
-  "ff778352fe95",
-  "915697a161fe"
+  "ff778352fe95"
  ],
  "regions": {
   "Middle East & N. Africa": [
    {
-    "id": "da1532009611",
-    "title": "A year of ceasefire in Gaza through the lens of NPR's reporter",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B2",
-    "time": "2026-10-10T09:00:00+00:00"
-   },
-   {
-    "id": "357f0f18d370",
-    "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
-    "country": "Palestine",
+    "id": "c1a9be951d95",
+    "title": "Middle East crisis live: Riyadh airport reportedly hit again, day after deadly attack that killed 12",
+    "country": "Yemen",
     "city": null,
     "category": "conflict",
     "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-10T12:40:57+00:00"
+    "time": "2026-10-11T15:09:05+00:00"
+   },
+   {
+    "id": "b03c8fc1fda8",
+    "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-10-11T10:45:15+00:00"
    },
    {
     "id": "223ee7db99cc",
@@ -56,14 +55,34 @@
     "time": "2026-10-10T15:54:12+00:00"
    },
    {
-    "id": "8d4e4807bed1",
-    "title": "Photos: What a year of ceasefire in Gaza looks like",
-    "country": "Palestine",
+    "id": "ddf7d580db2a",
+    "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+    "country": "Saudi Arabia",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-10T09:00:00+00:00"
+    "confidence": "B3",
+    "time": "2026-10-11T14:25:03+00:00"
+   },
+   {
+    "id": "2b3d3458c212",
+    "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-11T13:23:02+00:00"
+   },
+   {
+    "id": "02377e9eb8af",
+    "title": "'Going bankrupt': Iran shopkeepers struggle as war dims demand",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-11T09:22:37+00:00"
    },
    {
     "id": "a29601c67c19",
@@ -74,193 +93,19 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-11T05:27:24+00:00"
-   },
-   {
-    "id": "93e98af93323",
-    "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-11T01:11:10+00:00"
-   },
-   {
-    "id": "ac3427bb8b9d",
-    "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-10T21:02:49+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "873d7b5f0006",
-    "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
-    "country": "Panama",
-    "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-11T06:56:08+00:00"
-   },
-   {
-    "id": "7d9a2d8ee8c0",
-    "title": "Panic in Panama as 7.7 quake hits, cathedral collapses and tsunami warnings spread",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-10T10:11:20+00:00"
-   },
-   {
-    "id": "db980ebf7a87",
-    "title": "Green flood alert in Paraguay",
-    "country": "Paraguay",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-11T06:56:59+00:00"
-   },
-   {
-    "id": "8da5e9e9054b",
-    "title": "Green forest fire notification in Peru",
-    "country": "Peru",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-11T03:03:07+00:00"
-   },
-   {
-    "id": "e22b1ecae8f2",
-    "title": "M5.0 earthquake, 3 km NW of Flores, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-11T01:50:52.299000+00:00"
-   },
-   {
-    "id": "2b8cd6695497",
-    "title": "M4.8 earthquake, 11 km SSW of Tebario, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-10T15:58:19.800000+00:00"
-   },
-   {
-    "id": "4ca03934d02f",
-    "title": "M4.5 earthquake, 5 km WNW of Guarumal, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-10T14:59:23.684000+00:00"
-   },
-   {
-    "id": "0df9e09ee149",
-    "title": "M4.5 earthquake, 10 km NNW of El Cortezo, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-10T14:51:45.562000+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "78a12c9e81ac",
-    "title": "Trump hails Russia deal to release diesel as midterms loom",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-10T09:12:51+00:00"
-   },
-   {
-    "id": "e9a8478811d8",
-    "title": "Couples looking to have children often turn to surrogacy agencies in Georgia without understanding the hidden costs",
-    "country": "Georgia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-11T07:45:00+00:00"
-   },
-   {
-    "id": "13c9f7bd017b",
-    "title": "General Staff: Russia has lost 1,552,840 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-11T06:20:47+00:00"
-   },
-   {
-    "id": "2b7317dc25a1",
-    "title": "Third Yandex data center in Russia shut down following reported drone attack",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-11T03:32:31+00:00"
-   },
-   {
-    "id": "0a9d5247ae0f",
-    "title": "11-year-old boy killed, five injured by Russian drone attack in Dnipropetrovsk Oblast",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-10T22:51:10+00:00"
-   },
-   {
-    "id": "0b0b36874b8c",
-    "title": "'Will only lead to more slaughter' — bipartisan backlash erupts in US over Trump-Russia diesel deal",
-    "country": "Ukraine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-10T20:41:26+00:00"
-   },
-   {
-    "id": "9d2baecde716",
-    "title": "'He better damn well stop' — Trump slams Zelensky for attacking Russian refineries, says Ukraine should get 'new president'",
-    "country": "Ukraine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-10T17:34:23+00:00"
-   },
-   {
-    "id": "4e91103d0032",
-    "title": "Russian attack on Ukrainian city kills 15, a day after Trump eases diesel sanctions on Moscow",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-10T15:39:23+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "e75dee1e9ba3",
+    "title": "M6.2 earthquake, 79 km SSE of Panguna, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-11T14:07:23.188000+00:00"
+   },
    {
     "id": "2a62f8dc28cf",
     "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
@@ -270,6 +115,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-10T22:13:08+00:00"
+   },
+   {
+    "id": "aa297870e5af",
+    "title": "Green earthquake (Magnitude 6.2M, Depth:53.473km) in Papua New Guinea 11/10/2026 14:07 UTC, 3 thousand in MMI V.",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T14:25:40+00:00"
+   },
+   {
+    "id": "0c010c1449a2",
+    "title": "M4.8 earthquake, 165 km SSE of Miyakojima, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T12:13:18.599000+00:00"
    },
    {
     "id": "a0a35f872ca5",
@@ -310,39 +175,163 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-10T23:00:42+00:00"
-   },
+   }
+  ],
+  "Latin America & Caribbean": [
    {
-    "id": "158f5daf7ff5",
-    "title": "M4.5 earthquake, 171 km SSW of Pagar Alam, Indonesia",
-    "country": "Indonesia",
+    "id": "873d7b5f0006",
+    "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+    "country": "Panama",
     "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-10T21:38:09.130000+00:00"
-   },
-   {
-    "id": "bcc64de29c17",
-    "title": "Philippines volcano erupts, creating 6km-high ash cloud",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
+    "category": "political",
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-10T20:37:17+00:00"
+    "time": "2026-10-11T06:56:08+00:00"
    },
    {
-    "id": "4493513203a4",
-    "title": "M4.6 earthquake, 31 km SE of Vanimo, Papua New Guinea",
-    "country": "Papua New Guinea",
+    "id": "a4295a4737b0",
+    "title": "M5.2 earthquake, 18 km SSE of Camaná, Peru",
+    "country": "Peru",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-10T09:42:58.899000+00:00"
+    "time": "2026-10-11T13:42:59.788000+00:00"
+   },
+   {
+    "id": "db980ebf7a87",
+    "title": "Green flood alert in Paraguay",
+    "country": "Paraguay",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T06:56:59+00:00"
+   },
+   {
+    "id": "8da5e9e9054b",
+    "title": "Green forest fire notification in Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T03:03:07+00:00"
+   },
+   {
+    "id": "e22b1ecae8f2",
+    "title": "M5.0 earthquake, 3 km NW of Flores, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T01:50:52.299000+00:00"
+   },
+   {
+    "id": "2b8cd6695497",
+    "title": "M4.8 earthquake, 11 km SSW of Tebario, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-10T15:58:19.800000+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "2271179380b4",
+    "title": "Trump says Russia, Ukraine agree to energy ceasefire – 'news for me', Zelensky says",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-10-11T14:39:26+00:00"
+   },
+   {
+    "id": "0443a3168438",
+    "title": "🔴 Trump says Russia and Ukraine agree to 'energy ceasefire'",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-11T14:41:09+00:00"
+   },
+   {
+    "id": "6efbcf11e600",
+    "title": "Zelensky says if Trump, Putin want elections in Ukraine, a two-month ceasefire is needed",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-11T14:24:10+00:00"
+   },
+   {
+    "id": "b18ba09da6d5",
+    "title": "Russian air strike on Kharkiv kills at least 1, injures 8",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-11T13:41:53+00:00"
+   },
+   {
+    "id": "765e14d9ba01",
+    "title": "Police in Poland ‘learn of possible plot to attack prime minister Donald Tusk’",
+    "country": "Poland",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-11T12:37:32+00:00"
+   },
+   {
+    "id": "bd005e4843ed",
+    "title": "Ukraine will only stop attacking Russian oil as part of an energy ceasefire, Zelensky says",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-11T11:50:27+00:00"
+   },
+   {
+    "id": "efd3f48842ce",
+    "title": "Zaporizhzhia airstrikes kill 17 as Russia intensifies attacks across Ukraine",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-11T11:29:49+00:00"
+   },
+   {
+    "id": "c1a8139ebf72",
+    "title": "Trump, Zelensky clash over diesel deal as Russian strikes kill 21",
+    "country": "Ukraine",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-11T10:10:20+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "39a379f1ae4d",
+    "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-11T15:00:29+00:00"
+   },
    {
     "id": "84cdd6ec5520",
     "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
@@ -352,6 +341,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-10T18:26:13+00:00"
+   },
+   {
+    "id": "21954ce66838",
+    "title": "France: Can the left unite behind a single candidate?",
+    "country": "France",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T14:41:39+00:00"
+   },
+   {
+    "id": "02749462da8a",
+    "title": "The Mafia Football Murders | True Crime Reports",
+    "country": "Italy",
+    "city": "Milan",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T14:05:14+00:00"
    },
    {
     "id": "8e753d3517f8",
@@ -372,68 +381,100 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-10T16:52:15+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "0ba852641fb6",
+    "title": "At least 4 dead as cyclone Isaias drenches southern US",
+    "country": "United States",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-11T09:18:48+00:00"
    },
    {
-    "id": "acbcdcd1643f",
-    "title": "Green flood alert in France",
-    "country": "France",
+    "id": "a282c0085453",
+    "title": "Trump urges John Fetterman to switch parties: ‘I’d love to see him as a Republican’",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T13:25:44+00:00"
+   },
+   {
+    "id": "af7cf6ba94f6",
+    "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
+    "country": "United States",
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T04:10:08+00:00"
+   },
+   {
+    "id": "9db3f4d12f1b",
+    "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
+    "country": "Mexico",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-10T15:25:05+00:00"
-   },
-   {
-    "id": "bb9830568221",
-    "title": "How a South African billionaire is turning a corner of Somerset into ‘one man’s estate’",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-10T13:00:58+00:00"
-   },
-   {
-    "id": "ce87a7753bc0",
-    "title": "Study explores links between 19th-century Manchester workers and enslaved Africans in Caribbean",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T12:00:56+00:00"
-   },
-   {
-    "id": "7f6563eab53a",
-    "title": "Severe injuries at French student protests draw scrutiny to police tactics",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T10:20:54+00:00"
-   },
-   {
-    "id": "d6b34ee49b4a",
-    "title": "‘We’re not asking for luxury’: school protesters in Paris suburb feel abandoned by French state",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T09:00:53+00:00"
+    "time": "2026-10-10T21:10:06+00:00"
    }
   ],
   "South Asia": [
    {
-    "id": "70571b7e9923",
-    "title": "‘Cockroach’ leader among thousands detained in Delhi protest crackdown",
+    "id": "c2883f0c91e4",
+    "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
     "country": "India",
     "city": "Delhi",
     "category": "unrest",
     "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-10T11:17:38+00:00"
+    "confidence": "B2",
+    "time": "2026-10-11T11:11:42+00:00"
+   },
+   {
+    "id": "48b0d415aa8e",
+    "title": "India’s crackdown on youth protesters: What next?",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T13:06:00+00:00"
+   },
+   {
+    "id": "10f71c706afa",
+    "title": "Meet the man helping India’s detained protesters get home",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T12:36:35+00:00"
+   },
+   {
+    "id": "9e1c5432c358",
+    "title": "Buildings swept away as flash floods hit central Nepal",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T10:34:02+00:00"
+   },
+   {
+    "id": "3399c82c2b99",
+    "title": "Modi is in trouble",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T10:31:45+00:00"
    },
    {
     "id": "e87b77a87244",
@@ -464,103 +505,19 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-11T05:45:41+00:00"
-   },
-   {
-    "id": "7e5c7923379b",
-    "title": "Protests against voter roll revisions rock capital of world's largest democracy",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T21:19:57+00:00"
-   },
-   {
-    "id": "84b3c0f1a302",
-    "title": "India protests: New 'cockroach' movement leader named",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T16:14:56+00:00"
-   },
-   {
-    "id": "af09741e5309",
-    "title": "India detains 'cockroach' movement leaders in bid to thwart election protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T15:37:28+00:00"
-   },
-   {
-    "id": "ec42445de7f6",
-    "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T13:23:42+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "2ad12bf93ccb",
-    "title": "M4.7 earthquake, 110 km SSE of Sola, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-11T05:07:57.511000+00:00"
-   },
-   {
-    "id": "3ccf4da8bc0a",
-    "title": "M4.6 earthquake, 268 km WNW of Houma, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-10T12:21:02.813000+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "af7cf6ba94f6",
-    "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T04:10:08+00:00"
-   },
-   {
-    "id": "9db3f4d12f1b",
-    "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T21:10:06+00:00"
-   },
-   {
-    "id": "25b95088c818",
-    "title": "Mexican judge sentences three men for murders of Australian, US surfers",
-    "country": "Mexico",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T14:37:26+00:00"
    }
   ],
   "Sub-Saharan Africa": [
+   {
+    "id": "9fa30e817ded",
+    "title": "Green forest fire notification in Madagascar",
+    "country": "Madagascar",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T15:03:21+00:00"
+   },
    {
     "id": "dea4f469f134",
     "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
@@ -590,16 +547,28 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-10T16:10:53+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "ba9e72b64211",
+    "title": "M4.6 earthquake, 260 km WNW of Houma, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T10:05:41.414000+00:00"
    },
    {
-    "id": "915697a161fe",
-    "title": "Kenyan health ministry urges churches to raise awareness about Ebola",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "health",
+    "id": "2ad12bf93ccb",
+    "title": "M4.7 earthquake, 110 km SSE of Sola, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-10T13:52:55+00:00"
+    "confidence": "A1",
+    "time": "2026-10-11T05:07:57.511000+00:00"
    }
   ]
  }
