@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-11T02:12:31.552155+00:00",
+ "generated": "2026-10-11T08:58:02.411867+00:00",
  "sample": false,
- "count": 426,
+ "count": 424,
  "events": [
   {
    "title": "Yemen - Level 4: Do Not Travel",
@@ -314,6 +314,34 @@
    "flag": "🇲🇽",
    "region": "North America",
    "baseline": 3.32,
+   "watch": []
+  },
+  {
+   "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+   "time": "2026-10-11T06:56:08+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Panama",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "873d7b5f0006",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
    "watch": []
   },
   {
@@ -655,34 +683,6 @@
    "flag": "🇪🇷",
    "region": "Sub-Saharan Africa",
    "baseline": 3.79,
-   "watch": []
-  },
-  {
-   "title": "Mexico prison clash in strife-torn Sinaloa state leaves 10 dead",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/9/mexico-prison-clash-in-strife-torn-sinaloa-state-leaves-10-dead?traffic_source=rss",
-   "time": "2026-10-09T04:26:55+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Mexico",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/9/mexico-prison-clash-in-strife-torn-sinaloa-state-leaves-10-dead?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T07:24:10.537441+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "1457b0aa5832",
-   "flag": "🇲🇽",
-   "region": "North America",
-   "baseline": 3.32,
    "watch": []
   },
   {
@@ -1251,31 +1251,143 @@
    "watch": []
   },
   {
-   "title": "Brazil goes to polls in decisive election for future of Latin America",
+   "title": "Couples looking to have children often turn to surrogacy agencies in Georgia without understanding the hidden costs",
    "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
-   "time": "2026-10-04T08:53:01+00:00",
+   "url": "https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-world-4025-rdf",
+   "time": "2026-10-11T07:45:00+00:00",
    "tier": "B",
-   "category": "political",
-   "country": "Brazil",
+   "category": "conflict",
+   "country": "Georgia",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 4,
+   "severity": 3,
    "sources": [
     {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-world-4025-rdf",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-04T13:45:05.432744+00:00",
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
    "confidence": "B3",
    "corroboration": 1,
-   "id": "336739524f36",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
+   "id": "e9a8478811d8",
+   "flag": "🇬🇪",
+   "region": "Eastern Europe",
+   "baseline": 2.39,
+   "watch": []
+  },
+  {
+   "title": "General Staff: Russia has lost 1,552,840 troops in Ukraine since Feb. 24, 2022",
+   "summary": "",
+   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-552-840-troops-in-ukraine-since-feb-24-2022/",
+   "time": "2026-10-11T06:20:47+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-552-840-troops-in-ukraine-since-feb-24-2022/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "13c9f7bd017b",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Ben Roberts-Smith attends Canberra event honouring Australian troops who served in Afghanistan",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb",
+   "time": "2026-10-11T05:27:24+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Afghanistan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a29601c67c19",
+   "flag": "🇦🇫",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.8,
+   "watch": []
+  },
+  {
+   "title": "Third Yandex data center in Russia shut down following reported drone attack",
+   "summary": "",
+   "url": "https://kyivindependent.com/third-yandex-data-center-in-russia-shut-down-following-reported-drone-attack/",
+   "time": "2026-10-11T03:32:31+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/third-yandex-data-center-in-russia-shut-down-following-reported-drone-attack/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "2b7317dc25a1",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+   "time": "2026-10-11T01:11:10+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Palestine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "93e98af93323",
+   "flag": "🇵🇸",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.42,
    "watch": []
   },
   {
@@ -1356,11 +1468,16 @@
      "name": "The Guardian World",
      "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
      "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-11T02:12:31.552155+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
+   "confidence": "B1",
+   "corroboration": 3,
    "id": "223ee7db99cc",
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
@@ -2077,6 +2194,34 @@
    "confidence": "C4",
    "corroboration": 1,
    "id": "91609b85b0af",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Russian guided bombs hit Zaporizhzhia residential neighborhood, killing at least 20, injuring 32",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-guided-bombs-hit-zaporizhzhia-apartment-building-killing-4-injuring-4/",
+   "time": "2026-10-10T04:55:22+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-guided-bombs-hit-zaporizhzhia-apartment-building-killing-4-injuring-4/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "718caa9bacc9",
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
@@ -4032,34 +4177,6 @@
    "watch": []
   },
   {
-   "title": "Middle Corridor: Can Bulgaria be a safe gateway for Asian imports to the EU?",
-   "summary": "",
-   "url": "https://www.dw.com/en/middle-corridor-can-bulgaria-be-a-safe-gateway-for-asian-imports-to-the-eu/a-79584530?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-10-08T08:38:00+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Bulgaria",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/middle-corridor-can-bulgaria-be-a-safe-gateway-for-asian-imports-to-the-eu/a-79584530?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T15:37:38.969831+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4d2d90bad7cb",
-   "flag": "🇧🇬",
-   "region": "Eastern Europe",
-   "baseline": 1.84,
-   "watch": []
-  },
-  {
    "title": "Lithuania calls for EU sanctions against Russian grain",
    "summary": "",
    "url": "https://kyivindependent.com/lithuania-calls-for-eu-sanctions-against-russian-grain/",
@@ -4113,34 +4230,6 @@
    "flag": "🇵🇭",
    "region": "East & SE Asia",
    "baseline": 3.11,
-   "watch": []
-  },
-  {
-   "title": "General Staff: Russia has lost 1,547,780 troops in Ukraine since Feb. 24, 2022",
-   "summary": "",
-   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-547-780-troops-in-ukraine-since-feb-24-2022/",
-   "time": "2026-10-08T07:26:13+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-547-780-troops-in-ukraine-since-feb-24-2022/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-08T08:00:40.171451+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "35277f1de759",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
    "watch": []
   },
   {
@@ -4202,62 +4291,6 @@
    "flag": "🇬🇧",
    "region": "Western Europe",
    "baseline": 1.29,
-   "watch": []
-  },
-  {
-   "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-08T05:06:09+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T15:37:38.969831+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9238ba06e97a",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "Russia's largest Yandex data center reportedly hit in drone attack",
-   "summary": "",
-   "url": "https://kyivindependent.com/russias-largest-yandex-data-center-reportedly-hit-in-drone-attack/",
-   "time": "2026-10-08T03:14:20+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russias-largest-yandex-data-center-reportedly-hit-in-drone-attack/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-08T08:00:40.171451+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "1e21f8b66bc7",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
    "watch": []
   },
   {
@@ -4706,6 +4739,314 @@
    "flag": "🇧🇷",
    "region": "Latin America & Caribbean",
    "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "Delhi sees more protests as 'cockroach' group's leaders released",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-11T08:50:21+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": "Delhi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e87b77a87244",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Spanish PM Sanchez kicks off election campaign amid housing crisis protests",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261011-spanish-pm-sanchez-kicks-off-election-campaign-amid-housing-crisis-protests",
+   "time": "2026-10-11T07:46:57+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Spain",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261011-spanish-pm-sanchez-kicks-off-election-campaign-amid-housing-crisis-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8e753d3517f8",
+   "flag": "🇪🇸",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Green flood alert in China",
+   "summary": "On 07/10/2026, a flood started in China, lasting until 10/10/2026 (last update). The flood caused 0 deaths and 5748 displaced .",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104223",
+   "time": "2026-10-11T06:57:32+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "China",
+   "city": null,
+   "lat": 19.2000001,
+   "lon": 109.5999999,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104223",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "a0a35f872ca5",
+   "flag": "🇨🇳",
+   "region": "East & SE Asia",
+   "baseline": 2.75,
+   "watch": []
+  },
+  {
+   "title": "Green flood alert in Paraguay",
+   "summary": "On 06/10/2026, a flood started in Paraguay, lasting until 11/10/2026 (last update). The flood caused 0 deaths and 69 displaced .",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104222",
+   "time": "2026-10-11T06:56:59+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Paraguay",
+   "city": null,
+   "lat": -25.5,
+   "lon": -54.833333,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104222",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "db980ebf7a87",
+   "flag": "🇵🇾",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.76,
+   "watch": []
+  },
+  {
+   "title": "Flash flood sweeps away buildings in Nepal",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
+   "time": "2026-10-11T06:34:31+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Nepal",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f9f859a4a7e6",
+   "flag": "🇳🇵",
+   "region": "South Asia",
+   "baseline": 2.76,
+   "watch": []
+  },
+  {
+   "title": "India court orders release of 'cockroach' movement leaders after detention",
+   "summary": "",
+   "url": "https://www.france24.com/en/asia-pacific/20261011-india-court-orders-release-of-cockroach-movement-leaders-after-detention",
+   "time": "2026-10-11T05:45:41+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261011-india-court-orders-release-of-cockroach-movement-leaders-after-detention",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4798ce64e5ec",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 110 km SSE of Sola, Vanuatu",
+   "summary": "Depth 11 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
+   "time": "2026-10-11T05:07:57.511000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.7335,
+   "lon": 168.0696,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "2ad12bf93ccb",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
+   "time": "2026-10-11T04:10:08+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "United States",
+   "city": "New York",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "af7cf6ba94f6",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "M5.2 earthquake, 180 km S of Pelabuhanratu, Indonesia",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
+   "time": "2026-10-11T03:30:17.430000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -8.6161,
+   "lon": 106.526,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "068ae2c073d0",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Peru",
+   "summary": "On 06/10/2026, a forest fire started in Peru, until 10/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032724",
+   "time": "2026-10-11T03:03:07+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Peru",
+   "city": null,
+   "lat": -13.619223249595974,
+   "lon": -72.48088597260475,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032724",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "8da5e9e9054b",
+   "flag": "🇵🇪",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "M4.6 earthquake, 109 km SSE of Pondaguitan, Philippines",
+   "summary": "Depth 121 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
+   "time": "2026-10-11T02:35:35.917000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Philippines",
+   "city": null,
+   "lat": 5.4706,
+   "lon": 126.6164,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "48b4ef93b333",
+   "flag": "🇵🇭",
+   "region": "East & SE Asia",
+   "baseline": 3.11,
    "watch": []
   },
   {
@@ -5187,6 +5528,34 @@
    "watch": []
   },
   {
+   "title": "M4.5 earthquake, 10 km NNW of El Cortezo, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1f3",
+   "time": "2026-10-10T14:51:45.562000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.5178,
+   "lon": -80.6744,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1f3",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "0df9e09ee149",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
    "title": "Mexican judge sentences three men for murders of Australian, US surfers",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss",
@@ -5354,6 +5723,34 @@
    "flag": "🇬🇧",
    "region": "Western Europe",
    "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "M4.6 earthquake, 268 km WNW of Houma, Tonga",
+   "summary": "Depth 560 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ej",
+   "time": "2026-10-10T12:21:02.813000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Tonga",
+   "city": null,
+   "lat": -19.9451,
+   "lon": -177.5258,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ej",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T08:58:02.411867+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3ccf4da8bc0a",
+   "flag": "🇹🇴",
+   "region": "Oceania",
+   "baseline": 1.93,
    "watch": []
   },
   {
@@ -7923,34 +8320,6 @@
    "watch": []
   },
   {
-   "title": "Cars burned and shops looted as anti-immigration protests rock South Africa",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/09/cars-burned-and-shops-looted-as-anti-immigration-protests-rock-south-africa/",
-   "time": "2026-10-09T07:50:24+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "South Africa",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/09/cars-burned-and-shops-looted-as-anti-immigration-protests-rock-south-africa/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-09T14:31:03.631403+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "7d81e45417a2",
-   "flag": "🇿🇦",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.02,
-   "watch": []
-  },
-  {
    "title": "Chile: Santiago flooding turns streets to rivers as Kast declares state of catastrophe",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/09/chile-santiago-flooding-turns-streets-to-rivers-as-kast-declares-state-of-catastrophe/",
@@ -7976,62 +8345,6 @@
    "flag": "🇨🇱",
    "region": "Latin America & Caribbean",
    "baseline": 1.62,
-   "watch": []
-  },
-  {
-   "title": "Meet India's feisty Gen Z protester who is taking on Modi",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-09T07:19:24+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T14:31:03.631403+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d86535f64f50",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "Vehicles torched in South Africa during protests over asylum ruling",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/09/vehicles-torched-in-south-africa-during-protests-over-asylum-ruling/",
-   "time": "2026-10-09T06:31:08+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "South Africa",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/09/vehicles-torched-in-south-africa-during-protests-over-asylum-ruling/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-09T07:24:10.537441+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "f237d76231ef",
-   "flag": "🇿🇦",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.02,
    "watch": []
   },
   {
@@ -8088,34 +8401,6 @@
    "flag": "🇧🇷",
    "region": "Latin America & Caribbean",
    "baseline": 3.13,
-   "watch": []
-  },
-  {
-   "title": "Morocco and Senegal await AFCON final verdict after arbitration hearing",
-   "summary": "",
-   "url": "https://www.france24.com/en/sport/20261009-morocco-and-senegal-await-afcon-final-verdict-after-arbitration-hearing",
-   "time": "2026-10-09T05:44:52+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Morocco",
-   "city": "Rabat",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/sport/20261009-morocco-and-senegal-await-afcon-final-verdict-after-arbitration-hearing",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T07:24:10.537441+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9cc7536e9efe",
-   "flag": "🇲🇦",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.72,
    "watch": []
   },
   {
@@ -8200,118 +8485,6 @@
    "flag": "🇿🇦",
    "region": "Sub-Saharan Africa",
    "baseline": 3.02,
-   "watch": []
-  },
-  {
-   "title": "ICE agent shoots man in New York City",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-09T04:26:19+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United States",
-   "city": "New York",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T07:24:10.537441+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "306aebb6328f",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
-   "summary": "",
-   "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-   "time": "2026-10-09T04:00:38+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Egypt",
-   "city": "Cairo",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T07:24:10.537441+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9e8944b9a410",
-   "flag": "🇪🇬",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.82,
-   "watch": []
-  },
-  {
-   "title": "Northern Ireland’s Sinn Fein faces police probe as protest tensions fester",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/9/northern-irelands-sinn-fein-faces-police-probe-as-protest-tensions-fester?traffic_source=rss",
-   "time": "2026-10-09T03:47:41+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Ireland",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/9/northern-irelands-sinn-fein-faces-police-probe-as-protest-tensions-fester?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T07:24:10.537441+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "cacf02cef63a",
-   "flag": "🇮🇪",
-   "region": "Western Europe",
-   "baseline": 1.0,
-   "watch": []
-  },
-  {
-   "title": "ICE shooting of New York man in car with five-year-old sparks protests",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss",
-   "time": "2026-10-09T03:25:33+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "CAR",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T07:24:10.537441+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "efb08982dde4",
-   "flag": "🇨🇫",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.61,
    "watch": []
   },
   {
@@ -11001,230 +11174,6 @@
    "flag": "🇰🇪",
    "region": "Sub-Saharan Africa",
    "baseline": 2.97,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, 55 km ESE of Kokopo, Papua New Guinea",
-   "summary": "Depth 21 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzvn",
-   "time": "2026-10-06T08:45:26.946000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Papua New Guinea",
-   "city": null,
-   "lat": -4.4773,
-   "lon": 152.7519,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzvn",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T23:44:27.910246+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "acebe8ba2e5e",
-   "flag": "🇵🇬",
-   "region": "East & SE Asia",
-   "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 60 km WNW of Colchani, Bolivia",
-   "summary": "Depth 192 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzva",
-   "time": "2026-10-06T06:54:10.618000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Bolivia",
-   "city": null,
-   "lat": -20.0088,
-   "lon": -67.4214,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzva",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T07:54:48.014985+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "0db2c18898ca",
-   "flag": "🇧🇴",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.09,
-   "watch": []
-  },
-  {
-   "title": "Several killed in Senegal as heavy rains cause flooding, damage to infrastructure",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/06/several-killed-in-senegal-as-heavy-rains-cause-flooding-damage-to-infrastructure/",
-   "time": "2026-10-06T06:18:41+00:00",
-   "tier": "C",
-   "category": "hazard",
-   "country": "Senegal",
-   "city": "Dakar",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/06/several-killed-in-senegal-as-heavy-rains-cause-flooding-damage-to-infrastructure/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-06T07:54:48.014985+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "4e07f39a4ecd",
-   "flag": "🇸🇳",
-   "region": "Sub-Saharan Africa",
-   "baseline": 2.84,
-   "watch": []
-  },
-  {
-   "title": "M4.7 earthquake, 36 km WNW of Ollagüe, Chile",
-   "summary": "Depth 122 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6",
-   "time": "2026-10-06T06:16:33.173000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Chile",
-   "city": null,
-   "lat": -21.1586,
-   "lon": -68.6026,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T07:54:48.014985+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "fc1a12a13da9",
-   "flag": "🇨🇱",
-   "region": "Latin America & Caribbean",
-   "baseline": 1.62,
-   "watch": []
-  },
-  {
-   "title": "Green flood alert in Guatemala",
-   "summary": "On 03/10/2026, a flood started in Guatemala, lasting until 05/10/2026 (last update). The flood caused 0 deaths and 20 displaced .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104213",
-   "time": "2026-10-06T06:14:44+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Guatemala",
-   "city": null,
-   "lat": 14.4976914,
-   "lon": -90.5560333,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104213",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T07:54:48.014985+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "6ead7f530fb7",
-   "flag": "🇬🇹",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.4,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, State of Yap, Federated States of Micronesia",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus",
-   "time": "2026-10-06T04:40:28.098000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Micronesia",
-   "city": null,
-   "lat": 6.7818,
-   "lon": 144.4068,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T07:54:48.014985+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "a22219302f5e",
-   "flag": "🇫🇲",
-   "region": "Oceania",
-   "baseline": 2.15,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, Izu Islands, Japan region",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuq",
-   "time": "2026-10-06T04:28:36.912000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Japan",
-   "city": null,
-   "lat": 29.02,
-   "lon": 142.845,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuq",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T07:54:48.014985+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "c1c2a40be820",
-   "flag": "🇯🇵",
-   "region": "East & SE Asia",
-   "baseline": 1.07,
-   "watch": []
-  },
-  {
-   "title": "M4.8 earthquake, 86 km N of Ruteng, Indonesia",
-   "summary": "Depth 9 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj",
-   "time": "2026-10-06T03:42:43.999000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": -7.8323,
-   "lon": 120.3932,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T23:44:27.910246+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "9d5ded139b0f",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
    "watch": []
   },
   {
