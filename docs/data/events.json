@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-11T15:32:51.277595+00:00",
+ "generated": "2026-10-11T19:43:43.869349+00:00",
  "sample": false,
- "count": 426,
+ "count": 422,
  "events": [
   {
    "title": "Yemen - Level 4: Do Not Travel",
@@ -286,6 +286,34 @@
    "flag": "🇲🇽",
    "region": "North America",
    "baseline": 3.32,
+   "watch": []
+  },
+  {
+   "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+   "time": "2026-10-11T18:03:22+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8e69315d0585",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
    "watch": []
   },
   {
@@ -1078,34 +1106,6 @@
    "watch": []
   },
   {
-   "title": "British Jewish groups hold London vigil for victims of 7 October attacks",
-   "summary": "",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/07/british-jewish-groups-london-vigil-7-october-attacks",
-   "time": "2026-10-07T17:41:59+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/07/british-jewish-groups-london-vigil-7-october-attacks",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-07T21:48:03.359095+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "08df42352409",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
    "title": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
@@ -1190,36 +1190,227 @@
    "watch": []
   },
   {
-   "title": "Brazil presidential election 2026: first-round live results",
+   "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
    "summary": "",
-   "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
-   "time": "2026-10-04T19:01:28+00:00",
+   "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
+   "time": "2026-10-11T19:19:50+00:00",
    "tier": "B",
    "category": "political",
-   "country": "Brazil",
+   "country": "Russia",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 4,
+   "severity": 3,
    "sources": [
     {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
-     "tier": "B"
-    },
-    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-04T20:56:33.239017+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "9f0d8c524226",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4695098a0547",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+   "time": "2026-10-11T18:36:54+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": "Moscow",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "50787e6d8a8d",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "'To keep oil prices from rising' — Russian lawmaker questions Trump’s energy ceasefire claim",
+   "summary": "",
+   "url": "https://kyivindependent.com/to-keep-oil-prices-from-rising-russian-lawmaker-questions-trumps-energy-ceasefire-claim/",
+   "time": "2026-10-11T18:35:42+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/to-keep-oil-prices-from-rising-russian-lawmaker-questions-trumps-energy-ceasefire-claim/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "78a9368425a1",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Nepal orders evacuations after landslide triggers Budhi Gandaki flash flood",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/11/nepal-orders-evacuations-after-landslide-triggers-budhi-gandaki-flash-flood/",
+   "time": "2026-10-11T17:37:10+00:00",
+   "tier": "C",
+   "category": "hazard",
+   "country": "Nepal",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/11/nepal-orders-evacuations-after-landslide-triggers-budhi-gandaki-flash-flood/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "09c49d1b31c2",
+   "flag": "🇳🇵",
+   "region": "South Asia",
+   "baseline": 2.76,
+   "watch": []
+  },
+  {
+   "title": "Russia struck Kharkiv's power plant shortly after Trump announced 'energy ceasefire'",
+   "summary": "",
+   "url": "https://kyivindependent.com/russia-struck-kharkivs-power-plant-shortly-after-trump-announced-energy-ceasefire/",
+   "time": "2026-10-11T17:21:00+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-struck-kharkivs-power-plant-shortly-after-trump-announced-energy-ceasefire/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "1585062a75c8",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+   "time": "2026-10-11T16:49:05+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "1535b15ba382",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
+   "time": "2026-10-11T16:04:20+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "797cff816e42",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
+   "time": "2026-10-11T15:56:25+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b2ed31ecca6e",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
    "watch": []
   },
   {
@@ -1284,6 +1475,34 @@
    "watch": []
   },
   {
+   "title": "Strike on Riyadh: What options for the Saudi-led coalition?",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261011-strike-on-riyadh-what-options-for-the-saudi-led-coalition",
+   "time": "2026-10-11T14:39:27+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Saudi Arabia",
+   "city": "Riyadh",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261011-strike-on-riyadh-what-options-for-the-saudi-led-coalition",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a39c194e0d1e",
+   "flag": "🇸🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
    "title": "Trump says Russia, Ukraine agree to energy ceasefire – 'news for me', Zelensky says",
    "summary": "",
    "url": "https://www.france24.com/en/europe/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire",
@@ -1321,6 +1540,49 @@
    "confidence": "B1",
    "corroboration": 4,
    "id": "2271179380b4",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "New Russian strikes follow Trump's announcement of Russia-Ukraine energy ceasefire",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire",
+   "time": "2026-10-11T14:39:26+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire",
+     "tier": "B"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/trump-claims-ukraine-russia-agreed-to-energy-ceasefire-kyiv-has-no-information-about-it/",
+     "tier": "C"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+     "tier": "B"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "B1",
+   "corroboration": 4,
+   "id": "27ad10b4ba39",
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
@@ -1695,6 +1957,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "e9a8478811d8",
+   "flag": "🇬🇪",
+   "region": "Eastern Europe",
+   "baseline": 2.39,
+   "watch": []
+  },
+  {
+   "title": "Surrogacy in Georgia is booming, but at what cost?",
+   "summary": "",
+   "url": "https://www.dw.com/en/surrogacy-in-georgia-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-world-4025-rdf",
+   "time": "2026-10-11T07:45:00+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Georgia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/en/surrogacy-in-georgia-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-world-4025-rdf",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a3ef5731eb81",
    "flag": "🇬🇪",
    "region": "Eastern Europe",
    "baseline": 2.39,
@@ -3296,34 +3586,6 @@
    "watch": []
   },
   {
-   "title": "EU's Covid recovery fund was 'absolutely a success': European Court of Auditors' Pierre Moscovici",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/talking-europe/20261009-eu-s-covid-recovery-fund-was-absolutely-a-success-european-court-of-auditors-pierre-moscovici",
-   "time": "2026-10-09T15:51:06+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/talking-europe/20261009-eu-s-covid-recovery-fund-was-absolutely-a-success-european-court-of-auditors-pierre-moscovici",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "a2b619691abd",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Eritrean troops in Ethiopia raise fears of a regional war",
    "summary": "",
    "url": "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-world-4025-rdf",
@@ -4057,34 +4319,6 @@
    "watch": []
   },
   {
-   "title": "Open letter to the US administration: The G20 invitation to Putin should come with conditions",
-   "summary": "",
-   "url": "https://kyivindependent.com/open-letter-to-the-us-administration-the-g20-invitation-to-putin-should-come-with-conditions-2/",
-   "time": "2026-10-08T18:15:11+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "United States",
-   "city": "Miami",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/open-letter-to-the-us-administration-the-g20-invitation-to-putin-should-come-with-conditions-2/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-08T20:50:16.427538+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "1087bad0f204",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
    "title": "Israel’s downgrading of UK consulate aims to tighten its hold on Jerusalem",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/08/israel-downgrading-uk-consulate-tighten-hold-jerusalem",
@@ -4110,62 +4344,6 @@
    "flag": "🇮🇱",
    "region": "Middle East & N. Africa",
    "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
-   "time": "2026-10-08T16:11:32+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Eritrea",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T20:50:16.427538+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "6face518261a",
-   "flag": "🇪🇷",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.79,
-   "watch": []
-  },
-  {
-   "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
-   "summary": "",
-   "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
-   "time": "2026-10-08T16:05:37+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T20:50:16.427538+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d81c2c667af5",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
    "watch": []
   },
   {
@@ -4520,62 +4698,6 @@
    "watch": []
   },
   {
-   "title": "M5.8 earthquake, 262 km SSW of Severo-Kuril’sk, Russia",
-   "summary": "Depth 29 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy",
-   "time": "2026-10-06T16:48:22.347000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 48.4437,
-   "lon": 154.9316,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-07T16:48:16.939908+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "2377a09e85a8",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "M5.9 earthquake, 264 km SSW of Severo-Kuril’sk, Russia",
-   "summary": "Depth 26 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy",
-   "time": "2026-10-06T16:48:21.805000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 48.4554,
-   "lon": 154.8085,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T19:59:49.155522+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "32b6629d1d9c",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
    "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/6/its-not-the-act-of-a-friend-or-ally-israel-moves-to-shut-uk-consulate?traffic_source=rss",
@@ -4853,6 +4975,174 @@
    "flag": "🇧🇷",
    "region": "Latin America & Caribbean",
    "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 156 km ESE of Neiafu, Tonga",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lk",
+   "time": "2026-10-11T18:06:35.803000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Tonga",
+   "city": null,
+   "lat": -19.3844,
+   "lon": -172.7162,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lk",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "35c25d019d79",
+   "flag": "🇹🇴",
+   "region": "Oceania",
+   "baseline": 1.93,
+   "watch": []
+  },
+  {
+   "title": "M4.8 earthquake, 31 km W of Río Grande, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lf",
+   "time": "2026-10-11T17:11:29.405000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.7084,
+   "lon": -81.6209,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lf",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "04ed68cf7f33",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
+   "title": "M5.2 earthquake, 101 km SSW of Severo-Kuril’sk, Russia",
+   "summary": "Depth 83 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ld",
+   "time": "2026-10-11T17:00:29.277000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Russia",
+   "city": null,
+   "lat": 49.7885,
+   "lon": 155.7863,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ld",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "2d19e8766534",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 6 km ESE of Tōgane, Japan",
+   "summary": "Depth 56 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1l7",
+   "time": "2026-10-11T16:24:25.015000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Japan",
+   "city": null,
+   "lat": 35.5301,
+   "lon": 140.4377,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1l7",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "8c25fd02cd62",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "At least five people missing as flash floods in Nepal sweep away houses",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
+   "time": "2026-10-11T16:00:48+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Nepal",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "1c6fc3bbe198",
+   "flag": "🇳🇵",
+   "region": "South Asia",
+   "baseline": 2.76,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Zambia",
+   "summary": "On 05/10/2026, a forest fire started in Zambia, until 10/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032716",
+   "time": "2026-10-11T15:05:45+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Zambia",
+   "city": null,
+   "lat": -11.136563907995136,
+   "lon": 32.299621219283864,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032716",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "4ef24d8e8594",
+   "flag": "🇿🇲",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.88,
    "watch": []
   },
   {
@@ -5645,6 +5935,34 @@
    "watch": []
   },
   {
+   "title": "M4.6 earthquake, 18 km WNW of Río Grande, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hj",
+   "time": "2026-10-11T00:06:09.289000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.8093,
+   "lon": -81.472,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hj",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "372ed39c2d99",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
    "title": "Five people shot and killed in apparent murder-suicide, Georgia police say",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
@@ -6036,6 +6354,34 @@
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Tanzania",
+   "summary": "On 27/09/2026, a forest fire started in Tanzania, until 09/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032695",
+   "time": "2026-10-10T15:12:30+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Tanzania",
+   "city": null,
+   "lat": -9.975275597027244,
+   "lon": 35.95988128643209,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032695",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "2d6546361fbf",
+   "flag": "🇹🇿",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.67,
    "watch": []
   },
   {
@@ -7723,6 +8069,34 @@
    "watch": []
   },
   {
+   "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Panama 09/10/2026 20:25 UTC, 10 thousand (in MMI>=VII).",
+   "summary": "On 10/9/2026 8:25:39 PM, an earthquake occurred in Panama potentially affecting 10 thousand (in MMI>=VII). The earthquake had Magnitude 6.6M, Depth:10km.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570370",
+   "time": "2026-10-09T20:32:32+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.7176,
+   "lon": -81.4687,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570370",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T19:43:43.869349+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "ad89b969bef8",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
    "title": "M4.7 earthquake, 121 km S of Kokopo, Papua New Guinea",
    "summary": "Depth 51 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19v",
@@ -7962,34 +8336,6 @@
    "watch": []
   },
   {
-   "title": "‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
-   "time": "2026-10-09T18:29:56+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "CAR",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "e3ee1a6f91e2",
-   "flag": "🇨🇫",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.61,
-   "watch": []
-  },
-  {
    "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
@@ -8025,62 +8371,6 @@
    "flag": "🇵🇦",
    "region": "Latin America & Caribbean",
    "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "France Protests, Israel's 'politically charged' remembrance, Ethopia, Ukraine",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine",
-   "time": "2026-10-09T18:28:40+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d694e1cc37d4",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "US immigration officials defend ICE agents who shot man in same car as child",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-09T17:36:09+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United States",
-   "city": "New York",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "161700b928c1",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
    "watch": []
   },
   {
@@ -8137,118 +8427,6 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
-   "time": "2026-10-09T16:36:31+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United States",
-   "city": "New York",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "6f765f93a3a6",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
-   "time": "2026-10-09T16:07:29+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Belgium",
-   "city": "Brussels",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "500946e43e93",
-   "flag": "🇧🇪",
-   "region": "Western Europe",
-   "baseline": 1.27,
-   "watch": []
-  },
-  {
-   "title": "Le Pen's top ally Bardella faces fresh claims he sought to cover up past anti-Semitic comments",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261009-le-pen-top-ally-bardella-faces-fresh-claims-he-sought-to-cover-up-past-anti-semitic-comments",
-   "time": "2026-10-09T15:53:11+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261009-le-pen-top-ally-bardella-faces-fresh-claims-he-sought-to-cover-up-past-anti-semitic-comments",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "0bfcb20b7310",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "French students vow to keep up protests as UN voices 'concern' over violence",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261009-french-students-vow-to-keep-up-protests-as-un-voices-concern-over-violence",
-   "time": "2026-10-09T15:37:42+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261009-french-students-vow-to-keep-up-protests-as-un-voices-concern-over-violence",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T23:50:44.234490+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "a115b1e75e3e",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -10788,230 +10966,6 @@
    "watch": []
   },
   {
-   "title": "M4.5 earthquake, 43 km WNW of Bengkulu, Indonesia",
-   "summary": "Depth 73 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0k2",
-   "time": "2026-10-06T19:01:59.145000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": -3.6796,
-   "lon": 101.8914,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0k2",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T23:44:27.910246+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "6733c4b7c3fb",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Namibia",
-   "summary": "On 04/10/2026, a forest fire started in Namibia, until 06/10/2026.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032593",
-   "time": "2026-10-06T19:01:05+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Namibia",
-   "city": null,
-   "lat": -19.61055905509677,
-   "lon": 15.957029749075705,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032593",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T19:59:49.155522+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "bc6b4e788d75",
-   "flag": "🇳🇦",
-   "region": "Sub-Saharan Africa",
-   "baseline": 1.93,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.",
-   "summary": "On 10/6/2026 6:34:37 PM, an earthquake occurred in United States potentially affecting 70 thousand in MMI III. The earthquake had Magnitude 5.6M, Depth:88.2km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569807",
-   "time": "2026-10-06T18:35:52+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "United States",
-   "city": null,
-   "lat": 58.814,
-   "lon": -153.57,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569807",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T19:59:49.155522+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "85a55c11508c",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, 114 km SW of Turpan, China",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0jq",
-   "time": "2026-10-06T18:15:34.402000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "China",
-   "city": null,
-   "lat": 42.2039,
-   "lon": 88.2203,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0jq",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T23:44:27.910246+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "20fd8d63b12a",
-   "flag": "🇨🇳",
-   "region": "East & SE Asia",
-   "baseline": 2.75,
-   "watch": []
-  },
-  {
-   "title": "M4.8 earthquake, 85 km ENE of Shikotan, Russia",
-   "summary": "Depth 35 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ji",
-   "time": "2026-10-06T17:47:04.306000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 44.0053,
-   "lon": 147.7419,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ji",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T23:44:27.910246+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "e99276bd4f08",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 5.9M, Depth:26.047km) in Russia 06/10/2026 16:48 UTC, Few people affected in MMI IV.",
-   "summary": "On 10/6/2026 4:48:21 PM, an earthquake occurred in Russia potentially affecting Few people affected in MMI IV. The earthquake had Magnitude 5.9M, Depth:26.047km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569799",
-   "time": "2026-10-06T17:10:20+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 48.4554,
-   "lon": 154.8085,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569799",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T19:59:49.155522+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "4acd039a8b3d",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 5.8M, Depth:29km) in Russia 06/10/2026 16:48 UTC, Few people affected in 100km.",
-   "summary": "On 10/6/2026 4:48:22 PM, an earthquake occurred in Russia potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.8M, Depth:29km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569799",
-   "time": "2026-10-06T17:10:20+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 48.4437,
-   "lon": 154.9316,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569799",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-07T16:48:16.939908+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "678f71fcf152",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 5.8M, Depth:29km) in Russia 06/10/2026 16:48 UTC, Few people affected in MMI>=III.",
-   "summary": "On 10/6/2026 4:48:22 PM, an earthquake occurred in Russia potentially affecting Few people affected in MMI>=III. The earthquake had Magnitude 5.8M, Depth:29km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569799",
-   "time": "2026-10-06T17:10:20+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 48.4437,
-   "lon": 154.9316,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1569799",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-08T08:00:40.171451+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "80dccc361fe0",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
    "title": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss",
@@ -11040,62 +10994,6 @@
    "watch": [
     "Programme team, Nairobi"
    ]
-  },
-  {
-   "title": "M5.1 earthquake, 34 km NW of Bāgeshwar, India",
-   "summary": "Depth 18 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz",
-   "time": "2026-10-06T16:53:12.578000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "India",
-   "city": null,
-   "lat": 30.092,
-   "lon": 79.5618,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-07T16:48:16.939908+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "c9c36b537e25",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "M5.1 earthquake, 34 km NNW of Bāgeshwar, India",
-   "summary": "Depth 10 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz",
-   "time": "2026-10-06T16:53:11.296000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "India",
-   "city": null,
-   "lat": 30.1171,
-   "lon": 79.6148,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-06T19:59:49.155522+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "01a00f71fa81",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
   },
   {
    "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",

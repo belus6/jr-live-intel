@@ -1,19 +1,27 @@
 {
- "generated": "2026-10-11T15:32:51.277595+00:00",
+ "generated": "2026-10-11T19:43:43.869349+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 41,
-  "3": 32,
-  "4": 3,
+  "2": 42,
+  "3": 37,
+  "4": 4,
   "5": 0
  },
- "watch_hits": [
-  "ff778352fe95"
- ],
+ "watch_hits": [],
  "regions": {
   "Middle East & N. Africa": [
+   {
+    "id": "8e69315d0585",
+    "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-11T18:03:22+00:00"
+   },
    {
     "id": "c1a9be951d95",
     "title": "Middle East crisis live: Riyadh airport reportedly hit again, day after deadly attack that killed 12",
@@ -45,14 +53,24 @@
     "time": "2026-10-10T21:32:53+00:00"
    },
    {
-    "id": "05a24d92a367",
-    "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
+    "id": "1535b15ba382",
+    "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-11T16:49:05+00:00"
+   },
+   {
+    "id": "a39c194e0d1e",
+    "title": "Strike on Riyadh: What options for the Saudi-led coalition?",
     "country": "Saudi Arabia",
     "city": "Riyadh",
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-10T15:54:12+00:00"
+    "confidence": "B3",
+    "time": "2026-10-11T14:39:27+00:00"
    },
    {
     "id": "ddf7d580db2a",
@@ -73,26 +91,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-11T13:23:02+00:00"
-   },
-   {
-    "id": "02377e9eb8af",
-    "title": "'Going bankrupt': Iran shopkeepers struggle as war dims demand",
-    "country": "Iran",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-11T09:22:37+00:00"
-   },
-   {
-    "id": "a29601c67c19",
-    "title": "Ben Roberts-Smith attends Canberra event honouring Australian troops who served in Afghanistan",
-    "country": "Afghanistan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-11T05:27:24+00:00"
    }
   ],
   "East & SE Asia": [
@@ -115,6 +113,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-10T22:13:08+00:00"
+   },
+   {
+    "id": "8c25fd02cd62",
+    "title": "M4.7 earthquake, 6 km ESE of Tōgane, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T16:24:25.015000+00:00"
    },
    {
     "id": "aa297870e5af",
@@ -165,16 +173,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-11T02:35:35.917000+00:00"
-   },
-   {
-    "id": "13f3862167c2",
-    "title": "Green forest fire notification in Mongolia, China",
-    "country": "Mongolia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-10T23:00:42+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -187,6 +185,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-11T06:56:08+00:00"
+   },
+   {
+    "id": "04ed68cf7f33",
+    "title": "M4.8 earthquake, 31 km W of Río Grande, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T17:11:29.405000+00:00"
    },
    {
     "id": "a4295a4737b0",
@@ -229,20 +237,30 @@
     "time": "2026-10-11T01:50:52.299000+00:00"
    },
    {
-    "id": "2b8cd6695497",
-    "title": "M4.8 earthquake, 11 km SSW of Tebario, Panama",
+    "id": "372ed39c2d99",
+    "title": "M4.6 earthquake, 18 km WNW of Río Grande, Panama",
     "country": "Panama",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-10T15:58:19.800000+00:00"
+    "time": "2026-10-11T00:06:09.289000+00:00"
    }
   ],
   "Eastern Europe": [
    {
     "id": "2271179380b4",
     "title": "Trump says Russia, Ukraine agree to energy ceasefire – 'news for me', Zelensky says",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-10-11T14:39:26+00:00"
+   },
+   {
+    "id": "27ad10b4ba39",
+    "title": "New Russian strikes follow Trump's announcement of Russia-Ukraine energy ceasefire",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
@@ -261,171 +279,67 @@
     "time": "2026-10-11T14:41:09+00:00"
    },
    {
-    "id": "6efbcf11e600",
-    "title": "Zelensky says if Trump, Putin want elections in Ukraine, a two-month ceasefire is needed",
-    "country": "Ukraine",
+    "id": "4695098a0547",
+    "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+    "country": "Russia",
     "city": null,
-    "category": "conflict",
+    "category": "political",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-11T14:24:10+00:00"
+    "confidence": "B3",
+    "time": "2026-10-11T19:19:50+00:00"
    },
    {
-    "id": "b18ba09da6d5",
-    "title": "Russian air strike on Kharkiv kills at least 1, injures 8",
+    "id": "50787e6d8a8d",
+    "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-11T18:36:54+00:00"
+   },
+   {
+    "id": "78a9368425a1",
+    "title": "'To keep oil prices from rising' — Russian lawmaker questions Trump’s energy ceasefire claim",
     "country": "Russia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-11T13:41:53+00:00"
+    "time": "2026-10-11T18:35:42+00:00"
    },
    {
-    "id": "765e14d9ba01",
-    "title": "Police in Poland ‘learn of possible plot to attack prime minister Donald Tusk’",
-    "country": "Poland",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-11T12:37:32+00:00"
-   },
-   {
-    "id": "bd005e4843ed",
-    "title": "Ukraine will only stop attacking Russian oil as part of an energy ceasefire, Zelensky says",
-    "country": "Ukraine",
+    "id": "1585062a75c8",
+    "title": "Russia struck Kharkiv's power plant shortly after Trump announced 'energy ceasefire'",
+    "country": "Russia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-11T11:50:27+00:00"
+    "time": "2026-10-11T17:21:00+00:00"
    },
    {
-    "id": "efd3f48842ce",
-    "title": "Zaporizhzhia airstrikes kill 17 as Russia intensifies attacks across Ukraine",
+    "id": "797cff816e42",
+    "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
     "country": "Ukraine",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-11T11:29:49+00:00"
-   },
-   {
-    "id": "c1a8139ebf72",
-    "title": "Trump, Zelensky clash over diesel deal as Russian strikes kill 21",
-    "country": "Ukraine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-11T10:10:20+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "39a379f1ae4d",
-    "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-11T15:00:29+00:00"
-   },
-   {
-    "id": "84cdd6ec5520",
-    "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-10T18:26:13+00:00"
-   },
-   {
-    "id": "21954ce66838",
-    "title": "France: Can the left unite behind a single candidate?",
-    "country": "France",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T14:41:39+00:00"
-   },
-   {
-    "id": "02749462da8a",
-    "title": "The Mafia Football Murders | True Crime Reports",
-    "country": "Italy",
-    "city": "Milan",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T14:05:14+00:00"
-   },
-   {
-    "id": "8e753d3517f8",
-    "title": "Spanish PM Sanchez kicks off election campaign amid housing crisis protests",
-    "country": "Spain",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T07:46:57+00:00"
-   },
-   {
-    "id": "5389d098c007",
-    "title": "Thousands gather in London to express support for Palestinians after three years of ‘genocide’",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T16:52:15+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "0ba852641fb6",
-    "title": "At least 4 dead as cyclone Isaias drenches southern US",
-    "country": "United States",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-11T09:18:48+00:00"
-   },
-   {
-    "id": "a282c0085453",
-    "title": "Trump urges John Fetterman to switch parties: ‘I’d love to see him as a Republican’",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T13:25:44+00:00"
-   },
-   {
-    "id": "af7cf6ba94f6",
-    "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T04:10:08+00:00"
-   },
-   {
-    "id": "9db3f4d12f1b",
-    "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T21:10:06+00:00"
+    "time": "2026-10-11T16:04:20+00:00"
    }
   ],
   "South Asia": [
+   {
+    "id": "09c49d1b31c2",
+    "title": "Nepal orders evacuations after landslide triggers Budhi Gandaki flash flood",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-11T17:37:10+00:00"
+   },
    {
     "id": "c2883f0c91e4",
     "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
@@ -435,6 +349,16 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-11T11:11:42+00:00"
+   },
+   {
+    "id": "1c6fc3bbe198",
+    "title": "At least five people missing as flash floods in Nepal sweep away houses",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T16:00:48+00:00"
    },
    {
     "id": "48b0d415aa8e",
@@ -485,71 +409,103 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-11T08:50:21+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "39a379f1ae4d",
+    "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-11T15:00:29+00:00"
    },
    {
-    "id": "f9f859a4a7e6",
-    "title": "Flash flood sweeps away buildings in Nepal",
-    "country": "Nepal",
+    "id": "21954ce66838",
+    "title": "France: Can the left unite behind a single candidate?",
+    "country": "France",
     "city": null,
-    "category": "hazard",
+    "category": "cyber",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-11T06:34:31+00:00"
+    "time": "2026-10-11T14:41:39+00:00"
    },
    {
-    "id": "4798ce64e5ec",
-    "title": "India court orders release of 'cockroach' movement leaders after detention",
-    "country": "India",
+    "id": "02749462da8a",
+    "title": "The Mafia Football Murders | True Crime Reports",
+    "country": "Italy",
+    "city": "Milan",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T14:05:14+00:00"
+   },
+   {
+    "id": "8e753d3517f8",
+    "title": "Spanish PM Sanchez kicks off election campaign amid housing crisis protests",
+    "country": "Spain",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-11T05:45:41+00:00"
+    "time": "2026-10-11T07:46:57+00:00"
    }
   ],
-  "Sub-Saharan Africa": [
+  "North America": [
    {
-    "id": "9fa30e817ded",
-    "title": "Green forest fire notification in Madagascar",
-    "country": "Madagascar",
+    "id": "0ba852641fb6",
+    "title": "At least 4 dead as cyclone Isaias drenches southern US",
+    "country": "United States",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-11T09:18:48+00:00"
+   },
+   {
+    "id": "a282c0085453",
+    "title": "Trump urges John Fetterman to switch parties: ‘I’d love to see him as a Republican’",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T13:25:44+00:00"
+   },
+   {
+    "id": "af7cf6ba94f6",
+    "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
+    "country": "United States",
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T04:10:08+00:00"
+   },
+   {
+    "id": "9db3f4d12f1b",
+    "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-10T21:10:06+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "35c25d019d79",
+    "title": "M4.7 earthquake, 156 km ESE of Neiafu, Tonga",
+    "country": "Tonga",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-11T15:03:21+00:00"
+    "time": "2026-10-11T18:06:35.803000+00:00"
    },
-   {
-    "id": "dea4f469f134",
-    "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T00:23:50+00:00"
-   },
-   {
-    "id": "b6a99a3fdc03",
-    "title": "South Africa: Anti-migrant unrest flares in Durban",
-    "country": "South Africa",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T16:12:21+00:00"
-   },
-   {
-    "id": "ff778352fe95",
-    "title": "Kenya: Ebola tests negative as contact tracing continues",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T16:10:53+00:00"
-   }
-  ],
-  "Oceania": [
    {
     "id": "ba9e72b64211",
     "title": "M4.6 earthquake, 260 km WNW of Houma, Tonga",
@@ -569,6 +525,38 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-11T05:07:57.511000+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "4ef24d8e8594",
+    "title": "Green forest fire notification in Zambia",
+    "country": "Zambia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T15:05:45+00:00"
+   },
+   {
+    "id": "9fa30e817ded",
+    "title": "Green forest fire notification in Madagascar",
+    "country": "Madagascar",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T15:03:21+00:00"
+   },
+   {
+    "id": "dea4f469f134",
+    "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T00:23:50+00:00"
    }
   ]
  }
