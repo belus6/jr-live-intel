@@ -1,31 +1,20 @@
 {
- "generated": "2026-10-10T23:34:04.686368+00:00",
+ "generated": "2026-10-11T02:12:31.552155+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 59,
-  "3": 31,
-  "4": 5,
-  "5": 1
+  "2": 56,
+  "3": 29,
+  "4": 4,
+  "5": 0
  },
  "watch_hits": [
-  "4230e30a6837",
   "ff778352fe95",
   "915697a161fe"
  ],
  "regions": {
   "Middle East & N. Africa": [
-   {
-    "id": "233b6ffaec19",
-    "title": "Yemen - Level 4: Do Not Travel",
-    "country": "Yemen",
-    "city": null,
-    "category": "advisory",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-10-10T00:00:00+00:00"
-   },
    {
     "id": "da1532009611",
     "title": "A year of ceasefire in Gaza through the lens of NPR's reporter",
@@ -57,14 +46,14 @@
     "time": "2026-10-10T04:34:55+00:00"
    },
    {
-    "id": "901e8ac37bb3",
-    "title": "Saudi Arabia - Level 3: Reconsider Travel",
+    "id": "223ee7db99cc",
+    "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
     "country": "Saudi Arabia",
-    "city": null,
-    "category": "advisory",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-10T00:00:00+00:00"
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-10T21:32:53+00:00"
    },
    {
     "id": "05a24d92a367",
@@ -95,18 +84,28 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-10T21:02:49+00:00"
+   },
+   {
+    "id": "81573e54a114",
+    "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-10T20:14:01+00:00"
    }
   ],
   "Latin America & Caribbean": [
    {
-    "id": "dc10707bb6a3",
-    "title": "M4.5 earthquake, 45 km SSE of Pedasí, Panama",
+    "id": "99f51e515181",
+    "title": "M4.7 earthquake, 8 km N of La Tronosa, Panama",
     "country": "Panama",
     "city": null,
     "category": "hazard",
     "severity": 4,
     "confidence": "A1",
-    "time": "2026-10-09T23:54:22.924000+00:00"
+    "time": "2026-10-10T03:56:17.471000+00:00"
    },
    {
     "id": "7d9a2d8ee8c0",
@@ -117,6 +116,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-10T10:11:20+00:00"
+   },
+   {
+    "id": "e22b1ecae8f2",
+    "title": "M5.0 earthquake, 3 km NW of Flores, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T01:50:52.299000+00:00"
    },
    {
     "id": "2b8cd6695497",
@@ -167,16 +176,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-10T10:35:11.922000+00:00"
-   },
-   {
-    "id": "1c40cda17b88",
-    "title": "Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil",
-    "country": "Brazil",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T09:45:14+00:00"
    }
   ],
   "Eastern Europe": [
@@ -261,6 +260,78 @@
     "time": "2026-10-10T12:27:49+00:00"
    }
   ],
+  "East & SE Asia": [
+   {
+    "id": "2a62f8dc28cf",
+    "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+    "country": "Myanmar",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-10T22:13:08+00:00"
+   },
+   {
+    "id": "e3a2af6241c2",
+    "title": "US lifts sanctions on daughter of military-linked Myanmar businessman",
+    "country": "Myanmar",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-10T07:50:59+00:00"
+   },
+   {
+    "id": "13f3862167c2",
+    "title": "Green forest fire notification in Mongolia, China",
+    "country": "Mongolia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-10T23:00:42+00:00"
+   },
+   {
+    "id": "158f5daf7ff5",
+    "title": "M4.5 earthquake, 171 km SSW of Pagar Alam, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-10T21:38:09.130000+00:00"
+   },
+   {
+    "id": "bcc64de29c17",
+    "title": "Philippines volcano erupts, creating 6km-high ash cloud",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-10T20:37:17+00:00"
+   },
+   {
+    "id": "4493513203a4",
+    "title": "M4.6 earthquake, 31 km SE of Vanimo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-10T09:42:58.899000+00:00"
+   },
+   {
+    "id": "67eca6596ee3",
+    "title": "M5.0 earthquake, 141 km E of Bitung, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-10T05:32:01.552000+00:00"
+   }
+  ],
   "Western Europe": [
    {
     "id": "84cdd6ec5520",
@@ -343,130 +414,6 @@
     "time": "2026-10-10T07:31:34+00:00"
    }
   ],
-  "East & SE Asia": [
-   {
-    "id": "e3a2af6241c2",
-    "title": "US lifts sanctions on daughter of military-linked Myanmar businessman",
-    "country": "Myanmar",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-10T07:50:59+00:00"
-   },
-   {
-    "id": "13f3862167c2",
-    "title": "Green forest fire notification in Mongolia, China",
-    "country": "Mongolia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-10T23:00:42+00:00"
-   },
-   {
-    "id": "158f5daf7ff5",
-    "title": "M4.5 earthquake, 171 km SSW of Pagar Alam, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-10T21:38:09.130000+00:00"
-   },
-   {
-    "id": "bcc64de29c17",
-    "title": "Philippines volcano erupts, creating 6km-high ash cloud",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T20:37:17+00:00"
-   },
-   {
-    "id": "4493513203a4",
-    "title": "M4.6 earthquake, 31 km SE of Vanimo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-10T09:42:58.899000+00:00"
-   },
-   {
-    "id": "67eca6596ee3",
-    "title": "M5.0 earthquake, 141 km E of Bitung, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-10T05:32:01.552000+00:00"
-   },
-   {
-    "id": "325572dd35c4",
-    "title": "M5.1 earthquake, 133 km WNW of Ternate, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-10T02:00:42.634000+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "afb3967ccf10",
-    "title": "Intercommunal clashes kill 71 people in South Sudan",
-    "country": "South Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-10T00:01:32+00:00"
-   },
-   {
-    "id": "b6a99a3fdc03",
-    "title": "South Africa: Anti-migrant unrest flares in Durban",
-    "country": "South Africa",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T16:12:21+00:00"
-   },
-   {
-    "id": "ff778352fe95",
-    "title": "Kenya: Ebola tests negative as contact tracing continues",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T16:10:53+00:00"
-   },
-   {
-    "id": "915697a161fe",
-    "title": "Kenyan health ministry urges churches to raise awareness about Ebola",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-10T13:52:55+00:00"
-   },
-   {
-    "id": "ebc88a61f80b",
-    "title": "Heightened security at anti-immigrant hotspots in South Africa",
-    "country": "South Africa",
-    "city": "Johannesburg",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-10T07:05:59+00:00"
-   }
-  ],
   "South Asia": [
    {
     "id": "8b6577fed39f",
@@ -509,6 +456,16 @@
     "time": "2026-10-10T16:14:56+00:00"
    },
    {
+    "id": "af09741e5309",
+    "title": "India detains 'cockroach' movement leaders in bid to thwart election protest",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-10T15:37:28+00:00"
+   },
+   {
     "id": "ec42445de7f6",
     "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
     "country": "India",
@@ -537,16 +494,58 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-10T09:18:11+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "dea4f469f134",
+    "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T00:23:50+00:00"
    },
    {
-    "id": "0c8746d2ff7d",
-    "title": "India cracks down on youth protests as anger grows against Modi and election chief",
-    "country": "India",
-    "city": "Delhi",
+    "id": "b6a99a3fdc03",
+    "title": "South Africa: Anti-migrant unrest flares in Durban",
+    "country": "South Africa",
+    "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-10T08:31:28+00:00"
+    "time": "2026-10-10T16:12:21+00:00"
+   },
+   {
+    "id": "ff778352fe95",
+    "title": "Kenya: Ebola tests negative as contact tracing continues",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-10T16:10:53+00:00"
+   },
+   {
+    "id": "915697a161fe",
+    "title": "Kenyan health ministry urges churches to raise awareness about Ebola",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-10T13:52:55+00:00"
+   },
+   {
+    "id": "ebc88a61f80b",
+    "title": "Heightened security at anti-immigrant hotspots in South Africa",
+    "country": "South Africa",
+    "city": "Johannesburg",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-10T07:05:59+00:00"
    }
   ],
   "North America": [
@@ -599,16 +598,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-10T03:38:05+00:00"
-   },
-   {
-    "id": "3ce7eec48759",
-    "title": "Trump fumes over Nobel peace prize snub and criticizes Norway",
-    "country": "United States",
-    "city": "New York",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T01:57:03+00:00"
    }
   ],
   "Oceania": [

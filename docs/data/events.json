@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-10T23:34:04.686368+00:00",
+ "generated": "2026-10-11T02:12:31.552155+00:00",
  "sample": false,
- "count": 421,
+ "count": 426,
  "events": [
   {
    "title": "Yemen - Level 4: Do Not Travel",
@@ -403,6 +403,34 @@
    "flag": "🇮🇱",
    "region": "Middle East & N. Africa",
    "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 8 km N of La Tronosa, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cb",
+   "time": "2026-10-10T03:56:17.471000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.5141,
+   "lon": -80.5849,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cb",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T02:12:31.552155+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "99f51e515181",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
    "watch": []
   },
   {
@@ -1279,6 +1307,67 @@
    "watch": []
   },
   {
+   "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-10T22:13:08+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Myanmar",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T02:12:31.552155+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2a62f8dc28cf",
+   "flag": "🇲🇲",
+   "region": "East & SE Asia",
+   "baseline": 4.79,
+   "watch": []
+  },
+  {
+   "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+   "time": "2026-10-10T21:32:53+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Saudi Arabia",
+   "city": "Riyadh",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+     "tier": "B"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T02:12:31.552155+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "223ee7db99cc",
+   "flag": "🇸🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
    "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
    "summary": "",
    "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
@@ -1332,6 +1421,34 @@
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
+   "time": "2026-10-10T20:14:01+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Palestine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T02:12:31.552155+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "81573e54a114",
+   "flag": "🇵🇸",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.42,
    "watch": []
   },
   {
@@ -4144,34 +4261,6 @@
    "watch": []
   },
   {
-   "title": "Why is Guantanamo prison still open?",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss",
-   "time": "2026-10-08T01:49:11+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Afghanistan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T08:00:40.171451+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "8b31e36e19a9",
-   "flag": "🇦🇫",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.8,
-   "watch": []
-  },
-  {
    "title": "‘Palestinians will bear the cost’: UK consulate in East Jerusalem prepares to shut its doors",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel",
@@ -4620,6 +4709,90 @@
    "watch": []
   },
   {
+   "title": "M5.0 earthquake, 3 km NW of Flores, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
+   "time": "2026-10-11T01:50:52.299000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.5139,
+   "lon": -80.4283,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T02:12:31.552155+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e22b1ecae8f2",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
+   "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+   "time": "2026-10-11T00:23:50+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "DRC",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T02:12:31.552155+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "dea4f469f134",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
+   "watch": []
+  },
+  {
+   "title": "Five people shot and killed in apparent murder-suicide, Georgia police say",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
+   "time": "2026-10-11T00:01:55+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Georgia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T02:12:31.552155+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b5c53f96ef4d",
+   "flag": "🇬🇪",
+   "region": "Eastern Europe",
+   "baseline": 2.39,
+   "watch": []
+  },
+  {
    "title": "Green forest fire notification in Mongolia, China",
    "summary": "On 09/10/2026, a forest fire started in Mongolia, China, until 10/10/2026.",
    "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032703",
@@ -4927,6 +5100,34 @@
    "flag": "🇵🇦",
    "region": "Latin America & Caribbean",
    "baseline": 2.22,
+   "watch": []
+  },
+  {
+   "title": "India detains 'cockroach' movement leaders in bid to thwart election protest",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261010-india-detains-cockroach-movement-leaders-in-bid-to-thwart-election-protest",
+   "time": "2026-10-10T15:37:28+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": "Delhi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261010-india-detains-cockroach-movement-leaders-in-bid-to-thwart-election-protest",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-11T02:12:31.552155+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "af09741e5309",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
    "watch": []
   },
   {
@@ -6077,6 +6278,34 @@
    "watch": []
   },
   {
+   "title": "M5.1 earthquake, 1 km NNE of Tonosí, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu",
+   "time": "2026-10-10T02:26:32.740000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.4178,
+   "lon": -80.4348,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T02:12:31.552155+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "c380f53c234e",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
    "title": "M5.1 earthquake, 133 km WNW of Ternate, Indonesia",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
@@ -6326,6 +6555,34 @@
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Bolivia",
+   "summary": "On 07/10/2026, a forest fire started in Bolivia, until 10/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032686",
+   "time": "2026-10-09T23:01:34+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Bolivia",
+   "city": null,
+   "lat": -13.17332499618309,
+   "lon": -63.131433192326796,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032686",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-11T02:12:31.552155+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "92d88aef9f73",
+   "flag": "🇧🇴",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.09,
    "watch": []
   },
   {
@@ -8058,125 +8315,31 @@
    "watch": []
   },
   {
-   "title": "India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/09/india-dehli-cockroach-party-weekend-demonstration-mass-detention",
-   "time": "2026-10-09T01:55:34+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": "Delhi",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/09/india-dehli-cockroach-party-weekend-demonstration-mass-detention",
-     "tier": "B"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/indias-cockroach-party-says-members-detained-ahead-of-protest?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T07:24:10.537441+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "9515cc921066",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "ICE agent shoots man in New York City with five-year-old reportedly in car",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent",
-   "time": "2026-10-09T01:50:05+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "United States",
-   "city": "New York",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent",
-     "tier": "B"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T07:24:10.537441+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "2e1c49758c09",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
-   "time": "2026-10-09T01:15:49+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Spain",
+   "title": "Green forest fire notification in Brazil",
+   "summary": "On 28/09/2026, a forest fire started in Brazil, until 09/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032662",
+   "time": "2026-10-09T03:07:26+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Brazil",
    "city": null,
-   "lat": null,
-   "lon": null,
+   "lat": -2.490974362271273,
+   "lon": -56.131357571515224,
    "severity": 2,
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
-     "tier": "B"
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032662",
+     "tier": "A"
     }
    ],
-   "first_seen": "2026-10-09T07:24:10.537441+00:00",
-   "confidence": "B3",
+   "first_seen": "2026-10-11T02:12:31.552155+00:00",
+   "confidence": "A1",
    "corroboration": 1,
-   "id": "f17598cb26e1",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Hegseth falsely claims Obama called 2009 Fort Hood attack ‘workplace violence’ – US politics live",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-   "time": "2026-10-09T00:42:14+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Georgia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T01:00:59.271592+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9b1653052fbf",
-   "flag": "🇬🇪",
-   "region": "Eastern Europe",
-   "baseline": 2.39,
+   "id": "b81a60a934db",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
    "watch": []
   },
   {
@@ -9017,34 +9180,6 @@
    "flag": "🇮🇩",
    "region": "East & SE Asia",
    "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites",
-   "time": "2026-10-08T02:05:33+00:00",
-   "tier": "B",
-   "category": "cyber",
-   "country": "Australia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T08:00:40.171451+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "733f40ba7b9b",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
    "watch": []
   },
   {
