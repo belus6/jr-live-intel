@@ -1,17 +1,29 @@
 {
- "generated": "2026-10-11T19:43:43.869349+00:00",
+ "generated": "2026-10-11T23:12:47.570028+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 42,
-  "3": 37,
-  "4": 4,
+  "2": 40,
+  "3": 35,
+  "4": 6,
   "5": 0
  },
- "watch_hits": [],
+ "watch_hits": [
+  "c81e178e5aab"
+ ],
  "regions": {
   "Middle East & N. Africa": [
+   {
+    "id": "c81e178e5aab",
+    "title": "Two killed near Israeli-occupied area in south Lebanon",
+    "country": "Lebanon",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-11T20:46:45+00:00"
+   },
    {
     "id": "8e69315d0585",
     "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
@@ -43,14 +55,14 @@
     "time": "2026-10-11T10:45:15+00:00"
    },
    {
-    "id": "223ee7db99cc",
-    "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
+    "id": "717bef8d7360",
+    "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+    "country": "Sudan",
+    "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B1",
-    "time": "2026-10-10T21:32:53+00:00"
+    "confidence": "B3",
+    "time": "2026-10-11T20:44:17+00:00"
    },
    {
     "id": "1535b15ba382",
@@ -81,16 +93,88 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-11T14:25:03+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "1341d0412735",
+    "title": "Pakistan suspends Imran Khan’s party-led provincial government",
+    "country": "Pakistan",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-11T20:21:13+00:00"
    },
    {
-    "id": "2b3d3458c212",
-    "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
+    "id": "09c49d1b31c2",
+    "title": "Nepal orders evacuations after landslide triggers Budhi Gandaki flash flood",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
     "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-11T17:37:10+00:00"
+   },
+   {
+    "id": "c2883f0c91e4",
+    "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-11T11:11:42+00:00"
+   },
+   {
+    "id": "1c6fc3bbe198",
+    "title": "At least five people missing as flash floods in Nepal sweep away houses",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-11T13:23:02+00:00"
+    "time": "2026-10-11T16:00:48+00:00"
+   },
+   {
+    "id": "48b0d415aa8e",
+    "title": "India’s crackdown on youth protesters: What next?",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T13:06:00+00:00"
+   },
+   {
+    "id": "10f71c706afa",
+    "title": "Meet the man helping India’s detained protesters get home",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T12:36:35+00:00"
+   },
+   {
+    "id": "9e1c5432c358",
+    "title": "Buildings swept away as flash floods hit central Nepal",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T10:34:02+00:00"
+   },
+   {
+    "id": "3399c82c2b99",
+    "title": "Modi is in trouble",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T10:31:45+00:00"
    }
   ],
   "East & SE Asia": [
@@ -105,14 +189,14 @@
     "time": "2026-10-11T14:07:23.188000+00:00"
    },
    {
-    "id": "2a62f8dc28cf",
-    "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-    "country": "Myanmar",
+    "id": "cdcff415fa6e",
+    "title": "M5.3 earthquake, 150 km W of Gorontalo, Indonesia",
+    "country": "Indonesia",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-10T22:13:08+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T21:34:53.822000+00:00"
    },
    {
     "id": "8c25fd02cd62",
@@ -249,8 +333,8 @@
   ],
   "Eastern Europe": [
    {
-    "id": "2271179380b4",
-    "title": "Trump says Russia, Ukraine agree to energy ceasefire – 'news for me', Zelensky says",
+    "id": "27ad10b4ba39",
+    "title": "New Russian strikes follow Trump's announcement of Russia-Ukraine energy ceasefire",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
@@ -259,8 +343,8 @@
     "time": "2026-10-11T14:39:26+00:00"
    },
    {
-    "id": "27ad10b4ba39",
-    "title": "New Russian strikes follow Trump's announcement of Russia-Ukraine energy ceasefire",
+    "id": "2271179380b4",
+    "title": "Trump says Russia, Ukraine agree to energy ceasefire – 'news for me', Zelensky says",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
@@ -277,6 +361,36 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-10-11T14:41:09+00:00"
+   },
+   {
+    "id": "b79d870582cf",
+    "title": "Watch: What's behind Trump's energy ceasefire claim?",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-11T20:55:02+00:00"
+   },
+   {
+    "id": "9d404f00888c",
+    "title": "Russian drone strike kills 3 service members in Ivano-Frankivsk, wounds 3 others",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-11T20:40:00+00:00"
+   },
+   {
+    "id": "b10ebb7e2ba0",
+    "title": "Zelenskyy welcomes US-announced energy ceasefire",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-11T20:28:46+00:00"
    },
    {
     "id": "4695098a0547",
@@ -297,118 +411,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-11T18:36:54+00:00"
-   },
-   {
-    "id": "78a9368425a1",
-    "title": "'To keep oil prices from rising' — Russian lawmaker questions Trump’s energy ceasefire claim",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-11T18:35:42+00:00"
-   },
-   {
-    "id": "1585062a75c8",
-    "title": "Russia struck Kharkiv's power plant shortly after Trump announced 'energy ceasefire'",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-11T17:21:00+00:00"
-   },
-   {
-    "id": "797cff816e42",
-    "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-11T16:04:20+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "09c49d1b31c2",
-    "title": "Nepal orders evacuations after landslide triggers Budhi Gandaki flash flood",
-    "country": "Nepal",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-11T17:37:10+00:00"
-   },
-   {
-    "id": "c2883f0c91e4",
-    "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-11T11:11:42+00:00"
-   },
-   {
-    "id": "1c6fc3bbe198",
-    "title": "At least five people missing as flash floods in Nepal sweep away houses",
-    "country": "Nepal",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T16:00:48+00:00"
-   },
-   {
-    "id": "48b0d415aa8e",
-    "title": "India’s crackdown on youth protesters: What next?",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T13:06:00+00:00"
-   },
-   {
-    "id": "10f71c706afa",
-    "title": "Meet the man helping India’s detained protesters get home",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T12:36:35+00:00"
-   },
-   {
-    "id": "9e1c5432c358",
-    "title": "Buildings swept away as flash floods hit central Nepal",
-    "country": "Nepal",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T10:34:02+00:00"
-   },
-   {
-    "id": "3399c82c2b99",
-    "title": "Modi is in trouble",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T10:31:45+00:00"
-   },
-   {
-    "id": "e87b77a87244",
-    "title": "Delhi sees more protests as 'cockroach' group's leaders released",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T08:50:21+00:00"
    }
   ],
   "Western Europe": [
@@ -465,6 +467,16 @@
     "time": "2026-10-11T09:18:48+00:00"
    },
    {
+    "id": "3087c4b6fa6f",
+    "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T19:31:36+00:00"
+   },
+   {
     "id": "a282c0085453",
     "title": "Trump urges John Fetterman to switch parties: ‘I’d love to see him as a Republican’",
     "country": "United States",
@@ -483,19 +495,19 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-11T04:10:08+00:00"
-   },
-   {
-    "id": "9db3f4d12f1b",
-    "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-10T21:10:06+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "e95eb0ce9ad2",
+    "title": "Boy, 13, charged with murder after man stabbed to death in Sydney’s west",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-11T22:39:10+00:00"
+   },
    {
     "id": "35c25d019d79",
     "title": "M4.7 earthquake, 156 km ESE of Neiafu, Tonga",
@@ -528,6 +540,16 @@
    }
   ],
   "Sub-Saharan Africa": [
+   {
+    "id": "bc6b4e788d75",
+    "title": "Green forest fire notification in Namibia",
+    "country": "Namibia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-11T15:07:50+00:00"
+   },
    {
     "id": "4ef24d8e8594",
     "title": "Green forest fire notification in Zambia",
