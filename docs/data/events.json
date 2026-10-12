@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T23:12:47.570028+00:00",
+ "generated": "2026-10-12T02:27:13.906763+00:00",
  "sample": false,
  "count": 410,
  "events": [
@@ -274,11 +274,16 @@
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
      "tier": "B"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-11T23:12:47.570028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B2",
+   "corroboration": 2,
    "id": "1341d0412735",
    "flag": "🇵🇰",
    "region": "South Asia",
@@ -1131,6 +1136,62 @@
    "watch": []
   },
   {
+   "title": "North Korea fires multiple ballistic missiles off east coast, Seoul says",
+   "summary": "",
+   "url": "https://www.france24.com/en/asia-pacific/20261012-north-korea-ballistic-missiles-sea-japan-seoul",
+   "time": "2026-10-12T01:54:19+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "South Korea",
+   "city": "Seoul",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261012-north-korea-ballistic-missiles-sea-japan-seoul",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-12T02:27:13.906763+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "cb7d892cdd3c",
+   "flag": "🇰🇷",
+   "region": "East & SE Asia",
+   "baseline": 1.36,
+   "watch": []
+  },
+  {
+   "title": "Airstrikes kill dozens of gold miners on Egypt-Sudan border, rights group says",
+   "summary": "",
+   "url": "https://www.france24.com/en/africa/20261012-egypt-sudan-border-airstrikes-gold-miners-killed",
+   "time": "2026-10-12T01:28:27+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Egypt",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/africa/20261012-egypt-sudan-border-airstrikes-gold-miners-killed",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-12T02:27:13.906763+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "fceeaa45275d",
+   "flag": "🇪🇬",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.82,
+   "watch": []
+  },
+  {
    "title": "Watch: What's behind Trump's energy ceasefire claim?",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
@@ -1293,6 +1354,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "50787e6d8a8d",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – as it happened",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+   "time": "2026-10-11T18:36:54+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": "Moscow",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-12T02:27:13.906763+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8fc8808542e2",
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
@@ -1516,11 +1605,16 @@
      "name": "Deutsche Welle",
      "url": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-world-4025-rdf",
      "tier": "B"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-11T15:32:51.277595+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
+   "confidence": "B1",
+   "corroboration": 3,
    "id": "0443a3168438",
    "flag": "🇷🇺",
    "region": "Eastern Europe",
@@ -4237,34 +4331,6 @@
    "watch": []
   },
   {
-   "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
-   "time": "2026-10-09T00:12:18+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T01:00:59.271592+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f5546ece23d5",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
    "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
    "summary": "",
    "url": "https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss",
@@ -4949,6 +5015,90 @@
    "flag": "🇬🇳",
    "region": "Sub-Saharan Africa",
    "baseline": 3.85,
+   "watch": []
+  },
+  {
+   "title": "M4.8 earthquake, 56 km E of Yairipok, India",
+   "summary": "Depth 78 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr",
+   "time": "2026-10-12T01:28:20.094000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "India",
+   "city": null,
+   "lat": 24.7203,
+   "lon": 94.6022,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-12T02:27:13.906763+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "6c13debae873",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Bridge washed away by torrent of water in Nepal",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
+   "time": "2026-10-12T01:24:26+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Nepal",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-12T02:27:13.906763+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3f2a8fec9468",
+   "flag": "🇳🇵",
+   "region": "South Asia",
+   "baseline": 2.76,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 103 km SSW of La Libertad, El Salvador",
+   "summary": "Depth 35 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1n6",
+   "time": "2026-10-11T23:20:35.800000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Brazil",
+   "city": null,
+   "lat": 12.6577,
+   "lon": -89.7633,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1n6",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-12T02:27:13.906763+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "c090c16c79e0",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
    "watch": []
   },
   {
@@ -7786,34 +7936,6 @@
    "watch": []
   },
   {
-   "title": "Trump fumes over Nobel peace prize snub and criticizes Norway",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize",
-   "time": "2026-10-10T01:57:03+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "United States",
-   "city": "New York",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-10T04:42:04.828766+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3ce7eec48759",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
    "title": "Dual quakes devastate southern Panama",
    "summary": "",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
@@ -7951,34 +8073,6 @@
    "flag": "🇵🇦",
    "region": "Latin America & Caribbean",
    "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-09T23:24:33+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-10T04:42:04.828766+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4e66b3bc9d5e",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -10484,90 +10578,6 @@
    "flag": "🇲🇽",
    "region": "North America",
    "baseline": 3.32,
-   "watch": []
-  },
-  {
-   "title": "M4.8 earthquake, 57 km E of Petropavlovsk-Kamchatsky, Russia",
-   "summary": "Depth 62 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0mu",
-   "time": "2026-10-07T00:30:08.365000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 52.9685,
-   "lon": 159.4666,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0mu",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-07T21:48:03.359095+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "eb23d93311d6",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 37 km ESE of Iwaki, Japan",
-   "summary": "Depth 53 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0mr",
-   "time": "2026-10-07T00:22:41.953000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Japan",
-   "city": null,
-   "lat": 36.9504,
-   "lon": 141.2803,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0mr",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-07T09:22:09.535922+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "3f7beb2ccf7b",
-   "flag": "🇯🇵",
-   "region": "East & SE Asia",
-   "baseline": 1.07,
-   "watch": []
-  },
-  {
-   "title": "LA and San Diego residents ‘horrified’ by Trump suggesting Iran bomb them",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-iran-threat-san-diego-los-angeles-reaction",
-   "time": "2026-10-06T23:45:02+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "United States",
-   "city": "Los Angeles",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-iran-threat-san-diego-los-angeles-reaction",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-07T02:43:24.985850+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "55fd5cc04dee",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
    "watch": []
   },
   {
