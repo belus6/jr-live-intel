@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-13T01:33:05.805082+00:00",
+ "generated": "2026-10-13T08:28:35.162082+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 41,
-  "3": 45,
-  "4": 7,
+  "2": 44,
+  "3": 47,
+  "4": 6,
   "5": 2
  },
  "watch_hits": [],
@@ -21,6 +21,36 @@
     "severity": 5,
     "confidence": "B1",
     "time": "2026-10-12T15:42:37+00:00"
+   },
+   {
+    "id": "15e3e68f6b7f",
+    "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T07:45:07+00:00"
+   },
+   {
+    "id": "4a25ce552209",
+    "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
+    "country": "Iraq",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T05:02:57+00:00"
+   },
+   {
+    "id": "b029afee874c",
+    "title": "Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
+    "country": "Saudi Arabia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T04:09:52+00:00"
    },
    {
     "id": "8cfb36880292",
@@ -61,36 +91,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-12T15:30:08+00:00"
-   },
-   {
-    "id": "953ee0b0b5b7",
-    "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
-    "country": "Oman",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T15:19:23+00:00"
-   },
-   {
-    "id": "136ae9609792",
-    "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T09:38:03+00:00"
-   },
-   {
-    "id": "83ad4063627f",
-    "title": "Saudi Arabia: Riyadh airport struck again by Yemen's Houthis",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T09:21:12+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -113,6 +113,36 @@
     "severity": 4,
     "confidence": "A1",
     "time": "2026-10-12T13:17:18.746000+00:00"
+   },
+   {
+    "id": "1334e31984d1",
+    "title": "M4.7 earthquake, 14 km WNW of Río Grande, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T06:39:04.944000+00:00"
+   },
+   {
+    "id": "8f255b7fc894",
+    "title": "Green flood alert in Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T05:56:30+00:00"
+   },
+   {
+    "id": "93f9e2cb0fe6",
+    "title": "Green flood alert in Costa Rica",
+    "country": "Costa Rica",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T05:55:58+00:00"
    },
    {
     "id": "abe9acdac860",
@@ -143,16 +173,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-12T18:17:18.852000+00:00"
-   },
-   {
-    "id": "8cf807d08309",
-    "title": "M4.5 earthquake, 7 km ENE of Lajamina, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T02:22:29.883000+00:00"
    }
   ],
   "Western Europe": [
@@ -165,6 +185,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-12T20:23:04+00:00"
+   },
+   {
+    "id": "09b3a6317277",
+    "title": "Belgium: 9 minors arrested as clashes erupt near Brussels-Midi",
+    "country": "Belgium",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-13T05:55:54+00:00"
    },
    {
     "id": "de11dc72f967",
@@ -187,14 +217,14 @@
     "time": "2026-10-12T18:51:18+00:00"
    },
    {
-    "id": "ee4d689eb981",
-    "title": "Roman fort found in Wales could prove myth of emperor’s camp is real",
-    "country": "United Kingdom",
+    "id": "2bc942cc3e77",
+    "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
+    "country": "France",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T07:00:48+00:00"
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-12T21:27:53+00:00"
    },
    {
     "id": "31f360622c37",
@@ -207,34 +237,24 @@
     "time": "2026-10-12T16:38:36+00:00"
    },
    {
-    "id": "afdf2e9358e4",
-    "title": "Body found in stockyard trough confirmed to be missing 73-year-old Yvonne Whear",
+    "id": "a041ca3fa06d",
+    "title": "Live: Greta Thunberg joins French student protests ahead of nationwide rallies",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T06:44:27+00:00"
+   },
+   {
+    "id": "c3774b7d0cb6",
+    "title": "Coastal erosion in England has claimed at least 183 homes in past 16 years",
     "country": "United Kingdom",
     "city": null,
-    "category": "crime",
+    "category": "hazard",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-13T00:17:37+00:00"
-   },
-   {
-    "id": "2bc942cc3e77",
-    "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
-    "country": "France",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T21:27:53+00:00"
-   },
-   {
-    "id": "c35804e3530c",
-    "title": "Qantas flight grounded after bedbug outbreak",
-    "country": "Italy",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T21:01:45+00:00"
+    "time": "2026-10-13T06:00:17+00:00"
    }
   ],
   "Eastern Europe": [
@@ -259,64 +279,64 @@
     "time": "2026-10-12T08:29:54+00:00"
    },
    {
-    "id": "d920e418b870",
-    "title": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
+    "id": "a09fc005b5fb",
+    "title": "Two ships hit by drones of unknown origin off Bulgarian coast – Europe live",
+    "country": "Bulgaria",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T07:58:01+00:00"
+   },
+   {
+    "id": "f525e83028a4",
+    "title": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
+    "country": "Bulgaria",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T07:36:38+00:00"
+   },
+   {
+    "id": "73c4def73464",
+    "title": "General Staff: Russia has lost 1,555,700 troops in Ukraine since Feb. 24, 2022",
     "country": "Ukraine",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B1",
-    "time": "2026-10-12T06:41:57+00:00"
+    "confidence": "C4",
+    "time": "2026-10-13T06:53:39+00:00"
    },
    {
-    "id": "c2fc44b4cd35",
-    "title": "UK sanctions Dutch businessman exposed by Kyiv Independent for shipping EU machinery to Russian missile suppliers",
+    "id": "6d1343b34a1b",
+    "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T05:02:34+00:00"
+   },
+   {
+    "id": "067ed60e580f",
+    "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T03:30:23+00:00"
+   },
+   {
+    "id": "2630c4d916fc",
+    "title": "Trump says Ukraine, Russia agree to energy strike ceasefire 'because I said they agreed'",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-12T23:39:48+00:00"
-   },
-   {
-    "id": "7848cc70a4c4",
-    "title": "Russian missile attack on Kharkiv injures at least 11, including rescuer",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-12T22:41:24+00:00"
-   },
-   {
-    "id": "f14b5db9b66b",
-    "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T21:43:48+00:00"
-   },
-   {
-    "id": "903b88d5c933",
-    "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T20:17:37+00:00"
-   },
-   {
-    "id": "e7651130f889",
-    "title": "'Increasingly evident' Russia won't accept 'energy ceasefire': Zelensky",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T19:40:05+00:00"
+    "time": "2026-10-13T03:16:54+00:00"
    }
   ],
   "East & SE Asia": [
@@ -331,44 +351,24 @@
     "time": "2026-10-12T14:00:57+00:00"
    },
    {
-    "id": "280465d030b7",
-    "title": "Volcanic eruption is on going for Kanlaon in Philippines",
+    "id": "827075573767",
+    "title": "M4.7 earthquake, 124 km N of Pagudpud, Philippines",
     "country": "Philippines",
     "city": null,
     "category": "hazard",
-    "severity": 4,
+    "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-12T05:58:55+00:00"
+    "time": "2026-10-13T06:01:24.155000+00:00"
    },
    {
-    "id": "6b1a3e58a120",
-    "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-    "country": "China",
+    "id": "d961af26a8f1",
+    "title": "M5.1 earthquake, 119 km SSW of Gambiran Satu, Indonesia",
+    "country": "Indonesia",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T04:58:01+00:00"
-   },
-   {
-    "id": "b3afe0798d48",
-    "title": "North Korea fires multiple ballistic missiles towards the sea",
-    "country": "North Korea",
-    "city": "Pyongyang",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T03:37:12+00:00"
-   },
-   {
-    "id": "cb7d892cdd3c",
-    "title": "North Korea fires multiple ballistic missiles off east coast, Seoul says",
-    "country": "South Korea",
-    "city": "Seoul",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T01:54:19+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T04:00:15.768000+00:00"
    },
    {
     "id": "ba0b36c38f6d",
@@ -381,24 +381,14 @@
     "time": "2026-10-12T11:58:08.604000+00:00"
    },
    {
-    "id": "f8b0d460fc69",
-    "title": "Green flood alert in Indonesia",
+    "id": "2082c71fae6c",
+    "title": "M4.6 earthquake, 122 km SE of Bitung, Indonesia",
     "country": "Indonesia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-12T05:37:16+00:00"
-   },
-   {
-    "id": "2943f8b24b27",
-    "title": "M4.6 earthquake, 25 km SSE of Blitar, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T05:28:09.720000+00:00"
+    "time": "2026-10-12T08:59:14.629000+00:00"
    }
   ],
   "South Asia": [
@@ -443,14 +433,34 @@
     "time": "2026-10-12T16:01:54+00:00"
    },
    {
-    "id": "de7be161bc42",
-    "title": "Delhi police shut metro stations ahead of election protest march",
+    "id": "ee2d89da7f99",
+    "title": "India 'cockroach' leaders detained after entering barricaded protest site",
     "country": "India",
     "city": "Delhi",
     "category": "unrest",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-12T05:51:48+00:00"
+    "confidence": "B3",
+    "time": "2026-10-13T07:31:10+00:00"
+   },
+   {
+    "id": "139e2fa2fc1a",
+    "title": "Shock, anger and a crackdown: why a contentious electoral revision has sparked outrage",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T06:30:16+00:00"
+   },
+   {
+    "id": "c6c168f4c3a5",
+    "title": "More than 100 foreign trekkers stranded by floods in Nepal’s Gorkha region",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T05:01:14+00:00"
    },
    {
     "id": "3e1c3fac010a",
@@ -461,26 +471,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-12T14:43:58+00:00"
-   },
-   {
-    "id": "64da58ff3b59",
-    "title": "Indian opposition figures lead march to police barricades around supreme court",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T14:23:59+00:00"
-   },
-   {
-    "id": "663e985a9d15",
-    "title": "UN aid operation underway in Nepal following fresh floods",
-    "country": "Nepal",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T12:00:00+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -505,16 +495,6 @@
     "time": "2026-10-12T13:34:07+00:00"
    },
    {
-    "id": "eaaf9cca66fa",
-    "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T04:00:56+00:00"
-   },
-   {
     "id": "d5782c437ff6",
     "title": "Green forest fire notification in Botswana",
     "country": "Botswana",
@@ -535,48 +515,6 @@
     "time": "2026-10-12T14:20:38+00:00"
    }
   ],
-  "Oceania": [
-   {
-    "id": "a57a8aedd5e8",
-    "title": "M5.5 earthquake, 122 km W of Neiafu, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-12T04:38:12.859000+00:00"
-   },
-   {
-    "id": "d04d093432ae",
-    "title": "Solomon Islands",
-    "country": "Solomon Islands",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T11:44:41+00:00"
-   },
-   {
-    "id": "e6c3eaa43393",
-    "title": "M4.5 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T05:15:50.307000+00:00"
-   },
-   {
-    "id": "8fe962e0ce59",
-    "title": "Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T04:54:58+00:00"
-   }
-  ],
   "North America": [
    {
     "id": "c9892857c8ab",
@@ -585,8 +523,18 @@
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
+    "confidence": "B2",
     "time": "2026-10-12T23:09:50+00:00"
+   },
+   {
+    "id": "98309ab9ea39",
+    "title": "Latin American organised crime ‘may operate in 16 European countries’",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T07:00:18+00:00"
    },
    {
     "id": "79a9cbe0e578",
@@ -617,16 +565,18 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-12T15:03:07+00:00"
-   },
+   }
+  ],
+  "Oceania": [
    {
-    "id": "c2c753a70227",
-    "title": "Hurricane Simon batters Mexico's Pacific Coast",
-    "country": "Mexico",
+    "id": "d04d093432ae",
+    "title": "Solomon Islands",
+    "country": "Solomon Islands",
     "city": null,
-    "category": "hazard",
+    "category": "advisory",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T06:50:00+00:00"
+    "confidence": "A1",
+    "time": "2026-10-12T11:44:41+00:00"
    }
   ]
  }
