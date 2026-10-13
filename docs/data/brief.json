@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-13T16:20:59.584623+00:00",
+ "generated": "2026-10-13T21:25:44.835869+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 52,
-  "3": 53,
-  "4": 2,
+  "2": 59,
+  "3": 49,
+  "4": 8,
   "5": 1
  },
  "watch_hits": [],
@@ -23,14 +23,14 @@
     "time": "2026-10-12T21:40:51+00:00"
    },
    {
-    "id": "7741325f7acc",
-    "title": "M4.8 earthquake, 25 km W of Río Grande, Panama",
+    "id": "cdc22b49e6f6",
+    "title": "M4.5 earthquake, 21 km WNW of Río Grande, Panama",
     "country": "Panama",
     "city": null,
     "category": "hazard",
     "severity": 4,
     "confidence": "A1",
-    "time": "2026-10-12T20:05:25.236000+00:00"
+    "time": "2026-10-12T21:43:30.326000+00:00"
    },
    {
     "id": "f89f0f8fc400",
@@ -41,6 +41,16 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-13T14:59:30+00:00"
+   },
+   {
+    "id": "0176d4b4c684",
+    "title": "M4.5 earthquake, 26 km SSW of Zapotillo, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T12:51:32.169000+00:00"
    },
    {
     "id": "1334e31984d1",
@@ -81,28 +91,182 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-12T23:45:13.532000+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "d477a33a1f09",
+    "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B2",
+    "time": "2026-10-13T15:54:55+00:00"
    },
    {
-    "id": "abe9acdac860",
-    "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI>=VII).",
-    "country": "Panama",
+    "id": "04a7c5ac3576",
+    "title": "Why Trump’s ‘energy ceasefire’ upset Europe",
+    "country": "Ukraine",
     "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T23:34:20+00:00"
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T18:07:05+00:00"
+   },
+   {
+    "id": "fb3cb59f9599",
+    "title": "Trump refuses to accuse Russia of breaking energy ceasefire, says Ukraine 'hit sites the day before'",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-13T17:58:36+00:00"
+   },
+   {
+    "id": "30714540c4f1",
+    "title": "Ukraine war latest: Russian missiles slam central Kyiv before air raid alert sounds",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-13T17:58:11+00:00"
+   },
+   {
+    "id": "f9c2d3abccc9",
+    "title": "No, Ukraine's strikes on Yandex data centers didn't cripple Russian influence ops",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-13T17:31:46+00:00"
+   },
+   {
+    "id": "8a4a7238c3e6",
+    "title": "How the Russian army is learning from Ukraine and NATO",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-13T16:33:32+00:00"
+   },
+   {
+    "id": "a62263f773d9",
+    "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T14:52:22+00:00"
+   },
+   {
+    "id": "62826718b97d",
+    "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+    "country": "Bulgaria",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T14:51:59+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "693f837b491b",
+    "title": "Far-right and Iran add to mix of terror threats UK faces – not to mention AI",
+    "country": "Iran",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-13T17:58:40+00:00"
+   },
+   {
+    "id": "9c664c38209f",
+    "title": "Syria: Israeli army accused of arbitrary arrests and detention",
+    "country": "Syria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-13T17:28:23+00:00"
+   },
+   {
+    "id": "29a4e2979b65",
+    "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
+    "country": "Yemen",
+    "city": null,
+    "category": "health",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-13T17:18:45+00:00"
+   },
+   {
+    "id": "7b97887d6ab2",
+    "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T20:02:15+00:00"
+   },
+   {
+    "id": "67ee3d519b49",
+    "title": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T17:26:08+00:00"
+   },
+   {
+    "id": "0a84b0ccb4cc",
+    "title": "Saudi Arabia's military struggle against Houthi attacks",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T16:11:00+00:00"
+   },
+   {
+    "id": "02cb50bbb7fe",
+    "title": "French embassy in Riyadh tells citizens to avoid Saudi airports targeted by Houthis",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T13:51:23+00:00"
+   },
+   {
+    "id": "351a27902aa7",
+    "title": "Yemeni government launches air strikes on Houthi positions",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T13:47:14+00:00"
    }
   ],
   "Western Europe": [
    {
-    "id": "c49306114132",
-    "title": "Tehran denies involvement in UK Fairford air base incident as Britain summons Iranian ambassador",
+    "id": "79cf0bdf78f9",
+    "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
     "country": "United Kingdom",
     "city": null,
     "category": "terrorism",
     "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-12T20:23:04+00:00"
+    "time": "2026-10-13T15:52:15+00:00"
    },
    {
     "id": "56a35752eb70",
@@ -113,6 +277,26 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-10-13T15:37:32+00:00"
+   },
+   {
+    "id": "4a820fe31a2a",
+    "title": "Trump asks Greece ambassador to resign amid ethics scandal",
+    "country": "Greece",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T20:29:15+00:00"
+   },
+   {
+    "id": "2717632cba6a",
+    "title": "Kimberly Guilfoyle ousted as US ambassador to Greece after alleged misconduct",
+    "country": "Greece",
+    "city": "Athens",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T18:16:17+00:00"
    },
    {
     "id": "76533b32002a",
@@ -145,273 +329,99 @@
     "time": "2026-10-13T05:55:54+00:00"
    },
    {
-    "id": "de11dc72f967",
-    "title": "Paris Motor Show kicks off as China-EU rivalry heats up",
+    "id": "67abb4a4b011",
+    "title": "Student protesters tell police to join them in Paris demonstrations",
     "country": "France",
     "city": "Paris",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T21:03:50+00:00"
-   },
-   {
-    "id": "ab1643e11921",
-    "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T18:51:18+00:00"
-   },
-   {
-    "id": "2bc942cc3e77",
-    "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
-    "country": "France",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-12T21:27:53+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "61fd4ba5c031",
-    "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-    "country": "South Africa",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-10-12T16:46:49+00:00"
-   },
-   {
-    "id": "63ed39a7a1a4",
-    "title": "African Union holds Kigali talks as fighting continues in eastern DRC",
-    "country": "DRC",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T12:40:26+00:00"
-   },
-   {
-    "id": "af09a0993d82",
-    "title": "South Africa deputy police chief resigns amid corruption probe",
-    "country": "South Africa",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-13T09:40:22+00:00"
-   },
-   {
-    "id": "6aa11452e894",
-    "title": "South Africa suspends asylum applications amid renewed anti-immigrant protests",
-    "country": "South Africa",
-    "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T15:15:49+00:00"
-   },
+    "confidence": "B2",
+    "time": "2026-10-13T17:04:12+00:00"
+   }
+  ],
+  "North America": [
    {
-    "id": "34f64faf5bff",
-    "title": "Foot-and-mouth disease spreads to Namibia’s Zambezi Region",
-    "country": "Namibia",
+    "id": "be82710c8792",
+    "title": "Orange notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 22516 .",
+    "country": "Mexico",
     "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-13T09:50:05+00:00"
-   },
-   {
-    "id": "07d98462997d",
-    "title": "Mauritius",
-    "country": "Mauritius",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
+    "category": "hazard",
+    "severity": 4,
     "confidence": "A1",
-    "time": "2026-10-13T09:06:03+00:00"
+    "time": "2026-10-13T15:15:58+00:00"
    },
    {
-    "id": "d5782c437ff6",
-    "title": "Green forest fire notification in Botswana",
-    "country": "Botswana",
+    "id": "c9892857c8ab",
+    "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+    "country": "Mexico",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T19:00:35+00:00"
-   }
-  ],
-  "Eastern Europe": [
+    "confidence": "B2",
+    "time": "2026-10-12T23:09:50+00:00"
+   },
    {
-    "id": "a62263f773d9",
-    "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
-    "country": "Russia",
+    "id": "1f934ed171eb",
+    "title": "Former gang leader sentenced to 40 years to life for Tupac Shakur murder",
+    "country": "United States",
+    "city": "Los Angeles",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T19:57:31+00:00"
+   },
+   {
+    "id": "dc03875c7149",
+    "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
+    "country": "Mexico",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "hazard",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-13T14:52:22+00:00"
+    "time": "2026-10-13T18:25:06+00:00"
    },
    {
-    "id": "62826718b97d",
-    "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-    "country": "Bulgaria",
+    "id": "dd09ec3f2435",
+    "title": "Jury selection begins in hate crimes trial for Buffalo supermarket gunman",
+    "country": "United States",
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T12:14:28+00:00"
+   },
+   {
+    "id": "98309ab9ea39",
+    "title": "Latin American organised crime ‘may operate in 16 European countries’",
+    "country": "United States",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "crime",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-13T14:51:59+00:00"
+    "time": "2026-10-13T07:00:18+00:00"
    },
    {
-    "id": "8f0bb2a80df8",
-    "title": "Letters to the editor: Readers question Trump's Russian diesel deal and US sanctions policy",
-    "country": "Ukraine",
+    "id": "5d1fb96b3344",
+    "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+    "country": "Mexico",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-13T14:00:49+00:00"
-   },
-   {
-    "id": "069be96af182",
-    "title": "As Russian missiles slip through Kyiv's air defenses without warning, officials say US intelligence sharing remains intact. For now",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-13T13:52:03+00:00"
-   },
-   {
-    "id": "ad2fd515286c",
-    "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
+    "category": "hazard",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-13T13:51:50+00:00"
-   },
-   {
-    "id": "7a313ac5f58c",
-    "title": "Russia pounds Ukrainian cities, spares energy targets for first time since Trump 'ceasefire'",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T13:39:15+00:00"
-   },
-   {
-    "id": "e666f645e196",
-    "title": "Ukraine hits Russian Iskander-M ballistic missile maintenance base, General Staff says",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-13T11:49:29+00:00"
-   },
-   {
-    "id": "f6a32b4a9280",
-    "title": "Kyiv stopped attacking Russia's oil refineries, Moscow continues pounding Ukraine's energy grid, Zelensky says",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-13T11:39:53+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "02cb50bbb7fe",
-    "title": "French embassy in Riyadh tells citizens to avoid Saudi airports targeted by Houthis",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T13:51:23+00:00"
-   },
-   {
-    "id": "351a27902aa7",
-    "title": "Yemeni government launches air strikes on Houthi positions",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T13:47:14+00:00"
-   },
-   {
-    "id": "0b6080af66c5",
-    "title": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T12:57:33+00:00"
-   },
-   {
-    "id": "9c1ff8a452af",
-    "title": "Yemeni families’ search for missing loved ones hindered by new fighting",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T12:25:00+00:00"
-   },
-   {
-    "id": "e95d25a622f0",
-    "title": "Sudan army chief al-Burhan orders probe into airstrike that killed 72",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-13T09:54:43+00:00"
-   },
-   {
-    "id": "15e3e68f6b7f",
-    "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T07:45:07+00:00"
-   },
-   {
-    "id": "4a25ce552209",
-    "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
-    "country": "Iraq",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T05:02:57+00:00"
-   },
-   {
-    "id": "b029afee874c",
-    "title": "Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
-    "country": "Saudi Arabia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T04:09:52+00:00"
+    "time": "2026-10-13T04:29:46+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "f1914c67b5f7",
+    "title": "M5.3 earthquake, 122 km S of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-13T14:36:10.660000+00:00"
+   },
    {
     "id": "d34120dd8b5c",
     "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
@@ -423,14 +433,34 @@
     "time": "2026-10-13T12:44:44+00:00"
    },
    {
-    "id": "f1914c67b5f7",
-    "title": "M5.3 earthquake, 122 km S of Kokopo, Papua New Guinea",
+    "id": "3d29cad7bd54",
+    "title": "Eight orangutans find new forest home in Indonesia after wildfire rescue",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T19:24:50+00:00"
+   },
+   {
+    "id": "61ca3eb2d6aa",
+    "title": "Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.",
     "country": "Papua New Guinea",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-13T14:36:10.660000+00:00"
+    "time": "2026-10-13T19:02:33+00:00"
+   },
+   {
+    "id": "2b00a65d8676",
+    "title": "China sentences three people to death for running Myanmar scam centres",
+    "country": "China",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T17:41:16+00:00"
    },
    {
     "id": "c673f2700d6f",
@@ -461,16 +491,78 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-13T06:01:24.155000+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "63ed39a7a1a4",
+    "title": "African Union holds Kigali talks as fighting continues in eastern DRC",
+    "country": "DRC",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T12:40:26+00:00"
    },
    {
-    "id": "d961af26a8f1",
-    "title": "M5.1 earthquake, 119 km SSW of Gambiran Satu, Indonesia",
-    "country": "Indonesia",
+    "id": "af09a0993d82",
+    "title": "South Africa deputy police chief resigns amid corruption probe",
+    "country": "South Africa",
     "city": null,
-    "category": "hazard",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-13T09:40:22+00:00"
+   },
+   {
+    "id": "952a027f2cb2",
+    "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T19:39:01+00:00"
+   },
+   {
+    "id": "957b2eb72eca",
+    "title": "Environmentalists protest at African Energy Week in Cape Town",
+    "country": "South Africa",
+    "city": "Cape Town",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-13T16:02:41+00:00"
+   },
+   {
+    "id": "6aa11452e894",
+    "title": "South Africa suspends asylum applications amid renewed anti-immigrant protests",
+    "country": "South Africa",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T15:15:49+00:00"
+   },
+   {
+    "id": "34f64faf5bff",
+    "title": "Foot-and-mouth disease spreads to Namibia’s Zambezi Region",
+    "country": "Namibia",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-13T09:50:05+00:00"
+   },
+   {
+    "id": "07d98462997d",
+    "title": "Mauritius",
+    "country": "Mauritius",
+    "city": null,
+    "category": "advisory",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-13T04:00:15.768000+00:00"
+    "time": "2026-10-13T09:06:03+00:00"
    }
   ],
   "South Asia": [
@@ -545,56 +637,16 @@
     "time": "2026-10-13T05:01:14+00:00"
    }
   ],
-  "North America": [
+  "Oceania": [
    {
-    "id": "c9892857c8ab",
-    "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-12T23:09:50+00:00"
-   },
-   {
-    "id": "dd09ec3f2435",
-    "title": "Jury selection begins in hate crimes trial for Buffalo supermarket gunman",
-    "country": "United States",
-    "city": "New York",
+    "id": "b30673bc1be0",
+    "title": "Man charged with murder over shooting death of boy, 12, in Sydney last month",
+    "country": "Australia",
+    "city": "Sydney",
     "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-13T12:14:28+00:00"
-   },
-   {
-    "id": "98309ab9ea39",
-    "title": "Latin American organised crime ‘may operate in 16 European countries’",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T07:00:18+00:00"
-   },
-   {
-    "id": "5d1fb96b3344",
-    "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T04:29:46+00:00"
-   },
-   {
-    "id": "79a9cbe0e578",
-    "title": "Zohran Mamdani orders use-of-force review for New York City police",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T17:50:06+00:00"
+    "time": "2026-10-13T21:09:19+00:00"
    }
   ],
   "Central Asia": [
