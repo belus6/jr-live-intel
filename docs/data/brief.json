@@ -1,98 +1,16 @@
 {
- "generated": "2026-10-13T08:28:35.162082+00:00",
+ "generated": "2026-10-13T16:20:59.584623+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 44,
-  "3": 47,
-  "4": 6,
-  "5": 2
+  "2": 52,
+  "3": 53,
+  "4": 2,
+  "5": 1
  },
  "watch_hits": [],
  "regions": {
-  "Middle East & N. Africa": [
-   {
-    "id": "f9c817ede153",
-    "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 5,
-    "confidence": "B1",
-    "time": "2026-10-12T15:42:37+00:00"
-   },
-   {
-    "id": "15e3e68f6b7f",
-    "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T07:45:07+00:00"
-   },
-   {
-    "id": "4a25ce552209",
-    "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
-    "country": "Iraq",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T05:02:57+00:00"
-   },
-   {
-    "id": "b029afee874c",
-    "title": "Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
-    "country": "Saudi Arabia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T04:09:52+00:00"
-   },
-   {
-    "id": "8cfb36880292",
-    "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
-    "country": "Iran",
-    "city": "Tehran",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T18:51:18+00:00"
-   },
-   {
-    "id": "0ed1e9678ea0",
-    "title": "How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T18:33:12+00:00"
-   },
-   {
-    "id": "4c8407a0cdc1",
-    "title": "Iran’s Revolutionary Guards ‘almost certainly’ behind RAF Fairford threats, says Burnham",
-    "country": "Iran",
-    "city": "Tehran",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T17:08:11+00:00"
-   },
-   {
-    "id": "c9c74df2eafd",
-    "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T15:30:08+00:00"
-   }
-  ],
   "Latin America & Caribbean": [
    {
     "id": "ec18e86b0761",
@@ -105,14 +23,24 @@
     "time": "2026-10-12T21:40:51+00:00"
    },
    {
-    "id": "e1557846dc7c",
-    "title": "M4.5 earthquake, 6 km W of Tonosí, Panama",
+    "id": "7741325f7acc",
+    "title": "M4.8 earthquake, 25 km W of Río Grande, Panama",
     "country": "Panama",
     "city": null,
     "category": "hazard",
     "severity": 4,
     "confidence": "A1",
-    "time": "2026-10-12T13:17:18.746000+00:00"
+    "time": "2026-10-12T20:05:25.236000+00:00"
+   },
+   {
+    "id": "f89f0f8fc400",
+    "title": "In Brazil, thousands march fearing return of Bolsonaro presidency",
+    "country": "Brazil",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T14:59:30+00:00"
    },
    {
     "id": "1334e31984d1",
@@ -145,6 +73,16 @@
     "time": "2026-10-13T05:55:58+00:00"
    },
    {
+    "id": "d7c52ce14287",
+    "title": "M4.5 earthquake, 24 km SW of Zapotillo, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-12T23:45:13.532000+00:00"
+   },
+   {
     "id": "abe9acdac860",
     "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI>=VII).",
     "country": "Panama",
@@ -153,26 +91,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-12T23:34:20+00:00"
-   },
-   {
-    "id": "d513d2878745",
-    "title": "M4.5 earthquake, 5 km WSW of Calidonia, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T21:48:54.521000+00:00"
-   },
-   {
-    "id": "01957bc67316",
-    "title": "M4.8 earthquake, 23 km SW of San Antonio, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T18:17:18.852000+00:00"
    }
   ],
   "Western Europe": [
@@ -185,6 +103,36 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-12T20:23:04+00:00"
+   },
+   {
+    "id": "56a35752eb70",
+    "title": "US ambassador to Greece resigns amid misconduct allegations",
+    "country": "Greece",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-13T15:37:32+00:00"
+   },
+   {
+    "id": "76533b32002a",
+    "title": "White House says it has asked Kimberly Guilfoyle to resign as US ambassador to Greece – live",
+    "country": "Greece",
+    "city": "Athens",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T15:58:38+00:00"
+   },
+   {
+    "id": "d44e9229f99d",
+    "title": "Farage denies Reform would let troops shoot small boats after Jenrick’s ‘lethal force’ claim",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T14:49:23+00:00"
    },
    {
     "id": "09b3a6317277",
@@ -225,130 +173,284 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-12T21:27:53+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "61fd4ba5c031",
+    "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
+    "country": "South Africa",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-10-12T16:46:49+00:00"
    },
    {
-    "id": "31f360622c37",
-    "title": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
-    "country": "France",
-    "city": "Paris",
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-12T16:38:36+00:00"
+    "id": "63ed39a7a1a4",
+    "title": "African Union holds Kigali talks as fighting continues in eastern DRC",
+    "country": "DRC",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T12:40:26+00:00"
    },
    {
-    "id": "a041ca3fa06d",
-    "title": "Live: Greta Thunberg joins French student protests ahead of nationwide rallies",
-    "country": "France",
-    "city": "Paris",
+    "id": "af09a0993d82",
+    "title": "South Africa deputy police chief resigns amid corruption probe",
+    "country": "South Africa",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-13T09:40:22+00:00"
+   },
+   {
+    "id": "6aa11452e894",
+    "title": "South Africa suspends asylum applications amid renewed anti-immigrant protests",
+    "country": "South Africa",
+    "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-13T06:44:27+00:00"
+    "time": "2026-10-13T15:15:49+00:00"
    },
    {
-    "id": "c3774b7d0cb6",
-    "title": "Coastal erosion in England has claimed at least 183 homes in past 16 years",
-    "country": "United Kingdom",
+    "id": "34f64faf5bff",
+    "title": "Foot-and-mouth disease spreads to Namibia’s Zambezi Region",
+    "country": "Namibia",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-13T09:50:05+00:00"
+   },
+   {
+    "id": "07d98462997d",
+    "title": "Mauritius",
+    "country": "Mauritius",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T09:06:03+00:00"
+   },
+   {
+    "id": "d5782c437ff6",
+    "title": "Green forest fire notification in Botswana",
+    "country": "Botswana",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T06:00:17+00:00"
+    "confidence": "A1",
+    "time": "2026-10-12T19:00:35+00:00"
    }
   ],
   "Eastern Europe": [
    {
-    "id": "bcd325b2f132",
-    "title": "SBU detains 19-year-old suspected of plotting bomb attack on bus full of soldiers",
+    "id": "a62263f773d9",
+    "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
     "country": "Russia",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-12T15:07:14+00:00"
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T14:52:22+00:00"
    },
    {
-    "id": "4cfd4fc74417",
-    "title": "Lithuania calls on EU to designate Russia's foreign intelligence agency a terrorist organization",
-    "country": "Lithuania",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-12T08:29:54+00:00"
-   },
-   {
-    "id": "a09fc005b5fb",
-    "title": "Two ships hit by drones of unknown origin off Bulgarian coast – Europe live",
+    "id": "62826718b97d",
+    "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
     "country": "Bulgaria",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-13T07:58:01+00:00"
+    "time": "2026-10-13T14:51:59+00:00"
    },
    {
-    "id": "f525e83028a4",
-    "title": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
-    "country": "Bulgaria",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T07:36:38+00:00"
-   },
-   {
-    "id": "73c4def73464",
-    "title": "General Staff: Russia has lost 1,555,700 troops in Ukraine since Feb. 24, 2022",
+    "id": "8f0bb2a80df8",
+    "title": "Letters to the editor: Readers question Trump's Russian diesel deal and US sanctions policy",
     "country": "Ukraine",
     "city": null,
-    "category": "conflict",
+    "category": "political",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-13T06:53:39+00:00"
+    "time": "2026-10-13T14:00:49+00:00"
    },
    {
-    "id": "6d1343b34a1b",
-    "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T05:02:34+00:00"
-   },
-   {
-    "id": "067ed60e580f",
-    "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T03:30:23+00:00"
-   },
-   {
-    "id": "2630c4d916fc",
-    "title": "Trump says Ukraine, Russia agree to energy strike ceasefire 'because I said they agreed'",
+    "id": "069be96af182",
+    "title": "As Russian missiles slip through Kyiv's air defenses without warning, officials say US intelligence sharing remains intact. For now",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-13T03:16:54+00:00"
+    "time": "2026-10-13T13:52:03+00:00"
+   },
+   {
+    "id": "ad2fd515286c",
+    "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T13:51:50+00:00"
+   },
+   {
+    "id": "7a313ac5f58c",
+    "title": "Russia pounds Ukrainian cities, spares energy targets for first time since Trump 'ceasefire'",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T13:39:15+00:00"
+   },
+   {
+    "id": "e666f645e196",
+    "title": "Ukraine hits Russian Iskander-M ballistic missile maintenance base, General Staff says",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-13T11:49:29+00:00"
+   },
+   {
+    "id": "f6a32b4a9280",
+    "title": "Kyiv stopped attacking Russia's oil refineries, Moscow continues pounding Ukraine's energy grid, Zelensky says",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-13T11:39:53+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "02cb50bbb7fe",
+    "title": "French embassy in Riyadh tells citizens to avoid Saudi airports targeted by Houthis",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T13:51:23+00:00"
+   },
+   {
+    "id": "351a27902aa7",
+    "title": "Yemeni government launches air strikes on Houthi positions",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T13:47:14+00:00"
+   },
+   {
+    "id": "0b6080af66c5",
+    "title": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T12:57:33+00:00"
+   },
+   {
+    "id": "9c1ff8a452af",
+    "title": "Yemeni families’ search for missing loved ones hindered by new fighting",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T12:25:00+00:00"
+   },
+   {
+    "id": "e95d25a622f0",
+    "title": "Sudan army chief al-Burhan orders probe into airstrike that killed 72",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-13T09:54:43+00:00"
+   },
+   {
+    "id": "15e3e68f6b7f",
+    "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T07:45:07+00:00"
+   },
+   {
+    "id": "4a25ce552209",
+    "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
+    "country": "Iraq",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T05:02:57+00:00"
+   },
+   {
+    "id": "b029afee874c",
+    "title": "Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
+    "country": "Saudi Arabia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T04:09:52+00:00"
    }
   ],
   "East & SE Asia": [
    {
-    "id": "d2d690e6f789",
-    "title": "Australian democracy campaigner detained in Vietnam on alleged terrorism offences uncontactable, wife says",
-    "country": "Vietnam",
-    "city": "Ho Chi Minh City",
-    "category": "terrorism",
-    "severity": 4,
+    "id": "d34120dd8b5c",
+    "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-12T14:00:57+00:00"
+    "time": "2026-10-13T12:44:44+00:00"
+   },
+   {
+    "id": "f1914c67b5f7",
+    "title": "M5.3 earthquake, 122 km S of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T14:36:10.660000+00:00"
+   },
+   {
+    "id": "c673f2700d6f",
+    "title": "M4.5 earthquake, 71 km SW of Tambolaka, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T09:48:28.205000+00:00"
+   },
+   {
+    "id": "ffe48fa8991a",
+    "title": "M4.6 earthquake, 63 km W of Bayan Hot, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T08:15:04.080000+00:00"
    },
    {
     "id": "827075573767",
@@ -369,48 +471,18 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-13T04:00:15.768000+00:00"
-   },
-   {
-    "id": "ba0b36c38f6d",
-    "title": "M4.6 earthquake, 100 km SSW of Kencong, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T11:58:08.604000+00:00"
-   },
-   {
-    "id": "2082c71fae6c",
-    "title": "M4.6 earthquake, 122 km SE of Bitung, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T08:59:14.629000+00:00"
    }
   ],
   "South Asia": [
    {
-    "id": "f38ba1909260",
-    "title": "Pakistan detains hundreds of politicians from Imran Khan’s PTI party",
-    "country": "Pakistan",
-    "city": "Islamabad",
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-12T10:48:24+00:00"
-   },
-   {
-    "id": "167eeeee2735",
-    "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+    "id": "4c2d9c0efecc",
+    "title": "India’s $87bn river-linking plan leaves villagers fighting for their homes",
     "country": "India",
-    "city": "Delhi",
-    "category": "political",
+    "city": null,
+    "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-12T15:19:17+00:00"
+    "confidence": "B3",
+    "time": "2026-10-13T11:30:55+00:00"
    },
    {
     "id": "112847551141",
@@ -423,14 +495,24 @@
     "time": "2026-10-13T01:27:05+00:00"
    },
    {
-    "id": "d3b38ba17795",
-    "title": "India's opposition parties march to top court as protests over voter lists escalate",
+    "id": "4095cd9e2675",
+    "title": "India: Can 'cockroaches' threaten Modi's political grip?",
     "country": "India",
-    "city": "Delhi",
+    "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-12T16:01:54+00:00"
+    "confidence": "B3",
+    "time": "2026-10-13T15:20:00+00:00"
+   },
+   {
+    "id": "84435a967d86",
+    "title": "How protests have shaped India: From anti-Hindi agitation to farm laws",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T11:57:51+00:00"
    },
    {
     "id": "ee2d89da7f99",
@@ -461,58 +543,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-13T05:01:14+00:00"
-   },
-   {
-    "id": "3e1c3fac010a",
-    "title": "Five people missing as fresh flash floods hit central Nepal",
-    "country": "Nepal",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T14:43:58+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "61fd4ba5c031",
-    "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-    "country": "South Africa",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-10-12T16:46:49+00:00"
-   },
-   {
-    "id": "abcafea31e70",
-    "title": "Ethiopian govt forces enter key Tigray town near Eritrea border",
-    "country": "Eritrea",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-12T13:34:07+00:00"
-   },
-   {
-    "id": "d5782c437ff6",
-    "title": "Green forest fire notification in Botswana",
-    "country": "Botswana",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T19:00:35+00:00"
-   },
-   {
-    "id": "cd19cdf21402",
-    "title": "Kenya says no new Ebola cases since first-ever death",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-12T14:20:38+00:00"
    }
   ],
   "North America": [
@@ -527,6 +557,16 @@
     "time": "2026-10-12T23:09:50+00:00"
    },
    {
+    "id": "dd09ec3f2435",
+    "title": "Jury selection begins in hate crimes trial for Buffalo supermarket gunman",
+    "country": "United States",
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T12:14:28+00:00"
+   },
+   {
     "id": "98309ab9ea39",
     "title": "Latin American organised crime ‘may operate in 16 European countries’",
     "country": "United States",
@@ -537,6 +577,16 @@
     "time": "2026-10-13T07:00:18+00:00"
    },
    {
+    "id": "5d1fb96b3344",
+    "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T04:29:46+00:00"
+   },
+   {
     "id": "79a9cbe0e578",
     "title": "Zohran Mamdani orders use-of-force review for New York City police",
     "country": "United States",
@@ -545,38 +595,28 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-12T17:50:06+00:00"
-   },
-   {
-    "id": "982467739c92",
-    "title": "Midterms 2026: Turning Point and the battle for Charlie Kirk’s legacy",
-    "country": "United States",
-    "city": "Phoenix",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T15:59:52+00:00"
-   },
-   {
-    "id": "4b2d984348ef",
-    "title": "Mamdani says ICE agents who shot man in New York looked like ‘mass shooters’",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T15:03:07+00:00"
    }
   ],
-  "Oceania": [
+  "Central Asia": [
    {
-    "id": "d04d093432ae",
-    "title": "Solomon Islands",
-    "country": "Solomon Islands",
+    "id": "fd65b6bd9d48",
+    "title": "Kazakhstan",
+    "country": "Kazakhstan",
     "city": null,
     "category": "advisory",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-12T11:44:41+00:00"
+    "time": "2026-10-13T14:04:04+00:00"
+   },
+   {
+    "id": "93a0239b0969",
+    "title": "M4.7 earthquake, 9 km NE of Boshkengash, Tajikistan",
+    "country": "Tajikistan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T09:41:12.899000+00:00"
    }
   ]
  }
