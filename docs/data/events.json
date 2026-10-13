@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-12T19:20:41.298799+00:00",
+ "generated": "2026-10-13T01:33:05.805082+00:00",
  "sample": false,
- "count": 422,
+ "count": 429,
  "events": [
+  {
+   "title": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings",
+   "time": "2026-10-12T21:40:51+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Bolivia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ec18e86b0761",
+   "flag": "🇧🇴",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.09,
+   "watch": []
+  },
   {
    "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
    "summary": "",
@@ -25,11 +53,16 @@
      "name": "France 24",
      "url": "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
      "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
+   "confidence": "B1",
+   "corroboration": 3,
    "id": "f9c817ede153",
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
@@ -177,6 +210,34 @@
    "watch": []
   },
   {
+   "title": "Tehran denies involvement in UK Fairford air base incident as Britain summons Iranian ambassador",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261012-tehran-denies-involvement-in-uk-fairford-air-base-incident-as-britain-summons-iranian-ambassador",
+   "time": "2026-10-12T20:23:04+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261012-tehran-denies-involvement-in-uk-fairford-air-base-incident-as-britain-summons-iranian-ambassador",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c49306114132",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
    "title": "SBU detains 19-year-old suspected of plotting bomb attack on bus full of soldiers",
    "summary": "",
    "url": "https://kyivindependent.com/sbu-detains-19-year-old-suspected-of-plotting-bomb-attack-on-bus-full-of-soldiers/",
@@ -230,6 +291,34 @@
    "flag": "🇻🇳",
    "region": "East & SE Asia",
    "baseline": 2.2,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 6 km W of Tonosí, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rx",
+   "time": "2026-10-12T13:17:18.746000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.3997,
+   "lon": -80.4946,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rx",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-12T19:20:41.298799+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e1557846dc7c",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
    "watch": []
   },
   {
@@ -833,62 +922,6 @@
    "watch": []
   },
   {
-   "title": "'We were being arrested like terrorists' - Ukrainian journalist says his detention in Austria was brutal",
-   "summary": "",
-   "url": "https://kyivindependent.com/ukrainian-investigative-journalist-mykhailo-tkach-detained-in-austria-while-on-assignment/",
-   "time": "2026-10-08T20:52:34+00:00",
-   "tier": "C",
-   "category": "terrorism",
-   "country": "Austria",
-   "city": "Vienna",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/ukrainian-investigative-journalist-mykhailo-tkach-detained-in-austria-while-on-assignment/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "aa845c9ed85b",
-   "flag": "🇦🇹",
-   "region": "Western Europe",
-   "baseline": 1.0,
-   "watch": []
-  },
-  {
-   "title": "'We were being arrested like terrorists'— Ukrainian journalist says his detention in Austria was brutal",
-   "summary": "",
-   "url": "https://kyivindependent.com/ukrainian-investigative-journalist-mykhailo-tkach-detained-in-austria-while-on-assignment/",
-   "time": "2026-10-08T20:52:34+00:00",
-   "tier": "C",
-   "category": "terrorism",
-   "country": "Austria",
-   "city": "Vienna",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/ukrainian-investigative-journalist-mykhailo-tkach-detained-in-austria-while-on-assignment/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-09T23:50:44.234490+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "84f71c524c15",
-   "flag": "🇦🇹",
-   "region": "Western Europe",
-   "baseline": 1.0,
-   "watch": []
-  },
-  {
    "title": "Volcanic eruption is on going for Taal in Philippines",
    "summary": "Volcano Taal is emitting ash clouds according to the regional VAAC. The aviation alert level is Orange.",
    "url": "https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000151",
@@ -1045,11 +1078,16 @@
      "name": "UK FCDO travel advice updates",
      "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia",
      "tier": "A"
+    },
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sau.html",
+     "tier": "A"
     }
    ],
    "first_seen": "2026-10-06T19:59:49.155522+00:00",
    "confidence": "A1",
-   "corroboration": 1,
+   "corroboration": 2,
    "id": "334e6a099d85",
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
@@ -1085,6 +1123,230 @@
    "watch": []
   },
   {
+   "title": "French Navy intercepts Russian shadow fleet tanker in Indian Ocean",
+   "summary": "",
+   "url": "https://kyivindependent.com/french-navy-intercepts-russian-shadow-fleet-tanker-in-indian-ocean/",
+   "time": "2026-10-13T01:27:05+00:00",
+   "tier": "C",
+   "category": "political",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/french-navy-intercepts-russian-shadow-fleet-tanker-in-indian-ocean/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "112847551141",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "UK sanctions Dutch businessman exposed by Kyiv Independent for shipping EU machinery to Russian missile suppliers",
+   "summary": "",
+   "url": "https://kyivindependent.com/uk-sanctions-dutch-businessman-exposed-by-kyiv-independent-for-shipping-eu-machinery-to-russian-missile-suppliers/",
+   "time": "2026-10-12T23:39:48+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/uk-sanctions-dutch-businessman-exposed-by-kyiv-independent-for-shipping-eu-machinery-to-russian-missile-suppliers/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "c2fc44b4cd35",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Russian missile attack on Kharkiv injures at least 11, including rescuer",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-missile-attack-on-kharkiv-injures-at-least-11-including-rescuer/",
+   "time": "2026-10-12T22:41:24+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-missile-attack-on-kharkiv-injures-at-least-11-including-rescuer/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "7848cc70a4c4",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+   "time": "2026-10-12T21:43:48+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f14b5db9b66b",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Paris Motor Show kicks off as China-EU rivalry heats up",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/business/20261012-paris-motor-show-kicks-off-as-china-eu-rivalry-heats-up",
+   "time": "2026-10-12T21:03:50+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/business/20261012-paris-motor-show-kicks-off-as-china-eu-rivalry-heats-up",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "de11dc72f967",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-12T20:17:37+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": "Moscow",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "903b88d5c933",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "'Increasingly evident' Russia won't accept 'energy ceasefire': Zelensky",
+   "summary": "",
+   "url": "https://www.france24.com/en/increasingly-evident-russia-won-t-accept-energy-ceasefire-zelensky",
+   "time": "2026-10-12T19:40:05+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/increasingly-evident-russia-won-t-accept-energy-ceasefire-zelensky",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e7651130f889",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Kyiv under missile attack before air raid alert issued",
+   "summary": "",
+   "url": "https://kyivindependent.com/explosions-heard-in-kyiv-before-air-raid-alert-issued/",
+   "time": "2026-10-12T19:23:05+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/explosions-heard-in-kyiv-before-air-raid-alert-issued/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "b2a9c5040f9b",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
    "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
@@ -1113,6 +1375,34 @@
    "watch": []
   },
   {
+   "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
+   "time": "2026-10-12T18:51:18+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ab1643e11921",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
    "title": "How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks",
    "summary": "",
    "url": "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks",
@@ -1138,6 +1428,34 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Ukraine war latest: Russian drones strike Kyiv morning and evening, kills 2, injures 14",
+   "summary": "",
+   "url": "https://kyivindependent.com/ukraine-war-latest-russian-drones-strike-kyiv-morning-and-evening-kill-woman-injure-14/",
+   "time": "2026-10-12T18:07:54+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-war-latest-russian-drones-strike-kyiv-morning-and-evening-kill-woman-injure-14/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "5b34efb81f05",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -1246,11 +1564,16 @@
      "name": "Africanews",
      "url": "http://www.africanews.com/2026/10/12/south-africas-suspended-police-deputy-chief-resigns-amid-serious-allegations/",
      "tier": "C"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/south-africa-deputy-police-chief-resigns-amid-sex-offence-charges?traffic_source=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
+   "confidence": "B1",
+   "corroboration": 3,
    "id": "61fd4ba5c031",
    "flag": "🇿🇦",
    "region": "Sub-Saharan Africa",
@@ -1872,11 +2195,16 @@
      "name": "France 24",
      "url": "https://www.france24.com/en/ukraine-zelensky-says-learned-of-trump-s-energy-ceasefire-through-media",
      "tier": "B"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
+   "confidence": "B1",
+   "corroboration": 3,
    "id": "d920e418b870",
    "flag": "🇺🇦",
    "region": "Eastern Europe",
@@ -4402,64 +4730,6 @@
    "watch": []
   },
   {
-   "title": "Israeli drone attack wounds six in Lebanon near Syria border",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
-   "time": "2026-10-10T00:22:52+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Lebanon",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-10T04:42:04.828766+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4230e30a6837",
-   "flag": "🇱🇧",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.29,
-   "watch": [
-    "Field staff, Lebanon"
-   ]
-  },
-  {
-   "title": "Intercommunal clashes kill 71 people in South Sudan",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
-   "time": "2026-10-10T00:01:32+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "South Sudan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-10T04:42:04.828766+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "afb3967ccf10",
-   "flag": "🇸🇸",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.77,
-   "watch": []
-  },
-  {
    "title": "Zelenskyy denounces Trump’s decision to lift diesel sanctions on Russia as ‘weak’ – US politics live",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
@@ -4482,62 +4752,6 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "3f61370ada62",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
-   "time": "2026-10-09T22:50:15+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Mexico",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T23:50:44.234490+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ef3bd82466e4",
-   "flag": "🇲🇽",
-   "region": "North America",
-   "baseline": 3.32,
-   "watch": []
-  },
-  {
-   "title": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
-   "time": "2026-10-09T20:00:24+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T23:50:44.234490+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "dd5cb5a3e2bf",
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
@@ -5511,59 +5725,171 @@
    "watch": []
   },
   {
-   "title": "Oil from South Korea being shipped to Russia as Ukraine war grinds on",
+   "title": "Body found in stockyard trough confirmed to be missing 73-year-old Yvonne Whear",
    "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
-   "time": "2026-10-05T23:50:12+00:00",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/13/yvonne-whear-body-found-in-stockyard-trough-missing-woman-murwillumbah-ntwnfb",
+   "time": "2026-10-13T00:17:37+00:00",
    "tier": "B",
-   "category": "political",
-   "country": "Russia",
-   "city": "Moscow",
+   "category": "crime",
+   "country": "United Kingdom",
+   "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
      "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/13/yvonne-whear-body-found-in-stockyard-trough-missing-woman-murwillumbah-ntwnfb",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-06T01:22:38.925437+00:00",
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
    "confidence": "B3",
    "corroboration": 1,
-   "id": "6a7a90ae49d3",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
+   "id": "afdf2e9358e4",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
    "watch": []
   },
   {
-   "title": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
-   "time": "2026-10-05T23:50:12+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Russia",
-   "city": "Moscow",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
+   "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI>=VII).",
+   "summary": "On 10/12/2026 11:20:36 PM, an earthquake occurred in Panama potentially affecting 1 thousand (in MMI>=VII). The earthquake had Magnitude 6.1M, Depth:10km.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1571161",
+   "time": "2026-10-12T23:34:20+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.7028,
+   "lon": -81.4989,
+   "severity": 2,
    "sources": [
     {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1571161",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "abe9acdac860",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
+   "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
+   "time": "2026-10-12T23:09:50+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Mexico",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-06T07:54:48.014985+00:00",
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
    "confidence": "B3",
    "corroboration": 1,
-   "id": "819ff92527f3",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
+   "id": "c9892857c8ab",
+   "flag": "🇲🇽",
+   "region": "North America",
+   "baseline": 3.32,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 5 km WSW of Calidonia, Panama",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1w7",
+   "time": "2026-10-12T21:48:54.521000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": 7.9416,
+   "lon": -81.4309,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1w7",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "d513d2878745",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
+   "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
+   "summary": "",
+   "url": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
+   "time": "2026-10-12T21:27:53+00:00",
+   "tier": "B",
+   "category": "cyber",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2bc942cc3e77",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Qantas flight grounded after bedbug outbreak",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-12T21:01:45+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "Italy",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c35804e3530c",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
    "watch": []
   },
   {
@@ -5997,34 +6323,6 @@
    "watch": []
   },
   {
-   "title": "M4.5 earthquake, 6 km W of Tonosí, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rx",
-   "time": "2026-10-12T13:17:18.746000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.3997,
-   "lon": -80.4946,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rx",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "e1557846dc7c",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
    "title": "NATO's top US commander warns Russia that any 'foolish' attack on allies would be 'futile'",
    "summary": "",
    "url": "https://www.france24.com/en/europe/20261012-nato-s-top-us-commander-warns-russia-that-any-foolish-attack-on-allies-would-be-futile",
@@ -6106,6 +6404,34 @@
    "flag": "🇳🇵",
    "region": "South Asia",
    "baseline": 2.76,
+   "watch": []
+  },
+  {
+   "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
+   "summary": "",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168578",
+   "time": "2026-10-12T12:00:00+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Syria",
+   "city": "Damascus",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168578",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "43c99b57a417",
+   "flag": "🇸🇾",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.8,
    "watch": []
   },
   {
@@ -6366,6 +6692,34 @@
    "watch": []
   },
   {
+   "title": "M4.5 earthquake, south of the Fiji Islands",
+   "summary": "Depth 471 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pz",
+   "time": "2026-10-12T05:15:50.307000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Fiji",
+   "city": null,
+   "lat": -25.1916,
+   "lon": 179.9814,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pz",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e6c3eaa43393",
+   "flag": "🇫🇯",
+   "region": "Oceania",
+   "baseline": 2.12,
+   "watch": []
+  },
+  {
    "title": "How Iran's elite forces 'mold the minds of the young cadets'",
    "summary": "",
    "url": "https://www.dw.com/en/how-iran-s-elite-forces-mold-the-minds-of-the-young-cadets/a-79609734?maca=en-rss-en-world-4025-rdf",
@@ -6475,6 +6829,34 @@
    "flag": "🇮🇳",
    "region": "South Asia",
    "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 53 km S of Kushiro, Japan",
+   "summary": "Depth 66 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
+   "time": "2026-10-12T03:44:57.923000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Japan",
+   "city": null,
+   "lat": 42.5006,
+   "lon": 144.2781,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-13T01:33:05.805082+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "589f983062bd",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
    "watch": []
   },
   {
@@ -7771,34 +8153,6 @@
    "watch": []
   },
   {
-   "title": "Five people shot and killed in apparent murder-suicide, Georgia police say",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
-   "time": "2026-10-11T00:01:55+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Georgia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T02:12:31.552155+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b5c53f96ef4d",
-   "flag": "🇬🇪",
-   "region": "Eastern Europe",
-   "baseline": 2.39,
-   "watch": []
-  },
-  {
    "title": "Green forest fire notification in Mongolia, China",
    "summary": "On 09/10/2026, a forest fire started in Mongolia, China, until 10/10/2026.",
    "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032703",
@@ -7855,34 +8209,6 @@
    "watch": []
   },
   {
-   "title": "Protests against voter roll revisions rock capital of world's largest democracy",
-   "summary": "",
-   "url": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
-   "time": "2026-10-10T21:19:57+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-10T23:34:04.686368+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "7e5c7923379b",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
    "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
@@ -7936,34 +8262,6 @@
    "flag": "🇵🇭",
    "region": "East & SE Asia",
    "baseline": 3.11,
-   "watch": []
-  },
-  {
-   "title": "Azerbaijan school pupils protest over reported hijab restrictions",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
-   "time": "2026-10-10T19:49:33+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Azerbaijan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-10T20:04:39.257596+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b00e38cf3756",
-   "flag": "🇦🇿",
-   "region": "Eastern Europe",
-   "baseline": 2.84,
    "watch": []
   },
   {
@@ -10606,90 +10904,6 @@
    "flag": "🇮🇩",
    "region": "East & SE Asia",
    "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "How toxic haze is causing Singapore’s landmarks to disappear",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-07T22:10:20+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Singapore",
-   "city": "Singapore",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T08:00:40.171451+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9507e62b8e51",
-   "flag": "🇸🇬",
-   "region": "East & SE Asia",
-   "baseline": 1.07,
-   "watch": []
-  },
-  {
-   "title": "56 Ukrainians still missing as Nepal ends flash flood search-and-rescue operation",
-   "summary": "",
-   "url": "https://kyivindependent.com/56-ukrainians-still-missing-as-nepal-ends-flash-flood-search-and-rescue-operation/",
-   "time": "2026-10-07T21:18:21+00:00",
-   "tier": "C",
-   "category": "hazard",
-   "country": "Nepal",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/56-ukrainians-still-missing-as-nepal-ends-flash-flood-search-and-rescue-operation/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-07T21:48:03.359095+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "4f2223654b80",
-   "flag": "🇳🇵",
-   "region": "South Asia",
-   "baseline": 2.76,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 18 km NNE of Posoltega, Nicaragua",
-   "summary": "Depth 206 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0uq",
-   "time": "2026-10-07T20:56:51.318000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Nicaragua",
-   "city": null,
-   "lat": 12.6946,
-   "lon": -86.9041,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0uq",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-08T15:37:38.969831+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "2ca0a7d26ead",
-   "flag": "🇳🇮",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.26,
    "watch": []
   },
   {

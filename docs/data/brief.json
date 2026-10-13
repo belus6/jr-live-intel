@@ -1,17 +1,15 @@
 {
- "generated": "2026-10-12T19:20:41.298799+00:00",
+ "generated": "2026-10-13T01:33:05.805082+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 42,
-  "3": 41,
-  "4": 8,
-  "5": 1
+  "2": 41,
+  "3": 45,
+  "4": 7,
+  "5": 2
  },
- "watch_hits": [
-  "c81e178e5aab"
- ],
+ "watch_hits": [],
  "regions": {
   "Middle East & N. Africa": [
    {
@@ -21,18 +19,8 @@
     "city": "Riyadh",
     "category": "conflict",
     "severity": 5,
-    "confidence": "B2",
+    "confidence": "B1",
     "time": "2026-10-12T15:42:37+00:00"
-   },
-   {
-    "id": "c81e178e5aab",
-    "title": "Two killed near Israeli-occupied area in south Lebanon",
-    "country": "Lebanon",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-11T20:46:45+00:00"
    },
    {
     "id": "8cfb36880292",
@@ -93,88 +81,160 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-12T09:38:03+00:00"
+   },
+   {
+    "id": "83ad4063627f",
+    "title": "Saudi Arabia: Riyadh airport struck again by Yemen's Houthis",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-12T09:21:12+00:00"
    }
   ],
-  "South Asia": [
+  "Latin America & Caribbean": [
    {
-    "id": "1341d0412735",
-    "title": "Pakistan suspends Imran Khan’s party-led provincial government",
-    "country": "Pakistan",
+    "id": "ec18e86b0761",
+    "title": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings",
+    "country": "Bolivia",
     "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "B2",
-    "time": "2026-10-11T20:21:13+00:00"
-   },
-   {
-    "id": "f38ba1909260",
-    "title": "Pakistan detains hundreds of politicians from Imran Khan’s PTI party",
-    "country": "Pakistan",
-    "city": "Islamabad",
-    "category": "political",
-    "severity": 4,
+    "category": "crime",
+    "severity": 5,
     "confidence": "B3",
-    "time": "2026-10-12T10:48:24+00:00"
+    "time": "2026-10-12T21:40:51+00:00"
    },
    {
-    "id": "f6ac97ed3840",
-    "title": "Imran Khan’s party decries ‘coup’ after Pakistan suspends provincial government",
-    "country": "Pakistan",
+    "id": "e1557846dc7c",
+    "title": "M4.5 earthquake, 6 km W of Tonosí, Panama",
+    "country": "Panama",
     "city": null,
-    "category": "political",
+    "category": "hazard",
     "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-12T00:22:11+00:00"
+    "confidence": "A1",
+    "time": "2026-10-12T13:17:18.746000+00:00"
    },
    {
-    "id": "167eeeee2735",
-    "title": "Thousands march to Indian Supreme Court to demand election chief resign",
-    "country": "India",
-    "city": "Delhi",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-12T15:19:17+00:00"
-   },
-   {
-    "id": "d3b38ba17795",
-    "title": "India's opposition parties march to top court as protests over voter lists escalate",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-12T16:01:54+00:00"
-   },
-   {
-    "id": "de7be161bc42",
-    "title": "Delhi police shut metro stations ahead of election protest march",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-12T05:51:48+00:00"
-   },
-   {
-    "id": "3e1c3fac010a",
-    "title": "Five people missing as fresh flash floods hit central Nepal",
-    "country": "Nepal",
+    "id": "abe9acdac860",
+    "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI>=VII).",
+    "country": "Panama",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T14:43:58+00:00"
+    "confidence": "A1",
+    "time": "2026-10-12T23:34:20+00:00"
    },
    {
-    "id": "64da58ff3b59",
-    "title": "Indian opposition figures lead march to police barricades around supreme court",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
+    "id": "d513d2878745",
+    "title": "M4.5 earthquake, 5 km WSW of Calidonia, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-12T21:48:54.521000+00:00"
+   },
+   {
+    "id": "01957bc67316",
+    "title": "M4.8 earthquake, 23 km SW of San Antonio, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-12T18:17:18.852000+00:00"
+   },
+   {
+    "id": "8cf807d08309",
+    "title": "M4.5 earthquake, 7 km ENE of Lajamina, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-12T02:22:29.883000+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "c49306114132",
+    "title": "Tehran denies involvement in UK Fairford air base incident as Britain summons Iranian ambassador",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-12T20:23:04+00:00"
+   },
+   {
+    "id": "de11dc72f967",
+    "title": "Paris Motor Show kicks off as China-EU rivalry heats up",
+    "country": "France",
+    "city": "Paris",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-12T21:03:50+00:00"
+   },
+   {
+    "id": "ab1643e11921",
+    "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-12T18:51:18+00:00"
+   },
+   {
+    "id": "ee4d689eb981",
+    "title": "Roman fort found in Wales could prove myth of emperor’s camp is real",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-12T07:00:48+00:00"
+   },
+   {
+    "id": "31f360622c37",
+    "title": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
+    "country": "France",
+    "city": "Paris",
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-12T16:38:36+00:00"
+   },
+   {
+    "id": "afdf2e9358e4",
+    "title": "Body found in stockyard trough confirmed to be missing 73-year-old Yvonne Whear",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-12T14:23:59+00:00"
+    "time": "2026-10-13T00:17:37+00:00"
+   },
+   {
+    "id": "2bc942cc3e77",
+    "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
+    "country": "France",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-12T21:27:53+00:00"
+   },
+   {
+    "id": "c35804e3530c",
+    "title": "Qantas flight grounded after bedbug outbreak",
+    "country": "Italy",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-12T21:01:45+00:00"
    }
   ],
   "Eastern Europe": [
@@ -205,58 +265,58 @@
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
+    "confidence": "B1",
     "time": "2026-10-12T06:41:57+00:00"
    },
    {
-    "id": "b79d870582cf",
-    "title": "Watch: What's behind Trump's energy ceasefire claim?",
+    "id": "c2fc44b4cd35",
+    "title": "UK sanctions Dutch businessman exposed by Kyiv Independent for shipping EU machinery to Russian missile suppliers",
     "country": "Ukraine",
-    "city": null,
+    "city": "Kyiv",
     "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-11T20:55:02+00:00"
-   },
-   {
-    "id": "68bb0f375d72",
-    "title": "Angry at Trump's Russian diesel deal? Here's how you can help Ukraine bomb Russia",
-    "country": "Ukraine",
-    "city": null,
-    "category": "political",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-12T17:39:45+00:00"
+    "time": "2026-10-12T23:39:48+00:00"
    },
    {
-    "id": "598779ae9dd0",
-    "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T17:32:13+00:00"
-   },
-   {
-    "id": "5695f8a8d31d",
-    "title": "Zelenskyy says ‘increasingly clear’ Russia does not want energy ceasefire after strikes on energy facilities – as it happened",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T16:31:54+00:00"
-   },
-   {
-    "id": "25bac4a206c0",
-    "title": "New interceptor drone destroys two Russian Geran-5 drones in first week, Fedorov says",
+    "id": "7848cc70a4c4",
+    "title": "Russian missile attack on Kharkiv injures at least 11, including rescuer",
     "country": "Russia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-12T16:02:34+00:00"
+    "time": "2026-10-12T22:41:24+00:00"
+   },
+   {
+    "id": "f14b5db9b66b",
+    "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-12T21:43:48+00:00"
+   },
+   {
+    "id": "903b88d5c933",
+    "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-12T20:17:37+00:00"
+   },
+   {
+    "id": "e7651130f889",
+    "title": "'Increasingly evident' Russia won't accept 'energy ceasefire': Zelensky",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-12T19:40:05+00:00"
    }
   ],
   "East & SE Asia": [
@@ -341,6 +401,88 @@
     "time": "2026-10-12T05:28:09.720000+00:00"
    }
   ],
+  "South Asia": [
+   {
+    "id": "f38ba1909260",
+    "title": "Pakistan detains hundreds of politicians from Imran Khan’s PTI party",
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-12T10:48:24+00:00"
+   },
+   {
+    "id": "167eeeee2735",
+    "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+    "country": "India",
+    "city": "Delhi",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-12T15:19:17+00:00"
+   },
+   {
+    "id": "112847551141",
+    "title": "French Navy intercepts Russian shadow fleet tanker in Indian Ocean",
+    "country": "India",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-13T01:27:05+00:00"
+   },
+   {
+    "id": "d3b38ba17795",
+    "title": "India's opposition parties march to top court as protests over voter lists escalate",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-12T16:01:54+00:00"
+   },
+   {
+    "id": "de7be161bc42",
+    "title": "Delhi police shut metro stations ahead of election protest march",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-12T05:51:48+00:00"
+   },
+   {
+    "id": "3e1c3fac010a",
+    "title": "Five people missing as fresh flash floods hit central Nepal",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-12T14:43:58+00:00"
+   },
+   {
+    "id": "64da58ff3b59",
+    "title": "Indian opposition figures lead march to police barricades around supreme court",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-12T14:23:59+00:00"
+   },
+   {
+    "id": "663e985a9d15",
+    "title": "UN aid operation underway in Nepal following fresh floods",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-12T12:00:00+00:00"
+   }
+  ],
   "Sub-Saharan Africa": [
    {
     "id": "61fd4ba5c031",
@@ -349,7 +491,7 @@
     "city": null,
     "category": "political",
     "severity": 3,
-    "confidence": "B2",
+    "confidence": "B1",
     "time": "2026-10-12T16:46:49+00:00"
    },
    {
@@ -393,68 +535,6 @@
     "time": "2026-10-12T14:20:38+00:00"
    }
   ],
-  "Western Europe": [
-   {
-    "id": "ee4d689eb981",
-    "title": "Roman fort found in Wales could prove myth of emperor’s camp is real",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-12T07:00:48+00:00"
-   },
-   {
-    "id": "31f360622c37",
-    "title": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
-    "country": "France",
-    "city": "Paris",
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-12T16:38:36+00:00"
-   },
-   {
-    "id": "9f1aa7dbabd8",
-    "title": "Stolen Renoir paintings found behind wall in France following arrests",
-    "country": "France",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T18:10:35+00:00"
-   },
-   {
-    "id": "0e1a36c5cc59",
-    "title": "Spain: National Day highlights territorial unity from Barcelona to Ceuta",
-    "country": "Spain",
-    "city": "Barcelona",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-12T17:46:16+00:00"
-   },
-   {
-    "id": "bbbf706d3d1d",
-    "title": "France school shooting: Police detain pupil after two injured",
-    "country": "France",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T15:47:43+00:00"
-   },
-   {
-    "id": "07be18599cf9",
-    "title": "Old jeans could shield your home from the next heatwave",
-    "country": "France",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-12T13:42:30+00:00"
-   }
-  ],
   "Oceania": [
    {
     "id": "a57a8aedd5e8",
@@ -477,6 +557,16 @@
     "time": "2026-10-12T11:44:41+00:00"
    },
    {
+    "id": "e6c3eaa43393",
+    "title": "M4.5 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-12T05:15:50.307000+00:00"
+   },
+   {
     "id": "8fe962e0ce59",
     "title": "Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.",
     "country": "Tonga",
@@ -485,71 +575,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-12T04:54:58+00:00"
-   },
-   {
-    "id": "e95eb0ce9ad2",
-    "title": "Boy, 13, charged with murder after man stabbed to death in Sydney’s west",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T22:39:10+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "01957bc67316",
-    "title": "M4.8 earthquake, 23 km SW of San Antonio, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T18:17:18.852000+00:00"
-   },
-   {
-    "id": "e1557846dc7c",
-    "title": "M4.5 earthquake, 6 km W of Tonosí, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T13:17:18.746000+00:00"
-   },
-   {
-    "id": "8cf807d08309",
-    "title": "M4.5 earthquake, 7 km ENE of Lajamina, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T02:22:29.883000+00:00"
-   },
-   {
-    "id": "c090c16c79e0",
-    "title": "M4.5 earthquake, 103 km SSW of La Libertad, El Salvador",
-    "country": "Brazil",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-11T23:20:35.800000+00:00"
-   },
-   {
-    "id": "b972655dd451",
-    "title": "M4.5 earthquake, 27 km W of Río Grande, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-11T21:19:20.354000+00:00"
    }
   ],
   "North America": [
+   {
+    "id": "c9892857c8ab",
+    "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-12T23:09:50+00:00"
+   },
    {
     "id": "79a9cbe0e578",
     "title": "Zohran Mamdani orders use-of-force review for New York City police",
@@ -589,16 +627,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-12T06:50:00+00:00"
-   },
-   {
-    "id": "3087c4b6fa6f",
-    "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-11T19:31:36+00:00"
    }
   ]
  }
