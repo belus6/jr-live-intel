@@ -1,16 +1,98 @@
 {
- "generated": "2026-10-14T00:29:31.232356+00:00",
+ "generated": "2026-10-14T05:17:48.565044+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 59,
-  "3": 48,
+  "2": 66,
+  "3": 45,
   "4": 7,
-  "5": 0
+  "5": 1
  },
  "watch_hits": [],
  "regions": {
+  "North America": [
+   {
+    "id": "ca8d5e6fe89a",
+    "title": "Red notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.823 million .",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-10-13T15:15:58+00:00"
+   },
+   {
+    "id": "be82710c8792",
+    "title": "Orange notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 22516 .",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-13T15:15:58+00:00"
+   },
+   {
+    "id": "19aeee5b3c33",
+    "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+    "country": "United States",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-14T01:15:30+00:00"
+   },
+   {
+    "id": "c735e8c51222",
+    "title": "Intense waves and floods batter California waterfront homes and boardwalks",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T21:29:08+00:00"
+   },
+   {
+    "id": "1f934ed171eb",
+    "title": "Former gang leader sentenced to 40 years to life for Tupac Shakur murder",
+    "country": "United States",
+    "city": "Los Angeles",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T19:57:31+00:00"
+   },
+   {
+    "id": "dc03875c7149",
+    "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T18:25:06+00:00"
+   },
+   {
+    "id": "dd09ec3f2435",
+    "title": "Jury selection begins in hate crimes trial for Buffalo supermarket gunman",
+    "country": "United States",
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T12:14:28+00:00"
+   },
+   {
+    "id": "98309ab9ea39",
+    "title": "Latin American organised crime ‘may operate in 16 European countries’",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T07:00:18+00:00"
+   }
+  ],
   "Eastern Europe": [
    {
     "id": "d477a33a1f09",
@@ -23,6 +105,16 @@
     "time": "2026-10-13T15:54:55+00:00"
    },
    {
+    "id": "d6bc7c10a5da",
+    "title": "Large-scale Russian missile attack on Kyiv strikes power plants, residential buildings, killing 3, injuring 22",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-10-13T20:13:25+00:00"
+   },
+   {
     "id": "dcf1bb4b1151",
     "title": "Deadly Russian missile strike in Kyiv kills 2, injures 21 — allies gave no early warning, Zelensky says",
     "country": "Ukraine",
@@ -31,6 +123,26 @@
     "severity": 3,
     "confidence": "B1",
     "time": "2026-10-13T20:13:25+00:00"
+   },
+   {
+    "id": "30714540c4f1",
+    "title": "Ukraine war latest: Russian missiles slam central Kyiv before air raid alert sounds",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C2",
+    "time": "2026-10-13T17:58:11+00:00"
+   },
+   {
+    "id": "1e37e4310176",
+    "title": "Fire breaks out near Russian metallurgical plant after reported drone attack",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-14T03:37:18+00:00"
    },
    {
     "id": "04a7c5ac3576",
@@ -53,16 +165,6 @@
     "time": "2026-10-13T17:58:36+00:00"
    },
    {
-    "id": "30714540c4f1",
-    "title": "Ukraine war latest: Russian missiles slam central Kyiv before air raid alert sounds",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-13T17:58:11+00:00"
-   },
-   {
     "id": "f9c2d3abccc9",
     "title": "No, Ukraine's strikes on Yandex data centers didn't cripple Russian influence ops",
     "country": "Ukraine",
@@ -71,26 +173,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-13T17:31:46+00:00"
-   },
-   {
-    "id": "8a4a7238c3e6",
-    "title": "How the Russian army is learning from Ukraine and NATO",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-13T16:33:32+00:00"
-   },
-   {
-    "id": "a62263f773d9",
-    "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T14:52:22+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -125,6 +207,26 @@
     "time": "2026-10-13T17:18:45+00:00"
    },
    {
+    "id": "8fd7d60e6941",
+    "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-14T03:09:46+00:00"
+   },
+   {
+    "id": "cefedf66e575",
+    "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-14T00:45:16+00:00"
+   },
+   {
     "id": "7b97887d6ab2",
     "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
     "country": "Saudi Arabia",
@@ -153,26 +255,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-13T16:11:00+00:00"
-   },
-   {
-    "id": "02cb50bbb7fe",
-    "title": "French embassy in Riyadh tells citizens to avoid Saudi airports targeted by Houthis",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T13:51:23+00:00"
-   },
-   {
-    "id": "351a27902aa7",
-    "title": "Yemeni government launches air strikes on Houthi positions",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T13:47:14+00:00"
    }
   ],
   "Western Europe": [
@@ -257,78 +339,6 @@
     "time": "2026-10-13T05:55:54+00:00"
    }
   ],
-  "North America": [
-   {
-    "id": "be82710c8792",
-    "title": "Orange notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 22516 .",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-13T15:15:58+00:00"
-   },
-   {
-    "id": "c735e8c51222",
-    "title": "Intense waves and floods batter California waterfront homes and boardwalks",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T21:29:08+00:00"
-   },
-   {
-    "id": "1f934ed171eb",
-    "title": "Former gang leader sentenced to 40 years to life for Tupac Shakur murder",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T19:57:31+00:00"
-   },
-   {
-    "id": "dc03875c7149",
-    "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T18:25:06+00:00"
-   },
-   {
-    "id": "dd09ec3f2435",
-    "title": "Jury selection begins in hate crimes trial for Buffalo supermarket gunman",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T12:14:28+00:00"
-   },
-   {
-    "id": "98309ab9ea39",
-    "title": "Latin American organised crime ‘may operate in 16 European countries’",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T07:00:18+00:00"
-   },
-   {
-    "id": "5d1fb96b3344",
-    "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T04:29:46+00:00"
-   }
-  ],
   "East & SE Asia": [
    {
     "id": "f1914c67b5f7",
@@ -349,6 +359,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-13T12:44:44+00:00"
+   },
+   {
+    "id": "bef03d7f426d",
+    "title": "M4.7 earthquake, 128 km S of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-14T02:59:27.574000+00:00"
    },
    {
     "id": "3d29cad7bd54",
@@ -399,16 +419,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-13T08:15:04.080000+00:00"
-   },
-   {
-    "id": "827075573767",
-    "title": "M4.7 earthquake, 124 km N of Pagudpud, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-13T06:01:24.155000+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -441,6 +451,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-13T09:40:22+00:00"
+   },
+   {
+    "id": "a33d30913773",
+    "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+    "country": "Namibia",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T01:07:46+00:00"
    },
    {
     "id": "c72ab7dce60c",
@@ -481,16 +501,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-13T15:15:49+00:00"
-   },
-   {
-    "id": "34f64faf5bff",
-    "title": "Foot-and-mouth disease spreads to Namibia’s Zambezi Region",
-    "country": "Namibia",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-13T09:50:05+00:00"
    }
   ],
   "South Asia": [
@@ -505,14 +515,14 @@
     "time": "2026-10-13T11:30:55+00:00"
    },
    {
-    "id": "112847551141",
-    "title": "French Navy intercepts Russian shadow fleet tanker in Indian Ocean",
-    "country": "India",
+    "id": "98511802bf1b",
+    "title": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
+    "country": "Pakistan",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-13T01:27:05+00:00"
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T01:56:23+00:00"
    },
    {
     "id": "4095cd9e2675",
@@ -553,19 +563,71 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-13T06:30:16+00:00"
-   },
+   }
+  ],
+  "Oceania": [
    {
-    "id": "c6c168f4c3a5",
-    "title": "More than 100 foreign trekkers stranded by floods in Nepal’s Gorkha region",
-    "country": "Nepal",
-    "city": null,
-    "category": "hazard",
+    "id": "3cb0145989d9",
+    "title": "Beau Lamarre-Condon previously visited farm where he later allegedly tried to sink bodies, court told",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-13T05:01:14+00:00"
+    "time": "2026-10-14T04:45:06+00:00"
+   },
+   {
+    "id": "a2c613175bb4",
+    "title": "Family of Indigenous woman found dead in Melbourne mourn ‘vibrant, beautiful young girl’",
+    "country": "Australia",
+    "city": "Melbourne",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T03:37:02+00:00"
+   },
+   {
+    "id": "b30673bc1be0",
+    "title": "Man charged with murder over shooting death of boy, 12, in Sydney last month",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T21:09:19+00:00"
+   },
+   {
+    "id": "ba21bc186be7",
+    "title": "Man charged with murder after boy, 12, shot in the face and neck in Sydney last month",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T21:09:19+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "b5b9d9d3ed55",
+    "title": "Colombia peace tribunal charges ex-FARC members with anti-Indigenous crimes",
+    "country": "Colombia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T01:43:56+00:00"
+   },
+   {
+    "id": "b3f65ea292a0",
+    "title": "M5.1 earthquake, 93 km NNW of Coquimbo, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-14T00:30:47.706000+00:00"
+   },
    {
     "id": "06673a575a70",
     "title": "M4.8 earthquake, 5 km NW of Cepitá, Colombia",
@@ -625,38 +687,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-13T05:55:58+00:00"
-   },
-   {
-    "id": "5754a66b1623",
-    "title": "M4.7 earthquake, 9 km SSE of La Mesa, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-13T02:48:02.033000+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "b30673bc1be0",
-    "title": "Man charged with murder over shooting death of boy, 12, in Sydney last month",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T21:09:19+00:00"
-   },
-   {
-    "id": "ba21bc186be7",
-    "title": "Man charged with murder after boy, 12, shot in the face and neck in Sydney last month",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T21:09:19+00:00"
    }
   ],
   "Central Asia": [
