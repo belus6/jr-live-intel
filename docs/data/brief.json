@@ -1,98 +1,16 @@
 {
- "generated": "2026-10-13T21:25:44.835869+00:00",
+ "generated": "2026-10-14T00:29:31.232356+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
   "2": 59,
-  "3": 49,
-  "4": 8,
-  "5": 1
+  "3": 48,
+  "4": 7,
+  "5": 0
  },
  "watch_hits": [],
  "regions": {
-  "Latin America & Caribbean": [
-   {
-    "id": "ec18e86b0761",
-    "title": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings",
-    "country": "Bolivia",
-    "city": null,
-    "category": "crime",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-10-12T21:40:51+00:00"
-   },
-   {
-    "id": "cdc22b49e6f6",
-    "title": "M4.5 earthquake, 21 km WNW of Río Grande, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-12T21:43:30.326000+00:00"
-   },
-   {
-    "id": "f89f0f8fc400",
-    "title": "In Brazil, thousands march fearing return of Bolsonaro presidency",
-    "country": "Brazil",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T14:59:30+00:00"
-   },
-   {
-    "id": "0176d4b4c684",
-    "title": "M4.5 earthquake, 26 km SSW of Zapotillo, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-13T12:51:32.169000+00:00"
-   },
-   {
-    "id": "1334e31984d1",
-    "title": "M4.7 earthquake, 14 km WNW of Río Grande, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-13T06:39:04.944000+00:00"
-   },
-   {
-    "id": "8f255b7fc894",
-    "title": "Green flood alert in Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-13T05:56:30+00:00"
-   },
-   {
-    "id": "93f9e2cb0fe6",
-    "title": "Green flood alert in Costa Rica",
-    "country": "Costa Rica",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-13T05:55:58+00:00"
-   },
-   {
-    "id": "d7c52ce14287",
-    "title": "M4.5 earthquake, 24 km SW of Zapotillo, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-12T23:45:13.532000+00:00"
-   }
-  ],
   "Eastern Europe": [
    {
     "id": "d477a33a1f09",
@@ -103,6 +21,16 @@
     "severity": 4,
     "confidence": "B2",
     "time": "2026-10-13T15:54:55+00:00"
+   },
+   {
+    "id": "dcf1bb4b1151",
+    "title": "Deadly Russian missile strike in Kyiv kills 2, injures 21 — allies gave no early warning, Zelensky says",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-10-13T20:13:25+00:00"
    },
    {
     "id": "04a7c5ac3576",
@@ -163,16 +91,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-13T14:52:22+00:00"
-   },
-   {
-    "id": "62826718b97d",
-    "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-    "country": "Bulgaria",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T14:51:59+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -279,6 +197,16 @@
     "time": "2026-10-13T15:37:32+00:00"
    },
    {
+    "id": "10385a043bcb",
+    "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
+    "country": "Greece",
+    "city": "Athens",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-14T00:01:42+00:00"
+   },
+   {
     "id": "4a820fe31a2a",
     "title": "Trump asks Greece ambassador to resign amid ethics scandal",
     "country": "Greece",
@@ -327,16 +255,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-13T05:55:54+00:00"
-   },
-   {
-    "id": "67abb4a4b011",
-    "title": "Student protesters tell police to join them in Paris demonstrations",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-13T17:04:12+00:00"
    }
   ],
   "North America": [
@@ -351,14 +269,14 @@
     "time": "2026-10-13T15:15:58+00:00"
    },
    {
-    "id": "c9892857c8ab",
-    "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+    "id": "c735e8c51222",
+    "title": "Intense waves and floods batter California waterfront homes and boardwalks",
     "country": "Mexico",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-12T23:09:50+00:00"
+    "confidence": "B3",
+    "time": "2026-10-13T21:29:08+00:00"
    },
    {
     "id": "1f934ed171eb",
@@ -495,6 +413,16 @@
   ],
   "Sub-Saharan Africa": [
    {
+    "id": "49e46a96d495",
+    "title": "Mauritius imposes curfew after night of unrest over police shooting",
+    "country": "Mauritius",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-13T22:41:59+00:00"
+   },
+   {
     "id": "63ed39a7a1a4",
     "title": "African Union holds Kigali talks as fighting continues in eastern DRC",
     "country": "DRC",
@@ -513,6 +441,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-13T09:40:22+00:00"
+   },
+   {
+    "id": "c72ab7dce60c",
+    "title": "Green forest fire notification in Nigeria",
+    "country": "Nigeria",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T23:06:16+00:00"
    },
    {
     "id": "952a027f2cb2",
@@ -553,16 +491,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-13T09:50:05+00:00"
-   },
-   {
-    "id": "07d98462997d",
-    "title": "Mauritius",
-    "country": "Mauritius",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-13T09:06:03+00:00"
    }
   ],
   "South Asia": [
@@ -637,10 +565,92 @@
     "time": "2026-10-13T05:01:14+00:00"
    }
   ],
+  "Latin America & Caribbean": [
+   {
+    "id": "06673a575a70",
+    "title": "M4.8 earthquake, 5 km NW of Cepitá, Colombia",
+    "country": "Colombia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T21:24:21.135000+00:00"
+   },
+   {
+    "id": "f89f0f8fc400",
+    "title": "In Brazil, thousands march fearing return of Bolsonaro presidency",
+    "country": "Brazil",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T14:59:30+00:00"
+   },
+   {
+    "id": "0176d4b4c684",
+    "title": "M4.5 earthquake, 26 km SSW of Zapotillo, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T12:51:32.169000+00:00"
+   },
+   {
+    "id": "1334e31984d1",
+    "title": "M4.7 earthquake, 14 km WNW of Río Grande, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T06:39:04.944000+00:00"
+   },
+   {
+    "id": "8f255b7fc894",
+    "title": "Green flood alert in Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T05:56:30+00:00"
+   },
+   {
+    "id": "93f9e2cb0fe6",
+    "title": "Green flood alert in Costa Rica",
+    "country": "Costa Rica",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T05:55:58+00:00"
+   },
+   {
+    "id": "5754a66b1623",
+    "title": "M4.7 earthquake, 9 km SSE of La Mesa, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-13T02:48:02.033000+00:00"
+   }
+  ],
   "Oceania": [
    {
     "id": "b30673bc1be0",
     "title": "Man charged with murder over shooting death of boy, 12, in Sydney last month",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-13T21:09:19+00:00"
+   },
+   {
+    "id": "ba21bc186be7",
+    "title": "Man charged with murder after boy, 12, shot in the face and neck in Sydney last month",
     "country": "Australia",
     "city": "Sydney",
     "category": "crime",
