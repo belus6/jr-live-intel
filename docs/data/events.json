@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-14T19:36:08.498465+00:00",
+ "generated": "2026-10-14T22:39:38.354203+00:00",
  "sample": false,
- "count": 506,
+ "count": 509,
  "events": [
   {
    "title": "WHO alarmed that many Ebola deaths in DR Congo occur in communities",
@@ -88,34 +88,6 @@
    "watch": []
   },
   {
-   "title": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings",
-   "time": "2026-10-12T21:40:51+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Bolivia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T01:33:05.805082+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ec18e86b0761",
-   "flag": "🇧🇴",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.09,
-   "watch": []
-  },
-  {
    "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
@@ -182,34 +154,6 @@
    "watch": []
   },
   {
-   "title": "M4.9 earthquake, 12 km SSW of Tebario, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19s",
-   "time": "2026-10-09T20:20:23.334000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.6169,
-   "lon": -81.0268,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19s",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T20:04:39.257596+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "ce7e78417ff7",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
    "title": "US senators urge Trump administration to enforce new Russia sanctions law ahead of Oct. 18 deadline",
    "summary": "",
    "url": "https://kyivindependent.com/us-senators-urge-trump-administration-to-enforce-new-russia-sanctions-law-ahead-of-oct-18-deadline/",
@@ -235,6 +179,34 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "French anti-terror investigators probe True Crime Community link to school shooting",
+   "summary": "",
+   "url": "https://www.france24.com/en/french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
+   "time": "2026-10-14T20:58:31+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "France",
+   "city": "Marseille",
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "749e25057ad1",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -859,36 +831,6 @@
    "watch": []
   },
   {
-   "title": "Two killed near Israeli-occupied area in south Lebanon",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
-   "time": "2026-10-11T20:46:45+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Lebanon",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T23:12:47.570028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c81e178e5aab",
-   "flag": "🇱🇧",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.29,
-   "watch": [
-    "Field staff, Lebanon"
-   ]
-  },
-  {
    "title": "Pakistan suspends Imran Khan’s party-led provincial government",
    "summary": "",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
@@ -1148,6 +1090,90 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "What is Starshield, SpaceX's military version of Starlink?",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261014-what-is-starshield-spacex-s-military-version-of-starlink",
+   "time": "2026-10-14T20:15:58+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261014-what-is-starshield-spacex-s-military-version-of-starlink",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b415103f1c93",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "US lifts sanctions on Venezuela’s top legislator",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
+   "time": "2026-10-14T19:53:03+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Venezuela",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "fa5589673f3f",
+   "flag": "🇻🇪",
+   "region": "Latin America & Caribbean",
+   "baseline": 4.49,
+   "watch": []
+  },
+  {
+   "title": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
+   "summary": "",
+   "url": "https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres",
+   "time": "2026-10-14T19:49:17+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7b75512263dd",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -5278,123 +5304,6 @@
    "watch": []
   },
   {
-   "title": "Watch: What's behind Trump's energy ceasefire claim?",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-11T20:55:02+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T23:12:47.570028+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "b79d870582cf",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
-   "time": "2026-10-11T20:44:17+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Sudan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T23:12:47.570028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "717bef8d7360",
-   "flag": "🇸🇩",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "Russian drone strike kills 3 service members in Ivano-Frankivsk, wounds 3 others",
-   "summary": "",
-   "url": "https://kyivindependent.com/russian-drone-strike-kills-3-service-members-in-ivano-frankivsk-wounds-3-others/",
-   "time": "2026-10-11T20:40:00+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-drone-strike-kills-3-service-members-in-ivano-frankivsk-wounds-3-others/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-11T23:12:47.570028+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "9d404f00888c",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Zelenskyy welcomes US-announced energy ceasefire",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
-   "time": "2026-10-11T20:28:46+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T23:12:47.570028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b10ebb7e2ba0",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
    "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
@@ -6619,6 +6528,202 @@
    "watch": []
   },
   {
+   "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
+   "time": "2026-10-14T21:35:27+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Colombia",
+   "city": "Bogota",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "dd1eb91a4e01",
+   "flag": "🇨🇴",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.26,
+   "watch": []
+  },
+  {
+   "title": "Sky turns orange as wildfires rage across Indonesia",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sky-turns-orange-as-wildfires-rage-across-indonesia?traffic_source=rss",
+   "time": "2026-10-14T20:39:59+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sky-turns-orange-as-wildfires-rage-across-indonesia?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5e6b64c47ddb",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "Kenya reports second Ebola case",
+   "summary": "",
+   "url": "https://www.france24.com/en/kenya-reports-second-ebola-case",
+   "time": "2026-10-14T20:32:00+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "Nigeria",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/kenya-reports-second-ebola-case",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "33c413a38a9c",
+   "flag": "🇳🇬",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "Woman rescued after being swept away by Istanbul flash flood",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/woman-rescued-after-being-swept-away-by-istanbul-flash-flood?traffic_source=rss",
+   "time": "2026-10-14T20:29:50+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Turkey",
+   "city": "Istanbul",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/woman-rescued-after-being-swept-away-by-istanbul-flash-flood?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "da21c4a00e5d",
+   "flag": "🇹🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.78,
+   "watch": []
+  },
+  {
+   "title": "Student protesters attack government buildings in Tirana",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-14T20:29:05+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": "Tirana",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f5e0c92a4ad3",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Well-wishers rally behind Pope Leo XIV as he recovers from cancer surgery",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/14/well-wishers-rally-behind-pope-leo-xiv-as-he-recovers-from-cancer-surgery/",
+   "time": "2026-10-14T19:53:26+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Italy",
+   "city": "Rome",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/14/well-wishers-rally-behind-pope-leo-xiv-as-he-recovers-from-cancer-surgery/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "b840d37e7a81",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
+   "watch": []
+  },
+  {
+   "title": "How far will cockroach movement go? India's youth-led protests defy Modi government",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/the-debate/20261014-how-far-will-cockroach-movement-go-india-s-youth-led-protests-defy-modi-government",
+   "time": "2026-10-14T18:40:21+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/the-debate/20261014-how-far-will-cockroach-movement-go-india-s-youth-led-protests-defy-modi-government",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "97fce2a0b2a1",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
    "title": "India’s cockroach protesters defy Modi’s crackdown – The Latest",
    "summary": "",
    "url": "https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest",
@@ -6644,6 +6749,39 @@
    "flag": "🇮🇳",
    "region": "South Asia",
    "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Kenya confirms second Ebola case - a relative of the first victim",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-14T17:23:01+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "Kenya",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    },
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "e875064b0344",
+   "flag": "🇰🇪",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.97,
    "watch": []
   },
   {
@@ -7021,6 +7159,34 @@
    "watch": []
   },
   {
+   "title": "Haiti sanctions renewed: Starving the gangs of bullets",
+   "summary": "",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168598",
+   "time": "2026-10-14T12:00:00+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Haiti",
+   "city": "Port-au-Prince",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168598",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0161aaa585b3",
+   "flag": "🇭🇹",
+   "region": "Latin America & Caribbean",
+   "baseline": 4.53,
+   "watch": []
+  },
+  {
    "title": "French student protesters are being 'exploited' by political forces, Macron says",
    "summary": "",
    "url": "https://www.france24.com/en/france/20261014-macron-says-french-student-protesters-exploited-by-political-forces",
@@ -7126,11 +7292,16 @@
      "name": "The Guardian World",
      "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
      "tier": "B"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261014-albania-protests-protestors-demand-pm-rama-resignation",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-14T15:23:48.590954+00:00",
-   "confidence": "C2",
-   "corroboration": 2,
+   "confidence": "C1",
+   "corroboration": 3,
    "id": "80d649b9552f",
    "flag": "🇦🇱",
    "region": "Eastern Europe",
@@ -9085,6 +9256,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Papua New Guinea",
+   "summary": "On 30/09/2026, a forest fire started in Papua New Guinea, until 12/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032780",
+   "time": "2026-10-13T11:14:09+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -6.459725956016351,
+   "lon": 141.07964325503426,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032780",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "fc270661cd42",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
+   "watch": []
+  },
+  {
    "title": "Foot-and-mouth disease spreads to Namibia’s Zambezi Region",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/13/foot-and-mouth-disease-spreads-to-namibias-zambezi-region/",
@@ -9611,6 +9810,34 @@
    "confidence": "A1",
    "corroboration": 1,
    "id": "d961af26a8f1",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Indonesia",
+   "summary": "On 05/10/2026, a forest fire started in Indonesia, until 13/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032778",
+   "time": "2026-10-13T03:07:53+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -2.8664226772147168,
+   "lon": 112.62564239277769,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032778",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "8c8c35483560",
    "flag": "🇮🇩",
    "region": "East & SE Asia",
    "baseline": 2.51,
@@ -12489,151 +12716,6 @@
    "flag": "🇧🇴",
    "region": "Latin America & Caribbean",
    "baseline": 3.09,
-   "watch": []
-  },
-  {
-   "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-09T21:26:30+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T23:50:44.234490+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "a2c73dc80df6",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 96 km NE of Ozernovskiy, Russia",
-   "summary": "Depth 78 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ah",
-   "time": "2026-10-09T21:19:16.481000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 52.0441,
-   "lon": 157.5832,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ah",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-09T23:50:44.234490+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "bb56780eb4f5",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, 8 km SSE of Leones Arriba, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1a5",
-   "time": "2026-10-09T20:41:04.293000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.6771,
-   "lon": -81.0923,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1a5",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T20:04:39.257596+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "8d4deb84c38f",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 6.6M, Depth:10km) in Panama 09/10/2026 20:25 UTC, 10 thousand (in MMI>=VII).",
-   "summary": "On 10/9/2026 8:25:39 PM, an earthquake occurred in Panama potentially affecting 10 thousand (in MMI>=VII). The earthquake had Magnitude 6.6M, Depth:10km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570370",
-   "time": "2026-10-09T20:32:32+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.7176,
-   "lon": -81.4687,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570370",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-11T19:43:43.869349+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "ad89b969bef8",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "M4.7 earthquake, 121 km S of Kokopo, Papua New Guinea",
-   "summary": "Depth 51 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19v",
-   "time": "2026-10-09T20:20:09.257000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Papua New Guinea",
-   "city": null,
-   "lat": -5.4312,
-   "lon": 152.1103,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19v",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-09T23:50:44.234490+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "20f6e1a57979",
-   "flag": "🇵🇬",
-   "region": "East & SE Asia",
-   "baseline": 3.3,
    "watch": []
   },
   {

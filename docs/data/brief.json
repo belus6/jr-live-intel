@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-14T19:36:08.498465+00:00",
+ "generated": "2026-10-14T22:39:38.354203+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 52,
-  "3": 52,
-  "4": 4,
+  "2": 54,
+  "3": 49,
+  "4": 5,
   "5": 2
  },
  "watch_hits": [],
@@ -83,17 +83,27 @@
     "time": "2026-10-14T17:03:19+00:00"
    },
    {
-    "id": "f6f04c7e2908",
-    "title": "DR Congo: Cholera cases spike amid fight against Ebola",
-    "country": "DRC",
+    "id": "e875064b0344",
+    "title": "Kenya confirms second Ebola case - a relative of the first victim",
+    "country": "Kenya",
     "city": null,
     "category": "health",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T12:00:00+00:00"
+    "confidence": "B2",
+    "time": "2026-10-14T17:23:01+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "749e25057ad1",
+    "title": "French anti-terror investigators probe True Crime Community link to school shooting",
+    "country": "France",
+    "city": "Marseille",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-14T20:58:31+00:00"
+   },
    {
     "id": "8c69f07e8826",
     "title": "Ex-UK army chef jailed for ‘terror’-related offence",
@@ -163,16 +173,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-14T09:35:51+00:00"
-   },
-   {
-    "id": "3e4155185e9b",
-    "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-    "country": "Greece",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T09:09:39+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -269,6 +269,36 @@
     "time": "2026-10-14T09:31:54+00:00"
    },
    {
+    "id": "fa5589673f3f",
+    "title": "US lifts sanctions on Venezuela’s top legislator",
+    "country": "Venezuela",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-14T19:53:03+00:00"
+   },
+   {
+    "id": "dd1eb91a4e01",
+    "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+    "country": "Colombia",
+    "city": "Bogota",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T21:35:27+00:00"
+   },
+   {
+    "id": "0161aaa585b3",
+    "title": "Haiti sanctions renewed: Starving the gangs of bullets",
+    "country": "Haiti",
+    "city": "Port-au-Prince",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T12:00:00+00:00"
+   },
+   {
     "id": "f847aef83dd3",
     "title": "Green flood alert in Honduras",
     "country": "Honduras",
@@ -307,59 +337,9 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-14T01:43:56+00:00"
-   },
-   {
-    "id": "b3f65ea292a0",
-    "title": "M5.1 earthquake, 93 km NNW of Coquimbo, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-14T00:30:47.706000+00:00"
-   },
-   {
-    "id": "06673a575a70",
-    "title": "M4.8 earthquake, 5 km NW of Cepitá, Colombia",
-    "country": "Colombia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-13T21:24:21.135000+00:00"
    }
   ],
   "Eastern Europe": [
-   {
-    "id": "d6bc7c10a5da",
-    "title": "Large-scale Russian missile attack on Kyiv strikes power plants, residential buildings, killing 3, injuring 22",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-10-13T20:13:25+00:00"
-   },
-   {
-    "id": "dcf1bb4b1151",
-    "title": "Deadly Russian missile strike in Kyiv kills 2, injures 21 — allies gave no early warning, Zelensky says",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-10-13T20:13:25+00:00"
-   },
-   {
-    "id": "4e774da3a638",
-    "title": "Large-scale Russian missile attack on Kyiv strikes power plants, residential buildings, killing 4, injuring 25",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-10-13T20:13:25+00:00"
-   },
    {
     "id": "eb2b0b2029cc",
     "title": "Ukraine accuses SpaceX of crippling military missions as ties with US worsen",
@@ -379,6 +359,26 @@
     "severity": 3,
     "confidence": "C2",
     "time": "2026-10-14T10:31:08+00:00"
+   },
+   {
+    "id": "b415103f1c93",
+    "title": "What is Starshield, SpaceX's military version of Starlink?",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-14T20:15:58+00:00"
+   },
+   {
+    "id": "7b75512263dd",
+    "title": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-14T19:49:17+00:00"
    },
    {
     "id": "9e50f5b92b32",
@@ -409,6 +409,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-14T14:38:09+00:00"
+   },
+   {
+    "id": "39d54afb1df0",
+    "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-14T14:17:59+00:00"
    }
   ],
   "Oceania": [
@@ -461,26 +471,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-14T03:37:02+00:00"
-   },
-   {
-    "id": "b30673bc1be0",
-    "title": "Man charged with murder over shooting death of boy, 12, in Sydney last month",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T21:09:19+00:00"
-   },
-   {
-    "id": "ba21bc186be7",
-    "title": "Man charged with murder after boy, 12, shot in the face and neck in Sydney last month",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T21:09:19+00:00"
    }
   ],
   "North America": [
@@ -543,26 +533,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-14T09:39:35+00:00"
-   },
-   {
-    "id": "c735e8c51222",
-    "title": "Intense waves and floods batter California waterfront homes and boardwalks",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T21:29:08+00:00"
-   },
-   {
-    "id": "1f934ed171eb",
-    "title": "Former gang leader sentenced to 40 years to life for Tupac Shakur murder",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-13T19:57:31+00:00"
    }
   ],
   "South Asia": [
@@ -575,6 +545,16 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-14T05:29:23+00:00"
+   },
+   {
+    "id": "97fce2a0b2a1",
+    "title": "How far will cockroach movement go? India's youth-led protests defy Modi government",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T18:40:21+00:00"
    },
    {
     "id": "4ea72367aa2e",
@@ -618,6 +598,16 @@
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "5e6b64c47ddb",
+    "title": "Sky turns orange as wildfires rage across Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T20:39:59+00:00"
+   },
    {
     "id": "fc3c8cf2ad38",
     "title": "M4.9 earthquake, 121 km S of Kokopo, Papua New Guinea",
