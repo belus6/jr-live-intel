@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-14T15:23:48.590954+00:00",
+ "generated": "2026-10-14T19:36:08.498465+00:00",
  "sample": false,
- "count": 520,
+ "count": 506,
  "events": [
   {
    "title": "WHO alarmed that many Ebola deaths in DR Congo occur in communities",
@@ -210,62 +210,6 @@
    "watch": []
   },
   {
-   "title": "M5.0 earthquake, 14 km SE of Río Grande, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197",
-   "time": "2026-10-09T19:04:49.305000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.6161,
-   "lon": -81.2492,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "014750f87e3e",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "M7.7 earthquake, 12 km WSW of Pitaloza Arriba, Panama",
-   "summary": "Depth 13 km. Alert: red.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-   "time": "2026-10-09T17:56:06.036000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.5868,
-   "lon": -80.769,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "61c4c14c70b1",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
    "title": "US senators urge Trump administration to enforce new Russia sanctions law ahead of Oct. 18 deadline",
    "summary": "",
    "url": "https://kyivindependent.com/us-senators-urge-trump-administration-to-enforce-new-russia-sanctions-law-ahead-of-oct-18-deadline/",
@@ -291,6 +235,62 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Ex-UK army chef jailed for ‘terror’-related offence",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
+   "time": "2026-10-14T17:32:09+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8c69f07e8826",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "At least two security officials killed near Iran’s critical Chabahar port",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port?traffic_source=rss",
+   "time": "2026-10-14T16:22:04+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Iran",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8da93c1f6a48",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
    "watch": []
   },
   {
@@ -922,34 +922,6 @@
    "watch": []
   },
   {
-   "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-   "time": "2026-10-11T18:03:22+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T19:43:43.869349+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "8e69315d0585",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
    "title": "M6.2 earthquake, 79 km SSE of Panguna, Papua New Guinea",
    "summary": "Depth 53 km. Alert: green.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
@@ -1090,118 +1062,6 @@
    "watch": []
   },
   {
-   "title": "Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 460 thousand (in MMI>=VII).",
-   "summary": "On 10/9/2026 5:56:06 PM, an earthquake occurred in Panama potentially affecting 460 thousand (in MMI>=VII). The earthquake had Magnitude 7.7M, Depth:12.647km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570339",
-   "time": "2026-10-09T18:04:04+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.5868,
-   "lon": -80.769,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570339",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "e63474bf542c",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 500 thousand (in MMI>=VII).",
-   "summary": "On 10/9/2026 5:56:06 PM, an earthquake occurred in Panama potentially affecting 500 thousand (in MMI>=VII). The earthquake had Magnitude 7.7M, Depth:12.647km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570339",
-   "time": "2026-10-09T18:04:04+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.5868,
-   "lon": -80.769,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570339",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-09T23:50:44.234490+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "fa44072ff232",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 590 thousand (in MMI>=VII).",
-   "summary": "On 10/9/2026 5:56:06 PM, an earthquake occurred in Panama potentially affecting 590 thousand (in MMI>=VII). The earthquake had Magnitude 7.7M, Depth:12.647km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570339",
-   "time": "2026-10-09T18:04:04+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.5868,
-   "lon": -80.769,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570339",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T04:42:04.828766+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "2740b7d7342b",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 540 thousand (in MMI>=VII).",
-   "summary": "On 10/9/2026 5:56:06 PM, an earthquake occurred in Panama potentially affecting 540 thousand (in MMI>=VII). The earthquake had Magnitude 7.7M, Depth:12.647km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570339",
-   "time": "2026-10-09T18:04:04+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.5868,
-   "lon": -80.769,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1570339",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T20:04:39.257596+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "772308adbe73",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
    "title": "Eritrea",
    "summary": "FCDO now advises against all but essential travel to Eritrea. FCDO continues to advise against all travel to within 25km of all of Eritrea’s land borders (‘Warnings and insurance’ page).",
    "url": "https://www.gov.uk/foreign-travel-advice/eritrea",
@@ -1288,6 +1148,230 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Israel blocks construction of key Gaza base created by Trump peace board",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
+   "time": "2026-10-14T19:19:52+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "db9e48b45dfb",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
+   "time": "2026-10-14T18:54:34+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "9e50f5b92b32",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Ukraine war latest: Operation Vivaldi liberates another 101 square kilometers in Donetsk Oblast",
+   "summary": "",
+   "url": "https://kyivindependent.com/ukraine-war-latest-operation-vivaldi-liberates-another-101-square-kilometers-in-donetsk-oblast/",
+   "time": "2026-10-14T17:51:27+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "United Kingdom",
+   "city": "London",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-war-latest-operation-vivaldi-liberates-another-101-square-kilometers-in-donetsk-oblast/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "1a4ee63084ab",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "‘Growing ambitions’: Dr. Kendall on Houthis’ quest to be recognised as Yemen’s ‘legitimate' leaders",
+   "summary": "",
+   "url": "https://www.france24.com/en/growing-ambitions-dr-kendall-on-houthis-quest-to-be-recognised-as-yemen-s-legitimate-leaders",
+   "time": "2026-10-14T17:18:04+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/growing-ambitions-dr-kendall-on-houthis-quest-to-be-recognised-as-yemen-s-legitimate-leaders",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "764e57fa51e8",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+   "time": "2026-10-14T17:05:42+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Iran",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a96bd66c8e6d",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "SBU detains 18-year-old suspected FSB agent in Kyiv over attempt to activate 148 Starlink terminals for Russia",
+   "summary": "",
+   "url": "https://kyivindependent.com/sbu-detains-18-year-old-suspected-fsb-agent-in-kyiv-over-attempt-to-activate-148-starlink-terminals-for-russia/",
+   "time": "2026-10-14T16:51:59+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/sbu-detains-18-year-old-suspected-fsb-agent-in-kyiv-over-attempt-to-activate-148-starlink-terminals-for-russia/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "46179fa2563f",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
+   "summary": "",
+   "url": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
+   "time": "2026-10-14T16:51:25+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3124772986a1",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "Cornell president acknowledges he knew about fraternity sexual assault but didn’t follow up",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/14/cornell-president-fraternity-sexual-assault-interview",
+   "time": "2026-10-14T16:30:10+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Australia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/14/cornell-president-fraternity-sexual-assault-interview",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f16ab241cb78",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
    "watch": []
   },
   {
@@ -1475,11 +1559,16 @@
      "name": "France 24",
      "url": "https://www.france24.com/en/video/20261014-ukraine-accuses-spacex-of-crippling-military-missions-as-ties-with-us-worsen",
      "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-14T15:23:48.590954+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B2",
+   "corroboration": 2,
    "id": "eb2b0b2029cc",
    "flag": "🇺🇦",
    "region": "Eastern Europe",
@@ -5334,95 +5423,6 @@
    "watch": []
   },
   {
-   "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-   "time": "2026-10-11T18:36:54+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Russia",
-   "city": "Moscow",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T19:43:43.869349+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "50787e6d8a8d",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – as it happened",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-   "time": "2026-10-11T18:36:54+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Russia",
-   "city": "Moscow",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-     "tier": "B"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-12T02:27:13.906763+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "8fc8808542e2",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "'To keep oil prices from rising' — Russian lawmaker questions Trump’s energy ceasefire claim",
-   "summary": "",
-   "url": "https://kyivindependent.com/to-keep-oil-prices-from-rising-russian-lawmaker-questions-trumps-energy-ceasefire-claim/",
-   "time": "2026-10-11T18:35:42+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/to-keep-oil-prices-from-rising-russian-lawmaker-questions-trumps-energy-ceasefire-claim/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-11T19:43:43.869349+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "78a9368425a1",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
    "title": "M4.7 earthquake, 156 km ESE of Neiafu, Tonga",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1lk",
@@ -5476,118 +5476,6 @@
    "flag": "🇳🇵",
    "region": "South Asia",
    "baseline": 2.76,
-   "watch": []
-  },
-  {
-   "title": "Russia struck Kharkiv's power plant shortly after Trump announced 'energy ceasefire'",
-   "summary": "",
-   "url": "https://kyivindependent.com/russia-struck-kharkivs-power-plant-shortly-after-trump-announced-energy-ceasefire/",
-   "time": "2026-10-11T17:21:00+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russia-struck-kharkivs-power-plant-shortly-after-trump-announced-energy-ceasefire/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-11T19:43:43.869349+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "1585062a75c8",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-   "time": "2026-10-11T16:49:05+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T19:43:43.869349+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "1535b15ba382",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
-   "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
-   "time": "2026-10-11T16:04:20+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T19:43:43.869349+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "797cff816e42",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-   "time": "2026-10-11T15:56:25+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T19:43:43.869349+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b2ed31ecca6e",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
    "watch": []
   },
   {
@@ -6240,90 +6128,6 @@
    "watch": []
   },
   {
-   "title": "Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warning",
-   "summary": "",
-   "url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
-   "time": "2026-10-09T18:39:03+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "38313822e3d0",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warnings",
-   "summary": "",
-   "url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
-   "time": "2026-10-09T18:39:03+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T23:50:44.234490+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "aa79563c7cfb",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "M5.5 earthquake, 3 km SW of Bajo Corral, Panama",
-   "summary": "Depth 10 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t",
-   "time": "2026-10-09T18:22:15.709000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.586,
-   "lon": -80.2885,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "53b7415c8863",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
    "title": "US sanctions court that seeks to arrest Putin, prompts backlash",
    "summary": "",
    "url": "https://kyivindependent.com/us-sanctions-court-that-seeks-to-arrest-putin-prompts-backlash-2/",
@@ -6815,6 +6619,128 @@
    "watch": []
   },
   {
+   "title": "India’s cockroach protesters defy Modi’s crackdown – The Latest",
+   "summary": "",
+   "url": "https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest",
+   "time": "2026-10-14T17:40:05+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": "Delhi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4ea72367aa2e",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Kenya’s Health Ministry confirms second Ebola case",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case?traffic_source=rss",
+   "time": "2026-10-14T17:03:19+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "Kenya",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case?traffic_source=rss",
+     "tier": "B"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    },
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B1",
+   "corroboration": 3,
+   "id": "245f8ff3da59",
+   "flag": "🇰🇪",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.97,
+   "watch": []
+  },
+  {
+   "title": "‘The idea that Modi must be feared because he holds all levers of power has gone out of the window’",
+   "summary": "",
+   "url": "https://www.france24.com/en/the-idea-that-modi-must-be-feared-because-he-holds-all-levers-of-power-has-gone-out-of-the-window",
+   "time": "2026-10-14T16:51:51+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/the-idea-that-modi-must-be-feared-because-he-holds-all-levers-of-power-has-gone-out-of-the-window",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "90ad40a01ca6",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Fire erupts at Albania’s Education Ministry as protests enter third day",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss",
+   "time": "2026-10-14T16:23:20+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "bd1736371eef",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
    "title": "Albania: Fire at Education Ministry as students protest",
    "summary": "",
    "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-world-4025-rdf",
@@ -7067,6 +6993,34 @@
    "watch": []
   },
   {
+   "title": "DR Congo: Cholera cases spike amid fight against Ebola",
+   "summary": "",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168595",
+   "time": "2026-10-14T12:00:00+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "DRC",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168595",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f6f04c7e2908",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
+   "watch": []
+  },
+  {
    "title": "French student protesters are being 'exploited' by political forces, Macron says",
    "summary": "",
    "url": "https://www.france24.com/en/france/20261014-macron-says-french-student-protesters-exploited-by-political-forces",
@@ -7167,11 +7121,16 @@
      "name": "Africanews",
      "url": "http://www.africanews.com/2026/10/14/albania-student-protests-in-tirana-turn-violent-as-flamingo-revolution-escalates/",
      "tier": "C"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-14T15:23:48.590954+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
+   "confidence": "C2",
+   "corroboration": 2,
    "id": "80d649b9552f",
    "flag": "🇦🇱",
    "region": "Eastern Europe",
@@ -7743,6 +7702,34 @@
    "confidence": "A1",
    "corroboration": 1,
    "id": "bef03d7f426d",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
+   "watch": []
+  },
+  {
+   "title": "M4.6 earthquake, 75 km E of Kokopo, Papua New Guinea",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26u",
+   "time": "2026-10-14T02:12:14.885000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -4.4488,
+   "lon": 152.9436,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26u",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-14T19:36:08.498465+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "335a46513709",
    "flag": "🇵🇬",
    "region": "East & SE Asia",
    "baseline": 3.3,
@@ -10004,90 +9991,6 @@
    "watch": []
   },
   {
-   "title": "Stolen Renoir paintings found behind wall in France following arrests",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/12/stolen-renoir-paintings-found-behind-wall-in-france-following-arrests?traffic_source=rss",
-   "time": "2026-10-12T18:10:35+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/12/stolen-renoir-paintings-found-behind-wall-in-france-following-arrests?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9f1aa7dbabd8",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Zohran Mamdani orders use-of-force review for New York City police",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/12/zohran-mamdani-orders-use-of-force-review-for-new-york-city-police?traffic_source=rss",
-   "time": "2026-10-12T17:50:06+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United States",
-   "city": "New York",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/12/zohran-mamdani-orders-use-of-force-review-for-new-york-city-police?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "79a9cbe0e578",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "Spain: National Day highlights territorial unity from Barcelona to Ceuta",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/12/spain-national-day-highlights-territorial-unity-from-barcelona-to-ceuta/",
-   "time": "2026-10-12T17:46:16+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Spain",
-   "city": "Barcelona",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/12/spain-national-day-highlights-territorial-unity-from-barcelona-to-ceuta/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "0e1a36c5cc59",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
@@ -10115,95 +10018,6 @@
    "confidence": "B2",
    "corroboration": 2,
    "id": "31f360622c37",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "India's opposition parties march to top court as protests over voter lists escalate",
-   "summary": "",
-   "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
-   "time": "2026-10-12T16:01:54+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": "Delhi",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
-     "tier": "B"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/gallery/2026/10/12/photos-protests-over-voter-lists-escalate-in-indias-capital?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "d3b38ba17795",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "Midterms 2026: Turning Point and the battle for Charlie Kirk’s legacy",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261012-midterms-2026-turning-point-and-the-battle-for-charlie-kirk-s-legacy",
-   "time": "2026-10-12T15:59:52+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "United States",
-   "city": "Phoenix",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261012-midterms-2026-turning-point-and-the-battle-for-charlie-kirk-s-legacy",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "982467739c92",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "France school shooting: Police detain pupil after two injured",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss",
-   "time": "2026-10-12T15:47:43+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "bbbf706d3d1d",
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
@@ -12820,222 +12634,6 @@
    "flag": "🇵🇬",
    "region": "East & SE Asia",
    "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "Injured Orangutan rescued from Indonesia wildfires",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
-   "time": "2026-10-09T19:14:56+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T23:50:44.234490+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "e45d47c52265",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Indonesia",
-   "summary": "On 29/09/2026, a forest fire started in Indonesia, until 08/10/2026.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032658",
-   "time": "2026-10-09T19:07:06+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": -2.8399898507821004,
-   "lon": 133.43214593762085,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032658",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T23:34:04.686368+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "8c8c35483560",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Papua New Guinea",
-   "summary": "On 04/10/2026, a forest fire started in Papua New Guinea, until 10/10/2026.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032666",
-   "time": "2026-10-09T19:03:06+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Papua New Guinea",
-   "city": null,
-   "lat": -9.173558045845883,
-   "lon": 142.54046565035674,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032666",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T23:34:04.686368+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "fc270661cd42",
-   "flag": "🇵🇬",
-   "region": "East & SE Asia",
-   "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Malawi",
-   "summary": "On 05/10/2026, a forest fire started in Malawi, until 09/10/2026.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032673",
-   "time": "2026-10-09T19:02:01+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Malawi",
-   "city": null,
-   "lat": -12.811856905074935,
-   "lon": 33.227342142695754,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032673",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "aebcb8329334",
-   "flag": "🇲🇼",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.23,
-   "watch": []
-  },
-  {
-   "title": "🔴 Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warning",
-   "summary": "",
-   "url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
-   "time": "2026-10-09T18:41:26+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
-     "tier": "B"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
-     "tier": "B"
-    },
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T23:50:44.234490+00:00",
-   "confidence": "B1",
-   "corroboration": 3,
-   "id": "2154dfd20144",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-   "time": "2026-10-09T18:29:26+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-     "tier": "B"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261009-powerful-7-6-magnitude-quake-shakes-panama-triggering-tsunami-warning",
-     "tier": "B"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "B1",
-   "corroboration": 3,
-   "id": "86c2bbf0f1a5",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "M4.7 earthquake, 138 km SE of Petropavlovsk-Kamchatsky, Russia",
-   "summary": "Depth 34 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18d",
-   "time": "2026-10-09T16:59:35.349000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 52.2214,
-   "lon": 160.1309,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18d",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-09T19:48:00.924469+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "8e4c5182f20d",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
    "watch": []
   },
   {
