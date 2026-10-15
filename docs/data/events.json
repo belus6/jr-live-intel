@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-15T19:13:31.534263+00:00",
+ "generated": "2026-10-15T22:24:34.061024+00:00",
  "sample": false,
- "count": 492,
+ "count": 500,
  "events": [
   {
    "title": "WHO raises alarm over undetected Ebola cases in DR Congo",
@@ -138,6 +138,72 @@
    "confidence": "A1",
    "corroboration": 1,
    "id": "233b6ffaec19",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
+   "summary": "",
+   "url": "https://www.france24.com/en/sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
+   "time": "2026-10-15T21:07:06+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f66bb33d1999",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
+   "time": "2026-10-15T16:50:42+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
+     "tier": "B"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "B1",
+   "corroboration": 3,
+   "id": "589a1cdeeb7f",
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
@@ -999,6 +1065,146 @@
    "watch": []
   },
   {
+   "title": "South Sudan Clashes Kill at Least 16 People",
+   "summary": "",
+   "url": "https://www.riotimesonline.com/south-sudan-tonj-east-clashes-16-killed-2026/",
+   "time": "2026-10-15T21:45:00+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "riotimesonline.com (via GDELT)",
+     "url": "https://www.riotimesonline.com/south-sudan-tonj-east-clashes-16-killed-2026/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "3d792756652d",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
+   "title": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+   "time": "2026-10-15T20:00:36+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "cf10df6509c1",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Donald Trump 'openly financing Russia's war with Ukraine', Nobel peace laureate says",
+   "summary": "",
+   "url": "https://www.france24.com/en/donald-trump-openly-financing-russia-s-war-with-ukraine-nobel-peace-laureate-says",
+   "time": "2026-10-15T19:48:10+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Russia",
+   "city": "Moscow",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/donald-trump-openly-financing-russia-s-war-with-ukraine-nobel-peace-laureate-says",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "03a01594a548",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "UK to resupply Ukraine with more Storm Shadow missiles to strike Russia, Bloomberg reports",
+   "summary": "",
+   "url": "https://kyivindependent.com/uk-to-resupply-ukraine-with-more-storm-shadow-missiles-to-strike-russia-bloomberg-reports/",
+   "time": "2026-10-15T19:26:53+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "United Kingdom",
+   "city": "London",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/uk-to-resupply-ukraine-with-more-storm-shadow-missiles-to-strike-russia-bloomberg-reports/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "d51073428209",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "Houthis struck Riyadh airport 20 times in October, Saudi-led coalition says",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/15/houthis-struck-riyadh-airport-20-times-in-october-saudi-led-coalition-says/",
+   "time": "2026-10-15T19:16:57+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Saudi Arabia",
+   "city": "Riyadh",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/15/houthis-struck-riyadh-airport-20-times-in-october-saudi-led-coalition-says/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "d455363864ef",
+   "flag": "🇸🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
    "title": "Russian soldier faces life in prison over alleged killing of 5 Ukrainian troops, civilian in Kharkiv Oblast",
    "summary": "",
    "url": "https://kyivindependent.com/russian-soldier-faces-life-in-prison-over-alleged-killing-of-5-ukrainian-troops-civilian-in-kharkiv-oblast/",
@@ -1239,11 +1445,16 @@
      "name": "BBC World",
      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
      "tier": "B"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/seven-missing-off-romania-after-latest-black-sea-drone-attacks",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-15T15:14:13.860730+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B2",
+   "corroboration": 2,
    "id": "68f670f4dff6",
    "flag": "🇷🇴",
    "region": "Eastern Europe",
@@ -4800,174 +5011,6 @@
    "watch": []
   },
   {
-   "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
-   "summary": "",
-   "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
-   "time": "2026-10-12T21:43:48+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T01:33:05.805082+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f14b5db9b66b",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Paris Motor Show kicks off as China-EU rivalry heats up",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/business/20261012-paris-motor-show-kicks-off-as-china-eu-rivalry-heats-up",
-   "time": "2026-10-12T21:03:50+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/business/20261012-paris-motor-show-kicks-off-as-china-eu-rivalry-heats-up",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T01:33:05.805082+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "de11dc72f967",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-12T20:17:37+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Russia",
-   "city": "Moscow",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T01:33:05.805082+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "903b88d5c933",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "'Increasingly evident' Russia won't accept 'energy ceasefire': Zelensky",
-   "summary": "",
-   "url": "https://www.france24.com/en/increasingly-evident-russia-won-t-accept-energy-ceasefire-zelensky",
-   "time": "2026-10-12T19:40:05+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/increasingly-evident-russia-won-t-accept-energy-ceasefire-zelensky",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T01:33:05.805082+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "e7651130f889",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Kyiv under missile attack before air raid alert issued",
-   "summary": "",
-   "url": "https://kyivindependent.com/explosions-heard-in-kyiv-before-air-raid-alert-issued/",
-   "time": "2026-10-12T19:23:05+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/explosions-heard-in-kyiv-before-air-raid-alert-issued/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-13T01:33:05.805082+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "b2a9c5040f9b",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Kyiv under 'particularly vile' missile attack before air raid alert issued",
-   "summary": "",
-   "url": "https://kyivindependent.com/explosions-heard-in-kyiv-before-air-raid-alert-issued/",
-   "time": "2026-10-12T19:23:05+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/explosions-heard-in-kyiv-before-air-raid-alert-issued/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-13T16:20:59.584623+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "9cbea1c5d0ab",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
@@ -6164,34 +6207,6 @@
    "watch": []
   },
   {
-   "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
-   "summary": "",
-   "url": "https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss",
-   "time": "2026-10-08T22:10:53+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-09T01:00:59.271592+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "733d6de6d08e",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "New York governor declares state of emergency after spike in measles cases",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/oct/06/measles-cases-new-york",
@@ -6217,6 +6232,431 @@
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Anti - CEC protest : Imran Khan moves Bombay HC against FRRO notice directing him to leave India by October 28",
+   "summary": "",
+   "url": "https://www.newindianexpress.com/states/maharashtra/2026/Oct/15/anti-cec-protest-imran-khan-moves-bombay-hc-against-frro-notice-directing-him-to-leave-india-by-october-28",
+   "time": "2026-10-15T21:45:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "newindianexpress.com (via GDELT)",
+     "url": "https://www.newindianexpress.com/states/maharashtra/2026/Oct/15/anti-cec-protest-imran-khan-moves-bombay-hc-against-frro-notice-directing-him-to-leave-india-by-october-28",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "214fdd5e13e2",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "La policía reprime una masiva manifestación contra Milei en Buenos Aires - NotiCel - La verdad como es - Noticias de Puerto Rico",
+   "summary": "",
+   "url": "https://noticel.com/noticias/20261015/la-policia-reprime-una-masiva-manifestacion-contra-milei-en-buenos-aires/",
+   "time": "2026-10-15T21:45:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Argentina",
+   "city": "Buenos Aires",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "noticel.com (via GDELT)",
+     "url": "https://noticel.com/noticias/20261015/la-policia-reprime-una-masiva-manifestacion-contra-milei-en-buenos-aires/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "70182b762b69",
+   "flag": "🇦🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Albania: Violent protests rock Tirana for third straight day",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day/",
+   "time": "2026-10-15T21:35:04+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Albania",
+   "city": "Tirana",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "53c16e9d6a3d",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "MS NOW Implores Americans to Protest , Like France , Over Economy",
+   "summary": "",
+   "url": "https://newsbusters.org/blogs/nb/nicholas-spinnato/2026/10/15/ms-nows-ayman-mohyeldin-implores-americans-protest-france",
+   "time": "2026-10-15T21:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "newsbusters.org (via GDELT)",
+     "url": "https://newsbusters.org/blogs/nb/nicholas-spinnato/2026/10/15/ms-nows-ayman-mohyeldin-implores-americans-protest-france",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "5b43f538a435",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "CJP protest at Connaught Place today as Delhi HC refuses curbs",
+   "summary": "",
+   "url": "https://www.tribuneindia.com/news/india/cjp-protest-at-connaught-place-today-as-delhi-hc-refuses-curbs/",
+   "time": "2026-10-15T21:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "India",
+   "city": "Delhi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "tribuneindia.com (via GDELT)",
+     "url": "https://www.tribuneindia.com/news/india/cjp-protest-at-connaught-place-today-as-delhi-hc-refuses-curbs/",
+     "tier": "C"
+    },
+    {
+     "name": "newindianexpress.com (via GDELT)",
+     "url": "https://www.newindianexpress.com/india/2026/Oct/15/delhi-hc-refuses-to-restrain-cjps-protest-at-connaught-place-on-friday-records-police-assurance",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "C2",
+   "corroboration": 2,
+   "id": "33c5bdd550a8",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Several people dead or missing after Istanbul floods",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
+   "time": "2026-10-15T21:15:46+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Turkey",
+   "city": "Istanbul",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "240761144ddf",
+   "flag": "🇹🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.78,
+   "watch": []
+  },
+  {
+   "title": "Anti - CEC protest : Why is PM Modi shutting down Delhi to protect one man ? asks CJP Dipke with Central Park shut ahead of Tiranga march",
+   "summary": "",
+   "url": "https://www.thehindu.com/news/national/anti-cec-protest-why-is-pm-modi-shutting-down-delhi-to-protect-one-man-asks-cjps-dipke-with-central-park-shut-ahead-of-tiranga-march/article71589731.ece",
+   "time": "2026-10-15T21:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "India",
+   "city": "Delhi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "thehindu.com (via GDELT)",
+     "url": "https://www.thehindu.com/news/national/anti-cec-protest-why-is-pm-modi-shutting-down-delhi-to-protect-one-man-asks-cjps-dipke-with-central-park-shut-ahead-of-tiranga-march/article71589731.ece",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "8bf90b925d12",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Imran Khan to challenge FRRO directive asking him to leave India by Oct 28 ; veteran Raza Murad slams him for taking part in protest",
+   "summary": "",
+   "url": "https://www.cinaradio.com/2026/10/15/imran-khan-to-challenge-frros-directive-asking-him-to-leave-india-by-oct-28-veteran-raza-murad-slams-him-for-taking-part-in-protest/",
+   "time": "2026-10-15T20:45:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "cinaradio.com (via GDELT)",
+     "url": "https://www.cinaradio.com/2026/10/15/imran-khan-to-challenge-frros-directive-asking-him-to-leave-india-by-oct-28-veteran-raza-murad-slams-him-for-taking-part-in-protest/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "a6363150916e",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "US winter is likely to be wetter and warmer, forecasters say, with more snow in the south",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/15/winter-weather-snow-rain",
+   "time": "2026-10-15T20:44:18+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "United States",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/15/winter-weather-snow-rain",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "33739c9e8ae9",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 44 km SSE of Champerico, Guatemala",
+   "summary": "Depth 59 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2kz",
+   "time": "2026-10-15T20:39:25.755000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Guatemala",
+   "city": null,
+   "lat": 13.9013,
+   "lon": -91.8178,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2kz",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "f908bda56270",
+   "flag": "🇬🇹",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.4,
+   "watch": []
+  },
+  {
+   "title": "Presidente de la Espriella expide Decreto que regula la protesta : Se respeta , pero no se toleran la violencia , el vandalismo y los bloqueo – Radio Santa Fe 1070 a . m . Noticias de Colombia",
+   "summary": "",
+   "url": "https://www.radiosantafe.com/2026/10/14/presidente-de-la-espriella-expide-decreto-que-regula-la-protesta-se-respeta-pero-no-se-toleran-la-violencia-el-vandalismo-y-los-bloqueos/",
+   "time": "2026-10-15T20:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Colombia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "radiosantafe.com (via GDELT)",
+     "url": "https://www.radiosantafe.com/2026/10/14/presidente-de-la-espriella-expide-decreto-que-regula-la-protesta-se-respeta-pero-no-se-toleran-la-violencia-el-vandalismo-y-los-bloqueos/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "4adff1800305",
+   "flag": "🇨🇴",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.26,
+   "watch": []
+  },
+  {
+   "title": "Jalisco investiga a 17 policías tras protestas por agua en Guadalajara",
+   "summary": "",
+   "url": "https://lasillarota.com/estados/2026/10/15/jalisco-investiga-a-17-policias-tras-protestas-por-agua-en-guadalajara-533132.html",
+   "time": "2026-10-15T19:45:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Mexico",
+   "city": "Guadalajara",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "lasillarota.com (via GDELT)",
+     "url": "https://lasillarota.com/estados/2026/10/15/jalisco-investiga-a-17-policias-tras-protestas-por-agua-en-guadalajara-533132.html",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "62afb13d48bf",
+   "flag": "🇲🇽",
+   "region": "North America",
+   "baseline": 3.32,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Malawi",
+   "summary": "On 05/10/2026, a forest fire started in Malawi, until 15/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032839",
+   "time": "2026-10-15T19:13:20+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Malawi",
+   "city": null,
+   "lat": -12.159364277376731,
+   "lon": 33.9105697468666,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032839",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "aebcb8329334",
+   "flag": "🇲🇼",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.23,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in The Democratic Republic of Congo",
+   "summary": "On 06/10/2026, a forest fire started in The Democratic Republic of Congo, until 15/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032837",
+   "time": "2026-10-15T19:11:02+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "DRC",
+   "city": null,
+   "lat": -7.657938256762625,
+   "lon": 30.121438529959562,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032837",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "9fd5e576e3b6",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
+   "watch": []
+  },
+  {
+   "title": "Albania's leader defies calls to resign as student protesters rampage in capital",
+   "summary": "",
+   "url": "https://www.france24.com/en/albania-s-leader-defies-calls-to-resign-as-student-protesters-rampage-in-capital",
+   "time": "2026-10-15T19:02:14+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/albania-s-leader-defies-calls-to-resign-as-student-protesters-rampage-in-capital",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c1986fbe89d1",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
    "watch": []
   },
   {
@@ -6301,6 +6741,39 @@
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Albania’s PM dismisses calls to resign as student protests spread",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss",
+   "time": "2026-10-15T16:41:30+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": "Tirana",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss",
+     "tier": "B"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T22:24:34.061024+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "63dd595a4e6a",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
    "watch": []
   },
   {
@@ -9441,62 +9914,6 @@
    "watch": []
   },
   {
-   "title": "Man charged with murder over shooting death of boy, 12, in Sydney last month",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/14/man-charged-murder-alleged-shooting-boy-12-ntwnfb",
-   "time": "2026-10-13T21:09:19+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Australia",
-   "city": "Sydney",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/14/man-charged-murder-alleged-shooting-boy-12-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T21:25:44.835869+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b30673bc1be0",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "Man charged with murder after boy, 12, shot in the face and neck in Sydney last month",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/14/man-charged-murder-alleged-shooting-boy-12-ntwnfb",
-   "time": "2026-10-13T21:09:19+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Australia",
-   "city": "Sydney",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/14/man-charged-murder-alleged-shooting-boy-12-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-14T00:29:31.232356+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ba21bc186be7",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
    "title": "Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says",
    "summary": "",
    "url": "https://www.france24.com/en/supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says",
@@ -9525,34 +9942,6 @@
    "watch": []
   },
   {
-   "title": "Former gang leader sentenced to 40 years to life for Tupac Shakur murder",
-   "summary": "",
-   "url": "https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder",
-   "time": "2026-10-13T19:57:31+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United States",
-   "city": "Los Angeles",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T21:25:44.835869+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "1f934ed171eb",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
    "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
@@ -9578,34 +9967,6 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "France's youth undergoing 'a crisis of hope'",
-   "summary": "",
-   "url": "https://www.france24.com/en/france-s-youth-undergoing-a-crisis-of-hope",
-   "time": "2026-10-13T19:33:56+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "United Kingdom",
-   "city": "London",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france-s-youth-undergoing-a-crisis-of-hope",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T21:25:44.835869+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "32148151b535",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
    "watch": []
   },
   {
@@ -10563,39 +10924,6 @@
    "flag": "🇵🇦",
    "region": "Latin America & Caribbean",
    "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
-   "summary": "",
-   "url": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
-   "time": "2026-10-12T21:27:53+00:00",
-   "tier": "B",
-   "category": "cyber",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
-     "tier": "B"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T01:33:05.805082+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "2bc942cc3e77",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -12136,90 +12464,6 @@
    "flag": "🇲🇳",
    "region": "East & SE Asia",
    "baseline": 2.33,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 171 km SSW of Pagar Alam, Indonesia",
-   "summary": "Depth 30 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gu",
-   "time": "2026-10-10T21:38:09.130000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": -5.403,
-   "lon": 102.5418,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gu",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T23:34:04.686368+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "158f5daf7ff5",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
-   "time": "2026-10-10T21:10:06+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Mexico",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-10T23:34:04.686368+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9db3f4d12f1b",
-   "flag": "🇲🇽",
-   "region": "North America",
-   "baseline": 3.32,
-   "watch": []
-  },
-  {
-   "title": "Philippines volcano erupts, creating 6km-high ash cloud",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
-   "time": "2026-10-10T20:37:17+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Philippines",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-10T23:34:04.686368+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "bcc64de29c17",
-   "flag": "🇵🇭",
-   "region": "East & SE Asia",
-   "baseline": 3.11,
    "watch": []
   },
   {
