@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-15T10:19:57.156614+00:00",
+ "generated": "2026-10-15T15:14:13.860730+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 53,
-  "3": 40,
-  "4": 3,
-  "5": 3
+  "2": 57,
+  "3": 36,
+  "4": 4,
+  "5": 1
  },
  "watch_hits": [
   "fbc50951f1b3",
@@ -26,24 +26,24 @@
     "time": "2026-10-15T08:28:21+00:00"
    },
    {
-    "id": "7a95aa6f36da",
-    "title": "WHO alarmed that many Ebola deaths in DR Congo occur in communities",
-    "country": "DRC",
+    "id": "0d3eb66392c8",
+    "title": "Guinea-Bissau junta sacks senior officer close to ousted president Embaló",
+    "country": "Guinea-Bissau",
     "city": null,
-    "category": "health",
-    "severity": 5,
+    "category": "political",
+    "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-14T14:04:23+00:00"
+    "time": "2026-10-15T11:01:17+00:00"
    },
    {
-    "id": "08191f1e6cb8",
-    "title": "Rival communities clashes in South Sudan's Lakes state leaves scores dead",
-    "country": "South Sudan",
+    "id": "c2e76d6fec40",
+    "title": "Mauritius extends curfew after protests turn violent",
+    "country": "Mauritius",
     "city": null,
-    "category": "conflict",
-    "severity": 5,
+    "category": "unrest",
+    "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-14T13:49:03+00:00"
+    "time": "2026-10-15T10:30:33+00:00"
    },
    {
     "id": "51d35e187b0f",
@@ -66,26 +66,6 @@
     "time": "2026-10-15T04:53:54+00:00"
    },
    {
-    "id": "256d23a8a7cd",
-    "title": "Four killed in shooting after politician’s memorial in South Africa",
-    "country": "South Africa",
-    "city": null,
-    "category": "crime",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-14T14:02:31+00:00"
-   },
-   {
-    "id": "2af87cb04b0c",
-    "title": "Mauritius reels from worst riots in decades after woman shot by police",
-    "country": "Mauritius",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T11:24:25+00:00"
-   },
-   {
     "id": "245f8ff3da59",
     "title": "Kenya’s Health Ministry confirms second Ebola case",
     "country": "Kenya",
@@ -94,6 +74,108 @@
     "severity": 2,
     "confidence": "B1",
     "time": "2026-10-14T17:03:19+00:00"
+   },
+   {
+    "id": "e875064b0344",
+    "title": "Kenya confirms second Ebola case - a relative of the first victim",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-14T17:23:01+00:00"
+   },
+   {
+    "id": "b870ae26995d",
+    "title": "Rise in femicides in Cameroon spurs protests and demands for better laws",
+    "country": "Cameroon",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-15T10:52:03+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "01a998ba84ae",
+    "title": "Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-15T15:00:23+00:00"
+   },
+   {
+    "id": "fa5589673f3f",
+    "title": "US lifts sanctions on Venezuela’s top legislator",
+    "country": "Venezuela",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-14T19:53:03+00:00"
+   },
+   {
+    "id": "dd1eb91a4e01",
+    "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+    "country": "Colombia",
+    "city": "Bogota",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-14T21:35:27+00:00"
+   },
+   {
+    "id": "d84a1a59d74d",
+    "title": "Haiti: Capoeira classes aim to promote peace",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T14:25:49+00:00"
+   },
+   {
+    "id": "1e7d9eaeda36",
+    "title": "M4.5 earthquake, 9 km SSE of Los Asientos, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T13:31:37.166000+00:00"
+   },
+   {
+    "id": "ffb308a97f62",
+    "title": "M4.8 earthquake, off the coast of Ecuador",
+    "country": "Ecuador",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T11:16:43.490000+00:00"
+   },
+   {
+    "id": "3a3f9125d109",
+    "title": "Heavy rain causes mass pileup in Brazil tunnel",
+    "country": "Brazil",
+    "city": "Sao Paulo",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T04:19:06+00:00"
+   },
+   {
+    "id": "bbc37bacff0f",
+    "title": "Thousands of Colombians march against new right-wing president's policies",
+    "country": "Colombia",
+    "city": "Bogota",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T01:57:26+00:00"
    }
   ],
   "Western Europe": [
@@ -138,14 +220,24 @@
     "time": "2026-10-14T16:51:25+00:00"
    },
    {
-    "id": "1ccab38ddd30",
-    "title": "Zelensky arrives in UK as London vows to speed up anti-drone missile deliveries for Ukraine",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "conflict",
-    "severity": 3,
+    "id": "3fc17d44338d",
+    "title": "France charges teen shooter citing revenge for bullying in school",
+    "country": "France",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T15:06:36+00:00"
+   },
+   {
+    "id": "41fc4e585bc7",
+    "title": "La segunda jornada de huelga de profesores en Madrid se desarrolla con un seguimiento menor al de la víspera y con manifestaciones",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-14T11:31:32+00:00"
+    "time": "2026-10-15T13:15:00+00:00"
    },
    {
     "id": "04426aa07571",
@@ -166,16 +258,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-14T19:53:26+00:00"
-   },
-   {
-    "id": "06c8ad29b4ad",
-    "title": "Albania: Fire at Education Ministry as students protest",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T14:56:00+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -190,14 +272,14 @@
     "time": "2026-10-14T16:22:04+00:00"
    },
    {
-    "id": "14aee2b0d832",
-    "title": "Yemen: WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
+    "id": "182acd81ae24",
+    "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
     "country": "Yemen",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-14T12:00:00+00:00"
+    "confidence": "B3",
+    "time": "2026-10-15T10:52:12+00:00"
    },
    {
     "id": "db9e48b45dfb",
@@ -230,34 +312,34 @@
     "time": "2026-10-14T17:05:42+00:00"
    },
    {
-    "id": "5c90e0f2d07b",
-    "title": "Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan",
-    "country": "Sudan",
+    "id": "ca1f243c1b58",
+    "title": "Turkey",
+    "country": "Turkey",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T14:25:00+00:00"
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T09:34:15+00:00"
    },
    {
-    "id": "daa80ae20dbd",
-    "title": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T14:00:14+00:00"
+    "id": "58bdc478aaf0",
+    "title": "Green flood alert in Syria",
+    "country": "Syria",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T07:59:52+00:00"
    },
    {
-    "id": "aba1bb3fa0e6",
-    "title": "Yemen conflict escalates as Houthis say seized new strategic area",
-    "country": "Yemen",
+    "id": "1e4535d00850",
+    "title": "Green flood alert in Jordan",
+    "country": "Jordan",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T13:50:37+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T07:59:43+00:00"
    }
   ],
   "East & SE Asia": [
@@ -270,6 +352,36 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-10-14T23:12:08+00:00"
+   },
+   {
+    "id": "92ff3c2383fb",
+    "title": "Hypersonic missiles highlight arms race on Korean Peninsula",
+    "country": "North Korea",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-15T12:02:00+00:00"
+   },
+   {
+    "id": "a78a11a26c4b",
+    "title": "North Korea and China open new bridge after 12-year delay",
+    "country": "North Korea",
+    "city": "Pyongyang",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-15T06:24:45+00:00"
+   },
+   {
+    "id": "541a02ea64d0",
+    "title": "Green forest fire notification in China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T15:02:14+00:00"
    },
    {
     "id": "726919d2a677",
@@ -314,24 +426,74 @@
   ],
   "Eastern Europe": [
    {
-    "id": "eb2b0b2029cc",
-    "title": "Ukraine accuses SpaceX of crippling military missions as ties with US worsen",
-    "country": "Ukraine",
-    "city": "Kyiv",
+    "id": "3d0504ced7b2",
+    "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+    "country": "Russia",
+    "city": "Moscow",
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-14T13:57:22+00:00"
+    "confidence": "B3",
+    "time": "2026-10-15T15:01:10+00:00"
    },
    {
-    "id": "2a46df3ca8cd",
-    "title": "Ukraine: Russian missiles hit Kyiv homes and power plant, killing 3 and injuring 22",
+    "id": "966e9bdd8517",
+    "title": "Ukraine struggles with Starlink and US satellite data as missiles hit Kyiv",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
-    "confidence": "C2",
-    "time": "2026-10-14T10:31:08+00:00"
+    "confidence": "B3",
+    "time": "2026-10-15T14:59:39+00:00"
+   },
+   {
+    "id": "68f670f4dff6",
+    "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+    "country": "Romania",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-15T14:51:30+00:00"
+   },
+   {
+    "id": "beba9ded97e8",
+    "title": "Russia accuses Ukraine of contradicting US brokered deal",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-15T13:29:38+00:00"
+   },
+   {
+    "id": "53257b171639",
+    "title": "Ukraine's Zelensky defies Trump with Russian refinery strikes",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-15T12:34:17+00:00"
+   },
+   {
+    "id": "8549afbd562b",
+    "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-15T11:45:39+00:00"
+   },
+   {
+    "id": "6e60c0852163",
+    "title": "Russian drone strikes Kyiv, injures 7, sets car ablaze",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-15T11:45:27+00:00"
    },
    {
     "id": "7d360cea2db1",
@@ -342,56 +504,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-15T10:05:25+00:00"
-   },
-   {
-    "id": "1d7068088274",
-    "title": "Restrictions expose Ukraine's Starlink dependency in Russia war",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-15T09:55:52+00:00"
-   },
-   {
-    "id": "e1f3e1c43165",
-    "title": "Ukraine says its Starshield access is back",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-15T08:46:09+00:00"
-   },
-   {
-    "id": "5ed225852478",
-    "title": "Russian nuclear-powered submarine fires missiles during Pacific drills",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-15T07:44:35+00:00"
-   },
-   {
-    "id": "832d5fa80096",
-    "title": "General Staff: Russia has lost 1,559,230 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T06:35:17+00:00"
-   },
-   {
-    "id": "bf8ded84399a",
-    "title": "Thursday briefing: Thanks to an erratic Trump, peace in Ukraine is still far away",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-15T05:44:12+00:00"
    }
   ],
   "North America": [
@@ -406,6 +518,16 @@
     "time": "2026-10-15T10:00:00+00:00"
    },
    {
+    "id": "fc5c7f45baab",
+    "title": "Green earthquake (Magnitude 5.6M, Depth:1km) in United States 15/10/2026 11:07 UTC, 9 thousand in MMI>=III.",
+    "country": "United States",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T11:09:18+00:00"
+   },
+   {
     "id": "04a6c3fbc976",
     "title": "Sexual assault reported at frat house near University of Chicago",
     "country": "United States",
@@ -414,108 +536,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-14T23:32:50+00:00"
-   },
-   {
-    "id": "4d0df4855767",
-    "title": "In Phoenix, young ultra-conservatives look to carry on Charlie Kirk’s legacy",
-    "country": "United States",
-    "city": "Phoenix",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T14:37:37+00:00"
-   },
-   {
-    "id": "25df2d1b0d97",
-    "title": "Cornell University bans fraternity parties after alleged gang rape",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T13:55:11+00:00"
-   },
-   {
-    "id": "636f86adbb64",
-    "title": "Duane Davis sentenced to minimum 40 years for Tupac killing",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T13:48:46+00:00"
-   },
-   {
-    "id": "63832881234b",
-    "title": "Ken Paxton stirs vaccine skepticism to ingratiate himself with Maha movement",
-    "country": "United States",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T12:00:02+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "fa5589673f3f",
-    "title": "US lifts sanctions on Venezuela’s top legislator",
-    "country": "Venezuela",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T19:53:03+00:00"
-   },
-   {
-    "id": "dd1eb91a4e01",
-    "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
-    "country": "Colombia",
-    "city": "Bogota",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-14T21:35:27+00:00"
-   },
-   {
-    "id": "3a3f9125d109",
-    "title": "Heavy rain causes mass pileup in Brazil tunnel",
-    "country": "Brazil",
-    "city": "Sao Paulo",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T04:19:06+00:00"
-   },
-   {
-    "id": "bbc37bacff0f",
-    "title": "Thousands of Colombians march against new right-wing president's policies",
-    "country": "Colombia",
-    "city": "Bogota",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T01:57:26+00:00"
-   },
-   {
-    "id": "92d88aef9f73",
-    "title": "Green forest fire notification in Bolivia",
-    "country": "Bolivia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-14T23:00:43+00:00"
-   },
-   {
-    "id": "0161aaa585b3",
-    "title": "Haiti sanctions renewed: Starving the gangs of bullets",
-    "country": "Haiti",
-    "city": "Port-au-Prince",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T12:00:00+00:00"
    }
   ],
   "Oceania": [
@@ -530,14 +550,24 @@
     "time": "2026-10-14T16:30:10+00:00"
    },
    {
-    "id": "f7f7ba021400",
-    "title": "M5.9 earthquake, Fiji region",
-    "country": "Fiji",
+    "id": "3fb2683ed4a9",
+    "title": "M5.2 earthquake, 107 km NNE of Hihifo, Tonga",
+    "country": "Tonga",
     "city": null,
     "category": "hazard",
-    "severity": 3,
+    "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-14T10:49:47.588000+00:00"
+    "time": "2026-10-15T13:29:31.862000+00:00"
+   },
+   {
+    "id": "d31757d97059",
+    "title": "M5.2 earthquake, 157 km W of Sola, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T13:06:51.678000+00:00"
    },
    {
     "id": "bc7d45f26c78",
@@ -568,19 +598,19 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-14T23:30:16+00:00"
-   },
-   {
-    "id": "82cbb269ebd6",
-    "title": "Green earthquake (Magnitude 5.9M, Depth:585.07km) in Fiji 14/10/2026 10:49 UTC, Few people affected in 100km.",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-14T11:07:18+00:00"
    }
   ],
   "South Asia": [
+   {
+    "id": "e6d97310e0b1",
+    "title": "Pakistan: Classrooms reduced to rubble in deadly school disaster, at leat 32 pupils killed",
+    "country": "Pakistan",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-15T13:03:26+00:00"
+   },
    {
     "id": "2b4992d44b6e",
     "title": "FRANCE 24 report: India’s Gen Z protesters find gaps in security clampdown",
@@ -590,6 +620,26 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-15T10:03:51+00:00"
+   },
+   {
+    "id": "224ec441ec22",
+    "title": "Actor Imran Khan ordered to leave India after participating in protest",
+    "country": "India",
+    "city": "Mumbai",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T08:17:07+00:00"
+   },
+   {
+    "id": "0f292ba6fa78",
+    "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
+    "country": "India",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T07:25:54+00:00"
    },
    {
     "id": "97fce2a0b2a1",
@@ -620,16 +670,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-14T16:51:51+00:00"
-   },
-   {
-    "id": "4eb3dae61f1a",
-    "title": "Cheap weapons, growing fears: Inside the Taliban’s drone campaign against Pakistan",
-    "country": "Pakistan",
-    "city": "Islamabad",
-    "category": "transport",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T12:52:44+00:00"
    }
   ]
  }
