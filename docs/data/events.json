@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-15T05:37:12.651071+00:00",
+ "generated": "2026-10-15T10:19:57.156614+00:00",
  "sample": false,
- "count": 500,
+ "count": 493,
  "events": [
+  {
+   "title": "WHO raises alarm over undetected Ebola cases in DR Congo",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/14/who-raises-alarm-over-undetected-ebola-cases-in-dr-congo/",
+   "time": "2026-10-15T08:28:21+00:00",
+   "tier": "C",
+   "category": "health",
+   "country": "DRC",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/14/who-raises-alarm-over-undetected-ebola-cases-in-dr-congo/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "1d66bedccf76",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
+   "watch": []
+  },
   {
    "title": "WHO alarmed that many Ebola deaths in DR Congo occur in communities",
    "summary": "",
@@ -948,34 +976,6 @@
    "watch": []
   },
   {
-   "title": "Activist Semi Keba faces extradition to Benin after court setback",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/08/activist-semi-keba-faces-extradition-to-benin-after-court-setback/",
-   "time": "2026-10-08T08:16:54+00:00",
-   "tier": "C",
-   "category": "political",
-   "country": "Benin",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/08/activist-semi-keba-faces-extradition-to-benin-after-court-setback/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-08T15:37:38.969831+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "6e97e454b416",
-   "flag": "🇧🇯",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.24,
-   "watch": []
-  },
-  {
    "title": "Saudi Arabia",
    "summary": "Updated information about regional tensions (‘Warnings and insurance’ page).",
    "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia",
@@ -1006,6 +1006,232 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Ukraine hits 6 Russian Su-34 bomber jets with Neptune missile, military says",
+   "summary": "",
+   "url": "https://kyivindependent.com/ukraine-hits-6-russian-su-34-bomber-jets-with-neptune-missile-military-says/",
+   "time": "2026-10-15T10:05:25+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-hits-6-russian-su-34-bomber-jets-with-neptune-missile-military-says/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "7d360cea2db1",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+   "time": "2026-10-15T10:00:00+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Mexico",
+   "city": "Mexico City",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "fbc50951f1b3",
+   "flag": "🇲🇽",
+   "region": "North America",
+   "baseline": 3.32,
+   "watch": [
+    "Exec visit, Mexico City"
+   ]
+  },
+  {
+   "title": "Restrictions expose Ukraine's Starlink dependency in Russia war",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261015-restrictions-expose-ukraine-s-starlink-dependency-in-russia-war",
+   "time": "2026-10-15T09:55:52+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261015-restrictions-expose-ukraine-s-starlink-dependency-in-russia-war",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "1d7068088274",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Ukraine says its Starshield access is back",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
+   "time": "2026-10-15T08:46:09+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e1f3e1c43165",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Eritrean forces suffer 'heavy losses' in Tigray, Ethiopian militia says",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/15/eritrean-forces-suffer-heavy-losses-in-tigray-ethiopian-militia-says/",
+   "time": "2026-10-15T08:25:56+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Eritrea",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/15/eritrean-forces-suffer-heavy-losses-in-tigray-ethiopian-militia-says/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "51d35e187b0f",
+   "flag": "🇪🇷",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.79,
+   "watch": []
+  },
+  {
+   "title": "Russian nuclear-powered submarine fires missiles during Pacific drills",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-clip-russia-nuclear-submarines?traffic_source=rss",
+   "time": "2026-10-15T07:44:35+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-clip-russia-nuclear-submarines?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5ed225852478",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "General Staff: Russia has lost 1,559,230 troops in Ukraine since Feb. 24, 2022",
+   "summary": "",
+   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-559-230-troops-in-ukraine-since-feb-24-2022/",
+   "time": "2026-10-15T06:35:17+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-559-230-troops-in-ukraine-since-feb-24-2022/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "832d5fa80096",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Thursday briefing: Thanks to an erratic Trump, peace in Ukraine is still far away",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away",
+   "time": "2026-10-15T05:44:12+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "bf8ded84399a",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -4711,174 +4937,6 @@
    "watch": []
   },
   {
-   "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-12T09:38:03+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Saudi Arabia",
-   "city": "Riyadh",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "136ae9609792",
-   "flag": "🇸🇦",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
-   "watch": []
-  },
-  {
-   "title": "'We have one refinery' — Zelensky says energy ceasefire must cover power grid, not just oil",
-   "summary": "",
-   "url": "https://kyivindependent.com/we-have-one-refinery-zelensky-says-energy-ceasefire-must-cover-power-grid-not-just-oil/",
-   "time": "2026-10-12T09:29:03+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": "Moscow",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/we-have-one-refinery-zelensky-says-energy-ceasefire-must-cover-power-grid-not-just-oil/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-12T09:39:09.363164+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "e6995d680076",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "'We have one refinery' — Zelensky says energy ceasefire must cover power grid, not just oil, as Russia strikes energy facilities across Ukraine",
-   "summary": "",
-   "url": "https://kyivindependent.com/we-have-one-refinery-zelensky-says-energy-ceasefire-must-cover-power-grid-not-just-oil/",
-   "time": "2026-10-12T09:29:03+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/we-have-one-refinery-zelensky-says-energy-ceasefire-must-cover-power-grid-not-just-oil/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "eb3cc183461f",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Russia hit Ukraine power plant ‘immediately after’ Trump declared energy ceasefire, says Zelenskyy – Europe live",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
-   "time": "2026-10-12T09:24:12+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-12T09:39:09.363164+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ab8691c0f62e",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Saudi Arabia: Riyadh airport struck again by Yemen's Houthis",
-   "summary": "",
-   "url": "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis",
-   "time": "2026-10-12T09:21:12+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Saudi Arabia",
-   "city": "Riyadh",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-12T09:39:09.363164+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "83ad4063627f",
-   "flag": "🇸🇦",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
-   "watch": []
-  },
-  {
-   "title": "Trump touts surprise 'energy ceasefire' – Zelensky says he hasn't seen details, Moscow silent",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261012-trump-touts-surprise-energy-ceasefire-%E2%80%93-zelensky-says-he-hasn-t-seen-details-moscow-silent",
-   "time": "2026-10-12T09:19:32+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Russia",
-   "city": "Moscow",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261012-trump-touts-surprise-energy-ceasefire-%E2%80%93-zelensky-says-he-hasn-t-seen-details-moscow-silent",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-12T09:39:09.363164+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "61626b06f99f",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
    "title": "EU passes sanctions against Russia's illegal election in occupied Ukrainian territories",
    "summary": "",
    "url": "https://kyivindependent.com/eu-passes-sanctions-against-russias-illegal-election-in-occupied-ukrainian-territories/",
@@ -4960,100 +5018,6 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "General Staff: Russia has lost 1,554,310 troops in Ukraine since Feb. 24, 2022",
-   "summary": "",
-   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-554-310-troops-in-ukraine-since-feb-24-2022/",
-   "time": "2026-10-12T07:55:10+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-554-310-troops-in-ukraine-since-feb-24-2022/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-12T09:39:09.363164+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "9f77092c8f15",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Roman fort found in Wales could prove myth of emperor’s camp is real",
-   "summary": "",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor",
-   "time": "2026-10-12T07:00:48+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "United Kingdom",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-12T09:39:09.363164+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ee4d689eb981",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
-   "watch": []
-  },
-  {
-   "title": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
-   "summary": "",
-   "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
-   "time": "2026-10-12T06:41:57+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
-     "tier": "B"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/ukraine-zelensky-says-learned-of-trump-s-energy-ceasefire-through-media",
-     "tier": "B"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-12T19:20:41.298799+00:00",
-   "confidence": "B1",
-   "corroboration": 3,
-   "id": "d920e418b870",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
    "watch": []
   },
   {
@@ -5586,34 +5550,6 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Panic in Panama as 7.7 quake hits, cathedral collapses and tsunami warnings spread",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/10/panic-in-panama-as-77-quake-hits-cathedral-collapses-and-tsunami-warnings-spread/",
-   "time": "2026-10-10T10:11:20+00:00",
-   "tier": "C",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/10/panic-in-panama-as-77-quake-hits-cathedral-collapses-and-tsunami-warnings-spread/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-10T16:07:22.741496+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "7d9a2d8ee8c0",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
    "watch": []
   },
   {
@@ -6192,95 +6128,6 @@
    "watch": []
   },
   {
-   "title": "Lithuania calls for EU sanctions against Russian grain",
-   "summary": "",
-   "url": "https://kyivindependent.com/lithuania-calls-for-eu-sanctions-against-russian-grain/",
-   "time": "2026-10-08T08:18:32+00:00",
-   "tier": "C",
-   "category": "political",
-   "country": "Lithuania",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/lithuania-calls-for-eu-sanctions-against-russian-grain/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-08T15:37:38.969831+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "0a22d20df65e",
-   "flag": "🇱🇹",
-   "region": "Eastern Europe",
-   "baseline": 1.19,
-   "watch": []
-  },
-  {
-   "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-   "summary": "",
-   "url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-   "time": "2026-10-08T07:17:51+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Israel",
-   "city": "Jerusalem",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-     "tier": "B"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T08:00:40.171451+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "f8f53101b552",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Voting opens in high-stakes Holborn and St Pancras byelection",
-   "summary": "",
-   "url": "https://www.theguardian.com/politics/2026/oct/08/voting-opens-holborn-st-pancras-byelection-green-party-zack-polanksi-labour-sagal-abdi-wali",
-   "time": "2026-10-08T06:00:12+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "United Kingdom",
-   "city": "London",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/politics/2026/oct/08/voting-opens-holborn-st-pancras-byelection-green-party-zack-polanksi-labour-sagal-abdi-wali",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-08T08:00:40.171451+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "43873ad544cb",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
-   "watch": []
-  },
-  {
    "title": "New York governor declares state of emergency after spike in measles cases",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/oct/06/measles-cases-new-york",
@@ -6306,6 +6153,342 @@
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "EU leaders to clash over long-term budget, Ukraine support",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261015-eu-leaders-to-clash-over-long-term-budget-ukraine-support",
+   "time": "2026-10-15T10:11:14+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261015-eu-leaders-to-clash-over-long-term-budget-ukraine-support",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7c5709f9f88d",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "China, North Korea open long-delayed border bridge",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261015-china-north-korea-open-long-delayed-border-bridge",
+   "time": "2026-10-15T10:05:12+00:00",
+   "tier": "B",
+   "category": "transport",
+   "country": "China",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261015-china-north-korea-open-long-delayed-border-bridge",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "726919d2a677",
+   "flag": "🇨🇳",
+   "region": "East & SE Asia",
+   "baseline": 2.75,
+   "watch": []
+  },
+  {
+   "title": "FRANCE 24 report: India’s Gen Z protesters find gaps in security clampdown",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261015-france-24-report-india-s-gen-z-protesters-find-gaps-in-security-clampdown",
+   "time": "2026-10-15T10:03:51+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": "Delhi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261015-france-24-report-india-s-gen-z-protesters-find-gaps-in-security-clampdown",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2b4992d44b6e",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Colombians, fearing for future, march against right-wing president",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261015-colombians-fearing-for-future-march-against-right-wing-president",
+   "time": "2026-10-15T10:00:28+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261015-colombians-fearing-for-future-march-against-right-wing-president",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "04426aa07571",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Turkey",
+   "summary": "Addition of information about heavy rain and flooding in Istanbul ('Warnings and insurance' page).",
+   "url": "https://www.gov.uk/foreign-travel-advice/turkey",
+   "time": "2026-10-15T09:34:15+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Turkey",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UK FCDO travel advice updates",
+     "url": "https://www.gov.uk/foreign-travel-advice/turkey",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "ca1f243c1b58",
+   "flag": "🇹🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.78,
+   "watch": []
+  },
+  {
+   "title": "Slovakia to hold talks with Ukraine, revive economic meetings with Russia",
+   "summary": "",
+   "url": "https://kyivindependent.com/slovakia-to-hold-talks-with-ukraine-revive-economic-meetings-with-russia/",
+   "time": "2026-10-15T09:18:37+00:00",
+   "tier": "C",
+   "category": "transport",
+   "country": "Slovakia",
+   "city": "Bratislava",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/slovakia-to-hold-talks-with-ukraine-revive-economic-meetings-with-russia/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "20f755d9da6b",
+   "flag": "🇸🇰",
+   "region": "Eastern Europe",
+   "baseline": 1.32,
+   "watch": []
+  },
+  {
+   "title": "Senegal",
+   "summary": "Updated information about health risks you'll face in Senegal ('Health' page).",
+   "url": "https://www.gov.uk/foreign-travel-advice/senegal",
+   "time": "2026-10-15T09:00:14+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Senegal",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UK FCDO travel advice updates",
+     "url": "https://www.gov.uk/foreign-travel-advice/senegal",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "ea5f8e07b1b0",
+   "flag": "🇸🇳",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.84,
+   "watch": []
+  },
+  {
+   "title": "Green flood alert in Syria",
+   "summary": "On 12/10/2026, a flood started in Syria, lasting until 14/10/2026 (last update). The flood caused 2 deaths and 0 displaced .",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104233",
+   "time": "2026-10-15T07:59:52+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Syria",
+   "city": null,
+   "lat": 35.1443722,
+   "lon": 40.214257,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104233",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "58bdc478aaf0",
+   "flag": "🇸🇾",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.8,
+   "watch": []
+  },
+  {
+   "title": "Green flood alert in Jordan",
+   "summary": "On 10/10/2026, a flood started in Jordan, lasting until 12/10/2026 (last update). The flood caused 1 deaths and 0 displaced .",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104232",
+   "time": "2026-10-15T07:59:43+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Jordan",
+   "city": null,
+   "lat": 32.1934466,
+   "lon": 37.4472962,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104232",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "1e4535d00850",
+   "flag": "🇯🇴",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Thailand: Bangkok protesters decry IMF and World Bank, warn of destructive capitalism",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/15/thailand-bangkok-protesters-decry-imf-and-world-bank-warn-of-destructive-capitalism/",
+   "time": "2026-10-15T07:34:43+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Thailand",
+   "city": "Bangkok",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/15/thailand-bangkok-protesters-decry-imf-and-world-bank-warn-of-destructive-capitalism/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "8f37dcbcbae8",
+   "flag": "🇹🇭",
+   "region": "East & SE Asia",
+   "baseline": 2.27,
+   "watch": []
+  },
+  {
+   "title": "Kenya reports second Ebola case, family member of first patient",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/",
+   "time": "2026-10-15T07:08:20+00:00",
+   "tier": "C",
+   "category": "health",
+   "country": "Kenya",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "7b62375fd7df",
+   "flag": "🇰🇪",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.97,
+   "watch": []
+  },
+  {
+   "title": "M5.3 earthquake, 43 km SSE of Otorohanga, New Zealand",
+   "summary": "Depth 286 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev",
+   "time": "2026-10-15T05:25:31.942000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "New Zealand",
+   "city": null,
+   "lat": -38.5478,
+   "lon": 175.3814,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "bc7d45f26c78",
+   "flag": "🇳🇿",
+   "region": "Oceania",
+   "baseline": 1.05,
    "watch": []
   },
   {
@@ -6479,6 +6662,34 @@
    ]
   },
   {
+   "title": "Thousands of Colombians march against new right-wing president's policies",
+   "summary": "",
+   "url": "https://www.france24.com/en/americas/20261015-thousands-protest-colombia-right-wing-president",
+   "time": "2026-10-15T01:57:26+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Colombia",
+   "city": "Bogota",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261015-thousands-protest-colombia-right-wing-president",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T10:19:57.156614+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "bbc37bacff0f",
+   "flag": "🇨🇴",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.26,
+   "watch": []
+  },
+  {
    "title": "Istanbul in chaos, shut down by heaviest rainfall since 1985",
    "summary": "",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
@@ -6607,11 +6818,16 @@
      "name": "The Guardian World",
      "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
      "tier": "B"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261015-albanian-students-protest-over-education-jobs-clash-with-police",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-15T00:54:25.503697+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B2",
+   "corroboration": 2,
    "id": "a5e1551eec43",
    "flag": "🇦🇱",
    "region": "Eastern Europe",
@@ -9576,118 +9792,6 @@
    "watch": []
   },
   {
-   "title": "India 'cockroach' leaders detained after entering barricaded protest site",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-13T07:31:10+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": "Delhi",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T08:28:35.162082+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ee2d89da7f99",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "Latin American organised crime ‘may operate in 16 European countries’",
-   "summary": "",
-   "url": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe",
-   "time": "2026-10-13T07:00:18+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T08:28:35.162082+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "98309ab9ea39",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "Live: Greta Thunberg joins French student protests ahead of nationwide rallies",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261013-live-france-braces-for-fresh-nationwide-protests-over-school-conditions",
-   "time": "2026-10-13T06:44:27+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261013-live-france-braces-for-fresh-nationwide-protests-over-school-conditions",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T08:28:35.162082+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "a041ca3fa06d",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Climate protester restrained after interrupting NSW parliament – as it happened",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
-   "time": "2026-10-13T06:41:28+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Iraq",
-   "city": "Baghdad",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T08:28:35.162082+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "1566d36e91e4",
-   "flag": "🇮🇶",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.28,
-   "watch": []
-  },
-  {
    "title": "M4.7 earthquake, 14 km WNW of Río Grande, Panama",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1zh",
@@ -9713,34 +9817,6 @@
    "flag": "🇵🇦",
    "region": "Latin America & Caribbean",
    "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "Shock, anger and a crackdown: why a contentious electoral revision has sparked outrage",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests",
-   "time": "2026-10-13T06:30:16+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": "Delhi",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T08:28:35.162082+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "139e2fa2fc1a",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
    "watch": []
   },
   {
@@ -9853,34 +9929,6 @@
    "flag": "🇨🇷",
    "region": "Latin America & Caribbean",
    "baseline": 1.67,
-   "watch": []
-  },
-  {
-   "title": "Tuesday briefing: Could Burnham take Britain back towards the EU?",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/13/tuesday-briefing-could-burnham-take-britain-back-towards-the-eu",
-   "time": "2026-10-13T05:42:46+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/13/tuesday-briefing-could-burnham-take-britain-back-towards-the-eu",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T08:28:35.162082+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "6bb6e02f5ab6",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
    "watch": []
   },
   {
@@ -12255,230 +12303,6 @@
    "watch": []
   },
   {
-   "title": "M4.6 earthquake, 31 km SE of Vanimo, Papua New Guinea",
-   "summary": "Depth 30 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dy",
-   "time": "2026-10-10T09:42:58.899000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Papua New Guinea",
-   "city": null,
-   "lat": -2.8851,
-   "lon": 141.496,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dy",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T16:07:22.741496+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "4493513203a4",
-   "flag": "🇵🇬",
-   "region": "East & SE Asia",
-   "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 61 km N of Hihifo, Tonga",
-   "summary": "Depth 79 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dm",
-   "time": "2026-10-10T08:38:50.674000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Tonga",
-   "city": null,
-   "lat": -15.397,
-   "lon": -173.7816,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dm",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T10:49:50.252981+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "de1f3256897f",
-   "flag": "🇹🇴",
-   "region": "Oceania",
-   "baseline": 1.93,
-   "watch": []
-  },
-  {
-   "title": "Green flood alert in Slovenia",
-   "summary": "On 08/10/2026, a flood started in Slovenia, lasting until 10/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104221",
-   "time": "2026-10-10T07:26:12+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Slovenia",
-   "city": null,
-   "lat": 45.8237883,
-   "lon": 13.8442901,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104221",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T10:49:50.252981+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "3ed96a889501",
-   "flag": "🇸🇮",
-   "region": "Eastern Europe",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 6 km SSE of Llano de Piedra, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dc",
-   "time": "2026-10-10T07:13:30.583000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.6182,
-   "lon": -80.5348,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dc",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T20:04:39.257596+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "307bba7652e9",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "Green flood alert in Italy",
-   "summary": "On 08/10/2026, a flood started in Italy, lasting until 10/10/2026 (last update). The flood caused 0 deaths and 4 displaced .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104220",
-   "time": "2026-10-10T07:04:44+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Italy",
-   "city": null,
-   "lat": 40.8358846,
-   "lon": 14.2487679,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104220",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T10:49:50.252981+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "20a093e65172",
-   "flag": "🇮🇹",
-   "region": "Western Europe",
-   "baseline": 1.48,
-   "watch": []
-  },
-  {
-   "title": "Green flood alert in Venezuela",
-   "summary": "On 07/10/2026, a flood started in Venezuela, lasting until 09/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104219",
-   "time": "2026-10-10T06:25:31+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Venezuela",
-   "city": null,
-   "lat": 10.2343499,
-   "lon": -66.3807249,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104219",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T10:49:50.252981+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "4cd299256c1c",
-   "flag": "🇻🇪",
-   "region": "Latin America & Caribbean",
-   "baseline": 4.49,
-   "watch": []
-  },
-  {
-   "title": "Green flood alert in Argentina",
-   "summary": "On 06/10/2026, a flood started in Argentina, lasting until 08/10/2026 (last update). The flood caused 0 deaths and 31 displaced .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104218",
-   "time": "2026-10-10T06:07:17+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Argentina",
-   "city": null,
-   "lat": -31.3972539,
-   "lon": -58.0173305,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104218",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T10:49:50.252981+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "ffc4b0d18282",
-   "flag": "🇦🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.14,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 6 km WSW of Filadelfia, Colombia",
-   "summary": "Depth 115 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cx",
-   "time": "2026-10-10T05:45:59.396000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Colombia",
-   "city": null,
-   "lat": 5.267,
-   "lon": -75.6127,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cx",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T10:49:50.252981+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "47c3092b61ef",
-   "flag": "🇨🇴",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.26,
-   "watch": []
-  },
-  {
    "title": "Did Russia play by the rules in reporting lab worker's death?",
    "summary": "",
    "url": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
@@ -13832,34 +13656,6 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "7e0620a4a37d",
-   "flag": "🇨🇩",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "DRC: Death of local official highlights tensions around Ebola response",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/01/drc-death-of-local-official-highlights-tensions-around-ebola-response/",
-   "time": "2026-10-01T06:05:12+00:00",
-   "tier": "C",
-   "category": "health",
-   "country": "DRC",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/01/drc-death-of-local-official-highlights-tensions-around-ebola-response/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "5367c3d032d2",
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
