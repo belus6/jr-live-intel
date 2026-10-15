@@ -1,15 +1,17 @@
 {
- "generated": "2026-10-15T00:54:25.503697+00:00",
+ "generated": "2026-10-15T05:37:12.651071+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 57,
-  "3": 47,
+  "2": 53,
+  "3": 43,
   "4": 5,
   "5": 2
  },
- "watch_hits": [],
+ "watch_hits": [
+  "d6b3afc3d593"
+ ],
  "regions": {
   "Sub-Saharan Africa": [
    {
@@ -31,6 +33,16 @@
     "severity": 5,
     "confidence": "C4",
     "time": "2026-10-14T13:49:03+00:00"
+   },
+   {
+    "id": "1052e19c76fd",
+    "title": "Guinea-Bissau junta head fires officer close to former president Embaló",
+    "country": "Guinea-Bissau",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-15T04:53:54+00:00"
    },
    {
     "id": "256d23a8a7cd",
@@ -81,16 +93,6 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-14T17:23:01+00:00"
-   },
-   {
-    "id": "33c413a38a9c",
-    "title": "Kenya reports second Ebola case",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T20:32:00+00:00"
    }
   ],
   "Western Europe": [
@@ -123,16 +125,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-14T05:44:34+00:00"
-   },
-   {
-    "id": "e3b444d110e1",
-    "title": "Trump asks US ambassador to Greece Kimberly Guilfoyle to resign over bribery allegations",
-    "country": "Greece",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-14T03:23:40+00:00"
    },
    {
     "id": "1a4ee63084ab",
@@ -173,6 +165,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-14T09:35:51+00:00"
+   },
+   {
+    "id": "3e4155185e9b",
+    "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+    "country": "Greece",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-14T09:09:39+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -195,16 +197,6 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-10-14T12:00:00+00:00"
-   },
-   {
-    "id": "8fd7d60e6941",
-    "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-14T03:09:46+00:00"
    },
    {
     "id": "db9e48b45dfb",
@@ -255,6 +247,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-14T14:00:14+00:00"
+   },
+   {
+    "id": "aba1bb3fa0e6",
+    "title": "Yemen conflict escalates as Houthis say seized new strategic area",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-14T13:50:37+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -285,8 +287,28 @@
     "city": "Bogota",
     "category": "unrest",
     "severity": 2,
-    "confidence": "B3",
+    "confidence": "B2",
     "time": "2026-10-14T21:35:27+00:00"
+   },
+   {
+    "id": "3a3f9125d109",
+    "title": "Heavy rain causes mass pileup in Brazil tunnel",
+    "country": "Brazil",
+    "city": "Sao Paulo",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T04:19:06+00:00"
+   },
+   {
+    "id": "92d88aef9f73",
+    "title": "Green forest fire notification in Bolivia",
+    "country": "Bolivia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-14T23:00:43+00:00"
    },
    {
     "id": "0161aaa585b3",
@@ -317,26 +339,48 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-14T08:13:30+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "97537b474b16",
+    "title": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
+    "country": "North Korea",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-14T23:12:08+00:00"
    },
    {
-    "id": "eb73b1112d73",
-    "title": "M4.7 earthquake, 10 km S of La Mesa, Panama",
-    "country": "Panama",
+    "id": "3846b5674b71",
+    "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T03:26:36+00:00"
+   },
+   {
+    "id": "5e6b64c47ddb",
+    "title": "Sky turns orange as wildfires rage across Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T20:39:59+00:00"
+   },
+   {
+    "id": "fc3c8cf2ad38",
+    "title": "M4.9 earthquake, 121 km S of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-14T05:09:35.397000+00:00"
-   },
-   {
-    "id": "b5b9d9d3ed55",
-    "title": "Colombia peace tribunal charges ex-FARC members with anti-Indigenous crimes",
-    "country": "Colombia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T01:43:56+00:00"
+    "time": "2026-10-14T06:27:06.453000+00:00"
    }
   ],
   "Eastern Europe": [
@@ -359,6 +403,16 @@
     "severity": 3,
     "confidence": "C2",
     "time": "2026-10-14T10:31:08+00:00"
+   },
+   {
+    "id": "a16cc6a88dfc",
+    "title": "Ukraine live: Romania probes possible drone attack on tanker",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-15T03:52:46+00:00"
    },
    {
     "id": "b415103f1c93",
@@ -409,68 +463,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-14T14:38:09+00:00"
-   },
-   {
-    "id": "39d54afb1df0",
-    "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T14:17:59+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "97537b474b16",
-    "title": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
-    "country": "North Korea",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T23:12:08+00:00"
-   },
-   {
-    "id": "5e6b64c47ddb",
-    "title": "Sky turns orange as wildfires rage across Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T20:39:59+00:00"
-   },
-   {
-    "id": "fc3c8cf2ad38",
-    "title": "M4.9 earthquake, 121 km S of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-14T06:27:06.453000+00:00"
-   },
-   {
-    "id": "bef03d7f426d",
-    "title": "M4.7 earthquake, 128 km S of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-14T02:59:27.574000+00:00"
-   },
-   {
-    "id": "335a46513709",
-    "title": "M4.6 earthquake, 75 km E of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-14T02:12:14.885000+00:00"
    }
   ],
   "Oceania": [
@@ -495,6 +487,16 @@
     "time": "2026-10-14T10:49:47.588000+00:00"
    },
    {
+    "id": "bf92d328f8ff",
+    "title": "M4.8 earthquake, 30 km E of Safotu, Samoa",
+    "country": "Samoa",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T03:36:08.430000+00:00"
+   },
+   {
     "id": "e523f396dc5e",
     "title": "Sydney hospital patient charged with attempted murder after allegedly setting fellow patient alight",
     "country": "Australia",
@@ -513,39 +515,9 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-14T11:07:18+00:00"
-   },
-   {
-    "id": "3cb0145989d9",
-    "title": "Beau Lamarre-Condon previously visited farm where he later allegedly tried to sink bodies, court told",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T04:45:06+00:00"
-   },
-   {
-    "id": "a2c613175bb4",
-    "title": "Family of Indigenous woman found dead in Melbourne mourn ‘vibrant, beautiful young girl’",
-    "country": "Australia",
-    "city": "Melbourne",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T03:37:02+00:00"
    }
   ],
   "North America": [
-   {
-    "id": "19aeee5b3c33",
-    "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T01:15:30+00:00"
-   },
    {
     "id": "04a6c3fbc976",
     "title": "Sexual assault reported at frat house near University of Chicago",
@@ -609,16 +581,6 @@
   ],
   "South Asia": [
    {
-    "id": "7a02ab053eda",
-    "title": "Leaders of India’s Cockroach party jailed for violating ban on protest site",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-14T05:29:23+00:00"
-   },
-   {
     "id": "97fce2a0b2a1",
     "title": "How far will cockroach movement go? India's youth-led protests defy Modi government",
     "country": "India",
@@ -657,16 +619,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-14T12:52:44+00:00"
-   },
-   {
-    "id": "98511802bf1b",
-    "title": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
-    "country": "Pakistan",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T01:56:23+00:00"
    }
   ]
  }
