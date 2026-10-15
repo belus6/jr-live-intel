@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-14T22:39:38.354203+00:00",
+ "generated": "2026-10-15T00:54:25.503697+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 54,
-  "3": 49,
+  "2": 57,
+  "3": 47,
   "4": 5,
   "5": 2
  },
@@ -63,16 +63,6 @@
     "time": "2026-10-14T08:21:44+00:00"
    },
    {
-    "id": "49e46a96d495",
-    "title": "Mauritius imposes curfew after night of unrest over police shooting",
-    "country": "Mauritius",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-13T22:41:59+00:00"
-   },
-   {
     "id": "245f8ff3da59",
     "title": "Kenya’s Health Ministry confirms second Ebola case",
     "country": "Kenya",
@@ -91,6 +81,16 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-14T17:23:01+00:00"
+   },
+   {
+    "id": "33c413a38a9c",
+    "title": "Kenya reports second Ebola case",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T20:32:00+00:00"
    }
   ],
   "Western Europe": [
@@ -421,6 +421,58 @@
     "time": "2026-10-14T14:17:59+00:00"
    }
   ],
+  "East & SE Asia": [
+   {
+    "id": "97537b474b16",
+    "title": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
+    "country": "North Korea",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-14T23:12:08+00:00"
+   },
+   {
+    "id": "5e6b64c47ddb",
+    "title": "Sky turns orange as wildfires rage across Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T20:39:59+00:00"
+   },
+   {
+    "id": "fc3c8cf2ad38",
+    "title": "M4.9 earthquake, 121 km S of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-14T06:27:06.453000+00:00"
+   },
+   {
+    "id": "bef03d7f426d",
+    "title": "M4.7 earthquake, 128 km S of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-14T02:59:27.574000+00:00"
+   },
+   {
+    "id": "335a46513709",
+    "title": "M4.6 earthquake, 75 km E of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-14T02:12:14.885000+00:00"
+   }
+  ],
   "Oceania": [
    {
     "id": "f16ab241cb78",
@@ -441,6 +493,16 @@
     "severity": 3,
     "confidence": "A1",
     "time": "2026-10-14T10:49:47.588000+00:00"
+   },
+   {
+    "id": "e523f396dc5e",
+    "title": "Sydney hospital patient charged with attempted murder after allegedly setting fellow patient alight",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T23:30:16+00:00"
    },
    {
     "id": "82cbb269ebd6",
@@ -483,6 +545,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-14T01:15:30+00:00"
+   },
+   {
+    "id": "04a6c3fbc976",
+    "title": "Sexual assault reported at frat house near University of Chicago",
+    "country": "United States",
+    "city": "Chicago",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-14T23:32:50+00:00"
    },
    {
     "id": "4d0df4855767",
@@ -595,48 +667,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-14T01:56:23+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "5e6b64c47ddb",
-    "title": "Sky turns orange as wildfires rage across Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T20:39:59+00:00"
-   },
-   {
-    "id": "fc3c8cf2ad38",
-    "title": "M4.9 earthquake, 121 km S of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-14T06:27:06.453000+00:00"
-   },
-   {
-    "id": "bef03d7f426d",
-    "title": "M4.7 earthquake, 128 km S of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-14T02:59:27.574000+00:00"
-   },
-   {
-    "id": "335a46513709",
-    "title": "M4.6 earthquake, 75 km E of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-14T02:12:14.885000+00:00"
    }
   ]
  }

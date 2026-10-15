@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-14T22:39:38.354203+00:00",
+ "generated": "2026-10-15T00:54:25.503697+00:00",
  "sample": false,
- "count": 509,
+ "count": 507,
  "events": [
   {
    "title": "WHO alarmed that many Ebola deaths in DR Congo occur in communities",
@@ -976,34 +976,6 @@
    "watch": []
   },
   {
-   "title": "M4.5 earthquake, 45 km SSE of Pedasí, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b3",
-   "time": "2026-10-09T23:54:22.924000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.1444,
-   "lon": -79.8903,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b3",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T23:34:04.686368+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "dc10707bb6a3",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
    "title": "Eritrea",
    "summary": "FCDO now advises against all but essential travel to Eritrea. FCDO continues to advise against all travel to within 25km of all of Eritrea’s land borders (‘Warnings and insurance’ page).",
    "url": "https://www.gov.uk/foreign-travel-advice/eritrea",
@@ -1090,6 +1062,34 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
+   "summary": "",
+   "url": "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles",
+   "time": "2026-10-14T23:12:08+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "North Korea",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T00:54:25.503697+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "97537b474b16",
+   "flag": "🇰🇵",
+   "region": "East & SE Asia",
+   "baseline": 4.61,
    "watch": []
   },
   {
@@ -6528,6 +6528,118 @@
    "watch": []
   },
   {
+   "title": "Sexual assault reported at frat house near University of Chicago",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/14/sexual-assault-report-uchicago",
+   "time": "2026-10-14T23:32:50+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "United States",
+   "city": "Chicago",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/14/sexual-assault-report-uchicago",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T00:54:25.503697+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "04a6c3fbc976",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Sydney hospital patient charged with attempted murder after allegedly setting fellow patient alight",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/15/sydney-hospital-patient-charged-attempted-murder-royal-prince-of-wales-ntwnfb",
+   "time": "2026-10-14T23:30:16+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Australia",
+   "city": "Sydney",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/15/sydney-hospital-patient-charged-attempted-murder-royal-prince-of-wales-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T00:54:25.503697+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e523f396dc5e",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 82 km SSW of Mil’kovo, Russia",
+   "summary": "Depth 183 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2d6",
+   "time": "2026-10-14T23:20:59.714000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Russia",
+   "city": null,
+   "lat": 54.0004,
+   "lon": 158.1848,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2d6",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-15T00:54:25.503697+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "f5b847eb3e7b",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Student protests in Albania turn violent as demonstrators clash with police",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+   "time": "2026-10-14T23:19:43+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": "Tirana",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T00:54:25.503697+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a5e1551eec43",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
    "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
@@ -6662,6 +6774,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "f5e0c92a4ad3",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Student protesters attack government buildings in Albania",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-14T20:29:05+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-15T00:54:25.503697+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "dc20a98587db",
    "flag": "🇦🇱",
    "region": "Eastern Europe",
    "baseline": 2.14,
@@ -9900,34 +10040,6 @@
    "watch": []
   },
   {
-   "title": "Body found in stockyard trough confirmed to be missing 73-year-old Yvonne Whear",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/13/yvonne-whear-body-found-in-stockyard-trough-missing-woman-murwillumbah-ntwnfb",
-   "time": "2026-10-13T00:17:37+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United Kingdom",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/13/yvonne-whear-body-found-in-stockyard-trough-missing-woman-murwillumbah-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T01:33:05.805082+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "afdf2e9358e4",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
-   "watch": []
-  },
-  {
    "title": "M4.5 earthquake, 24 km SW of Zapotillo, Panama",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wz",
@@ -12548,174 +12660,6 @@
    "flag": "🇬🇪",
    "region": "Eastern Europe",
    "baseline": 2.39,
-   "watch": []
-  },
-  {
-   "title": "Dual quakes devastate southern Panama",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
-   "time": "2026-10-10T00:53:15+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-10T04:42:04.828766+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "321b95c70f76",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 9 km NNE of La Tronosa, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bj",
-   "time": "2026-10-10T00:51:48.773000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.5164,
-   "lon": -80.5568,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bj",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T23:34:04.686368+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "e6e84e036b99",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "M4.7 earthquake, 7 km S of Trudarmeyskiy, Russia",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bi",
-   "time": "2026-10-10T00:47:02.729000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 54.0661,
-   "lon": 86.4114,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bi",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T23:34:04.686368+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "6ee83a229b96",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-   "time": "2026-10-10T00:13:15+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Panama",
-   "city": "Panama City",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-10T16:07:22.741496+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "e9f62f45f18b",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "M4.8 earthquake, 5 km SW of Cañas, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b5",
-   "time": "2026-10-10T00:03:04.799000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.4053,
-   "lon": -80.2957,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b5",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-10T04:42:04.828766+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "a87baf31c2c8",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Bolivia",
-   "summary": "On 07/10/2026, a forest fire started in Bolivia, until 10/10/2026.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032686",
-   "time": "2026-10-09T23:01:34+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Bolivia",
-   "city": null,
-   "lat": -13.17332499618309,
-   "lon": -63.131433192326796,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032686",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-11T02:12:31.552155+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "92d88aef9f73",
-   "flag": "🇧🇴",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.09,
    "watch": []
   },
   {
