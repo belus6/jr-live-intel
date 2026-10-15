@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-15T15:14:13.860730+00:00",
+ "generated": "2026-10-15T19:13:31.534263+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 57,
+  "2": 62,
   "3": 36,
-  "4": 4,
+  "4": 2,
   "5": 1
  },
  "watch_hits": [
@@ -24,6 +24,16 @@
     "severity": 5,
     "confidence": "C4",
     "time": "2026-10-15T08:28:21+00:00"
+   },
+   {
+    "id": "640df12d4e9b",
+    "title": "HRW calls for greater access to Tigray region to ensure civilian protection",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-15T15:20:40+00:00"
    },
    {
     "id": "0d3eb66392c8",
@@ -66,34 +76,24 @@
     "time": "2026-10-15T04:53:54+00:00"
    },
    {
-    "id": "245f8ff3da59",
-    "title": "Kenya’s Health Ministry confirms second Ebola case",
+    "id": "7b62375fd7df",
+    "title": "Kenya reports second Ebola case, family member of first patient",
     "country": "Kenya",
     "city": null,
     "category": "health",
     "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-14T17:03:19+00:00"
+    "confidence": "C2",
+    "time": "2026-10-15T07:08:20+00:00"
    },
    {
-    "id": "e875064b0344",
-    "title": "Kenya confirms second Ebola case - a relative of the first victim",
-    "country": "Kenya",
+    "id": "5b9ac580aa77",
+    "title": "Phase-1 trial of Ebola vaccine gets underway in Uganda",
+    "country": "Uganda",
     "city": null,
     "category": "health",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-14T17:23:01+00:00"
-   },
-   {
-    "id": "b870ae26995d",
-    "title": "Rise in femicides in Cameroon spurs protests and demands for better laws",
-    "country": "Cameroon",
-    "city": null,
-    "category": "unrest",
     "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-15T10:52:03+00:00"
+    "time": "2026-10-15T18:01:52+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -126,6 +126,16 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-14T21:35:27+00:00"
+   },
+   {
+    "id": "6856996cad40",
+    "title": "M4.5 earthquake, 22 km W of Tamarindo, Costa Rica",
+    "country": "Costa Rica",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T15:40:38.840000+00:00"
    },
    {
     "id": "d84a1a59d74d",
@@ -166,16 +176,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-15T04:19:06+00:00"
-   },
-   {
-    "id": "bbc37bacff0f",
-    "title": "Thousands of Colombians march against new right-wing president's policies",
-    "country": "Colombia",
-    "city": "Bogota",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T01:57:26+00:00"
    }
   ],
   "Western Europe": [
@@ -190,34 +190,14 @@
     "time": "2026-10-14T20:58:31+00:00"
    },
    {
-    "id": "8c69f07e8826",
-    "title": "Ex-UK army chef jailed for ‘terror’-related offence",
-    "country": "United Kingdom",
+    "id": "89a29507cfb0",
+    "title": "French football body urges fans and students to keep politics out of stadiums",
+    "country": "France",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-14T17:32:09+00:00"
-   },
-   {
-    "id": "1a4ee63084ab",
-    "title": "Ukraine war latest: Operation Vivaldi liberates another 101 square kilometers in Donetsk Oblast",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-14T17:51:27+00:00"
-   },
-   {
-    "id": "3124772986a1",
-    "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T16:51:25+00:00"
+    "time": "2026-10-15T15:16:05+00:00"
    },
    {
     "id": "3fc17d44338d",
@@ -258,88 +238,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-14T19:53:26+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "8da93c1f6a48",
-    "title": "At least two security officials killed near Iran’s critical Chabahar port",
-    "country": "Iran",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-14T16:22:04+00:00"
-   },
-   {
-    "id": "182acd81ae24",
-    "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-15T10:52:12+00:00"
-   },
-   {
-    "id": "db9e48b45dfb",
-    "title": "Israel blocks construction of key Gaza base created by Trump peace board",
-    "country": "Israel",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T19:19:52+00:00"
-   },
-   {
-    "id": "764e57fa51e8",
-    "title": "‘Growing ambitions’: Dr. Kendall on Houthis’ quest to be recognised as Yemen’s ‘legitimate' leaders",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T17:18:04+00:00"
-   },
-   {
-    "id": "a96bd66c8e6d",
-    "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
-    "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-14T17:05:42+00:00"
-   },
-   {
-    "id": "ca1f243c1b58",
-    "title": "Turkey",
-    "country": "Turkey",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-15T09:34:15+00:00"
-   },
-   {
-    "id": "58bdc478aaf0",
-    "title": "Green flood alert in Syria",
-    "country": "Syria",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-15T07:59:52+00:00"
-   },
-   {
-    "id": "1e4535d00850",
-    "title": "Green flood alert in Jordan",
-    "country": "Jordan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-15T07:59:43+00:00"
    }
   ],
   "East & SE Asia": [
@@ -384,6 +282,16 @@
     "time": "2026-10-15T15:02:14+00:00"
    },
    {
+    "id": "dfc0ee45bb33",
+    "title": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore",
+    "country": "Singapore",
+    "city": "Singapore",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-15T14:55:16+00:00"
+   },
+   {
     "id": "726919d2a677",
     "title": "China, North Korea open long-delayed border bridge",
     "country": "China",
@@ -412,19 +320,39 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-15T03:26:36+00:00"
-   },
-   {
-    "id": "5e6b64c47ddb",
-    "title": "Sky turns orange as wildfires rage across Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T20:39:59+00:00"
    }
   ],
   "Eastern Europe": [
+   {
+    "id": "76ba4b37540e",
+    "title": "Russian soldier faces life in prison over alleged killing of 5 Ukrainian troops, civilian in Kharkiv Oblast",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-15T17:47:18+00:00"
+   },
+   {
+    "id": "73f15f40a99d",
+    "title": "The EU loophole Russia is using to free its oligarchs from sanctions",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-15T17:20:42+00:00"
+   },
+   {
+    "id": "278f28cdc7ff",
+    "title": "'We're done': Ukraine resumes strikes on Russian oil refineries as 'only leverage' for peace talks",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-15T16:14:25+00:00"
+   },
    {
     "id": "3d0504ced7b2",
     "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
@@ -456,6 +384,16 @@
     "time": "2026-10-15T14:51:30+00:00"
    },
    {
+    "id": "20c3d0abd115",
+    "title": "NATO to address drone attacks in the Black Sea after seven missing off Romania",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-15T13:35:22+00:00"
+   },
+   {
     "id": "beba9ded97e8",
     "title": "Russia accuses Ukraine of contradicting US brokered deal",
     "country": "Russia",
@@ -464,46 +402,88 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-15T13:29:38+00:00"
-   },
+   }
+  ],
+  "Middle East & N. Africa": [
    {
-    "id": "53257b171639",
-    "title": "Ukraine's Zelensky defies Trump with Russian refinery strikes",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-15T12:34:17+00:00"
-   },
-   {
-    "id": "8549afbd562b",
-    "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
-    "country": "Russia",
+    "id": "6bc372dd72b2",
+    "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+    "country": "Yemen",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-15T11:45:39+00:00"
+    "time": "2026-10-15T17:18:49+00:00"
    },
    {
-    "id": "6e60c0852163",
-    "title": "Russian drone strikes Kyiv, injures 7, sets car ablaze",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T11:45:27+00:00"
-   },
-   {
-    "id": "7d360cea2db1",
-    "title": "Ukraine hits 6 Russian Su-34 bomber jets with Neptune missile, military says",
-    "country": "Ukraine",
+    "id": "5fb94dfb13c1",
+    "title": "Houthis target Yemen’s presidential palace in Aden with missiles",
+    "country": "Yemen",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T10:05:25+00:00"
+    "confidence": "B3",
+    "time": "2026-10-15T16:50:42+00:00"
+   },
+   {
+    "id": "182acd81ae24",
+    "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-15T10:52:12+00:00"
+   },
+   {
+    "id": "db9e48b45dfb",
+    "title": "Israel blocks construction of key Gaza base created by Trump peace board",
+    "country": "Israel",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-14T19:19:52+00:00"
+   },
+   {
+    "id": "ca1f243c1b58",
+    "title": "Turkey",
+    "country": "Turkey",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T09:34:15+00:00"
+   },
+   {
+    "id": "58bdc478aaf0",
+    "title": "Green flood alert in Syria",
+    "country": "Syria",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T07:59:52+00:00"
+   },
+   {
+    "id": "1e4535d00850",
+    "title": "Green flood alert in Jordan",
+    "country": "Jordan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T07:59:43+00:00"
+   },
+   {
+    "id": "377cc73f0dc9",
+    "title": "Teenager dies as heavy rain floods Istanbul",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T03:12:02+00:00"
    }
   ],
   "North America": [
@@ -516,6 +496,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-15T10:00:00+00:00"
+   },
+   {
+    "id": "c85a00c08e09",
+    "title": "Woman resentenced to life in prison for death of Kansas City reporter",
+    "country": "United States",
+    "city": "New Orleans",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T17:10:25+00:00"
    },
    {
     "id": "fc5c7f45baab",
@@ -538,17 +528,59 @@
     "time": "2026-10-14T23:32:50+00:00"
    }
   ],
-  "Oceania": [
+  "South Asia": [
    {
-    "id": "f16ab241cb78",
-    "title": "Cornell president acknowledges he knew about fraternity sexual assault but didn’t follow up",
-    "country": "Australia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
+    "id": "eda8629f03f3",
+    "title": "India’s Cockroach movement: Protesters bypass internet blackout with Bluetooth",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-14T16:30:10+00:00"
+    "time": "2026-10-15T15:29:21+00:00"
    },
+   {
+    "id": "e6d97310e0b1",
+    "title": "Pakistan: Classrooms reduced to rubble in deadly school disaster, at leat 32 pupils killed",
+    "country": "Pakistan",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-15T13:03:26+00:00"
+   },
+   {
+    "id": "2b4992d44b6e",
+    "title": "FRANCE 24 report: India’s Gen Z protesters find gaps in security clampdown",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T10:03:51+00:00"
+   },
+   {
+    "id": "224ec441ec22",
+    "title": "Actor Imran Khan ordered to leave India after participating in protest",
+    "country": "India",
+    "city": "Mumbai",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T08:17:07+00:00"
+   },
+   {
+    "id": "0f292ba6fa78",
+    "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
+    "country": "India",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T07:25:54+00:00"
+   }
+  ],
+  "Oceania": [
    {
     "id": "3fb2683ed4a9",
     "title": "M5.2 earthquake, 107 km NNE of Hihifo, Tonga",
@@ -598,78 +630,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-14T23:30:16+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "e6d97310e0b1",
-    "title": "Pakistan: Classrooms reduced to rubble in deadly school disaster, at leat 32 pupils killed",
-    "country": "Pakistan",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-15T13:03:26+00:00"
-   },
-   {
-    "id": "2b4992d44b6e",
-    "title": "FRANCE 24 report: India’s Gen Z protesters find gaps in security clampdown",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T10:03:51+00:00"
-   },
-   {
-    "id": "224ec441ec22",
-    "title": "Actor Imran Khan ordered to leave India after participating in protest",
-    "country": "India",
-    "city": "Mumbai",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T08:17:07+00:00"
-   },
-   {
-    "id": "0f292ba6fa78",
-    "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
-    "country": "India",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T07:25:54+00:00"
-   },
-   {
-    "id": "97fce2a0b2a1",
-    "title": "How far will cockroach movement go? India's youth-led protests defy Modi government",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T18:40:21+00:00"
-   },
-   {
-    "id": "4ea72367aa2e",
-    "title": "India’s cockroach protesters defy Modi’s crackdown – The Latest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T17:40:05+00:00"
-   },
-   {
-    "id": "90ad40a01ca6",
-    "title": "‘The idea that Modi must be feared because he holds all levers of power has gone out of the window’",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-14T16:51:51+00:00"
    }
   ]
  }
