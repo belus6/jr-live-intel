@@ -1,15 +1,17 @@
 {
- "generated": "2026-10-16T18:23:24.230025+00:00",
+ "generated": "2026-10-16T21:32:17.903340+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 74,
-  "3": 40,
+  "2": 72,
+  "3": 34,
   "4": 7,
   "5": 0
  },
- "watch_hits": [],
+ "watch_hits": [
+  "8045cbcfd75b"
+ ],
  "regions": {
   "Western Europe": [
    {
@@ -23,26 +25,6 @@
     "time": "2026-10-16T16:26:46+00:00"
    },
    {
-    "id": "f66bb33d1999",
-    "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-15T21:07:06+00:00"
-   },
-   {
-    "id": "6c1cf5ac22f6",
-    "title": "Sally Rooney's books cannot be sold in UK amid Palestine Action ban, publisher says",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-15T21:07:06+00:00"
-   },
-   {
     "id": "00393396cb11",
     "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
     "country": "Spain",
@@ -51,6 +33,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-16T17:05:31+00:00"
+   },
+   {
+    "id": "b00d1d6a2038",
+    "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
+    "country": "Spain",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T16:35:32+00:00"
    },
    {
     "id": "97c5d9831846",
@@ -91,91 +83,29 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-16T01:50:10+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "2550a9cf8553",
-    "title": "IDF kills Hamas terrorist in Gaza Strip who participated in October 7 attacks",
-    "country": "Palestine",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-16T08:00:00+00:00"
    },
    {
-    "id": "b62a8f098e2b",
-    "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
-    "country": "Yemen",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-16T04:00:50+00:00"
-   },
-   {
-    "id": "5e7dfa53c68a",
-    "title": "Houthi attack on palace used by Yemen government in Aden kills five",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-10-15T19:57:48+00:00"
-   },
-   {
-    "id": "7f977f39468f",
-    "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-15T23:38:46+00:00"
-   },
-   {
-    "id": "615775a141bf",
-    "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-    "country": "Palestine",
-    "city": null,
+    "id": "ca054bc010cb",
+    "title": "Live: Ukraine is ‘dependent’ on Starlink for intercepting Russian drones, Zelensky says",
+    "country": "Belgium",
+    "city": "Brussels",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-16T12:00:00+00:00"
-   },
-   {
-    "id": "df950273f9b4",
-    "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T12:00:00+00:00"
-   },
-   {
-    "id": "219b6ffdea3b",
-    "title": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
-    "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T00:02:37+00:00"
-   },
-   {
-    "id": "3d792756652d",
-    "title": "South Sudan Clashes Kill at Least 16 People",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T21:45:00+00:00"
+    "time": "2026-10-16T01:50:10+00:00"
    }
   ],
   "Eastern Europe": [
+   {
+    "id": "a04154b329ee",
+    "title": "Russian industrial facility reportedly on fire after drone attack in Surgut region",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-16T14:27:07+00:00"
+   },
    {
     "id": "9c91a59f6595",
     "title": "M6.9 earthquake, 76 km NE of Ozernovskiy, Russia",
@@ -185,6 +115,16 @@
     "severity": 4,
     "confidence": "A1",
     "time": "2026-10-16T03:35:31.925000+00:00"
+   },
+   {
+    "id": "5691d564face",
+    "title": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T20:25:46+00:00"
    },
    {
     "id": "5232afa7ef8c",
@@ -235,26 +175,130 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-16T14:59:31+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "2550a9cf8553",
+    "title": "IDF kills Hamas terrorist in Gaza Strip who participated in October 7 attacks",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-16T08:00:00+00:00"
    },
    {
-    "id": "a04154b329ee",
-    "title": "Russian industrial facility reportedly on fire after drone attack in Surgut region",
-    "country": "Russia",
+    "id": "b62a8f098e2b",
+    "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
+    "country": "Yemen",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-16T04:00:50+00:00"
+   },
+   {
+    "id": "7f977f39468f",
+    "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-15T23:38:46+00:00"
+   },
+   {
+    "id": "615775a141bf",
+    "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T12:00:00+00:00"
+   },
+   {
+    "id": "df950273f9b4",
+    "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T12:00:00+00:00"
+   },
+   {
+    "id": "219b6ffdea3b",
+    "title": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T00:02:37+00:00"
+   },
+   {
+    "id": "3d792756652d",
+    "title": "South Sudan Clashes Kill at Least 16 People",
+    "country": "Sudan",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-16T14:27:07+00:00"
+    "time": "2026-10-15T21:45:00+00:00"
    },
    {
-    "id": "fe82fe3eec19",
-    "title": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-    "country": "Albania",
+    "id": "dc73861c17f4",
+    "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+    "country": "Israel",
     "city": null,
-    "category": "political",
-    "severity": 3,
+    "category": "cyber",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-16T14:23:00+00:00"
+    "time": "2026-10-16T21:08:44+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "7a0ac1986d7e",
+    "title": "Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3815 .",
+    "country": "Cook Islands",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-16T07:39:18+00:00"
+   },
+   {
+    "id": "12537a531983",
+    "title": "M4.6 earthquake, 153 km W of Neiafu, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T15:06:34.084000+00:00"
+   },
+   {
+    "id": "a3683554d976",
+    "title": "M5.0 earthquake, Auckland Islands, New Zealand region",
+    "country": "New Zealand",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T14:09:54.288000+00:00"
+   },
+   {
+    "id": "77c7262c94f2",
+    "title": "Green notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+    "country": "Cook Islands",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T07:39:18+00:00"
    }
   ],
   "East & SE Asia": [
@@ -359,26 +403,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-16T04:42:40.890000+00:00"
-   },
-   {
-    "id": "33739c9e8ae9",
-    "title": "US winter is likely to be wetter and warmer, forecasters say, with more snow in the south",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T20:44:18+00:00"
-   },
-   {
-    "id": "62afb13d48bf",
-    "title": "Jalisco investiga a 17 policías tras protestas por agua en Guadalajara",
-    "country": "Mexico",
-    "city": "Guadalajara",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-15T19:45:00+00:00"
    }
   ],
   "South Asia": [
@@ -443,14 +467,14 @@
     "time": "2026-10-16T06:39:48+00:00"
    },
    {
-    "id": "33c5bdd550a8",
-    "title": "CJP protest at Connaught Place today as Delhi HC refuses curbs",
+    "id": "6c1387f3e046",
+    "title": "Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli",
     "country": "India",
-    "city": "Delhi",
+    "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-15T21:30:00+00:00"
+    "confidence": "B3",
+    "time": "2026-10-16T19:21:33+00:00"
    },
    {
     "id": "2bb53d91d579",
@@ -463,7 +487,99 @@
     "time": "2026-10-16T13:26:43+00:00"
    }
   ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "8045cbcfd75b",
+    "title": "Kenya records third Ebola case, linked to first patient who died",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "category": "health",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-16T18:57:40+00:00"
+   },
+   {
+    "id": "eb963c928f9b",
+    "title": "Green forest fire notification in South Africa",
+    "country": "South Africa",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T19:04:13+00:00"
+   },
+   {
+    "id": "803778de57f0",
+    "title": "Green forest fire notification in Chad",
+    "country": "Chad",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T19:04:10+00:00"
+   },
+   {
+    "id": "fc4be8181a4f",
+    "title": "Kenya confirms third Ebola case as health officials race to contain outbreak",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-16T19:01:28+00:00"
+   },
+   {
+    "id": "fc34847791e9",
+    "title": "M4.6 earthquake, 41 km NNE of Kilimatinde, Tanzania",
+    "country": "Tanzania",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T16:17:25.793000+00:00"
+   },
+   {
+    "id": "33e7f026bb25",
+    "title": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-16T13:51:54+00:00"
+   },
+   {
+    "id": "7e6b3390103f",
+    "title": "How prepared is Kenya for an Ebola outbreak?",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-16T10:41:00+00:00"
+   },
+   {
+    "id": "1246721fe6be",
+    "title": "Nigeria : 2027 - Tinubu Issues Fresh Directive , Orders Security Agencies to Rescue All Kidnapped Victims",
+    "country": "Nigeria",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-16T09:00:00+00:00"
+   }
+  ],
   "Latin America & Caribbean": [
+   {
+    "id": "42de90ab437c",
+    "title": "M5.2 earthquake, off the coast of Ecuador",
+    "country": "Ecuador",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T19:34:10.742000+00:00"
+   },
    {
     "id": "577a21999753",
     "title": "Argentine demonstration over education cuts ends in clashes",
@@ -473,6 +589,16 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-16T16:25:39+00:00"
+   },
+   {
+    "id": "a4dd03b375aa",
+    "title": "M4.5 earthquake, 51 km ESE of Juradó, Colombia",
+    "country": "Colombia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T13:02:41.211000+00:00"
    },
    {
     "id": "ffc4b0d18282",
@@ -513,140 +639,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-15T21:45:00+00:00"
-   },
-   {
-    "id": "f908bda56270",
-    "title": "M4.5 earthquake, 44 km SSE of Champerico, Guatemala",
-    "country": "Guatemala",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-15T20:39:25.755000+00:00"
-   },
-   {
-    "id": "4adff1800305",
-    "title": "Presidente de la Espriella expide Decreto que regula la protesta : Se respeta , pero no se toleran la violencia , el vandalismo y los bloqueo – Radio Santa Fe 1070 a . m . Noticias de Colombia",
-    "country": "Colombia",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-15T20:15:00+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "fc34847791e9",
-    "title": "M4.6 earthquake, 41 km NNE of Kilimatinde, Tanzania",
-    "country": "Tanzania",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T16:17:25.793000+00:00"
-   },
-   {
-    "id": "33e7f026bb25",
-    "title": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-16T13:51:54+00:00"
-   },
-   {
-    "id": "7e6b3390103f",
-    "title": "How prepared is Kenya for an Ebola outbreak?",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-16T10:41:00+00:00"
-   },
-   {
-    "id": "1246721fe6be",
-    "title": "Nigeria : 2027 - Tinubu Issues Fresh Directive , Orders Security Agencies to Rescue All Kidnapped Victims",
-    "country": "Nigeria",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-16T09:00:00+00:00"
-   },
-   {
-    "id": "b3a41113b2fb",
-    "title": "Government issues Mauritius travel warning after shooting",
-    "country": "Mauritius",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-16T07:45:00+00:00"
-   },
-   {
-    "id": "a3a48343db35",
-    "title": "DR Congo protests Formula One's 'indefensible' decision to race in Rwanda",
-    "country": "Rwanda",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-16T05:56:36+00:00"
-   },
-   {
-    "id": "25fe24281b24",
-    "title": "Ebola outbreak in DR Congo spreads to new province bordering CAR",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-16T04:52:35+00:00"
-   },
-   {
-    "id": "f05a5f52d44d",
-    "title": "Tanzania - Level 2: Exercise Increased Caution",
-    "country": "Tanzania",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T00:00:00+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "12537a531983",
-    "title": "M4.6 earthquake, 153 km W of Neiafu, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T15:06:34.084000+00:00"
-   },
-   {
-    "id": "a3683554d976",
-    "title": "M5.0 earthquake, Auckland Islands, New Zealand region",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T14:09:54.288000+00:00"
-   },
-   {
-    "id": "77c7262c94f2",
-    "title": "Green notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
-    "country": "Cook Islands",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T07:39:18+00:00"
    }
   ]
  }
