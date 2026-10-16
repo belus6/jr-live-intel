@@ -1,100 +1,18 @@
 {
- "generated": "2026-10-16T05:03:05.780574+00:00",
+ "generated": "2026-10-16T09:50:07.412897+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 64,
-  "3": 43,
-  "4": 6,
-  "5": 1
+  "2": 79,
+  "3": 45,
+  "4": 8,
+  "5": 0
  },
  "watch_hits": [
   "fbc50951f1b3"
  ],
  "regions": {
-  "Sub-Saharan Africa": [
-   {
-    "id": "1d66bedccf76",
-    "title": "WHO raises alarm over undetected Ebola cases in DR Congo",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 5,
-    "confidence": "C4",
-    "time": "2026-10-15T08:28:21+00:00"
-   },
-   {
-    "id": "640df12d4e9b",
-    "title": "HRW calls for greater access to Tigray region to ensure civilian protection",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T15:20:40+00:00"
-   },
-   {
-    "id": "0d3eb66392c8",
-    "title": "Guinea-Bissau junta sacks senior officer close to ousted president Embaló",
-    "country": "Guinea-Bissau",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T11:01:17+00:00"
-   },
-   {
-    "id": "c2e76d6fec40",
-    "title": "Mauritius extends curfew after protests turn violent",
-    "country": "Mauritius",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T10:30:33+00:00"
-   },
-   {
-    "id": "51d35e187b0f",
-    "title": "Eritrean forces suffer 'heavy losses' in Tigray, Ethiopian militia says",
-    "country": "Eritrea",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T08:25:56+00:00"
-   },
-   {
-    "id": "7b62375fd7df",
-    "title": "Kenya reports second Ebola case, family member of first patient",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-15T07:08:20+00:00"
-   },
-   {
-    "id": "aebcb8329334",
-    "title": "Green forest fire notification in Malawi",
-    "country": "Malawi",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-15T19:13:20+00:00"
-   },
-   {
-    "id": "9fd5e576e3b6",
-    "title": "Green forest fire notification in The Democratic Republic of Congo",
-    "country": "DRC",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-15T19:11:02+00:00"
-   }
-  ],
   "Middle East & N. Africa": [
    {
     "id": "589a1cdeeb7f",
@@ -105,6 +23,16 @@
     "severity": 4,
     "confidence": "B1",
     "time": "2026-10-15T16:50:42+00:00"
+   },
+   {
+    "id": "2550a9cf8553",
+    "title": "IDF kills Hamas terrorist in Gaza Strip who participated in October 7 attacks",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-16T08:00:00+00:00"
    },
    {
     "id": "b62a8f098e2b",
@@ -125,6 +53,16 @@
     "severity": 3,
     "confidence": "B1",
     "time": "2026-10-15T19:57:48+00:00"
+   },
+   {
+    "id": "7f977f39468f",
+    "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-15T23:38:46+00:00"
    },
    {
     "id": "219b6ffdea3b",
@@ -155,26 +93,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-15T20:00:36+00:00"
-   },
-   {
-    "id": "eefa0601cf7b",
-    "title": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
-    "country": "Saudi Arabia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-15T20:00:36+00:00"
-   },
-   {
-    "id": "d455363864ef",
-    "title": "Houthis struck Riyadh airport 20 times in October, Saudi-led coalition says",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T19:16:57+00:00"
    }
   ],
   "Eastern Europe": [
@@ -199,6 +117,46 @@
     "time": "2026-10-15T14:51:30+00:00"
    },
    {
+    "id": "525b6875afb9",
+    "title": "Zelensky rallies European allies as Trump ties slump",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T09:21:23+00:00"
+   },
+   {
+    "id": "724b1d3b0d2d",
+    "title": "Trump calls Ukraine’s renewed strikes on Russian oil refineries a ‘disgrace’",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T09:05:55+00:00"
+   },
+   {
+    "id": "e90b4504623e",
+    "title": "Zelensky thanks EU's 'real leaders' for their continued support as bloc confirms new sanctions package on the way",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-16T07:59:52+00:00"
+   },
+   {
+    "id": "7cc9c2e8a1c4",
+    "title": "General Staff: Russia has lost 1,561,020 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-16T06:25:02+00:00"
+   },
+   {
     "id": "34e6583440b3",
     "title": "Order limiting Starlink access for Ukraine's military came from within White House, Reuters reports",
     "country": "Ukraine",
@@ -217,46 +175,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-16T02:29:42+00:00"
-   },
-   {
-    "id": "a75f73a7d2db",
-    "title": "Zelensky rallies European allies as US support for Ukraine wanes",
-    "country": "Ukraine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-15T23:06:00+00:00"
-   },
-   {
-    "id": "c1797e6d0b09",
-    "title": "Russian drone strikes leave portions of Kyiv without power, fires burning",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T20:23:14+00:00"
-   },
-   {
-    "id": "03a01594a548",
-    "title": "Donald Trump 'openly financing Russia's war with Ukraine', Nobel peace laureate says",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-15T19:48:10+00:00"
-   },
-   {
-    "id": "76ba4b37540e",
-    "title": "Russian soldier faces life in prison over alleged killing of 5 Ukrainian troops, civilian in Kharkiv Oblast",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T17:47:18+00:00"
    }
   ],
   "East & SE Asia": [
@@ -271,6 +189,26 @@
     "time": "2026-10-16T01:34:47+00:00"
    },
    {
+    "id": "346a52849563",
+    "title": "China-North Korea border bridge may do little to spur trade, experts say",
+    "country": "North Korea",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T09:21:40+00:00"
+   },
+   {
+    "id": "e3f17aee9401",
+    "title": "Nearly 70 Percent of Myanmar Junta Airstrikes Targeted Civilians , Report Finds",
+    "country": "Myanmar",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-16T09:00:00+00:00"
+   },
+   {
     "id": "92ff3c2383fb",
     "title": "Hypersonic missiles highlight arms race on Korean Peninsula",
     "country": "North Korea",
@@ -281,14 +219,24 @@
     "time": "2026-10-15T12:02:00+00:00"
    },
    {
-    "id": "a78a11a26c4b",
-    "title": "North Korea and China open new bridge after 12-year delay",
-    "country": "North Korea",
-    "city": "Pyongyang",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-15T06:24:45+00:00"
+    "id": "a25e2fe8d629",
+    "title": "M4.9 earthquake, 31 km ENE of Kinablangan, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T09:13:44.909000+00:00"
+   },
+   {
+    "id": "719de051e77a",
+    "title": "Protests spread in Indonesia over fires and haze",
+    "country": "Indonesia",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-16T09:00:00+00:00"
    },
    {
     "id": "541a02ea64d0",
@@ -309,26 +257,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-15T14:55:16+00:00"
-   },
-   {
-    "id": "726919d2a677",
-    "title": "China, North Korea open long-delayed border bridge",
-    "country": "China",
-    "city": null,
-    "category": "transport",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T10:05:12+00:00"
-   },
-   {
-    "id": "8f37dcbcbae8",
-    "title": "Thailand: Bangkok protesters decry IMF and World Bank, warn of destructive capitalism",
-    "country": "Thailand",
-    "city": "Bangkok",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-15T07:34:43+00:00"
    }
   ],
   "Western Europe": [
@@ -341,6 +269,26 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-15T21:07:06+00:00"
+   },
+   {
+    "id": "6c1cf5ac22f6",
+    "title": "Sally Rooney's books cannot be sold in UK amid Palestine Action ban, publisher says",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-15T21:07:06+00:00"
+   },
+   {
+    "id": "46287b592c69",
+    "title": "EU’s von der Leyen pledges to ‘not lift any sanctions unless Russia stops the war’ as leaders discuss Ukraine – Europe live",
+    "country": "Belgium",
+    "city": "Brussels",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T09:23:11+00:00"
    },
    {
     "id": "f54e1116fb4b",
@@ -363,54 +311,34 @@
     "time": "2026-10-15T19:26:53+00:00"
    },
    {
-    "id": "209340f7fc98",
-    "title": "French police accused over war-like injuries to teenagers in school protests",
+    "id": "b54b3e99061c",
+    "title": "Policing of France school protests clouds Macron final months and sparks uproar",
     "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-16T04:00:49+00:00"
+    "confidence": "C2",
+    "time": "2026-10-16T07:30:00+00:00"
    },
    {
-    "id": "3faa994da006",
-    "title": "Are student protests being manipulated ahead of France's presidential election?",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T23:25:06+00:00"
-   },
-   {
-    "id": "5b43f538a435",
-    "title": "MS NOW Implores Americans to Protest , Like France , Over Economy",
-    "country": "France",
-    "city": null,
+    "id": "49da7ea13947",
+    "title": "Protest held against Israeli company at Madrid Teatros del Canal",
+    "country": "Spain",
+    "city": "Madrid",
     "category": "unrest",
     "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-15T21:30:00+00:00"
+    "time": "2026-10-16T08:15:00+00:00"
    },
    {
-    "id": "89a29507cfb0",
-    "title": "French football body urges fans and students to keep politics out of stadiums",
+    "id": "bc0c5e2837d2",
+    "title": "Students join Yellow Vest protest: Greater collective strength versus risk of losing distinct voice",
     "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-15T15:16:05+00:00"
-   },
-   {
-    "id": "3fc17d44338d",
-    "title": "France charges teen shooter citing revenge for bullying in school",
-    "country": "France",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T15:06:36+00:00"
+    "time": "2026-10-16T07:41:39+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -495,6 +423,88 @@
     "time": "2026-10-15T14:25:49+00:00"
    }
   ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "640df12d4e9b",
+    "title": "HRW calls for greater access to Tigray region to ensure civilian protection",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-15T15:20:40+00:00"
+   },
+   {
+    "id": "0d3eb66392c8",
+    "title": "Guinea-Bissau junta sacks senior officer close to ousted president Embaló",
+    "country": "Guinea-Bissau",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-15T11:01:17+00:00"
+   },
+   {
+    "id": "c2e76d6fec40",
+    "title": "Mauritius extends curfew after protests turn violent",
+    "country": "Mauritius",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-15T10:30:33+00:00"
+   },
+   {
+    "id": "1246721fe6be",
+    "title": "Nigeria : 2027 - Tinubu Issues Fresh Directive , Orders Security Agencies to Rescue All Kidnapped Victims",
+    "country": "Nigeria",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-16T09:00:00+00:00"
+   },
+   {
+    "id": "b3a41113b2fb",
+    "title": "Government issues Mauritius travel warning after shooting",
+    "country": "Mauritius",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-16T07:45:00+00:00"
+   },
+   {
+    "id": "a3a48343db35",
+    "title": "DR Congo protests Formula One's 'indefensible' decision to race in Rwanda",
+    "country": "Rwanda",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-16T05:56:36+00:00"
+   },
+   {
+    "id": "25fe24281b24",
+    "title": "Ebola outbreak in DR Congo spreads to new province bordering CAR",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-16T04:52:35+00:00"
+   },
+   {
+    "id": "aebcb8329334",
+    "title": "Green forest fire notification in Malawi",
+    "country": "Malawi",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-15T19:13:20+00:00"
+   }
+  ],
   "North America": [
    {
     "id": "fbc50951f1b3",
@@ -559,6 +569,46 @@
   ],
   "South Asia": [
    {
+    "id": "f9b091f5b376",
+    "title": "Indian authorities heighten security, close park ahead of 'cockroach' movement rally",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-16T06:39:48+00:00"
+   },
+   {
+    "id": "943c294ea3ee",
+    "title": "Delhi Ramlila committee to burn 30 - foot cockroach effigy alongside Ravana on Dussehra amid CJP nationwide protest",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C1",
+    "time": "2026-10-16T07:30:00+00:00"
+   },
+   {
+    "id": "abf7a182a5a4",
+    "title": "India : CJP to stage protest against electoral fraud in New Delhi today",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C2",
+    "time": "2026-10-16T07:45:00+00:00"
+   },
+   {
+    "id": "b99be369bfb8",
+    "title": "Delhi : Security forces deployed in and around Connaught Place ahead of Lehra Do Tiranga protest",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C2",
+    "time": "2026-10-16T07:30:00+00:00"
+   },
+   {
     "id": "33c5bdd550a8",
     "title": "CJP protest at Connaught Place today as Delhi HC refuses curbs",
     "country": "India",
@@ -569,77 +619,47 @@
     "time": "2026-10-15T21:30:00+00:00"
    },
    {
-    "id": "214fdd5e13e2",
-    "title": "Anti - CEC protest : Imran Khan moves Bombay HC against FRRO notice directing him to leave India by October 28",
-    "country": "India",
+    "id": "44dd7a4de934",
+    "title": "Bangladesh - style regime change : Rajnath Singh accuses Congress , allies of fuelling anarchy amid anti - CEC protests",
+    "country": "Bangladesh",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-15T21:45:00+00:00"
+    "time": "2026-10-16T09:00:00+00:00"
    },
    {
-    "id": "8bf90b925d12",
-    "title": "Anti - CEC protest : Why is PM Modi shutting down Delhi to protect one man ? asks CJP Dipke with Central Park shut ahead of Tiranga march",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-15T21:15:00+00:00"
-   },
-   {
-    "id": "a6363150916e",
-    "title": "Imran Khan to challenge FRRO directive asking him to leave India by Oct 28 ; veteran Raza Murad slams him for taking part in protest",
-    "country": "India",
+    "id": "50856fa98f42",
+    "title": "Flash floods kill five and destroy villages in central Nepal",
+    "country": "Nepal",
     "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-15T20:45:00+00:00"
-   },
-   {
-    "id": "eda8629f03f3",
-    "title": "India’s Cockroach movement: Protesters bypass internet blackout with Bluetooth",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
+    "category": "hazard",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-15T15:29:21+00:00"
+    "time": "2026-10-16T08:51:27+00:00"
    },
    {
-    "id": "e6d97310e0b1",
-    "title": "Pakistan: Classrooms reduced to rubble in deadly school disaster, at leat 32 pupils killed",
-    "country": "Pakistan",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-15T13:03:26+00:00"
-   },
-   {
-    "id": "2b4992d44b6e",
-    "title": "FRANCE 24 report: India’s Gen Z protesters find gaps in security clampdown",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T10:03:51+00:00"
-   },
-   {
-    "id": "224ec441ec22",
-    "title": "Actor Imran Khan ordered to leave India after participating in protest",
+    "id": "f8a6e28caf5e",
+    "title": "FPJ Quick Take At 12 PM : Mumbai Braces For Lehra Do Tiranga Protest , Tesla Showcases Flying Car ; Your Daily Noon Guide To Top News Headlines",
     "country": "India",
     "city": "Mumbai",
     "category": "unrest",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T08:17:07+00:00"
+    "confidence": "C4",
+    "time": "2026-10-16T07:45:00+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "77c7262c94f2",
+    "title": "Green notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+    "country": "Cook Islands",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T07:39:18+00:00"
+   },
    {
     "id": "3fb2683ed4a9",
     "title": "M5.2 earthquake, 107 km NNE of Hihifo, Tonga",
@@ -659,16 +679,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-15T13:06:51.678000+00:00"
-   },
-   {
-    "id": "bc7d45f26c78",
-    "title": "M5.3 earthquake, 43 km SSE of Otorohanga, New Zealand",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-15T05:25:31.942000+00:00"
    }
   ]
  }

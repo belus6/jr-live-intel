@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T05:03:05.780574+00:00",
+ "generated": "2026-10-16T09:50:07.412897+00:00",
  "sources": [
   {
    "id": "us-state-advisories",
@@ -7,7 +7,7 @@
    "ok": true,
    "items": 2,
    "note": "ok",
-   "secs": 0.9
+   "secs": 1.0
   },
   {
    "id": "uk-fcdo",
@@ -15,7 +15,7 @@
    "ok": true,
    "items": 20,
    "note": "ok",
-   "secs": 0.5
+   "secs": 0.2
   },
   {
    "id": "cdc-notices",
@@ -23,7 +23,7 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "id": "usgs-quakes",
@@ -37,9 +37,9 @@
    "id": "gdacs",
    "name": "GDACS disaster alerts",
    "ok": true,
-   "items": 67,
+   "items": 63,
    "note": "ok",
-   "secs": 2.9
+   "secs": 2.6
   },
   {
    "id": "reliefweb",
@@ -55,7 +55,7 @@
    "ok": true,
    "items": 4,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "id": "bbc-world",
@@ -63,7 +63,7 @@
    "ok": true,
    "items": 9,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.4
   },
   {
    "id": "aljazeera",
@@ -77,9 +77,9 @@
    "id": "france24",
    "name": "France 24",
    "ok": true,
-   "items": 10,
+   "items": 7,
    "note": "ok",
-   "secs": 0.4
+   "secs": 0.3
   },
   {
    "id": "dw",
@@ -87,15 +87,15 @@
    "ok": true,
    "items": 3,
    "note": "ok",
-   "secs": 0.7
+   "secs": 0.4
   },
   {
    "id": "guardian-world",
    "name": "The Guardian World",
    "ok": true,
-   "items": 11,
+   "items": 12,
    "note": "ok",
-   "secs": 0.5
+   "secs": 0.7
   },
   {
    "id": "npr-world",
@@ -103,21 +103,21 @@
    "ok": true,
    "items": 3,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "africanews",
    "name": "Africanews",
    "ok": true,
-   "items": 20,
+   "items": 22,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.4
   },
   {
    "id": "kyiv-independent",
    "name": "Kyiv Independent",
    "ok": true,
-   "items": 6,
+   "items": 7,
    "note": "ok",
    "secs": 0.3
   },
@@ -131,9 +131,10 @@
   {
    "id": "gdelt-security",
    "name": "GDELT security events (English)",
-   "ok": false,
-   "items": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28protest%20OR%20airstrike%20OR%20explosion%20OR%20%22gunmen%22%"
+   "ok": true,
+   "items": 25,
+   "note": "ok",
+   "secs": 15.4
   },
   {
    "id": "gdelt-unrest-es-fr",
