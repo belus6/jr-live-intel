@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-16T21:32:17.903340+00:00",
+ "generated": "2026-10-16T23:54:01.934108+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 72,
-  "3": 34,
+  "2": 73,
+  "3": 33,
   "4": 7,
   "5": 0
  },
@@ -27,6 +27,16 @@
    {
     "id": "00393396cb11",
     "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T17:05:31+00:00"
+   },
+   {
+    "id": "1ae1c220b15d",
+    "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
     "country": "Spain",
     "city": "Madrid",
     "category": "political",
@@ -77,16 +87,6 @@
    {
     "id": "f54e1116fb4b",
     "title": "Live: Trump calls renewed Ukraine attacks on Russian oil refineries 'a disgrace'",
-    "country": "Belgium",
-    "city": "Brussels",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T01:50:10+00:00"
-   },
-   {
-    "id": "ca054bc010cb",
-    "title": "Live: Ukraine is ‘dependent’ on Starlink for intercepting Russian drones, Zelensky says",
     "country": "Belgium",
     "city": "Brussels",
     "category": "conflict",
@@ -199,14 +199,14 @@
     "time": "2026-10-16T04:00:50+00:00"
    },
    {
-    "id": "7f977f39468f",
-    "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+    "id": "b34f74ba5ea9",
+    "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
     "country": "Yemen",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-15T23:38:46+00:00"
+    "confidence": "B3",
+    "time": "2026-10-16T21:56:07+00:00"
    },
    {
     "id": "615775a141bf",
@@ -239,14 +239,14 @@
     "time": "2026-10-16T00:02:37+00:00"
    },
    {
-    "id": "3d792756652d",
-    "title": "South Sudan Clashes Kill at Least 16 People",
-    "country": "Sudan",
+    "id": "7d9ade6d58af",
+    "title": "M4.5 earthquake, 70 km NNE of Mīnāb, Iran",
+    "country": "Iran",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T21:45:00+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T21:30:26.101000+00:00"
    },
    {
     "id": "dc73861c17f4",
@@ -571,6 +571,16 @@
   ],
   "Latin America & Caribbean": [
    {
+    "id": "90a38e96d8a4",
+    "title": "M4.6 earthquake, 12 km SSE of Tebario, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T22:41:03.562000+00:00"
+   },
+   {
     "id": "42de90ab437c",
     "title": "M5.2 earthquake, off the coast of Ecuador",
     "country": "Ecuador",
@@ -629,16 +639,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-16T01:19:25+00:00"
-   },
-   {
-    "id": "70182b762b69",
-    "title": "La policía reprime una masiva manifestación contra Milei en Buenos Aires - NotiCel - La verdad como es - Noticias de Puerto Rico",
-    "country": "Argentina",
-    "city": "Buenos Aires",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-15T21:45:00+00:00"
    }
   ]
  }
