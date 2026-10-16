@@ -1,27 +1,99 @@
 {
- "generated": "2026-10-16T14:35:44.262872+00:00",
+ "generated": "2026-10-16T18:23:24.230025+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 77,
-  "3": 41,
-  "4": 8,
+  "2": 74,
+  "3": 40,
+  "4": 7,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
-  "Middle East & N. Africa": [
+  "Western Europe": [
    {
-    "id": "589a1cdeeb7f",
-    "title": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
-    "country": "Yemen",
+    "id": "c843bd0bfc00",
+    "title": "Sally Rooney's books no longer sold in UK over support for banned pro-Palestinian group",
+    "country": "United Kingdom",
     "city": null,
-    "category": "conflict",
+    "category": "terrorism",
     "severity": 4,
-    "confidence": "B1",
-    "time": "2026-10-15T16:50:42+00:00"
+    "confidence": "B3",
+    "time": "2026-10-16T16:26:46+00:00"
    },
+   {
+    "id": "f66bb33d1999",
+    "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-15T21:07:06+00:00"
+   },
+   {
+    "id": "6c1cf5ac22f6",
+    "title": "Sally Rooney's books cannot be sold in UK amid Palestine Action ban, publisher says",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-15T21:07:06+00:00"
+   },
+   {
+    "id": "00393396cb11",
+    "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T17:05:31+00:00"
+   },
+   {
+    "id": "97c5d9831846",
+    "title": "REPLAY: Ukraine's Zelensky holds presser in Brussels",
+    "country": "Belgium",
+    "city": "Brussels",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T15:36:16+00:00"
+   },
+   {
+    "id": "6c7300166ac0",
+    "title": "Spain punished by FIFA for Islamophobic chants during Egypt friendly",
+    "country": "Spain",
+    "city": "Barcelona",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T13:13:12+00:00"
+   },
+   {
+    "id": "46287b592c69",
+    "title": "EU’s von der Leyen pledges to ‘not lift any sanctions unless Russia stops the war’ as leaders discuss Ukraine – Europe live",
+    "country": "Belgium",
+    "city": "Brussels",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T09:23:11+00:00"
+   },
+   {
+    "id": "f54e1116fb4b",
+    "title": "Live: Trump calls renewed Ukraine attacks on Russian oil refineries 'a disgrace'",
+    "country": "Belgium",
+    "city": "Brussels",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T01:50:10+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
    {
     "id": "2550a9cf8553",
     "title": "IDF kills Hamas terrorist in Gaza Strip who participated in October 7 attacks",
@@ -73,6 +145,16 @@
     "time": "2026-10-16T12:00:00+00:00"
    },
    {
+    "id": "df950273f9b4",
+    "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T12:00:00+00:00"
+   },
+   {
     "id": "219b6ffdea3b",
     "title": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
     "country": "Iran",
@@ -105,14 +187,54 @@
     "time": "2026-10-16T03:35:31.925000+00:00"
    },
    {
-    "id": "68f670f4dff6",
-    "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-    "country": "Romania",
+    "id": "5232afa7ef8c",
+    "title": "Ukraine president targets Trump, Putin at EU summit",
+    "country": "Ukraine",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-15T14:51:30+00:00"
+    "confidence": "B3",
+    "time": "2026-10-16T17:59:48+00:00"
+   },
+   {
+    "id": "1ab9c8277670",
+    "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T16:00:30+00:00"
+   },
+   {
+    "id": "d462f2975a6d",
+    "title": "There is nothing apolitical about the scientists behind Russian weapons",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-16T15:33:50+00:00"
+   },
+   {
+    "id": "2b46ae79242c",
+    "title": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-16T15:28:10+00:00"
+   },
+   {
+    "id": "409657b784ce",
+    "title": "Zelensky's ask: 300 Patriot missiles, 70 billion euros, and Russian assets",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-16T14:59:31+00:00"
    },
    {
     "id": "a04154b329ee",
@@ -125,54 +247,14 @@
     "time": "2026-10-16T14:27:07+00:00"
    },
    {
-    "id": "376d72fcf41b",
-    "title": "'Gas deals will follow' — Zelensky warns Trump could ease more sanctions on Russia",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-16T13:15:36+00:00"
-   },
-   {
-    "id": "7a52fe19de22",
-    "title": "Russian missiles spark huge factory fires in Ukraine’s Odesa and Zaporizhzhia",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-16T12:46:42+00:00"
-   },
-   {
-    "id": "ec1491b78973",
-    "title": "First Thing: Three young children killed in Oregon elementary school shooting",
-    "country": "Russia",
+    "id": "fe82fe3eec19",
+    "title": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
+    "country": "Albania",
     "city": null,
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-16T11:07:08+00:00"
-   },
-   {
-    "id": "e176b87cbb07",
-    "title": "Emergency blackouts in Kyiv, as Klitschko announces start of heating season",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-16T10:08:07+00:00"
-   },
-   {
-    "id": "ac312ca9f500",
-    "title": "Trump calls Ukraine’s renewed strikes on Russian oil refineries ‘a disgrace’",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T10:01:58+00:00"
+    "time": "2026-10-16T14:23:00+00:00"
    }
   ],
   "East & SE Asia": [
@@ -207,6 +289,16 @@
     "time": "2026-10-16T09:00:00+00:00"
    },
    {
+    "id": "cbad4b4b511c",
+    "title": "Indonesia's forest fires spark public health crisis across Southeast Asia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-16T15:26:25+00:00"
+   },
+   {
     "id": "a25e2fe8d629",
     "title": "M4.9 earthquake, 31 km ENE of Kinablangan, Philippines",
     "country": "Philippines",
@@ -225,120 +317,162 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-16T09:00:00+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "148ac968c779",
+    "title": "US issues new Iran-related sanctions against 16 individuals, 11 entities",
+    "country": "United States",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-16T10:05:15+00:00"
    },
    {
-    "id": "541a02ea64d0",
-    "title": "Green forest fire notification in China",
-    "country": "China",
+    "id": "cd74a8559aca",
+    "title": "Amber Guyger, police officer who murdered black neighbor in his home, released from prison",
+    "country": "United States",
+    "city": "Dallas",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-16T17:45:58+00:00"
+   },
+   {
+    "id": "018952e92940",
+    "title": "M4.8 earthquake, 7 km WSW of Soconusco, Mexico",
+    "country": "Mexico",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-15T15:02:14+00:00"
+    "time": "2026-10-16T11:39:44.878000+00:00"
    },
    {
-    "id": "dfc0ee45bb33",
-    "title": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore",
-    "country": "Singapore",
-    "city": "Singapore",
+    "id": "629fc7e94f2a",
+    "title": "M4.7 earthquake, 95 km SW of Brisas Barra de Suchiate, Mexico",
+    "country": "Mexico",
+    "city": null,
     "category": "hazard",
     "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T04:42:40.890000+00:00"
+   },
+   {
+    "id": "33739c9e8ae9",
+    "title": "US winter is likely to be wetter and warmer, forecasters say, with more snow in the south",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-15T20:44:18+00:00"
+   },
+   {
+    "id": "62afb13d48bf",
+    "title": "Jalisco investiga a 17 policías tras protestas por agua en Guadalajara",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-15T14:55:16+00:00"
+    "time": "2026-10-15T19:45:00+00:00"
    }
   ],
-  "Western Europe": [
+  "South Asia": [
    {
-    "id": "f66bb33d1999",
-    "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-15T21:07:06+00:00"
+    "id": "f9b091f5b376",
+    "title": "Indian authorities heighten security, close park ahead of 'cockroach' movement rally",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-16T06:39:48+00:00"
    },
    {
-    "id": "6c1cf5ac22f6",
-    "title": "Sally Rooney's books cannot be sold in UK amid Palestine Action ban, publisher says",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-15T21:07:06+00:00"
+    "id": "6c9b7a41285f",
+    "title": "India's 'cockroach' party founder detained ahead of protest",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-16T11:44:31+00:00"
    },
    {
-    "id": "6c7300166ac0",
-    "title": "Spain punished by FIFA for Islamophobic chants during Egypt friendly",
-    "country": "Spain",
-    "city": "Barcelona",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T13:13:12+00:00"
+    "id": "943c294ea3ee",
+    "title": "Delhi Ramlila committee to burn 30 - foot cockroach effigy alongside Ravana on Dussehra amid CJP nationwide protest",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C1",
+    "time": "2026-10-16T07:30:00+00:00"
    },
    {
-    "id": "46287b592c69",
-    "title": "EU’s von der Leyen pledges to ‘not lift any sanctions unless Russia stops the war’ as leaders discuss Ukraine – Europe live",
-    "country": "Belgium",
-    "city": "Brussels",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T09:23:11+00:00"
+    "id": "abf7a182a5a4",
+    "title": "India : CJP to stage protest against electoral fraud in New Delhi today",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C2",
+    "time": "2026-10-16T07:45:00+00:00"
    },
    {
-    "id": "f54e1116fb4b",
-    "title": "Live: Trump calls renewed Ukraine attacks on Russian oil refineries 'a disgrace'",
-    "country": "Belgium",
-    "city": "Brussels",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T01:50:10+00:00"
-   },
-   {
-    "id": "ca054bc010cb",
-    "title": "Live: Ukraine is ‘dependent’ on Starlink for intercepting Russian drones, Zelensky says",
-    "country": "Belgium",
-    "city": "Brussels",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T01:50:10+00:00"
-   },
-   {
-    "id": "d51073428209",
-    "title": "UK to resupply Ukraine with more Storm Shadow missiles to strike Russia, Bloomberg reports",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T19:26:53+00:00"
-   },
-   {
-    "id": "b54b3e99061c",
-    "title": "Policing of France school protests clouds Macron final months and sparks uproar",
-    "country": "France",
-    "city": null,
+    "id": "b99be369bfb8",
+    "title": "Delhi : Security forces deployed in and around Connaught Place ahead of Lehra Do Tiranga protest",
+    "country": "India",
+    "city": "Delhi",
     "category": "unrest",
     "severity": 2,
     "confidence": "C2",
     "time": "2026-10-16T07:30:00+00:00"
+   },
+   {
+    "id": "9c0adc0829fe",
+    "title": "Indian authorities detain 'cockroach' movement founder Dipke ahead of new protest",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-16T06:39:48+00:00"
+   },
+   {
+    "id": "33c5bdd550a8",
+    "title": "CJP protest at Connaught Place today as Delhi HC refuses curbs",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C2",
+    "time": "2026-10-15T21:30:00+00:00"
+   },
+   {
+    "id": "2bb53d91d579",
+    "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-16T13:26:43+00:00"
    }
   ],
   "Latin America & Caribbean": [
    {
-    "id": "01a998ba84ae",
-    "title": "Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "terrorism",
-    "severity": 4,
+    "id": "577a21999753",
+    "title": "Argentine demonstration over education cuts ends in clashes",
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-15T15:00:23+00:00"
+    "time": "2026-10-16T16:25:39+00:00"
    },
    {
     "id": "ffc4b0d18282",
@@ -399,90 +533,18 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-15T20:15:00+00:00"
-   },
-   {
-    "id": "6856996cad40",
-    "title": "M4.5 earthquake, 22 km W of Tamarindo, Costa Rica",
-    "country": "Costa Rica",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-15T15:40:38.840000+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "148ac968c779",
-    "title": "US issues new Iran-related sanctions against 16 individuals, 11 entities",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-16T10:05:15+00:00"
-   },
-   {
-    "id": "018952e92940",
-    "title": "M4.8 earthquake, 7 km WSW of Soconusco, Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T11:39:44.878000+00:00"
-   },
-   {
-    "id": "629fc7e94f2a",
-    "title": "M4.7 earthquake, 95 km SW of Brisas Barra de Suchiate, Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T04:42:40.890000+00:00"
-   },
-   {
-    "id": "33739c9e8ae9",
-    "title": "US winter is likely to be wetter and warmer, forecasters say, with more snow in the south",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T20:44:18+00:00"
-   },
-   {
-    "id": "62afb13d48bf",
-    "title": "Jalisco investiga a 17 policías tras protestas por agua en Guadalajara",
-    "country": "Mexico",
-    "city": "Guadalajara",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-15T19:45:00+00:00"
-   },
-   {
-    "id": "c85a00c08e09",
-    "title": "Woman resentenced to life in prison for death of Kansas City reporter",
-    "country": "United States",
-    "city": "New Orleans",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-15T17:10:25+00:00"
    }
   ],
   "Sub-Saharan Africa": [
    {
-    "id": "640df12d4e9b",
-    "title": "HRW calls for greater access to Tigray region to ensure civilian protection",
-    "country": "Ethiopia",
+    "id": "fc34847791e9",
+    "title": "M4.6 earthquake, 41 km NNE of Kilimatinde, Tanzania",
+    "country": "Tanzania",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-15T15:20:40+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T16:17:25.793000+00:00"
    },
    {
     "id": "33e7f026bb25",
@@ -555,89 +617,17 @@
     "time": "2026-10-16T00:00:00+00:00"
    }
   ],
-  "South Asia": [
+  "Oceania": [
    {
-    "id": "f9b091f5b376",
-    "title": "Indian authorities heighten security, close park ahead of 'cockroach' movement rally",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-16T06:39:48+00:00"
-   },
-   {
-    "id": "943c294ea3ee",
-    "title": "Delhi Ramlila committee to burn 30 - foot cockroach effigy alongside Ravana on Dussehra amid CJP nationwide protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-16T07:30:00+00:00"
-   },
-   {
-    "id": "abf7a182a5a4",
-    "title": "India : CJP to stage protest against electoral fraud in New Delhi today",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-16T07:45:00+00:00"
-   },
-   {
-    "id": "b99be369bfb8",
-    "title": "Delhi : Security forces deployed in and around Connaught Place ahead of Lehra Do Tiranga protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-16T07:30:00+00:00"
-   },
-   {
-    "id": "9c0adc0829fe",
-    "title": "Indian authorities detain 'cockroach' movement founder Dipke ahead of new protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-16T06:39:48+00:00"
-   },
-   {
-    "id": "33c5bdd550a8",
-    "title": "CJP protest at Connaught Place today as Delhi HC refuses curbs",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-15T21:30:00+00:00"
-   },
-   {
-    "id": "2bb53d91d579",
-    "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-16T13:26:43+00:00"
-   },
-   {
-    "id": "68a0954ae273",
-    "title": "Flash floods destroy villages in central Nepal",
-    "country": "Nepal",
+    "id": "12537a531983",
+    "title": "M4.6 earthquake, 153 km W of Neiafu, Tonga",
+    "country": "Tonga",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-16T10:12:48+00:00"
-   }
-  ],
-  "Oceania": [
+    "confidence": "A1",
+    "time": "2026-10-16T15:06:34.084000+00:00"
+   },
    {
     "id": "a3683554d976",
     "title": "M5.0 earthquake, Auckland Islands, New Zealand region",
