@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-17T03:18:52.227457+00:00",
+ "generated": "2026-10-17T07:58:44.644619+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 76,
-  "3": 32,
-  "4": 7,
+  "2": 78,
+  "3": 37,
+  "4": 4,
   "5": 0
  },
  "watch_hits": [
@@ -35,34 +35,14 @@
     "time": "2026-10-16T14:27:07+00:00"
    },
    {
-    "id": "9c91a59f6595",
-    "title": "M6.9 earthquake, 76 km NE of Ozernovskiy, Russia",
-    "country": "Russia",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-16T03:35:31.925000+00:00"
-   },
-   {
     "id": "a0a5cf00c614",
     "title": "Trump waives latest Russia sanctions amid growing Ukraine-US tensions",
     "country": "Russia",
     "city": "Moscow",
     "category": "political",
     "severity": 3,
-    "confidence": "B2",
+    "confidence": "B1",
     "time": "2026-10-17T02:31:15+00:00"
-   },
-   {
-    "id": "01d2077e5acc",
-    "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T23:54:35+00:00"
    },
    {
     "id": "5691d564face",
@@ -71,28 +51,48 @@
     "city": "Moscow",
     "category": "political",
     "severity": 3,
-    "confidence": "B3",
+    "confidence": "B2",
     "time": "2026-10-16T20:25:46+00:00"
    },
    {
-    "id": "5232afa7ef8c",
-    "title": "Ukraine president targets Trump, Putin at EU summit",
+    "id": "f36e396a2d95",
+    "title": "Russian attacks kill 7, injure dozens across Ukraine amid continued strikes on energy infrastructure",
     "country": "Ukraine",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T17:59:48+00:00"
+    "confidence": "C4",
+    "time": "2026-10-17T07:28:42+00:00"
    },
    {
-    "id": "1ab9c8277670",
-    "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+    "id": "47016910494e",
+    "title": "Exclusive: Watchdog lists ships carrying Russian gas, blasts Trump sanctions waiver",
     "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-17T06:13:18+00:00"
+   },
+   {
+    "id": "24387f6ab88b",
+    "title": "General Staff: Russia has lost 1,562,970 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
     "city": null,
     "category": "conflict",
     "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-17T06:10:00+00:00"
+   },
+   {
+    "id": "2a43882303a5",
+    "title": "Trump puts on hold new Russia sanctions he signed into law",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-16T16:00:30+00:00"
+    "time": "2026-10-17T04:45:03+00:00"
    }
   ],
   "Western Europe": [
@@ -167,14 +167,14 @@
     "time": "2026-10-16T09:23:11+00:00"
    },
    {
-    "id": "b54b3e99061c",
-    "title": "Policing of France school protests clouds Macron final months and sparks uproar",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
+    "id": "4cc4ee02d9b0",
+    "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "crime",
     "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-16T07:30:00+00:00"
+    "confidence": "B3",
+    "time": "2026-10-17T06:45:23+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -189,14 +189,24 @@
     "time": "2026-10-16T08:00:00+00:00"
    },
    {
-    "id": "b62a8f098e2b",
-    "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
+    "id": "9e335a138101",
+    "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
     "country": "Yemen",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-16T04:00:50+00:00"
+    "time": "2026-10-17T06:41:34+00:00"
+   },
+   {
+    "id": "53d5be00344c",
+    "title": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
+    "country": "Egypt",
+    "city": "Cairo",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T06:00:32+00:00"
    },
    {
     "id": "014742d46c81",
@@ -247,58 +257,88 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-16T21:30:26.101000+00:00"
-   },
-   {
-    "id": "dc73861c17f4",
-    "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
-    "country": "Israel",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-16T21:08:44+00:00"
    }
   ],
-  "Oceania": [
+  "South Asia": [
    {
-    "id": "7a0ac1986d7e",
-    "title": "Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3815 .",
-    "country": "Cook Islands",
+    "id": "0bbd65d0a41b",
+    "title": "M5.7 earthquake, 48 km WNW of Khuzdar, Pakistan",
+    "country": "Pakistan",
     "city": null,
     "category": "hazard",
-    "severity": 4,
+    "severity": 3,
     "confidence": "A1",
-    "time": "2026-10-16T07:39:18+00:00"
+    "time": "2026-10-17T05:06:57.657000+00:00"
    },
    {
-    "id": "12537a531983",
-    "title": "M4.6 earthquake, 153 km W of Neiafu, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
+    "id": "6c9b7a41285f",
+    "title": "India's 'cockroach' party founder detained ahead of protest",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T15:06:34.084000+00:00"
+    "confidence": "B1",
+    "time": "2026-10-16T11:44:31+00:00"
    },
    {
-    "id": "a3683554d976",
-    "title": "M5.0 earthquake, Auckland Islands, New Zealand region",
-    "country": "New Zealand",
+    "id": "9ed43f1782b0",
+    "title": "Despite India strong missive , US lawmakers push narrative on protests against EC ask Rubio to take up",
+    "country": "India",
     "city": null,
-    "category": "hazard",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T14:09:54.288000+00:00"
+    "confidence": "C1",
+    "time": "2026-10-17T05:30:00+00:00"
    },
    {
-    "id": "77c7262c94f2",
-    "title": "Green notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
-    "country": "Cook Islands",
-    "city": null,
-    "category": "hazard",
+    "id": "6b3b0aa780c5",
+    "title": "Address Telangana concerns first : BJYM Ganesh Kunde slams Revanth Reddy for joining Delhi protests",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T07:39:18+00:00"
+    "confidence": "C2",
+    "time": "2026-10-17T05:45:00+00:00"
+   },
+   {
+    "id": "9ebce63c1854",
+    "title": "Rahul Gandhi brought aspirations , indignation of younger generation onto streets : Congres Amit Chavda amid Delhi protests",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C2",
+    "time": "2026-10-17T05:00:00+00:00"
+   },
+   {
+    "id": "20ca5d018025",
+    "title": "Women groups hold protest march to Delhi Police headquarters over alleged sexual violence during SIR protests",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-17T07:30:00+00:00"
+   },
+   {
+    "id": "e857aededdd8",
+    "title": "West Bengal Civil Liberties and Human Rights Groups Condemn Delhi Police Crackdown on Peaceful Protesters and Journalists , Demand Accountability",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-17T07:15:00+00:00"
+   },
+   {
+    "id": "910e357f6eba",
+    "title": "US Democrats ask Rubio to raise India protest crackdown concerns",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-17T05:45:00+00:00"
    }
   ],
   "North America": [
@@ -361,16 +401,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-16T11:39:44.878000+00:00"
-   },
-   {
-    "id": "629fc7e94f2a",
-    "title": "M4.7 earthquake, 95 km SW of Brisas Barra de Suchiate, Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T04:42:40.890000+00:00"
    }
   ],
   "East & SE Asia": [
@@ -393,6 +423,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-16T09:00:00+00:00"
+   },
+   {
+    "id": "c61800f2110f",
+    "title": "M4.5 earthquake, 59 km NNW of Ruteng, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-17T07:20:48.242000+00:00"
    },
    {
     "id": "cbad4b4b511c",
@@ -425,89 +465,17 @@
     "time": "2026-10-16T09:00:00+00:00"
    }
   ],
-  "South Asia": [
-   {
-    "id": "f9b091f5b376",
-    "title": "Indian authorities heighten security, close park ahead of 'cockroach' movement rally",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-16T06:39:48+00:00"
-   },
-   {
-    "id": "6c9b7a41285f",
-    "title": "India's 'cockroach' party founder detained ahead of protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-16T11:44:31+00:00"
-   },
-   {
-    "id": "943c294ea3ee",
-    "title": "Delhi Ramlila committee to burn 30 - foot cockroach effigy alongside Ravana on Dussehra amid CJP nationwide protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-16T07:30:00+00:00"
-   },
-   {
-    "id": "abf7a182a5a4",
-    "title": "India : CJP to stage protest against electoral fraud in New Delhi today",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-16T07:45:00+00:00"
-   },
-   {
-    "id": "b99be369bfb8",
-    "title": "Delhi : Security forces deployed in and around Connaught Place ahead of Lehra Do Tiranga protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-16T07:30:00+00:00"
-   },
-   {
-    "id": "9c0adc0829fe",
-    "title": "Indian authorities detain 'cockroach' movement founder Dipke ahead of new protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-16T06:39:48+00:00"
-   },
-   {
-    "id": "c608800d3dde",
-    "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T00:41:58+00:00"
-   },
-   {
-    "id": "6c1387f3e046",
-    "title": "Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-16T19:21:33+00:00"
-   }
-  ],
   "Sub-Saharan Africa": [
+   {
+    "id": "fc4be8181a4f",
+    "title": "Kenya confirms third Ebola case as health officials race to contain outbreak",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C2",
+    "time": "2026-10-16T19:01:28+00:00"
+   },
    {
     "id": "8045cbcfd75b",
     "title": "Kenya records third Ebola case, linked to first patient who died",
@@ -537,16 +505,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-16T19:04:10+00:00"
-   },
-   {
-    "id": "fc4be8181a4f",
-    "title": "Kenya confirms third Ebola case as health officials race to contain outbreak",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-16T19:01:28+00:00"
    },
    {
     "id": "fc34847791e9",
@@ -587,6 +545,48 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-16T09:00:00+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "970983f0ef8b",
+    "title": "M4.5 earthquake, 80 km NW of Sola, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-17T07:40:02.596000+00:00"
+   },
+   {
+    "id": "b7f4e16fa480",
+    "title": "Three Mexicans jailed for 158 years each for killing Australian, US surfers",
+    "country": "Australia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T05:01:14+00:00"
+   },
+   {
+    "id": "12537a531983",
+    "title": "M4.6 earthquake, 153 km W of Neiafu, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T15:06:34.084000+00:00"
+   },
+   {
+    "id": "a3683554d976",
+    "title": "M5.0 earthquake, Auckland Islands, New Zealand region",
+    "country": "New Zealand",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T14:09:54.288000+00:00"
    }
   ],
   "Latin America & Caribbean": [
