@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-17T20:20:44.282393+00:00",
+ "generated": "2026-10-17T22:31:37.129103+00:00",
  "sample": false,
- "count": 514,
+ "count": 512,
  "events": [
   {
    "title": "WHO raises alarm over undetected Ebola cases in DR Congo",
@@ -278,6 +278,34 @@
    "confidence": "A1",
    "corroboration": 1,
    "id": "7a0ac1986d7e",
+   "flag": "🇨🇰",
+   "region": "Oceania",
+   "baseline": 1.81,
+   "watch": []
+  },
+  {
+   "title": "Orange notification for tropical cyclone WATI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4982 .",
+   "summary": "From 16/10/2026 to 17/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 130 km/h) WATI-26 was active in SEPacific. The cyclone affects these countries: Cook Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 4982 .",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
+   "time": "2026-10-16T07:39:18+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Cook Islands",
+   "city": null,
+   "lat": -14.8,
+   "lon": -163.2,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-17T22:31:37.129103+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "b8200b9f2388",
    "flag": "🇨🇰",
    "region": "Oceania",
    "baseline": 1.81,
@@ -742,34 +770,6 @@
    "watch": []
   },
   {
-   "title": "M4.5 earthquake, 21 km WNW of Río Grande, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1w6",
-   "time": "2026-10-12T21:43:30.326000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.8015,
-   "lon": -81.5113,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1w6",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-13T21:25:44.835869+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "cdc22b49e6f6",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
    "title": "Pakistan detains hundreds of politicians from Imran Khan’s PTI party",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
@@ -1001,6 +1001,34 @@
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
    "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "Zelensky warns Russia may expand missile threats from Belarus against western Ukraine",
+   "summary": "",
+   "url": "https://kyivindependent.com/zelensky-warns-russia-may-expand-missile-threats-from-belarus-against-western-ukraine/",
+   "time": "2026-10-17T20:26:53+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/zelensky-warns-russia-may-expand-missile-threats-from-belarus-against-western-ukraine/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-17T22:31:37.129103+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "85ac092ed9b6",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -5311,90 +5339,6 @@
    "watch": []
   },
   {
-   "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-10T22:13:08+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Myanmar",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T02:12:31.552155+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "2a62f8dc28cf",
-   "flag": "🇲🇲",
-   "region": "East & SE Asia",
-   "baseline": 4.79,
-   "watch": []
-  },
-  {
-   "title": "'Will only lead to more slaughter' — bipartisan backlash erupts in US over Trump-Russia diesel deal",
-   "summary": "",
-   "url": "https://kyivindependent.com/will-only-lead-to-more-slaughter-bipartisan-backlash-erupts-in-us-over-trump-russia-diesel-deal/",
-   "time": "2026-10-10T20:41:26+00:00",
-   "tier": "C",
-   "category": "political",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/will-only-lead-to-more-slaughter-bipartisan-backlash-erupts-in-us-over-trump-russia-diesel-deal/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-10T23:34:04.686368+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "0b0b36874b8c",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "'Will only lead to more slaughter' — Bipartisan backlash erupts in US over Trump-Russia diesel deal",
-   "summary": "",
-   "url": "https://kyivindependent.com/will-only-lead-to-more-slaughter-bipartisan-backlash-erupts-in-us-over-trump-russia-diesel-deal/",
-   "time": "2026-10-10T20:41:26+00:00",
-   "tier": "C",
-   "category": "political",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/will-only-lead-to-more-slaughter-bipartisan-backlash-erupts-in-us-over-trump-russia-diesel-deal/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-12T09:39:09.363164+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "b62d33d82ae3",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "New York governor declares state of emergency after spike in measles cases",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/oct/06/measles-cases-new-york",
@@ -5420,6 +5364,202 @@
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Romanian F-16s down two jet-powered drones after airspace incursion",
+   "summary": "",
+   "url": "https://kyivindependent.com/romanian-f-16s-down-two-jet-powered-drones-after-airspace-incursion/",
+   "time": "2026-10-17T22:16:37+00:00",
+   "tier": "C",
+   "category": "transport",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/romanian-f-16s-down-two-jet-powered-drones-after-airspace-incursion/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-17T22:31:37.129103+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "be88820a6e6c",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Student protests widen into greater social unrest in France",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+   "time": "2026-10-17T21:18:52+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-17T22:31:37.129103+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "29f0ee238938",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+   "time": "2026-10-17T21:02:26+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Belgium",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-17T22:31:37.129103+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a37f35b87e6a",
+   "flag": "🇧🇪",
+   "region": "Western Europe",
+   "baseline": 1.27,
+   "watch": []
+  },
+  {
+   "title": "Anti-government protesters battle with police in Albania",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-17T20:53:00+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": "Tirana",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-17T22:31:37.129103+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "49a7e3255546",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-17T20:52:17+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-17T22:31:37.129103+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2822d477e936",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Protesters allege police brutality as violent clashes rage on in Albania",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
+   "time": "2026-10-17T20:40:38+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-17T22:31:37.129103+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "6809e3aac6c3",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
+   "time": "2026-10-17T20:20:25+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-17T22:31:37.129103+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "25a97113f58b",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -5565,6 +5705,34 @@
    "flag": "🇮🇹",
    "region": "Western Europe",
    "baseline": 1.48,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Botswana",
+   "summary": "On 08/10/2026, a forest fire started in Botswana, until 14/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032816",
+   "time": "2026-10-17T19:08:58+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Botswana",
+   "city": null,
+   "lat": -20.60208702200128,
+   "lon": 26.810761557651524,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032816",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-17T22:31:37.129103+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "d5782c437ff6",
+   "flag": "🇧🇼",
+   "region": "Sub-Saharan Africa",
+   "baseline": 1.9,
    "watch": []
   },
   {
@@ -10339,148 +10507,31 @@
    "watch": []
   },
   {
-   "title": "Anti - CEC protest : Imran Khan moves Bombay HC against FRRO notice directing him to leave India by October 28",
-   "summary": "",
-   "url": "https://www.newindianexpress.com/states/maharashtra/2026/Oct/15/anti-cec-protest-imran-khan-moves-bombay-hc-against-frro-notice-directing-him-to-leave-india-by-october-28",
-   "time": "2026-10-15T21:45:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "India",
+   "title": "Green forest fire notification in Brazil",
+   "summary": "On 09/10/2026, a forest fire started in Brazil, until 17/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032840",
+   "time": "2026-10-15T23:08:58+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Brazil",
    "city": null,
-   "lat": null,
-   "lon": null,
+   "lat": -3.5150116432435907,
+   "lon": -54.24259763756689,
    "severity": 2,
    "sources": [
     {
-     "name": "newindianexpress.com (via GDELT)",
-     "url": "https://www.newindianexpress.com/states/maharashtra/2026/Oct/15/anti-cec-protest-imran-khan-moves-bombay-hc-against-frro-notice-directing-him-to-leave-india-by-october-28",
-     "tier": "C"
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032840",
+     "tier": "A"
     }
    ],
-   "first_seen": "2026-10-15T22:24:34.061024+00:00",
-   "confidence": "C4",
+   "first_seen": "2026-10-17T22:31:37.129103+00:00",
+   "confidence": "A1",
    "corroboration": 1,
-   "id": "214fdd5e13e2",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "La policía reprime una masiva manifestación contra Milei en Buenos Aires - NotiCel - La verdad como es - Noticias de Puerto Rico",
-   "summary": "",
-   "url": "https://noticel.com/noticias/20261015/la-policia-reprime-una-masiva-manifestacion-contra-milei-en-buenos-aires/",
-   "time": "2026-10-15T21:45:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Argentina",
-   "city": "Buenos Aires",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "noticel.com (via GDELT)",
-     "url": "https://noticel.com/noticias/20261015/la-policia-reprime-una-masiva-manifestacion-contra-milei-en-buenos-aires/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-15T22:24:34.061024+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "70182b762b69",
-   "flag": "🇦🇷",
+   "id": "b81a60a934db",
+   "flag": "🇧🇷",
    "region": "Latin America & Caribbean",
-   "baseline": 2.14,
-   "watch": []
-  },
-  {
-   "title": "Albania: Violent protests rock Tirana for third straight day",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day/",
-   "time": "2026-10-15T21:35:04+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Albania",
-   "city": "Tirana",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-15T22:24:34.061024+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "53c16e9d6a3d",
-   "flag": "🇦🇱",
-   "region": "Eastern Europe",
-   "baseline": 2.14,
-   "watch": []
-  },
-  {
-   "title": "MS NOW Implores Americans to Protest , Like France , Over Economy",
-   "summary": "",
-   "url": "https://newsbusters.org/blogs/nb/nicholas-spinnato/2026/10/15/ms-nows-ayman-mohyeldin-implores-americans-protest-france",
-   "time": "2026-10-15T21:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "newsbusters.org (via GDELT)",
-     "url": "https://newsbusters.org/blogs/nb/nicholas-spinnato/2026/10/15/ms-nows-ayman-mohyeldin-implores-americans-protest-france",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-15T22:24:34.061024+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "5b43f538a435",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "CJP protest at Connaught Place today as Delhi HC refuses curbs",
-   "summary": "",
-   "url": "https://www.tribuneindia.com/news/india/cjp-protest-at-connaught-place-today-as-delhi-hc-refuses-curbs/",
-   "time": "2026-10-15T21:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "India",
-   "city": "Delhi",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "tribuneindia.com (via GDELT)",
-     "url": "https://www.tribuneindia.com/news/india/cjp-protest-at-connaught-place-today-as-delhi-hc-refuses-curbs/",
-     "tier": "C"
-    },
-    {
-     "name": "newindianexpress.com (via GDELT)",
-     "url": "https://www.newindianexpress.com/india/2026/Oct/15/delhi-hc-refuses-to-restrain-cjps-protest-at-connaught-place-on-friday-records-police-assurance",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-15T22:24:34.061024+00:00",
-   "confidence": "C2",
-   "corroboration": 2,
-   "id": "33c5bdd550a8",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
+   "baseline": 3.13,
    "watch": []
   },
   {
@@ -10509,90 +10560,6 @@
    "flag": "🇹🇷",
    "region": "Middle East & N. Africa",
    "baseline": 2.78,
-   "watch": []
-  },
-  {
-   "title": "Anti - CEC protest : Why is PM Modi shutting down Delhi to protect one man ? asks CJP Dipke with Central Park shut ahead of Tiranga march",
-   "summary": "",
-   "url": "https://www.thehindu.com/news/national/anti-cec-protest-why-is-pm-modi-shutting-down-delhi-to-protect-one-man-asks-cjps-dipke-with-central-park-shut-ahead-of-tiranga-march/article71589731.ece",
-   "time": "2026-10-15T21:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "India",
-   "city": "Delhi",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "thehindu.com (via GDELT)",
-     "url": "https://www.thehindu.com/news/national/anti-cec-protest-why-is-pm-modi-shutting-down-delhi-to-protect-one-man-asks-cjps-dipke-with-central-park-shut-ahead-of-tiranga-march/article71589731.ece",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-15T22:24:34.061024+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "8bf90b925d12",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "Imran Khan to challenge FRRO directive asking him to leave India by Oct 28 ; veteran Raza Murad slams him for taking part in protest",
-   "summary": "",
-   "url": "https://www.cinaradio.com/2026/10/15/imran-khan-to-challenge-frros-directive-asking-him-to-leave-india-by-oct-28-veteran-raza-murad-slams-him-for-taking-part-in-protest/",
-   "time": "2026-10-15T20:45:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "cinaradio.com (via GDELT)",
-     "url": "https://www.cinaradio.com/2026/10/15/imran-khan-to-challenge-frros-directive-asking-him-to-leave-india-by-oct-28-veteran-raza-murad-slams-him-for-taking-part-in-protest/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-15T22:24:34.061024+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "a6363150916e",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "US winter is likely to be wetter and warmer, forecasters say, with more snow in the south",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/15/winter-weather-snow-rain",
-   "time": "2026-10-15T20:44:18+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/15/winter-weather-snow-rain",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-15T22:24:34.061024+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "33739c9e8ae9",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
    "watch": []
   },
   {
@@ -13196,34 +13163,6 @@
    "flag": "🇲🇽",
    "region": "North America",
    "baseline": 3.32,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 5 km WSW of Calidonia, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1w7",
-   "time": "2026-10-12T21:48:54.521000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.9416,
-   "lon": -81.4309,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1w7",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-13T01:33:05.805082+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "d513d2878745",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
    "watch": []
   },
   {

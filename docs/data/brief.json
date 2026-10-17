@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-17T20:20:44.282393+00:00",
+ "generated": "2026-10-17T22:31:37.129103+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 92,
-  "3": 35,
+  "2": 96,
+  "3": 34,
   "4": 1,
   "5": 0
  },
@@ -31,6 +31,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-17T11:00:00+00:00"
+   },
+   {
+    "id": "d5782c437ff6",
+    "title": "Green forest fire notification in Botswana",
+    "country": "Botswana",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-17T19:08:58+00:00"
    },
    {
     "id": "14abf1c38efe",
@@ -81,16 +91,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-17T16:48:46+00:00"
-   },
-   {
-    "id": "adaae361bb53",
-    "title": "Frontline workers in DRC receive Ervebo vaccine amid growing Ebola outbreak",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-17T12:37:06+00:00"
    }
   ],
   "Eastern Europe": [
@@ -135,14 +135,14 @@
     "time": "2026-10-17T09:10:00+00:00"
    },
    {
-    "id": "5691d564face",
-    "title": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "political",
+    "id": "85ac092ed9b6",
+    "title": "Zelensky warns Russia may expand missile threats from Belarus against western Ukraine",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-16T20:25:46+00:00"
+    "confidence": "C4",
+    "time": "2026-10-17T20:26:53+00:00"
    },
    {
     "id": "a30f9f68b9e2",
@@ -577,16 +577,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-17T05:01:14+00:00"
-   },
-   {
-    "id": "e6c3eaa43393",
-    "title": "M4.5 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T21:26:37.613000+00:00"
    }
   ]
  }
