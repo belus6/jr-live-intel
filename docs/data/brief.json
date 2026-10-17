@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-17T15:35:37.549091+00:00",
+ "generated": "2026-10-17T17:56:24.437706+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
   "2": 73,
-  "3": 33,
-  "4": 3,
+  "3": 32,
+  "4": 2,
   "5": 0
  },
  "watch_hits": [
@@ -55,6 +55,16 @@
     "time": "2026-10-16T18:57:40+00:00"
    },
    {
+    "id": "2e221ac34bad",
+    "title": "Kenya confirms four more Ebola cases, bringing total to seven",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T16:48:46+00:00"
+   },
+   {
     "id": "adaae361bb53",
     "title": "Frontline workers in DRC receive Ervebo vaccine amid growing Ebola outbreak",
     "country": "DRC",
@@ -83,16 +93,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-17T10:56:48+00:00"
-   },
-   {
-    "id": "eb963c928f9b",
-    "title": "Green forest fire notification in South Africa",
-    "country": "South Africa",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T19:04:13+00:00"
    }
   ],
   "Eastern Europe": [
@@ -147,116 +147,34 @@
     "time": "2026-10-16T20:25:46+00:00"
    },
    {
-    "id": "ddeeda2add2d",
-    "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+    "id": "ab3c01c98677",
+    "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
     "country": "Russia",
     "city": null,
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-17T14:25:10+00:00"
+    "time": "2026-10-17T17:24:07+00:00"
    },
    {
-    "id": "29b021a12f28",
-    "title": "'Putin feels joy' — Zelensky calls Trump's waiving of key Russia sanctions 'wrong'",
+    "id": "21e3c618bec3",
+    "title": "Russian troops executed Ukrainian POWs in Zaporizhzhia Oblast, military says",
     "country": "Russia",
     "city": null,
-    "category": "political",
+    "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-17T12:14:26+00:00"
+    "time": "2026-10-17T16:31:46+00:00"
    },
    {
-    "id": "2977fd50c9b0",
-    "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T11:34:00+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "c843bd0bfc00",
-    "title": "Sally Rooney's books no longer sold in UK over support for banned pro-Palestinian group",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-16T16:26:46+00:00"
-   },
-   {
-    "id": "01f3b640648f",
-    "title": "🔴 Live: Tens of thousands join protests across France, clashes reported in several cities",
-    "country": "France",
+    "id": "2811c9f8d7ca",
+    "title": "Ukraine war: \"Mothers of Kherson\" opera opens in Poland",
+    "country": "Poland",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-17T12:30:33+00:00"
-   },
-   {
-    "id": "f8cfd3ca42da",
-    "title": "Russia winter of fear from missiles , drones now hungry wolves stalk homes and people - London Business News",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-17T09:30:00+00:00"
-   },
-   {
-    "id": "00393396cb11",
-    "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T17:05:31+00:00"
-   },
-   {
-    "id": "1ae1c220b15d",
-    "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T17:05:31+00:00"
-   },
-   {
-    "id": "b00d1d6a2038",
-    "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
-    "country": "Spain",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T16:35:32+00:00"
-   },
-   {
-    "id": "97c5d9831846",
-    "title": "REPLAY: Ukraine's Zelensky holds presser in Brussels",
-    "country": "Belgium",
-    "city": "Brussels",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T15:36:16+00:00"
-   },
-   {
-    "id": "0a2e9c49d0ba",
-    "title": "Protesters across France rally over rising living costs , joining student grievances",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-17T10:00:00+00:00"
+    "time": "2026-10-17T15:57:33+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -269,6 +187,16 @@
     "severity": 3,
     "confidence": "C1",
     "time": "2026-10-17T09:30:00+00:00"
+   },
+   {
+    "id": "f8af1785d63a",
+    "title": "Masked settlers attack European diplomats in occupied West Bank",
+    "country": "Palestine",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T17:02:14+00:00"
    },
    {
     "id": "6e0e12f79d6d",
@@ -329,16 +257,88 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-16T21:56:07+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "01f3b640648f",
+    "title": "🔴 Live: Tens of thousands join protests across France, clashes reported in several cities",
+    "country": "France",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T12:30:33+00:00"
    },
    {
-    "id": "598899825dfb",
-    "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
-    "country": "Tunisia",
+    "id": "f8cfd3ca42da",
+    "title": "Russia winter of fear from missiles , drones now hungry wolves stalk homes and people - London Business News",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-17T09:30:00+00:00"
+   },
+   {
+    "id": "0a2e9c49d0ba",
+    "title": "Protesters across France rally over rising living costs , joining student grievances",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C1",
+    "time": "2026-10-17T10:00:00+00:00"
+   },
+   {
+    "id": "ca9e9550df6c",
+    "title": "Students, trade unions and Yellow Vests set to protest across France",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-17T09:11:24+00:00"
+   },
+   {
+    "id": "89274a86e815",
+    "title": "France: Police and protesters clash in nationwide protests",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-17T08:02:00+00:00"
+   },
+   {
+    "id": "c39aa8525d02",
+    "title": "Al Jazeera reports from Paris as protests turns violent",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T16:56:40+00:00"
+   },
+   {
+    "id": "6f90ba3dd31e",
+    "title": "Buildings and cars set on fire as cost of living protests rock France",
+    "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-17T14:57:24+00:00"
+    "time": "2026-10-17T16:00:40+00:00"
+   },
+   {
+    "id": "5a37379c0053",
+    "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T16:00:34+00:00"
    }
   ],
   "North America": [
@@ -411,16 +411,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-17T01:03:00.020000+00:00"
-   },
-   {
-    "id": "cd74a8559aca",
-    "title": "Amber Guyger, police officer who murdered black neighbor in his home, released from prison",
-    "country": "United States",
-    "city": "Dallas",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-16T17:45:58+00:00"
    }
   ],
   "South Asia": [
@@ -475,6 +465,16 @@
     "time": "2026-10-17T05:00:00+00:00"
    },
    {
+    "id": "c02137a731bf",
+    "title": "India: Police crack down on New Delhi protests",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T16:29:00+00:00"
+   },
+   {
     "id": "dd3a4fb9f5d6",
     "title": "Women protest in New Delhi against police brutality",
     "country": "India",
@@ -493,16 +493,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-17T10:00:00+00:00"
-   },
-   {
-    "id": "8801a5416d24",
-    "title": "Delhi Police files multiple FIRs over CJP Lehra Do Tiranga protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-17T09:15:00+00:00"
    }
   ],
   "East & SE Asia": [
@@ -567,16 +557,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-16T19:34:10.742000+00:00"
-   },
-   {
-    "id": "577a21999753",
-    "title": "Argentine demonstration over education cuts ends in clashes",
-    "country": "Argentina",
-    "city": "Buenos Aires",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-16T16:25:39+00:00"
    }
   ],
   "Oceania": [
