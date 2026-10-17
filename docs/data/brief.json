@@ -1,17 +1,15 @@
 {
- "generated": "2026-10-17T17:56:24.437706+00:00",
+ "generated": "2026-10-17T20:20:44.282393+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 73,
-  "3": 32,
-  "4": 2,
+  "2": 92,
+  "3": 35,
+  "4": 1,
   "5": 0
  },
- "watch_hits": [
-  "8045cbcfd75b"
- ],
+ "watch_hits": [],
  "regions": {
   "Sub-Saharan Africa": [
    {
@@ -35,24 +33,44 @@
     "time": "2026-10-17T11:00:00+00:00"
    },
    {
-    "id": "fc4be8181a4f",
-    "title": "Kenya confirms third Ebola case as health officials race to contain outbreak",
-    "country": "Kenya",
+    "id": "14abf1c38efe",
+    "title": "Green forest fire notification in Mali",
+    "country": "Mali",
     "city": null,
-    "category": "health",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-16T19:01:28+00:00"
+    "confidence": "A1",
+    "time": "2026-10-17T19:03:27+00:00"
    },
    {
-    "id": "8045cbcfd75b",
-    "title": "Kenya records third Ebola case, linked to first patient who died",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "health",
+    "id": "9fa30e817ded",
+    "title": "Green forest fire notification in Madagascar",
+    "country": "Madagascar",
+    "city": null,
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-16T18:57:40+00:00"
+    "confidence": "A1",
+    "time": "2026-10-17T19:02:59+00:00"
+   },
+   {
+    "id": "dfed7f4effcd",
+    "title": "Green forest fire notification in Zimbabwe",
+    "country": "Zimbabwe",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-17T19:02:29+00:00"
+   },
+   {
+    "id": "eacae29d9fe4",
+    "title": "Another priest is kidnapped amid Nigeria security crisis",
+    "country": "Nigeria",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-17T19:00:00+00:00"
    },
    {
     "id": "2e221ac34bad",
@@ -73,38 +91,18 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-17T12:37:06+00:00"
-   },
-   {
-    "id": "d452cd93a17f",
-    "title": "Uganda launches Ebola vaccine trial",
-    "country": "Uganda",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T11:00:09+00:00"
-   },
-   {
-    "id": "e976e5535726",
-    "title": "Kenya reports third Ebola case, contact tracing continues",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T10:56:48+00:00"
    }
   ],
   "Eastern Europe": [
    {
-    "id": "b7e1bbf3fca0",
-    "title": "Ukraine war latest: Drone attack sparks fire at industrial facility in Russia's Surgut district",
+    "id": "ddeeda2add2d",
+    "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
     "country": "Russia",
     "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-16T18:28:32+00:00"
+    "category": "political",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-10-17T14:25:10+00:00"
    },
    {
     "id": "c118fd3e3ad1",
@@ -147,6 +145,16 @@
     "time": "2026-10-16T20:25:46+00:00"
    },
    {
+    "id": "a30f9f68b9e2",
+    "title": "Albanian police fire rubber bullets as protests against Rama escalate",
+    "country": "Albania",
+    "city": "Tirana",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T19:26:13+00:00"
+   },
+   {
     "id": "ab3c01c98677",
     "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
     "country": "Russia",
@@ -165,16 +173,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-17T16:31:46+00:00"
-   },
-   {
-    "id": "2811c9f8d7ca",
-    "title": "Ukraine war: \"Mothers of Kherson\" opera opens in Poland",
-    "country": "Poland",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T15:57:33+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -187,6 +185,16 @@
     "severity": 3,
     "confidence": "C1",
     "time": "2026-10-17T09:30:00+00:00"
+   },
+   {
+    "id": "0d1ec792c1a4",
+    "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T18:26:59+00:00"
    },
    {
     "id": "f8af1785d63a",
@@ -247,19 +255,29 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-17T01:37:07+00:00"
-   },
-   {
-    "id": "b34f74ba5ea9",
-    "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T21:56:07+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "a3bd131a74f9",
+    "title": "Police clashes in Paris , France during protests against rising living costs",
+    "country": "France",
+    "city": "Paris",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C1",
+    "time": "2026-10-17T18:00:00+00:00"
+   },
+   {
+    "id": "958414454d99",
+    "title": "Clashes erupt on French streets , yellow vest return",
+    "country": "France",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-17T18:00:00+00:00"
+   },
    {
     "id": "01f3b640648f",
     "title": "🔴 Live: Tens of thousands join protests across France, clashes reported in several cities",
@@ -279,6 +297,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-17T09:30:00+00:00"
+   },
+   {
+    "id": "1b0cc78b9bd9",
+    "title": "Scuffles and fires break out as protesters rally across France, joining students",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-17T15:57:40+00:00"
    },
    {
     "id": "0a2e9c49d0ba",
@@ -309,36 +337,6 @@
     "severity": 2,
     "confidence": "B1",
     "time": "2026-10-17T08:02:00+00:00"
-   },
-   {
-    "id": "c39aa8525d02",
-    "title": "Al Jazeera reports from Paris as protests turns violent",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T16:56:40+00:00"
-   },
-   {
-    "id": "6f90ba3dd31e",
-    "title": "Buildings and cars set on fire as cost of living protests rock France",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T16:00:40+00:00"
-   },
-   {
-    "id": "5a37379c0053",
-    "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T16:00:34+00:00"
    }
   ],
   "North America": [
@@ -435,6 +433,16 @@
     "time": "2026-10-17T05:30:00+00:00"
    },
    {
+    "id": "c02137a731bf",
+    "title": "India: Police crack down on New Delhi protests",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-17T16:29:00+00:00"
+   },
+   {
     "id": "8cb116817b16",
     "title": "Traders suffer Rs 3 , 000 crore loss over Delhi protests : Industry body",
     "country": "India",
@@ -465,34 +473,56 @@
     "time": "2026-10-17T05:00:00+00:00"
    },
    {
-    "id": "c02137a731bf",
-    "title": "India: Police crack down on New Delhi protests",
+    "id": "bcf043d30a4a",
+    "title": "Mumbai CEC protest : Actor Imran Khan gets FRRO show - cause notice over OCI status ; moves Bombay HC against Mumbai Police order",
     "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T16:29:00+00:00"
-   },
-   {
-    "id": "dd3a4fb9f5d6",
-    "title": "Women protest in New Delhi against police brutality",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T12:07:15+00:00"
-   },
-   {
-    "id": "2f74c741cc16",
-    "title": "Kolkata : SRFTI students step up demand to revoke six expulsions , continue Puja protests",
-    "country": "India",
-    "city": "Kolkata",
+    "city": "Mumbai",
     "category": "unrest",
     "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-17T10:00:00+00:00"
+    "time": "2026-10-17T19:30:00+00:00"
+   },
+   {
+    "id": "8f33bd682787",
+    "title": "Delhi anti - CEC protests : Dipke released after signing peace bond , sporadic protests continue",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-17T17:45:00+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "924a4653dfae",
+    "title": "M4.6 earthquake, 88 km SSW of Uyuni, Bolivia",
+    "country": "Bolivia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-17T16:52:45.164000+00:00"
+   },
+   {
+    "id": "ec775fe5a4cf",
+    "title": "How the Brazil protests were hijacked",
+    "country": "Brazil",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-17T11:15:00+00:00"
+   },
+   {
+    "id": "90a38e96d8a4",
+    "title": "M4.6 earthquake, 12 km SSE of Tebario, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T22:41:03.562000+00:00"
    }
   ],
   "East & SE Asia": [
@@ -525,38 +555,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-17T07:20:48.242000+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "ec775fe5a4cf",
-    "title": "How the Brazil protests were hijacked",
-    "country": "Brazil",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-17T11:15:00+00:00"
-   },
-   {
-    "id": "90a38e96d8a4",
-    "title": "M4.6 earthquake, 12 km SSE of Tebario, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T22:41:03.562000+00:00"
-   },
-   {
-    "id": "42de90ab437c",
-    "title": "M5.2 earthquake, off the coast of Ecuador",
-    "country": "Ecuador",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T19:34:10.742000+00:00"
    }
   ],
   "Oceania": [
