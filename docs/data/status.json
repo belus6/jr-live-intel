@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T23:54:01.934108+00:00",
+ "generated": "2026-10-17T03:18:52.227457+00:00",
  "sources": [
   {
    "id": "us-state-advisories",
@@ -7,7 +7,7 @@
    "ok": true,
    "items": 3,
    "note": "ok",
-   "secs": 0.7
+   "secs": 0.8
   },
   {
    "id": "uk-fcdo",
@@ -15,7 +15,7 @@
    "ok": true,
    "items": 20,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.3
   },
   {
    "id": "cdc-notices",
@@ -23,13 +23,13 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "usgs-quakes",
    "name": "USGS earthquakes M4.5+",
    "ok": true,
-   "items": 14,
+   "items": 16,
    "note": "ok",
    "secs": 0.1
   },
@@ -37,9 +37,9 @@
    "id": "gdacs",
    "name": "GDACS disaster alerts",
    "ok": true,
-   "items": 60,
+   "items": 61,
    "note": "ok",
-   "secs": 2.3
+   "secs": 2.4
   },
   {
    "id": "reliefweb",
@@ -47,7 +47,7 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.2
   },
   {
    "id": "un-news",
@@ -55,23 +55,23 @@
    "ok": true,
    "items": 3,
    "note": "ok",
-   "secs": 0.4
+   "secs": 0.2
   },
   {
    "id": "bbc-world",
    "name": "BBC World",
    "ok": true,
-   "items": 8,
+   "items": 10,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.3
   },
   {
    "id": "aljazeera",
    "name": "Al Jazeera",
    "ok": true,
-   "items": 6,
+   "items": 5,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "id": "france24",
@@ -87,7 +87,7 @@
    "ok": true,
    "items": 5,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "guardian-world",
@@ -103,7 +103,7 @@
    "ok": true,
    "items": 4,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "africanews",
@@ -111,7 +111,7 @@
    "ok": true,
    "items": 18,
    "note": "ok",
-   "secs": 0.4
+   "secs": 0.3
   },
   {
    "id": "kyiv-independent",
@@ -138,10 +138,9 @@
   {
    "id": "gdelt-unrest-es-fr",
    "name": "GDELT unrest (Spanish and French)",
-   "ok": true,
+   "ok": false,
    "items": 0,
-   "note": "ok",
-   "secs": 13.1
+   "note": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28protesta%20OR%20manifestaci%C3%B3n%20OR%20bloqueo%20OR%20manif"
   }
  ]
 }
