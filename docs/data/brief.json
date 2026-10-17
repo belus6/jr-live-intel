@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-17T07:58:44.644619+00:00",
+ "generated": "2026-10-17T12:07:11.583952+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 78,
-  "3": 37,
+  "2": 77,
+  "3": 35,
   "4": 4,
   "5": 0
  },
@@ -13,6 +13,88 @@
   "8045cbcfd75b"
  ],
  "regions": {
+  "Sub-Saharan Africa": [
+   {
+    "id": "f878bfd2a948",
+    "title": "Cameroonian journalist shot in Bamenda",
+    "country": "Cameroon",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-17T11:16:09+00:00"
+   },
+   {
+    "id": "b19bfd057cad",
+    "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+    "country": "South Africa",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T11:00:00+00:00"
+   },
+   {
+    "id": "fc4be8181a4f",
+    "title": "Kenya confirms third Ebola case as health officials race to contain outbreak",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C2",
+    "time": "2026-10-16T19:01:28+00:00"
+   },
+   {
+    "id": "8045cbcfd75b",
+    "title": "Kenya records third Ebola case, linked to first patient who died",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "category": "health",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-16T18:57:40+00:00"
+   },
+   {
+    "id": "d452cd93a17f",
+    "title": "Uganda launches Ebola vaccine trial",
+    "country": "Uganda",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T11:00:09+00:00"
+   },
+   {
+    "id": "e976e5535726",
+    "title": "Kenya reports third Ebola case, contact tracing continues",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T10:56:48+00:00"
+   },
+   {
+    "id": "eb963c928f9b",
+    "title": "Green forest fire notification in South Africa",
+    "country": "South Africa",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T19:04:13+00:00"
+   },
+   {
+    "id": "803778de57f0",
+    "title": "Green forest fire notification in Chad",
+    "country": "Chad",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T19:04:10+00:00"
+   }
+  ],
   "Eastern Europe": [
    {
     "id": "b7e1bbf3fca0",
@@ -45,6 +127,26 @@
     "time": "2026-10-17T02:31:15+00:00"
    },
    {
+    "id": "c118fd3e3ad1",
+    "title": "Russia hails Trump waiving sanctions as 'historic'",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-17T10:41:22+00:00"
+   },
+   {
+    "id": "4012dccb9a52",
+    "title": "Anger over Kyiv's winter preparations fuels calls for Mayor Klitschko to resign",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C2",
+    "time": "2026-10-17T09:10:00+00:00"
+   },
+   {
     "id": "5691d564face",
     "title": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
     "country": "Russia",
@@ -55,44 +157,24 @@
     "time": "2026-10-16T20:25:46+00:00"
    },
    {
-    "id": "f36e396a2d95",
-    "title": "Russian attacks kill 7, injure dozens across Ukraine amid continued strikes on energy infrastructure",
-    "country": "Ukraine",
+    "id": "8105eecb9289",
+    "title": "URCS assists two victims of Russian airstrike on Mykolaiv",
+    "country": "Russia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-17T07:28:42+00:00"
+    "time": "2026-10-17T11:15:00+00:00"
    },
    {
-    "id": "47016910494e",
-    "title": "Exclusive: Watchdog lists ships carrying Russian gas, blasts Trump sanctions waiver",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-17T06:13:18+00:00"
-   },
-   {
-    "id": "24387f6ab88b",
-    "title": "General Staff: Russia has lost 1,562,970 troops in Ukraine since Feb. 24, 2022",
+    "id": "67e205013eaf",
+    "title": "Russian Ryazan oil refinery halts operations of one main unit after drone attack, Reuters reports",
     "country": "Ukraine",
-    "city": null,
+    "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-17T06:10:00+00:00"
-   },
-   {
-    "id": "2a43882303a5",
-    "title": "Trump puts on hold new Russia sanctions he signed into law",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T04:45:03+00:00"
+    "time": "2026-10-17T10:18:15+00:00"
    }
   ],
   "Western Europe": [
@@ -105,6 +187,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-16T16:26:46+00:00"
+   },
+   {
+    "id": "f8cfd3ca42da",
+    "title": "Russia winter of fear from missiles , drones now hungry wolves stalk homes and people - London Business News",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-17T09:30:00+00:00"
    },
    {
     "id": "00393396cb11",
@@ -157,36 +249,36 @@
     "time": "2026-10-16T13:13:12+00:00"
    },
    {
-    "id": "46287b592c69",
-    "title": "EU’s von der Leyen pledges to ‘not lift any sanctions unless Russia stops the war’ as leaders discuss Ukraine – Europe live",
-    "country": "Belgium",
-    "city": "Brussels",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T09:23:11+00:00"
-   },
-   {
-    "id": "4cc4ee02d9b0",
-    "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "crime",
+    "id": "0a2e9c49d0ba",
+    "title": "Protesters across France rally over rising living costs , joining student grievances",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T06:45:23+00:00"
+    "confidence": "C1",
+    "time": "2026-10-17T10:00:00+00:00"
    }
   ],
   "Middle East & N. Africa": [
    {
-    "id": "2550a9cf8553",
-    "title": "IDF kills Hamas terrorist in Gaza Strip who participated in October 7 attacks",
-    "country": "Palestine",
+    "id": "cc6a08900517",
+    "title": "Airstrike kills 3 children in Yemen , and other Middle East developments",
+    "country": "Yemen",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C1",
+    "time": "2026-10-17T09:30:00+00:00"
+   },
+   {
+    "id": "e6404e09f264",
+    "title": "Iran denies being behind Houthi attacks as Aden airport hit",
+    "country": "Saudi Arabia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-16T08:00:00+00:00"
+    "time": "2026-10-17T08:51:59+00:00"
    },
    {
     "id": "9e335a138101",
@@ -229,26 +321,6 @@
     "time": "2026-10-16T21:56:07+00:00"
    },
    {
-    "id": "615775a141bf",
-    "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T12:00:00+00:00"
-   },
-   {
-    "id": "df950273f9b4",
-    "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T12:00:00+00:00"
-   },
-   {
     "id": "7d9ade6d58af",
     "title": "M4.5 earthquake, 70 km NNE of Mīnāb, Iran",
     "country": "Iran",
@@ -257,100 +329,28 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-16T21:30:26.101000+00:00"
-   }
-  ],
-  "South Asia": [
+   },
    {
-    "id": "0bbd65d0a41b",
-    "title": "M5.7 earthquake, 48 km WNW of Khuzdar, Pakistan",
-    "country": "Pakistan",
+    "id": "dc73861c17f4",
+    "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+    "country": "Israel",
     "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-17T05:06:57.657000+00:00"
-   },
-   {
-    "id": "6c9b7a41285f",
-    "title": "India's 'cockroach' party founder detained ahead of protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
+    "category": "cyber",
     "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-16T11:44:31+00:00"
-   },
-   {
-    "id": "9ed43f1782b0",
-    "title": "Despite India strong missive , US lawmakers push narrative on protests against EC ask Rubio to take up",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-17T05:30:00+00:00"
-   },
-   {
-    "id": "6b3b0aa780c5",
-    "title": "Address Telangana concerns first : BJYM Ganesh Kunde slams Revanth Reddy for joining Delhi protests",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-17T05:45:00+00:00"
-   },
-   {
-    "id": "9ebce63c1854",
-    "title": "Rahul Gandhi brought aspirations , indignation of younger generation onto streets : Congres Amit Chavda amid Delhi protests",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-17T05:00:00+00:00"
-   },
-   {
-    "id": "20ca5d018025",
-    "title": "Women groups hold protest march to Delhi Police headquarters over alleged sexual violence during SIR protests",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-17T07:30:00+00:00"
-   },
-   {
-    "id": "e857aededdd8",
-    "title": "West Bengal Civil Liberties and Human Rights Groups Condemn Delhi Police Crackdown on Peaceful Protesters and Journalists , Demand Accountability",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-17T07:15:00+00:00"
-   },
-   {
-    "id": "910e357f6eba",
-    "title": "US Democrats ask Rubio to raise India protest crackdown concerns",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-17T05:45:00+00:00"
+    "confidence": "B3",
+    "time": "2026-10-16T21:08:44+00:00"
    }
   ],
   "North America": [
    {
-    "id": "148ac968c779",
-    "title": "US issues new Iran-related sanctions against 16 individuals, 11 entities",
+    "id": "af7b0805b8b6",
+    "title": "Trump waives new Russia sanctions as Ukraine ties slump",
     "country": "United States",
     "city": null,
     "category": "political",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-16T10:05:15+00:00"
+    "confidence": "B3",
+    "time": "2026-10-17T09:23:52+00:00"
    },
    {
     "id": "e3910c84098b",
@@ -391,205 +391,101 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-16T17:45:58+00:00"
-   },
-   {
-    "id": "018952e92940",
-    "title": "M4.8 earthquake, 7 km WSW of Soconusco, Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T11:39:44.878000+00:00"
    }
   ],
-  "East & SE Asia": [
+  "South Asia": [
    {
-    "id": "346a52849563",
-    "title": "China-North Korea border bridge may do little to spur trade, experts say",
-    "country": "North Korea",
+    "id": "0bbd65d0a41b",
+    "title": "M5.7 earthquake, 48 km WNW of Khuzdar, Pakistan",
+    "country": "Pakistan",
     "city": null,
-    "category": "political",
+    "category": "hazard",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-16T09:21:40+00:00"
+    "confidence": "A1",
+    "time": "2026-10-17T05:06:57.657000+00:00"
    },
    {
-    "id": "e3f17aee9401",
-    "title": "Nearly 70 Percent of Myanmar Junta Airstrikes Targeted Civilians , Report Finds",
-    "country": "Myanmar",
+    "id": "9ed43f1782b0",
+    "title": "Despite India strong missive , US lawmakers push narrative on protests against EC ask Rubio to take up",
+    "country": "India",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C1",
+    "time": "2026-10-17T05:30:00+00:00"
+   },
+   {
+    "id": "8cb116817b16",
+    "title": "Traders suffer Rs 3 , 000 crore loss over Delhi protests : Industry body",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C2",
+    "time": "2026-10-17T09:30:00+00:00"
+   },
+   {
+    "id": "6b3b0aa780c5",
+    "title": "Address Telangana concerns first : BJYM Ganesh Kunde slams Revanth Reddy for joining Delhi protests",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C2",
+    "time": "2026-10-17T05:45:00+00:00"
+   },
+   {
+    "id": "9ebce63c1854",
+    "title": "Rahul Gandhi brought aspirations , indignation of younger generation onto streets : Congres Amit Chavda amid Delhi protests",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C2",
+    "time": "2026-10-17T05:00:00+00:00"
+   },
+   {
+    "id": "2f74c741cc16",
+    "title": "Kolkata : SRFTI students step up demand to revoke six expulsions , continue Puja protests",
+    "country": "India",
+    "city": "Kolkata",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-16T09:00:00+00:00"
+    "time": "2026-10-17T10:00:00+00:00"
    },
    {
-    "id": "c61800f2110f",
-    "title": "M4.5 earthquake, 59 km NNW of Ruteng, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
+    "id": "8801a5416d24",
+    "title": "Delhi Police files multiple FIRs over CJP Lehra Do Tiranga protest",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-17T07:20:48.242000+00:00"
+    "confidence": "C4",
+    "time": "2026-10-17T09:15:00+00:00"
    },
    {
-    "id": "cbad4b4b511c",
-    "title": "Indonesia's forest fires spark public health crisis across Southeast Asia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
+    "id": "20ca5d018025",
+    "title": "Women groups hold protest march to Delhi Police headquarters over alleged sexual violence during SIR protests",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-16T15:26:25+00:00"
-   },
+    "confidence": "C4",
+    "time": "2026-10-17T07:30:00+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
    {
-    "id": "a25e2fe8d629",
-    "title": "M4.9 earthquake, 31 km ENE of Kinablangan, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T09:13:44.909000+00:00"
-   },
-   {
-    "id": "719de051e77a",
-    "title": "Protests spread in Indonesia over fires and haze",
-    "country": "Indonesia",
+    "id": "ec775fe5a4cf",
+    "title": "How the Brazil protests were hijacked",
+    "country": "Brazil",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-16T09:00:00+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "fc4be8181a4f",
-    "title": "Kenya confirms third Ebola case as health officials race to contain outbreak",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-16T19:01:28+00:00"
+    "time": "2026-10-17T11:15:00+00:00"
    },
-   {
-    "id": "8045cbcfd75b",
-    "title": "Kenya records third Ebola case, linked to first patient who died",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-16T18:57:40+00:00"
-   },
-   {
-    "id": "eb963c928f9b",
-    "title": "Green forest fire notification in South Africa",
-    "country": "South Africa",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T19:04:13+00:00"
-   },
-   {
-    "id": "803778de57f0",
-    "title": "Green forest fire notification in Chad",
-    "country": "Chad",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T19:04:10+00:00"
-   },
-   {
-    "id": "fc34847791e9",
-    "title": "M4.6 earthquake, 41 km NNE of Kilimatinde, Tanzania",
-    "country": "Tanzania",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T16:17:25.793000+00:00"
-   },
-   {
-    "id": "33e7f026bb25",
-    "title": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-16T13:51:54+00:00"
-   },
-   {
-    "id": "7e6b3390103f",
-    "title": "How prepared is Kenya for an Ebola outbreak?",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-16T10:41:00+00:00"
-   },
-   {
-    "id": "1246721fe6be",
-    "title": "Nigeria : 2027 - Tinubu Issues Fresh Directive , Orders Security Agencies to Rescue All Kidnapped Victims",
-    "country": "Nigeria",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-16T09:00:00+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "970983f0ef8b",
-    "title": "M4.5 earthquake, 80 km NW of Sola, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-17T07:40:02.596000+00:00"
-   },
-   {
-    "id": "b7f4e16fa480",
-    "title": "Three Mexicans jailed for 158 years each for killing Australian, US surfers",
-    "country": "Australia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T05:01:14+00:00"
-   },
-   {
-    "id": "12537a531983",
-    "title": "M4.6 earthquake, 153 km W of Neiafu, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T15:06:34.084000+00:00"
-   },
-   {
-    "id": "a3683554d976",
-    "title": "M5.0 earthquake, Auckland Islands, New Zealand region",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T14:09:54.288000+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
    {
     "id": "90a38e96d8a4",
     "title": "M4.6 earthquake, 12 km SSE of Tebario, Panama",
@@ -639,6 +535,100 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-16T12:15:50+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "e84183b34d16",
+    "title": "Murder in Malaysia: Justice for Altantuya Shaariibuu",
+    "country": "Malaysia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T08:40:47+00:00"
+   },
+   {
+    "id": "c61800f2110f",
+    "title": "M4.5 earthquake, 59 km NNW of Ruteng, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-17T07:20:48.242000+00:00"
+   },
+   {
+    "id": "cbad4b4b511c",
+    "title": "Indonesia's forest fires spark public health crisis across Southeast Asia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-16T15:26:25+00:00"
+   },
+   {
+    "id": "c5319dd1d594",
+    "title": "M4.7 earthquake, 10 km SE of Lamitan, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T12:18:25.421000+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "970983f0ef8b",
+    "title": "M4.5 earthquake, 80 km NW of Sola, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-17T07:40:02.596000+00:00"
+   },
+   {
+    "id": "b7f4e16fa480",
+    "title": "Three Mexicans jailed for 158 years each for killing Australian, US surfers",
+    "country": "Australia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T05:01:14+00:00"
+   },
+   {
+    "id": "e6c3eaa43393",
+    "title": "M4.5 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T21:26:37.613000+00:00"
+   },
+   {
+    "id": "12537a531983",
+    "title": "M4.6 earthquake, 153 km W of Neiafu, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T15:06:34.084000+00:00"
+   },
+   {
+    "id": "a3683554d976",
+    "title": "M5.0 earthquake, Auckland Islands, New Zealand region",
+    "country": "New Zealand",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-16T14:09:54.288000+00:00"
    }
   ]
  }
