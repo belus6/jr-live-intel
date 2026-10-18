@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T00:22:08.996254+00:00",
+ "generated": "2026-10-18T04:56:26.365911+00:00",
  "sources": [
   {
    "id": "us-state-advisories",
@@ -7,7 +7,7 @@
    "ok": true,
    "items": 3,
    "note": "ok",
-   "secs": 0.6
+   "secs": 0.7
   },
   {
    "id": "uk-fcdo",
@@ -15,13 +15,13 @@
    "ok": true,
    "items": 20,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.2
   },
   {
    "id": "cdc-notices",
    "name": "CDC travel health notices",
    "ok": true,
-   "items": 2,
+   "items": 0,
    "note": "ok",
    "secs": 0.3
   },
@@ -37,9 +37,9 @@
    "id": "gdacs",
    "name": "GDACS disaster alerts",
    "ok": true,
-   "items": 66,
+   "items": 63,
    "note": "ok",
-   "secs": 2.3
+   "secs": 2.2
   },
   {
    "id": "reliefweb",
@@ -55,7 +55,7 @@
    "ok": true,
    "items": 3,
    "note": "ok",
-   "secs": 0.2
+   "secs": 1.0
   },
   {
    "id": "bbc-world",
@@ -63,13 +63,13 @@
    "ok": true,
    "items": 9,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.2
   },
   {
    "id": "aljazeera",
    "name": "Al Jazeera",
    "ok": true,
-   "items": 11,
+   "items": 8,
    "note": "ok",
    "secs": 0.2
   },
@@ -77,9 +77,9 @@
    "id": "france24",
    "name": "France 24",
    "ok": true,
-   "items": 17,
+   "items": 19,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "id": "dw",
@@ -95,7 +95,7 @@
    "ok": true,
    "items": 11,
    "note": "ok",
-   "secs": 0.5
+   "secs": 0.6
   },
   {
    "id": "npr-world",
@@ -103,13 +103,13 @@
    "ok": true,
    "items": 5,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "africanews",
    "name": "Africanews",
    "ok": true,
-   "items": 12,
+   "items": 11,
    "note": "ok",
    "secs": 0.3
   },
@@ -131,10 +131,9 @@
   {
    "id": "gdelt-security",
    "name": "GDELT security events (English)",
-   "ok": true,
-   "items": 43,
-   "note": "ok",
-   "secs": 14.0
+   "ok": false,
+   "items": 0,
+   "note": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28protest%20OR%20airstrike%20OR%20explosion%20OR%20%22gunmen%22%"
   },
   {
    "id": "gdelt-unrest-es-fr",
