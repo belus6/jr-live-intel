@@ -1,17 +1,27 @@
 {
- "generated": "2026-10-18T16:44:19.543868+00:00",
+ "generated": "2026-10-18T18:59:19.661832+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 81,
-  "3": 28,
-  "4": 4,
-  "5": 0
+  "2": 78,
+  "3": 25,
+  "4": 7,
+  "5": 1
  },
  "watch_hits": [],
  "regions": {
   "Eastern Europe": [
+   {
+    "id": "6cc660790964",
+    "title": "News from occupied Ukraine: 11 Ukrainians, including 96-year-old woman, evacuated from Russian occupation",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "C4",
+    "time": "2026-10-18T16:44:59+00:00"
+   },
    {
     "id": "9575f6a98c5a",
     "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
@@ -73,24 +83,220 @@
     "time": "2026-10-18T14:45:38+00:00"
    },
    {
-    "id": "532247d3b7ba",
-    "title": "Zelensky tells Trump Russia keeps violating his energy ceasefire",
+    "id": "2be51e458cff",
+    "title": "Ukrainian drone attack on Saint Petersburg kills one, sets refinery ablaze",
     "country": "Russia",
-    "city": null,
+    "city": "Saint Petersburg",
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-18T08:35:06+00:00"
+    "confidence": "B3",
+    "time": "2026-10-18T12:03:23+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "5dca1a6fe6ae",
+    "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-18T18:39:23+00:00"
    },
    {
-    "id": "786191680c60",
-    "title": "Zelensky reveals how many Russian attacks have followed Trump's energy ceasefire",
-    "country": "Russia",
+    "id": "5aba05ef7df6",
+    "title": "Wife of Andy Burnham national security adviser faces no further action over tweet that appeared to support banned terror group Palestine Action",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-18T00:00:00+00:00"
+   },
+   {
+    "id": "fcfbd7ebcb87",
+    "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+    "country": "Israel",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-17T23:40:59+00:00"
+   },
+   {
+    "id": "ffc42d4be98e",
+    "title": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election",
+    "country": "Israel",
     "city": null,
     "category": "conflict",
     "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T16:25:00+00:00"
+   },
+   {
+    "id": "9ae6087dcfda",
+    "title": "Sudan army accused of drone strike on livestock market",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T13:37:03+00:00"
+   },
+   {
+    "id": "923a36ef76f2",
+    "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T12:00:04+00:00"
+   },
+   {
+    "id": "6aea19b12d53",
+    "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T10:30:00+00:00"
+   },
+   {
+    "id": "7e7df77c6544",
+    "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T09:16:54+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "16495be8cc1a",
+    "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-18T18:13:11+00:00"
+   },
+   {
+    "id": "8366786e03a3",
+    "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches trails",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T23:53:08+00:00"
+   },
+   {
+    "id": "0d5f329f6947",
+    "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T23:53:08+00:00"
+   },
+   {
+    "id": "979fe4099e6a",
+    "title": "GALLERY : Fires , looting and tear gas erupt across France during mass protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C1",
+    "time": "2026-10-17T23:30:00+00:00"
+   },
+   {
+    "id": "936c103dd9ef",
+    "title": "Hundreds of thousands protest across France over schools , cost of living , and fuel prices",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C1",
+    "time": "2026-10-17T23:30:00+00:00"
+   },
+   {
+    "id": "63eb04467ba4",
+    "title": "Paris protests: A look at the aftermath",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-18T11:51:33+00:00"
+   },
+   {
+    "id": "a37f35b87e6a",
+    "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+    "country": "Belgium",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-17T21:02:26+00:00"
+   },
+   {
+    "id": "c103f728e2be",
+    "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-18T14:50:37+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "c098bbd4b58b",
+    "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
+    "country": "India",
+    "city": "Mumbai",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-18T17:58:49+00:00"
+   },
+   {
+    "id": "c89499e8a984",
+    "title": "India's 'cockroach' movement founder released from police custody",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-18T05:47:00+00:00"
+   },
+   {
+    "id": "66de267c514f",
+    "title": "AI tool helps stranded protesters find their way home in the Indian capital",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-18T05:37:36+00:00"
+   },
+   {
+    "id": "bcf043d30a4a",
+    "title": "Mumbai CEC protest : Actor Imran Khan gets FRRO show - cause notice over OCI status ; moves Bombay HC against Mumbai Police order",
+    "country": "India",
+    "city": "Mumbai",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-18T08:35:06+00:00"
+    "time": "2026-10-17T19:30:00+00:00"
    }
   ],
   "North America": [
@@ -165,171 +371,17 @@
     "time": "2026-10-17T22:45:48+00:00"
    }
   ],
-  "Middle East & N. Africa": [
-   {
-    "id": "5aba05ef7df6",
-    "title": "Wife of Andy Burnham national security adviser faces no further action over tweet that appeared to support banned terror group Palestine Action",
-    "country": "Palestine",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-18T00:00:00+00:00"
-   },
-   {
-    "id": "fcfbd7ebcb87",
-    "title": "US ambassador urges Israel to prosecute attackers of American journalist",
-    "country": "Israel",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-17T23:40:59+00:00"
-   },
-   {
-    "id": "ffc42d4be98e",
-    "title": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election",
-    "country": "Israel",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-18T16:25:00+00:00"
-   },
-   {
-    "id": "9ae6087dcfda",
-    "title": "Sudan army accused of drone strike on livestock market",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-18T13:37:03+00:00"
-   },
-   {
-    "id": "923a36ef76f2",
-    "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
-    "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-18T12:00:04+00:00"
-   },
-   {
-    "id": "6aea19b12d53",
-    "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-18T10:30:00+00:00"
-   },
-   {
-    "id": "7e7df77c6544",
-    "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-18T09:16:54+00:00"
-   },
-   {
-    "id": "a139933bd0d2",
-    "title": "Sudanese gold miners describe deadly airstrike that killed 72",
-    "country": "Egypt",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-18T07:58:18+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "a3bd131a74f9",
-    "title": "Police clashes in Paris , France during protests against rising living costs",
-    "country": "France",
-    "city": "Paris",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C1",
-    "time": "2026-10-17T18:00:00+00:00"
-   },
-   {
-    "id": "8366786e03a3",
-    "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches trails",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T23:53:08+00:00"
-   },
-   {
-    "id": "0d5f329f6947",
-    "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T23:53:08+00:00"
-   },
-   {
-    "id": "958414454d99",
-    "title": "Clashes erupt on French streets , yellow vest return",
-    "country": "France",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-17T18:00:00+00:00"
-   },
-   {
-    "id": "979fe4099e6a",
-    "title": "GALLERY : Fires , looting and tear gas erupt across France during mass protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-17T23:30:00+00:00"
-   },
-   {
-    "id": "936c103dd9ef",
-    "title": "Hundreds of thousands protest across France over schools , cost of living , and fuel prices",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-17T23:30:00+00:00"
-   },
-   {
-    "id": "63eb04467ba4",
-    "title": "Paris protests: A look at the aftermath",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-18T11:51:33+00:00"
-   },
-   {
-    "id": "a37f35b87e6a",
-    "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-    "country": "Belgium",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-17T21:02:26+00:00"
-   }
-  ],
   "Sub-Saharan Africa": [
+   {
+    "id": "79669ab9fdd0",
+    "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T17:20:20+00:00"
+   },
    {
     "id": "2549c66cfe73",
     "title": "Nigeria's Army Chief of Staff visits troops in Borno after deaths of 15 soliders",
@@ -389,16 +441,18 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-17T19:00:00+00:00"
-   },
+   }
+  ],
+  "Latin America & Caribbean": [
    {
-    "id": "2e221ac34bad",
-    "title": "Kenya confirms four more Ebola cases, bringing total to seven",
-    "country": "Kenya",
+    "id": "ea209baf92d0",
+    "title": "M4.5 earthquake, 0 km NE of Río Grande, Panama",
+    "country": "Panama",
     "city": null,
-    "category": "health",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T16:48:46+00:00"
+    "confidence": "A1",
+    "time": "2026-10-18T16:12:55.030000+00:00"
    }
   ],
   "Oceania": [
@@ -463,70 +517,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-17T23:12:15+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "c89499e8a984",
-    "title": "India's 'cockroach' movement founder released from police custody",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-18T05:47:00+00:00"
-   },
-   {
-    "id": "66de267c514f",
-    "title": "AI tool helps stranded protesters find their way home in the Indian capital",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-18T05:37:36+00:00"
-   },
-   {
-    "id": "bcf043d30a4a",
-    "title": "Mumbai CEC protest : Actor Imran Khan gets FRRO show - cause notice over OCI status ; moves Bombay HC against Mumbai Police order",
-    "country": "India",
-    "city": "Mumbai",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-17T19:30:00+00:00"
-   },
-   {
-    "id": "8f33bd682787",
-    "title": "Delhi anti - CEC protests : Dipke released after signing peace bond , sporadic protests continue",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-17T17:45:00+00:00"
-   },
-   {
-    "id": "e5a222d92b16",
-    "title": "CJP Founder Abhijeet Dipke Granted Conditional Bail After Delhi Tiranga Rally Arrest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-17T17:30:00+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "924a4653dfae",
-    "title": "M4.6 earthquake, 88 km SSW of Uyuni, Bolivia",
-    "country": "Bolivia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-17T16:52:45.164000+00:00"
    }
   ]
  }
