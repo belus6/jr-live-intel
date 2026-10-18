@@ -1,16 +1,170 @@
 {
- "generated": "2026-10-18T13:26:17.272619+00:00",
+ "generated": "2026-10-18T16:44:19.543868+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 89,
-  "3": 25,
-  "4": 2,
+  "2": 81,
+  "3": 28,
+  "4": 4,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
+  "Eastern Europe": [
+   {
+    "id": "9575f6a98c5a",
+    "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-18T16:37:52+00:00"
+   },
+   {
+    "id": "68afda80bc4c",
+    "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-18T10:34:09+00:00"
+   },
+   {
+    "id": "323176cca369",
+    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-18T01:10:25+00:00"
+   },
+   {
+    "id": "6f6ead1f52b4",
+    "title": "Ukraine war latest: St. Petersburg slammed by drones in mass Ukrainian attack",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-18T16:27:13+00:00"
+   },
+   {
+    "id": "7a580b077847",
+    "title": "US resumes intel sharing on Russian missile launches with Ukraine, Zelensky says",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-18T15:10:51+00:00"
+   },
+   {
+    "id": "ce96066b1a17",
+    "title": "Russia: Huge flames and smoke rise over St Petersburg after drone strikes",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-18T14:45:38+00:00"
+   },
+   {
+    "id": "532247d3b7ba",
+    "title": "Zelensky tells Trump Russia keeps violating his energy ceasefire",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-18T08:35:06+00:00"
+   },
+   {
+    "id": "786191680c60",
+    "title": "Zelensky reveals how many Russian attacks have followed Trump's energy ceasefire",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-18T08:35:06+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "3a66ed783a8b",
+    "title": "US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’",
+    "country": "United States",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-18T15:33:38+00:00"
+   },
+   {
+    "id": "632797b409c8",
+    "title": "Marco Rubio says Trump's Russian oil sanctions waiver is a '60-day pause,' denies restricting Starlink access",
+    "country": "United States",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-18T04:36:10+00:00"
+   },
+   {
+    "id": "3eacd7cd870f",
+    "title": "Thousands gather in downtown Los Angeles as No Kings rally focuses on voting rights",
+    "country": "United States",
+    "city": "Los Angeles",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C1",
+    "time": "2026-10-17T23:30:00+00:00"
+   },
+   {
+    "id": "2e4f120a833b",
+    "title": "‘Standing up for democracy’: Atlanta ‘No Kings’ rally draws Trump critics ahead of midterms",
+    "country": "United States",
+    "city": "Atlanta",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-18T01:50:29+00:00"
+   },
+   {
+    "id": "3cba4cdd7b9b",
+    "title": "Chicago No Kings protests smaller , focused on midterm early voting",
+    "country": "United States",
+    "city": "Chicago",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-18T00:00:00+00:00"
+   },
+   {
+    "id": "f5062e0ff95e",
+    "title": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T23:24:40+00:00"
+   },
+   {
+    "id": "b3284a6130d1",
+    "title": "New York City police seek suspect in fatal subway station shooting",
+    "country": "United States",
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T22:45:48+00:00"
+   }
+  ],
   "Middle East & N. Africa": [
    {
     "id": "5aba05ef7df6",
@@ -31,6 +185,26 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-17T23:40:59+00:00"
+   },
+   {
+    "id": "ffc42d4be98e",
+    "title": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election",
+    "country": "Israel",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T16:25:00+00:00"
+   },
+   {
+    "id": "9ae6087dcfda",
+    "title": "Sudan army accused of drone strike on livestock market",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T13:37:03+00:00"
    },
    {
     "id": "923a36ef76f2",
@@ -71,108 +245,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-18T07:58:18+00:00"
-   },
-   {
-    "id": "0cf97766da4e",
-    "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-18T01:12:44+00:00"
-   },
-   {
-    "id": "0d1ec792c1a4",
-    "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T18:26:59+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "ddeeda2add2d",
-    "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-10-17T14:25:10+00:00"
-   },
-   {
-    "id": "68afda80bc4c",
-    "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-18T10:34:09+00:00"
-   },
-   {
-    "id": "323176cca369",
-    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-18T01:10:25+00:00"
-   },
-   {
-    "id": "532247d3b7ba",
-    "title": "Zelensky tells Trump Russia keeps violating his energy ceasefire",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-18T08:35:06+00:00"
-   },
-   {
-    "id": "786191680c60",
-    "title": "Zelensky reveals how many Russian attacks have followed Trump's energy ceasefire",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-18T08:35:06+00:00"
-   },
-   {
-    "id": "8329049a4f6f",
-    "title": "General Staff: Russia has lost 1,565,060 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-18T06:37:19+00:00"
-   },
-   {
-    "id": "3af4dfff8905",
-    "title": "Massive Ukrainian drone attack hit oil facility, bridge, and data centers in St. Petersburg",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-18T01:34:01+00:00"
-   },
-   {
-    "id": "85ac092ed9b6",
-    "title": "Zelensky warns Russia may expand missile threats from Belarus against western Ukraine",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-17T20:26:53+00:00"
    }
   ],
   "Western Europe": [
@@ -217,16 +289,6 @@
     "time": "2026-10-17T18:00:00+00:00"
    },
    {
-    "id": "1b0cc78b9bd9",
-    "title": "Scuffles and fires break out as protesters rally across France, joining students",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-17T15:57:40+00:00"
-   },
-   {
     "id": "979fe4099e6a",
     "title": "GALLERY : Fires , looting and tear gas erupt across France during mass protests",
     "country": "France",
@@ -245,6 +307,16 @@
     "severity": 2,
     "confidence": "C1",
     "time": "2026-10-17T23:30:00+00:00"
+   },
+   {
+    "id": "63eb04467ba4",
+    "title": "Paris protests: A look at the aftermath",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-18T11:51:33+00:00"
    },
    {
     "id": "a37f35b87e6a",
@@ -329,99 +401,71 @@
     "time": "2026-10-17T16:48:46+00:00"
    }
   ],
-  "North America": [
+  "Oceania": [
    {
-    "id": "632797b409c8",
-    "title": "Marco Rubio says Trump's Russian oil sanctions waiver is a '60-day pause,' denies restricting Starlink access",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-18T04:36:10+00:00"
-   },
-   {
-    "id": "3eacd7cd870f",
-    "title": "Thousands gather in downtown Los Angeles as No Kings rally focuses on voting rights",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-17T23:30:00+00:00"
-   },
-   {
-    "id": "2e4f120a833b",
-    "title": "‘Standing up for democracy’: Atlanta ‘No Kings’ rally draws Trump critics ahead of midterms",
-    "country": "United States",
-    "city": "Atlanta",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-18T01:50:29+00:00"
-   },
-   {
-    "id": "3cba4cdd7b9b",
-    "title": "Chicago No Kings protests smaller , focused on midterm early voting",
-    "country": "United States",
-    "city": "Chicago",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-18T00:00:00+00:00"
-   },
-   {
-    "id": "f5062e0ff95e",
-    "title": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T23:24:40+00:00"
-   },
-   {
-    "id": "b3284a6130d1",
-    "title": "New York City police seek suspect in fatal subway station shooting",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T22:45:48+00:00"
-   },
-   {
-    "id": "fab660798d9f",
-    "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T14:28:07+00:00"
-   },
-   {
-    "id": "f390f531abf5",
-    "title": "M5.2 earthquake, 86 km SW of Brisas Barra de Suchiate, Mexico",
-    "country": "Mexico",
+    "id": "fb8bad079bd1",
+    "title": "M4.5 earthquake, Kermadec Islands, New Zealand",
+    "country": "New Zealand",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-17T13:59:34.575000+00:00"
+    "time": "2026-10-18T12:42:22.533000+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "7e5b87e13d6a",
+    "title": "Dozens of critically endangered orangutans saved from rampant wildfires in Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-18T11:25:23+00:00"
+   },
+   {
+    "id": "01bdd04d5acf",
+    "title": "M5.2 earthquake, 55 km NNW of Ruteng, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-18T08:00:06.054000+00:00"
+   },
+   {
+    "id": "fce4048ff117",
+    "title": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-18T06:30:35+00:00"
+   },
+   {
+    "id": "53b0f0078812",
+    "title": "M4.8 earthquake, 31 km SE of Kainantu, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-18T00:28:29.111000+00:00"
+   },
+   {
+    "id": "8c8c35483560",
+    "title": "Green forest fire notification in Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-17T23:12:15+00:00"
    }
   ],
   "South Asia": [
-   {
-    "id": "c02137a731bf",
-    "title": "India: Police crack down on New Delhi protests",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-17T16:29:00+00:00"
-   },
    {
     "id": "c89499e8a984",
     "title": "India's 'cockroach' movement founder released from police custody",
@@ -471,60 +515,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-17T17:30:00+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "fb8bad079bd1",
-    "title": "M4.5 earthquake, Kermadec Islands, New Zealand",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-18T12:42:22.533000+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "01bdd04d5acf",
-    "title": "M5.2 earthquake, 55 km NNW of Ruteng, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-18T08:00:06.054000+00:00"
-   },
-   {
-    "id": "fce4048ff117",
-    "title": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-18T06:30:35+00:00"
-   },
-   {
-    "id": "53b0f0078812",
-    "title": "M4.8 earthquake, 31 km SE of Kainantu, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-18T00:28:29.111000+00:00"
-   },
-   {
-    "id": "8c8c35483560",
-    "title": "Green forest fire notification in Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-17T23:12:15+00:00"
    }
   ],
   "Latin America & Caribbean": [
