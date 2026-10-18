@@ -1,16 +1,98 @@
 {
- "generated": "2026-10-17T22:31:37.129103+00:00",
+ "generated": "2026-10-18T00:22:08.996254+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 96,
+  "2": 104,
   "3": 34,
-  "4": 1,
+  "4": 3,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
+  "Middle East & N. Africa": [
+   {
+    "id": "5aba05ef7df6",
+    "title": "Wife of Andy Burnham national security adviser faces no further action over tweet that appeared to support banned terror group Palestine Action",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-18T00:00:00+00:00"
+   },
+   {
+    "id": "fcfbd7ebcb87",
+    "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+    "country": "Israel",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-17T23:40:59+00:00"
+   },
+   {
+    "id": "cc6a08900517",
+    "title": "Airstrike kills 3 children in Yemen , and other Middle East developments",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C1",
+    "time": "2026-10-17T09:30:00+00:00"
+   },
+   {
+    "id": "0d1ec792c1a4",
+    "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T18:26:59+00:00"
+   },
+   {
+    "id": "f8af1785d63a",
+    "title": "Masked settlers attack European diplomats in occupied West Bank",
+    "country": "Palestine",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T17:02:14+00:00"
+   },
+   {
+    "id": "6e0e12f79d6d",
+    "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
+    "country": "UAE",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T11:57:15+00:00"
+   },
+   {
+    "id": "e6404e09f264",
+    "title": "Iran denies being behind Houthi attacks as Aden airport hit",
+    "country": "Saudi Arabia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-17T08:51:59+00:00"
+   },
+   {
+    "id": "9e335a138101",
+    "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T06:41:34+00:00"
+   }
+  ],
   "Sub-Saharan Africa": [
    {
     "id": "f878bfd2a948",
@@ -175,88 +257,6 @@
     "time": "2026-10-17T16:31:46+00:00"
    }
   ],
-  "Middle East & N. Africa": [
-   {
-    "id": "cc6a08900517",
-    "title": "Airstrike kills 3 children in Yemen , and other Middle East developments",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C1",
-    "time": "2026-10-17T09:30:00+00:00"
-   },
-   {
-    "id": "0d1ec792c1a4",
-    "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T18:26:59+00:00"
-   },
-   {
-    "id": "f8af1785d63a",
-    "title": "Masked settlers attack European diplomats in occupied West Bank",
-    "country": "Palestine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T17:02:14+00:00"
-   },
-   {
-    "id": "6e0e12f79d6d",
-    "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
-    "country": "UAE",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T11:57:15+00:00"
-   },
-   {
-    "id": "e6404e09f264",
-    "title": "Iran denies being behind Houthi attacks as Aden airport hit",
-    "country": "Saudi Arabia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-17T08:51:59+00:00"
-   },
-   {
-    "id": "9e335a138101",
-    "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T06:41:34+00:00"
-   },
-   {
-    "id": "53d5be00344c",
-    "title": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
-    "country": "Egypt",
-    "city": "Cairo",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T06:00:32+00:00"
-   },
-   {
-    "id": "014742d46c81",
-    "title": "Healthcare crisis escalating in Yemen’s besieged Taiz",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T01:37:07+00:00"
-   }
-  ],
   "Western Europe": [
    {
     "id": "a3bd131a74f9",
@@ -267,6 +267,16 @@
     "severity": 3,
     "confidence": "C1",
     "time": "2026-10-17T18:00:00+00:00"
+   },
+   {
+    "id": "8366786e03a3",
+    "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches trails",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-17T23:53:08+00:00"
    },
    {
     "id": "958414454d99",
@@ -309,34 +319,24 @@
     "time": "2026-10-17T15:57:40+00:00"
    },
    {
-    "id": "0a2e9c49d0ba",
-    "title": "Protesters across France rally over rising living costs , joining student grievances",
+    "id": "979fe4099e6a",
+    "title": "GALLERY : Fires , looting and tear gas erupt across France during mass protests",
     "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "C1",
-    "time": "2026-10-17T10:00:00+00:00"
+    "time": "2026-10-17T23:30:00+00:00"
    },
    {
-    "id": "ca9e9550df6c",
-    "title": "Students, trade unions and Yellow Vests set to protest across France",
+    "id": "936c103dd9ef",
+    "title": "Hundreds of thousands protest across France over schools , cost of living , and fuel prices",
     "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-17T09:11:24+00:00"
-   },
-   {
-    "id": "89274a86e815",
-    "title": "France: Police and protesters clash in nationwide protests",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-17T08:02:00+00:00"
+    "confidence": "C1",
+    "time": "2026-10-17T23:30:00+00:00"
    }
   ],
   "North America": [
@@ -349,6 +349,46 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-17T09:23:52+00:00"
+   },
+   {
+    "id": "3eacd7cd870f",
+    "title": "Thousands gather in downtown Los Angeles as No Kings rally focuses on voting rights",
+    "country": "United States",
+    "city": "Los Angeles",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C1",
+    "time": "2026-10-17T23:30:00+00:00"
+   },
+   {
+    "id": "3cba4cdd7b9b",
+    "title": "Chicago No Kings protests smaller , focused on midterm early voting",
+    "country": "United States",
+    "city": "Chicago",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-18T00:00:00+00:00"
+   },
+   {
+    "id": "f5062e0ff95e",
+    "title": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T23:24:40+00:00"
+   },
+   {
+    "id": "b3284a6130d1",
+    "title": "New York City police seek suspect in fatal subway station shooting",
+    "country": "United States",
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T22:45:48+00:00"
    },
    {
     "id": "fab660798d9f",
@@ -379,36 +419,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-17T13:00:31+00:00"
-   },
-   {
-    "id": "e3910c84098b",
-    "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T03:11:10+00:00"
-   },
-   {
-    "id": "fae948121766",
-    "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T02:52:59+00:00"
-   },
-   {
-    "id": "04a3e4843482",
-    "title": "M4.9 earthquake, 115 km SW of Puerto Madero, Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-17T01:03:00.020000+00:00"
    }
   ],
   "South Asia": [
@@ -513,16 +523,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-17T11:15:00+00:00"
-   },
-   {
-    "id": "90a38e96d8a4",
-    "title": "M4.6 earthquake, 12 km SSE of Tebario, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-16T22:41:03.562000+00:00"
    }
   ],
   "East & SE Asia": [

@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-17T22:31:37.129103+00:00",
+ "generated": "2026-10-18T00:22:08.996254+00:00",
  "sample": false,
- "count": 512,
+ "count": 523,
  "events": [
   {
    "title": "WHO raises alarm over undetected Ebola cases in DR Congo",
@@ -113,6 +113,62 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Wife of Andy Burnham national security adviser faces no further action over tweet that appeared to support banned terror group Palestine Action",
+   "summary": "",
+   "url": "https://www.dailymail.com/news/article-16217575/Wife-Andy-Burnhams-national-banned-terror-group-Palestine-Action.html",
+   "time": "2026-10-18T00:00:00+00:00",
+   "tier": "C",
+   "category": "terrorism",
+   "country": "Palestine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "dailymail.com (via GDELT)",
+     "url": "https://www.dailymail.com/news/article-16217575/Wife-Andy-Burnhams-national-banned-terror-group-Palestine-Action.html",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "5aba05ef7df6",
+   "flag": "🇵🇸",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.42,
+   "watch": []
+  },
+  {
+   "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+   "time": "2026-10-17T23:40:59+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "fcfbd7ebcb87",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
    "watch": []
   },
   {
@@ -1001,6 +1057,34 @@
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
    "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches trails",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/18/sydney-northern-beaches-teenage-ebike-rider-13-charged-sexual-touching-trails-ntwnfb",
+   "time": "2026-10-17T23:53:08+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/18/sydney-northern-beaches-teenage-ebike-rider-13-charged-sexual-touching-trails-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8366786e03a3",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
    "watch": []
   },
   {
@@ -4273,39 +4357,6 @@
    "watch": []
   },
   {
-   "title": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
-   "summary": "",
-   "url": "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles",
-   "time": "2026-10-14T23:12:08+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "North Korea",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles",
-     "tier": "B"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-15T00:54:25.503697+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "97537b474b16",
-   "flag": "🇰🇵",
-   "region": "East & SE Asia",
-   "baseline": 4.61,
-   "watch": []
-  },
-  {
    "title": "US lifts sanctions on Venezuela’s top legislator",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
@@ -5367,6 +5418,397 @@
    "watch": []
   },
   {
+   "title": "Building set ablaze and more than 1,200 arrested as police clash with protesters across France",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+   "time": "2026-10-18T00:01:12+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "77db549e1dd7",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Chicago No Kings protests smaller , focused on midterm early voting",
+   "summary": "",
+   "url": "https://www.chicagotribune.com/2026/10/17/no-kings-smaller-crowds-vote-early/",
+   "time": "2026-10-18T00:00:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "United States",
+   "city": "Chicago",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "chicagotribune.com (via GDELT)",
+     "url": "https://www.chicagotribune.com/2026/10/17/no-kings-smaller-crowds-vote-early/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "3cba4cdd7b9b",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Protests in France spiral into worst riots in years",
+   "summary": "",
+   "url": "https://www.theadvocate.com.au/story/9370340/protests-in-france-spiral-into-worst-riots-in-years/",
+   "time": "2026-10-18T00:00:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "theadvocate.com.au (via GDELT)",
+     "url": "https://www.theadvocate.com.au/story/9370340/protests-in-france-spiral-into-worst-riots-in-years/",
+     "tier": "C"
+    },
+    {
+     "name": "bordermail.com.au (via GDELT)",
+     "url": "https://www.bordermail.com.au/story/9370340/protests-in-france-spiral-into-worst-riots-in-years/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "C2",
+   "corroboration": 2,
+   "id": "5332b2a02301",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "As France Explodes With Violent Riots , Islamic - Leftist Alliance Flexes Its Muscle Ahead of Elections",
+   "summary": "",
+   "url": "https://redstate.com/kyle-becker/2026/10/17/as-france-explodes-with-violent-riots-islamic-leftist-alliance-flexes-its-muscle-ahead-of-elections-n2208271",
+   "time": "2026-10-17T23:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "redstate.com (via GDELT)",
+     "url": "https://redstate.com/kyle-becker/2026/10/17/as-france-explodes-with-violent-riots-islamic-leftist-alliance-flexes-its-muscle-ahead-of-elections-n2208271",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "72e4ef646d23",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "GALLERY : Fires , looting and tear gas erupt across France during mass protests",
+   "summary": "",
+   "url": "https://nebraska.tv/news/nation-world/gallery-fires-looting-and-tear-gas-erupt-across-france-during-mass-protests",
+   "time": "2026-10-17T23:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "nebraska.tv (via GDELT)",
+     "url": "https://nebraska.tv/news/nation-world/gallery-fires-looting-and-tear-gas-erupt-across-france-during-mass-protests",
+     "tier": "C"
+    },
+    {
+     "name": "komonews.com (via GDELT)",
+     "url": "https://komonews.com/news/nation-world/gallery-fires-looting-and-tear-gas-erupt-across-france-during-mass-protests",
+     "tier": "C"
+    },
+    {
+     "name": "cbs4local.com (via GDELT)",
+     "url": "https://cbs4local.com/news/nation-world/gallery-fires-looting-and-tear-gas-erupt-across-france-during-mass-protests",
+     "tier": "C"
+    },
+    {
+     "name": "kpic.com (via GDELT)",
+     "url": "https://kpic.com/news/nation-world/gallery-fires-looting-and-tear-gas-erupt-across-france-during-mass-protests",
+     "tier": "C"
+    },
+    {
+     "name": "local21news.com (via GDELT)",
+     "url": "https://local21news.com/news/nation-world/gallery-fires-looting-and-tear-gas-erupt-across-france-during-mass-protests",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "C1",
+   "corroboration": 5,
+   "id": "979fe4099e6a",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Hundreds of thousands protest across France over schools , cost of living , and fuel prices",
+   "summary": "",
+   "url": "https://nebraska.tv/news/nation-world/hundreds-of-thousands-protest-across-france-over-schools-cost-of-living-and-fuel-prices",
+   "time": "2026-10-17T23:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "nebraska.tv (via GDELT)",
+     "url": "https://nebraska.tv/news/nation-world/hundreds-of-thousands-protest-across-france-over-schools-cost-of-living-and-fuel-prices",
+     "tier": "C"
+    },
+    {
+     "name": "komonews.com (via GDELT)",
+     "url": "https://komonews.com/news/nation-world/hundreds-of-thousands-protest-across-france-over-schools-cost-of-living-and-fuel-prices",
+     "tier": "C"
+    },
+    {
+     "name": "cbs4local.com (via GDELT)",
+     "url": "https://cbs4local.com/news/nation-world/hundreds-of-thousands-protest-across-france-over-schools-cost-of-living-and-fuel-prices",
+     "tier": "C"
+    },
+    {
+     "name": "kpic.com (via GDELT)",
+     "url": "https://kpic.com/news/nation-world/hundreds-of-thousands-protest-across-france-over-schools-cost-of-living-and-fuel-prices",
+     "tier": "C"
+    },
+    {
+     "name": "local21news.com (via GDELT)",
+     "url": "https://local21news.com/news/nation-world/hundreds-of-thousands-protest-across-france-over-schools-cost-of-living-and-fuel-prices",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "C1",
+   "corroboration": 5,
+   "id": "936c103dd9ef",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Hot Takes : Internet Rips CBS News for the Worst Tweet on French Riots Since Mostly Peaceful",
+   "summary": "",
+   "url": "https://redstate.com/nick-arama/2026/10/17/hot-takes-media-has-a-replacement-for-mostly-peaceful-protests-n2208272",
+   "time": "2026-10-17T23:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "redstate.com (via GDELT)",
+     "url": "https://redstate.com/nick-arama/2026/10/17/hot-takes-media-has-a-replacement-for-mostly-peaceful-protests-n2208272",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "cce24c0310f8",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "France shaken by fiery street protests uniting students , workers and yellow vests",
+   "summary": "",
+   "url": "https://www.cbc.ca/news/world/french-student-protest-9.7385328",
+   "time": "2026-10-17T23:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "cbc.ca (via GDELT)",
+     "url": "https://www.cbc.ca/news/world/french-student-protest-9.7385328",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "ab108c8975b1",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Thousands gather in downtown Los Angeles as No Kings rally focuses on voting rights",
+   "summary": "",
+   "url": "https://www.whittierdailynews.com/2026/10/17/thousands-gather-in-downtown-los-angeles-as-no-kings-rally-focuses-on-voting-rights/",
+   "time": "2026-10-17T23:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "United States",
+   "city": "Los Angeles",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "whittierdailynews.com (via GDELT)",
+     "url": "https://www.whittierdailynews.com/2026/10/17/thousands-gather-in-downtown-los-angeles-as-no-kings-rally-focuses-on-voting-rights/",
+     "tier": "C"
+    },
+    {
+     "name": "pasadenastarnews.com (via GDELT)",
+     "url": "https://www.pasadenastarnews.com/2026/10/17/thousands-gather-in-downtown-los-angeles-as-no-kings-rally-focuses-on-voting-rights/",
+     "tier": "C"
+    },
+    {
+     "name": "dailybreeze.com (via GDELT)",
+     "url": "https://www.dailybreeze.com/2026/10/17/thousands-gather-in-downtown-los-angeles-as-no-kings-rally-focuses-on-voting-rights/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "C1",
+   "corroboration": 3,
+   "id": "3eacd7cd870f",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico",
+   "time": "2026-10-17T23:24:40+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Mexico",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f5062e0ff95e",
+   "flag": "🇲🇽",
+   "region": "North America",
+   "baseline": 3.32,
+   "watch": []
+  },
+  {
+   "title": "New York City police seek suspect in fatal subway station shooting",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
+   "time": "2026-10-17T22:45:48+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "United States",
+   "city": "New York",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b3284a6130d1",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "No room for violence , says Macron after rioters and looters hijack peaceful demonstrations across France",
+   "summary": "",
+   "url": "https://www.euronews.com/2026/10/17/no-room-for-violence-says-macron-after-rioters-and-looters-hijack-peaceful-demonstrations-",
+   "time": "2026-10-17T22:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "euronews.com (via GDELT)",
+     "url": "https://www.euronews.com/2026/10/17/no-room-for-violence-says-macron-after-rioters-and-looters-hijack-peaceful-demonstrations-",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "9d2fd876b11d",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
    "title": "Romanian F-16s down two jet-powered drones after airspace incursion",
    "summary": "",
    "url": "https://kyivindependent.com/romanian-f-16s-down-two-jet-powered-drones-after-airspace-incursion/",
@@ -5392,6 +5834,34 @@
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "How day of protests unfolded as disorder breaks out across France",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-17T21:33:17+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T00:22:08.996254+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "dacca6c0068b",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -5439,11 +5909,21 @@
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
      "tier": "B"
+    },
+    {
+     "name": "dominicanrepublicpost.com (via GDELT)",
+     "url": "https://dominicanrepublicpost.com/cost-of-living-protests-hit-belgium-italy-portugal-and-france/",
+     "tier": "C"
+    },
+    {
+     "name": "aljazeera.com (via GDELT)",
+     "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france",
+     "tier": "C"
     }
    ],
    "first_seen": "2026-10-17T22:31:37.129103+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B1",
+   "corroboration": 3,
    "id": "a37f35b87e6a",
    "flag": "🇧🇪",
    "region": "Western Europe",
@@ -6408,11 +6888,111 @@
      "name": "dailyadvance.com (via GDELT)",
      "url": "http://www.dailyadvance.com/news/world/clashes-and-fires-break-out-as-protesters-rally-across-france-joining-students/article_b8a1ba54-5f68-5c3b-8fdd-b557857a7a20.html",
      "tier": "C"
+    },
+    {
+     "name": "worcesternews.co.uk (via GDELT)",
+     "url": "https://www.worcesternews.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "islingtongazette.co.uk (via GDELT)",
+     "url": "https://www.islingtongazette.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "bracknellnews.co.uk (via GDELT)",
+     "url": "https://www.bracknellnews.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "london-now.co.uk (via GDELT)",
+     "url": "https://www.london-now.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "warringtonguardian.co.uk (via GDELT)",
+     "url": "https://www.warringtonguardian.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "richmondandtwickenhamtimes.co.uk (via GDELT)",
+     "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "halesowennews.co.uk (via GDELT)",
+     "url": "https://www.halesowennews.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "northwichguardian.co.uk (via GDELT)",
+     "url": "https://www.northwichguardian.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "countypress.co.uk (via GDELT)",
+     "url": "https://www.countypress.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "greenocktelegraph.co.uk (via GDELT)",
+     "url": "https://www.greenocktelegraph.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "eastlondonadvertiser.co.uk (via GDELT)",
+     "url": "https://www.eastlondonadvertiser.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "brentwoodlive.co.uk (via GDELT)",
+     "url": "https://www.brentwoodlive.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "harrowtimes.co.uk (via GDELT)",
+     "url": "https://www.harrowtimes.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "gazetteandherald.co.uk (via GDELT)",
+     "url": "https://www.gazetteandherald.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "wsvn.com (via GDELT)",
+     "url": "https://wsvn.com/news/us-world/clashes-fires-and-looting-break-out-as-protesters-rally-across-france-joining-students/",
+     "tier": "C"
+    },
+    {
+     "name": "eadt.co.uk (via GDELT)",
+     "url": "https://www.eadt.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "hexham-courant.co.uk (via GDELT)",
+     "url": "https://www.hexham-courant.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "wandsworthguardian.co.uk (via GDELT)",
+     "url": "https://www.wandsworthguardian.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "bromsgroveadvertiser.co.uk (via GDELT)",
+     "url": "https://www.bromsgroveadvertiser.co.uk/news/national/26646791.clashes-fires-looting-break-protesters-rally-across-france/",
+     "tier": "C"
+    },
+    {
+     "name": "eldoradonews.com (via GDELT)",
+     "url": "https://www.eldoradonews.com/news/2026/oct/17/clashes-and-fires-break-out-as-protesters-rally/",
+     "tier": "C"
     }
    ],
    "first_seen": "2026-10-17T17:56:24.437706+00:00",
    "confidence": "B1",
-   "corroboration": 7,
+   "corroboration": 27,
    "id": "1b0cc78b9bd9",
    "flag": "🇫🇷",
    "region": "Western Europe",
@@ -10479,34 +11059,6 @@
    "watch": []
   },
   {
-   "title": "Are student protests being manipulated ahead of France's presidential election?",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-15T23:25:06+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-16T00:35:29.548002+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3faa994da006",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Green forest fire notification in Brazil",
    "summary": "On 09/10/2026, a forest fire started in Brazil, until 17/10/2026.",
    "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032840",
@@ -13074,95 +13626,6 @@
    "flag": "🇵🇦",
    "region": "Latin America & Caribbean",
    "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 24 km SW of Zapotillo, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wz",
-   "time": "2026-10-12T23:45:13.532000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.8267,
-   "lon": -81.6339,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wz",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-13T16:20:59.584623+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "d7c52ce14287",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI>=VII).",
-   "summary": "On 10/12/2026 11:20:36 PM, an earthquake occurred in Panama potentially affecting 1 thousand (in MMI>=VII). The earthquake had Magnitude 6.1M, Depth:10km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1571161",
-   "time": "2026-10-12T23:34:20+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.7028,
-   "lon": -81.4989,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1571161",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-13T01:33:05.805082+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "abe9acdac860",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
-   "time": "2026-10-12T23:09:50+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Mexico",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
-     "tier": "B"
-    },
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T01:33:05.805082+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "c9892857c8ab",
-   "flag": "🇲🇽",
-   "region": "North America",
-   "baseline": 3.32,
    "watch": []
   },
   {
