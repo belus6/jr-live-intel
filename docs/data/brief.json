@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-18T04:56:26.365911+00:00",
+ "generated": "2026-10-18T09:23:53.485331+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 101,
-  "3": 36,
+  "2": 91,
+  "3": 30,
   "4": 3,
   "5": 0
  },
@@ -41,6 +41,16 @@
     "severity": 3,
     "confidence": "C1",
     "time": "2026-10-17T09:30:00+00:00"
+   },
+   {
+    "id": "a139933bd0d2",
+    "title": "Sudanese gold miners describe deadly airstrike that killed 72",
+    "country": "Egypt",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-18T07:58:18+00:00"
    },
    {
     "id": "0cf97766da4e",
@@ -81,16 +91,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-17T11:57:15+00:00"
-   },
-   {
-    "id": "e6404e09f264",
-    "title": "Iran denies being behind Houthi attacks as Aden airport hit",
-    "country": "Saudi Arabia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-17T08:51:59+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -103,6 +103,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-17T11:16:09+00:00"
+   },
+   {
+    "id": "2549c66cfe73",
+    "title": "Nigeria's Army Chief of Staff visits troops in Borno after deaths of 15 soliders",
+    "country": "Nigeria",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-18T08:46:12+00:00"
    },
    {
     "id": "b19bfd057cad",
@@ -163,16 +173,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-17T19:00:00+00:00"
-   },
-   {
-    "id": "2e221ac34bad",
-    "title": "Kenya confirms four more Ebola cases, bringing total to seven",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T16:48:46+00:00"
    }
   ],
   "Eastern Europe": [
@@ -207,14 +207,24 @@
     "time": "2026-10-18T01:10:25+00:00"
    },
    {
-    "id": "4012dccb9a52",
-    "title": "Anger over Kyiv's winter preparations fuels calls for Mayor Klitschko to resign",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "political",
+    "id": "532247d3b7ba",
+    "title": "Zelensky tells Trump Russia keeps violating his energy ceasefire",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
     "severity": 3,
-    "confidence": "C2",
-    "time": "2026-10-17T09:10:00+00:00"
+    "confidence": "C4",
+    "time": "2026-10-18T08:35:06+00:00"
+   },
+   {
+    "id": "8329049a4f6f",
+    "title": "General Staff: Russia has lost 1,565,060 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-18T06:37:19+00:00"
    },
    {
     "id": "3af4dfff8905",
@@ -245,16 +255,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-17T19:26:13+00:00"
-   },
-   {
-    "id": "ab3c01c98677",
-    "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T17:24:07+00:00"
    }
   ],
   "Western Europe": [
@@ -351,16 +351,6 @@
     "time": "2026-10-18T04:36:10+00:00"
    },
    {
-    "id": "af7b0805b8b6",
-    "title": "Trump waives new Russia sanctions as Ukraine ties slump",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-17T09:23:52+00:00"
-   },
-   {
     "id": "3eacd7cd870f",
     "title": "Thousands gather in downtown Los Angeles as No Kings rally focuses on voting rights",
     "country": "United States",
@@ -419,29 +409,19 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-17T14:28:07+00:00"
+   },
+   {
+    "id": "f390f531abf5",
+    "title": "M5.2 earthquake, 86 km SW of Brisas Barra de Suchiate, Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-17T13:59:34.575000+00:00"
    }
   ],
   "South Asia": [
-   {
-    "id": "0bbd65d0a41b",
-    "title": "M5.7 earthquake, 48 km WNW of Khuzdar, Pakistan",
-    "country": "Pakistan",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-17T05:06:57.657000+00:00"
-   },
-   {
-    "id": "9ed43f1782b0",
-    "title": "Despite India strong missive , US lawmakers push narrative on protests against EC ask Rubio to take up",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-17T05:30:00+00:00"
-   },
    {
     "id": "c02137a731bf",
     "title": "India: Police crack down on New Delhi protests",
@@ -463,24 +443,24 @@
     "time": "2026-10-17T09:30:00+00:00"
    },
    {
-    "id": "6b3b0aa780c5",
-    "title": "Address Telangana concerns first : BJYM Ganesh Kunde slams Revanth Reddy for joining Delhi protests",
+    "id": "c89499e8a984",
+    "title": "India's 'cockroach' movement founder released from police custody",
     "country": "India",
-    "city": "Delhi",
+    "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-17T05:45:00+00:00"
+    "confidence": "B3",
+    "time": "2026-10-18T05:47:00+00:00"
    },
    {
-    "id": "9ebce63c1854",
-    "title": "Rahul Gandhi brought aspirations , indignation of younger generation onto streets : Congres Amit Chavda amid Delhi protests",
+    "id": "66de267c514f",
+    "title": "AI tool helps stranded protesters find their way home in the Indian capital",
     "country": "India",
-    "city": "Delhi",
+    "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-17T05:00:00+00:00"
+    "confidence": "B3",
+    "time": "2026-10-18T05:37:36+00:00"
    },
    {
     "id": "bcf043d30a4a",
@@ -501,9 +481,49 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-17T17:45:00+00:00"
+   },
+   {
+    "id": "e5a222d92b16",
+    "title": "CJP Founder Abhijeet Dipke Granted Conditional Bail After Delhi Tiranga Rally Arrest",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-17T17:30:00+00:00"
+   },
+   {
+    "id": "dd3a4fb9f5d6",
+    "title": "Women protest in New Delhi against police brutality",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-17T12:07:15+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "01bdd04d5acf",
+    "title": "M5.2 earthquake, 55 km NNW of Ruteng, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-18T08:00:06.054000+00:00"
+   },
+   {
+    "id": "fce4048ff117",
+    "title": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-18T06:30:35+00:00"
+   },
    {
     "id": "53b0f0078812",
     "title": "M4.8 earthquake, 31 km SE of Kainantu, Papua New Guinea",
@@ -515,6 +535,26 @@
     "time": "2026-10-18T00:28:29.111000+00:00"
    },
    {
+    "id": "8c8c35483560",
+    "title": "Green forest fire notification in Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-17T23:12:15+00:00"
+   },
+   {
+    "id": "f8ab83a0566c",
+    "title": "M4.6 earthquake, 70 km W of Tambolaka, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-17T12:46:23.796000+00:00"
+   },
+   {
     "id": "8f018ee9ebf0",
     "title": "Bank of England governor walks out of IMF summit in protest against Russia",
     "country": "Thailand",
@@ -523,26 +563,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-17T12:15:37+00:00"
-   },
-   {
-    "id": "e84183b34d16",
-    "title": "Murder in Malaysia: Justice for Altantuya Shaariibuu",
-    "country": "Malaysia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T08:40:47+00:00"
-   },
-   {
-    "id": "c61800f2110f",
-    "title": "M4.5 earthquake, 59 km NNW of Ruteng, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-17T07:20:48.242000+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -565,28 +585,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-17T11:15:00+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "970983f0ef8b",
-    "title": "M4.5 earthquake, 80 km NW of Sola, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-17T07:40:02.596000+00:00"
-   },
-   {
-    "id": "b7f4e16fa480",
-    "title": "Three Mexicans jailed for 158 years each for killing Australian, US surfers",
-    "country": "Australia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T05:01:14+00:00"
    }
   ]
  }
