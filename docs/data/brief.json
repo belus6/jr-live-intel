@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-18T21:24:31.250565+00:00",
+ "generated": "2026-10-18T23:31:40.216705+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 78,
-  "3": 29,
+  "2": 72,
+  "3": 31,
   "4": 9,
   "5": 1
  },
@@ -53,6 +53,26 @@
     "time": "2026-10-18T01:10:25+00:00"
    },
    {
+    "id": "107cff184004",
+    "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T23:20:15+00:00"
+   },
+   {
+    "id": "62e71236271d",
+    "title": "Trump defends Russia sanctions relief, blasts Zelensky on peace",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T21:59:34+00:00"
+   },
+   {
     "id": "1d320b628e68",
     "title": "US Treasury Secretary downplays Russia sanctions waiver, warns Zelensky to 'be careful'",
     "country": "Russia",
@@ -71,26 +91,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-18T20:20:34+00:00"
-   },
-   {
-    "id": "6f6ead1f52b4",
-    "title": "Ukraine war latest: St. Petersburg slammed by drones in mass Ukrainian attack",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-18T16:27:13+00:00"
-   },
-   {
-    "id": "7a580b077847",
-    "title": "US resumes intel sharing on Russian missile launches with Ukraine, Zelensky says",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-18T15:10:51+00:00"
    }
   ],
   "South Asia": [
@@ -319,24 +319,24 @@
     "time": "2026-10-18T14:26:11+00:00"
    },
    {
-    "id": "979fe4099e6a",
-    "title": "GALLERY : Fires , looting and tear gas erupt across France during mass protests",
+    "id": "63eb04467ba4",
+    "title": "Paris protests: A look at the aftermath",
     "country": "France",
-    "city": null,
+    "city": "Paris",
     "category": "unrest",
     "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-17T23:30:00+00:00"
+    "confidence": "B1",
+    "time": "2026-10-18T11:51:33+00:00"
    },
    {
-    "id": "936c103dd9ef",
-    "title": "Hundreds of thousands protest across France over schools , cost of living , and fuel prices",
+    "id": "164f3f1d57f7",
+    "title": "France: Paris, Lyon and Marseille count the cost after violent protests",
     "country": "France",
-    "city": null,
+    "city": "Paris",
     "category": "unrest",
     "severity": 2,
     "confidence": "C1",
-    "time": "2026-10-17T23:30:00+00:00"
+    "time": "2026-10-18T15:56:57+00:00"
    }
   ],
   "North America": [
@@ -359,16 +359,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-18T04:36:10+00:00"
-   },
-   {
-    "id": "3eacd7cd870f",
-    "title": "Thousands gather in downtown Los Angeles as No Kings rally focuses on voting rights",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-17T23:30:00+00:00"
    },
    {
     "id": "c8a4955880a7",
@@ -409,16 +399,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-18T00:00:00+00:00"
-   },
-   {
-    "id": "f5062e0ff95e",
-    "title": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T23:24:40+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -453,29 +433,17 @@
     "time": "2026-10-18T19:00:42+00:00"
    }
   ],
-  "Latin America & Caribbean": [
+  "Oceania": [
    {
-    "id": "e5f567b9c200",
-    "title": "More than 7 , 900 Homes Assessed and 1 , 952 with Total Damage Caused by the Earthquake in Panama .",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-18T21:00:00+00:00"
-   },
-   {
-    "id": "ea209baf92d0",
-    "title": "M4.5 earthquake, 0 km NE of Río Grande, Panama",
-    "country": "Panama",
+    "id": "06bd9d8d71af",
+    "title": "M4.5 earthquake, Fiji region",
+    "country": "Fiji",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-18T16:12:55.030000+00:00"
-   }
-  ],
-  "Oceania": [
+    "time": "2026-10-18T22:34:22.230000+00:00"
+   },
    {
     "id": "1d3dd9e55fd5",
     "title": "M5.2 earthquake, 71 km ESE of ‘Ohonua, Tonga",
@@ -498,6 +466,16 @@
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "f80abc357bf0",
+    "title": "M4.7 earthquake, 147 km SSW of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-18T22:06:13.969000+00:00"
+   },
    {
     "id": "7e5b87e13d6a",
     "title": "Dozens of critically endangered orangutans saved from rampant wildfires in Indonesia",
@@ -537,16 +515,28 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-18T00:28:29.111000+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "e5f567b9c200",
+    "title": "More than 7 , 900 Homes Assessed and 1 , 952 with Total Damage Caused by the Earthquake in Panama .",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-18T21:00:00+00:00"
    },
    {
-    "id": "8c8c35483560",
-    "title": "Green forest fire notification in Indonesia",
-    "country": "Indonesia",
+    "id": "ea209baf92d0",
+    "title": "M4.5 earthquake, 0 km NE of Río Grande, Panama",
+    "country": "Panama",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-17T23:12:15+00:00"
+    "time": "2026-10-18T16:12:55.030000+00:00"
    }
   ]
  }

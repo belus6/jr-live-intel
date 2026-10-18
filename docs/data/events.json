@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-18T21:24:31.250565+00:00",
+ "generated": "2026-10-18T23:31:40.216705+00:00",
  "sample": false,
- "count": 509,
+ "count": 511,
  "events": [
   {
    "title": "News from occupied Ukraine: 11 Ukrainians, including 96-year-old woman, evacuated from Russian occupation",
@@ -963,6 +963,62 @@
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
    "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-18T23:20:15+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T23:31:40.216705+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "107cff184004",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Trump defends Russia sanctions relief, blasts Zelensky on peace",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
+   "time": "2026-10-18T21:59:34+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T23:31:40.216705+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "62e71236271d",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -3920,34 +3976,6 @@
    "watch": []
   },
   {
-   "title": "South Sudan Clashes Kill at Least 16 People",
-   "summary": "",
-   "url": "https://www.riotimesonline.com/south-sudan-tonj-east-clashes-16-killed-2026/",
-   "time": "2026-10-15T21:45:00+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Sudan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "riotimesonline.com (via GDELT)",
-     "url": "https://www.riotimesonline.com/south-sudan-tonj-east-clashes-16-killed-2026/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-15T22:24:34.061024+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "3d792756652d",
-   "flag": "🇸🇩",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.76,
-   "watch": []
-  },
-  {
    "title": "Donald Trump 'openly financing Russia's war with Ukraine', Nobel peace laureate says",
    "summary": "",
    "url": "https://www.france24.com/en/donald-trump-openly-financing-russia-s-war-with-ukraine-nobel-peace-laureate-says",
@@ -5009,6 +5037,90 @@
    "watch": []
   },
   {
+   "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+   "time": "2026-10-18T23:06:16+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Israel",
+   "city": "Tel Aviv",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T23:31:40.216705+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8273c170571b",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, Fiji region",
+   "summary": "Depth 552 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38i",
+   "time": "2026-10-18T22:34:22.230000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Fiji",
+   "city": null,
+   "lat": -20.9271,
+   "lon": -178.6587,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38i",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-18T23:31:40.216705+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "06bd9d8d71af",
+   "flag": "🇫🇯",
+   "region": "Oceania",
+   "baseline": 2.12,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 147 km SSW of Kokopo, Papua New Guinea",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
+   "time": "2026-10-18T22:06:13.969000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -5.6049,
+   "lon": 151.8407,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-18T23:31:40.216705+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "f80abc357bf0",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
+   "watch": []
+  },
+  {
    "title": "Macron condemns violence after riots lead to looting and mass arrests",
    "summary": "",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
@@ -5490,6 +5602,34 @@
    "watch": []
   },
   {
+   "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+   "time": "2026-10-18T18:57:48+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T23:31:40.216705+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "63f540180872",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
    "title": "Macron says 'nothing justifies' violence in protests during address to nation",
    "summary": "",
    "url": "https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation",
@@ -5777,6 +5917,62 @@
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
+   "time": "2026-10-18T15:08:18+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": "Tirana",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T23:31:40.216705+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "adf527a7d9f3",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Sudan",
+   "summary": "On 13/10/2026, a forest fire started in Sudan, until 18/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032875",
+   "time": "2026-10-18T15:02:32+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Sudan",
+   "city": null,
+   "lat": 9.891057346986056,
+   "lon": 24.702469015436694,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032875",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-18T23:31:40.216705+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "5845a3df04eb",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
    "watch": []
   },
   {
@@ -10256,90 +10452,6 @@
    "watch": []
   },
   {
-   "title": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – US politics live",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-   "time": "2026-10-16T23:31:38+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Georgia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-16T23:54:01.934108+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "08c431dac9fa",
-   "flag": "🇬🇪",
-   "region": "Eastern Europe",
-   "baseline": 2.39,
-   "watch": []
-  },
-  {
-   "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-16T23:07:18+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Germany",
-   "city": "Hamburg",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-16T23:54:01.934108+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b84ed0748950",
-   "flag": "🇩🇪",
-   "region": "Western Europe",
-   "baseline": 1.07,
-   "watch": []
-  },
-  {
-   "title": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff",
-   "time": "2026-10-16T22:59:37+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Georgia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-16T23:54:01.934108+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "317ae4c7b506",
-   "flag": "🇬🇪",
-   "region": "Eastern Europe",
-   "baseline": 2.39,
-   "watch": []
-  },
-  {
    "title": "M4.6 earthquake, 12 km SSE of Tebario, Panama",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2wn",
@@ -13031,62 +13143,6 @@
    "flag": "🇨🇱",
    "region": "Latin America & Caribbean",
    "baseline": 1.62,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Nigeria",
-   "summary": "On 07/10/2026, a forest fire started in Nigeria, until 13/10/2026.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032793",
-   "time": "2026-10-13T23:06:16+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Nigeria",
-   "city": null,
-   "lat": 12.742243146178671,
-   "lon": 13.922644863687967,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032793",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-14T00:29:31.232356+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "c72ab7dce60c",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
-   "watch": []
-  },
-  {
-   "title": "Intense waves and floods batter California waterfront homes and boardwalks",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
-   "time": "2026-10-13T21:29:08+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Mexico",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-14T00:29:31.232356+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c735e8c51222",
-   "flag": "🇲🇽",
-   "region": "North America",
-   "baseline": 3.32,
    "watch": []
   },
   {
