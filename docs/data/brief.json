@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-18T18:59:19.661832+00:00",
+ "generated": "2026-10-18T21:24:31.250565+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
   "2": 78,
-  "3": 25,
-  "4": 7,
+  "3": 29,
+  "4": 9,
   "5": 1
  },
  "watch_hits": [],
@@ -53,6 +53,26 @@
     "time": "2026-10-18T01:10:25+00:00"
    },
    {
+    "id": "1d320b628e68",
+    "title": "US Treasury Secretary downplays Russia sanctions waiver, warns Zelensky to 'be careful'",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-18T21:09:30+00:00"
+   },
+   {
+    "id": "3cd7e6a07fa7",
+    "title": "Russian ballistic missiles slam Kyiv right as air raid alarms sound",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-18T20:20:34+00:00"
+   },
+   {
     "id": "6f6ead1f52b4",
     "title": "Ukraine war latest: St. Petersburg slammed by drones in mass Ukrainian attack",
     "country": "Ukraine",
@@ -71,26 +91,88 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-18T15:10:51+00:00"
-   },
+   }
+  ],
+  "South Asia": [
    {
-    "id": "ce96066b1a17",
-    "title": "Russia: Huge flames and smoke rise over St Petersburg after drone strikes",
-    "country": "Russia",
+    "id": "89f5c1d88a0c",
+    "title": "Emergency rule in Khyber Pakhtunkhwa exposes decades of state - sponsored terrorism and authoritarian crackdown in Pakistan",
+    "country": "Pakistan",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-18T14:45:38+00:00"
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C2",
+    "time": "2026-10-18T19:15:00+00:00"
    },
    {
-    "id": "2be51e458cff",
-    "title": "Ukrainian drone attack on Saint Petersburg kills one, sets refinery ablaze",
-    "country": "Russia",
-    "city": "Saint Petersburg",
-    "category": "conflict",
-    "severity": 3,
+    "id": "e59e1e45e2a0",
+    "title": "Political rivals implicated under Pakistan's anti-terror law",
+    "country": "Pakistan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-18T12:03:23+00:00"
+    "time": "2026-10-18T21:00:11+00:00"
+   },
+   {
+    "id": "c098bbd4b58b",
+    "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
+    "country": "India",
+    "city": "Mumbai",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-18T17:58:49+00:00"
+   },
+   {
+    "id": "02208be85fbd",
+    "title": "Ankita Bhandari murder case : Uttarakhand protesters stopped at India Gate",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-18T20:45:00+00:00"
+   },
+   {
+    "id": "f62c6cbf03a9",
+    "title": "India’s crackdown on cockroaches, critics and cameras",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-18T19:31:45+00:00"
+   },
+   {
+    "id": "95ba100f4d5f",
+    "title": "Global left - wing nexus behind domestic protests in India",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-18T19:15:00+00:00"
+   },
+   {
+    "id": "c89499e8a984",
+    "title": "India's 'cockroach' movement founder released from police custody",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-18T05:47:00+00:00"
+   },
+   {
+    "id": "66de267c514f",
+    "title": "AI tool helps stranded protesters find their way home in the Indian capital",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-18T05:37:36+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -125,6 +207,26 @@
     "time": "2026-10-17T23:40:59+00:00"
    },
    {
+    "id": "0969fab79841",
+    "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T21:00:08+00:00"
+   },
+   {
+    "id": "d3fb8bb37c63",
+    "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
+    "country": "Saudi Arabia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T18:44:30+00:00"
+   },
+   {
     "id": "ffc42d4be98e",
     "title": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election",
     "country": "Israel",
@@ -153,26 +255,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-18T12:00:04+00:00"
-   },
-   {
-    "id": "6aea19b12d53",
-    "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-18T10:30:00+00:00"
-   },
-   {
-    "id": "7e7df77c6544",
-    "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-18T09:16:54+00:00"
    }
   ],
   "Western Europe": [
@@ -185,6 +267,26 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-18T18:13:11+00:00"
+   },
+   {
+    "id": "868dac99d6cb",
+    "title": "French police arrest 1 , 800 after clashes and looting",
+    "country": "France",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-18T21:00:00+00:00"
+   },
+   {
+    "id": "b4519b7fed5f",
+    "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-18T20:19:22+00:00"
    },
    {
     "id": "8366786e03a3",
@@ -207,6 +309,16 @@
     "time": "2026-10-17T23:53:08+00:00"
    },
    {
+    "id": "c3ca9e55c488",
+    "title": "France protests updates: Macron vows rioters will ‘pay for their crimes’",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-18T14:26:11+00:00"
+   },
+   {
     "id": "979fe4099e6a",
     "title": "GALLERY : Fires , looting and tear gas erupt across France during mass protests",
     "country": "France",
@@ -225,78 +337,6 @@
     "severity": 2,
     "confidence": "C1",
     "time": "2026-10-17T23:30:00+00:00"
-   },
-   {
-    "id": "63eb04467ba4",
-    "title": "Paris protests: A look at the aftermath",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-18T11:51:33+00:00"
-   },
-   {
-    "id": "a37f35b87e6a",
-    "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-    "country": "Belgium",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-17T21:02:26+00:00"
-   },
-   {
-    "id": "c103f728e2be",
-    "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-18T14:50:37+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "c098bbd4b58b",
-    "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
-    "country": "India",
-    "city": "Mumbai",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-18T17:58:49+00:00"
-   },
-   {
-    "id": "c89499e8a984",
-    "title": "India's 'cockroach' movement founder released from police custody",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-18T05:47:00+00:00"
-   },
-   {
-    "id": "66de267c514f",
-    "title": "AI tool helps stranded protesters find their way home in the Indian capital",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-18T05:37:36+00:00"
-   },
-   {
-    "id": "bcf043d30a4a",
-    "title": "Mumbai CEC protest : Actor Imran Khan gets FRRO show - cause notice over OCI status ; moves Bombay HC against Mumbai Police order",
-    "country": "India",
-    "city": "Mumbai",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-17T19:30:00+00:00"
    }
   ],
   "North America": [
@@ -331,6 +371,26 @@
     "time": "2026-10-17T23:30:00+00:00"
    },
    {
+    "id": "c8a4955880a7",
+    "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+    "country": "United States",
+    "city": "Chicago",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-18T21:00:22+00:00"
+   },
+   {
+    "id": "8ee2a46c0d59",
+    "title": "Suspenden protesta contra Lemus por el agua ante denuncias de grupos de choque infiltrados en Guadalajara",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-18T20:45:00+00:00"
+   },
+   {
     "id": "2e4f120a833b",
     "title": "‘Standing up for democracy’: Atlanta ‘No Kings’ rally draws Trump critics ahead of midterms",
     "country": "United States",
@@ -359,16 +419,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-17T23:24:40+00:00"
-   },
-   {
-    "id": "b3284a6130d1",
-    "title": "New York City police seek suspect in fatal subway station shooting",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-17T22:45:48+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -393,57 +443,27 @@
     "time": "2026-10-18T08:46:12+00:00"
    },
    {
-    "id": "d5782c437ff6",
-    "title": "Green forest fire notification in Botswana",
-    "country": "Botswana",
+    "id": "bc6b4e788d75",
+    "title": "Green forest fire notification in Namibia",
+    "country": "Namibia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-17T19:08:58+00:00"
-   },
-   {
-    "id": "14abf1c38efe",
-    "title": "Green forest fire notification in Mali",
-    "country": "Mali",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-17T19:03:27+00:00"
-   },
-   {
-    "id": "9fa30e817ded",
-    "title": "Green forest fire notification in Madagascar",
-    "country": "Madagascar",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-17T19:02:59+00:00"
-   },
-   {
-    "id": "dfed7f4effcd",
-    "title": "Green forest fire notification in Zimbabwe",
-    "country": "Zimbabwe",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-17T19:02:29+00:00"
-   },
-   {
-    "id": "eacae29d9fe4",
-    "title": "Another priest is kidnapped amid Nigeria security crisis",
-    "country": "Nigeria",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-17T19:00:00+00:00"
+    "time": "2026-10-18T19:00:42+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "e5f567b9c200",
+    "title": "More than 7 , 900 Homes Assessed and 1 , 952 with Total Damage Caused by the Earthquake in Panama .",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-18T21:00:00+00:00"
+   },
    {
     "id": "ea209baf92d0",
     "title": "M4.5 earthquake, 0 km NE of Río Grande, Panama",
@@ -456,6 +476,16 @@
    }
   ],
   "Oceania": [
+   {
+    "id": "1d3dd9e55fd5",
+    "title": "M5.2 earthquake, 71 km ESE of ‘Ohonua, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-18T19:32:28.734000+00:00"
+   },
    {
     "id": "fb8bad079bd1",
     "title": "M4.5 earthquake, Kermadec Islands, New Zealand",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-18T18:59:19.661832+00:00",
+ "generated": "2026-10-18T21:24:31.250565+00:00",
  "sample": false,
- "count": 500,
+ "count": 509,
  "events": [
   {
    "title": "News from occupied Ukraine: 11 Ukrainians, including 96-year-old woman, evacuated from Russian occupation",
@@ -113,6 +113,67 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Political rivals implicated under Pakistan's anti-terror law",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
+   "time": "2026-10-18T21:00:11+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Pakistan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e59e1e45e2a0",
+   "flag": "🇵🇰",
+   "region": "South Asia",
+   "baseline": 4.31,
+   "watch": []
+  },
+  {
+   "title": "Emergency rule in Khyber Pakhtunkhwa exposes decades of state - sponsored terrorism and authoritarian crackdown in Pakistan",
+   "summary": "",
+   "url": "http://www.pakistantelegraph.com/news/279383092/emergency-rule-in-khyber-pakhtunkhwa-exposes-decades-of-state-sponsored-terrorism-and-authoritarian-crackdown-in-pakistan",
+   "time": "2026-10-18T19:15:00+00:00",
+   "tier": "C",
+   "category": "terrorism",
+   "country": "Pakistan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "pakistantelegraph.com (via GDELT)",
+     "url": "http://www.pakistantelegraph.com/news/279383092/emergency-rule-in-khyber-pakhtunkhwa-exposes-decades-of-state-sponsored-terrorism-and-authoritarian-crackdown-in-pakistan",
+     "tier": "C"
+    },
+    {
+     "name": "nepalnational.com (via GDELT)",
+     "url": "http://www.nepalnational.com/news/279383092/emergency-rule-in-khyber-pakhtunkhwa-exposes-decades-of-state-sponsored-terrorism-and-authoritarian-crackdown-in-pakistan",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C2",
+   "corroboration": 2,
+   "id": "89f5c1d88a0c",
+   "flag": "🇵🇰",
+   "region": "South Asia",
+   "baseline": 4.31,
    "watch": []
   },
   {
@@ -676,34 +737,6 @@
    "watch": []
   },
   {
-   "title": "French anti-terror investigators probe True Crime Community link to school shooting",
-   "summary": "",
-   "url": "https://www.france24.com/en/french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
-   "time": "2026-10-14T20:58:31+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "France",
-   "city": "Marseille",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-14T22:39:38.354203+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "749e25057ad1",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Venezuela",
    "summary": "FCDO now advises against all travel to Amazonas state and to within 40km (25 miles) of the border with Colombia. FCDO continues to advise against all travel to the Orinoco Mining Arc (‘Arco Minero’) region to the south of the Orinoco river, and within 40km (25 miles) of the border Brazil and Guyana . FCDO advises against all but essential travel to the remaining areas of Venezuela including Zulia ",
    "url": "https://www.gov.uk/foreign-travel-advice/venezuela",
@@ -810,39 +843,6 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "f6ac97ed3840",
-   "flag": "🇵🇰",
-   "region": "South Asia",
-   "baseline": 4.31,
-   "watch": []
-  },
-  {
-   "title": "Pakistan suspends Imran Khan’s party-led provincial government",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
-   "time": "2026-10-11T20:21:13+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Pakistan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
-     "tier": "B"
-    },
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T23:12:47.570028+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "1341d0412735",
    "flag": "🇵🇰",
    "region": "South Asia",
    "baseline": 4.31,
@@ -963,6 +963,174 @@
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
    "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "US Treasury Secretary downplays Russia sanctions waiver, warns Zelensky to 'be careful'",
+   "summary": "",
+   "url": "https://kyivindependent.com/us-treasury-secretary-downplays-russia-sanctions-waiver-warns-zelensky-to-be-careful/",
+   "time": "2026-10-18T21:09:30+00:00",
+   "tier": "C",
+   "category": "political",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/us-treasury-secretary-downplays-russia-sanctions-waiver-warns-zelensky-to-be-careful/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "1d320b628e68",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
+   "time": "2026-10-18T21:00:08+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Palestine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0969fab79841",
+   "flag": "🇵🇸",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.42,
+   "watch": []
+  },
+  {
+   "title": "French police arrest 1 , 800 after clashes and looting",
+   "summary": "",
+   "url": "https://morningstaronline.co.uk/article/french-police-arrest-1800-after-clashes-and-looting",
+   "time": "2026-10-18T21:00:00+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "morningstaronline.co.uk (via GDELT)",
+     "url": "https://morningstaronline.co.uk/article/french-police-arrest-1800-after-clashes-and-looting",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "868dac99d6cb",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Russian ballistic missiles slam Kyiv right as air raid alarms sound",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-right-as-air-raid-alarms-sound/",
+   "time": "2026-10-18T20:20:34+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-right-as-air-raid-alarms-sound/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "3cd7e6a07fa7",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
+   "time": "2026-10-18T20:19:22+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b4519b7fed5f",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
+   "time": "2026-10-18T18:44:30+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Saudi Arabia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "d3fb8bb37c63",
+   "flag": "🇸🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
    "watch": []
   },
   {
@@ -3780,156 +3948,6 @@
    "watch": []
   },
   {
-   "title": "Three years on, Israel still bars foreign journalists from entering Gaza",
-   "summary": "",
-   "url": "https://www.npr.org/2026/10/15/nx-s1-6000378/three-years-on-israel-still-bars-foreign-journalists-from-entering-gaza",
-   "time": "2026-10-15T21:01:50+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/15/nx-s1-6000378/three-years-on-israel-still-bars-foreign-journalists-from-entering-gaza",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-16T21:32:17.903340+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c1e936bd3a84",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Russian drone strikes leave portions of Kyiv without power, fires burning",
-   "summary": "",
-   "url": "https://kyivindependent.com/russian-drone-strikes-leave-portions-of-kyiv-without-power-fires-burning/",
-   "time": "2026-10-15T20:23:14+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-drone-strikes-leave-portions-of-kyiv-without-power-fires-burning/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-16T05:03:05.780574+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "c1797e6d0b09",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-   "time": "2026-10-15T20:00:36+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-15T22:24:34.061024+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "cf10df6509c1",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
-   "title": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-   "time": "2026-10-15T20:00:36+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Saudi Arabia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-16T00:35:29.548002+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "eefa0601cf7b",
-   "flag": "🇸🇦",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
-   "watch": []
-  },
-  {
-   "title": "Houthi attack on palace used by Yemen government in Aden kills five",
-   "summary": "",
-   "url": "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five",
-   "time": "2026-10-15T19:57:48+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five",
-     "tier": "B"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-16T05:03:05.780574+00:00",
-   "confidence": "B1",
-   "corroboration": 3,
-   "id": "5e7dfa53c68a",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
    "title": "Donald Trump 'openly financing Russia's war with Ukraine', Nobel peace laureate says",
    "summary": "",
    "url": "https://www.france24.com/en/donald-trump-openly-financing-russia-s-war-with-ukraine-nobel-peace-laureate-says",
@@ -3955,62 +3973,6 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "UK to resupply Ukraine with more Storm Shadow missiles to strike Russia, Bloomberg reports",
-   "summary": "",
-   "url": "https://kyivindependent.com/uk-to-resupply-ukraine-with-more-storm-shadow-missiles-to-strike-russia-bloomberg-reports/",
-   "time": "2026-10-15T19:26:53+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "United Kingdom",
-   "city": "London",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/uk-to-resupply-ukraine-with-more-storm-shadow-missiles-to-strike-russia-bloomberg-reports/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-15T22:24:34.061024+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "d51073428209",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
-   "watch": []
-  },
-  {
-   "title": "Houthis struck Riyadh airport 20 times in October, Saudi-led coalition says",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/15/houthis-struck-riyadh-airport-20-times-in-october-saudi-led-coalition-says/",
-   "time": "2026-10-15T19:16:57+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Saudi Arabia",
-   "city": "Riyadh",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/15/houthis-struck-riyadh-airport-20-times-in-october-saudi-led-coalition-says/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-15T22:24:34.061024+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "d455363864ef",
-   "flag": "🇸🇦",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
    "watch": []
   },
   {
@@ -5019,34 +4981,6 @@
    "watch": []
   },
   {
-   "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
-   "time": "2026-10-11T19:19:50+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T19:43:43.869349+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4695098a0547",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
    "title": "New York governor declares state of emergency after spike in measles cases",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/oct/06/measles-cases-new-york",
@@ -5072,6 +5006,487 @@
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Macron condemns violence after riots lead to looting and mass arrests",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+   "time": "2026-10-18T21:10:47+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5781abfa8f5b",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-18T21:00:22+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "United States",
+   "city": "Chicago",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c8a4955880a7",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "France Macron vows to hold accountable those who sought to bring down the Republic during major protests",
+   "summary": "",
+   "url": "https://krdo.com/news/national-world/cnn-world/2026/10/18/half-a-million-protesters-sweep-france-in-major-show-of-youth-unrest/",
+   "time": "2026-10-18T21:00:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "krdo.com (via GDELT)",
+     "url": "https://krdo.com/news/national-world/cnn-world/2026/10/18/half-a-million-protesters-sweep-france-in-major-show-of-youth-unrest/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "72a8ded035b4",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Macron shocked by riots sweeping through France | Israel National News",
+   "summary": "",
+   "url": "https://www.israelnationalnews.com/news/434802",
+   "time": "2026-10-18T21:00:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "israelnationalnews.com (via GDELT)",
+     "url": "https://www.israelnationalnews.com/news/434802",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "02b34fe061b5",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "More than 7 , 900 Homes Assessed and 1 , 952 with Total Damage Caused by the Earthquake in Panama .",
+   "summary": "",
+   "url": "https://newsroompanama.com/2026/10/18/more-than-7900-homes-assessed-and-1952-with-total-damage-caused-by-the-earthquake-in-panama/",
+   "time": "2026-10-18T21:00:00+00:00",
+   "tier": "C",
+   "category": "hazard",
+   "country": "Panama",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "newsroompanama.com (via GDELT)",
+     "url": "https://newsroompanama.com/2026/10/18/more-than-7900-homes-assessed-and-1952-with-total-damage-caused-by-the-earthquake-in-panama/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "e5f567b9c200",
+   "flag": "🇵🇦",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.22,
+   "watch": []
+  },
+  {
+   "title": "Ankita Bhandari murder case : Uttarakhand protesters stopped at India Gate",
+   "summary": "",
+   "url": "https://www.tribuneindia.com/news/india/ankita-bhandari-murder-case-uttarakhand-protesters-stopped-at-india-gate/",
+   "time": "2026-10-18T20:45:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "tribuneindia.com (via GDELT)",
+     "url": "https://www.tribuneindia.com/news/india/ankita-bhandari-murder-case-uttarakhand-protesters-stopped-at-india-gate/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "02208be85fbd",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "French woman owner begs rioters not to destroy her shop they push her aside , ransack it , burn Jewish stores and leave Muslim ones alone",
+   "summary": "",
+   "url": "https://humanevents.com/2026/10/18/french-woman-owner-begs-rioters-not-to-destroy-her-shop-they-push-her-aside-ransack-it-burn-jewish-stores-and-leave-muslim-ones-alone",
+   "time": "2026-10-18T20:45:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "humanevents.com (via GDELT)",
+     "url": "https://humanevents.com/2026/10/18/french-woman-owner-begs-rioters-not-to-destroy-her-shop-they-push-her-aside-ransack-it-burn-jewish-stores-and-leave-muslim-ones-alone",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "ae388154bc2d",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Suspenden protesta contra Lemus por el agua ante denuncias de grupos de choque infiltrados en Guadalajara",
+   "summary": "",
+   "url": "https://periodicocorreo.com.mx/nacional/2026/oct/18/suspenden-protesta-contra-lemus-por-el-agua-ante-denuncias-de-grupos-de-choque-infiltrados-en-guadalajara-169402.html",
+   "time": "2026-10-18T20:45:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Mexico",
+   "city": "Guadalajara",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "periodicocorreo.com.mx (via GDELT)",
+     "url": "https://periodicocorreo.com.mx/nacional/2026/oct/18/suspenden-protesta-contra-lemus-por-el-agua-ante-denuncias-de-grupos-de-choque-infiltrados-en-guadalajara-169402.html",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "8ee2a46c0d59",
+   "flag": "🇲🇽",
+   "region": "North America",
+   "baseline": 3.32,
+   "watch": []
+  },
+  {
+   "title": "Macron calls for 'calm and order' after riots across France",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-18T20:33:21+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4ae2ed48c3c2",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M5.2 earthquake, 71 km ESE of ‘Ohonua, Tonga",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
+   "time": "2026-10-18T19:32:28.734000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Tonga",
+   "city": null,
+   "lat": -21.541,
+   "lon": -174.2956,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "1d3dd9e55fd5",
+   "flag": "🇹🇴",
+   "region": "Oceania",
+   "baseline": 1.93,
+   "watch": []
+  },
+  {
+   "title": "India’s crackdown on cockroaches, critics and cameras",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
+   "time": "2026-10-18T19:31:45+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f62c6cbf03a9",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "A weekend in Clermont : Riots and a French rugby giant facing challenges",
+   "summary": "",
+   "url": "https://www.the42.ie/leinster-clermont-riots-7196652-Oct2026/",
+   "time": "2026-10-18T19:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "the42.ie (via GDELT)",
+     "url": "https://www.the42.ie/leinster-clermont-riots-7196652-Oct2026/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "7066fedd4b55",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Macron to address nation after riots and looting lead to 1 , 800 arrests across France",
+   "summary": "",
+   "url": "https://abcnews.com/International/wireStory/macron-address-nation-after-riots-looting-lead-1800-137358854",
+   "time": "2026-10-18T19:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "abcnews.com (via GDELT)",
+     "url": "https://abcnews.com/International/wireStory/macron-address-nation-after-riots-looting-lead-1800-137358854",
+     "tier": "C"
+    },
+    {
+     "name": "lbc.co.uk (via GDELT)",
+     "url": "https://www.lbc.co.uk/article/macron-to-address-france-after-riots-5Hjdk5f_2/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C2",
+   "corroboration": 2,
+   "id": "41daaf88c568",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Global left - wing nexus behind domestic protests in India",
+   "summary": "",
+   "url": "https://organiser.org/2026/10/18/414176/world/how-chinese-funds-soros-linked-groups-and-global-leftist-networks-amplify-protest-in-india-big-expose-by-disinfo-lab/",
+   "time": "2026-10-18T19:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "organiser.org (via GDELT)",
+     "url": "https://organiser.org/2026/10/18/414176/world/how-chinese-funds-soros-linked-groups-and-global-leftist-networks-amplify-protest-in-india-big-expose-by-disinfo-lab/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "95ba100f4d5f",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Macron condemns violent riots in France and promises to help young people build a desirable future - as arrest toll hits 2 , 000",
+   "summary": "",
+   "url": "https://www.lbc.co.uk/article/macron-promises-help-young-people-future-riots-5Hjdk5s_2/",
+   "time": "2026-10-18T19:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "lbc.co.uk (via GDELT)",
+     "url": "https://www.lbc.co.uk/article/macron-promises-help-young-people-future-riots-5Hjdk5s_2/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "4122a5ab143d",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Namibia",
+   "summary": "On 16/10/2026, a forest fire started in Namibia, until 18/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032898",
+   "time": "2026-10-18T19:00:42+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Namibia",
+   "city": null,
+   "lat": -18.94516719237363,
+   "lon": 19.92676127983383,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032898",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "bc6b4e788d75",
+   "flag": "🇳🇦",
+   "region": "Sub-Saharan Africa",
+   "baseline": 1.93,
+   "watch": []
+  },
+  {
+   "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,000 arrests across France",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+   "time": "2026-10-18T18:57:48+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a475de54f987",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -5287,11 +5702,21 @@
      "name": "Africanews",
      "url": "http://www.africanews.com/2026/10/18/france-paris-lyon-and-marseille-count-the-cost-after-violent-protests/",
      "tier": "C"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261018-paris-police-in-new-battles-with-protesters-and-looters",
+     "tier": "B"
+    },
+    {
+     "name": "fox8live.com (via GDELT)",
+     "url": "https://www.fox8live.com/2026/10/18/nfl-says-saints-steelers-game-paris-still-french-police-arrest-1800-violent-protests/",
+     "tier": "C"
     }
    ],
    "first_seen": "2026-10-18T18:59:19.661832+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
+   "confidence": "C1",
+   "corroboration": 3,
    "id": "164f3f1d57f7",
    "flag": "🇫🇷",
    "region": "Western Europe",
@@ -5443,6 +5868,54 @@
    "confidence": "B2",
    "corroboration": 2,
    "id": "930e354bc6ad",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "France protests updates: Macron vows rioters will ‘pay for their crimes’",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss",
+   "time": "2026-10-18T14:26:11+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss",
+     "tier": "B"
+    },
+    {
+     "name": "standard.net.au (via GDELT)",
+     "url": "https://www.standard.net.au/story/9370663/macron-vows-rioters-will-pay-after-french-street-unrest/",
+     "tier": "C"
+    },
+    {
+     "name": "katherinetimes.com.au (via GDELT)",
+     "url": "https://www.katherinetimes.com.au/story/9370663/macron-vows-rioters-will-pay-after-french-street-unrest/",
+     "tier": "C"
+    },
+    {
+     "name": "macleayargus.com.au (via GDELT)",
+     "url": "https://www.macleayargus.com.au/story/9370663/macron-vows-rioters-will-pay-after-french-street-unrest/",
+     "tier": "C"
+    },
+    {
+     "name": "newcastleherald.com.au (via GDELT)",
+     "url": "https://www.newcastleherald.com.au/story/9370663/macron-vows-rioters-will-pay-after-french-street-unrest/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-18T21:24:31.250565+00:00",
+   "confidence": "B1",
+   "corroboration": 5,
+   "id": "c3ca9e55c488",
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
@@ -5671,11 +6144,16 @@
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
      "tier": "B"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-18T13:26:17.272619+00:00",
    "confidence": "B1",
-   "corroboration": 3,
+   "corroboration": 4,
    "id": "63eb04467ba4",
    "flag": "🇫🇷",
    "region": "Western Europe",
@@ -5760,11 +6238,16 @@
      "name": "The Guardian World",
      "url": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
      "tier": "B"
+    },
+    {
+     "name": "vanityfair.com (via GDELT)",
+     "url": "https://www.vanityfair.com/story/milan-paris-europe-protests",
+     "tier": "C"
     }
    ],
    "first_seen": "2026-10-18T13:26:17.272619+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B2",
+   "corroboration": 2,
    "id": "f6d944e5858f",
    "flag": "🇮🇹",
    "region": "Western Europe",
@@ -9941,34 +10424,6 @@
    "watch": []
   },
   {
-   "title": "Trump rallies in Georgia as new White House press secretary is fired after five days on the job - live",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-   "time": "2026-10-16T21:22:03+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Georgia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-16T21:32:17.903340+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d85f73790c11",
-   "flag": "🇬🇪",
-   "region": "Eastern Europe",
-   "baseline": 2.39,
-   "watch": []
-  },
-  {
    "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
    "summary": "",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
@@ -9997,34 +10452,6 @@
    "watch": []
   },
   {
-   "title": "Clashes grip Tirana as Albanian PM blames 'foreign hands' for mounting unrest",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands",
-   "time": "2026-10-16T19:59:23+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Albania",
-   "city": "Tirana",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-16T21:32:17.903340+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ca152ea260a2",
-   "flag": "🇦🇱",
-   "region": "Eastern Europe",
-   "baseline": 2.14,
-   "watch": []
-  },
-  {
    "title": "M5.2 earthquake, off the coast of Ecuador",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2v8",
@@ -10050,34 +10477,6 @@
    "flag": "🇪🇨",
    "region": "Latin America & Caribbean",
    "baseline": 3.18,
-   "watch": []
-  },
-  {
-   "title": "Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli",
-   "time": "2026-10-16T19:21:33+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-16T21:32:17.903340+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "6c1387f3e046",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
    "watch": []
   },
   {
@@ -12691,34 +13090,6 @@
    "watch": []
   },
   {
-   "title": "M4.8 earthquake, 5 km NW of Cepitá, Colombia",
-   "summary": "Depth 162 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u25i",
-   "time": "2026-10-13T21:24:21.135000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Colombia",
-   "city": null,
-   "lat": 6.7888,
-   "lon": -73.0065,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u25i",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-14T00:29:31.232356+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "06673a575a70",
-   "flag": "🇨🇴",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.26,
-   "watch": []
-  },
-  {
    "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
@@ -12744,90 +13115,6 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "Eight orangutans find new forest home in Indonesia after wildfire rescue",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/10-13-orangutans-new-home-clip-mp4?traffic_source=rss",
-   "time": "2026-10-13T19:24:50+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/10-13-orangutans-new-home-clip-mp4?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-13T21:25:44.835869+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3d29cad7bd54",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Sudan",
-   "summary": "On 29/09/2026, a forest fire started in Sudan, until 09/10/2026.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032682",
-   "time": "2026-10-13T19:13:37+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Sudan",
-   "city": null,
-   "lat": 8.888284283928908,
-   "lon": 33.07072575567031,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032682",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-13T21:25:44.835869+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "5845a3df04eb",
-   "flag": "🇸🇩",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.",
-   "summary": "On 10/13/2026 6:45:03 PM, an earthquake occurred in Papua New Guinea potentially affecting 4 thousand in MMI V. The earthquake had Magnitude 6M, Depth:20.842km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1571367",
-   "time": "2026-10-13T19:02:33+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Papua New Guinea",
-   "city": null,
-   "lat": -5.4832,
-   "lon": 152.1364,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1571367",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-13T21:25:44.835869+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "61ca3eb2d6aa",
-   "flag": "🇵🇬",
-   "region": "East & SE Asia",
-   "baseline": 3.3,
    "watch": []
   },
   {
