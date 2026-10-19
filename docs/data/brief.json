@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-19T20:13:33.583686+00:00",
+ "generated": "2026-10-19T23:45:49.466425+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 86,
-  "3": 41,
-  "4": 13,
+  "2": 84,
+  "3": 45,
+  "4": 15,
   "5": 1
  },
  "watch_hits": [
@@ -23,6 +23,36 @@
     "severity": 5,
     "confidence": "B3",
     "time": "2026-10-19T12:51:46+00:00"
+   },
+   {
+    "id": "926cb60a7dd5",
+    "title": "THREE TERRORISTS ELIMINATED : IDF Strikes Hamas Terrorists Who Violated Gaza Ceasefire",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-19T23:15:00+00:00"
+   },
+   {
+    "id": "356a9f8c6bee",
+    "title": "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
+    "country": "Sudan",
+    "city": "Khartoum",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-19T14:00:04+00:00"
+   },
+   {
+    "id": "58dcee3c58e9",
+    "title": "160 people reported killed in escalating drone attacks across Sudan",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-19T21:38:46+00:00"
    },
    {
     "id": "da4d1294a286",
@@ -63,36 +93,88 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-19T14:13:16+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "dd2b6c4c00e4",
+    "title": "Children among six killed in Russian drone strike on Ukraine park",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-19T23:12:42+00:00"
    },
    {
-    "id": "356a9f8c6bee",
-    "title": "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
-    "country": "Sudan",
-    "city": "Khartoum",
+    "id": "a7f577a700db",
+    "title": "Pope Leo, Zelensky discuss hopes for ceasefire in Russian-occupied Oleshky",
+    "country": "Russia",
+    "city": null,
     "category": "conflict",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-19T19:50:02+00:00"
+   },
+   {
+    "id": "ca2a93e86b5d",
+    "title": "Ukraine war latest: Ukraine evacuates wounded soldier from front line by drone for first time, military says",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-19T17:57:43+00:00"
+   },
+   {
+    "id": "a1cf3f459203",
+    "title": "Ukraine, Russia nearing agreement on evacuation of civilians from occupied Oleshky, ombudsman says",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-19T15:18:57+00:00"
+   },
+   {
+    "id": "55b76280d672",
+    "title": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-19T14:00:04+00:00"
+    "time": "2026-10-19T23:26:10+00:00"
    },
    {
-    "id": "88696d3afd99",
-    "title": "Pregnant women in Yemen at growing risk as healthcare limited by fighting",
-    "country": "Yemen",
+    "id": "4b4bb072197f",
+    "title": "What Russia's doing to Ukraine is 'fine,' Trump says",
+    "country": "Russia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-19T13:21:47+00:00"
+    "time": "2026-10-19T20:25:22+00:00"
    },
    {
-    "id": "916f96400af4",
-    "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-    "country": "Lebanon",
+    "id": "bf656642e430",
+    "title": "'We will fight' — We asked Ukrainian soldiers about Trump's latest outburst",
+    "country": "Ukraine",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-19T19:26:41+00:00"
+   },
+   {
+    "id": "bdb0a9aaf46b",
+    "title": "'Absolute atrocity' — Russian drone strike on park in Kharkiv Oblast kills children",
+    "country": "Russia",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T12:00:00+00:00"
+    "confidence": "C4",
+    "time": "2026-10-19T16:38:40+00:00"
    }
   ],
   "Oceania": [
@@ -125,6 +207,16 @@
     "severity": 4,
     "confidence": "A1",
     "time": "2026-10-19T07:00:02.899000+00:00"
+   },
+   {
+    "id": "92f5185bf8b0",
+    "title": "Helen Haines was chatting with locals at a dog park on Monday morning. By the afternoon, she was fighting for her life",
+    "country": "Australia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-19T21:14:37+00:00"
    },
    {
     "id": "86c7e76bc376",
@@ -165,98 +257,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-19T09:25:14.552000+00:00"
-   },
-   {
-    "id": "0398212e48a1",
-    "title": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI>=III.",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T08:09:51+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "a7f577a700db",
-    "title": "Pope Leo, Zelensky discuss hopes for ceasefire in Russian-occupied Oleshky",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-19T19:50:02+00:00"
-   },
-   {
-    "id": "ca2a93e86b5d",
-    "title": "Ukraine war latest: Ukraine evacuates wounded soldier from front line by drone for first time, military says",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-19T17:57:43+00:00"
-   },
-   {
-    "id": "a1cf3f459203",
-    "title": "Ukraine, Russia nearing agreement on evacuation of civilians from occupied Oleshky, ombudsman says",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-19T15:18:57+00:00"
-   },
-   {
-    "id": "bf656642e430",
-    "title": "'We will fight' — We asked Ukrainian soldiers about Trump's latest outburst",
-    "country": "Ukraine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-19T19:26:41+00:00"
-   },
-   {
-    "id": "bdb0a9aaf46b",
-    "title": "'Absolute atrocity' — Russian drone strike on park in Kharkiv Oblast kills children",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-19T16:38:40+00:00"
-   },
-   {
-    "id": "f37a422e326f",
-    "title": "'It's significant': Ukraine fears US is withholding allied-funded air defense supplies to pressure Kyiv",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-19T14:12:55+00:00"
-   },
-   {
-    "id": "85b22246bf84",
-    "title": "US reacts to Kyiv's claim it received no advance notice of Russian ballistic missile launches",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-19T12:24:21+00:00"
-   },
-   {
-    "id": "7cb0267e84ed",
-    "title": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T10:38:03+00:00"
    }
   ],
   "Western Europe": [
@@ -281,64 +281,64 @@
     "time": "2026-10-19T12:51:21+00:00"
    },
    {
+    "id": "91cfb6d5d324",
+    "title": "Paris police issue overnight curfew in 2 areas of French capital to try to prevent further disorder",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C1",
+    "time": "2026-10-19T22:45:00+00:00"
+   },
+   {
+    "id": "815639a3423b",
+    "title": "Nightly curfews set to begin in France after peaceful protests give way to violence and looting",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C1",
+    "time": "2026-10-19T23:00:00+00:00"
+   },
+   {
     "id": "b9fd2e872004",
     "title": "🔴 France issues curfew for parts of central Paris",
     "country": "France",
     "city": "Paris",
     "category": "unrest",
     "severity": 3,
-    "confidence": "B2",
+    "confidence": "B1",
     "time": "2026-10-19T17:09:26+00:00"
    },
    {
-    "id": "7bfbe24249e4",
-    "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
-    "country": "France",
-    "city": "Lyon",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T19:59:00+00:00"
-   },
-   {
-    "id": "695558a8f144",
-    "title": "Paris weekend riots raise concerns for tourism industry",
+    "id": "1b3f1990c928",
+    "title": "Clean up begins after French riots but police remain",
     "country": "France",
     "city": "Paris",
     "category": "unrest",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T19:06:20+00:00"
+    "confidence": "B2",
+    "time": "2026-10-19T21:30:08+00:00"
    },
    {
-    "id": "09467d97b910",
-    "title": "France wants curfews in some areas after weekend of riots",
+    "id": "5452e6af8b29",
+    "title": "France protests draw global attention: Trump, Vance blame immigration for unrest",
     "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T15:37:30+00:00"
+    "confidence": "B2",
+    "time": "2026-10-19T14:04:26+00:00"
    },
    {
-    "id": "078bc9efe22e",
-    "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
+    "id": "31051ae5d5e1",
+    "title": "France imposes curfews as riots spiral",
     "country": "France",
-    "city": "Marseille",
+    "city": null,
     "category": "unrest",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T14:01:17+00:00"
-   },
-   {
-    "id": "d67253892683",
-    "title": "French prime minister calls for ‘local and partial’ curfews after riots",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T12:02:47+00:00"
+    "confidence": "C4",
+    "time": "2026-10-19T23:00:00+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -363,6 +363,16 @@
     "time": "2026-10-19T08:46:14+00:00"
    },
    {
+    "id": "12ab789b6a6d",
+    "title": "Kenya - Level 3: Reconsider Travel",
+    "country": "Kenya",
+    "city": null,
+    "category": "advisory",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-19T00:00:00+00:00"
+   },
+   {
     "id": "59bcc0bed495",
     "title": "Mauritius lifts curfew imposed amid wave of violent protests",
     "country": "Mauritius",
@@ -383,6 +393,16 @@
     "time": "2026-10-19T13:21:37+00:00"
    },
    {
+    "id": "496deb219d20",
+    "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+    "country": "Kenya",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-19T16:08:14+00:00"
+   },
+   {
     "id": "c091ca2b98a7",
     "title": "Kenyan cult leader Paul Mackenzie faces verdict over 191 starvation deaths",
     "country": "Kenya",
@@ -393,34 +413,14 @@
     "time": "2026-10-19T15:25:24+00:00"
    },
    {
-    "id": "d5eb771e6dc7",
-    "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-    "country": "Kenya",
+    "id": "e59a98a065e6",
+    "title": "Green forest fire notification in Nigeria, Cameroon",
+    "country": "Nigeria",
     "city": null,
-    "category": "crime",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T17:18:04+00:00"
-   },
-   {
-    "id": "496deb219d20",
-    "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-    "country": "Kenya",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T16:08:14+00:00"
-   },
-   {
-    "id": "7cdd1b4c36a7",
-    "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T14:11:08+00:00"
+    "confidence": "A1",
+    "time": "2026-10-19T23:10:51+00:00"
    }
   ],
   "South Asia": [
@@ -445,16 +445,6 @@
     "time": "2026-10-19T01:50:48+00:00"
    },
    {
-    "id": "e59e1e45e2a0",
-    "title": "Political rivals implicated under Pakistan's anti-terror law",
-    "country": "Pakistan",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-18T21:00:11+00:00"
-   },
-   {
     "id": "834037454a53",
     "title": "Indian court extends detention of ‘Cockroach’ leaders",
     "country": "India",
@@ -473,16 +463,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-19T04:46:16+00:00"
-   },
-   {
-    "id": "02208be85fbd",
-    "title": "Ankita Bhandari murder case : Uttarakhand protesters stopped at India Gate",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-18T20:45:00+00:00"
    }
   ],
   "North America": [
@@ -535,36 +515,68 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-19T10:07:09+00:00"
-   },
+   }
+  ],
+  "East & SE Asia": [
    {
-    "id": "e4c5046792a3",
-    "title": "Times’s investigation adds more intrigue to infamous OJ Simpson case",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-18T23:35:07+00:00"
-   },
-   {
-    "id": "c8a4955880a7",
-    "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-    "country": "United States",
-    "city": "Chicago",
+    "id": "0ff666f2531b",
+    "title": "M4.9 earthquake, 52 km S of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-18T21:00:22+00:00"
+    "confidence": "A1",
+    "time": "2026-10-19T22:42:47.298000+00:00"
    },
    {
-    "id": "8ee2a46c0d59",
-    "title": "Suspenden protesta contra Lemus por el agua ante denuncias de grupos de choque infiltrados en Guadalajara",
-    "country": "Mexico",
-    "city": "Guadalajara",
-    "category": "unrest",
+    "id": "6f9e6ef92d01",
+    "title": "M5.0 earthquake, 31 km NW of Jiangyou, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-18T20:45:00+00:00"
+    "confidence": "A1",
+    "time": "2026-10-19T10:57:08.127000+00:00"
+   },
+   {
+    "id": "190515e1aae2",
+    "title": "M4.9 earthquake, 54 km NE of Labuan Bajo, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-19T09:45:56.107000+00:00"
+   },
+   {
+    "id": "b87e747ef7a0",
+    "title": "M4.7 earthquake, 163 km WNW of Tobelo, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-19T09:00:39.067000+00:00"
+   },
+   {
+    "id": "ac4c34c5e7b1",
+    "title": "Green flood alert in Malaysia",
+    "country": "Malaysia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-19T06:44:13+00:00"
+   },
+   {
+    "id": "685528a70bf4",
+    "title": "China - Level 2: Exercise Increased Caution",
+    "country": "China",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-19T00:00:00+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -587,6 +599,16 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-19T14:47:45.038000+00:00"
+   },
+   {
+    "id": "6357d2bbe78d",
+    "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-19T12:00:00+00:00"
    },
    {
     "id": "ff77b545b72d",
@@ -637,16 +659,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-19T05:18:36.003000+00:00"
-   },
-   {
-    "id": "e5f567b9c200",
-    "title": "More than 7 , 900 Homes Assessed and 1 , 952 with Total Damage Caused by the Earthquake in Panama .",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-18T21:00:00+00:00"
    }
   ],
   "Central Asia": [
@@ -659,68 +671,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-19T15:35:36.914000+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "6f9e6ef92d01",
-    "title": "M5.0 earthquake, 31 km NW of Jiangyou, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T10:57:08.127000+00:00"
-   },
-   {
-    "id": "190515e1aae2",
-    "title": "M4.9 earthquake, 54 km NE of Labuan Bajo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T09:45:56.107000+00:00"
-   },
-   {
-    "id": "b87e747ef7a0",
-    "title": "M4.7 earthquake, 163 km WNW of Tobelo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T09:00:39.067000+00:00"
-   },
-   {
-    "id": "ac4c34c5e7b1",
-    "title": "Green flood alert in Malaysia",
-    "country": "Malaysia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T06:44:13+00:00"
-   },
-   {
-    "id": "685528a70bf4",
-    "title": "China - Level 2: Exercise Increased Caution",
-    "country": "China",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T00:00:00+00:00"
-   },
-   {
-    "id": "f80abc357bf0",
-    "title": "M4.7 earthquake, 147 km SSW of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-18T22:06:13.969000+00:00"
    }
   ]
  }
