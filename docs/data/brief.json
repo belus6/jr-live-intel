@@ -1,16 +1,98 @@
 {
- "generated": "2026-10-20T14:20:38.463070+00:00",
+ "generated": "2026-10-20T18:36:49.404753+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 82,
-  "3": 45,
-  "4": 11,
-  "5": 2
+  "2": 89,
+  "3": 51,
+  "4": 9,
+  "5": 3
  },
  "watch_hits": [],
  "regions": {
+  "Middle East & N. Africa": [
+   {
+    "id": "dff5c3ae82c1",
+    "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-10-20T16:24:47+00:00"
+   },
+   {
+    "id": "926cb60a7dd5",
+    "title": "THREE TERRORISTS ELIMINATED : IDF Strikes Hamas Terrorists Who Violated Gaza Ceasefire",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-19T23:15:00+00:00"
+   },
+   {
+    "id": "5f9d93d07512",
+    "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+    "country": "Iran",
+    "city": "Tehran",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T16:01:01+00:00"
+   },
+   {
+    "id": "ae9827f37449",
+    "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T15:02:34+00:00"
+   },
+   {
+    "id": "8d47ea056c5d",
+    "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+    "country": "Iran",
+    "city": "Tehran",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T14:39:50+00:00"
+   },
+   {
+    "id": "9b6055a2dba8",
+    "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T14:09:42+00:00"
+   },
+   {
+    "id": "cfd56be3bb43",
+    "title": "UN denounces deadly wave of drone strikes in Sudan - Shafaqna English | International Shia News & Fatwas",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-20T13:15:00+00:00"
+   },
+   {
+    "id": "88b202910e07",
+    "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T13:00:21+00:00"
+   }
+  ],
   "Oceania": [
    {
     "id": "111054a886b8",
@@ -53,6 +135,16 @@
     "time": "2026-10-19T21:14:37+00:00"
    },
    {
+    "id": "80cb62df70cb",
+    "title": "M4.8 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T16:29:43.678000+00:00"
+   },
+   {
     "id": "c88a108cbac1",
     "title": "M4.9 earthquake, 199 km NW of Port-Olry, Vanuatu",
     "country": "Vanuatu",
@@ -81,101 +173,19 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-20T01:38:40+00:00"
-   },
-   {
-    "id": "3e11a1d27210",
-    "title": "M4.8 earthquake, 88 km WNW of Hihifo, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T18:27:46.554000+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "afc278c74eb3",
-    "title": "More than 40 civilians killed in Mali attack blamed on Islamic State",
-    "country": "Mali",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-20T12:23:17+00:00"
-   },
-   {
-    "id": "06a051ad1e64",
-    "title": "Helen Haines live updates: Helen Haines loses leg after alleged attack outside electorate office",
-    "country": "CAR",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-20T03:29:50+00:00"
-   },
-   {
-    "id": "3046e31c0cde",
-    "title": "Mali: Human Rights Watch Denounces Crimes Against Civilians [Africanews Today]",
-    "country": "Mali",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-19T17:37:04+00:00"
-   },
-   {
-    "id": "6ce4c6574362",
-    "title": "The human cost of surging US air strikes in Somalia",
-    "country": "Somalia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-20T01:52:32+00:00"
-   },
-   {
-    "id": "59bcc0bed495",
-    "title": "Mauritius lifts curfew imposed amid wave of violent protests",
-    "country": "Mauritius",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T18:04:14+00:00"
-   },
-   {
-    "id": "496deb219d20",
-    "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-    "country": "Kenya",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-19T16:08:14+00:00"
-   },
-   {
-    "id": "c091ca2b98a7",
-    "title": "Kenyan cult leader Paul Mackenzie faces verdict over 191 starvation deaths",
-    "country": "Kenya",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-19T15:25:24+00:00"
-   },
-   {
-    "id": "f1c9a44f06d0",
-    "title": "Seychelles",
-    "country": "Seychelles",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T13:59:57+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "a50824c6d0a7",
+    "title": "Six years on, France remembers slain teacher Samuel Paty",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-20T13:28:07+00:00"
+   },
    {
     "id": "4a3be1e60bd1",
     "title": "Why terrorism laws stopped Sally Rooney selling books in the UK – podcast",
@@ -237,16 +247,6 @@
     "time": "2026-10-19T23:00:00+00:00"
    },
    {
-    "id": "b9fd2e872004",
-    "title": "🔴 France issues curfew for parts of central Paris",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-10-19T17:09:26+00:00"
-   },
-   {
     "id": "716840d80e66",
     "title": "France to impose new curfews as authorities seek to restore order after riots",
     "country": "France",
@@ -257,86 +257,86 @@
     "time": "2026-10-20T12:00:00+00:00"
    }
   ],
-  "Middle East & N. Africa": [
+  "Sub-Saharan Africa": [
    {
-    "id": "926cb60a7dd5",
-    "title": "THREE TERRORISTS ELIMINATED : IDF Strikes Hamas Terrorists Who Violated Gaza Ceasefire",
-    "country": "Palestine",
+    "id": "afc278c74eb3",
+    "title": "More than 40 civilians killed in Mali attack blamed on Islamic State",
+    "country": "Mali",
     "city": null,
     "category": "terrorism",
     "severity": 4,
     "confidence": "C4",
-    "time": "2026-10-19T23:15:00+00:00"
+    "time": "2026-10-20T12:23:17+00:00"
    },
    {
-    "id": "9b6055a2dba8",
-    "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-    "country": "Yemen",
+    "id": "06a051ad1e64",
+    "title": "Helen Haines live updates: Helen Haines loses leg after alleged attack outside electorate office",
+    "country": "CAR",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "terrorism",
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-20T14:09:42+00:00"
+    "time": "2026-10-20T03:29:50+00:00"
    },
    {
-    "id": "cfd56be3bb43",
-    "title": "UN denounces deadly wave of drone strikes in Sudan - Shafaqna English | International Shia News & Fatwas",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-20T13:15:00+00:00"
-   },
-   {
-    "id": "88b202910e07",
-    "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-20T13:00:21+00:00"
-   },
-   {
-    "id": "427740e694fb",
-    "title": "Yemen war continues to force families from homes amid hunger and disease",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-20T12:00:00+00:00"
-   },
-   {
-    "id": "212ab83025ef",
-    "title": "Poland has no Patriot missiles left for Ukraine, Sikorski says",
-    "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-20T11:45:08+00:00"
-   },
-   {
-    "id": "72fe1ec91617",
-    "title": "Masoud Pezeshkian: Peace, Not Surrender",
-    "country": "Iran",
+    "id": "102241681ea4",
+    "title": "Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc",
+    "country": "Niger",
     "city": null,
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-20T11:02:31+00:00"
+    "time": "2026-10-20T12:21:24+00:00"
    },
    {
-    "id": "58dcee3c58e9",
-    "title": "160 people reported killed in escalating drone attacks across Sudan",
-    "country": "Sudan",
+    "id": "6ce4c6574362",
+    "title": "The human cost of surging US air strikes in Somalia",
+    "country": "Somalia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-19T21:38:46+00:00"
+    "time": "2026-10-20T01:52:32+00:00"
+   },
+   {
+    "id": "8163a499c836",
+    "title": "Breaking: Nigeria records first Ebola case of Africa's latest outbreak",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-20T17:56:02+00:00"
+   },
+   {
+    "id": "769678a82395",
+    "title": "Green forest fire notification in Mozambique, Zambia",
+    "country": "Mozambique",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T15:03:14+00:00"
+   },
+   {
+    "id": "54786f09e1bc",
+    "title": "Malawi",
+    "country": "Malawi",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T14:35:09+00:00"
+   },
+   {
+    "id": "02c34baf1a45",
+    "title": "'Tinubu Must Go!': Nigeria's northern protests test limits of political dissent",
+    "country": "Nigeria",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T14:20:00+00:00"
    }
   ],
   "Eastern Europe": [
@@ -361,64 +361,64 @@
     "time": "2026-10-19T19:50:02+00:00"
    },
    {
-    "id": "ca2a93e86b5d",
-    "title": "Ukraine war latest: Ukraine evacuates wounded soldier from front line by drone for first time, military says",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-19T17:57:43+00:00"
-   },
-   {
-    "id": "a1cf3f459203",
-    "title": "Ukraine, Russia nearing agreement on evacuation of civilians from occupied Oleshky, ombudsman says",
+    "id": "2618d8c4976e",
+    "title": "Ukraine war latest: Drone strikes on Yandex data centers disrupt Russian court hearings, media reports",
     "country": "Ukraine",
     "city": null,
     "category": "conflict",
-    "severity": 4,
+    "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-19T15:18:57+00:00"
+    "time": "2026-10-20T18:21:20+00:00"
    },
    {
-    "id": "c94b5d09edfd",
-    "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
+    "id": "3d2d058460f3",
+    "title": "Republicans push back on Donald Trump’s wavering support for Ukraine",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-20T14:16:31+00:00"
+    "time": "2026-10-20T17:32:57+00:00"
    },
    {
-    "id": "aa78a1bf95ad",
-    "title": "Ukraine - Russia war latest : Trump team admits Patriot missiles may not have been delivered to Kyiv",
+    "id": "0403c4f3deec",
+    "title": "Things Russia has done to Ukraine that Trump thinks are 'fine'",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-20T17:08:54+00:00"
+   },
+   {
+    "id": "970cc5b14846",
+    "title": "Death is a master from Russia",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-20T11:45:00+00:00"
+    "time": "2026-10-20T16:44:41+00:00"
    },
    {
-    "id": "96d8178905d8",
-    "title": "Russian drone attack on Kyiv rush-hour traffic kills at least 1, injures 6",
+    "id": "0de604b5dd87",
+    "title": "Ukraine's HUR claims 108 Russian soldiers killed, 29 captured in Sumy Oblast operation",
     "country": "Ukraine",
-    "city": "Kyiv",
+    "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-20T08:19:58+00:00"
+    "time": "2026-10-20T16:09:38+00:00"
    },
    {
-    "id": "4c3446e274ad",
-    "title": "Russian drone attack on Kyiv rush-hour traffic kills at least 3, injures 4",
+    "id": "514964204421",
+    "title": "Rubio says delays in US air defense shipments to Ukraine not deliberate",
     "country": "Ukraine",
-    "city": "Kyiv",
+    "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-20T08:19:58+00:00"
+    "time": "2026-10-20T15:53:40+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -431,6 +431,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-20T08:42:58+00:00"
+   },
+   {
+    "id": "a29c13dcbccd",
+    "title": "M5.4 earthquake, 192 km S of Burica, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T17:05:48.338000+00:00"
    },
    {
     "id": "043e3191cb10",
@@ -461,91 +471,71 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-20T03:15:00+00:00"
-   },
-   {
-    "id": "b23d194d7342",
-    "title": "Search under way for four soldiers missing after gang attack in Haiti",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T16:40:01+00:00"
-   },
-   {
-    "id": "53e961fa2e49",
-    "title": "M4.6 earthquake, 5 km E of San José El Ídolo, Guatemala",
-    "country": "Guatemala",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T14:47:45.038000+00:00"
    }
   ],
-  "East & SE Asia": [
+  "North America": [
    {
-    "id": "34b96d132fca",
-    "title": "Indonesian anger builds over wildfires , toxic haze",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-20T13:30:00+00:00"
-   },
-   {
-    "id": "bf34b3578e7c",
-    "title": "Indonesians protest over land-clearing fires",
-    "country": "Indonesia",
+    "id": "24582ff46942",
+    "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
+    "country": "United States",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-20T13:23:44+00:00"
+    "time": "2026-10-20T18:33:49+00:00"
    },
    {
-    "id": "9436cbb3347d",
-    "title": "M5.1 earthquake, 263 km WSW of Yanglong, China",
-    "country": "China",
+    "id": "d578c022d5f6",
+    "title": "CDC reports third measles death in the United States this year",
+    "country": "United States",
     "city": null,
-    "category": "hazard",
+    "category": "health",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T06:41:23.116000+00:00"
+    "confidence": "B3",
+    "time": "2026-10-20T17:58:09+00:00"
    },
    {
-    "id": "a31910d7bb78",
-    "title": "M4.6 earthquake, 7 km SE of San Julian, Philippines",
-    "country": "Philippines",
+    "id": "6232076357ee",
+    "title": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
+    "country": "United States",
     "city": null,
-    "category": "hazard",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T06:04:19.173000+00:00"
+    "confidence": "B3",
+    "time": "2026-10-20T04:13:28+00:00"
    },
    {
-    "id": "f73e51070391",
-    "title": "M4.5 earthquake, 156 km SE of Kuqa, China",
-    "country": "China",
+    "id": "177b46070314",
+    "title": "At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – as it happened",
+    "country": "United States",
     "city": null,
-    "category": "hazard",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T00:56:32.769000+00:00"
+    "confidence": "B3",
+    "time": "2026-10-20T01:57:40+00:00"
    },
    {
-    "id": "0ff666f2531b",
-    "title": "M4.9 earthquake, 52 km S of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
+    "id": "27a94519d803",
+    "title": "Guillermo del Toro respalda las protestas por el agua en Guadalajara y lamenta el mundo en ruinas",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T22:42:47.298000+00:00"
+    "confidence": "C4",
+    "time": "2026-10-20T01:00:00+00:00"
    }
   ],
   "South Asia": [
+   {
+    "id": "143a86fb482f",
+    "title": "Who are the women powering India's youth-led protests?",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T15:04:00+00:00"
+   },
    {
     "id": "26006662ee6a",
     "title": "India is ultimate target : RSS chief Mohan Bhagwat on regime change efforts , calls for restraint in protests",
@@ -587,48 +577,86 @@
     "time": "2026-10-19T19:09:22+00:00"
    }
   ],
-  "North America": [
+  "East & SE Asia": [
    {
-    "id": "6232076357ee",
-    "title": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T04:13:28+00:00"
-   },
-   {
-    "id": "177b46070314",
-    "title": "At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – as it happened",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T01:57:40+00:00"
-   },
-   {
-    "id": "27a94519d803",
-    "title": "Guillermo del Toro respalda las protestas por el agua en Guadalajara y lamenta el mundo en ruinas",
-    "country": "Mexico",
-    "city": "Guadalajara",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-20T01:00:00+00:00"
-   }
-  ],
-  "Central Asia": [
-   {
-    "id": "6fa2db696fee",
-    "title": "M4.9 earthquake, 77 km WSW of Murghob, Tajikistan",
-    "country": "Tajikistan",
+    "id": "ae28b4d39e68",
+    "title": "Green flood alert in Thailand",
+    "country": "Thailand",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-19T15:35:36.914000+00:00"
+    "time": "2026-10-20T14:35:25+00:00"
+   },
+   {
+    "id": "737ef2318ec8",
+    "title": "Green flood alert in South Korea",
+    "country": "South Korea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T14:35:13+00:00"
+   },
+   {
+    "id": "aa1baac28f76",
+    "title": "M4.5 earthquake, 111 km S of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T14:20:49.305000+00:00"
+   },
+   {
+    "id": "34b96d132fca",
+    "title": "Indonesian anger builds over wildfires , toxic haze",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-20T13:30:00+00:00"
+   },
+   {
+    "id": "2b15fb8ff398",
+    "title": "M4.5 earthquake, 142 km SSW of Abepura, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T13:27:24.320000+00:00"
+   },
+   {
+    "id": "bf34b3578e7c",
+    "title": "Indonesians protest over land-clearing fires",
+    "country": "Indonesia",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T13:23:44+00:00"
+   },
+   {
+    "id": "9436cbb3347d",
+    "title": "M5.1 earthquake, 263 km WSW of Yanglong, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T06:41:23.116000+00:00"
+   },
+   {
+    "id": "a31910d7bb78",
+    "title": "M4.6 earthquake, 7 km SE of San Julian, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T06:04:19.173000+00:00"
    }
   ]
  }
