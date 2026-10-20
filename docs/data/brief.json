@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-20T18:36:49.404753+00:00",
+ "generated": "2026-10-20T21:53:47.542855+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 89,
-  "3": 51,
-  "4": 9,
-  "5": 3
+  "2": 91,
+  "3": 48,
+  "4": 6,
+  "5": 2
  },
  "watch_hits": [],
  "regions": {
@@ -19,7 +19,7 @@
     "city": null,
     "category": "conflict",
     "severity": 5,
-    "confidence": "B3",
+    "confidence": "B2",
     "time": "2026-10-20T16:24:47+00:00"
    },
    {
@@ -31,6 +31,26 @@
     "severity": 4,
     "confidence": "C4",
     "time": "2026-10-19T23:15:00+00:00"
+   },
+   {
+    "id": "224804e3ee0e",
+    "title": "Egypt involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T20:57:29+00:00"
+   },
+   {
+    "id": "a233cbcdace6",
+    "title": "'Netanyahu is fighting for his political career', expert says a week ahead of crucial vote",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T20:03:50+00:00"
    },
    {
     "id": "5f9d93d07512",
@@ -71,26 +91,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-20T14:09:42+00:00"
-   },
-   {
-    "id": "cfd56be3bb43",
-    "title": "UN denounces deadly wave of drone strikes in Sudan - Shafaqna English | International Shia News & Fatwas",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-20T13:15:00+00:00"
-   },
-   {
-    "id": "88b202910e07",
-    "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-20T13:00:21+00:00"
    }
   ],
   "Oceania": [
@@ -105,34 +105,14 @@
     "time": "2026-10-20T00:38:28.008000+00:00"
    },
    {
-    "id": "86c7e76bc376",
-    "title": "M5.7 earthquake, 198 km NW of Port-Olry, Vanuatu",
+    "id": "626a959f42fd",
+    "title": "M4.9 earthquake, 187 km NW of Port-Olry, Vanuatu",
     "country": "Vanuatu",
     "city": null,
     "category": "hazard",
-    "severity": 5,
+    "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-19T18:52:36.659000+00:00"
-   },
-   {
-    "id": "79dc8aa5570e",
-    "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
-    "country": "Australia",
-    "city": "Melbourne",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-19T19:59:49+00:00"
-   },
-   {
-    "id": "92f5185bf8b0",
-    "title": "Helen Haines was chatting with locals at a dog park on Monday morning. By the afternoon, she was fighting for her life",
-    "country": "Australia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T21:14:37+00:00"
+    "time": "2026-10-20T20:03:26.613000+00:00"
    },
    {
     "id": "80cb62df70cb",
@@ -197,16 +177,6 @@
     "time": "2026-10-20T02:00:12+00:00"
    },
    {
-    "id": "d19b40e9d257",
-    "title": "Zelensky says Starshield speed limits slowing down frontline response",
-    "country": "France",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-19T18:45:57+00:00"
-   },
-   {
     "id": "d438a8bd211b",
     "title": "France: Paris imposes overnight curfew after wave of rioting",
     "country": "France",
@@ -255,6 +225,16 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-10-20T12:00:00+00:00"
+   },
+   {
+    "id": "3a8b98d63e59",
+    "title": "Italy sends troops, toughens security laws after Milan clashes",
+    "country": "Italy",
+    "city": "Milan",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T20:09:52+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -299,6 +279,26 @@
     "time": "2026-10-20T01:52:32+00:00"
    },
    {
+    "id": "fbfe8e2dac80",
+    "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "category": "health",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-20T17:31:26+00:00"
+   },
+   {
+    "id": "9eecfef8aa40",
+    "title": "Green forest fire notification in South Africa, Mozambique",
+    "country": "South Africa",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T19:01:47+00:00"
+   },
+   {
     "id": "8163a499c836",
     "title": "Breaking: Nigeria records first Ebola case of Africa's latest outbreak",
     "country": "Nigeria",
@@ -317,26 +317,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-20T15:03:14+00:00"
-   },
-   {
-    "id": "54786f09e1bc",
-    "title": "Malawi",
-    "country": "Malawi",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T14:35:09+00:00"
-   },
-   {
-    "id": "02c34baf1a45",
-    "title": "'Tinubu Must Go!': Nigeria's northern protests test limits of political dissent",
-    "country": "Nigeria",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T14:20:00+00:00"
    }
   ],
   "Eastern Europe": [
@@ -349,16 +329,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-19T23:12:42+00:00"
-   },
-   {
-    "id": "a7f577a700db",
-    "title": "Pope Leo, Zelensky discuss hopes for ceasefire in Russian-occupied Oleshky",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-19T19:50:02+00:00"
    },
    {
     "id": "2618d8c4976e",
@@ -419,6 +389,78 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-20T15:53:40+00:00"
+   },
+   {
+    "id": "c94b5d09edfd",
+    "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T14:16:31+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "d396b23de0d2",
+    "title": "Zelensky confirms ballistic missile early warning systems operational after skipped alerts",
+    "country": "United States",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-20T21:34:57+00:00"
+   },
+   {
+    "id": "24582ff46942",
+    "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T18:33:49+00:00"
+   },
+   {
+    "id": "d578c022d5f6",
+    "title": "CDC reports third measles death in the United States this year",
+    "country": "United States",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T17:58:09+00:00"
+   },
+   {
+    "id": "6232076357ee",
+    "title": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T04:13:28+00:00"
+   },
+   {
+    "id": "177b46070314",
+    "title": "At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – as it happened",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T01:57:40+00:00"
+   },
+   {
+    "id": "27a94519d803",
+    "title": "Guillermo del Toro respalda las protestas por el agua en Guadalajara y lamenta el mundo en ruinas",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-20T01:00:00+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -473,111 +515,17 @@
     "time": "2026-10-20T03:15:00+00:00"
    }
   ],
-  "North America": [
-   {
-    "id": "24582ff46942",
-    "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T18:33:49+00:00"
-   },
-   {
-    "id": "d578c022d5f6",
-    "title": "CDC reports third measles death in the United States this year",
-    "country": "United States",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T17:58:09+00:00"
-   },
-   {
-    "id": "6232076357ee",
-    "title": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T04:13:28+00:00"
-   },
-   {
-    "id": "177b46070314",
-    "title": "At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – as it happened",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T01:57:40+00:00"
-   },
-   {
-    "id": "27a94519d803",
-    "title": "Guillermo del Toro respalda las protestas por el agua en Guadalajara y lamenta el mundo en ruinas",
-    "country": "Mexico",
-    "city": "Guadalajara",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-20T01:00:00+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "143a86fb482f",
-    "title": "Who are the women powering India's youth-led protests?",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T15:04:00+00:00"
-   },
-   {
-    "id": "26006662ee6a",
-    "title": "India is ultimate target : RSS chief Mohan Bhagwat on regime change efforts , calls for restraint in protests",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-20T12:00:00+00:00"
-   },
-   {
-    "id": "a0b88124da5d",
-    "title": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T06:30:18+00:00"
-   },
-   {
-    "id": "b907f88802a8",
-    "title": "Los dirigentes del Movimiento Cucaracha seguirán bajo custodia judicial por las protestas electorales en Delhi",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-20T01:45:00+00:00"
-   },
-   {
-    "id": "834037454a53",
-    "title": "Indian court extends detention of ‘Cockroach’ leaders",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T19:09:22+00:00"
-   }
-  ],
   "East & SE Asia": [
+   {
+    "id": "541a02ea64d0",
+    "title": "Green forest fire notification in China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T19:06:41+00:00"
+   },
    {
     "id": "ae28b4d39e68",
     "title": "Green flood alert in Thailand",
@@ -647,16 +595,58 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-20T06:41:23.116000+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "143a86fb482f",
+    "title": "Who are the women powering India's youth-led protests?",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T15:04:00+00:00"
    },
    {
-    "id": "a31910d7bb78",
-    "title": "M4.6 earthquake, 7 km SE of San Julian, Philippines",
-    "country": "Philippines",
+    "id": "439bd2730e30",
+    "title": "Who are the women powering India's youth-led 'Cockroach' protests?",
+    "country": "India",
     "city": null,
-    "category": "hazard",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T06:04:19.173000+00:00"
+    "confidence": "B3",
+    "time": "2026-10-20T15:04:00+00:00"
+   },
+   {
+    "id": "26006662ee6a",
+    "title": "India is ultimate target : RSS chief Mohan Bhagwat on regime change efforts , calls for restraint in protests",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-20T12:00:00+00:00"
+   },
+   {
+    "id": "a0b88124da5d",
+    "title": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T06:30:18+00:00"
+   },
+   {
+    "id": "b907f88802a8",
+    "title": "Los dirigentes del Movimiento Cucaracha seguirán bajo custodia judicial por las protestas electorales en Delhi",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-20T01:45:00+00:00"
    }
   ]
  }
