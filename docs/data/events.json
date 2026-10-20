@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-20T03:45:59.992825+00:00",
+ "generated": "2026-10-20T09:12:34.213334+00:00",
  "sample": false,
- "count": 519,
+ "count": 516,
  "events": [
+  {
+   "title": "M5.0 earthquake, 205 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
+   "time": "2026-10-20T00:38:28.008000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.9476,
+   "lon": 165.5285,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "111054a886b8",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
   {
    "title": "At least 18 killed in Houthi attack on military camp in Yemen’s Shabwa",
    "summary": "",
@@ -933,34 +961,6 @@
    "watch": []
   },
   {
-   "title": "IDF kills Hamas terrorist in Gaza Strip who participated in October 7 attacks",
-   "summary": "",
-   "url": "http://www.jpost.com/israel-news/defense-news/article-911907",
-   "time": "2026-10-16T08:00:00+00:00",
-   "tier": "C",
-   "category": "terrorism",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "jpost.com (via GDELT)",
-     "url": "http://www.jpost.com/israel-news/defense-news/article-911907",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-16T09:50:07.412897+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "2550a9cf8553",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
    "title": "Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3815 .",
    "summary": "From 16/10/2026 to 16/10/2026, a Tropical Storm (maximum wind speed of 120 km/h) ONE-26 was active in SEPacific. The cyclone affects these countries: Cook Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 3815 .",
    "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
@@ -1014,34 +1014,6 @@
    "flag": "🇨🇰",
    "region": "Oceania",
    "baseline": 1.81,
-   "watch": []
-  },
-  {
-   "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
-   "time": "2026-10-16T04:00:50+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-16T05:03:05.780574+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b62a8f098e2b",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
    "watch": []
   },
   {
@@ -1274,6 +1246,174 @@
    "watch": []
   },
   {
+   "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+   "time": "2026-10-20T08:54:37+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "d9e5dd3d7a93",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Haitian gangs target foreign troops in biggest attack on new force",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/20/haitian-gangs-target-foreign-troops-in-biggest-attack-on-new-force/",
+   "time": "2026-10-20T08:42:58+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Haiti",
+   "city": "Port-au-Prince",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/20/haitian-gangs-target-foreign-troops-in-biggest-attack-on-new-force/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "7bda8a58006e",
+   "flag": "🇭🇹",
+   "region": "Latin America & Caribbean",
+   "baseline": 4.53,
+   "watch": []
+  },
+  {
+   "title": "Russian drone attack on Kyiv rush-hour traffic kills at least 1, injures 6",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-drone-attack-on-kyiv-rush-hour-traffic-kills-at-least-1-injures-6/",
+   "time": "2026-10-20T08:19:58+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-drone-attack-on-kyiv-rush-hour-traffic-kills-at-least-1-injures-6/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "96d8178905d8",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Fire at oil pumping station in Russia’s Tambov Oblast after drone attack, monitoring channels say",
+   "summary": "",
+   "url": "https://kyivindependent.com/fire-reported-at-oil-pumping-station-russias-tambov-oblast-after-drone-attack/",
+   "time": "2026-10-20T07:44:54+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/fire-reported-at-oil-pumping-station-russias-tambov-oblast-after-drone-attack/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "488a33f3f42e",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "General Staff: Russia has lost 1,568,720 troops in Ukraine since Feb. 24, 2022",
+   "summary": "",
+   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-568-720-troops-in-ukraine-since-feb-24-2022/",
+   "time": "2026-10-20T06:01:29+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-568-720-troops-in-ukraine-since-feb-24-2022/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "d53a562f468a",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Tuesday briefing: Can Andy Burnham beat Britain’s headphone dodgers?",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/20/tuesday-briefing-can-andy-burnham-beat-britains-headphone-dodgers",
+   "time": "2026-10-20T05:44:25+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/20/tuesday-briefing-can-andy-burnham-beat-britains-headphone-dodgers",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "cd9bdacb9528",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
    "title": "Live: Curfews come into effect around France to combat looting",
    "summary": "",
    "url": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting",
@@ -1296,6 +1436,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "40f0ba3cb138",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Live: France to impose more curfews as government seeks to regain control after riots and looting",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting",
+   "time": "2026-10-20T02:51:36+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a33219a68fc9",
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
@@ -2369,6 +2537,34 @@
    "flag": "🇮🇹",
    "region": "Western Europe",
    "baseline": 1.48,
+   "watch": []
+  },
+  {
+   "title": "M5.4 earthquake, 196 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6",
+   "time": "2026-10-19T10:40:21.108000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.0378,
+   "lon": 165.5687,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "dfa697ed9236",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -4410,118 +4606,6 @@
    "watch": []
   },
   {
-   "title": "Iran denies being behind Houthi attacks as Aden airport hit",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/17/iran-denies-being-behind-houthi-attacks-as-aden-airport-hit/",
-   "time": "2026-10-17T08:51:59+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Saudi Arabia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/17/iran-denies-being-behind-houthi-attacks-as-aden-airport-hit/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-17T12:07:11.583952+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "e6404e09f264",
-   "flag": "🇸🇦",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
-   "watch": []
-  },
-  {
-   "title": "Russian attacks kill 7, injure dozens across Ukraine amid continued strikes on energy infrastructure",
-   "summary": "",
-   "url": "https://kyivindependent.com/russian-attacks-kill-7-injure-dozens-across-ukraine-amid-continued-strikes-on-energy-infrastructure/",
-   "time": "2026-10-17T07:28:42+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-attacks-kill-7-injure-dozens-across-ukraine-amid-continued-strikes-on-energy-infrastructure/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-17T07:58:44.644619+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "f36e396a2d95",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Russia launches 'one of its largest attacks' on Ukraine's energy grid as US 'disregards' Graham's sanctions, Zelensky says",
-   "summary": "",
-   "url": "https://kyivindependent.com/russian-attacks-kill-7-injure-dozens-across-ukraine-amid-continued-strikes-on-energy-infrastructure/",
-   "time": "2026-10-17T07:28:42+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-attacks-kill-7-injure-dozens-across-ukraine-amid-continued-strikes-on-energy-infrastructure/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-17T12:07:11.583952+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "7e2e779f1148",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
-   "time": "2026-10-17T06:41:34+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-17T07:58:44.644619+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9e335a138101",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
    "title": "Exclusive: Watchdog lists ships carrying Russian gas, blasts Trump sanctions waiver",
    "summary": "",
    "url": "https://kyivindependent.com/exclusive-watchdog-names-ships-carrying-russian-gas-blasts-trump-sanctions-waiver/",
@@ -4547,62 +4631,6 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "General Staff: Russia has lost 1,562,970 troops in Ukraine since Feb. 24, 2022",
-   "summary": "",
-   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-562-970-troops-in-ukraine-since-feb-24-2022/",
-   "time": "2026-10-17T06:10:00+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-562-970-troops-in-ukraine-since-feb-24-2022/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-17T07:58:44.644619+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "24387f6ab88b",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
-   "summary": "",
-   "url": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
-   "time": "2026-10-17T06:00:32+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Egypt",
-   "city": "Cairo",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-17T07:58:44.644619+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "53d5be00344c",
-   "flag": "🇪🇬",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.82,
    "watch": []
   },
   {
@@ -5801,6 +5829,286 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "75eb2df91c6a",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Out of control? France stunned by October 17 rioting",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/the-debate/20261020-out-of-control-france-stunned-by-october-17-rioting",
+   "time": "2026-10-20T09:08:06+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/the-debate/20261020-out-of-control-france-stunned-by-october-17-rioting",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b5a9f8bbda6e",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "French protests: Is it game over for Macron’s centrists before elections?",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections?traffic_source=rss",
+   "time": "2026-10-20T08:46:25+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "77335777346b",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "US raises Kenya travel advisory over Ebola and security concerns",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/20/us-raises-kenya-travel-advisory-over-ebola-and-security-concerns/",
+   "time": "2026-10-20T08:34:41+00:00",
+   "tier": "C",
+   "category": "health",
+   "country": "Kenya",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/20/us-raises-kenya-travel-advisory-over-ebola-and-security-concerns/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "5c43eb83be09",
+   "flag": "🇰🇪",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.97,
+   "watch": []
+  },
+  {
+   "title": "France protests are ‘outburst of resentment’ against Macron",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss",
+   "time": "2026-10-20T08:11:30+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "451c6165807e",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Anger at rising fuel prices bolsters Europe's far right as unrest sweeps France",
+   "summary": "",
+   "url": "https://www.france24.com/en/france/20261020-anger-at-rising-fuel-prices-bolsters-europe-s-far-right-as-unrest-sweeps-france",
+   "time": "2026-10-20T07:28:50+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261020-anger-at-rising-fuel-prices-bolsters-europe-s-far-right-as-unrest-sweeps-france",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "68e8a1db54ba",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M5.1 earthquake, 263 km WSW of Yanglong, China",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka",
+   "time": "2026-10-20T06:41:23.116000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "China",
+   "city": null,
+   "lat": 37.9037,
+   "lon": 95.6436,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "9436cbb3347d",
+   "flag": "🇨🇳",
+   "region": "East & SE Asia",
+   "baseline": 2.75,
+   "watch": []
+  },
+  {
+   "title": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests",
+   "time": "2026-10-20T06:30:18+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": "Delhi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a0b88124da5d",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "M4.6 earthquake, 7 km SE of San Julian, Philippines",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k7",
+   "time": "2026-10-20T06:04:19.173000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Philippines",
+   "city": null,
+   "lat": 11.7067,
+   "lon": 125.5048,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k7",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "a31910d7bb78",
+   "flag": "🇵🇭",
+   "region": "East & SE Asia",
+   "baseline": 3.11,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
+   "summary": "On 10/20/2026 4:20:38 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 6.3M, Depth:16km.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1572693",
+   "time": "2026-10-20T04:31:52+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.9906,
+   "lon": 165.5892,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1572693",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "37a9875f96aa",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-us-midterm-election-possibility-state-democratic-win",
+   "time": "2026-10-20T04:13:28+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "United States",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-us-midterm-election-possibility-state-democratic-win",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-20T09:12:34.213334+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "6232076357ee",
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
@@ -10282,179 +10590,6 @@
    "watch": []
   },
   {
-   "title": "France: Protests \"brought the entire population together for a common purpose\"",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose",
-   "time": "2026-10-18T09:05:03+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "86739e6062cc",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France: Who took part in Saturday's protests?",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests",
-   "time": "2026-10-18T09:03:18+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T18:59:19.661832+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "08b86800cc77",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France: Who was behind the violence at Saturday's protests?",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests",
-   "time": "2026-10-18T09:01:22+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "7c882c3248b1",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France protests: Did the government make the wrong decisions?",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions",
-   "time": "2026-10-18T09:00:22+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions",
-     "tier": "B"
-    },
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/18/france-paris-lyon-and-marseille-count-the-cost-after-violent-protests/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "aec546896aa5",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Whole streets in Paris ‘devastated’ by protests, says mayor, as France demonstrations continue – Europe live",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
-   "time": "2026-10-18T08:44:21+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "02cc34390e7f",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Photos: Protests across France spiral into looting, blazes and clashes",
-   "summary": "",
-   "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss",
-   "time": "2026-10-18T08:21:59+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "e4d2c00c3a76",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "M5.2 earthquake, 55 km NNW of Ruteng, Indonesia",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
@@ -10483,34 +10618,6 @@
    "watch": []
   },
   {
-   "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
-   "summary": "",
-   "url": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
-   "time": "2026-10-18T07:00:53+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United Kingdom",
-   "city": "London",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "37ab8cf076c0",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
-   "watch": []
-  },
-  {
    "title": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
    "summary": "",
    "url": "https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia",
@@ -10536,62 +10643,6 @@
    "flag": "🇮🇩",
    "region": "East & SE Asia",
    "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "India's 'cockroach' movement founder released from police custody",
-   "summary": "",
-   "url": "https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody",
-   "time": "2026-10-18T05:47:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c89499e8a984",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "AI tool helps stranded protesters find their way home in the Indian capital",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss",
-   "time": "2026-10-18T05:37:36+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "66de267c514f",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
    "watch": []
   },
   {
@@ -11124,34 +11175,6 @@
    "flag": "🇵🇰",
    "region": "South Asia",
    "baseline": 4.31,
-   "watch": []
-  },
-  {
-   "title": "Not cool: who hacked France’s supermarket fridges?",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-   "time": "2026-10-17T04:00:20+00:00",
-   "tier": "B",
-   "category": "cyber",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-17T07:58:44.644619+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "5f1cc8741b3a",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -12819,62 +12842,6 @@
    "watch": []
   },
   {
-   "title": "Green flood alert in Syria",
-   "summary": "On 12/10/2026, a flood started in Syria, lasting until 14/10/2026 (last update). The flood caused 2 deaths and 0 displaced .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104233",
-   "time": "2026-10-15T07:59:52+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Syria",
-   "city": null,
-   "lat": 35.1443722,
-   "lon": 40.214257,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104233",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-15T10:19:57.156614+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "58bdc478aaf0",
-   "flag": "🇸🇾",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.8,
-   "watch": []
-  },
-  {
-   "title": "Green flood alert in Jordan",
-   "summary": "On 10/10/2026, a flood started in Jordan, lasting until 12/10/2026 (last update). The flood caused 1 deaths and 0 displaced .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104232",
-   "time": "2026-10-15T07:59:43+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Jordan",
-   "city": null,
-   "lat": 32.1934466,
-   "lon": 37.4472962,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104232",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-15T10:19:57.156614+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "1e4535d00850",
-   "flag": "🇯🇴",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
-   "watch": []
-  },
-  {
    "title": "Kenya reports second Ebola case, family member of first patient",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/",
@@ -12905,62 +12872,6 @@
    "flag": "🇰🇪",
    "region": "Sub-Saharan Africa",
    "baseline": 2.97,
-   "watch": []
-  },
-  {
-   "title": "M5.3 earthquake, 43 km SSE of Otorohanga, New Zealand",
-   "summary": "Depth 286 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev",
-   "time": "2026-10-15T05:25:31.942000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "New Zealand",
-   "city": null,
-   "lat": -38.5478,
-   "lon": 175.3814,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-15T10:19:57.156614+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "bc7d45f26c78",
-   "flag": "🇳🇿",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "Heavy rain causes mass pileup in Brazil tunnel",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss",
-   "time": "2026-10-15T04:19:06+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Brazil",
-   "city": "Sao Paulo",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-15T05:37:12.651071+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3a3f9125d109",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
    "watch": []
   },
   {

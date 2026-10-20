@@ -1,18 +1,100 @@
 {
- "generated": "2026-10-20T03:45:59.992825+00:00",
+ "generated": "2026-10-20T09:12:34.213334+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 89,
-  "3": 44,
-  "4": 15,
-  "5": 1
+  "2": 80,
+  "3": 47,
+  "4": 12,
+  "5": 2
  },
  "watch_hits": [
   "916f96400af4"
  ],
  "regions": {
+  "Oceania": [
+   {
+    "id": "111054a886b8",
+    "title": "M5.0 earthquake, 205 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-10-20T00:38:28.008000+00:00"
+   },
+   {
+    "id": "79dc8aa5570e",
+    "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
+    "country": "Australia",
+    "city": "Melbourne",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-19T19:59:49+00:00"
+   },
+   {
+    "id": "65c6b32900cb",
+    "title": "‘Deeply appalled’: politicians condemn alleged attack after independent MP Helen Haines critically injured",
+    "country": "Australia",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-19T11:10:09+00:00"
+   },
+   {
+    "id": "92f5185bf8b0",
+    "title": "Helen Haines was chatting with locals at a dog park on Monday morning. By the afternoon, she was fighting for her life",
+    "country": "Australia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-19T21:14:37+00:00"
+   },
+   {
+    "id": "86c7e76bc376",
+    "title": "M5.7 earthquake, 198 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-19T18:52:36.659000+00:00"
+   },
+   {
+    "id": "dfa697ed9236",
+    "title": "M5.4 earthquake, 196 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-19T10:40:21.108000+00:00"
+   },
+   {
+    "id": "37a9875f96aa",
+    "title": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T04:31:52+00:00"
+   },
+   {
+    "id": "a4b5f11fe838",
+    "title": "Beau Lamarre-Condon had surgery after alleged double murder but before disposing of bodies, court told",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T01:38:40+00:00"
+   }
+  ],
   "Middle East & N. Africa": [
    {
     "id": "0307fee7f822",
@@ -117,16 +199,6 @@
     "time": "2026-10-19T17:37:04+00:00"
    },
    {
-    "id": "af46b259bff0",
-    "title": "Kenya cult deaths: Court set to rule in preacher's murder trial",
-    "country": "Kenya",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-19T08:46:14+00:00"
-   },
-   {
     "id": "6ce4c6574362",
     "title": "The human cost of surging US air strikes in Somalia",
     "country": "Somalia",
@@ -175,6 +247,16 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-19T15:25:24+00:00"
+   },
+   {
+    "id": "5c43eb83be09",
+    "title": "US raises Kenya travel advisory over Ebola and security concerns",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-20T08:34:41+00:00"
    }
   ],
   "Western Europe": [
@@ -301,6 +383,36 @@
     "time": "2026-10-19T15:18:57+00:00"
    },
    {
+    "id": "96d8178905d8",
+    "title": "Russian drone attack on Kyiv rush-hour traffic kills at least 1, injures 6",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-20T08:19:58+00:00"
+   },
+   {
+    "id": "488a33f3f42e",
+    "title": "Fire at oil pumping station in Russia’s Tambov Oblast after drone attack, monitoring channels say",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-20T07:44:54+00:00"
+   },
+   {
+    "id": "d53a562f468a",
+    "title": "General Staff: Russia has lost 1,568,720 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-20T06:01:29+00:00"
+   },
+   {
     "id": "fa70f6ad51f9",
     "title": "Zelensky accuses US of delaying missile deliveries as tensions rise",
     "country": "Ukraine",
@@ -309,130 +421,142 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-20T01:56:59+00:00"
-   },
-   {
-    "id": "55b76280d672",
-    "title": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T23:26:10+00:00"
-   },
-   {
-    "id": "4b4bb072197f",
-    "title": "What Russia's doing to Ukraine is 'fine,' Trump says",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-19T20:25:22+00:00"
-   },
-   {
-    "id": "bf656642e430",
-    "title": "'We will fight' — We asked Ukrainian soldiers about Trump's latest outburst",
-    "country": "Ukraine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-19T19:26:41+00:00"
    }
   ],
-  "Oceania": [
+  "Latin America & Caribbean": [
    {
-    "id": "79dc8aa5570e",
-    "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
-    "country": "Australia",
-    "city": "Melbourne",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-19T19:59:49+00:00"
-   },
-   {
-    "id": "65c6b32900cb",
-    "title": "‘Deeply appalled’: politicians condemn alleged attack after independent MP Helen Haines critically injured",
-    "country": "Australia",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-19T11:10:09+00:00"
-   },
-   {
-    "id": "71db71a0fc98",
-    "title": "M4.9 earthquake, 218 km WNW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-19T07:00:02.899000+00:00"
-   },
-   {
-    "id": "92f5185bf8b0",
-    "title": "Helen Haines was chatting with locals at a dog park on Monday morning. By the afternoon, she was fighting for her life",
-    "country": "Australia",
-    "city": null,
+    "id": "7bda8a58006e",
+    "title": "Haitian gangs target foreign troops in biggest attack on new force",
+    "country": "Haiti",
+    "city": "Port-au-Prince",
     "category": "conflict",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T21:14:37+00:00"
+    "confidence": "C4",
+    "time": "2026-10-20T08:42:58+00:00"
    },
    {
-    "id": "86c7e76bc376",
-    "title": "M5.7 earthquake, 198 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
+    "id": "b86301b3d539",
+    "title": "Taxistas de Quito protestan contra acuerdo con Uber",
+    "country": "Ecuador",
+    "city": "Quito",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-20T03:15:00+00:00"
+   },
+   {
+    "id": "b23d194d7342",
+    "title": "Search under way for four soldiers missing after gang attack in Haiti",
+    "country": "Haiti",
     "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-19T18:52:36.659000+00:00"
-   },
-   {
-    "id": "a4b5f11fe838",
-    "title": "Beau Lamarre-Condon had surgery after alleged double murder but before disposing of bodies, court told",
-    "country": "Australia",
-    "city": "Sydney",
     "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-20T01:38:40+00:00"
+    "time": "2026-10-19T16:40:01+00:00"
    },
    {
-    "id": "3e11a1d27210",
-    "title": "M4.8 earthquake, 88 km WNW of Hihifo, Tonga",
-    "country": "Tonga",
+    "id": "53e961fa2e49",
+    "title": "M4.6 earthquake, 5 km E of San José El Ídolo, Guatemala",
+    "country": "Guatemala",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-19T18:27:46.554000+00:00"
+    "time": "2026-10-19T14:47:45.038000+00:00"
    },
    {
-    "id": "62e1f10ce121",
-    "title": "M4.6 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
+    "id": "6357d2bbe78d",
+    "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-19T12:00:00+00:00"
+   },
+   {
+    "id": "ff77b545b72d",
+    "title": "Museum protesters in Colombia accuse gov’t of erasing history",
+    "country": "Colombia",
+    "city": "Bogota",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-19T10:55:23+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "9436cbb3347d",
+    "title": "M5.1 earthquake, 263 km WSW of Yanglong, China",
+    "country": "China",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-19T16:13:53.665000+00:00"
+    "time": "2026-10-20T06:41:23.116000+00:00"
+   },
+   {
+    "id": "a31910d7bb78",
+    "title": "M4.6 earthquake, 7 km SE of San Julian, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T06:04:19.173000+00:00"
+   },
+   {
+    "id": "f73e51070391",
+    "title": "M4.5 earthquake, 156 km SE of Kuqa, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T00:56:32.769000+00:00"
+   },
+   {
+    "id": "0ff666f2531b",
+    "title": "M4.9 earthquake, 52 km S of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-19T22:42:47.298000+00:00"
+   },
+   {
+    "id": "6f9e6ef92d01",
+    "title": "M5.0 earthquake, 31 km NW of Jiangyou, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-19T10:57:08.127000+00:00"
+   },
+   {
+    "id": "190515e1aae2",
+    "title": "M4.9 earthquake, 54 km NE of Labuan Bajo, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-19T09:45:56.107000+00:00"
    }
   ],
   "South Asia": [
    {
-    "id": "f1d7017ed578",
-    "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
+    "id": "a0b88124da5d",
+    "title": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
     "country": "India",
-    "city": "Mumbai",
-    "category": "terrorism",
-    "severity": 4,
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-19T07:35:06+00:00"
+    "time": "2026-10-20T06:30:18+00:00"
    },
    {
     "id": "b907f88802a8",
@@ -453,28 +577,18 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-19T19:09:22+00:00"
-   },
-   {
-    "id": "d48366212e6c",
-    "title": "ISS mission: 'It's really exciting to see this renewal of French women in space'",
-    "country": "Maldives",
-    "city": "Male",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T04:46:16+00:00"
    }
   ],
   "North America": [
    {
-    "id": "870d57172a06",
-    "title": "US delaying Patriot missiles already paid for under NATO initiative, Zelensky says",
+    "id": "6232076357ee",
+    "title": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
     "country": "United States",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-19T03:51:11+00:00"
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T04:13:28+00:00"
    },
    {
     "id": "177b46070314",
@@ -525,150 +639,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-19T10:07:09+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "b86301b3d539",
-    "title": "Taxistas de Quito protestan contra acuerdo con Uber",
-    "country": "Ecuador",
-    "city": "Quito",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-20T03:15:00+00:00"
-   },
-   {
-    "id": "b23d194d7342",
-    "title": "Search under way for four soldiers missing after gang attack in Haiti",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T16:40:01+00:00"
-   },
-   {
-    "id": "53e961fa2e49",
-    "title": "M4.6 earthquake, 5 km E of San José El Ídolo, Guatemala",
-    "country": "Guatemala",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T14:47:45.038000+00:00"
-   },
-   {
-    "id": "6357d2bbe78d",
-    "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T12:00:00+00:00"
-   },
-   {
-    "id": "ff77b545b72d",
-    "title": "Museum protesters in Colombia accuse gov’t of erasing history",
-    "country": "Colombia",
-    "city": "Bogota",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T10:55:23+00:00"
-   },
-   {
-    "id": "746e836aa677",
-    "title": "Green flood alert in Uruguay",
-    "country": "Uruguay",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T06:24:23+00:00"
-   },
-   {
-    "id": "025638cff40f",
-    "title": "Green flood alert in Nicaragua",
-    "country": "Nicaragua",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T06:05:04+00:00"
-   },
-   {
-    "id": "924931eaf25d",
-    "title": "Green flood alert in El Salvador",
-    "country": "Brazil",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T06:04:57+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "f73e51070391",
-    "title": "M4.5 earthquake, 156 km SE of Kuqa, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T00:56:32.769000+00:00"
-   },
-   {
-    "id": "0ff666f2531b",
-    "title": "M4.9 earthquake, 52 km S of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T22:42:47.298000+00:00"
-   },
-   {
-    "id": "6f9e6ef92d01",
-    "title": "M5.0 earthquake, 31 km NW of Jiangyou, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T10:57:08.127000+00:00"
-   },
-   {
-    "id": "190515e1aae2",
-    "title": "M4.9 earthquake, 54 km NE of Labuan Bajo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T09:45:56.107000+00:00"
-   },
-   {
-    "id": "b87e747ef7a0",
-    "title": "M4.7 earthquake, 163 km WNW of Tobelo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T09:00:39.067000+00:00"
-   },
-   {
-    "id": "ac4c34c5e7b1",
-    "title": "Green flood alert in Malaysia",
-    "country": "Malaysia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T06:44:13+00:00"
    }
   ],
   "Central Asia": [
