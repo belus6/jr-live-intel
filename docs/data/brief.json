@@ -1,17 +1,15 @@
 {
- "generated": "2026-10-20T09:12:34.213334+00:00",
+ "generated": "2026-10-20T14:20:38.463070+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 80,
-  "3": 47,
-  "4": 12,
+  "2": 82,
+  "3": 45,
+  "4": 11,
   "5": 2
  },
- "watch_hits": [
-  "916f96400af4"
- ],
+ "watch_hits": [],
  "regions": {
   "Oceania": [
    {
@@ -25,6 +23,16 @@
     "time": "2026-10-20T00:38:28.008000+00:00"
    },
    {
+    "id": "86c7e76bc376",
+    "title": "M5.7 earthquake, 198 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-10-19T18:52:36.659000+00:00"
+   },
+   {
     "id": "79dc8aa5570e",
     "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
     "country": "Australia",
@@ -33,16 +41,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-19T19:59:49+00:00"
-   },
-   {
-    "id": "65c6b32900cb",
-    "title": "‘Deeply appalled’: politicians condemn alleged attack after independent MP Helen Haines critically injured",
-    "country": "Australia",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-19T11:10:09+00:00"
    },
    {
     "id": "92f5185bf8b0",
@@ -55,24 +53,14 @@
     "time": "2026-10-19T21:14:37+00:00"
    },
    {
-    "id": "86c7e76bc376",
-    "title": "M5.7 earthquake, 198 km NW of Port-Olry, Vanuatu",
+    "id": "c88a108cbac1",
+    "title": "M4.9 earthquake, 199 km NW of Port-Olry, Vanuatu",
     "country": "Vanuatu",
     "city": null,
     "category": "hazard",
-    "severity": 3,
+    "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-19T18:52:36.659000+00:00"
-   },
-   {
-    "id": "dfa697ed9236",
-    "title": "M5.4 earthquake, 196 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-19T10:40:21.108000+00:00"
+    "time": "2026-10-20T08:39:56.237000+00:00"
    },
    {
     "id": "37a9875f96aa",
@@ -93,91 +81,29 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-20T01:38:40+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "0307fee7f822",
-    "title": "At least 18 killed in Houthi attack on military camp in Yemen’s Shabwa",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-10-19T12:51:46+00:00"
    },
    {
-    "id": "926cb60a7dd5",
-    "title": "THREE TERRORISTS ELIMINATED : IDF Strikes Hamas Terrorists Who Violated Gaza Ceasefire",
-    "country": "Palestine",
+    "id": "3e11a1d27210",
+    "title": "M4.8 earthquake, 88 km WNW of Hihifo, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-19T18:27:46.554000+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "afc278c74eb3",
+    "title": "More than 40 civilians killed in Mali attack blamed on Islamic State",
+    "country": "Mali",
     "city": null,
     "category": "terrorism",
     "severity": 4,
     "confidence": "C4",
-    "time": "2026-10-19T23:15:00+00:00"
+    "time": "2026-10-20T12:23:17+00:00"
    },
-   {
-    "id": "356a9f8c6bee",
-    "title": "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
-    "country": "Sudan",
-    "city": "Khartoum",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-19T14:00:04+00:00"
-   },
-   {
-    "id": "58dcee3c58e9",
-    "title": "160 people reported killed in escalating drone attacks across Sudan",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T21:38:46+00:00"
-   },
-   {
-    "id": "da4d1294a286",
-    "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T17:15:23+00:00"
-   },
-   {
-    "id": "f90e615734b9",
-    "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T16:20:51+00:00"
-   },
-   {
-    "id": "7131c7ca8f52",
-    "title": "Drone attack near market kills 80 in Sudan",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T14:45:53+00:00"
-   },
-   {
-    "id": "21e7149dce1c",
-    "title": "Hegseth wrong to say most non-US Nato forces in Afghanistan did not fight, says No 10",
-    "country": "Afghanistan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T14:13:16+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
    {
     "id": "06a051ad1e64",
     "title": "Helen Haines live updates: Helen Haines loses leg after alleged attack outside electorate office",
@@ -219,23 +145,13 @@
     "time": "2026-10-19T18:04:14+00:00"
    },
    {
-    "id": "2933fa68143c",
-    "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-19T13:21:37+00:00"
-   },
-   {
     "id": "496deb219d20",
     "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
     "country": "Kenya",
     "city": null,
     "category": "crime",
     "severity": 2,
-    "confidence": "B2",
+    "confidence": "B1",
     "time": "2026-10-19T16:08:14+00:00"
    },
    {
@@ -249,14 +165,14 @@
     "time": "2026-10-19T15:25:24+00:00"
    },
    {
-    "id": "5c43eb83be09",
-    "title": "US raises Kenya travel advisory over Ebola and security concerns",
-    "country": "Kenya",
+    "id": "f1c9a44f06d0",
+    "title": "Seychelles",
+    "country": "Seychelles",
     "city": null,
-    "category": "health",
+    "category": "advisory",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-20T08:34:41+00:00"
+    "confidence": "A1",
+    "time": "2026-10-20T13:59:57+00:00"
    }
   ],
   "Western Europe": [
@@ -281,14 +197,14 @@
     "time": "2026-10-19T18:45:57+00:00"
    },
    {
-    "id": "74184b6cacf0",
-    "title": "French PM Lecornu says ready to declare state of emergency 'if needed'",
+    "id": "d438a8bd211b",
+    "title": "France: Paris imposes overnight curfew after wave of rioting",
     "country": "France",
-    "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-19T12:51:21+00:00"
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C1",
+    "time": "2026-10-20T10:51:36+00:00"
    },
    {
     "id": "91cfb6d5d324",
@@ -299,6 +215,16 @@
     "severity": 3,
     "confidence": "C1",
     "time": "2026-10-19T22:45:00+00:00"
+   },
+   {
+    "id": "c0cf2dc43304",
+    "title": "France protests : Curfew announced amid violent unrest",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C1",
+    "time": "2026-10-20T12:00:00+00:00"
    },
    {
     "id": "815639a3423b",
@@ -321,24 +247,96 @@
     "time": "2026-10-19T17:09:26+00:00"
    },
    {
-    "id": "1b3f1990c928",
-    "title": "Clean up begins after French riots but police remain",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-19T21:30:08+00:00"
-   },
-   {
-    "id": "5452e6af8b29",
-    "title": "France protests draw global attention: Trump, Vance blame immigration for unrest",
+    "id": "716840d80e66",
+    "title": "France to impose new curfews as authorities seek to restore order after riots",
     "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 3,
     "confidence": "B2",
-    "time": "2026-10-19T14:04:26+00:00"
+    "time": "2026-10-20T12:00:00+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "926cb60a7dd5",
+    "title": "THREE TERRORISTS ELIMINATED : IDF Strikes Hamas Terrorists Who Violated Gaza Ceasefire",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-19T23:15:00+00:00"
+   },
+   {
+    "id": "9b6055a2dba8",
+    "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T14:09:42+00:00"
+   },
+   {
+    "id": "cfd56be3bb43",
+    "title": "UN denounces deadly wave of drone strikes in Sudan - Shafaqna English | International Shia News & Fatwas",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-20T13:15:00+00:00"
+   },
+   {
+    "id": "88b202910e07",
+    "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T13:00:21+00:00"
+   },
+   {
+    "id": "427740e694fb",
+    "title": "Yemen war continues to force families from homes amid hunger and disease",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T12:00:00+00:00"
+   },
+   {
+    "id": "212ab83025ef",
+    "title": "Poland has no Patriot missiles left for Ukraine, Sikorski says",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-20T11:45:08+00:00"
+   },
+   {
+    "id": "72fe1ec91617",
+    "title": "Masoud Pezeshkian: Peace, Not Surrender",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T11:02:31+00:00"
+   },
+   {
+    "id": "58dcee3c58e9",
+    "title": "160 people reported killed in escalating drone attacks across Sudan",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-19T21:38:46+00:00"
    }
   ],
   "Eastern Europe": [
@@ -383,6 +381,26 @@
     "time": "2026-10-19T15:18:57+00:00"
    },
    {
+    "id": "c94b5d09edfd",
+    "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T14:16:31+00:00"
+   },
+   {
+    "id": "aa78a1bf95ad",
+    "title": "Ukraine - Russia war latest : Trump team admits Patriot missiles may not have been delivered to Kyiv",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-20T11:45:00+00:00"
+   },
+   {
     "id": "96d8178905d8",
     "title": "Russian drone attack on Kyiv rush-hour traffic kills at least 1, injures 6",
     "country": "Ukraine",
@@ -393,34 +411,14 @@
     "time": "2026-10-20T08:19:58+00:00"
    },
    {
-    "id": "488a33f3f42e",
-    "title": "Fire at oil pumping station in Russia’s Tambov Oblast after drone attack, monitoring channels say",
-    "country": "Russia",
-    "city": null,
+    "id": "4c3446e274ad",
+    "title": "Russian drone attack on Kyiv rush-hour traffic kills at least 3, injures 4",
+    "country": "Ukraine",
+    "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-20T07:44:54+00:00"
-   },
-   {
-    "id": "d53a562f468a",
-    "title": "General Staff: Russia has lost 1,568,720 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-20T06:01:29+00:00"
-   },
-   {
-    "id": "fa70f6ad51f9",
-    "title": "Zelensky accuses US of delaying missile deliveries as tensions rise",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-20T01:56:59+00:00"
+    "time": "2026-10-20T08:19:58+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -433,6 +431,26 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-20T08:42:58+00:00"
+   },
+   {
+    "id": "043e3191cb10",
+    "title": "French protests : Is it game over for Macron centrists before elections ? - Grenada Chronicle – Daily Grenada And Caribbean News",
+    "country": "Grenada",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-20T12:45:00+00:00"
+   },
+   {
+    "id": "dffa827d92a3",
+    "title": "Protesters target Meta office in Brazil over alleged political bias",
+    "country": "Brazil",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-20T12:02:05+00:00"
    },
    {
     "id": "b86301b3d539",
@@ -463,29 +481,29 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-19T14:47:45.038000+00:00"
-   },
-   {
-    "id": "6357d2bbe78d",
-    "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T12:00:00+00:00"
-   },
-   {
-    "id": "ff77b545b72d",
-    "title": "Museum protesters in Colombia accuse gov’t of erasing history",
-    "country": "Colombia",
-    "city": "Bogota",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T10:55:23+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "34b96d132fca",
+    "title": "Indonesian anger builds over wildfires , toxic haze",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-20T13:30:00+00:00"
+   },
+   {
+    "id": "bf34b3578e7c",
+    "title": "Indonesians protest over land-clearing fires",
+    "country": "Indonesia",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T13:23:44+00:00"
+   },
    {
     "id": "9436cbb3347d",
     "title": "M5.1 earthquake, 263 km WSW of Yanglong, China",
@@ -525,29 +543,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-19T22:42:47.298000+00:00"
-   },
-   {
-    "id": "6f9e6ef92d01",
-    "title": "M5.0 earthquake, 31 km NW of Jiangyou, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T10:57:08.127000+00:00"
-   },
-   {
-    "id": "190515e1aae2",
-    "title": "M4.9 earthquake, 54 km NE of Labuan Bajo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-19T09:45:56.107000+00:00"
    }
   ],
   "South Asia": [
+   {
+    "id": "26006662ee6a",
+    "title": "India is ultimate target : RSS chief Mohan Bhagwat on regime change efforts , calls for restraint in protests",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-20T12:00:00+00:00"
+   },
    {
     "id": "a0b88124da5d",
     "title": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
@@ -609,36 +617,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-20T01:00:00+00:00"
-   },
-   {
-    "id": "619ec0d47f0a",
-    "title": "First Thing: US ambassador in rare diplomatic break with Israel over attack on US journalist",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T11:23:24+00:00"
-   },
-   {
-    "id": "c461e79f441a",
-    "title": "Mexican protesters demanding clean water storm state congress",
-    "country": "Mexico",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T10:08:01+00:00"
-   },
-   {
-    "id": "86180fcc49f3",
-    "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-19T10:07:09+00:00"
    }
   ],
   "Central Asia": [
