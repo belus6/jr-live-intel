@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T15:15:04.002612+00:00",
+ "generated": "2026-10-21T19:21:07.130078+00:00",
  "sources": [
   {
    "id": "us-state-advisories",
@@ -15,7 +15,7 @@
    "ok": true,
    "items": 20,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.1
   },
   {
    "id": "cdc-notices",
@@ -23,7 +23,7 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "id": "usgs-quakes",
@@ -37,9 +37,9 @@
    "id": "gdacs",
    "name": "GDACS disaster alerts",
    "ok": true,
-   "items": 99,
+   "items": 102,
    "note": "ok",
-   "secs": 3.5
+   "secs": 2.5
   },
   {
    "id": "reliefweb",
@@ -47,15 +47,15 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.0
   },
   {
    "id": "un-news",
    "name": "UN News",
    "ok": true,
-   "items": 3,
+   "items": 4,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "bbc-world",
@@ -69,16 +69,17 @@
    "id": "aljazeera",
    "name": "Al Jazeera",
    "ok": true,
-   "items": 5,
+   "items": 8,
    "note": "ok",
    "secs": 0.2
   },
   {
    "id": "france24",
    "name": "France 24",
-   "ok": false,
-   "items": 0,
-   "note": "403 Client Error: Forbidden for url: https://www.france24.com/en/rss"
+   "ok": true,
+   "items": 10,
+   "note": "ok",
+   "secs": 0.3
   },
   {
    "id": "dw",
@@ -86,13 +87,13 @@
    "ok": true,
    "items": 4,
    "note": "ok",
-   "secs": 0.5
+   "secs": 0.3
   },
   {
    "id": "guardian-world",
    "name": "The Guardian World",
    "ok": true,
-   "items": 11,
+   "items": 9,
    "note": "ok",
    "secs": 0.7
   },
@@ -102,21 +103,21 @@
    "ok": true,
    "items": 3,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "africanews",
    "name": "Africanews",
    "ok": true,
-   "items": 16,
+   "items": 18,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.4
   },
   {
    "id": "kyiv-independent",
    "name": "Kyiv Independent",
    "ok": true,
-   "items": 4,
+   "items": 2,
    "note": "ok",
    "secs": 0.3
   },
