@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-20T21:53:47.542855+00:00",
+ "generated": "2026-10-21T00:24:03.726145+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 91,
-  "3": 48,
-  "4": 6,
+  "2": 86,
+  "3": 43,
+  "4": 4,
   "5": 2
  },
  "watch_hits": [],
@@ -21,16 +21,6 @@
     "severity": 5,
     "confidence": "B2",
     "time": "2026-10-20T16:24:47+00:00"
-   },
-   {
-    "id": "926cb60a7dd5",
-    "title": "THREE TERRORISTS ELIMINATED : IDF Strikes Hamas Terrorists Who Violated Gaza Ceasefire",
-    "country": "Palestine",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-19T23:15:00+00:00"
    },
    {
     "id": "224804e3ee0e",
@@ -91,6 +81,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-20T14:09:42+00:00"
+   },
+   {
+    "id": "cfd56be3bb43",
+    "title": "UN denounces deadly wave of drone strikes in Sudan - Shafaqna English | International Shia News & Fatwas",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-20T13:15:00+00:00"
    }
   ],
   "Oceania": [
@@ -187,16 +187,6 @@
     "time": "2026-10-20T10:51:36+00:00"
    },
    {
-    "id": "91cfb6d5d324",
-    "title": "Paris police issue overnight curfew in 2 areas of French capital to try to prevent further disorder",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C1",
-    "time": "2026-10-19T22:45:00+00:00"
-   },
-   {
     "id": "c0cf2dc43304",
     "title": "France protests : Curfew announced amid violent unrest",
     "country": "France",
@@ -205,16 +195,6 @@
     "severity": 3,
     "confidence": "C1",
     "time": "2026-10-20T12:00:00+00:00"
-   },
-   {
-    "id": "815639a3423b",
-    "title": "Nightly curfews set to begin in France after peaceful protests give way to violence and looting",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C1",
-    "time": "2026-10-19T23:00:00+00:00"
    },
    {
     "id": "716840d80e66",
@@ -235,6 +215,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-20T20:09:52+00:00"
+   },
+   {
+    "id": "7bbde21e6489",
+    "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+    "country": "Norway",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T19:32:28+00:00"
+   },
+   {
+    "id": "06e5114264ef",
+    "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
+    "country": "Norway",
+    "city": "Oslo",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-20T17:41:17+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -279,6 +279,16 @@
     "time": "2026-10-20T01:52:32+00:00"
    },
    {
+    "id": "0c954c433743",
+    "title": "Nigeria records first Ebola case of Africa's latest outbreak",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "category": "health",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-20T19:06:29+00:00"
+   },
+   {
     "id": "fbfe8e2dac80",
     "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
     "country": "Nigeria",
@@ -289,47 +299,89 @@
     "time": "2026-10-20T17:31:26+00:00"
    },
    {
-    "id": "9eecfef8aa40",
-    "title": "Green forest fire notification in South Africa, Mozambique",
-    "country": "South Africa",
+    "id": "4710bada1ff6",
+    "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+    "country": "Kenya",
     "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T19:01:47+00:00"
-   },
-   {
-    "id": "8163a499c836",
-    "title": "Breaking: Nigeria records first Ebola case of Africa's latest outbreak",
-    "country": "Nigeria",
-    "city": "Abuja",
     "category": "health",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-20T17:56:02+00:00"
+    "confidence": "B3",
+    "time": "2026-10-20T23:41:30+00:00"
    },
    {
-    "id": "769678a82395",
-    "title": "Green forest fire notification in Mozambique, Zambia",
-    "country": "Mozambique",
+    "id": "c0c7de8391ef",
+    "title": "Nigeria confirms first Ebola case",
+    "country": "DRC",
     "city": null,
-    "category": "hazard",
+    "category": "health",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T15:03:14+00:00"
+    "confidence": "B3",
+    "time": "2026-10-20T21:28:37+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "d396b23de0d2",
+    "title": "Zelensky confirms ballistic missile early warning systems operational after skipped alerts",
+    "country": "United States",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-20T21:34:57+00:00"
+   },
+   {
+    "id": "24582ff46942",
+    "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T18:33:49+00:00"
+   },
+   {
+    "id": "d578c022d5f6",
+    "title": "CDC reports third measles death in the United States this year",
+    "country": "United States",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T17:58:09+00:00"
+   },
+   {
+    "id": "6232076357ee",
+    "title": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T04:13:28+00:00"
+   },
+   {
+    "id": "177b46070314",
+    "title": "At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – as it happened",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T01:57:40+00:00"
+   },
+   {
+    "id": "27a94519d803",
+    "title": "Guillermo del Toro respalda las protestas por el agua en Guadalajara y lamenta el mundo en ruinas",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-20T01:00:00+00:00"
    }
   ],
   "Eastern Europe": [
-   {
-    "id": "dd2b6c4c00e4",
-    "title": "Children among six killed in Russian drone strike on Ukraine park",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-19T23:12:42+00:00"
-   },
    {
     "id": "2618d8c4976e",
     "title": "Ukraine war latest: Drone strikes on Yandex data centers disrupt Russian court hearings, media reports",
@@ -399,68 +451,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-20T14:16:31+00:00"
-   }
-  ],
-  "North America": [
+   },
    {
-    "id": "d396b23de0d2",
-    "title": "Zelensky confirms ballistic missile early warning systems operational after skipped alerts",
-    "country": "United States",
-    "city": null,
+    "id": "aa78a1bf95ad",
+    "title": "Ukraine - Russia war latest : Trump team admits Patriot missiles may not have been delivered to Kyiv",
+    "country": "Ukraine",
+    "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-20T21:34:57+00:00"
-   },
-   {
-    "id": "24582ff46942",
-    "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T18:33:49+00:00"
-   },
-   {
-    "id": "d578c022d5f6",
-    "title": "CDC reports third measles death in the United States this year",
-    "country": "United States",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T17:58:09+00:00"
-   },
-   {
-    "id": "6232076357ee",
-    "title": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T04:13:28+00:00"
-   },
-   {
-    "id": "177b46070314",
-    "title": "At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – as it happened",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T01:57:40+00:00"
-   },
-   {
-    "id": "27a94519d803",
-    "title": "Guillermo del Toro respalda las protestas por el agua en Guadalajara y lamenta el mundo en ruinas",
-    "country": "Mexico",
-    "city": "Guadalajara",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-20T01:00:00+00:00"
+    "time": "2026-10-20T11:45:00+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -516,6 +516,16 @@
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "714223c14d2f",
+    "title": "Florida kills 77-year-old man in state’s 18th execution of year",
+    "country": "Vietnam",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T23:22:21+00:00"
+   },
    {
     "id": "541a02ea64d0",
     "title": "Green forest fire notification in China",
@@ -585,19 +595,19 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-20T13:23:44+00:00"
-   },
+   }
+  ],
+  "South Asia": [
    {
-    "id": "9436cbb3347d",
-    "title": "M5.1 earthquake, 263 km WSW of Yanglong, China",
-    "country": "China",
+    "id": "0ece2dffc481",
+    "title": "M4.6 earthquake, 115 km NNE of Barishal, Pakistan",
+    "country": "Pakistan",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-20T06:41:23.116000+00:00"
-   }
-  ],
-  "South Asia": [
+    "time": "2026-10-20T23:16:43.934000+00:00"
+   },
    {
     "id": "143a86fb482f",
     "title": "Who are the women powering India's youth-led protests?",
