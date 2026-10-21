@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-21T00:24:03.726145+00:00",
+ "generated": "2026-10-21T05:08:48.615909+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 86,
-  "3": 43,
-  "4": 4,
-  "5": 2
+  "2": 89,
+  "3": 41,
+  "4": 2,
+  "5": 1
  },
  "watch_hits": [],
  "regions": {
@@ -19,8 +19,18 @@
     "city": null,
     "category": "conflict",
     "severity": 5,
-    "confidence": "B2",
+    "confidence": "B1",
     "time": "2026-10-20T16:24:47+00:00"
+   },
+   {
+    "id": "0677ecf68a3a",
+    "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
+    "country": "Iran",
+    "city": "Tehran",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-21T05:00:02+00:00"
    },
    {
     "id": "224804e3ee0e",
@@ -81,78 +91,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-20T14:09:42+00:00"
-   },
-   {
-    "id": "cfd56be3bb43",
-    "title": "UN denounces deadly wave of drone strikes in Sudan - Shafaqna English | International Shia News & Fatwas",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-20T13:15:00+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "111054a886b8",
-    "title": "M5.0 earthquake, 205 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-10-20T00:38:28.008000+00:00"
-   },
-   {
-    "id": "626a959f42fd",
-    "title": "M4.9 earthquake, 187 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T20:03:26.613000+00:00"
-   },
-   {
-    "id": "80cb62df70cb",
-    "title": "M4.8 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T16:29:43.678000+00:00"
-   },
-   {
-    "id": "c88a108cbac1",
-    "title": "M4.9 earthquake, 199 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T08:39:56.237000+00:00"
-   },
-   {
-    "id": "37a9875f96aa",
-    "title": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T04:31:52+00:00"
-   },
-   {
-    "id": "a4b5f11fe838",
-    "title": "Beau Lamarre-Condon had surgery after alleged double murder but before disposing of bodies, court told",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T01:38:40+00:00"
    }
   ],
   "Western Europe": [
@@ -165,16 +103,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-20T13:28:07+00:00"
-   },
-   {
-    "id": "4a3be1e60bd1",
-    "title": "Why terrorism laws stopped Sally Rooney selling books in the UK – podcast",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-20T02:00:12+00:00"
    },
    {
     "id": "d438a8bd211b",
@@ -197,6 +125,16 @@
     "time": "2026-10-20T12:00:00+00:00"
    },
    {
+    "id": "3a8b98d63e59",
+    "title": "Italy sends troops, toughens security laws after Milan clashes",
+    "country": "Italy",
+    "city": "Milan",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-20T20:09:52+00:00"
+   },
+   {
     "id": "716840d80e66",
     "title": "France to impose new curfews as authorities seek to restore order after riots",
     "country": "France",
@@ -207,14 +145,14 @@
     "time": "2026-10-20T12:00:00+00:00"
    },
    {
-    "id": "3a8b98d63e59",
-    "title": "Italy sends troops, toughens security laws after Milan clashes",
-    "country": "Italy",
-    "city": "Milan",
-    "category": "conflict",
+    "id": "c38487fd013c",
+    "title": "Live: French PM Lecornu to meet with unions ahead of new protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-20T20:09:52+00:00"
+    "time": "2026-10-21T00:45:06+00:00"
    },
    {
     "id": "7bbde21e6489",
@@ -249,16 +187,6 @@
     "time": "2026-10-20T12:23:17+00:00"
    },
    {
-    "id": "06a051ad1e64",
-    "title": "Helen Haines live updates: Helen Haines loses leg after alleged attack outside electorate office",
-    "country": "CAR",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-20T03:29:50+00:00"
-   },
-   {
     "id": "102241681ea4",
     "title": "Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc",
     "country": "Niger",
@@ -267,16 +195,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-20T12:21:24+00:00"
-   },
-   {
-    "id": "6ce4c6574362",
-    "title": "The human cost of surging US air strikes in Somalia",
-    "country": "Somalia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-20T01:52:32+00:00"
    },
    {
     "id": "0c954c433743",
@@ -309,6 +227,16 @@
     "time": "2026-10-20T23:41:30+00:00"
    },
    {
+    "id": "3935d0d4553b",
+    "title": "Green forest fire notification in Zimbabwe, Mozambique",
+    "country": "Zimbabwe",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T23:19:54+00:00"
+   },
+   {
     "id": "c0c7de8391ef",
     "title": "Nigeria confirms first Ebola case",
     "country": "DRC",
@@ -317,6 +245,16 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-20T21:28:37+00:00"
+   },
+   {
+    "id": "9eecfef8aa40",
+    "title": "Green forest fire notification in South Africa, Mozambique",
+    "country": "South Africa",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T19:01:47+00:00"
    }
   ],
   "North America": [
@@ -329,6 +267,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-20T21:34:57+00:00"
+   },
+   {
+    "id": "63a4d8aa43e5",
+    "title": "Trump says he will have spent $400m to support Republicans in midterms – as it happened",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-21T02:02:09+00:00"
    },
    {
     "id": "24582ff46942",
@@ -349,36 +297,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-20T17:58:09+00:00"
-   },
-   {
-    "id": "6232076357ee",
-    "title": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T04:13:28+00:00"
-   },
-   {
-    "id": "177b46070314",
-    "title": "At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – as it happened",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T01:57:40+00:00"
-   },
-   {
-    "id": "27a94519d803",
-    "title": "Guillermo del Toro respalda las protestas por el agua en Guadalajara y lamenta el mundo en ruinas",
-    "country": "Mexico",
-    "city": "Guadalajara",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-20T01:00:00+00:00"
    }
   ],
   "Eastern Europe": [
@@ -503,19 +421,143 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-20T12:02:05+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "0648d715b432",
+    "title": "Australia’s largest datacentre operator NextDCs shares dive as Melbourne expansion delayed",
+    "country": "Australia",
+    "city": "Melbourne",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-21T04:58:25+00:00"
    },
    {
-    "id": "b86301b3d539",
-    "title": "Taxistas de Quito protestan contra acuerdo con Uber",
-    "country": "Ecuador",
-    "city": "Quito",
+    "id": "df40ac236f14",
+    "title": "No bail for alleged Helen Haines attacker as police chief warns of Australia’s ‘febrile’ political environment",
+    "country": "Australia",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-21T02:32:12+00:00"
+   },
+   {
+    "id": "626a959f42fd",
+    "title": "M4.9 earthquake, 187 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T20:03:26.613000+00:00"
+   },
+   {
+    "id": "80cb62df70cb",
+    "title": "M4.8 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T16:29:43.678000+00:00"
+   },
+   {
+    "id": "c88a108cbac1",
+    "title": "M4.9 earthquake, 199 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T08:39:56.237000+00:00"
+   },
+   {
+    "id": "2156e477fcc3",
+    "title": "M5.2 earthquake, 206 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T06:29:22.432000+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "8ad76a3a81bc",
+    "title": "UN experts call on India to stop using ‘excessive force’ against protesters",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-21T01:43:38+00:00"
+   },
+   {
+    "id": "0ece2dffc481",
+    "title": "M4.6 earthquake, 115 km NNE of Barishal, Pakistan",
+    "country": "Pakistan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-20T23:16:43.934000+00:00"
+   },
+   {
+    "id": "143a86fb482f",
+    "title": "Who are the women powering India's youth-led protests?",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T15:04:00+00:00"
+   },
+   {
+    "id": "439bd2730e30",
+    "title": "Who are the women powering India's youth-led 'Cockroach' protests?",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T15:04:00+00:00"
+   },
+   {
+    "id": "26006662ee6a",
+    "title": "India is ultimate target : RSS chief Mohan Bhagwat on regime change efforts , calls for restraint in protests",
+    "country": "India",
+    "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-20T03:15:00+00:00"
+    "time": "2026-10-20T12:00:00+00:00"
+   },
+   {
+    "id": "a0b88124da5d",
+    "title": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-20T06:30:18+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "6ec40ba89042",
+    "title": "M4.5 earthquake, 2 km N of Honchō, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-21T01:04:29.196000+00:00"
+   },
    {
     "id": "714223c14d2f",
     "title": "Florida kills 77-year-old man in state’s 18th execution of year",
@@ -585,78 +627,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-20T13:27:24.320000+00:00"
-   },
-   {
-    "id": "bf34b3578e7c",
-    "title": "Indonesians protest over land-clearing fires",
-    "country": "Indonesia",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T13:23:44+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "0ece2dffc481",
-    "title": "M4.6 earthquake, 115 km NNE of Barishal, Pakistan",
-    "country": "Pakistan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T23:16:43.934000+00:00"
-   },
-   {
-    "id": "143a86fb482f",
-    "title": "Who are the women powering India's youth-led protests?",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T15:04:00+00:00"
-   },
-   {
-    "id": "439bd2730e30",
-    "title": "Who are the women powering India's youth-led 'Cockroach' protests?",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T15:04:00+00:00"
-   },
-   {
-    "id": "26006662ee6a",
-    "title": "India is ultimate target : RSS chief Mohan Bhagwat on regime change efforts , calls for restraint in protests",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-20T12:00:00+00:00"
-   },
-   {
-    "id": "a0b88124da5d",
-    "title": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T06:30:18+00:00"
-   },
-   {
-    "id": "b907f88802a8",
-    "title": "Los dirigentes del Movimiento Cucaracha seguirán bajo custodia judicial por las protestas electorales en Delhi",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-20T01:45:00+00:00"
    }
   ]
  }

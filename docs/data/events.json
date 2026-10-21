@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-21T00:24:03.726145+00:00",
+ "generated": "2026-10-21T05:08:48.615909+00:00",
  "sample": false,
- "count": 527,
+ "count": 530,
  "events": [
   {
    "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
@@ -25,11 +25,16 @@
      "name": "Deutsche Welle",
      "url": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-world-4025-rdf",
      "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
+   "confidence": "B1",
+   "corroboration": 3,
    "id": "dff5c3ae82c1",
    "flag": "🇸🇩",
    "region": "Middle East & N. Africa",
@@ -1106,34 +1111,6 @@
    "watch": []
   },
   {
-   "title": "M6.9 earthquake, 76 km NE of Ozernovskiy, Russia",
-   "summary": "Depth 135 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
-   "time": "2026-10-16T03:35:31.925000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 51.9848,
-   "lon": 157.2701,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-16T05:03:05.780574+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "9c91a59f6595",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
    "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
@@ -1335,6 +1312,62 @@
    "watch": []
   },
   {
+   "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
+   "summary": "",
+   "url": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
+   "time": "2026-10-21T05:00:02+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Iran",
+   "city": "Tehran",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0677ecf68a3a",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Live: French PM Lecornu to meet with unions ahead of new protests",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests",
+   "time": "2026-10-21T00:45:06+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c38487fd013c",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
    "title": "Zelensky confirms ballistic missile early warning systems operational after skipped alerts",
    "summary": "",
    "url": "https://kyivindependent.com/zelensky-confirms-ballistic-missile-early-warning-systems-operational-after-skipped-alerts/",
@@ -1407,11 +1440,16 @@
      "name": "France 24",
      "url": "https://www.france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes",
      "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-20T21:53:47.542855+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B2",
+   "corroboration": 2,
    "id": "3a8b98d63e59",
    "flag": "🇮🇹",
    "region": "Western Europe",
@@ -4669,90 +4707,6 @@
    "watch": []
   },
   {
-   "title": "Massive Ukrainian drone attack hit oil facility, bridge, and data centers in St. Petersburg",
-   "summary": "",
-   "url": "https://kyivindependent.com/flames-explosions-reported-amid-large-ukrainian-drone-attack-on-st-petersburg/",
-   "time": "2026-10-18T01:34:01+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/flames-explosions-reported-amid-large-ukrainian-drone-attack-on-st-petersburg/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-18T04:56:26.365911+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "3af4dfff8905",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Massive Ukrainian drone attack hit oil facility, bridge, and data center in St. Petersburg",
-   "summary": "",
-   "url": "https://kyivindependent.com/flames-explosions-reported-amid-large-ukrainian-drone-attack-on-st-petersburg/",
-   "time": "2026-10-18T01:34:01+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/flames-explosions-reported-amid-large-ukrainian-drone-attack-on-st-petersburg/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-18T16:44:19.543868+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "19390478f32d",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss",
-   "time": "2026-10-18T01:12:44+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T04:56:26.365911+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "0cf97766da4e",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
@@ -6089,64 +6043,255 @@
    "watch": []
   },
   {
-   "title": "Trump asks US ambassador to Greece Kimberly Guilfoyle to resign over bribery allegations",
+   "title": "Australia’s largest datacentre operator NextDCs shares dive as Melbourne expansion delayed",
    "summary": "",
-   "url": "https://www.france24.com/en/americas/20261014-trump-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-resign-over-allegations",
-   "time": "2026-10-14T03:23:40+00:00",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/21/australias-largest-datacentre-operator-nextdcs-shares-dive-as-melbourne-expansion-delayed",
+   "time": "2026-10-21T04:58:25+00:00",
    "tier": "B",
-   "category": "political",
-   "country": "Greece",
-   "city": null,
+   "category": "unrest",
+   "country": "Australia",
+   "city": "Melbourne",
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261014-trump-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-resign-over-allegations",
-     "tier": "B"
-    },
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/21/australias-largest-datacentre-operator-nextdcs-shares-dive-as-melbourne-expansion-delayed",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-14T10:28:01.913583+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "e3b444d110e1",
-   "flag": "🇬🇷",
-   "region": "Western Europe",
-   "baseline": 1.65,
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0648d715b432",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
    "watch": []
   },
   {
-   "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+   "title": "A student protest movement has gripped Serbia for two years. This weekend it will try to take power",
    "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss",
-   "time": "2026-10-14T01:15:30+00:00",
+   "url": "https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power",
+   "time": "2026-10-21T04:00:07+00:00",
    "tier": "B",
-   "category": "political",
+   "category": "unrest",
+   "country": "Serbia",
+   "city": "Belgrade",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "606f1a9cfeb6",
+   "flag": "🇷🇸",
+   "region": "Eastern Europe",
+   "baseline": 2.13,
+   "watch": []
+  },
+  {
+   "title": "Firefighters voice growing concerns over water supplies to tackle UK wildfires",
+   "summary": "",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/21/firefighters-growing-concerns-water-supplies-tackle-wildfires",
+   "time": "2026-10-21T04:00:05+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/21/firefighters-growing-concerns-water-supplies-tackle-wildfires",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c157253df9bd",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "No bail for alleged Helen Haines attacker as police chief warns of Australia’s ‘febrile’ political environment",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
+   "time": "2026-10-21T02:32:12+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Australia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "df40ac236f14",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Portugal cost-of-living protesters pour back into camps cleared by police",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss",
+   "time": "2026-10-21T02:19:06+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Portugal",
+   "city": "Lisbon",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ed5e2a950914",
+   "flag": "🇵🇹",
+   "region": "Western Europe",
+   "baseline": 1.0,
+   "watch": []
+  },
+  {
+   "title": "Trump says he will have spent $400m to support Republicans in midterms – as it happened",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+   "time": "2026-10-21T02:02:09+00:00",
+   "tier": "B",
+   "category": "unrest",
    "country": "United States",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss",
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-14T05:17:48.565044+00:00",
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
    "confidence": "B3",
    "corroboration": 1,
-   "id": "19aeee5b3c33",
+   "id": "63a4d8aa43e5",
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "UN experts call on India to stop using ‘excessive force’ against protesters",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters?traffic_source=rss",
+   "time": "2026-10-21T01:43:38+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8ad76a3a81bc",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "France is divided over who to blame for weekend riots and what to learn from them",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-21T01:22:51+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ffa55b95854a",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 2 km N of Honchō, Japan",
+   "summary": "Depth 90 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn",
+   "time": "2026-10-21T01:04:29.196000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Japan",
+   "city": null,
+   "lat": 35.7245,
+   "lon": 139.9836,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "6ec40ba89042",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
    "watch": []
   },
   {
@@ -6203,6 +6348,34 @@
    "flag": "🇻🇳",
    "region": "East & SE Asia",
    "baseline": 2.2,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Zimbabwe, Mozambique",
+   "summary": "On 07/10/2026, a forest fire started in Zimbabwe, Mozambique, until 20/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032988",
+   "time": "2026-10-20T23:19:54+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Zimbabwe",
+   "city": null,
+   "lat": -16.60834757735497,
+   "lon": 32.775486676340385,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032988",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3935d0d4553b",
+   "flag": "🇿🇼",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.52,
    "watch": []
   },
   {
@@ -6396,6 +6569,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "148ed6305e21",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "French PM vows 'massive' police deployment for new demonstrations",
+   "summary": "",
+   "url": "https://www.france24.com/en/french-pm-vows-massive-police-deployment-for-new-demonstrations",
+   "time": "2026-10-20T20:05:44+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/french-pm-vows-massive-police-deployment-for-new-demonstrations",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c7914b50f6d6",
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
@@ -6966,6 +7167,34 @@
    "flag": "🇲🇿",
    "region": "Sub-Saharan Africa",
    "baseline": 3.83,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Mozambique, Zambia",
+   "summary": "On 16/10/2026, a forest fire started in Mozambique, Zambia, until 20/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032957",
+   "time": "2026-10-20T15:03:14+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Zambia",
+   "city": null,
+   "lat": -15.4733541779697,
+   "lon": 30.666684187621502,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032957",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "0a7ada0360d3",
+   "flag": "🇿🇲",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.88,
    "watch": []
   },
   {
@@ -8357,6 +8586,34 @@
    "flag": "🇮🇳",
    "region": "South Asia",
    "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "M5.2 earthquake, 206 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5",
+   "time": "2026-10-20T06:29:22.432000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.857,
+   "lon": 165.5874,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T05:08:48.615909+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "2156e477fcc3",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -10983,62 +11240,6 @@
    "watch": []
   },
   {
-   "title": "ISS mission: 'It's really exciting to see this renewal of French women in space'",
-   "summary": "",
-   "url": "https://www.france24.com/en/iss-mission-it-s-really-exciting-to-see-this-renewal-of-french-women-in-space",
-   "time": "2026-10-19T04:46:16+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Maldives",
-   "city": "Male",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/iss-mission-it-s-really-exciting-to-see-this-renewal-of-french-women-in-space",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d48366212e6c",
-   "flag": "🇲🇻",
-   "region": "South Asia",
-   "baseline": 2.32,
-   "watch": []
-  },
-  {
-   "title": "France's government under pressure after weekend of widespread violence",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-19T04:16:46+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "21cac6fc4cf2",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Level 1 - Ebola Bundibugyo Virus Disease in Kenya",
    "summary": "The Kenyan Ministry of Health has confirmed an imported case, as well as other linked cases, of Ebola disease caused by Bundibugyo virus in Nairobi, Kenya.",
    "url": "https://wwwnc.cdc.gov/travel/notices/level1/ebola-kenya",
@@ -11067,62 +11268,6 @@
    "watch": [
     "Programme team, Nairobi"
    ]
-  },
-  {
-   "title": "‘It broke my heart’: Limoges residents reel after town hall fire",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss",
-   "time": "2026-10-19T03:40:52+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "58bc79742c63",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "‘Limited evidence’ of protester violence at Sydney demonstration against Israeli president Isaac Herzog visit",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/19/limited-evidence-violence-sydney-protest-herzog-visit-police-ntwnfb",
-   "time": "2026-10-19T01:39:12+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Australia",
-   "city": "Sydney",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/19/limited-evidence-violence-sydney-protest-herzog-visit-police-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T01:44:26.337192+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "75105262887e",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
   },
   {
    "title": "Kenya confirms eighth Ebola case amid widening regional outbreak",
@@ -13153,34 +13298,6 @@
    "watch": []
   },
   {
-   "title": "M4.7 earthquake, 95 km SW of Brisas Barra de Suchiate, Mexico",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4",
-   "time": "2026-10-16T04:42:40.890000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Mexico",
-   "city": null,
-   "lat": 13.934,
-   "lon": -92.8623,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-16T05:03:05.780574+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "629fc7e94f2a",
-   "flag": "🇲🇽",
-   "region": "North America",
-   "baseline": 3.32,
-   "watch": []
-  },
-  {
    "title": "Level 2 - Yellow Fever in Ghana",
    "summary": "There is an outbreak of yellow fever in the Upper West Region of Ghana. Travelers to the Upper West Region should take steps to prevent yellow fever by getting vaccinated at least 10 days before travel and taking steps to prevent mosquito bites.",
    "url": "https://wwwnc.cdc.gov/travel/notices/level2/yellow-fever-ghana",
@@ -13234,34 +13351,6 @@
    "flag": "🇨🇴",
    "region": "Latin America & Caribbean",
    "baseline": 3.26,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI>=V.",
-   "summary": "On 10/16/2026 3:35:32 AM, an earthquake occurred in Russia potentially affecting 10 thousand in MMI>=V. The earthquake had Magnitude 6.9M, Depth:143.176km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1571917",
-   "time": "2026-10-16T03:48:39+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 52.0066,
-   "lon": 157.2499,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1571917",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-16T05:03:05.780574+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "d7f2b2aa24f2",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
    "watch": []
   },
   {
