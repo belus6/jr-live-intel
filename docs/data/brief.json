@@ -1,98 +1,16 @@
 {
- "generated": "2026-10-21T19:21:07.130078+00:00",
+ "generated": "2026-10-21T22:35:45.530454+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 77,
-  "3": 23,
+  "2": 90,
+  "3": 25,
   "4": 3,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
-  "Western Europe": [
-   {
-    "id": "81a4b36334c9",
-    "title": "Actors, writers condemn UK anti-terror law targeting Sally Rooney",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-21T18:35:03+00:00"
-   },
-   {
-    "id": "3a8b98d63e59",
-    "title": "Italy sends troops, toughens security laws after Milan clashes",
-    "country": "Italy",
-    "city": "Milan",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-20T20:09:52+00:00"
-   },
-   {
-    "id": "2df0dc2c7909",
-    "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
-    "country": "Switzerland",
-    "city": "Geneva",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-21T12:00:00+00:00"
-   },
-   {
-    "id": "c2d591620910",
-    "title": "Italy deploys army and approves tougher anti-riot laws after violence",
-    "country": "Italy",
-    "city": "Milan",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-21T08:57:04+00:00"
-   },
-   {
-    "id": "5e9fe880a880",
-    "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-21T05:37:28+00:00"
-   },
-   {
-    "id": "c38487fd013c",
-    "title": "Live: French PM Lecornu to meet with unions ahead of new protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-21T00:45:06+00:00"
-   },
-   {
-    "id": "7bbde21e6489",
-    "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
-    "country": "Norway",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-20T19:32:28+00:00"
-   },
-   {
-    "id": "d65232b0dee7",
-    "title": "Greece: Protesters demand increased funding for public education",
-    "country": "Greece",
-    "city": "Athens",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-21T14:25:12+00:00"
-   }
-  ],
   "Eastern Europe": [
    {
     "id": "db7edec21563",
@@ -101,7 +19,7 @@
     "city": "Kyiv",
     "category": "conflict",
     "severity": 4,
-    "confidence": "C4",
+    "confidence": "C2",
     "time": "2026-10-21T17:53:54+00:00"
    },
    {
@@ -123,6 +41,16 @@
     "severity": 3,
     "confidence": "C2",
     "time": "2026-10-21T14:27:18+00:00"
+   },
+   {
+    "id": "f9b9757ee58e",
+    "title": "Russian ballistic missiles rock Kyiv in late-night attack, injuring 6",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-21T22:22:41+00:00"
    },
    {
     "id": "1c02d405f8d8",
@@ -163,16 +91,88 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-21T07:41:31+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "81a4b36334c9",
+    "title": "Actors, writers condemn UK anti-terror law targeting Sally Rooney",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-21T18:35:03+00:00"
    },
    {
-    "id": "52c48d7b3ec1",
-    "title": "Russia releases US citizen accused of fighting for Ukraine, Putin says during Witkoff meeting",
-    "country": "Russia",
-    "city": "Saint Petersburg",
+    "id": "9429b316c7f1",
+    "title": "Indian embassy issues safety advisory for citizens in France amid unrest , local curfews",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C1",
+    "time": "2026-10-21T20:45:00+00:00"
+   },
+   {
+    "id": "8091094e3c24",
+    "title": "France announces nightly curfews for as long as necessary in Paris and other big cities",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-21T22:15:00+00:00"
+   },
+   {
+    "id": "51c71b73eabb",
+    "title": "Paris Bans Street Protests Thursday , Curfews Continue",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-21T20:45:00+00:00"
+   },
+   {
+    "id": "2df0dc2c7909",
+    "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
+    "country": "Switzerland",
+    "city": "Geneva",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-21T04:29:24+00:00"
+    "time": "2026-10-21T12:00:00+00:00"
+   },
+   {
+    "id": "c2d591620910",
+    "title": "Italy deploys army and approves tougher anti-riot laws after violence",
+    "country": "Italy",
+    "city": "Milan",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-21T08:57:04+00:00"
+   },
+   {
+    "id": "5e9fe880a880",
+    "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-21T05:37:28+00:00"
+   },
+   {
+    "id": "c38487fd013c",
+    "title": "Live: French PM Lecornu to meet with unions ahead of new protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-21T00:45:06+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -185,6 +185,26 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-10-21T15:28:01+00:00"
+   },
+   {
+    "id": "4b2a240aed8b",
+    "title": "Yemen: Tanks fire as fighting erupts on the outskirts of Taiz",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-21T21:33:10+00:00"
+   },
+   {
+    "id": "3d0a208011d1",
+    "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-21T19:28:21+00:00"
    },
    {
     "id": "2029c7d308ff",
@@ -235,26 +255,48 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-21T05:00:02+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "eb4b5dde0c71",
+    "title": "El Salvador Haiti Rescue Bid for 4 Troops",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-21T20:45:00+00:00"
    },
    {
-    "id": "224804e3ee0e",
-    "title": "Egypt involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
-    "country": "Yemen",
+    "id": "d6cb74c96468",
+    "title": "Trump - allied Colombian president removes art exhibits he deems communist , sparking protests",
+    "country": "Colombia",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-20T20:57:29+00:00"
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C1",
+    "time": "2026-10-21T21:45:00+00:00"
    },
    {
-    "id": "a233cbcdace6",
-    "title": "'Netanyahu is fighting for his political career', expert says a week ahead of crucial vote",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-20T20:03:50+00:00"
+    "id": "6ead7f530fb7",
+    "title": "Green flood alert in Guatemala",
+    "country": "Guatemala",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-21T10:52:49+00:00"
+   },
+   {
+    "id": "f69519de94c7",
+    "title": "M5.0 earthquake, south of Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-21T01:20:02.961000+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -285,8 +327,18 @@
     "city": "Abuja",
     "category": "health",
     "severity": 2,
-    "confidence": "C4",
+    "confidence": "C2",
     "time": "2026-10-21T12:03:58+00:00"
+   },
+   {
+    "id": "4d7acde26edd",
+    "title": "M4.9 earthquake, 68 km NNW of Khorixas, Namibia",
+    "country": "Namibia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-21T20:34:50.454000+00:00"
    },
    {
     "id": "fadaf5c3b005",
@@ -327,16 +379,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-21T09:23:01+00:00"
-   },
-   {
-    "id": "658c62b0a1b6",
-    "title": "Senegalese workers protest rising living costs ahead of three-day general strike",
-    "country": "Senegal",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-21T06:05:21+00:00"
    }
   ],
   "North America": [
@@ -351,14 +393,14 @@
     "time": "2026-10-21T05:43:24+00:00"
    },
    {
-    "id": "d396b23de0d2",
-    "title": "Zelensky confirms ballistic missile early warning systems operational after skipped alerts",
+    "id": "765d2a97be95",
+    "title": "Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (7.514 million in Tropical Storm).",
     "country": "United States",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-20T21:34:57+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-21T21:08:24+00:00"
    },
    {
     "id": "63a4d8aa43e5",
@@ -372,6 +414,16 @@
    }
   ],
   "South Asia": [
+   {
+    "id": "33baab87edba",
+    "title": "Will not take down Indian Flag : Priyanka Gandhi son alleges protest photos pulled down at Bikaner House exhibition",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C1",
+    "time": "2026-10-21T21:30:00+00:00"
+   },
    {
     "id": "f77d09269b35",
     "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
@@ -413,19 +465,17 @@
     "time": "2026-10-20T23:16:43.934000+00:00"
    }
   ],
-  "Central Asia": [
-   {
-    "id": "321debc0c9ae",
-    "title": "Turkmenistan",
-    "country": "Turkmenistan",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-21T14:50:49+00:00"
-   }
-  ],
   "East & SE Asia": [
+   {
+    "id": "d0d36b4916f0",
+    "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-21T22:02:18+00:00"
+   },
    {
     "id": "de216729b912",
     "title": "M4.7 earthquake, 33 km NE of Shizunai-furukawachō, Japan",
@@ -468,6 +518,16 @@
    }
   ],
   "Oceania": [
+   {
+    "id": "75a2da8f0290",
+    "title": "M4.7 earthquake, 202 km WNW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-21T18:40:31.851000+00:00"
+   },
    {
     "id": "0e2411b6f691",
     "title": "M4.9 earthquake, 207 km WNW of Port-Olry, Vanuatu",
@@ -517,38 +577,18 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-20T23:24:27.101000+00:00"
-   },
-   {
-    "id": "626a959f42fd",
-    "title": "M4.9 earthquake, 187 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T20:03:26.613000+00:00"
    }
   ],
-  "Latin America & Caribbean": [
+  "Central Asia": [
    {
-    "id": "6ead7f530fb7",
-    "title": "Green flood alert in Guatemala",
-    "country": "Guatemala",
+    "id": "321debc0c9ae",
+    "title": "Turkmenistan",
+    "country": "Turkmenistan",
     "city": null,
-    "category": "hazard",
+    "category": "advisory",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-21T10:52:49+00:00"
-   },
-   {
-    "id": "f69519de94c7",
-    "title": "M5.0 earthquake, south of Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-21T01:20:02.961000+00:00"
+    "time": "2026-10-21T14:50:49+00:00"
    }
   ]
  }

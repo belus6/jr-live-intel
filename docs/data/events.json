@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-21T19:21:07.130078+00:00",
+ "generated": "2026-10-21T22:35:45.530454+00:00",
  "sample": false,
- "count": 510,
+ "count": 524,
  "events": [
   {
    "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
@@ -282,11 +282,16 @@
      "name": "Kyiv Independent",
      "url": "https://kyivindependent.com/ukraine-war-latest-russia-ready-to-resume-trilateral-peace-talks-with-us-ukraine/",
      "tier": "C"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-21T19:21:07.130078+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
+   "confidence": "C2",
+   "corroboration": 2,
    "id": "db7edec21563",
    "flag": "🇺🇦",
    "region": "Eastern Europe",
@@ -1281,6 +1286,212 @@
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
    "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "Russian ballistic missiles rock Kyiv in late-night attack, injuring 6",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
+   "time": "2026-10-21T22:22:41+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "f9b9757ee58e",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "France announces nightly curfews for as long as necessary in Paris and other big cities",
+   "summary": "",
+   "url": "https://www.whec.com/ap-top-news/france-announces-nightly-curfews-for-as-long-as-necessary-in-paris-and-other-big-cities/",
+   "time": "2026-10-21T22:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "whec.com (via GDELT)",
+     "url": "https://www.whec.com/ap-top-news/france-announces-nightly-curfews-for-as-long-as-necessary-in-paris-and-other-big-cities/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "8091094e3c24",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Yemen: Tanks fire as fighting erupts on the outskirts of Taiz",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/21/yemen-tanks-fire-as-fighting-erupts-on-the-outskirts-of-taiz/",
+   "time": "2026-10-21T21:33:10+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/21/yemen-tanks-fire-as-fighting-erupts-on-the-outskirts-of-taiz/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "4b2a240aed8b",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "El Salvador Haiti Rescue Bid for 4 Troops",
+   "summary": "",
+   "url": "https://www.riotimesonline.com/el-salvador-haiti-rescue-4-troops-2026/",
+   "time": "2026-10-21T20:45:00+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Brazil",
+   "city": "Salvador",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "riotimesonline.com (via GDELT)",
+     "url": "https://www.riotimesonline.com/el-salvador-haiti-rescue-4-troops-2026/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "eb4b5dde0c71",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "Paris Bans Street Protests Thursday , Curfews Continue",
+   "summary": "",
+   "url": "https://www.riotimesonline.com/paris-police-ban-street-protests-thursday-22-october/",
+   "time": "2026-10-21T20:45:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "riotimesonline.com (via GDELT)",
+     "url": "https://www.riotimesonline.com/paris-police-ban-street-protests-thursday-22-october/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "51c71b73eabb",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Indian embassy issues safety advisory for citizens in France amid unrest , local curfews",
+   "summary": "",
+   "url": "http://www.calcuttanews.net/news/279390753/indian-embassy-issues-safety-advisory-for-citizens-in-france-amid-unrest-local-curfews",
+   "time": "2026-10-21T20:45:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "calcuttanews.net (via GDELT)",
+     "url": "http://www.calcuttanews.net/news/279390753/indian-embassy-issues-safety-advisory-for-citizens-in-france-amid-unrest-local-curfews",
+     "tier": "C"
+    },
+    {
+     "name": "news.webindia123.com (via GDELT)",
+     "url": "https://news.webindia123.com/news/Articles/World/20261022/4513542.html",
+     "tier": "C"
+    },
+    {
+     "name": "bignewsnetwork.com (via GDELT)",
+     "url": "http://www.bignewsnetwork.com/news/279390753/indian-embassy-issues-safety-advisory-for-citizens-in-france-amid-unrest-local-curfews",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C1",
+   "corroboration": 3,
+   "id": "9429b316c7f1",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
+   "summary": "",
+   "url": "https://www.france24.com/en/neither-the-sudanese-military-nor-the-rsf-take-any-acknowledgement-of-human-life-in-this-war",
+   "time": "2026-10-21T19:28:21+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/neither-the-sudanese-military-nor-the-rsf-take-any-acknowledgement-of-human-life-in-this-war",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3d0a208011d1",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
    "watch": []
   },
   {
@@ -3313,39 +3524,6 @@
    "watch": []
   },
   {
-   "title": "Clean up begins after French riots but police remain",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-19T21:30:08+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "boston.com (via GDELT)",
-     "url": "https://www.boston.com/news/world-news/2026/10/19/paris-police-issue-overnight-curfew-in-2-areas-of-french-capital-to-try-to-prevent-further-disorder/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "1b3f1990c928",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Helen Haines was chatting with locals at a dog park on Monday morning. By the afternoon, she was fighting for her life",
    "summary": "",
    "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-was-chatting-with-locals-at-a-dog-park-on-monday-morning-by-the-afternoon-she-was-fighting-for-her-life-ntwnfb",
@@ -3374,34 +3552,6 @@
    "watch": []
   },
   {
-   "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-   "time": "2026-10-19T20:34:54+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Marseille",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9ce9867a9033",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "What Russia's doing to Ukraine is 'fine,' Trump says",
    "summary": "",
    "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/",
@@ -3427,34 +3577,6 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-   "time": "2026-10-19T19:59:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Lyon",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T20:13:33.583686+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "7bfbe24249e4",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -4330,118 +4452,6 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
-   "summary": "",
-   "url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
-   "time": "2026-10-18T21:00:08+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T21:24:31.250565+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "0969fab79841",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "French police arrest 1 , 800 after clashes and looting",
-   "summary": "",
-   "url": "https://morningstaronline.co.uk/article/french-police-arrest-1800-after-clashes-and-looting",
-   "time": "2026-10-18T21:00:00+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "morningstaronline.co.uk (via GDELT)",
-     "url": "https://morningstaronline.co.uk/article/french-police-arrest-1800-after-clashes-and-looting",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-18T21:24:31.250565+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "868dac99d6cb",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Russian ballistic missiles slam Kyiv right as air raid alarms sound",
-   "summary": "",
-   "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-right-as-air-raid-alarms-sound/",
-   "time": "2026-10-18T20:20:34+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-right-as-air-raid-alarms-sound/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-18T21:24:31.250565+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "3cd7e6a07fa7",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "3 waves of Russian missiles slam Kyiv overnight, killing at least 1, injuring 8",
-   "summary": "",
-   "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-right-as-air-raid-alarms-sound/",
-   "time": "2026-10-18T20:20:34+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-right-as-air-raid-alarms-sound/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "9d6717bb8a15",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
    "watch": []
   },
   {
@@ -5585,31 +5595,610 @@
    "watch": []
   },
   {
-   "title": "US lifts sanctions on Venezuela’s top legislator",
+   "title": "What are Italy new measures against violent protests ? - Grenada Chronicle – Daily Grenada And Caribbean News",
    "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
-   "time": "2026-10-14T19:53:03+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Venezuela",
+   "url": "https://grenadachronicle.com/what-are-italys-new-measures-against-violent-protests/",
+   "time": "2026-10-21T22:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Italy",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
+     "name": "grenadachronicle.com (via GDELT)",
+     "url": "https://grenadachronicle.com/what-are-italys-new-measures-against-violent-protests/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "61173d6f8418",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
+   "watch": []
+  },
+  {
+   "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-21T22:02:18+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-14T22:39:38.354203+00:00",
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
    "confidence": "B3",
    "corroboration": 1,
-   "id": "fa5589673f3f",
-   "flag": "🇻🇪",
+   "id": "d0d36b4916f0",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "Italy Investigates Russia Possible Role in Violent Protests",
+   "summary": "",
+   "url": "https://www.kyivpost.com/post/87788",
+   "time": "2026-10-21T21:45:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Italy",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "kyivpost.com (via GDELT)",
+     "url": "https://www.kyivpost.com/post/87788",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "8e8126aaa678",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
+   "watch": []
+  },
+  {
+   "title": "Trump - allied Colombian president removes art exhibits he deems communist , sparking protests",
+   "summary": "",
+   "url": "https://www.news4jax.com/news/world/2026/10/21/trump-allied-colombian-president-removes-art-exhibits-he-deems-communist-sparking-protests/",
+   "time": "2026-10-21T21:45:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Colombia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "news4jax.com (via GDELT)",
+     "url": "https://www.news4jax.com/news/world/2026/10/21/trump-allied-colombian-president-removes-art-exhibits-he-deems-communist-sparking-protests/",
+     "tier": "C"
+    },
+    {
+     "name": "thegazette.com (via GDELT)",
+     "url": "http://www.thegazette.com/news/world/trump-allied-colombian-president-removes-art-exhibits-he-deems-communist-sparking-protests/article_eaa44417-1f50-5883-b8b9-ef76398d50f0.html",
+     "tier": "C"
+    },
+    {
+     "name": "winnipegfreepress.com (via GDELT)",
+     "url": "https://www.winnipegfreepress.com/world/2026/10/21/trump-allied-colombian-president-removes-art-exhibits-he-deems-communist-sparking-protests",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C1",
+   "corroboration": 3,
+   "id": "d6cb74c96468",
+   "flag": "🇨🇴",
    "region": "Latin America & Caribbean",
-   "baseline": 4.49,
+   "baseline": 3.26,
+   "watch": []
+  },
+  {
+   "title": "Macron calls Trump France riot claims stupid as Mélenchon accuses Netanyahu of me",
+   "summary": "",
+   "url": "https://www.ynetnews.com/article/ryyptdi3ml",
+   "time": "2026-10-21T21:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ynetnews.com (via GDELT)",
+     "url": "https://www.ynetnews.com/article/ryyptdi3ml",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "a4b2a9dbec35",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Iran Protests Reveal A Growing Struggle For The Right To A Dignified Life - OpEd",
+   "summary": "",
+   "url": "https://www.eurasiareview.com/21102026-irans-protests-reveal-a-growing-struggle-for-the-right-to-a-dignified-life-oped/",
+   "time": "2026-10-21T21:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Iran",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "eurasiareview.com (via GDELT)",
+     "url": "https://www.eurasiareview.com/21102026-irans-protests-reveal-a-growing-struggle-for-the-right-to-a-dignified-life-oped/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "42f00f9c678d",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Will not take down Indian Flag : Priyanka Gandhi son alleges protest photos pulled down at Bikaner House exhibition",
+   "summary": "",
+   "url": "https://news.webindia123.com/news/Articles/India/20261022/4513544.html",
+   "time": "2026-10-21T21:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "India",
+   "city": "Delhi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "news.webindia123.com (via GDELT)",
+     "url": "https://news.webindia123.com/news/Articles/India/20261022/4513544.html",
+     "tier": "C"
+    },
+    {
+     "name": "tribuneindia.com (via GDELT)",
+     "url": "https://www.tribuneindia.com/news/india/protest-photos-of-priyankas-son-taken-down-from-delhi-exhibition/",
+     "tier": "C"
+    },
+    {
+     "name": "aninews.in (via GDELT)",
+     "url": "https://aninews.in/news/national/general-news/will-not-take-down-indian-flag-priyanka-gandhis-son-alleges-protest-photos-pulled-down-at-bikaner-house-exhibition20261022012610/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C1",
+   "corroboration": 3,
+   "id": "33baab87edba",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "In run-up to mass protests and riots, pro-Russian accounts amplified French anger, NGO finds",
+   "summary": "",
+   "url": "https://www.france24.com/en/in-run-up-to-mass-protests-and-riots-pro-russian-accounts-amplified-french-anger-ngo-finds",
+   "time": "2026-10-21T21:21:46+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/in-run-up-to-mass-protests-and-riots-pro-russian-accounts-amplified-french-anger-ngo-finds",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "130c171786ae",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Goodell says NFL is comfortable with security around Sunday Paris game amid protests | News",
+   "summary": "",
+   "url": "https://www.channel3000.com/news/goodell-says-nfl-is-comfortable-with-security-around-sunday-s-paris-game-amid-protests/article_74b41486-a139-580b-acb5-f4a6ec3d64a6.html",
+   "time": "2026-10-21T21:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "channel3000.com (via GDELT)",
+     "url": "https://www.channel3000.com/news/goodell-says-nfl-is-comfortable-with-security-around-sunday-s-paris-game-amid-protests/article_74b41486-a139-580b-acb5-f4a6ec3d64a6.html",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "de37b510f75e",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Memorabilia of missing Azerbaijanis displayed at protest in Brussels",
+   "summary": "",
+   "url": "https://news.az/news/memorabilia-of-missing-azerbaijanis-displayed-at-protest-in-brussels",
+   "time": "2026-10-21T21:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Belgium",
+   "city": "Brussels",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "news.az (via GDELT)",
+     "url": "https://news.az/news/memorabilia-of-missing-azerbaijanis-displayed-at-protest-in-brussels",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "9f063fc7b325",
+   "flag": "🇧🇪",
+   "region": "Western Europe",
+   "baseline": 1.27,
+   "watch": []
+  },
+  {
+   "title": "Students march into Belgrade while populist Vucic holds rally in Serbia south ahead of vote – Winnipeg Free Press",
+   "summary": "",
+   "url": "https://www.winnipegfreepress.com/world/2026/10/21/students-march-into-belgrade-while-populist-vucic-holds-rally-in-serbias-south-ahead-of-vote",
+   "time": "2026-10-21T21:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Serbia",
+   "city": "Belgrade",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "winnipegfreepress.com (via GDELT)",
+     "url": "https://www.winnipegfreepress.com/world/2026/10/21/students-march-into-belgrade-while-populist-vucic-holds-rally-in-serbias-south-ahead-of-vote",
+     "tier": "C"
+    },
+    {
+     "name": "thepeterboroughexaminer.com (via GDELT)",
+     "url": "https://www.thepeterboroughexaminer.com/news/world/europe/students-march-into-belgrade-while-populist-vucic-holds-rally-in-serbia-s-south-ahead-of-vote/article_6ef2db44-30b2-574b-8c84-3c978a8c2455.html",
+     "tier": "C"
+    },
+    {
+     "name": "stcatharinesstandard.ca (via GDELT)",
+     "url": "https://www.stcatharinesstandard.ca/news/world/europe/students-march-into-belgrade-while-populist-vucic-holds-rally-in-serbia-s-south-ahead-of-vote/article_c882bebc-7df9-5d77-9b34-f46c8547da9b.html",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C1",
+   "corroboration": 3,
+   "id": "3d59cb4584cb",
+   "flag": "🇷🇸",
+   "region": "Eastern Europe",
+   "baseline": 2.13,
+   "watch": []
+  },
+  {
+   "title": "France riots : Emmanuel Macron hits back at Donald Trump and Benjamin Netanyahu over claims of migrant - led unrest",
+   "summary": "",
+   "url": "https://www.theage.com.au/world/europe/macron-attacks-stupid-claims-by-trump-and-others-blaming-migrants-for-riots-20261022-p617n5.html",
+   "time": "2026-10-21T21:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "theage.com.au (via GDELT)",
+     "url": "https://www.theage.com.au/world/europe/macron-attacks-stupid-claims-by-trump-and-others-blaming-migrants-for-riots-20261022-p617n5.html",
+     "tier": "C"
+    },
+    {
+     "name": "brisbanetimes.com.au (via GDELT)",
+     "url": "https://www.brisbanetimes.com.au/world/europe/macron-attacks-stupid-claims-by-trump-and-others-blaming-migrants-for-riots-20261022-p617n5.html",
+     "tier": "C"
+    },
+    {
+     "name": "watoday.com.au (via GDELT)",
+     "url": "https://www.watoday.com.au/world/europe/macron-attacks-stupid-claims-by-trump-and-others-blaming-migrants-for-riots-20261022-p617n5.html",
+     "tier": "C"
+    },
+    {
+     "name": "smh.com.au (via GDELT)",
+     "url": "https://www.smh.com.au/world/europe/macron-attacks-stupid-claims-by-trump-and-others-blaming-migrants-for-riots-20261022-p617n5.html",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C1",
+   "corroboration": 4,
+   "id": "89d89d2ecabc",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (7.514 million in Tropical Storm).",
+   "summary": "From 21/10/2026 to 21/10/2026, a Tropical Storm (maximum wind speed of 130 km/h) JOSEPHINE-26 was active in Atlantic. The cyclone affects these countries: United States, Canada, Saint Pierre and Miquelon (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0 (7.514 million in tropical storm).",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001342",
+   "time": "2026-10-21T21:08:24+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "United States",
+   "city": null,
+   "lat": 37.4,
+   "lon": -69.5,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001342",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "765d2a97be95",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "What a French Antifa Activist Told Another Woman Amid the Riots Is Downright Insane",
+   "summary": "",
+   "url": "https://townhall.com/news/mattvespa/2026/10/21/what-a-french-antifa-activist-told-another-woman-amid-the-riots-is-downright-insane-n2685043",
+   "time": "2026-10-21T20:45:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "townhall.com (via GDELT)",
+     "url": "https://townhall.com/news/mattvespa/2026/10/21/what-a-french-antifa-activist-told-another-woman-amid-the-riots-is-downright-insane-n2685043",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "90333da5ea5d",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "French bond yields hit 24-year high after unrest",
+   "summary": "",
+   "url": "https://www.france24.com/en/french-bond-yields-hit-24-year-high-after-unrest",
+   "time": "2026-10-21T20:43:53+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/french-bond-yields-hit-24-year-high-after-unrest",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "9a424b1f4839",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 68 km NNW of Khorixas, Namibia",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3y1",
+   "time": "2026-10-21T20:34:50.454000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Namibia",
+   "city": null,
+   "lat": -19.7855,
+   "lon": 14.7284,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3y1",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "4d7acde26edd",
+   "flag": "🇳🇦",
+   "region": "Sub-Saharan Africa",
+   "baseline": 1.93,
+   "watch": []
+  },
+  {
+   "title": "EU prosecutors search European Parliament offices of far-right group",
+   "summary": "",
+   "url": "https://www.france24.com/en/eu-prosecutors-search-european-parliament-offices-of-far-right-group",
+   "time": "2026-10-21T20:21:16+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Belgium",
+   "city": "Brussels",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/eu-prosecutors-search-european-parliament-offices-of-far-right-group",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "6cfbfe7f049e",
+   "flag": "🇧🇪",
+   "region": "Western Europe",
+   "baseline": 1.27,
+   "watch": []
+  },
+  {
+   "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+   "time": "2026-10-21T19:40:56+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+     "tier": "B"
+    },
+    {
+     "name": "thenews.com.pk (via GDELT)",
+     "url": "https://www.thenews.com.pk/latest/1420794-macron-warns-trump-other-foreign-leaders-to-stop-using-france-riots-for-political-gain",
+     "tier": "C"
+    },
+    {
+     "name": "katv.com (via GDELT)",
+     "url": "https://katv.com/news/nation-world/macron-blasts-trump-other-leaders-for-exploiting-france-unrest-calls-remarks-stupid",
+     "tier": "C"
+    },
+    {
+     "name": "foxsanantonio.com (via GDELT)",
+     "url": "https://foxsanantonio.com/news/nation-world/macron-blasts-trump-other-leaders-for-exploiting-france-unrest-calls-remarks-stupid",
+     "tier": "C"
+    },
+    {
+     "name": "komonews.com (via GDELT)",
+     "url": "https://komonews.com/news/nation-world/macron-blasts-trump-other-leaders-for-exploiting-france-unrest-calls-remarks-stupid",
+     "tier": "C"
+    },
+    {
+     "name": "wset.com (via GDELT)",
+     "url": "https://wset.com/news/nation-world/macron-blasts-trump-other-leaders-for-exploiting-france-unrest-calls-remarks-stupid",
+     "tier": "C"
+    },
+    {
+     "name": "foxrochester.com (via GDELT)",
+     "url": "https://foxrochester.com/news/nation-world/macron-blasts-trump-other-leaders-for-exploiting-france-unrest-calls-remarks-stupid",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "B1",
+   "corroboration": 7,
+   "id": "0331316d665a",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Trump exploits France riots to push false immigration claims ahead of midterms",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261021-trump-uses-france-riots-to-push-false-immigration-claims-ahead-of-midterms",
+   "time": "2026-10-21T19:28:54+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261021-trump-uses-france-riots-to-push-false-immigration-claims-ahead-of-midterms",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3ba6e0bb93de",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -5641,6 +6230,34 @@
    "watch": []
   },
   {
+   "title": "Le Pen sees polls boost amid mass protests, riots",
+   "summary": "",
+   "url": "https://www.france24.com/en/le-pen-sees-polls-boost-amid-mass-protests-riots",
+   "time": "2026-10-21T18:56:02+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/le-pen-sees-polls-boost-amid-mass-protests-riots",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3337ffd1b9e3",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
    "title": "Thousands march for school funding in Greece",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/21/thousands-march-for-school-funding-in-greece?traffic_source=rss",
@@ -5666,6 +6283,34 @@
    "flag": "🇬🇷",
    "region": "Western Europe",
    "baseline": 1.65,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 202 km WNW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ws",
+   "time": "2026-10-21T18:40:31.851000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.1592,
+   "lon": 165.431,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ws",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "75a2da8f0290",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -5974,6 +6619,39 @@
    "flag": "🇮🇳",
    "region": "South Asia",
    "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – as it happened",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+   "time": "2026-10-21T15:23:04+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Greece",
+   "city": "Athens",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+     "tier": "B"
+    },
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/21/greece-thousands-flood-athens-streets-in-education-protest/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "a8354ba6923c",
+   "flag": "🇬🇷",
+   "region": "Western Europe",
+   "baseline": 1.65,
    "watch": []
   },
   {
@@ -6502,11 +7180,16 @@
      "name": "Africanews",
      "url": "http://www.africanews.com/2026/10/21/nigerias-first-ebola-case-sparks-shock-and-urgent-concern-nationwide/",
      "tier": "C"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-21T15:15:04.002612+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
+   "confidence": "C2",
+   "corroboration": 2,
    "id": "e0bbbc0b6fae",
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
@@ -8239,6 +8922,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Chad",
+   "summary": "On 14/10/2026, a forest fire started in Chad, until 21/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032958",
+   "time": "2026-10-20T15:06:33+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Chad",
+   "city": null,
+   "lat": 12.115778888248192,
+   "lon": 20.60085943557441,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032958",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "803778de57f0",
+   "flag": "🇹🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.62,
+   "watch": []
+  },
+  {
    "title": "Who are the women powering India's youth-led protests?",
    "summary": "",
    "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-world-4025-rdf",
@@ -9714,6 +10425,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Papua New Guinea",
+   "summary": "On 05/10/2026, a forest fire started in Papua New Guinea, until 20/10/2026.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032955",
+   "time": "2026-10-20T07:17:50+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -4.180547025478582,
+   "lon": 144.7483875199061,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032955",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T22:35:45.530454+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "fc270661cd42",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
+   "watch": []
+  },
+  {
    "title": "M5.1 earthquake, 263 km WSW of Yanglong, China",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka",
@@ -10487,146 +11226,6 @@
    "corroboration": 1,
    "id": "1e4100645330",
    "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/19/oregon-school-shooter",
-   "time": "2026-10-19T21:33:50+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Iraq",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/19/oregon-school-shooter",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "8f97407671c7",
-   "flag": "🇮🇶",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.28,
-   "watch": []
-  },
-  {
-   "title": "Le Pen 'trying to use these events to push her popularity', expert says",
-   "summary": "",
-   "url": "https://www.france24.com/en/le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says",
-   "time": "2026-10-19T20:53:11+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ce4d04b2a5e9",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France riots: AI photos falsely depict elderly couple ‘stripped and robbed’",
-   "summary": "",
-   "url": "https://www.france24.com/en/france-riots-ai-photos-falsely-depict-elderly-couple-stripped-and-robbed-1",
-   "time": "2026-10-19T20:06:36+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france-riots-ai-photos-falsely-depict-elderly-couple-stripped-and-robbed-1",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T20:13:33.583686+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9ec9a817fdc6",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France faces reckoning with public order policing after violent protest weekend",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261019-france-faces-reckoning-public-order-policing-after-violent-protest-weekend",
-   "time": "2026-10-19T19:56:15+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261019-france-faces-reckoning-public-order-policing-after-violent-protest-weekend",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T20:13:33.583686+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4636cba11e50",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "French far right seeks to capitalise on protests with calls for law and order",
-   "summary": "",
-   "url": "https://www.france24.com/en/french-far-right-seeks-to-capitalise-on-protests-with-calls-for-law-and-order",
-   "time": "2026-10-19T19:41:46+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/french-far-right-seeks-to-capitalise-on-protests-with-calls-for-law-and-order",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T20:13:33.583686+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "2d104a513df8",
-   "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
    "watch": []
@@ -12627,90 +13226,6 @@
    "watch": []
   },
   {
-   "title": "M4.5 earthquake, 70 km NNE of Mīnāb, Iran",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2w9",
-   "time": "2026-10-16T21:30:26.101000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Iran",
-   "city": null,
-   "lat": 27.7264,
-   "lon": 57.3327,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2w9",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-16T23:54:01.934108+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "7d9ade6d58af",
-   "flag": "🇮🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.58,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, south of the Fiji Islands",
-   "summary": "Depth 535 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2w7",
-   "time": "2026-10-16T21:26:37.613000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Fiji",
-   "city": null,
-   "lat": -23.6209,
-   "lon": -179.7966,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2w7",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-17T12:07:11.583952+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "e6c3eaa43393",
-   "flag": "🇫🇯",
-   "region": "Oceania",
-   "baseline": 2.12,
-   "watch": []
-  },
-  {
-   "title": "M5.2 earthquake, off the coast of Ecuador",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2v8",
-   "time": "2026-10-16T19:34:10.742000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Ecuador",
-   "city": null,
-   "lat": 1.1718,
-   "lon": -85.286,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2v8",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-16T21:32:17.903340+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "42de90ab437c",
-   "flag": "🇪🇨",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.18,
-   "watch": []
-  },
-  {
    "title": "Kenya confirms third Ebola case as health officials race to contain outbreak",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/16/kenya-confirms-third-ebola-case-as-health-officials-race-to-contain-outbreak/",
@@ -14152,34 +14667,6 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "94e8d7311f51",
-   "flag": "🇰🇪",
-   "region": "Sub-Saharan Africa",
-   "baseline": 2.97,
-   "watch": []
-  },
-  {
-   "title": "Kenya: Health Minister insists no ebola outbreak in country",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/07/kenya-health-minister-insists-no-ebola-outbreak-in-country/",
-   "time": "2026-10-07T20:16:59+00:00",
-   "tier": "C",
-   "category": "health",
-   "country": "Kenya",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/07/kenya-health-minister-insists-no-ebola-outbreak-in-country/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-07T21:48:03.359095+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "92f006ebbb1e",
    "flag": "🇰🇪",
    "region": "Sub-Saharan Africa",
    "baseline": 2.97,
