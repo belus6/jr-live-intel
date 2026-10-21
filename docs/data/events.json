@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-21T05:08:48.615909+00:00",
+ "generated": "2026-10-21T10:08:59.221435+00:00",
  "sample": false,
- "count": 530,
+ "count": 533,
  "events": [
   {
    "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
@@ -235,6 +235,34 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "'Everything was in ruins' — At least 2 killed, 2 injured in Russian drone attack on Kyiv",
+   "summary": "",
+   "url": "https://kyivindependent.com/at-least-2-killed-2-injured-in-russian-drone-attack-on-kyiv/",
+   "time": "2026-10-21T07:13:44+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/at-least-2-killed-2-injured-in-russian-drone-attack-on-kyiv/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "0399985607cd",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -1055,62 +1083,6 @@
    "watch": []
   },
   {
-   "title": "Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3815 .",
-   "summary": "From 16/10/2026 to 16/10/2026, a Tropical Storm (maximum wind speed of 120 km/h) ONE-26 was active in SEPacific. The cyclone affects these countries: Cook Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 3815 .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
-   "time": "2026-10-16T07:39:18+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Cook Islands",
-   "city": null,
-   "lat": -12.7,
-   "lon": -163.4,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-16T21:32:17.903340+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "7a0ac1986d7e",
-   "flag": "🇨🇰",
-   "region": "Oceania",
-   "baseline": 1.81,
-   "watch": []
-  },
-  {
-   "title": "Orange notification for tropical cyclone WATI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4982 .",
-   "summary": "From 16/10/2026 to 17/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 130 km/h) WATI-26 was active in SEPacific. The cyclone affects these countries: Cook Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 4982 .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
-   "time": "2026-10-16T07:39:18+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Cook Islands",
-   "city": null,
-   "lat": -14.8,
-   "lon": -163.2,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-17T22:31:37.129103+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "b8200b9f2388",
-   "flag": "🇨🇰",
-   "region": "Oceania",
-   "baseline": 1.81,
-   "watch": []
-  },
-  {
    "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
@@ -1312,6 +1284,202 @@
    "watch": []
   },
   {
+   "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
+   "time": "2026-10-21T09:02:18+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b458e426cdc5",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Italy deploys army and approves tougher anti-riot laws after violence",
+   "summary": "",
+   "url": "https://www.france24.com/en/italy-deploys-army-and-approves-tougher-anti-riot-laws-after-violence",
+   "time": "2026-10-21T08:57:04+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Italy",
+   "city": "Milan",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/italy-deploys-army-and-approves-tougher-anti-riot-laws-after-violence",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c2d591620910",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
+   "watch": []
+  },
+  {
+   "title": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
+   "time": "2026-10-21T08:25:45+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "157feba2e92a",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
+   "title": "United Nations condemns drone strikes on civilians and infrastructure in Sudan",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan/",
+   "time": "2026-10-21T08:11:10+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "92bcea193f10",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
+   "title": "General Staff: Russia has lost 1,570,540 troops in Ukraine since Feb. 24, 2022",
+   "summary": "",
+   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-570-540-troops-in-ukraine-since-feb-24-2022/",
+   "time": "2026-10-21T07:41:31+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-570-540-troops-in-ukraine-since-feb-24-2022/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "ee16c26c0f4c",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
+   "time": "2026-10-21T05:43:24+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "United States",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c9f33ed449d3",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
+   "time": "2026-10-21T05:37:28+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5e9fe880a880",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
    "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
    "summary": "",
    "url": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
@@ -1337,6 +1505,34 @@
    "flag": "🇮🇷",
    "region": "Middle East & N. Africa",
    "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Russia releases US citizen accused of fighting for Ukraine, Putin says during Witkoff meeting",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky",
+   "time": "2026-10-21T04:29:24+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": "Saint Petersburg",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "52c48d7b3ec1",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
    "watch": []
   },
   {
@@ -1538,6 +1734,34 @@
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Sudan drone strike kills around 150 in Abyei market",
+   "summary": "",
+   "url": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-world-4025-rdf",
+   "time": "2026-10-20T18:09:00+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-world-4025-rdf",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4d12326cfadf",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
    "watch": []
   },
   {
@@ -4511,174 +4735,6 @@
    "watch": []
   },
   {
-   "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
-   "time": "2026-10-18T09:16:54+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T13:26:17.272619+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "7e7df77c6544",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
-   "title": "Nigeria's Army Chief of Staff visits troops in Borno after deaths of 15 soliders",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-   "time": "2026-10-18T08:46:12+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Nigeria",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "2549c66cfe73",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
-   "watch": []
-  },
-  {
-   "title": "Zelensky tells Trump Russia keeps violating his energy ceasefire",
-   "summary": "",
-   "url": "https://kyivindependent.com/zelensky-tells-trump-russia-keeps-violating-his-energy-ceasefire/",
-   "time": "2026-10-18T08:35:06+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/zelensky-tells-trump-russia-keeps-violating-his-energy-ceasefire/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "532247d3b7ba",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Zelensky reveals how many Russian attacks have followed Trump's energy ceasefire",
-   "summary": "",
-   "url": "https://kyivindependent.com/zelensky-tells-trump-russia-keeps-violating-his-energy-ceasefire/",
-   "time": "2026-10-18T08:35:06+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/zelensky-tells-trump-russia-keeps-violating-his-energy-ceasefire/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-18T13:26:17.272619+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "786191680c60",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Sudanese gold miners describe deadly airstrike that killed 72",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/18/sudanese-gold-miners-describe-deadly-airstrike-that-killed-72/",
-   "time": "2026-10-18T07:58:18+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Egypt",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/18/sudanese-gold-miners-describe-deadly-airstrike-that-killed-72/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "a139933bd0d2",
-   "flag": "🇪🇬",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.82,
-   "watch": []
-  },
-  {
-   "title": "General Staff: Russia has lost 1,565,060 troops in Ukraine since Feb. 24, 2022",
-   "summary": "",
-   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-565-060-troops-in-ukraine-since-feb-24-2022/",
-   "time": "2026-10-18T06:37:19+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-565-060-troops-in-ukraine-since-feb-24-2022/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "8329049a4f6f",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "Marco Rubio says Trump's Russian oil sanctions waiver is a '60-day pause,' denies restricting Starlink access",
    "summary": "",
    "url": "https://kyivindependent.com/marco-rubio-says-trumps-russian-oil-sanctions-waiver-is-a-60-day-pause-denies-restricting-starlink-access/",
@@ -5959,87 +6015,339 @@
    "watch": []
   },
   {
-   "title": "Trump fires Greece ambassador Guilfoyle over ethics scandal",
+   "title": "Labour accused of ‘climate vandalism’ by Green leader Polanski after Jackdaw gasfield approved – UK politics live",
    "summary": "",
-   "url": "https://www.france24.com/en/video/20261014-trump-fires-greece-ambassador-guilfoyle-over-ethics-scandal",
-   "time": "2026-10-14T09:35:51+00:00",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+   "time": "2026-10-21T10:04:27+00:00",
    "tier": "B",
-   "category": "political",
-   "country": "Greece",
+   "category": "hazard",
+   "country": "United Kingdom",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261014-trump-fires-greece-ambassador-guilfoyle-over-ethics-scandal",
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-14T10:28:01.913583+00:00",
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
    "confidence": "B3",
    "corroboration": 1,
-   "id": "6e20ce8fa604",
-   "flag": "🇬🇷",
+   "id": "cfe3af7e5562",
+   "flag": "🇬🇧",
    "region": "Western Europe",
-   "baseline": 1.65,
+   "baseline": 1.29,
    "watch": []
   },
   {
-   "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-   "summary": "",
-   "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
-   "time": "2026-10-14T09:09:39+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Greece",
+   "title": "Green flood alert in France",
+   "summary": "On 20/10/2026, a flood started in France, lasting until 22/10/2026 (last update). The flood caused 1 deaths and 21 displaced .",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104243",
+   "time": "2026-10-21T09:54:34+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "France",
    "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
+   "lat": 43.6989653,
+   "lon": 4.1146915,
+   "severity": 2,
    "sources": [
     {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
-     "tier": "B"
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104243",
+     "tier": "A"
     }
    ],
-   "first_seen": "2026-10-14T15:23:48.590954+00:00",
-   "confidence": "B3",
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "A1",
    "corroboration": 1,
-   "id": "3e4155185e9b",
-   "flag": "🇬🇷",
+   "id": "acbcdcd1643f",
+   "flag": "🇫🇷",
    "region": "Western Europe",
-   "baseline": 1.65,
+   "baseline": 1.39,
    "watch": []
   },
   {
-   "title": "US senators urge Trump to drop Russian diesel deal, use Graham's sanctions law",
+   "title": "Green flood alert in Ukraine",
+   "summary": "On 19/10/2026, a flood started in Ukraine, lasting until 21/10/2026 (last update). The flood caused 0 deaths and 5 displaced .",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104242",
+   "time": "2026-10-21T09:53:08+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Ukraine",
+   "city": null,
+   "lat": 44.4341131,
+   "lon": 34.0919813,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104242",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e06e7398283d",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Gambia to use money from sale of ex-dictator's US mansion to compensate victims of his rule",
    "summary": "",
-   "url": "https://kyivindependent.com/us-senators-urge-trump-to-drop-russian-diesel-deal-use-grahams-sanctions-law/",
-   "time": "2026-10-14T08:25:18+00:00",
+   "url": "http://www.africanews.com/2026/10/21/gambia-to-use-money-from-sale-of-ex-dictators-us-mansion-to-compensate-victims-of-his-rule/",
+   "time": "2026-10-21T09:23:01+00:00",
    "tier": "C",
-   "category": "political",
-   "country": "Russia",
+   "category": "crime",
+   "country": "Gambia",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/us-senators-urge-trump-to-drop-russian-diesel-deal-use-grahams-sanctions-law/",
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/21/gambia-to-use-money-from-sale-of-ex-dictators-us-mansion-to-compensate-victims-of-his-rule/",
      "tier": "C"
     }
    ],
-   "first_seen": "2026-10-14T10:28:01.913583+00:00",
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
    "confidence": "C4",
    "corroboration": 1,
-   "id": "1665467b07de",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
+   "id": "b166de965e9b",
+   "flag": "🇬🇲",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.71,
+   "watch": []
+  },
+  {
+   "title": "French PM vows stronger security as country prepares for more protests",
+   "summary": "",
+   "url": "https://www.france24.com/en/french-pm-vows-stronger-security-as-country-prepares-for-more-protests",
+   "time": "2026-10-21T09:01:44+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/french-pm-vows-stronger-security-as-country-prepares-for-more-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5b24e37d73b4",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change",
+   "time": "2026-10-21T09:00:03+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2496322b5b56",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M5.2 earthquake, 68 km NE of Cabatuan, Philippines",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6",
+   "time": "2026-10-21T08:37:41.317000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Philippines",
+   "city": null,
+   "lat": 13.0297,
+   "lon": 125.5898,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "2c7bd86b67c2",
+   "flag": "🇵🇭",
+   "region": "East & SE Asia",
+   "baseline": 3.11,
+   "watch": []
+  },
+  {
+   "title": "‘It’s hard for us’: Paris small businesses bear brunt of protest violence",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/21/its-hard-for-us-paris-small-businesses-bear-brunt-of-protest-violence?traffic_source=rss",
+   "time": "2026-10-21T07:56:14+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/its-hard-for-us-paris-small-businesses-bear-brunt-of-protest-violence?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "db55a26f2596",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "‘I am still traumatised’: French police accused of brutalising minors",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/21/i-am-still-traumatised-french-police-accused-of-brutalising-minors?traffic_source=rss",
+   "time": "2026-10-21T07:55:28+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/i-am-still-traumatised-french-police-accused-of-brutalising-minors?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0c3a9c64cdf6",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Nigeria confirms first Ebola case as outbreak spreads across Africa",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/21/nigeria-confirms-first-ebola-case-as-outbreak-spreads-across-africa/",
+   "time": "2026-10-21T07:21:27+00:00",
+   "tier": "C",
+   "category": "health",
+   "country": "Nigeria",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/21/nigeria-confirms-first-ebola-case-as-outbreak-spreads-across-africa/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "2f67a461be14",
+   "flag": "🇳🇬",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-21T06:50:40+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "787c71e9416a",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Senegalese workers protest rising living costs ahead of three-day general strike",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/21/senegalese-workers-protest-rising-living-costs-ahead-of-three-day-general-strike/",
+   "time": "2026-10-21T06:05:21+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Senegal",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/21/senegalese-workers-protest-rising-living-costs-ahead-of-three-day-general-strike/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "658c62b0a1b6",
+   "flag": "🇸🇳",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.84,
    "watch": []
   },
   {
@@ -6068,6 +6376,34 @@
    "flag": "🇦🇺",
    "region": "Oceania",
    "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 173 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3sj",
+   "time": "2026-10-21T04:23:28.083000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.035,
+   "lon": 165.8331,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3sj",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "8eaed586b1bc",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -6295,6 +6631,34 @@
    "watch": []
   },
   {
+   "title": "Live: Those who want to cause chaos will not be allowed to, Macron says ahead of Saturday protests",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests",
+   "time": "2026-10-21T00:45:06+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Qatar",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "38c60332a86f",
+   "flag": "🇶🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.36,
+   "watch": []
+  },
+  {
    "title": "Is Ebola under control in Kenya after nine cases confirmed?",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
@@ -6513,6 +6877,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "60a0986acc4f",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "US regulators certify Boeing 737 MAX 10 after years of delay",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay",
+   "time": "2026-10-20T20:46:03+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "76ea68548dac",
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
@@ -8248,6 +8640,34 @@
    "watch": []
   },
   {
+   "title": "M4.9 earthquake, 184 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3li",
+   "time": "2026-10-20T11:40:10.539000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.991,
+   "lon": 165.7462,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3li",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "793a093a6d2f",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
    "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
@@ -9479,6 +9899,34 @@
    "watch": []
   },
   {
+   "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].",
+   "summary": "On 10/19/2026 6:52:36 PM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
+   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1572618",
+   "time": "2026-10-19T19:11:39+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.0371,
+   "lon": 165.5508,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1572618",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-21T10:08:59.221435+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "470e08678b03",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
    "title": "Indian court extends detention of ‘Cockroach’ leaders",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
@@ -10624,34 +11072,6 @@
    "watch": []
   },
   {
-   "title": "Mexican protesters demanding clean water storm state congress",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss",
-   "time": "2026-10-19T10:08:01+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Mexico",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T14:30:22.830330+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c461e79f441a",
-   "flag": "🇲🇽",
-   "region": "North America",
-   "baseline": 3.32,
-   "watch": []
-  },
-  {
    "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
    "summary": "",
    "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
@@ -10820,34 +11240,6 @@
    "watch": []
   },
   {
-   "title": "France hit by debt sell-off as protests unnerve investors",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
-   "time": "2026-10-19T07:32:59+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T14:30:22.830330+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "1858b2f7902b",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Green forest fire notification in Australia",
    "summary": "On 18/10/2026, a forest fire started in Australia, until 19/10/2026.",
    "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032908",
@@ -10901,34 +11293,6 @@
    "flag": "🇲🇾",
    "region": "East & SE Asia",
    "baseline": 2.0,
-   "watch": []
-  },
-  {
-   "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-19T06:40:35+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "7224e13f7d22",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -11100,90 +11464,6 @@
    "watch": []
   },
   {
-   "title": "Monday briefing: What you need to know about a weekend of ‘chaos’ in France",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france",
-   "time": "2026-10-19T05:45:08+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "42ebb134b7d3",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Beau Lamarre-Condon told officer friend ‘I love you’ and ‘not everything in the news is true’ after arrest, court told",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/19/beau-lamarre-condon-told-cop-friend-i-love-you-and-not-everything-in-the-news-is-true-after-arrest-court-told-ntwnfb",
-   "time": "2026-10-19T05:28:33+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Australia",
-   "city": "Sydney",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/19/beau-lamarre-condon-told-cop-friend-i-love-you-and-not-everything-in-the-news-is-true-after-arrest-court-told-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "273b1c277fca",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "‘Not a problem of short-term solutions’: French students demand structural change, better conditions",
-   "summary": "",
-   "url": "https://www.france24.com/en/not-a-problem-of-short-term-solutions-french-students-demand-structural-change-better-conditions",
-   "time": "2026-10-19T05:19:21+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/not-a-problem-of-short-term-solutions-french-students-demand-structural-change-better-conditions",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9f28e6f31189",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "M4.9 earthquake, 68 km WSW of San Juan del Sur, Nicaragua",
    "summary": "Depth 44 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3a8",
@@ -11209,34 +11489,6 @@
    "flag": "🇳🇮",
    "region": "Latin America & Caribbean",
    "baseline": 3.26,
-   "watch": []
-  },
-  {
-   "title": "Live: Macron rejects French interior minister's resignation after weekend of unrest",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest",
-   "time": "2026-10-19T05:15:32+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "991c74dc69c7",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -13130,146 +13382,6 @@
    "watch": []
   },
   {
-   "title": "M4.9 earthquake, 31 km ENE of Kinablangan, Philippines",
-   "summary": "Depth 74 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2p2",
-   "time": "2026-10-16T09:13:44.909000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Philippines",
-   "city": null,
-   "lat": 7.8392,
-   "lon": 126.799,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2p2",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-16T09:50:07.412897+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "a25e2fe8d629",
-   "flag": "🇵🇭",
-   "region": "East & SE Asia",
-   "baseline": 3.11,
-   "watch": []
-  },
-  {
-   "title": "Flash floods kill five and destroy villages in central Nepal",
-   "summary": "",
-   "url": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal",
-   "time": "2026-10-16T08:51:27+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Nepal",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-16T09:50:07.412897+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "50856fa98f42",
-   "flag": "🇳🇵",
-   "region": "South Asia",
-   "baseline": 2.76,
-   "watch": []
-  },
-  {
-   "title": "Turkey: Worst rainfall in 80 years unleashes deadly floods near Istanbul",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/16/turkey-worst-rainfall-in-80-years-unleashes-deadly-floods-near-istanbul/",
-   "time": "2026-10-16T08:07:12+00:00",
-   "tier": "C",
-   "category": "hazard",
-   "country": "Turkey",
-   "city": "Istanbul",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/16/turkey-worst-rainfall-in-80-years-unleashes-deadly-floods-near-istanbul/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-16T09:50:07.412897+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "38600de07288",
-   "flag": "🇹🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.78,
-   "watch": []
-  },
-  {
-   "title": "Green notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
-   "summary": "From 16/10/2026 to 16/10/2026, a Tropical Storm (maximum wind speed of 120 km/h) ONE-26 was active in SEPacific. The cyclone affects these countries: Cook Islands, French Polynesia (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0 (0 in tropical storm).",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
-   "time": "2026-10-16T07:39:18+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Cook Islands",
-   "city": null,
-   "lat": -10.8,
-   "lon": -163.3,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-16T09:50:07.412897+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "77c7262c94f2",
-   "flag": "🇨🇰",
-   "region": "Oceania",
-   "baseline": 1.81,
-   "watch": []
-  },
-  {
-   "title": "Green notification for tropical cyclone WATI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
-   "summary": "From 16/10/2026 to 17/10/2026, a Tropical Storm (maximum wind speed of 139 km/h) WATI-26 was active in SEPacific. The cyclone affects these countries: Cook Islands, French Polynesia (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0 (0 in tropical storm).",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
-   "time": "2026-10-16T07:39:18+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Cook Islands",
-   "city": null,
-   "lat": -13.2,
-   "lon": -163.2,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-17T12:07:11.583952+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "1c287b2ee629",
-   "flag": "🇨🇰",
-   "region": "Oceania",
-   "baseline": 1.81,
-   "watch": []
-  },
-  {
    "title": "Ebola outbreak in DR Congo spreads to new province bordering CAR",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/16/ebola-outbreak-in-dr-congo-spreads-to-new-province-bordering-car/",
@@ -14765,34 +14877,6 @@
    "flag": "🇮🇳",
    "region": "South Asia",
    "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "Kenyan health workers demand protection after first Ebola death",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/07/kenyan-health-workers-demand-protection-after-first-ebola-death/",
-   "time": "2026-10-07T10:05:31+00:00",
-   "tier": "C",
-   "category": "health",
-   "country": "Kenya",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/07/kenyan-health-workers-demand-protection-after-first-ebola-death/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-07T16:48:16.939908+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "c373167c9734",
-   "flag": "🇰🇪",
-   "region": "Sub-Saharan Africa",
-   "baseline": 2.97,
    "watch": []
   },
   {
