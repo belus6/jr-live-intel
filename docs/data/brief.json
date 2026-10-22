@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-22T15:57:46.880551+00:00",
+ "generated": "2026-10-22T19:56:22.346888+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
-  "1": 0,
-  "2": 91,
-  "3": 40,
-  "4": 4,
-  "5": 2
+  "1": 1,
+  "2": 106,
+  "3": 49,
+  "4": 3,
+  "5": 3
  },
  "watch_hits": [],
  "regions": {
@@ -15,6 +15,16 @@
    {
     "id": "58ff220e9c77",
     "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 100 thousand in 100km.",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-10-22T14:54:15+00:00"
+   },
+   {
+    "id": "eb4f6f888bdb",
+    "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI>=VII).",
     "country": "China",
     "city": null,
     "category": "hazard",
@@ -95,6 +105,36 @@
     "time": "2026-10-22T03:15:00+00:00"
    },
    {
+    "id": "b844f50cf355",
+    "title": "The West Bank - Level 3: Reconsider Travel",
+    "country": "Palestine",
+    "city": null,
+    "category": "advisory",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-26T00:00:00+00:00"
+   },
+   {
+    "id": "62759065c360",
+    "title": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict'",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T16:36:26+00:00"
+   },
+   {
+    "id": "aea93f2a8bae",
+    "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T15:56:36+00:00"
+   },
+   {
     "id": "de247796409d",
     "title": "Reports show US and Israel are planning new strikes on Iran",
     "country": "Israel",
@@ -133,49 +173,9 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-22T09:00:05+00:00"
-   },
-   {
-    "id": "b3d62c85d5a2",
-    "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-    "country": "Qatar",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T01:45:48+00:00"
-   },
-   {
-    "id": "d344a4d25a91",
-    "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
-    "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T00:00:00+00:00"
-   },
-   {
-    "id": "4b2a240aed8b",
-    "title": "Yemen: Tanks fire as fighting erupts on the outskirts of Taiz",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-21T21:33:10+00:00"
    }
   ],
   "Eastern Europe": [
-   {
-    "id": "db7edec21563",
-    "title": "Ukraine war latest: Zelensky supports resuming trilateral peace talks with US, Russia after Putin claims Kremlin readiness",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C2",
-    "time": "2026-10-21T17:53:54+00:00"
-   },
    {
     "id": "97204f1a91ba",
     "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
@@ -185,6 +185,46 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-21T22:11:27+00:00"
+   },
+   {
+    "id": "65cf5820a5f0",
+    "title": "Ukraine war latest: Ukrainian troops infiltrate Russian rear near Kupiansk through 15 kilometers of gas pipelines",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-22T18:03:30+00:00"
+   },
+   {
+    "id": "e009a9f63422",
+    "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T17:49:13+00:00"
+   },
+   {
+    "id": "821664fb6ec9",
+    "title": "EU responds to Trump diesel deal with new Russia energy sanctions",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-22T16:13:00+00:00"
+   },
+   {
+    "id": "58d3ece03138",
+    "title": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T15:50:09+00:00"
    },
    {
     "id": "8b822d393d1d",
@@ -215,118 +255,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-22T10:14:23+00:00"
-   },
-   {
-    "id": "1796c1de82e7",
-    "title": "Ukrainian military intelligence reveals new Russian cruise missile 'Filin'",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-22T09:53:41+00:00"
-   },
-   {
-    "id": "82b4f072dbe4",
-    "title": "Ukrainian troops infiltrate Russian rear through gas pipelines near Kupiansk, Khartiia says",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-22T08:42:28+00:00"
-   },
-   {
-    "id": "04a039c1706b",
-    "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
-    "country": "Bulgaria",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T08:31:00+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "81a4b36334c9",
-    "title": "Actors, writers condemn UK anti-terror law targeting Sally Rooney",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-21T18:35:03+00:00"
-   },
-   {
-    "id": "9429b316c7f1",
-    "title": "Indian embassy issues safety advisory for citizens in France amid unrest , local curfews",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C1",
-    "time": "2026-10-21T20:45:00+00:00"
-   },
-   {
-    "id": "acfa5417e55d",
-    "title": "France Protests : India issues advisory for its citizens",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C2",
-    "time": "2026-10-22T04:00:00+00:00"
-   },
-   {
-    "id": "91d1476b27c9",
-    "title": "Exercise due caution : India warns citizens in France as violent protests prompt local curfews",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C2",
-    "time": "2026-10-22T03:30:00+00:00"
-   },
-   {
-    "id": "5a7fccfc71ae",
-    "title": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T15:40:42+00:00"
-   },
-   {
-    "id": "a19ee028996f",
-    "title": "Germany arrests Ukrainian man accused of spying for Russia",
-    "country": "Germany",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T14:36:06+00:00"
-   },
-   {
-    "id": "97f2c4aeb84d",
-    "title": "At least four dead after storm brings flooding to southern France",
-    "country": "France",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T11:23:16+00:00"
-   },
-   {
-    "id": "f38f1fe18c13",
-    "title": "Criminals who refuse to attend sentencing face losing prison privileges under new rules",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T09:47:50+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -359,6 +287,16 @@
     "severity": 2,
     "confidence": "C1",
     "time": "2026-10-21T21:45:00+00:00"
+   },
+   {
+    "id": "637361e65c36",
+    "title": "Bukele warns Haitian gangs who kidnapped Salvarodan aviation techs : return hostages or face his wrath",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-22T19:15:00+00:00"
    },
    {
     "id": "61833810e679",
@@ -401,6 +339,88 @@
     "time": "2026-10-22T03:45:00+00:00"
    }
   ],
+  "Western Europe": [
+   {
+    "id": "9429b316c7f1",
+    "title": "Indian embassy issues safety advisory for citizens in France amid unrest , local curfews",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C1",
+    "time": "2026-10-21T20:45:00+00:00"
+   },
+   {
+    "id": "30b559ddea76",
+    "title": "🔴Live: Authorities in Lyon and Marseille ban all protests Saturday",
+    "country": "France",
+    "city": "Lyon",
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-22T16:03:29+00:00"
+   },
+   {
+    "id": "acfa5417e55d",
+    "title": "France Protests : India issues advisory for its citizens",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C2",
+    "time": "2026-10-22T04:00:00+00:00"
+   },
+   {
+    "id": "91d1476b27c9",
+    "title": "Exercise due caution : India warns citizens in France as violent protests prompt local curfews",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C2",
+    "time": "2026-10-22T03:30:00+00:00"
+   },
+   {
+    "id": "387707231eea",
+    "title": "French authorities ban some student protests after weekend looting and clashes",
+    "country": "France",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-22T19:15:00+00:00"
+   },
+   {
+    "id": "49e40068fd8a",
+    "title": "Targeted by Trump, International Criminal Court wins top EU rights prize",
+    "country": "France",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T18:55:57+00:00"
+   },
+   {
+    "id": "41138ca4d2cf",
+    "title": "France promises massive police presence this weekend as cities impose more curfews after protest violence",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-22T17:30:00+00:00"
+   },
+   {
+    "id": "5a7fccfc71ae",
+    "title": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T15:40:42+00:00"
+   }
+  ],
   "North America": [
    {
     "id": "a0545a8867c0",
@@ -411,6 +431,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-22T15:43:57+00:00"
+   },
+   {
+    "id": "d2a6618467e2",
+    "title": "CDC denies approval for high-volume measles test, citing ‘other priorities’",
+    "country": "United States",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T18:30:39+00:00"
    },
    {
     "id": "35d0ed7ff190",
@@ -455,6 +485,26 @@
     "time": "2026-10-21T22:41:43+00:00"
    },
    {
+    "id": "ef569bf2c5d5",
+    "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T19:31:27+00:00"
+   },
+   {
+    "id": "718c16c9605a",
+    "title": "Crowd of 50 beats foreigner to death in South Africa",
+    "country": "South Africa",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T16:15:25+00:00"
+   },
+   {
     "id": "c34add739774",
     "title": "Nigeria can stop Ebola spread, former disease control chief says",
     "country": "Nigeria",
@@ -463,6 +513,16 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-22T12:21:58+00:00"
+   },
+   {
+    "id": "f38381151ff9",
+    "title": "DR Congo: Ebola responders under pressure as outbreak expands",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T12:00:00+00:00"
    },
    {
     "id": "8de4f5e72721",
@@ -483,36 +543,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-22T08:56:58+00:00"
-   },
-   {
-    "id": "dfcd568a04ee",
-    "title": "Green forest fire notification in Zambia, Zimbabwe",
-    "country": "Zambia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T07:36:50+00:00"
-   },
-   {
-    "id": "e51703337130",
-    "title": "Austrian , Swiss women kidnapped in Niger are freed report",
-    "country": "Niger",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T04:45:00+00:00"
-   },
-   {
-    "id": "961991033aec",
-    "title": "Green forest fire notification in Mozambique, Zimbabwe",
-    "country": "Mozambique",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-21T23:26:27+00:00"
    }
   ],
   "South Asia": [
@@ -525,6 +555,46 @@
     "severity": 2,
     "confidence": "C1",
     "time": "2026-10-21T21:30:00+00:00"
+   },
+   {
+    "id": "088c34aa099b",
+    "title": "Govt defends cancellation of Wangchuk institute land allotment , alleges role in last year unrest | India News",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-22T19:30:00+00:00"
+   },
+   {
+    "id": "841e7032c453",
+    "title": "Hyderabad : Foreign Medical Graduates protest for stipend parity",
+    "country": "India",
+    "city": "Hyderabad",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-22T17:30:00+00:00"
+   },
+   {
+    "id": "feade5c327a1",
+    "title": "BJP alleges foreign networks coordinating protests to destabilise India , targets Rahul Gandhi",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-22T17:30:00+00:00"
+   },
+   {
+    "id": "f0e7da143e8e",
+    "title": "BJP shares Indian man pic to link anti - CEC protests to Pakistan",
+    "country": "Pakistan",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-22T17:30:00+00:00"
    },
    {
     "id": "c6677410ced8",
@@ -555,39 +625,29 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-22T05:15:00+00:00"
-   },
-   {
-    "id": "7755e11724ec",
-    "title": "Indian activists released after agreeing to halt protests at restricted Delhi venue",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T05:15:00+00:00"
-   },
-   {
-    "id": "37967068ad51",
-    "title": "INDIA bloc plans next round of protests against CEC Gyanesh Kumar in early November",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T03:30:00+00:00"
-   },
-   {
-    "id": "f77d09269b35",
-    "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-21T18:22:28+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "93849b919e0e",
+    "title": "M4.9 earthquake, 104 km NNE of Hihifo, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T19:06:56.074000+00:00"
+   },
+   {
+    "id": "485f15a8173d",
+    "title": "M4.8 earthquake, 144 km SSW of ‘Ohonua, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T16:51:21.365000+00:00"
+   },
    {
     "id": "54708d7cb0c7",
     "title": "M4.9 earthquake, 200 km NW of Port-Olry, Vanuatu",
@@ -627,16 +687,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-22T03:15:41+00:00"
-   },
-   {
-    "id": "75a2da8f0290",
-    "title": "M4.7 earthquake, 202 km WNW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-21T18:40:31.851000+00:00"
    }
   ]
  }
