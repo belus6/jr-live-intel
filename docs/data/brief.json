@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-22T19:56:22.346888+00:00",
+ "generated": "2026-10-22T23:04:49.496992+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
   "2": 106,
-  "3": 49,
-  "4": 3,
+  "3": 41,
+  "4": 2,
   "5": 3
  },
  "watch_hits": [],
@@ -43,6 +43,46 @@
     "time": "2026-10-22T14:33:40.353000+00:00"
    },
    {
+    "id": "ece8d0b23d50",
+    "title": "Myanmar Junta Renews Peace Talks Invitation to CNF , KNU , and ABSDF",
+    "country": "Myanmar",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-22T21:30:00+00:00"
+   },
+   {
+    "id": "fc366ff2f8aa",
+    "title": "China: Panic as 7.0-magnitude earthquake rocks Tibet",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-22T19:57:50+00:00"
+   },
+   {
+    "id": "c82564c91e4d",
+    "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T21:23:01+00:00"
+   },
+   {
+    "id": "01887a20c86e",
+    "title": "M5.0 earthquake, 153 km S of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T20:05:04.207000+00:00"
+   },
+   {
     "id": "262a8244ad52",
     "title": "M4.9 earthquake, 85 km NNW of Curup, Indonesia",
     "country": "Indonesia",
@@ -51,46 +91,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-22T10:57:52.259000+00:00"
-   },
-   {
-    "id": "669f223fef52",
-    "title": "Dalai Lama appointed by China 'is going to be a fake one', exiled former Tibetan leader says",
-    "country": "China",
-    "city": "Beijing",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T10:22:48+00:00"
-   },
-   {
-    "id": "ae7b68ce156d",
-    "title": "M4.8 earthquake, 86 km S of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T05:23:59.562000+00:00"
-   },
-   {
-    "id": "b398fab1736a",
-    "title": "Thailand Issues Travel Warning for European Travel Amid Riots",
-    "country": "Thailand",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T04:30:00+00:00"
-   },
-   {
-    "id": "d0d36b4916f0",
-    "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-21T22:02:18+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -175,17 +175,243 @@
     "time": "2026-10-22T09:00:05+00:00"
    }
   ],
-  "Eastern Europe": [
+  "Latin America & Caribbean": [
    {
-    "id": "97204f1a91ba",
-    "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
-    "country": "Ukraine",
+    "id": "8b9ac4f6ef97",
+    "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
+    "country": "Haiti",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-21T22:11:27+00:00"
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C1",
+    "time": "2026-10-22T03:45:00+00:00"
    },
+   {
+    "id": "c33724b04e68",
+    "title": "Venezuela faces a deepening energy crisis as protests grow",
+    "country": "Venezuela",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-22T22:15:00+00:00"
+   },
+   {
+    "id": "637361e65c36",
+    "title": "Bukele warns Haitian gangs who kidnapped Salvarodan aviation techs : return hostages or face his wrath",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-22T19:15:00+00:00"
+   },
+   {
+    "id": "61833810e679",
+    "title": "El Salvador's president threatens Haitian gangs over military hostages",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T10:17:48+00:00"
+   },
+   {
+    "id": "a70a42a0d624",
+    "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T08:39:19+00:00"
+   },
+   {
+    "id": "c2943201356b",
+    "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T05:36:33+00:00"
+   },
+   {
+    "id": "6b46caeac76b",
+    "title": "El Salvador launches operation to rescue hostages from Haitian gangs President Bukele threatens to escalate",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-22T03:45:00+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "30b559ddea76",
+    "title": "🔴Live: Authorities in Lyon and Marseille ban all protests Saturday",
+    "country": "France",
+    "city": "Lyon",
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-22T16:03:29+00:00"
+   },
+   {
+    "id": "acfa5417e55d",
+    "title": "France Protests : India issues advisory for its citizens",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C2",
+    "time": "2026-10-22T04:00:00+00:00"
+   },
+   {
+    "id": "91d1476b27c9",
+    "title": "Exercise due caution : India warns citizens in France as violent protests prompt local curfews",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C2",
+    "time": "2026-10-22T03:30:00+00:00"
+   },
+   {
+    "id": "62268a7e1402",
+    "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T21:34:11+00:00"
+   },
+   {
+    "id": "be91e1fe1c74",
+    "title": "Curfew imposed in certain areas of Paris every night until Monday morning",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T19:48:45+00:00"
+   },
+   {
+    "id": "387707231eea",
+    "title": "French authorities ban some student protests after weekend looting and clashes",
+    "country": "France",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-22T19:15:00+00:00"
+   },
+   {
+    "id": "49e40068fd8a",
+    "title": "Targeted by Trump, International Criminal Court wins top EU rights prize",
+    "country": "France",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T18:55:57+00:00"
+   },
+   {
+    "id": "41138ca4d2cf",
+    "title": "France promises massive police presence this weekend as cities impose more curfews after protest violence",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-22T17:30:00+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "c38a224d35db",
+    "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
+    "country": "Kenya",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T22:52:35+00:00"
+   },
+   {
+    "id": "ef569bf2c5d5",
+    "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T19:31:27+00:00"
+   },
+   {
+    "id": "dfed7f4effcd",
+    "title": "Green forest fire notification in Zimbabwe",
+    "country": "Zimbabwe",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T19:15:11+00:00"
+   },
+   {
+    "id": "718c16c9605a",
+    "title": "Crowd of 50 beats foreigner to death in South Africa",
+    "country": "South Africa",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T16:15:25+00:00"
+   },
+   {
+    "id": "c34add739774",
+    "title": "Nigeria can stop Ebola spread, former disease control chief says",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-22T12:21:58+00:00"
+   },
+   {
+    "id": "f38381151ff9",
+    "title": "DR Congo: Ebola responders under pressure as outbreak expands",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T12:00:00+00:00"
+   },
+   {
+    "id": "8de4f5e72721",
+    "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T10:10:13+00:00"
+   },
+   {
+    "id": "d239e4880184",
+    "title": "Former head Nigerian public health confident Ebola can be contained",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-22T08:56:58+00:00"
+   }
+  ],
+  "Eastern Europe": [
    {
     "id": "65cf5820a5f0",
     "title": "Ukraine war latest: Ukrainian troops infiltrate Russian rear near Kupiansk through 15 kilometers of gas pipelines",
@@ -255,170 +481,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-22T10:14:23+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "8b9ac4f6ef97",
-    "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
-    "country": "Haiti",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C1",
-    "time": "2026-10-22T03:45:00+00:00"
    },
    {
-    "id": "eb4b5dde0c71",
-    "title": "El Salvador Haiti Rescue Bid for 4 Troops",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-21T20:45:00+00:00"
-   },
-   {
-    "id": "d6cb74c96468",
-    "title": "Trump - allied Colombian president removes art exhibits he deems communist , sparking protests",
-    "country": "Colombia",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-21T21:45:00+00:00"
-   },
-   {
-    "id": "637361e65c36",
-    "title": "Bukele warns Haitian gangs who kidnapped Salvarodan aviation techs : return hostages or face his wrath",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T19:15:00+00:00"
-   },
-   {
-    "id": "61833810e679",
-    "title": "El Salvador's president threatens Haitian gangs over military hostages",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T10:17:48+00:00"
-   },
-   {
-    "id": "a70a42a0d624",
-    "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T08:39:19+00:00"
-   },
-   {
-    "id": "c2943201356b",
-    "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T05:36:33+00:00"
-   },
-   {
-    "id": "6b46caeac76b",
-    "title": "El Salvador launches operation to rescue hostages from Haitian gangs President Bukele threatens to escalate",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T03:45:00+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "9429b316c7f1",
-    "title": "Indian embassy issues safety advisory for citizens in France amid unrest , local curfews",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C1",
-    "time": "2026-10-21T20:45:00+00:00"
-   },
-   {
-    "id": "30b559ddea76",
-    "title": "🔴Live: Authorities in Lyon and Marseille ban all protests Saturday",
-    "country": "France",
-    "city": "Lyon",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-22T16:03:29+00:00"
-   },
-   {
-    "id": "acfa5417e55d",
-    "title": "France Protests : India issues advisory for its citizens",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C2",
-    "time": "2026-10-22T04:00:00+00:00"
-   },
-   {
-    "id": "91d1476b27c9",
-    "title": "Exercise due caution : India warns citizens in France as violent protests prompt local curfews",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C2",
-    "time": "2026-10-22T03:30:00+00:00"
-   },
-   {
-    "id": "387707231eea",
-    "title": "French authorities ban some student protests after weekend looting and clashes",
-    "country": "France",
+    "id": "1796c1de82e7",
+    "title": "Ukrainian military intelligence reveals new Russian cruise missile 'Filin'",
+    "country": "Ukraine",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-22T19:15:00+00:00"
-   },
-   {
-    "id": "49e40068fd8a",
-    "title": "Targeted by Trump, International Criminal Court wins top EU rights prize",
-    "country": "France",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T18:55:57+00:00"
-   },
-   {
-    "id": "41138ca4d2cf",
-    "title": "France promises massive police presence this weekend as cities impose more curfews after protest violence",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-22T17:30:00+00:00"
-   },
-   {
-    "id": "5a7fccfc71ae",
-    "title": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T15:40:42+00:00"
+    "time": "2026-10-22T09:53:41+00:00"
    }
   ],
   "North America": [
@@ -431,6 +503,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-22T15:43:57+00:00"
+   },
+   {
+    "id": "38409386a7e2",
+    "title": "Why measles outbreak in Pennsylvania poses risks beyond US borders",
+    "country": "United States",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T21:02:30+00:00"
    },
    {
     "id": "d2a6618467e2",
@@ -451,110 +533,18 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-22T03:35:17.429000+00:00"
-   },
-   {
-    "id": "765d2a97be95",
-    "title": "Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (7.514 million in Tropical Storm).",
-    "country": "United States",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-21T21:08:24+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "705c5b18e213",
-    "title": "Sudan’s war escalates as UN warns of wider regional crisis",
-    "country": "Nigeria",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-21T22:41:43+00:00"
-   },
-   {
-    "id": "2458dd679340",
-    "title": "Sudan's war escalates as UN warns of wider regional crisis",
-    "country": "Nigeria",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-21T22:41:43+00:00"
-   },
-   {
-    "id": "ef569bf2c5d5",
-    "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T19:31:27+00:00"
-   },
-   {
-    "id": "718c16c9605a",
-    "title": "Crowd of 50 beats foreigner to death in South Africa",
-    "country": "South Africa",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T16:15:25+00:00"
-   },
-   {
-    "id": "c34add739774",
-    "title": "Nigeria can stop Ebola spread, former disease control chief says",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T12:21:58+00:00"
-   },
-   {
-    "id": "f38381151ff9",
-    "title": "DR Congo: Ebola responders under pressure as outbreak expands",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T12:00:00+00:00"
-   },
-   {
-    "id": "8de4f5e72721",
-    "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-    "country": "Nigeria",
-    "city": "Abuja",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T10:10:13+00:00"
-   },
-   {
-    "id": "d239e4880184",
-    "title": "Former head Nigerian public health confident Ebola can be contained",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T08:56:58+00:00"
    }
   ],
   "South Asia": [
    {
-    "id": "33baab87edba",
-    "title": "Will not take down Indian Flag : Priyanka Gandhi son alleges protest photos pulled down at Bikaner House exhibition",
+    "id": "feade5c327a1",
+    "title": "BJP alleges foreign networks coordinating protests to destabilise India , targets Rahul Gandhi",
     "country": "India",
-    "city": "Delhi",
+    "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-21T21:30:00+00:00"
+    "confidence": "C2",
+    "time": "2026-10-22T17:30:00+00:00"
    },
    {
     "id": "088c34aa099b",
@@ -571,16 +561,6 @@
     "title": "Hyderabad : Foreign Medical Graduates protest for stipend parity",
     "country": "India",
     "city": "Hyderabad",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T17:30:00+00:00"
-   },
-   {
-    "id": "feade5c327a1",
-    "title": "BJP alleges foreign networks coordinating protests to destabilise India , targets Rahul Gandhi",
-    "country": "India",
-    "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "C4",
@@ -621,6 +601,16 @@
     "title": "Iit Bombay Protest : 21 IIT - Bombay faculty members condemn unprecedented police action against protesting students , seek explanation from institute director | Mumbai News",
     "country": "India",
     "city": "Mumbai",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-22T05:15:00+00:00"
+   },
+   {
+    "id": "7755e11724ec",
+    "title": "Indian activists released after agreeing to halt protests at restricted Delhi venue",
+    "country": "India",
+    "city": "Delhi",
     "category": "unrest",
     "severity": 2,
     "confidence": "C4",

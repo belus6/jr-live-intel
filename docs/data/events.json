@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-22T19:56:22.346888+00:00",
+ "generated": "2026-10-22T23:04:49.496992+00:00",
  "sample": false,
- "count": 530,
+ "count": 545,
  "events": [
   {
    "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 100 thousand in 100km.",
@@ -869,34 +869,6 @@
    "watch": []
   },
   {
-   "title": "Political rivals implicated under Pakistan's anti-terror law",
-   "summary": "",
-   "url": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
-   "time": "2026-10-18T21:00:11+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Pakistan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T21:24:31.250565+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "e59e1e45e2a0",
-   "flag": "🇵🇰",
-   "region": "South Asia",
-   "baseline": 4.31,
-   "watch": []
-  },
-  {
    "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
@@ -1095,6 +1067,118 @@
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
    "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss",
+   "time": "2026-10-22T22:52:35+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Kenya",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c38a224d35db",
+   "flag": "🇰🇪",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.97,
+   "watch": []
+  },
+  {
+   "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
+   "summary": "",
+   "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
+   "time": "2026-10-22T21:34:11+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "62268a7e1402",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "Myanmar Junta Renews Peace Talks Invitation to CNF , KNU , and ABSDF",
+   "summary": "",
+   "url": "https://www.bnionline.net/en/news/myanmar-junta-renews-peace-talks-invitation-cnf-knu-and-absdf",
+   "time": "2026-10-22T21:30:00+00:00",
+   "tier": "C",
+   "category": "political",
+   "country": "Myanmar",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "bnionline.net (via GDELT)",
+     "url": "https://www.bnionline.net/en/news/myanmar-junta-renews-peace-talks-invitation-cnf-knu-and-absdf",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "ece8d0b23d50",
+   "flag": "🇲🇲",
+   "region": "East & SE Asia",
+   "baseline": 4.79,
+   "watch": []
+  },
+  {
+   "title": "Curfew imposed in certain areas of Paris every night until Monday morning",
+   "summary": "",
+   "url": "https://www.france24.com/en/curfew-imposed-in-certain-areas-of-paris-every-night-until-monday-morning",
+   "time": "2026-10-22T19:48:45+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/curfew-imposed-in-certain-areas-of-paris-every-night-until-monday-morning",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "be91e1fe1c74",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -3996,90 +4080,6 @@
    "watch": []
   },
   {
-   "title": "160 people reported killed in escalating drone attacks across Sudan",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
-   "time": "2026-10-19T21:38:46+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Sudan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "58dcee3c58e9",
-   "flag": "🇸🇩",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "Helen Haines was chatting with locals at a dog park on Monday morning. By the afternoon, she was fighting for her life",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-was-chatting-with-locals-at-a-dog-park-on-monday-morning-by-the-afternoon-she-was-fighting-for-her-life-ntwnfb",
-   "time": "2026-10-19T21:14:37+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Australia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-was-chatting-with-locals-at-a-dog-park-on-monday-morning-by-the-afternoon-she-was-fighting-for-her-life-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "92f5185bf8b0",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "What Russia's doing to Ukraine is 'fine,' Trump says",
-   "summary": "",
-   "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/",
-   "time": "2026-10-19T20:25:22+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "4b4bb072197f",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
    "title": "'We will fight' — We asked Ukrainian soldiers about Trump's latest outburst",
    "summary": "",
    "url": "https://kyivindependent.com/we-will-fight-we-asked-ukrainian-soldiers-about-trumps-latest-outburst/",
@@ -5248,6 +5248,504 @@
    "watch": []
   },
   {
+   "title": "Green youth group calls for students and young worker to join Paris - style riots",
+   "summary": "",
+   "url": "https://www.dailymail.com/news/article-16230879/Green-calls-students-young-workers-join-Paris-style-riots.html",
+   "time": "2026-10-22T22:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "dailymail.com (via GDELT)",
+     "url": "https://www.dailymail.com/news/article-16230879/Green-calls-students-young-workers-join-Paris-style-riots.html",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "70de6e359264",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Commentary : French students are showing us what protest looks like in the age of viral spectacle",
+   "summary": "",
+   "url": "https://www.channelnewsasia.com/commentary/france-student-protests-paris-6482091",
+   "time": "2026-10-22T22:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "channelnewsasia.com (via GDELT)",
+     "url": "https://www.channelnewsasia.com/commentary/france-student-protests-paris-6482091",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "de2052c56046",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Venezuela faces a deepening energy crisis as protests grow",
+   "summary": "",
+   "url": "https://globalvoices.org/2026/10/22/venezuela-faces-a-deepening-energy-crisis-as-protests-grow/",
+   "time": "2026-10-22T22:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Venezuela",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "globalvoices.org (via GDELT)",
+     "url": "https://globalvoices.org/2026/10/22/venezuela-faces-a-deepening-energy-crisis-as-protests-grow/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "c33724b04e68",
+   "flag": "🇻🇪",
+   "region": "Latin America & Caribbean",
+   "baseline": 4.49,
+   "watch": []
+  },
+  {
+   "title": "Baku Hijab Ban Sparks Protests in Azerbaijan and Creates Problems With Türkiye",
+   "summary": "",
+   "url": "https://jamestown.org/bakus-hijab-ban-sparks-protests-in-azerbaijan-and-creates-problems-with-turkiye/",
+   "time": "2026-10-22T22:00:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Azerbaijan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "jamestown.org (via GDELT)",
+     "url": "https://jamestown.org/bakus-hijab-ban-sparks-protests-in-azerbaijan-and-creates-problems-with-turkiye/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "d5f993eca5ff",
+   "flag": "🇦🇿",
+   "region": "Eastern Europe",
+   "baseline": 2.84,
+   "watch": []
+  },
+  {
+   "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
+   "time": "2026-10-22T21:30:50+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3dd155aabd23",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "We Will Not Be Soldiers for Saudi : Turkish Protesters Clash With Security Forces",
+   "summary": "",
+   "url": "https://www.islamicinvitationturkey.com/we-will-not-be-soldiers-for-saudis-turkish-protesters-clash-with-security-forces/",
+   "time": "2026-10-22T21:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Saudi Arabia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "islamicinvitationturkey.com (via GDELT)",
+     "url": "https://www.islamicinvitationturkey.com/we-will-not-be-soldiers-for-saudis-turkish-protesters-clash-with-security-forces/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "674c076f3257",
+   "flag": "🇸🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
+   "time": "2026-10-22T21:23:01+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "China",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c82564c91e4d",
+   "flag": "🇨🇳",
+   "region": "East & SE Asia",
+   "baseline": 2.75,
+   "watch": []
+  },
+  {
+   "title": "Watch : Spanish Far - Left Rioters Crash Right - Wing Rally",
+   "summary": "",
+   "url": "https://www.breitbart.com/europe/2026/10/22/watch-spanish-far-left-rioters-try-to-crash-vox-party-rally-in-a-coruna-stage-night-of-chaos/",
+   "time": "2026-10-22T21:15:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Spain",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "breitbart.com (via GDELT)",
+     "url": "https://www.breitbart.com/europe/2026/10/22/watch-spanish-far-left-rioters-try-to-crash-vox-party-rally-in-a-coruna-stage-night-of-chaos/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "677cf03911ad",
+   "flag": "🇪🇸",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Why measles outbreak in Pennsylvania poses risks beyond US borders",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/22/why-measles-outbreak-in-pennsylvania-poses-risks-beyond-us-borders?traffic_source=rss",
+   "time": "2026-10-22T21:02:30+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "United States",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/why-measles-outbreak-in-pennsylvania-poses-risks-beyond-us-borders?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "38409386a7e2",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "French authorities seek to ban or curb fresh protests",
+   "summary": "",
+   "url": "https://www.channelnewsasia.com/world/france-weekend-protests-macron-ban-security-police-6483456",
+   "time": "2026-10-22T21:00:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "channelnewsasia.com (via GDELT)",
+     "url": "https://www.channelnewsasia.com/world/france-weekend-protests-macron-ban-security-police-6483456",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "38939d09d190",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
+   "summary": "",
+   "url": "https://www.wcvb.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
+   "time": "2026-10-22T21:00:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Italy",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "wcvb.com (via GDELT)",
+     "url": "https://www.wcvb.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
+     "tier": "C"
+    },
+    {
+     "name": "mykxlg.com (via GDELT)",
+     "url": "https://www.mykxlg.com/news/world/millions-in-cheese-revenue-lost-as-protest-torpedoes-italys-buffalo-mozzarella-output/article_57071878-3d49-5b2b-865f-a7c3091771d0.html",
+     "tier": "C"
+    },
+    {
+     "name": "koat.com (via GDELT)",
+     "url": "https://www.koat.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
+     "tier": "C"
+    },
+    {
+     "name": "wmtw.com (via GDELT)",
+     "url": "https://www.wmtw.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
+     "tier": "C"
+    },
+    {
+     "name": "wapt.com (via GDELT)",
+     "url": "https://www.wapt.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
+     "tier": "C"
+    },
+    {
+     "name": "sandiegouniontribune.com (via GDELT)",
+     "url": "https://www.sandiegouniontribune.com/2026/10/22/italy-mozzarella-protest/",
+     "tier": "C"
+    },
+    {
+     "name": "wgal.com (via GDELT)",
+     "url": "https://www.wgal.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
+     "tier": "C"
+    },
+    {
+     "name": "wvtm13.com (via GDELT)",
+     "url": "https://www.wvtm13.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
+     "tier": "C"
+    },
+    {
+     "name": "kcci.com (via GDELT)",
+     "url": "https://www.kcci.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "C1",
+   "corroboration": 9,
+   "id": "9cef43511194",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
+   "watch": []
+  },
+  {
+   "title": "More police to be deployed this weekend as French authorities attempt protest ban",
+   "summary": "",
+   "url": "https://www.sbs.com.au/news/article/french-authorities-seek-to-ban-or-curb-fresh-protests/s84lf5s7y",
+   "time": "2026-10-22T21:00:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "sbs.com.au (via GDELT)",
+     "url": "https://www.sbs.com.au/news/article/french-authorities-seek-to-ban-or-curb-fresh-protests/s84lf5s7y",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "80cae6302098",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Italy's trucker protests halt buffalo mozzarella production, cost producers €3m",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/business/20261022-italy-s-trucker-protests-halt-buffalo-mozzarella-production-cost-producers-%E2%82%AC3m",
+   "time": "2026-10-22T20:54:15+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Italy",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/business/20261022-italy-s-trucker-protests-halt-buffalo-mozzarella-production-cost-producers-%E2%82%AC3m",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2c61ddb62a5a",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
+   "watch": []
+  },
+  {
+   "title": "Thousands gather at final student-led rally ahead of Serbia election",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
+   "time": "2026-10-22T20:21:12+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Serbia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
+     "tier": "B"
+    },
+    {
+     "name": "independent.co.uk (via GDELT)",
+     "url": "https://www.independent.co.uk/news/uk/politics/aleksandar-vucic-serbia-belgrade-support-serbian-progressive-party-b3071732.html",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "f42064d4cfe8",
+   "flag": "🇷🇸",
+   "region": "Eastern Europe",
+   "baseline": 2.13,
+   "watch": []
+  },
+  {
+   "title": "M5.0 earthquake, 153 km S of Kokopo, Papua New Guinea",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u473",
+   "time": "2026-10-22T20:05:04.207000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -5.728,
+   "lon": 152.2646,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u473",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "01887a20c86e",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
+   "watch": []
+  },
+  {
+   "title": "China: Panic as 7.0-magnitude earthquake rocks Tibet",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet/",
+   "time": "2026-10-22T19:57:50+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "China",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet/",
+     "tier": "C"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "fc366ff2f8aa",
+   "flag": "🇨🇳",
+   "region": "East & SE Asia",
+   "baseline": 2.75,
+   "watch": []
+  },
+  {
    "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
@@ -5301,6 +5799,62 @@
    "flag": "🇮🇳",
    "region": "South Asia",
    "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Albania's student protests are only getting bigger",
+   "summary": "",
+   "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-world-4025-rdf",
+   "time": "2026-10-22T19:18:00+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-world-4025-rdf",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f9307561f94e",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Zimbabwe",
+   "summary": "On 15/10/2026, a forest fire started in Zimbabwe, until 20/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032978",
+   "time": "2026-10-22T19:15:11+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Zimbabwe",
+   "city": null,
+   "lat": -16.352527402963698,
+   "lon": 29.28184879720441,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032978",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "dfed7f4effcd",
+   "flag": "🇿🇼",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.52,
    "watch": []
   },
   {
@@ -5722,11 +6276,16 @@
      "name": "aninews.in (via GDELT)",
      "url": "https://aninews.in/news/national/politics/bjp-alleges-foreign-networks-coordinating-protests-to-destabilise-india-targets-rahul-gandhi20261022213620/",
      "tier": "C"
+    },
+    {
+     "name": "greekherald.com (via GDELT)",
+     "url": "http://www.greekherald.com/news/279392864/bjp-alleges-foreign-networks-coordinating-protests-to-destabilise-india-targets-rahul-gandhi",
+     "tier": "C"
     }
    ],
    "first_seen": "2026-10-22T19:56:22.346888+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
+   "confidence": "C2",
+   "corroboration": 2,
    "id": "feade5c327a1",
    "flag": "🇮🇳",
    "region": "South Asia",
@@ -5902,6 +6461,34 @@
    "watch": []
   },
   {
+   "title": "Macron bans ‘illegitimate’ protests in France as he tries to get a grip on unrest",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
+   "time": "2026-10-22T15:54:13+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "caa9fa3056ac",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
    "title": "French shopkeepers fear new looting in upcoming protests",
    "summary": "",
    "url": "https://www.france24.com/en/french-shopkeepers-fear-new-looting-in-upcoming-protests",
@@ -6068,11 +6655,31 @@
      "name": "dailyadvance.com (via GDELT)",
      "url": "http://www.dailyadvance.com/news/world/thousands-gather-in-paris-after-a-court-lifts-a-protest-ban-despite-fears-of-new/article_c90d9eb7-768d-541e-bff4-da0741f7d0dd.html",
      "tier": "C"
+    },
+    {
+     "name": "z93jamz.com (via GDELT)",
+     "url": "https://www.z93jamz.com/2026/10/22/amid-unrest-steelers-cancel-fan-event-in-paris/",
+     "tier": "C"
+    },
+    {
+     "name": "europesun.com (via GDELT)",
+     "url": "http://www.europesun.com/news/279393095/amid-unrest-steelers-cancel-fan-event-in-paris",
+     "tier": "C"
+    },
+    {
+     "name": "neworleanssun.com (via GDELT)",
+     "url": "http://www.neworleanssun.com/news/279393095/amid-unrest-steelers-cancel-fan-event-in-paris",
+     "tier": "C"
+    },
+    {
+     "name": "newindianexpress.com (via GDELT)",
+     "url": "https://www.newindianexpress.com/world/2026/Oct/22/thousands-gather-in-paris-after-a-court-lifts-a-protest-ban-despite-fears-of-new-violence",
+     "tier": "C"
     }
    ],
    "first_seen": "2026-10-22T15:57:46.880551+00:00",
    "confidence": "C1",
-   "corroboration": 3,
+   "corroboration": 7,
    "id": "81371475a279",
    "flag": "🇫🇷",
    "region": "Western Europe",
@@ -7739,6 +8346,34 @@
    "flag": "🇧🇫",
    "region": "Sub-Saharan Africa",
    "baseline": 4.62,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Botswana",
+   "summary": "On 20/10/2026, a forest fire started in Botswana, until 22/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033021",
+   "time": "2026-10-21T23:02:01+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Botswana",
+   "city": null,
+   "lat": -20.087351269093915,
+   "lon": 23.750548375710235,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033021",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "d5782c437ff6",
+   "flag": "🇧🇼",
+   "region": "Sub-Saharan Africa",
+   "baseline": 1.9,
    "watch": []
   },
   {
@@ -9410,6 +10045,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Madagascar",
+   "summary": "On 10/10/2026, a forest fire started in Madagascar, until 22/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032986",
+   "time": "2026-10-21T11:13:32+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Madagascar",
+   "city": null,
+   "lat": -22.51736989053398,
+   "lon": 44.26767285916208,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032986",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-22T23:04:49.496992+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "9fa30e817ded",
+   "flag": "🇲🇬",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.46,
+   "watch": []
+  },
+  {
    "title": "Green forest fire notification in Mozambique, South Africa",
    "summary": "On 18/10/2026, a forest fire started in Mozambique, South Africa, until 20/10/2026.",
    "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032974",
@@ -10463,174 +11126,6 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
-   "time": "2026-10-20T20:49:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Spain",
-   "city": "Barcelona",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T21:53:47.542855+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "8acc66e03519",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "US regulators certify Boeing 737 Max 10 after years of delay",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay",
-   "time": "2026-10-20T20:46:03+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T21:53:47.542855+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "60a0986acc4f",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "US regulators certify Boeing 737 MAX 10 after years of delay",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay",
-   "time": "2026-10-20T20:46:03+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-21T10:08:59.221435+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "76ea68548dac",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "‘I’m alive’: Paris street medic isn’t dead, despite viral claims he was killed by police",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261020-i-m-alive-paris-street-medic-isn-t-dead-despite-viral-claims-he-was-killed-by-police",
-   "time": "2026-10-20T20:43:22+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261020-i-m-alive-paris-street-medic-isn-t-dead-despite-viral-claims-he-was-killed-by-police",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T21:53:47.542855+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "8be989092549",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France riots leave thousands of businesses damaged",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
-   "time": "2026-10-20T20:16:01+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T21:53:47.542855+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "148ed6305e21",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "French PM vows 'massive' police deployment for new demonstrations",
-   "summary": "",
-   "url": "https://www.france24.com/en/french-pm-vows-massive-police-deployment-for-new-demonstrations",
-   "time": "2026-10-20T20:05:44+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/french-pm-vows-massive-police-deployment-for-new-demonstrations",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-21T05:08:48.615909+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c7914b50f6d6",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
