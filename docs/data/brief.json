@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-21T22:35:45.530454+00:00",
+ "generated": "2026-10-22T00:54:41.507435+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 90,
-  "3": 25,
-  "4": 3,
+  "2": 87,
+  "3": 27,
+  "4": 4,
   "5": 0
  },
  "watch_hits": [],
@@ -21,6 +21,16 @@
     "severity": 4,
     "confidence": "C2",
     "time": "2026-10-21T17:53:54+00:00"
+   },
+   {
+    "id": "97204f1a91ba",
+    "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
+    "country": "Ukraine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-21T22:11:27+00:00"
    },
    {
     "id": "0399985607cd",
@@ -41,6 +51,16 @@
     "severity": 3,
     "confidence": "C2",
     "time": "2026-10-21T14:27:18+00:00"
+   },
+   {
+    "id": "9df10c70863e",
+    "title": "Explosions, fires reported amid overnight Ukrainian drone attack on Lipetsk, Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-21T23:46:05+00:00"
    },
    {
     "id": "f9b9757ee58e",
@@ -71,26 +91,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-21T14:17:00+00:00"
-   },
-   {
-    "id": "b2c11a97c7c5",
-    "title": "Lockheed Martin delegation meets Ukraine's defense chiefs in Kyiv amid severe Patriot shortage",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-21T11:02:47+00:00"
-   },
-   {
-    "id": "ee16c26c0f4c",
-    "title": "General Staff: Russia has lost 1,570,540 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-21T07:41:31+00:00"
    }
   ],
   "Western Europe": [
@@ -165,14 +165,14 @@
     "time": "2026-10-21T05:37:28+00:00"
    },
    {
-    "id": "c38487fd013c",
-    "title": "Live: French PM Lecornu to meet with unions ahead of new protests",
+    "id": "0331316d665a",
+    "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
     "country": "France",
     "city": null,
     "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-21T00:45:06+00:00"
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-21T19:40:56+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -185,6 +185,16 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-10-21T15:28:01+00:00"
+   },
+   {
+    "id": "d344a4d25a91",
+    "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T00:00:00+00:00"
    },
    {
     "id": "4b2a240aed8b",
@@ -245,16 +255,88 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-21T08:11:10+00:00"
-   },
+   }
+  ],
+  "Sub-Saharan Africa": [
    {
-    "id": "0677ecf68a3a",
-    "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
-    "country": "Iran",
-    "city": "Tehran",
+    "id": "705c5b18e213",
+    "title": "Sudan’s war escalates as UN warns of wider regional crisis",
+    "country": "Nigeria",
+    "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-21T05:00:02+00:00"
+    "time": "2026-10-21T22:41:43+00:00"
+   },
+   {
+    "id": "525f4ee6a3ae",
+    "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-21T12:00:00+00:00"
+   },
+   {
+    "id": "e0bbbc0b6fae",
+    "title": "Nigeria's first ebola case sparks shock and urgent concern nationwide",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "category": "health",
+    "severity": 2,
+    "confidence": "C1",
+    "time": "2026-10-21T12:03:58+00:00"
+   },
+   {
+    "id": "2f67a461be14",
+    "title": "Nigeria confirms first Ebola case as outbreak spreads across Africa",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C1",
+    "time": "2026-10-21T07:21:27+00:00"
+   },
+   {
+    "id": "961991033aec",
+    "title": "Green forest fire notification in Mozambique, Zimbabwe",
+    "country": "Mozambique",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-21T23:26:27+00:00"
+   },
+   {
+    "id": "e9dd49a1eb39",
+    "title": "Green forest fire notification in Tanzania, Malawi",
+    "country": "Tanzania",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-21T23:08:38+00:00"
+   },
+   {
+    "id": "fcdd5a9a27f9",
+    "title": "Green forest fire notification in Namibia, Angola",
+    "country": "Namibia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-21T23:07:47+00:00"
+   },
+   {
+    "id": "a2b82e7d90b8",
+    "title": "Green forest fire notification in Burkina Faso",
+    "country": "Burkina Faso",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-21T23:02:54+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -297,88 +379,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-21T01:20:02.961000+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "525f4ee6a3ae",
-    "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-21T12:00:00+00:00"
-   },
-   {
-    "id": "2f67a461be14",
-    "title": "Nigeria confirms first Ebola case as outbreak spreads across Africa",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-21T07:21:27+00:00"
-   },
-   {
-    "id": "e0bbbc0b6fae",
-    "title": "Nigeria's first ebola case sparks shock and urgent concern nationwide",
-    "country": "Nigeria",
-    "city": "Abuja",
-    "category": "health",
-    "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-21T12:03:58+00:00"
-   },
-   {
-    "id": "4d7acde26edd",
-    "title": "M4.9 earthquake, 68 km NNW of Khorixas, Namibia",
-    "country": "Namibia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-21T20:34:50.454000+00:00"
-   },
-   {
-    "id": "fadaf5c3b005",
-    "title": "Green forest fire notification in Mozambique",
-    "country": "Mozambique",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-21T11:13:42+00:00"
-   },
-   {
-    "id": "976784760850",
-    "title": "Green forest fire notification in Mozambique, South Africa",
-    "country": "Mozambique",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-21T11:02:49+00:00"
-   },
-   {
-    "id": "ab0c9a548fc1",
-    "title": "Gambia to compensate Jammeh victims with $2.5m from mansion sale",
-    "country": "Gambia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-21T10:33:03+00:00"
-   },
-   {
-    "id": "b166de965e9b",
-    "title": "Gambia to use money from sale of ex-dictator's US mansion to compensate victims of his rule",
-    "country": "Gambia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-21T09:23:01+00:00"
    }
   ],
   "North America": [
@@ -453,16 +453,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-21T01:43:38+00:00"
-   },
-   {
-    "id": "0ece2dffc481",
-    "title": "M4.6 earthquake, 115 km NNE of Barishal, Pakistan",
-    "country": "Pakistan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T23:16:43.934000+00:00"
    }
   ],
   "East & SE Asia": [
@@ -505,16 +495,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-21T01:04:29.196000+00:00"
-   },
-   {
-    "id": "714223c14d2f",
-    "title": "Florida kills 77-year-old man in state’s 18th execution of year",
-    "country": "Vietnam",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-20T23:22:21+00:00"
    }
   ],
   "Oceania": [
@@ -567,16 +547,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-21T02:32:12+00:00"
-   },
-   {
-    "id": "2a07afa35197",
-    "title": "M4.9 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-20T23:24:27.101000+00:00"
    }
   ],
   "Central Asia": [
