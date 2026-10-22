@@ -1,8 +1,64 @@
 {
- "generated": "2026-10-22T11:17:13.356778+00:00",
+ "generated": "2026-10-22T15:57:46.880551+00:00",
  "sample": false,
- "count": 538,
+ "count": 512,
  "events": [
+  {
+   "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 100 thousand in 100km.",
+   "summary": "On 10/22/2026 2:33:40 PM, an earthquake occurred in China potentially affecting 100 thousand in 100km. The earthquake had Magnitude 7M, Depth:18km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573141",
+   "time": "2026-10-22T14:54:15+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "China",
+   "city": null,
+   "lat": 32.3805,
+   "lon": 93.7797,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573141",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "58ff220e9c77",
+   "flag": "🇨🇳",
+   "region": "East & SE Asia",
+   "baseline": 2.75,
+   "watch": []
+  },
+  {
+   "title": "M7.0 earthquake, 191 km ENE of Nagqu, China",
+   "summary": "Depth 18 km. Alert: orange.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
+   "time": "2026-10-22T14:33:40.353000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "China",
+   "city": null,
+   "lat": 32.3805,
+   "lon": 93.7797,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "6b87b0f332eb",
+   "flag": "🇨🇳",
+   "region": "East & SE Asia",
+   "baseline": 2.75,
+   "watch": []
+  },
   {
    "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
    "summary": "",
@@ -95,34 +151,6 @@
    "flag": "🇻🇺",
    "region": "Oceania",
    "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "At least 18 killed in Houthi attack on military camp in Yemen’s Shabwa",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss",
-   "time": "2026-10-19T12:51:46+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T14:30:22.830330+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "0307fee7f822",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
    "watch": []
   },
   {
@@ -701,34 +729,6 @@
    "watch": []
   },
   {
-   "title": "Ukraine, Russia nearing agreement on evacuation of civilians from occupied Oleshky, ombudsman says",
-   "summary": "",
-   "url": "https://kyivindependent.com/ukraine-russia-nearing-agreement-on-evacuation-of-civilians-from-occupied-oleshky-ombudsman-says/",
-   "time": "2026-10-19T15:18:57+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/ukraine-russia-nearing-agreement-on-evacuation-of-civilians-from-occupied-oleshky-ombudsman-says/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-19T20:13:33.583686+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "a1cf3f459203",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "French PM Lecornu says ready to declare state of emergency 'if needed'",
    "summary": "",
    "url": "https://www.france24.com/en/france/20261019-french-pm-says-could-declare-state-of-emergency-over-unrest-if-needed",
@@ -1070,34 +1070,6 @@
    "watch": []
   },
   {
-   "title": "US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
-   "time": "2026-10-18T15:33:38+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-18T16:44:19.543868+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3a66ed783a8b",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
    "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
@@ -1296,6 +1268,258 @@
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
    "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "Georgia on Democrats’ minds: Powering up the Black vote to counter Trump's meddling",
+   "summary": "",
+   "url": "https://www.france24.com/en/americas/20261022-georgia-on-democrats-minds-powering-up-black-vote-counter-trump-meddling",
+   "time": "2026-10-22T15:43:57+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "United States",
+   "city": "Atlanta",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261022-georgia-on-democrats-minds-powering-up-black-vote-counter-trump-meddling",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a0545a8867c0",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/perspective/20261022-ethiopia-eritrea-is-there-a-risk-of-a-wider-conflict",
+   "time": "2026-10-22T15:40:42+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "United Kingdom",
+   "city": "London",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/perspective/20261022-ethiopia-eritrea-is-there-a-risk-of-a-wider-conflict",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5a7fccfc71ae",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "Reports show US and Israel are planning new strikes on Iran",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261022-reports-show-us-and-israel-plan-new-strikes-on-iran",
+   "time": "2026-10-22T15:34:34+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Israel",
+   "city": "Jerusalem",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261022-reports-show-us-and-israel-plan-new-strikes-on-iran",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "de247796409d",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Just hours after being bombed, we asked people in Kyiv about Witkoff's praise of Putin",
+   "summary": "",
+   "url": "https://kyivindependent.com/just-hours-after-being-bombed-we-asked-people-in-kyiv-about-witkoffs-praise-of-putin/",
+   "time": "2026-10-22T15:20:31+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/just-hours-after-being-bombed-we-asked-people-in-kyiv-about-witkoffs-praise-of-putin/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "8b822d393d1d",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Germany arrests Ukrainian man accused of spying for Russia",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
+   "time": "2026-10-22T14:36:06+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Germany",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a19ee028996f",
+   "flag": "🇩🇪",
+   "region": "Western Europe",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "How Sudan’s shift to drone warfare is fuelling a civilian crisis",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss",
+   "time": "2026-10-22T13:35:31+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "fb2e687b7d6d",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
+   "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
+   "time": "2026-10-22T12:12:32+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Iran",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "57009497c620",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "At least four dead after storm brings flooding to southern France",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-22T11:23:16+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "97f2c4aeb84d",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Ukraine: At least 9 people were killed in Russian attacks over the past 24 hours",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/22/ukraine-at-least-9-people-were-killed-in-russian-attacks-over-the-past-24-hours/",
+   "time": "2026-10-22T11:11:42+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/22/ukraine-at-least-9-people-were-killed-in-russian-attacks-over-the-past-24-hours/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "6ff0d42d2c72",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -1978,6 +2202,34 @@
    "watch": []
   },
   {
+   "title": "Deadly Russian missile strike on Kyiv used cluster warheads, hours after Putin-Witkoff meeting",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
+   "time": "2026-10-21T22:22:41+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "4224be5ba358",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
    "title": "France announces nightly curfews for as long as necessary in Paris and other big cities",
    "summary": "",
    "url": "https://www.whec.com/ap-top-news/france-announces-nightly-curfews-for-as-long-as-necessary-in-paris-and-other-big-cities/",
@@ -2031,6 +2283,34 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-21T21:27:41+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "36a61fcc6ac7",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -3212,34 +3492,6 @@
    "watch": []
   },
   {
-   "title": "France unrest: Public reacts to PM’s announcement of new targeted curfews",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261020-france-unrest-public-reacts-to-pm-s-announcement-of-new-targeted-curfews",
-   "time": "2026-10-20T13:47:20+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261020-france-unrest-public-reacts-to-pm-s-announcement-of-new-targeted-curfews",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "68d21d09631c",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "UN denounces deadly wave of drone strikes in Sudan - Shafaqna English | International Shia News & Fatwas",
    "summary": "",
    "url": "https://en.shafaqna.com/486287/un-denounces-deadly-wave-of-drone-strikes-in-sudan/",
@@ -3268,34 +3520,6 @@
    "watch": []
   },
   {
-   "title": "France curfews calm unrest as Macron faces criticism over Gulf trip",
-   "summary": "",
-   "url": "https://www.cnbcafrica.com/2026/france-curfews-calm-unrest-as-macron-faces-criticism-over-gulf-trip",
-   "time": "2026-10-20T13:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "cnbcafrica.com (via GDELT)",
-     "url": "https://www.cnbcafrica.com/2026/france-curfews-calm-unrest-as-macron-faces-criticism-over-gulf-trip",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "869dfea300d6",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss",
@@ -3321,34 +3545,6 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
-   "watch": []
-  },
-  {
-   "title": "France to impose new curfews where necessary : PM",
-   "summary": "",
-   "url": "https://www.ewn.co.za/2026/10/20/france-to-impose-new-curfews-where-necessary-pm",
-   "time": "2026-10-20T12:45:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "ewn.co.za (via GDELT)",
-     "url": "https://www.ewn.co.za/2026/10/20/france-to-impose-new-curfews-where-necessary-pm",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "f6fe6dfcec76",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -3405,105 +3601,6 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
-   "watch": []
-  },
-  {
-   "title": "France protests : Curfew announced amid violent unrest",
-   "summary": "",
-   "url": "https://www.cp24.com/news/world/2026/10/19/paris-police-issue-an-overnight-curfew-in-2-areas-of-the-french-capital-to-try-to-prevent-further-disorder/",
-   "time": "2026-10-20T12:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "cp24.com (via GDELT)",
-     "url": "https://www.cp24.com/news/world/2026/10/19/paris-police-issue-an-overnight-curfew-in-2-areas-of-the-french-capital-to-try-to-prevent-further-disorder/",
-     "tier": "C"
-    },
-    {
-     "name": "wfmd.com (via GDELT)",
-     "url": "https://www.wfmd.com/2026/10/20/france-protests-5/",
-     "tier": "C"
-    },
-    {
-     "name": "monacolife.net (via GDELT)",
-     "url": "https://monacolife.net/nice-imposes-curfew-as-france-prepares-for-further-protests/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C1",
-   "corroboration": 3,
-   "id": "c0cf2dc43304",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Curfews will have no impact on French protest movement , Yellow Vests lawyer says",
-   "summary": "",
-   "url": "https://aa.com.tr/en/europe/curfews-will-have-no-impact-on-french-protest-movement-yellow-vests-lawyer-says/4094452",
-   "time": "2026-10-20T12:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "aa.com.tr (via GDELT)",
-     "url": "https://aa.com.tr/en/europe/curfews-will-have-no-impact-on-french-protest-movement-yellow-vests-lawyer-says/4094452",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "24764100c1e2",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France to impose new curfews as authorities seek to restore order after riots",
-   "summary": "",
-   "url": "https://www.sbs.com.au/news/article/france-to-impose-new-curfews-as-authorities-seek-to-restore-order-after-riots/4pkni8mrz",
-   "time": "2026-10-20T12:00:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "sbs.com.au (via GDELT)",
-     "url": "https://www.sbs.com.au/news/article/france-to-impose-new-curfews-as-authorities-seek-to-restore-order-after-riots/4pkni8mrz",
-     "tier": "C"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "716840d80e66",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -4008,321 +4105,6 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
-   "watch": []
-  },
-  {
-   "title": "Drone attack near market kills 80 in Sudan",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-   "time": "2026-10-19T14:45:53+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Sudan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T20:13:33.583686+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "7131c7ca8f52",
-   "flag": "🇸🇩",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "Hegseth wrong to say most non-US Nato forces in Afghanistan did not fight, says No 10",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/19/pete-hegseth-nato-afghanistan-downing-street",
-   "time": "2026-10-19T14:13:16+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Afghanistan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/19/pete-hegseth-nato-afghanistan-downing-street",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T14:30:22.830330+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "21e7149dce1c",
-   "flag": "🇦🇫",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.8,
-   "watch": []
-  },
-  {
-   "title": "'It's significant': Ukraine fears US is withholding allied-funded air defense supplies to pressure Kyiv",
-   "summary": "",
-   "url": "https://kyivindependent.com/its-significant-ukraine-fears-us-is-withholding-allied-funded-air-defense-supplies-to-pressure-kyiv/",
-   "time": "2026-10-19T14:12:55+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/its-significant-ukraine-fears-us-is-withholding-allied-funded-air-defense-supplies-to-pressure-kyiv/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-19T14:30:22.830330+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "f37a422e326f",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
-   "summary": "",
-   "url": "https://www.france24.com/en/africa/20261019-drone-attack-near-southern-sudan-market-kills-scores",
-   "time": "2026-10-19T14:00:04+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Sudan",
-   "city": "Khartoum",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/africa/20261019-drone-attack-near-southern-sudan-market-kills-scores",
-     "tier": "B"
-    },
-    {
-     "name": "mymotherlode.com (via GDELT)",
-     "url": "https://mymotherlode.com/news/world/11234558/sudan-drone-attacks-kill-3-children-in-khartoum-dozens-of-civilians-in-kordofan.html",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-19T20:13:33.583686+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "356a9f8c6bee",
-   "flag": "🇸🇩",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "Pregnant women in Yemen at growing risk as healthcare limited by fighting",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/19/pregnant-women-in-yemen-at-growing-risk-as-healthcare-limited-by-fighting/",
-   "time": "2026-10-19T13:21:47+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/19/pregnant-women-in-yemen-at-growing-risk-as-healthcare-limited-by-fighting/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-19T14:30:22.830330+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "88696d3afd99",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
-   "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/19/weight-of-responsibility-promise-and-perils-of-covering-ethiopias-war?traffic_source=rss",
-   "time": "2026-10-19T13:21:37+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ethiopia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/weight-of-responsibility-promise-and-perils-of-covering-ethiopias-war?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T14:30:22.830330+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "2933fa68143c",
-   "flag": "🇪🇹",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.2,
-   "watch": []
-  },
-  {
-   "title": "US reacts to Kyiv's claim it received no advance notice of Russian ballistic missile launches",
-   "summary": "",
-   "url": "https://kyivindependent.com/us-reacts-to-kyivs-claim-it-received-no-advance-notice-of-russian-ballistic-missile-launches/",
-   "time": "2026-10-19T12:24:21+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/us-reacts-to-kyivs-claim-it-received-no-advance-notice-of-russian-ballistic-missile-launches/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-19T14:30:22.830330+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "85b22246bf84",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-   "summary": "",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-   "time": "2026-10-19T12:00:00+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Lebanon",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T20:13:33.583686+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "916f96400af4",
-   "flag": "🇱🇧",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.29,
-   "watch": [
-    "Field staff, Lebanon"
-   ]
-  },
-  {
-   "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
-   "summary": "",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168628",
-   "time": "2026-10-19T12:00:00+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Sudan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168628",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d8241b05239c",
-   "flag": "🇸🇩",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
-   "summary": "",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
-   "time": "2026-10-19T12:00:00+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fff3a4661549",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "Meloni calls emergency meeting after weekend of violent clashes",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-19T11:23:36+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Italy",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T14:30:22.830330+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3daa93965134",
-   "flag": "🇮🇹",
-   "region": "Western Europe",
-   "baseline": 1.48,
    "watch": []
   },
   {
@@ -5522,31 +5304,400 @@
    "watch": []
   },
   {
-   "title": "Ukraine's Zelensky defies Trump with Russian refinery strikes",
+   "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
    "summary": "",
-   "url": "https://www.france24.com/en/video/20261015-ukraine-s-zelensky-defies-trump-with-russian-refinery-strikes",
-   "time": "2026-10-15T12:34:17+00:00",
+   "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+   "time": "2026-10-22T15:49:29+00:00",
    "tier": "B",
-   "category": "political",
-   "country": "Russia",
-   "city": "Moscow",
+   "category": "cyber",
+   "country": "United Kingdom",
+   "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261015-ukraine-s-zelensky-defies-trump-with-russian-refinery-strikes",
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-15T15:14:13.860730+00:00",
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
    "confidence": "B3",
    "corroboration": 1,
-   "id": "53257b171639",
-   "flag": "🇷🇺",
+   "id": "cd79c0e59724",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "French students demonstrate again, despite school holidays",
+   "summary": "",
+   "url": "https://www.france24.com/en/french-students-demonstrate-again-despite-school-holidays",
+   "time": "2026-10-22T15:37:39+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/french-students-demonstrate-again-despite-school-holidays",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "bacfbc3e1f55",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Italian truckers block roads to protest against soaring diesel prices",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261022-italian-truckers-block-roads-to-protest-against-soaring-diesel-prices",
+   "time": "2026-10-22T15:31:04+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Italy",
+   "city": "Rome",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261022-italian-truckers-block-roads-to-protest-against-soaring-diesel-prices",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "1ec4190088ab",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
+   "watch": []
+  },
+  {
+   "title": "French weekend protests to be limited to union demos only, says Macron",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-22T15:22:48+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Lyon",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "342989e0aad0",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "France: Artists and collectors gather at Art Basel Paris despite unrest",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/22/france-artists-and-collectors-gather-at-art-basel-paris-despite-unrest/",
+   "time": "2026-10-22T15:15:33+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/22/france-artists-and-collectors-gather-at-art-basel-paris-despite-unrest/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "81371475a279",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+   "time": "2026-10-22T15:01:35+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Serbia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "267c7827834f",
+   "flag": "🇷🇸",
    "region": "Eastern Europe",
-   "baseline": 4.39,
+   "baseline": 2.13,
+   "watch": []
+  },
+  {
+   "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-22T14:33:06+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Serbia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "6883bc27a25c",
+   "flag": "🇷🇸",
+   "region": "Eastern Europe",
+   "baseline": 2.13,
+   "watch": []
+  },
+  {
+   "title": "French PM Sebastien Lecornu meets with leaders of political parties amid unrest",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261022-french-pm-sebastien-lecornu-meets-with-leaders-of-political-parties-amid-unrest",
+   "time": "2026-10-22T14:21:42+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261022-french-pm-sebastien-lecornu-meets-with-leaders-of-political-parties-amid-unrest",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "d262003388dd",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "What is happening in France? Unpacking the recent waves of protests",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261022-what-is-happening-in-france-unpacking-the-recent-waves-of-protests",
+   "time": "2026-10-22T13:15:01+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Netherlands",
+   "city": "Amsterdam",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261022-what-is-happening-in-france-unpacking-the-recent-waves-of-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "27f422197bae",
+   "flag": "🇳🇱",
+   "region": "Western Europe",
+   "baseline": 1.0,
+   "watch": []
+  },
+  {
+   "title": "Macron blames ‘seditious’ far left for unrest as France bans some protests",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests?traffic_source=rss",
+   "time": "2026-10-22T13:12:22+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests?traffic_source=rss",
+     "tier": "B"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "068e364261a6",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "REPLAY: French President vows to prevent violence ahead of protests",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261022-replay-french-president-vows-to-prevent-violence-ahead-of-protests",
+   "time": "2026-10-22T13:04:45+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261022-replay-french-president-vows-to-prevent-violence-ahead-of-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8e4c48732d4f",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 200 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u432",
+   "time": "2026-10-22T12:22:57.822000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.9085,
+   "lon": 165.6239,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u432",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "54708d7cb0c7",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "Nigeria can stop Ebola spread, former disease control chief says",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/22/nigeria-can-stop-ebola-spread-former-disease-control-chief-says/",
+   "time": "2026-10-22T12:21:58+00:00",
+   "tier": "C",
+   "category": "health",
+   "country": "Nigeria",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/22/nigeria-can-stop-ebola-spread-former-disease-control-chief-says/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "c34add739774",
+   "flag": "🇳🇬",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "Are fresh US-Israeli strikes on Iran in the pipeline?",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/press-review/20261022-are-fresh-us-israeli-strikes-on-iran-in-the-pipeline",
+   "time": "2026-10-22T11:32:22+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Iran",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/press-review/20261022-are-fresh-us-israeli-strikes-on-iran-in-the-pipeline",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5613d1a3b4fe",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
    "watch": []
   },
   {
@@ -5603,6 +5754,34 @@
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 85 km NNW of Curup, Indonesia",
+   "summary": "Depth 135 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q",
+   "time": "2026-10-22T10:57:52.259000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -2.8037,
+   "lon": 102.1272,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "262a8244ad52",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
    "watch": []
   },
   {
@@ -5687,6 +5866,62 @@
    "flag": "🇮🇳",
    "region": "South Asia",
    "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Neha Bora can outwit the police. Can Indian youth leader outfox Modi?",
+   "summary": "",
+   "url": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
+   "time": "2026-10-22T10:45:01+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0dd1ef4a6705",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "🔴 Live: France will ban 'illegitimate' protests in coming days, says Macron",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump",
+   "time": "2026-10-22T10:44:50+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-22T15:57:46.880551+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0472f4653dd9",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -10119,34 +10354,6 @@
    "watch": []
   },
   {
-   "title": "France's decades-long ties with Gulf states built on 'economic development, oil, defence agreements'",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261020-france-s-decades-long-ties-with-gulf-states-built-on-economic-development-oil-defense-agreements-1",
-   "time": "2026-10-20T15:52:47+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261020-france-s-decades-long-ties-with-gulf-states-built-on-economic-development-oil-defense-agreements-1",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "753f20c95666",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Green forest fire notification in Chad",
    "summary": "On 14/10/2026, a forest fire started in Chad, until 21/10/2026.",
    "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032958",
@@ -10172,62 +10379,6 @@
    "flag": "🇹🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.62,
-   "watch": []
-  },
-  {
-   "title": "Who are the women powering India's youth-led protests?",
-   "summary": "",
-   "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-10-20T15:04:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "143a86fb482f",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "Who are the women powering India's youth-led 'Cockroach' protests?",
-   "summary": "",
-   "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-cockroach-protests/a-79709824?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-10-20T15:04:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-cockroach-protests/a-79709824?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T21:53:47.542855+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "439bd2730e30",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
    "watch": []
   },
   {
@@ -10284,118 +10435,6 @@
    "flag": "🇿🇲",
    "region": "Sub-Saharan Africa",
    "baseline": 2.88,
-   "watch": []
-  },
-  {
-   "title": "Poland to demand explanation from Ukraine over drone incident in Lithuania",
-   "summary": "",
-   "url": "https://kyivindependent.com/poland-to-demand-explanation-from-ukraine-over-drone-incident-in-lithuania/",
-   "time": "2026-10-20T15:00:02+00:00",
-   "tier": "C",
-   "category": "transport",
-   "country": "Lithuania",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/poland-to-demand-explanation-from-ukraine-over-drone-incident-in-lithuania/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "ed47fe38f0a7",
-   "flag": "🇱🇹",
-   "region": "Eastern Europe",
-   "baseline": 1.19,
-   "watch": []
-  },
-  {
-   "title": "French PM vows 'massive' police deployment for new demonstrations Saturday",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261020-french-pm-vows-massive-police-deployment-for-new-demonstrations-saturday",
-   "time": "2026-10-20T14:54:15+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261020-french-pm-vows-massive-police-deployment-for-new-demonstrations-saturday",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T21:53:47.542855+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "dd2e404f29b1",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "October 17 riots in France: Who's responsible?",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/entre-nous/20261020-october-17-riots-in-france-who-s-responsible",
-   "time": "2026-10-20T14:41:07+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/entre-nous/20261020-october-17-riots-in-france-who-s-responsible",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "699d6919562e",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "French Justice Minister promises 'extremely firm' punishment for rioters",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261020-french-justice-minister-promises-extremely-firm-punishment-for-rioters",
-   "time": "2026-10-20T14:37:03+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261020-french-justice-minister-promises-extremely-firm-punishment-for-rioters",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "1f6cfc39b6ac",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -10483,34 +10522,6 @@
    "watch": []
   },
   {
-   "title": "Satirical AI video of Paris protests mirrors real-life tourist experiences",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss",
-   "time": "2026-10-20T14:24:41+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ab34db995f34",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "M4.5 earthquake, 111 km S of Kokopo, Papua New Guinea",
    "summary": "Depth 57 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3m7",
@@ -10536,118 +10547,6 @@
    "flag": "🇵🇬",
    "region": "East & SE Asia",
    "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "'Tinubu Must Go!': Nigeria's northern protests test limits of political dissent",
-   "summary": "",
-   "url": "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-limits-of-political-dissent/a-79713785?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-10-20T14:20:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Nigeria",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-limits-of-political-dissent/a-79713785?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "02c34baf1a45",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
-   "watch": []
-  },
-  {
-   "title": "French PM blames 'ultra-left' groups for weekend riots, promises 'massive' security deployment",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261020-french-pm-blames-ultra-left-groups-for-weekend-riots-promises-massive-security-deployment",
-   "time": "2026-10-20T14:16:16+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261020-french-pm-blames-ultra-left-groups-for-weekend-riots-promises-massive-security-deployment",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "48d8d2b0c53d",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France to deploy military forces during expected weekend protests – Europe live",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-   "time": "2026-10-20T14:06:39+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Norway",
-   "city": "Oslo",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "90a9e7543b96",
-   "flag": "🇳🇴",
-   "region": "Western Europe",
-   "baseline": 1.0,
-   "watch": []
-  },
-  {
-   "title": "Far - left French rioter on national securty watchlist busted over fire that gutted historic town hall",
-   "summary": "",
-   "url": "https://nypost.com/2026/10/20/world-news/far-left-french-rioter-on-national-securty-watchlist-busted-over-fire-that-gutted-historic-town-hall/",
-   "time": "2026-10-20T14:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "nypost.com (via GDELT)",
-     "url": "https://nypost.com/2026/10/20/world-news/far-left-french-rioter-on-national-securty-watchlist-busted-over-fire-that-gutted-historic-town-hall/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "51cc34eb4ef9",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -10679,146 +10578,6 @@
    "watch": []
   },
   {
-   "title": "Midterms: Trump seizes on unrest in France for political gain",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261020-midterms-trump-seizes-on-unrest-in-france-for-political-gain",
-   "time": "2026-10-20T13:54:13+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261020-midterms-trump-seizes-on-unrest-in-france-for-political-gain",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "a1dfc20d3d67",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Macron secures 200,000 tonnes of extra diesel per month from UAE, Bahrain",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261020-macron-secures-200-000-tonnes-of-extra-diesel-per-month-from-uae-bahrain",
-   "time": "2026-10-20T13:49:14+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261020-macron-secures-200-000-tonnes-of-extra-diesel-per-month-from-uae-bahrain",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "bd6c6afc94aa",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "🔴 French PM vows 'massive' police operation for new protests on Saturday",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting",
-   "time": "2026-10-20T13:38:02+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b78e45de5e7d",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France's sociopolitical & economic crises: 'Large portion of population sympathizes' with protestors",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261020-france-s-sociopolitical-economic-crises-large-portion-of-population-sympathizes-with-protestors",
-   "time": "2026-10-20T13:32:09+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261020-france-s-sociopolitical-economic-crises-large-portion-of-population-sympathizes-with-protestors",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9aca0290506e",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "The Hanging Tree from The Hunger Games played amid tear gas at France concert",
-   "summary": "",
-   "url": "https://www.hindustantimes.com/world-news/the-hanging-tree-from-the-hunger-games-played-amid-tear-gas-at-france-concert-101792485113068.html",
-   "time": "2026-10-20T13:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "hindustantimes.com (via GDELT)",
-     "url": "https://www.hindustantimes.com/world-news/the-hanging-tree-from-the-hunger-games-played-amid-tear-gas-at-france-concert-101792485113068.html",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "2619323c5c4e",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Indonesian anger builds over wildfires , toxic haze",
    "summary": "",
    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/20/indonesian-anger-builds-over-wildfires-toxic-haze",
@@ -10847,183 +10606,6 @@
    "watch": []
   },
   {
-   "title": "We will have no choice but to leave : Trump links France riots to a fresh NATO ultimatum - London Business News",
-   "summary": "",
-   "url": "https://londonlovesbusiness.com/we-will-have-no-choice-but-to-leave-trump-links-frances-riots-to-a-fresh-nato-ultimatum/",
-   "time": "2026-10-20T13:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "United Kingdom",
-   "city": "London",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "londonlovesbusiness.com (via GDELT)",
-     "url": "https://londonlovesbusiness.com/we-will-have-no-choice-but-to-leave-trump-links-frances-riots-to-a-fresh-nato-ultimatum/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "71e783c459a2",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
-   "watch": []
-  },
-  {
-   "title": "Iran warns citizens against travel to France , Belgium and Italy amid violent unrest",
-   "summary": "",
-   "url": "https://www.middleeasteye.net/news/iran-issues-travel-warning-france-belgium-and-italy-amid-violent-unrest",
-   "time": "2026-10-20T13:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Iran",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "middleeasteye.net (via GDELT)",
-     "url": "https://www.middleeasteye.net/news/iran-issues-travel-warning-france-belgium-and-italy-amid-violent-unrest",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "e38d4cde16a5",
-   "flag": "🇮🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.58,
-   "watch": []
-  },
-  {
-   "title": "French Unrest Tapers Off After Security Measures Imposed",
-   "summary": "",
-   "url": "https://www.insurancejournal.com/news/international/2026/10/20/889632.htm",
-   "time": "2026-10-20T13:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "insurancejournal.com (via GDELT)",
-     "url": "https://www.insurancejournal.com/news/international/2026/10/20/889632.htm",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "a0b8b8afe998",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Calm returns to French capital after weekend of rioting and looting",
-   "summary": "",
-   "url": "https://www.wandsworthguardian.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-   "time": "2026-10-20T13:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "wandsworthguardian.co.uk (via GDELT)",
-     "url": "https://www.wandsworthguardian.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "newsandstar.co.uk (via GDELT)",
-     "url": "https://www.newsandstar.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "stourbridgenews.co.uk (via GDELT)",
-     "url": "https://www.stourbridgenews.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "yourlocalguardian.co.uk (via GDELT)",
-     "url": "https://www.yourlocalguardian.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "chesterstandard.co.uk (via GDELT)",
-     "url": "https://www.chesterstandard.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "echo-news.co.uk (via GDELT)",
-     "url": "https://www.echo-news.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "hampshirechronicle.co.uk (via GDELT)",
-     "url": "https://www.hampshirechronicle.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "bridportnews.co.uk (via GDELT)",
-     "url": "https://www.bridportnews.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "gazette-news.co.uk (via GDELT)",
-     "url": "https://www.gazette-news.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "cravenherald.co.uk (via GDELT)",
-     "url": "https://www.cravenherald.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "northwichguardian.co.uk (via GDELT)",
-     "url": "https://www.northwichguardian.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "theargus.co.uk (via GDELT)",
-     "url": "https://www.theargus.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "greenocktelegraph.co.uk (via GDELT)",
-     "url": "https://www.greenocktelegraph.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    },
-    {
-     "name": "hamhigh.co.uk (via GDELT)",
-     "url": "https://www.hamhigh.co.uk/news/national/26653674.calm-returns-french-capital-weekend-rioting-looting/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C1",
-   "corroboration": 14,
-   "id": "5e666985e13f",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "M4.5 earthquake, 142 km SSW of Abepura, Indonesia",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3lx",
@@ -11049,263 +10631,6 @@
    "flag": "🇮🇩",
    "region": "East & SE Asia",
    "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "Indonesians protest over land-clearing fires",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
-   "time": "2026-10-20T13:23:44+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Indonesia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "bf34b3578e7c",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "‘Horizontal revolt’: Why Albania’s young protesters want PM Rama to go",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/20/horizontal-revolt-why-albanias-young-protesters-want-pm-rama-to-go?traffic_source=rss",
-   "time": "2026-10-20T12:54:56+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Albania",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/20/horizontal-revolt-why-albanias-young-protesters-want-pm-rama-to-go?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ab5bace3ad29",
-   "flag": "🇦🇱",
-   "region": "Eastern Europe",
-   "baseline": 2.14,
-   "watch": []
-  },
-  {
-   "title": "French protests : Is it game over for Macron centrists before elections ? - Grenada Chronicle – Daily Grenada And Caribbean News",
-   "summary": "",
-   "url": "https://grenadachronicle.com/french-protests-is-it-game-over-for-macrons-centrists-before-elections/",
-   "time": "2026-10-20T12:45:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Grenada",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "grenadachronicle.com (via GDELT)",
-     "url": "https://grenadachronicle.com/french-protests-is-it-game-over-for-macrons-centrists-before-elections/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "043e3191cb10",
-   "flag": "🇬🇩",
-   "region": "Latin America & Caribbean",
-   "baseline": 1.67,
-   "watch": []
-  },
-  {
-   "title": "France riots : Leftist groups in 13 countries plotting next demonstrations",
-   "summary": "",
-   "url": "https://www.foxnews.com/world/global-chaos-inc-grows-101-groups-plans-new-rounds-demonstrations",
-   "time": "2026-10-20T12:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "foxnews.com (via GDELT)",
-     "url": "https://www.foxnews.com/world/global-chaos-inc-grows-101-groups-plans-new-rounds-demonstrations",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "daee8e8d5fb6",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-20T12:08:06+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Marseille",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4a41e9b59e4b",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Protesters target Meta office in Brazil over alleged political bias",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/20/protesters-target-meta-office-in-brazil-over-alleged-political-bias/",
-   "time": "2026-10-20T12:02:05+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Brazil",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/20/protesters-target-meta-office-in-brazil-over-alleged-political-bias/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "dffa827d92a3",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
-   "watch": []
-  },
-  {
-   "title": "Explainer - France in turmoil : What might follow a weekend of riots ?",
-   "summary": "",
-   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/20/explainer-france-in-turmoil-what-might-follow-a-weekend-of-riots",
-   "time": "2026-10-20T12:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "internazionale.it (via GDELT)",
-     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/20/explainer-france-in-turmoil-what-might-follow-a-weekend-of-riots",
-     "tier": "C"
-    },
-    {
-     "name": "moneycontrol.com (via GDELT)",
-     "url": "https://www.moneycontrol.com/world/france-in-turmoil-what-might-follow-a-weekend-of-riots-article-14056046.html",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C2",
-   "corroboration": 2,
-   "id": "edd6cff3410e",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Paris is going to be a Muslim city very soon : Trump blames immigration for France unrest",
-   "summary": "",
-   "url": "http://www.arabherald.com/news/279387072/paris-is-going-to-be-a-muslim-city-very-soon-trump-blames-immigration-for-france-unrest",
-   "time": "2026-10-20T12:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "arabherald.com (via GDELT)",
-     "url": "http://www.arabherald.com/news/279387072/paris-is-going-to-be-a-muslim-city-very-soon-trump-blames-immigration-for-france-unrest",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "c3f48c879704",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "India is ultimate target : RSS chief Mohan Bhagwat on regime change efforts , calls for restraint in protests",
-   "summary": "",
-   "url": "http://www.indiagazette.com/news/279386743/india-is-ultimate-target-rss-chief-mohan-bhagwat-on-regime-change-efforts-calls-for-restraint-in-protests",
-   "time": "2026-10-20T12:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "indiagazette.com (via GDELT)",
-     "url": "http://www.indiagazette.com/news/279386743/india-is-ultimate-target-rss-chief-mohan-bhagwat-on-regime-change-efforts-calls-for-restraint-in-protests",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "26006662ee6a",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
    "watch": []
   },
   {
@@ -13416,90 +12741,6 @@
    "watch": []
   },
   {
-   "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
-   "time": "2026-10-17T14:28:07+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Mexico",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-17T15:35:37.549091+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fab660798d9f",
-   "flag": "🇲🇽",
-   "region": "North America",
-   "baseline": 3.32,
-   "watch": []
-  },
-  {
-   "title": "M5.2 earthquake, 86 km SW of Brisas Barra de Suchiate, Mexico",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u309",
-   "time": "2026-10-17T13:59:34.575000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Mexico",
-   "city": null,
-   "lat": 14.0469,
-   "lon": -92.8552,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u309",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-17T15:35:37.549091+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "f390f531abf5",
-   "flag": "🇲🇽",
-   "region": "North America",
-   "baseline": 3.32,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 70 km W of Tambolaka, Indonesia",
-   "summary": "Depth 69 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u300",
-   "time": "2026-10-17T12:46:23.796000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": -9.3596,
-   "lon": 118.5983,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u300",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-18T09:23:53.485331+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "f8ab83a0566c",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
    "title": "Frontline workers in DRC receive Ervebo vaccine amid growing Ebola outbreak",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/17/frontline-workers-in-drc-receive-ervebo-vaccine-amid-growing-ebola-outbreak/",
@@ -13525,34 +12766,6 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-   "summary": "",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
-   "time": "2026-10-17T12:00:00+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-17T20:20:44.282393+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "06fda4cd1b79",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
    "watch": []
   },
   {
@@ -15532,34 +14745,6 @@
    "flag": "🇽🇰",
    "region": "Eastern Europe",
    "baseline": 2.32,
-   "watch": []
-  },
-  {
-   "title": "Bolivia",
-   "summary": "Updated information about the State of Emergency ('Warnings and insurance' page).",
-   "url": "https://www.gov.uk/foreign-travel-advice/bolivia",
-   "time": "2026-09-22T15:45:15+00:00",
-   "tier": "A",
-   "category": "advisory",
-   "country": "Bolivia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "UK FCDO travel advice updates",
-     "url": "https://www.gov.uk/foreign-travel-advice/bolivia",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "8b921822dc8f",
-   "flag": "🇧🇴",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.09,
    "watch": []
   },
   {

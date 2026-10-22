@@ -1,16 +1,88 @@
 {
- "generated": "2026-10-22T11:17:13.356778+00:00",
+ "generated": "2026-10-22T15:57:46.880551+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 0,
-  "2": 99,
-  "3": 36,
+  "2": 91,
+  "3": 40,
   "4": 4,
-  "5": 0
+  "5": 2
  },
  "watch_hits": [],
  "regions": {
+  "East & SE Asia": [
+   {
+    "id": "58ff220e9c77",
+    "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 100 thousand in 100km.",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-10-22T14:54:15+00:00"
+   },
+   {
+    "id": "6b87b0f332eb",
+    "title": "M7.0 earthquake, 191 km ENE of Nagqu, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-10-22T14:33:40.353000+00:00"
+   },
+   {
+    "id": "262a8244ad52",
+    "title": "M4.9 earthquake, 85 km NNW of Curup, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T10:57:52.259000+00:00"
+   },
+   {
+    "id": "669f223fef52",
+    "title": "Dalai Lama appointed by China 'is going to be a fake one', exiled former Tibetan leader says",
+    "country": "China",
+    "city": "Beijing",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T10:22:48+00:00"
+   },
+   {
+    "id": "ae7b68ce156d",
+    "title": "M4.8 earthquake, 86 km S of Kokopo, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T05:23:59.562000+00:00"
+   },
+   {
+    "id": "b398fab1736a",
+    "title": "Thailand Issues Travel Warning for European Travel Amid Riots",
+    "country": "Thailand",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-22T04:30:00+00:00"
+   },
+   {
+    "id": "d0d36b4916f0",
+    "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-21T22:02:18+00:00"
+   }
+  ],
   "Middle East & N. Africa": [
    {
     "id": "50c2c064554f",
@@ -23,14 +95,34 @@
     "time": "2026-10-22T03:15:00+00:00"
    },
    {
-    "id": "5ca86b51ad1a",
-    "title": "Yemen: 75 new recruits killed in Houthi missile strike laid to rest",
-    "country": "Yemen",
+    "id": "de247796409d",
+    "title": "Reports show US and Israel are planning new strikes on Iran",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T15:34:34+00:00"
+   },
+   {
+    "id": "fb2e687b7d6d",
+    "title": "How Sudan’s shift to drone warfare is fuelling a civilian crisis",
+    "country": "Sudan",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-21T15:28:01+00:00"
+    "confidence": "B3",
+    "time": "2026-10-22T13:35:31+00:00"
+   },
+   {
+    "id": "57009497c620",
+    "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T12:12:32+00:00"
    },
    {
     "id": "2c4e3cc504a5",
@@ -71,26 +163,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-21T21:33:10+00:00"
-   },
-   {
-    "id": "3d0a208011d1",
-    "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-21T19:28:21+00:00"
-   },
-   {
-    "id": "2029c7d308ff",
-    "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-21T14:24:02+00:00"
    }
   ],
   "Eastern Europe": [
@@ -115,14 +187,24 @@
     "time": "2026-10-21T22:11:27+00:00"
    },
    {
-    "id": "5cd4391e5141",
-    "title": "Russia frees jailed American as Putin meets US envoy for Ukraine talks",
-    "country": "Russia",
-    "city": null,
+    "id": "8b822d393d1d",
+    "title": "Just hours after being bombed, we asked people in Kyiv about Witkoff's praise of Putin",
+    "country": "Ukraine",
+    "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
-    "confidence": "C1",
-    "time": "2026-10-21T14:27:18+00:00"
+    "confidence": "C4",
+    "time": "2026-10-22T15:20:31+00:00"
+   },
+   {
+    "id": "6ff0d42d2c72",
+    "title": "Ukraine: At least 9 people were killed in Russian attacks over the past 24 hours",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-22T11:11:42+00:00"
    },
    {
     "id": "d3e364d18397",
@@ -163,16 +245,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-22T08:31:00+00:00"
-   },
-   {
-    "id": "fa7793be2654",
-    "title": "Russian attacks kill at least 9, injure 57 across Ukraine as Kyiv hit by mass missile, drone attack",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-22T07:38:19+00:00"
    }
   ],
   "Western Europe": [
@@ -217,6 +289,36 @@
     "time": "2026-10-22T03:30:00+00:00"
    },
    {
+    "id": "5a7fccfc71ae",
+    "title": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T15:40:42+00:00"
+   },
+   {
+    "id": "a19ee028996f",
+    "title": "Germany arrests Ukrainian man accused of spying for Russia",
+    "country": "Germany",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T14:36:06+00:00"
+   },
+   {
+    "id": "97f2c4aeb84d",
+    "title": "At least four dead after storm brings flooding to southern France",
+    "country": "France",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T11:23:16+00:00"
+   },
+   {
     "id": "f38f1fe18c13",
     "title": "Criminals who refuse to attend sentencing face losing prison privileges under new rules",
     "country": "United Kingdom",
@@ -225,36 +327,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-22T09:47:50+00:00"
-   },
-   {
-    "id": "8091094e3c24",
-    "title": "France announces nightly curfews for as long as necessary in Paris and other big cities",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-21T22:15:00+00:00"
-   },
-   {
-    "id": "51c71b73eabb",
-    "title": "Paris Bans Street Protests Thursday , Curfews Continue",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-21T20:45:00+00:00"
-   },
-   {
-    "id": "2df0dc2c7909",
-    "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
-    "country": "Switzerland",
-    "city": "Geneva",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-21T12:00:00+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -329,6 +401,38 @@
     "time": "2026-10-22T03:45:00+00:00"
    }
   ],
+  "North America": [
+   {
+    "id": "a0545a8867c0",
+    "title": "Georgia on Democrats’ minds: Powering up the Black vote to counter Trump's meddling",
+    "country": "United States",
+    "city": "Atlanta",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T15:43:57+00:00"
+   },
+   {
+    "id": "35d0ed7ff190",
+    "title": "M4.6 earthquake, 97 km SW of El Palmarcito, Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T03:35:17.429000+00:00"
+   },
+   {
+    "id": "765d2a97be95",
+    "title": "Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (7.514 million in Tropical Storm).",
+    "country": "United States",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-21T21:08:24+00:00"
+   }
+  ],
   "Sub-Saharan Africa": [
    {
     "id": "705c5b18e213",
@@ -351,24 +455,14 @@
     "time": "2026-10-21T22:41:43+00:00"
    },
    {
-    "id": "525f4ee6a3ae",
-    "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-21T12:00:00+00:00"
-   },
-   {
-    "id": "e0bbbc0b6fae",
-    "title": "Nigeria's first ebola case sparks shock and urgent concern nationwide",
+    "id": "c34add739774",
+    "title": "Nigeria can stop Ebola spread, former disease control chief says",
     "country": "Nigeria",
-    "city": "Abuja",
+    "city": null,
     "category": "health",
     "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-21T12:03:58+00:00"
+    "confidence": "C4",
+    "time": "2026-10-22T12:21:58+00:00"
    },
    {
     "id": "8de4f5e72721",
@@ -409,6 +503,16 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-22T04:45:00+00:00"
+   },
+   {
+    "id": "961991033aec",
+    "title": "Green forest fire notification in Mozambique, Zimbabwe",
+    "country": "Mozambique",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-21T23:26:27+00:00"
    }
   ],
   "South Asia": [
@@ -425,6 +529,16 @@
    {
     "id": "c6677410ced8",
     "title": "Is Neha Bora, India’s new red star, Modi’s real Gen Z threat?",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T10:45:01+00:00"
+   },
+   {
+    "id": "0dd1ef4a6705",
+    "title": "Neha Bora can outwit the police. Can Indian youth leader outfox Modi?",
     "country": "India",
     "city": null,
     "category": "unrest",
@@ -471,71 +585,19 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-21T18:22:28+00:00"
-   },
-   {
-    "id": "673df771f1ab",
-    "title": "Indian court orders release of two leaders of Cockroach movement",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-21T15:26:25+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "669f223fef52",
-    "title": "Dalai Lama appointed by China 'is going to be a fake one', exiled former Tibetan leader says",
-    "country": "China",
-    "city": "Beijing",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T10:22:48+00:00"
-   },
-   {
-    "id": "ae7b68ce156d",
-    "title": "M4.8 earthquake, 86 km S of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T05:23:59.562000+00:00"
-   },
-   {
-    "id": "b398fab1736a",
-    "title": "Thailand Issues Travel Warning for European Travel Amid Riots",
-    "country": "Thailand",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T04:30:00+00:00"
-   },
-   {
-    "id": "d0d36b4916f0",
-    "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-21T22:02:18+00:00"
-   },
-   {
-    "id": "de216729b912",
-    "title": "M4.7 earthquake, 33 km NE of Shizunai-furukawachō, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-21T14:40:50.748000+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "54708d7cb0c7",
+    "title": "M4.9 earthquake, 200 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T12:22:57.822000+00:00"
+   },
    {
     "id": "95284705dbd6",
     "title": "Australia: Bystanders dive into floodwaters to save trapped driver",
@@ -575,50 +637,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-21T18:40:31.851000+00:00"
-   },
-   {
-    "id": "0e2411b6f691",
-    "title": "M4.9 earthquake, 207 km WNW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-21T14:35:51.111000+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "35d0ed7ff190",
-    "title": "M4.6 earthquake, 97 km SW of El Palmarcito, Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T03:35:17.429000+00:00"
-   },
-   {
-    "id": "765d2a97be95",
-    "title": "Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (7.514 million in Tropical Storm).",
-    "country": "United States",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-21T21:08:24+00:00"
-   }
-  ],
-  "Central Asia": [
-   {
-    "id": "321debc0c9ae",
-    "title": "Turkmenistan",
-    "country": "Turkmenistan",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-21T14:50:49+00:00"
    }
   ]
  }
