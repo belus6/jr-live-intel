@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-23T01:31:45.486514+00:00",
+ "generated": "2026-10-23T06:29:47.227122+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
   "2": 109,
-  "3": 40,
+  "3": 35,
   "4": 2,
   "5": 3
  },
@@ -43,6 +43,16 @@
     "time": "2026-10-22T14:33:40.353000+00:00"
    },
    {
+    "id": "19d54ef9af04",
+    "title": "Taiwan shuts down schools and businesses as Typhoon Champi approaches",
+    "country": "Taiwan",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-23T03:00:54+00:00"
+   },
+   {
     "id": "ece8d0b23d50",
     "title": "Myanmar Junta Renews Peace Talks Invitation to CNF , KNU , and ABSDF",
     "country": "Myanmar",
@@ -63,47 +73,27 @@
     "time": "2026-10-22T19:57:50+00:00"
    },
    {
-    "id": "c82564c91e4d",
-    "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
+    "id": "68326e44a929",
+    "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
     "country": "China",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-22T21:23:01+00:00"
+    "time": "2026-10-23T05:16:37+00:00"
    },
    {
-    "id": "01887a20c86e",
-    "title": "M5.0 earthquake, 153 km S of Kokopo, Papua New Guinea",
-    "country": "Papua New Guinea",
+    "id": "2757acbb7a06",
+    "title": "Magnitude-7 earthquake hits China’s Tibet, killing at least 16 and destroying hundreds of homes",
+    "country": "China",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T20:05:04.207000+00:00"
-   },
-   {
-    "id": "262a8244ad52",
-    "title": "M4.9 earthquake, 85 km NNW of Curup, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T10:57:52.259000+00:00"
+    "confidence": "B3",
+    "time": "2026-10-23T04:04:35+00:00"
    }
   ],
   "Middle East & N. Africa": [
-   {
-    "id": "50c2c064554f",
-    "title": "Ground fighting in Yemen intensifies as 2 killed in attempted drone strike on Saudi field",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C1",
-    "time": "2026-10-22T03:15:00+00:00"
-   },
    {
     "id": "b844f50cf355",
     "title": "The West Bank - Level 3: Reconsider Travel",
@@ -173,88 +163,98 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-22T09:00:05+00:00"
+   },
+   {
+    "id": "28a81fd74642",
+    "title": "Urgent : Five Israelis wounded , two Palestinians killed in West Bank shooting - Xinhua",
+    "country": "Palestine",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-23T06:00:00+00:00"
    }
   ],
-  "Latin America & Caribbean": [
+  "Eastern Europe": [
    {
-    "id": "8b9ac4f6ef97",
-    "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
-    "country": "Haiti",
+    "id": "25581004f73c",
+    "title": "Russian drone attack injures 9 people, including 2 children",
+    "country": "Russia",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-23T04:53:49+00:00"
+   },
+   {
+    "id": "4590f823fdf5",
+    "title": "General Staff: Russia has lost 1,574,620 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C1",
-    "time": "2026-10-22T03:45:00+00:00"
-   },
-   {
-    "id": "b81a60a934db",
-    "title": "Green forest fire notification in Brazil",
-    "country": "Brazil",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T23:14:01+00:00"
-   },
-   {
-    "id": "6cb9993a29bf",
-    "title": "Green forest fire notification in Suriname, Brazil",
-    "country": "Suriname",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T23:07:14+00:00"
-   },
-   {
-    "id": "c33724b04e68",
-    "title": "Venezuela faces a deepening energy crisis as protests grow",
-    "country": "Venezuela",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-22T22:15:00+00:00"
+    "time": "2026-10-23T06:10:44+00:00"
    },
    {
-    "id": "572b2f0aa977",
-    "title": "M4.6 earthquake, 49 km S of Ollagüe, Chile",
-    "country": "Chile",
+    "id": "54b7854a6e25",
+    "title": "Ukraine Invasion Day 1 , 702 : Highest RU daily casualties of entire war as US buys Kremlin time",
+    "country": "Ukraine",
     "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T21:37:56.543000+00:00"
-   },
-   {
-    "id": "637361e65c36",
-    "title": "Bukele warns Haitian gangs who kidnapped Salvarodan aviation techs : return hostages or face his wrath",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-22T19:15:00+00:00"
+    "time": "2026-10-23T05:00:00+00:00"
    },
    {
-    "id": "61833810e679",
-    "title": "El Salvador's president threatens Haitian gangs over military hostages",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "crime",
-    "severity": 2,
+    "id": "4bf233d96448",
+    "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-22T10:17:48+00:00"
+    "time": "2026-10-22T23:16:20+00:00"
    },
    {
-    "id": "a70a42a0d624",
-    "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
-    "country": "Haiti",
+    "id": "65cf5820a5f0",
+    "title": "Ukraine war latest: Ukrainian troops infiltrate Russian rear near Kupiansk through 15 kilometers of gas pipelines",
+    "country": "Ukraine",
     "city": null,
-    "category": "crime",
-    "severity": 2,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-22T18:03:30+00:00"
+   },
+   {
+    "id": "e009a9f63422",
+    "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-22T08:39:19+00:00"
+    "time": "2026-10-22T17:49:13+00:00"
+   },
+   {
+    "id": "821664fb6ec9",
+    "title": "EU responds to Trump diesel deal with new Russia energy sanctions",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-22T16:13:00+00:00"
+   },
+   {
+    "id": "58d3ece03138",
+    "title": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T15:50:09+00:00"
    }
   ],
   "Western Europe": [
@@ -269,24 +269,14 @@
     "time": "2026-10-22T16:03:29+00:00"
    },
    {
-    "id": "acfa5417e55d",
-    "title": "France Protests : India issues advisory for its citizens",
+    "id": "eea53450ccd9",
+    "title": "Widespread looting , clashes bring France protests to a halt",
     "country": "France",
     "city": null,
-    "category": "unrest",
+    "category": "conflict",
     "severity": 3,
-    "confidence": "C2",
-    "time": "2026-10-22T04:00:00+00:00"
-   },
-   {
-    "id": "91d1476b27c9",
-    "title": "Exercise due caution : India warns citizens in France as violent protests prompt local curfews",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C2",
-    "time": "2026-10-22T03:30:00+00:00"
+    "confidence": "C4",
+    "time": "2026-10-23T04:00:00+00:00"
    },
    {
     "id": "62268a7e1402",
@@ -337,88 +327,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-22T17:30:00+00:00"
-   }
-  ],
-  "Eastern Europe": [
+   },
    {
-    "id": "4bf233d96448",
-    "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-    "country": "Russia",
-    "city": "Moscow",
+    "id": "5a7fccfc71ae",
+    "title": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
+    "country": "United Kingdom",
+    "city": "London",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-22T23:16:20+00:00"
-   },
-   {
-    "id": "65cf5820a5f0",
-    "title": "Ukraine war latest: Ukrainian troops infiltrate Russian rear near Kupiansk through 15 kilometers of gas pipelines",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-22T18:03:30+00:00"
-   },
-   {
-    "id": "e009a9f63422",
-    "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T17:49:13+00:00"
-   },
-   {
-    "id": "821664fb6ec9",
-    "title": "EU responds to Trump diesel deal with new Russia energy sanctions",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-22T16:13:00+00:00"
-   },
-   {
-    "id": "58d3ece03138",
-    "title": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T15:50:09+00:00"
-   },
-   {
-    "id": "8b822d393d1d",
-    "title": "Just hours after being bombed, we asked people in Kyiv about Witkoff's praise of Putin",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-22T15:20:31+00:00"
-   },
-   {
-    "id": "6ff0d42d2c72",
-    "title": "Ukraine: At least 9 people were killed in Russian attacks over the past 24 hours",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-22T11:11:42+00:00"
-   },
-   {
-    "id": "d3e364d18397",
-    "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T10:14:23+00:00"
+    "time": "2026-10-22T15:40:42+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -431,6 +349,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-22T22:52:35+00:00"
+   },
+   {
+    "id": "8b737aa856d1",
+    "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+    "country": "Uganda",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-23T04:54:25+00:00"
+   },
+   {
+    "id": "a77572a7794d",
+    "title": "WHO: Africa facing 'complex' Ebola outbreak after Nigeria reports first case",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-23T04:53:08+00:00"
    },
    {
     "id": "f2adf0ba0f0e",
@@ -481,26 +419,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-22T12:21:58+00:00"
-   },
-   {
-    "id": "f38381151ff9",
-    "title": "DR Congo: Ebola responders under pressure as outbreak expands",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T12:00:00+00:00"
-   },
-   {
-    "id": "8de4f5e72721",
-    "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-    "country": "Nigeria",
-    "city": "Abuja",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T10:10:13+00:00"
    }
   ],
   "North America": [
@@ -533,16 +451,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-22T18:30:39+00:00"
-   },
-   {
-    "id": "35d0ed7ff190",
-    "title": "M4.6 earthquake, 97 km SW of El Palmarcito, Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T03:35:17.429000+00:00"
    }
   ],
   "South Asia": [
@@ -555,6 +463,26 @@
     "severity": 2,
     "confidence": "C2",
     "time": "2026-10-22T17:30:00+00:00"
+   },
+   {
+    "id": "5c606d0b0052",
+    "title": "Dalit activist Deepa Nepali 186 - day protest goes unheard as the Nepal government stays silent – Asia News Network",
+    "country": "Nepal",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-23T04:00:00+00:00"
+   },
+   {
+    "id": "84aaef8d63a7",
+    "title": "Indian developer turns ‘Cockroach’ protests into video game",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-23T02:44:35+00:00"
    },
    {
     "id": "088c34aa099b",
@@ -587,6 +515,16 @@
     "time": "2026-10-22T17:30:00+00:00"
    },
    {
+    "id": "20b179351877",
+    "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T12:00:00+00:00"
+   },
+   {
     "id": "c6677410ced8",
     "title": "Is Neha Bora, India’s new red star, Modi’s real Gen Z threat?",
     "country": "India",
@@ -595,36 +533,88 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-22T10:45:01+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "5d5f9f44cb3a",
+    "title": "President launches mission to rescue four soldiers kidnapped in Haiti",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-23T06:00:00+00:00"
    },
    {
-    "id": "0dd1ef4a6705",
-    "title": "Neha Bora can outwit the police. Can Indian youth leader outfox Modi?",
-    "country": "India",
+    "id": "7c8d588b5cca",
+    "title": "Venezuelans demand elections in first national protest in nearly two years - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+    "country": "Dominican Republic",
     "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T10:45:01+00:00"
+    "confidence": "C4",
+    "time": "2026-10-23T04:45:00+00:00"
    },
    {
-    "id": "a63bf8f1acaa",
-    "title": "Iit Bombay Protest : 21 IIT - Bombay faculty members condemn unprecedented police action against protesting students , seek explanation from institute director | Mumbai News",
-    "country": "India",
-    "city": "Mumbai",
+    "id": "f8a7405262d5",
+    "title": "M4.5 earthquake, 58 km SW of Atocha, Bolivia",
+    "country": "Bolivia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T02:45:41.183000+00:00"
+   },
+   {
+    "id": "7217ad07b217",
+    "title": "M4.5 earthquake, 102 km W of San Antonio de los Cobres, Argentina",
+    "country": "Argentina",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T00:09:35.519000+00:00"
+   },
+   {
+    "id": "b81a60a934db",
+    "title": "Green forest fire notification in Brazil",
+    "country": "Brazil",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T23:14:01+00:00"
+   },
+   {
+    "id": "6cb9993a29bf",
+    "title": "Green forest fire notification in Suriname, Brazil",
+    "country": "Suriname",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T23:07:14+00:00"
+   },
+   {
+    "id": "c33724b04e68",
+    "title": "Venezuela faces a deepening energy crisis as protests grow",
+    "country": "Venezuela",
+    "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-22T05:15:00+00:00"
+    "time": "2026-10-22T22:15:00+00:00"
    },
    {
-    "id": "7755e11724ec",
-    "title": "Indian activists released after agreeing to halt protests at restricted Delhi venue",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
+    "id": "572b2f0aa977",
+    "title": "M4.6 earthquake, 49 km S of Ollagüe, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T05:15:00+00:00"
+    "confidence": "A1",
+    "time": "2026-10-22T21:37:56.543000+00:00"
    }
   ],
   "Oceania": [
@@ -677,16 +667,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-22T07:07:54+00:00"
-   },
-   {
-    "id": "7589181be387",
-    "title": "‘Almost looks fake’: two Sydney beaches closed after whale carcass washes up",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T03:15:41+00:00"
    }
   ]
  }
