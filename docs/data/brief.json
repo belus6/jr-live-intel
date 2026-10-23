@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-22T23:04:49.496992+00:00",
+ "generated": "2026-10-23T01:31:45.486514+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 106,
-  "3": 41,
+  "2": 109,
+  "3": 40,
   "4": 2,
   "5": 3
  },
@@ -187,6 +187,26 @@
     "time": "2026-10-22T03:45:00+00:00"
    },
    {
+    "id": "b81a60a934db",
+    "title": "Green forest fire notification in Brazil",
+    "country": "Brazil",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T23:14:01+00:00"
+   },
+   {
+    "id": "6cb9993a29bf",
+    "title": "Green forest fire notification in Suriname, Brazil",
+    "country": "Suriname",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T23:07:14+00:00"
+   },
+   {
     "id": "c33724b04e68",
     "title": "Venezuela faces a deepening energy crisis as protests grow",
     "country": "Venezuela",
@@ -195,6 +215,16 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-22T22:15:00+00:00"
+   },
+   {
+    "id": "572b2f0aa977",
+    "title": "M4.6 earthquake, 49 km S of Ollagüe, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T21:37:56.543000+00:00"
    },
    {
     "id": "637361e65c36",
@@ -225,26 +255,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-22T08:39:19+00:00"
-   },
-   {
-    "id": "c2943201356b",
-    "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T05:36:33+00:00"
-   },
-   {
-    "id": "6b46caeac76b",
-    "title": "El Salvador launches operation to rescue hostages from Haitian gangs President Bukele threatens to escalate",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T03:45:00+00:00"
    }
   ],
   "Western Europe": [
@@ -329,89 +339,17 @@
     "time": "2026-10-22T17:30:00+00:00"
    }
   ],
-  "Sub-Saharan Africa": [
+  "Eastern Europe": [
    {
-    "id": "c38a224d35db",
-    "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
-    "country": "Kenya",
-    "city": null,
+    "id": "4bf233d96448",
+    "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+    "country": "Russia",
+    "city": "Moscow",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-22T22:52:35+00:00"
+    "time": "2026-10-22T23:16:20+00:00"
    },
-   {
-    "id": "ef569bf2c5d5",
-    "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T19:31:27+00:00"
-   },
-   {
-    "id": "dfed7f4effcd",
-    "title": "Green forest fire notification in Zimbabwe",
-    "country": "Zimbabwe",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T19:15:11+00:00"
-   },
-   {
-    "id": "718c16c9605a",
-    "title": "Crowd of 50 beats foreigner to death in South Africa",
-    "country": "South Africa",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T16:15:25+00:00"
-   },
-   {
-    "id": "c34add739774",
-    "title": "Nigeria can stop Ebola spread, former disease control chief says",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T12:21:58+00:00"
-   },
-   {
-    "id": "f38381151ff9",
-    "title": "DR Congo: Ebola responders under pressure as outbreak expands",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T12:00:00+00:00"
-   },
-   {
-    "id": "8de4f5e72721",
-    "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-    "country": "Nigeria",
-    "city": "Abuja",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T10:10:13+00:00"
-   },
-   {
-    "id": "d239e4880184",
-    "title": "Former head Nigerian public health confident Ebola can be contained",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T08:56:58+00:00"
-   }
-  ],
-  "Eastern Europe": [
    {
     "id": "65cf5820a5f0",
     "title": "Ukraine war latest: Ukrainian troops infiltrate Russian rear near Kupiansk through 15 kilometers of gas pipelines",
@@ -481,16 +419,88 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-22T10:14:23+00:00"
-   },
+   }
+  ],
+  "Sub-Saharan Africa": [
    {
-    "id": "1796c1de82e7",
-    "title": "Ukrainian military intelligence reveals new Russian cruise missile 'Filin'",
-    "country": "Ukraine",
+    "id": "c38a224d35db",
+    "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
+    "country": "Kenya",
     "city": null,
     "category": "conflict",
     "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-22T22:52:35+00:00"
+   },
+   {
+    "id": "f2adf0ba0f0e",
+    "title": "Green forest fire notification in Central African Republic, Sudan",
+    "country": "CAR",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T23:20:13+00:00"
+   },
+   {
+    "id": "ef569bf2c5d5",
+    "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T19:31:27+00:00"
+   },
+   {
+    "id": "dfed7f4effcd",
+    "title": "Green forest fire notification in Zimbabwe",
+    "country": "Zimbabwe",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-22T19:15:11+00:00"
+   },
+   {
+    "id": "718c16c9605a",
+    "title": "Crowd of 50 beats foreigner to death in South Africa",
+    "country": "South Africa",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T16:15:25+00:00"
+   },
+   {
+    "id": "c34add739774",
+    "title": "Nigeria can stop Ebola spread, former disease control chief says",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-22T09:53:41+00:00"
+    "time": "2026-10-22T12:21:58+00:00"
+   },
+   {
+    "id": "f38381151ff9",
+    "title": "DR Congo: Ebola responders under pressure as outbreak expands",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T12:00:00+00:00"
+   },
+   {
+    "id": "8de4f5e72721",
+    "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T10:10:13+00:00"
    }
   ],
   "North America": [
