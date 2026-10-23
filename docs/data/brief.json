@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-23T16:56:24.580047+00:00",
+ "generated": "2026-10-23T20:15:01.898510+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 117,
-  "3": 33,
-  "4": 12,
+  "2": 108,
+  "3": 35,
+  "4": 15,
   "5": 3
  },
  "watch_hits": [],
@@ -43,6 +43,26 @@
     "time": "2026-10-26T00:00:00+00:00"
    },
    {
+    "id": "f0e19b9fe883",
+    "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+    "country": "Jordan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-23T19:46:30+00:00"
+   },
+   {
+    "id": "bf259b1f652c",
+    "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
+    "country": "Israel",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-23T17:22:11+00:00"
+   },
+   {
     "id": "8c5f05952c95",
     "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
     "country": "Jordan",
@@ -71,26 +91,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-23T14:32:07+00:00"
-   },
-   {
-    "id": "3a55766f015f",
-    "title": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
-    "country": "Palestine",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-23T14:19:30+00:00"
-   },
-   {
-    "id": "db71e3512afd",
-    "title": "West Bank: Extensive military operation 'on the way', Netanyahu says",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-23T15:56:28+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -125,57 +125,67 @@
     "time": "2026-10-23T04:53:08+00:00"
    },
    {
-    "id": "0642c48dd640",
-    "title": "Niger",
-    "country": "Niger",
+    "id": "2d6546361fbf",
+    "title": "Green forest fire notification in Tanzania",
+    "country": "Tanzania",
     "city": null,
-    "category": "advisory",
+    "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-23T15:14:29+00:00"
+    "time": "2026-10-23T19:22:31+00:00"
    },
    {
-    "id": "b4e7237ad515",
-    "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-    "country": "Nigeria",
-    "city": "Abuja",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T13:57:11+00:00"
-   },
-   {
-    "id": "453fe76a0b16",
-    "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
-    "country": "Kenya",
+    "id": "aebcb8329334",
+    "title": "Green forest fire notification in Malawi",
+    "country": "Malawi",
     "city": null,
-    "category": "health",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T12:41:39+00:00"
+    "confidence": "A1",
+    "time": "2026-10-23T19:19:43+00:00"
    },
    {
-    "id": "9262a08d068b",
-    "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
-    "country": "Kenya",
+    "id": "6a5ad1a78952",
+    "title": "Green forest fire notification in Niger, Burkina Faso",
+    "country": "Niger",
     "city": null,
-    "category": "health",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T12:11:00+00:00"
+    "confidence": "A1",
+    "time": "2026-10-23T19:14:38+00:00"
    },
    {
-    "id": "c0c2c998da0f",
-    "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
-    "country": "DRC",
+    "id": "64b3d936e6a4",
+    "title": "Green forest fire notification in Angola",
+    "country": "Angola",
     "city": null,
-    "category": "health",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T12:00:00+00:00"
+    "confidence": "A1",
+    "time": "2026-10-23T19:10:35+00:00"
+   },
+   {
+    "id": "dfaeec74512a",
+    "title": "Green forest fire notification in Botswana, Zimbabwe",
+    "country": "Botswana",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T19:02:13+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "b110d654843b",
+    "title": "🔴 Deadly shooting west of Paris ‘clearly terrorist’ attack, French interior minister says",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B1",
+    "time": "2026-10-23T14:43:33+00:00"
+   },
    {
     "id": "6f17130f34e6",
     "title": "France’s Macron arrives in Trappes after ‘racist terrorist attack’",
@@ -227,34 +237,24 @@
     "time": "2026-10-23T13:48:46+00:00"
    },
    {
-    "id": "e7e95079072d",
-    "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
+    "id": "fef3822c2c71",
+    "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – as it happened",
     "country": "France",
     "city": "Paris",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-23T16:39:22+00:00"
+    "time": "2026-10-23T19:51:21+00:00"
    },
    {
-    "id": "c79b726137f9",
-    "title": "French authorities ban some student protests after weekend looting and clashes",
+    "id": "b0e778c43278",
+    "title": "After French Riots, Curfews & Calm .. is a new Storm Brewing ? Plus Ukraine & Israel",
     "country": "France",
-    "city": "Paris",
+    "city": "Lyon",
     "category": "unrest",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-23T11:21:54+00:00"
-   },
-   {
-    "id": "ff79959b98a7",
-    "title": "France tightens security in anticipation of weekend protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-23T11:05:13+00:00"
+    "time": "2026-10-23T18:48:11+00:00"
    }
   ],
   "Eastern Europe": [
@@ -341,6 +341,16 @@
   ],
   "North America": [
    {
+    "id": "d16c165a8b40",
+    "title": "How EU ships are still able to carry Trump's Russian diesel despite so many sanctions",
+    "country": "United States",
+    "city": "New York",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-23T19:13:14+00:00"
+   },
+   {
     "id": "f3e231dddb95",
     "title": "Inside the legal design of America's Russia sanctions U-turn",
     "country": "United States",
@@ -359,6 +369,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-23T10:53:00+00:00"
+   },
+   {
+    "id": "f2359cd2bc7d",
+    "title": "Trump repeats false claim that other Dan Sullivan on Alaska ballot is ‘cheating’ during Florida rally - live",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-23T19:59:41+00:00"
    },
    {
     "id": "49e27701b4e4",
@@ -389,16 +409,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-22T21:02:30+00:00"
-   },
-   {
-    "id": "d2a6618467e2",
-    "title": "CDC denies approval for high-volume measles test, citing ‘other priorities’",
-    "country": "United States",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T18:30:39+00:00"
    }
   ],
   "East & SE Asia": [
@@ -433,16 +443,6 @@
     "time": "2026-10-23T05:16:37+00:00"
    },
    {
-    "id": "fc366ff2f8aa",
-    "title": "China: Panic as 7.0-magnitude earthquake rocks Tibet",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-22T19:57:50+00:00"
-   },
-   {
     "id": "61b9a753018f",
     "title": "M5.1 earthquake, 72 km ENE of Noda, Japan",
     "country": "Japan",
@@ -451,6 +451,16 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-23T16:07:51.754000+00:00"
+   },
+   {
+    "id": "d3cd6d1b83f3",
+    "title": "M4.5 earthquake, 233 km ENE of Nagqu, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T14:41:16.206000+00:00"
    },
    {
     "id": "125cb9f0bca2",
@@ -485,14 +495,14 @@
   ],
   "South Asia": [
    {
-    "id": "feade5c327a1",
-    "title": "BJP alleges foreign networks coordinating protests to destabilise India , targets Rahul Gandhi",
+    "id": "1ad988a2c3f8",
+    "title": "M4.6 earthquake, 91 km ESE of Tuensang, India",
     "country": "India",
     "city": null,
-    "category": "unrest",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-22T17:30:00+00:00"
+    "confidence": "A1",
+    "time": "2026-10-23T17:06:25.116000+00:00"
    },
    {
     "id": "7e5689a5a44d",
@@ -523,36 +533,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-23T02:44:35+00:00"
-   },
-   {
-    "id": "088c34aa099b",
-    "title": "Govt defends cancellation of Wangchuk institute land allotment , alleges role in last year unrest | India News",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T19:30:00+00:00"
-   },
-   {
-    "id": "841e7032c453",
-    "title": "Hyderabad : Foreign Medical Graduates protest for stipend parity",
-    "country": "India",
-    "city": "Hyderabad",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T17:30:00+00:00"
-   },
-   {
-    "id": "f0e7da143e8e",
-    "title": "BJP shares Indian man pic to link anti - CEC protests to Pakistan",
-    "country": "Pakistan",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-22T17:30:00+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -657,16 +637,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-23T12:19:47.354000+00:00"
-   },
-   {
-    "id": "93849b919e0e",
-    "title": "M4.9 earthquake, 104 km NNE of Hihifo, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T19:06:56.074000+00:00"
    }
   ]
  }
