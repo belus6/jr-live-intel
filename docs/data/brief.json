@@ -1,16 +1,98 @@
 {
- "generated": "2026-10-23T11:59:16.168714+00:00",
+ "generated": "2026-10-23T16:56:24.580047+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 118,
-  "3": 34,
-  "4": 3,
-  "5": 5
+  "2": 117,
+  "3": 33,
+  "4": 12,
+  "5": 3
  },
  "watch_hits": [],
  "regions": {
+  "Middle East & N. Africa": [
+   {
+    "id": "17cceb368c26",
+    "title": "At least seven killed after gunmen open fire at church in Jordan",
+    "country": "Jordan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "B2",
+    "time": "2026-10-23T13:32:40+00:00"
+   },
+   {
+    "id": "a6e5ba41d425",
+    "title": "Netanyahu orders army to prepare for full West Bank closure after attack",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-10-23T08:35:17+00:00"
+   },
+   {
+    "id": "b844f50cf355",
+    "title": "The West Bank - Level 3: Reconsider Travel",
+    "country": "Palestine",
+    "city": null,
+    "category": "advisory",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-26T00:00:00+00:00"
+   },
+   {
+    "id": "8c5f05952c95",
+    "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
+    "country": "Jordan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-23T15:59:36+00:00"
+   },
+   {
+    "id": "3da7419a6e36",
+    "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-23T15:37:07+00:00"
+   },
+   {
+    "id": "b10765fd75d9",
+    "title": "‘I killed lots of terrorists, but it didn’t make me feel better’: The trauma haunting Israel's elections",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-23T14:32:07+00:00"
+   },
+   {
+    "id": "3a55766f015f",
+    "title": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-23T14:19:30+00:00"
+   },
+   {
+    "id": "db71e3512afd",
+    "title": "West Bank: Extensive military operation 'on the way', Netanyahu says",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-23T15:56:28+00:00"
+   }
+  ],
   "Sub-Saharan Africa": [
    {
     "id": "8a8257b9cc83",
@@ -43,169 +125,283 @@
     "time": "2026-10-23T04:53:08+00:00"
    },
    {
-    "id": "3f8d4f08be20",
-    "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T10:14:33+00:00"
-   },
-   {
-    "id": "f0dcef15b8af",
-    "title": "Nigeria steps up airport health screenings over Ebola fears",
-    "country": "Nigeria",
-    "city": "Lagos",
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-23T09:42:51+00:00"
-   },
-   {
-    "id": "533728b72565",
-    "title": "Two European women kidnapped in Niger freed in Libya",
+    "id": "0642c48dd640",
+    "title": "Niger",
     "country": "Niger",
     "city": null,
-    "category": "crime",
+    "category": "advisory",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-23T09:30:21+00:00"
+    "confidence": "A1",
+    "time": "2026-10-23T15:14:29+00:00"
    },
    {
-    "id": "0d6ecd99bb8c",
-    "title": "Pulaku: The two faces of Nigeria’s vigilantes",
+    "id": "b4e7237ad515",
+    "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
     "country": "Nigeria",
-    "city": null,
-    "category": "crime",
+    "city": "Abuja",
+    "category": "health",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-23T09:30:05+00:00"
+    "time": "2026-10-23T13:57:11+00:00"
    },
    {
-    "id": "0b384cc22efb",
-    "title": "Nigeria's health minister says first Ebola case remains isolated",
-    "country": "Nigeria",
+    "id": "453fe76a0b16",
+    "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+    "country": "Kenya",
     "city": null,
     "category": "health",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-23T08:29:45+00:00"
+    "confidence": "B3",
+    "time": "2026-10-23T12:41:39+00:00"
+   },
+   {
+    "id": "9262a08d068b",
+    "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-23T12:11:00+00:00"
+   },
+   {
+    "id": "c0c2c998da0f",
+    "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-23T12:00:00+00:00"
    }
   ],
-  "Middle East & N. Africa": [
+  "Western Europe": [
    {
-    "id": "a6e5ba41d425",
-    "title": "Netanyahu orders army to prepare for full West Bank closure after attack",
-    "country": "Palestine",
+    "id": "6f17130f34e6",
+    "title": "France’s Macron arrives in Trappes after ‘racist terrorist attack’",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B2",
+    "time": "2026-10-23T11:08:26+00:00"
+   },
+   {
+    "id": "91e57175a6a5",
+    "title": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-23T16:08:04+00:00"
+   },
+   {
+    "id": "2445df27205e",
+    "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-23T13:25:58+00:00"
+   },
+   {
+    "id": "c1b6e3661102",
+    "title": "At least one dead and four injured in Paris suburb shooting",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-23T11:44:12+00:00"
+   },
+   {
+    "id": "1d7dd636092e",
+    "title": "One person killed in deadly shooting in Paris suburbs",
+    "country": "France",
+    "city": "Paris",
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-23T13:48:46+00:00"
+   },
+   {
+    "id": "e7e95079072d",
+    "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
+    "country": "France",
+    "city": "Paris",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-23T16:39:22+00:00"
+   },
+   {
+    "id": "c79b726137f9",
+    "title": "French authorities ban some student protests after weekend looting and clashes",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-23T11:21:54+00:00"
+   },
+   {
+    "id": "ff79959b98a7",
+    "title": "France tightens security in anticipation of weekend protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-23T11:05:13+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "fc80adede58a",
+    "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-23T16:10:34+00:00"
+   },
+   {
+    "id": "643abf945462",
+    "title": "Europe faces threat of organised sabotage, terrorist attacks: Estonian FM Tsahkna",
+    "country": "Estonia",
     "city": null,
     "category": "terrorism",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-10-23T08:35:17+00:00"
-   },
-   {
-    "id": "b844f50cf355",
-    "title": "The West Bank - Level 3: Reconsider Travel",
-    "country": "Palestine",
-    "city": null,
-    "category": "advisory",
     "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-26T00:00:00+00:00"
+    "confidence": "B3",
+    "time": "2026-10-23T14:55:15+00:00"
    },
    {
-    "id": "83aa0bc264e5",
-    "title": "Gaza: Moment Israeli airstrike hits building in Nuseirat caught on camera",
-    "country": "Palestine",
+    "id": "25581004f73c",
+    "title": "Russian drone attack injures 9 people, including 2 children",
+    "country": "Russia",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-23T04:53:49+00:00"
+   },
+   {
+    "id": "293493967643",
+    "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-23T14:23:00+00:00"
+   },
+   {
+    "id": "b73c56e4e128",
+    "title": "Exclusive: The next Russia deal Trump may be weighing after diesel",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-23T14:31:29+00:00"
+   },
+   {
+    "id": "705e730bc3fd",
+    "title": "Civilian cargo ship sinks off coast of Romania after Russian drone strike, authorities say",
+    "country": "Romania",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-23T10:23:29+00:00"
+    "time": "2026-10-23T13:48:45+00:00"
    },
    {
-    "id": "02f848f9c064",
-    "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
-    "country": "Iran",
+    "id": "4ed9dd296afb",
+    "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-23T13:39:06+00:00"
+   },
+   {
+    "id": "d11c60301958",
+    "title": "Breaking: Ukraine confirms Oleshky ceasefire mediated by Melania Trump between Russia, Ukraine",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-23T13:38:06+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "f3e231dddb95",
+    "title": "Inside the legal design of America's Russia sanctions U-turn",
+    "country": "United States",
+    "city": "New York",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-23T16:18:12+00:00"
+   },
+   {
+    "id": "13e3fd439700",
+    "title": "First Thing: Former DHS aide Lewandowski investigated over claims he profited from government role",
+    "country": "United States",
     "city": null,
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-23T09:56:28+00:00"
+    "time": "2026-10-23T10:53:00+00:00"
    },
    {
-    "id": "62759065c360",
-    "title": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict'",
-    "country": "Iran",
+    "id": "49e27701b4e4",
+    "title": "Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live",
+    "country": "United States",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-22T16:36:26+00:00"
+    "time": "2026-10-23T11:48:31+00:00"
    },
    {
-    "id": "aea93f2a8bae",
-    "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-    "country": "Yemen",
+    "id": "3239c3722322",
+    "title": "The mega-Maga contender in deep-red Florida who doesn’t want to talk about Trump",
+    "country": "United States",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-22T15:56:36+00:00"
+    "time": "2026-10-23T11:22:38+00:00"
    },
    {
-    "id": "de247796409d",
-    "title": "Reports show US and Israel are planning new strikes on Iran",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T15:34:34+00:00"
-   },
-   {
-    "id": "fb2e687b7d6d",
-    "title": "How Sudan’s shift to drone warfare is fuelling a civilian crisis",
-    "country": "Sudan",
+    "id": "38409386a7e2",
+    "title": "Why measles outbreak in Pennsylvania poses risks beyond US borders",
+    "country": "United States",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "health",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-22T13:35:31+00:00"
+    "time": "2026-10-22T21:02:30+00:00"
+   },
+   {
+    "id": "d2a6618467e2",
+    "title": "CDC denies approval for high-volume measles test, citing ‘other priorities’",
+    "country": "United States",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-22T18:30:39+00:00"
    }
   ],
   "East & SE Asia": [
-   {
-    "id": "58ff220e9c77",
-    "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 100 thousand in 100km.",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-10-22T14:54:15+00:00"
-   },
-   {
-    "id": "eb4f6f888bdb",
-    "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI>=VII).",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-10-22T14:54:15+00:00"
-   },
-   {
-    "id": "6b87b0f332eb",
-    "title": "M7.0 earthquake, 191 km ENE of Nagqu, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-10-22T14:33:40.353000+00:00"
-   },
    {
     "id": "19d54ef9af04",
     "title": "Taiwan shuts down schools and businesses as Typhoon Champi approaches",
@@ -247,6 +443,16 @@
     "time": "2026-10-22T19:57:50+00:00"
    },
    {
+    "id": "61b9a753018f",
+    "title": "M5.1 earthquake, 72 km ENE of Noda, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T16:07:51.754000+00:00"
+   },
+   {
     "id": "125cb9f0bca2",
     "title": "M4.5 earthquake, 18 km WNW of Bantogon, Philippines",
     "country": "Philippines",
@@ -255,232 +461,26 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-23T09:09:36.956000+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "c1b6e3661102",
-    "title": "At least one dead and four injured in Paris suburb shooting",
-    "country": "France",
-    "city": "Paris",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-23T11:44:12+00:00"
    },
    {
-    "id": "30b559ddea76",
-    "title": "🔴Live: Authorities in Lyon and Marseille ban all protests Saturday",
-    "country": "France",
-    "city": "Lyon",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-22T16:03:29+00:00"
-   },
-   {
-    "id": "ff79959b98a7",
-    "title": "France tightens security in anticipation of weekend protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-23T11:05:13+00:00"
-   },
-   {
-    "id": "a12b6d6fd874",
-    "title": "French mayors analyze the political crisis as new protests are expected",
-    "country": "France",
-    "city": "Marseille",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-23T10:39:42+00:00"
-   },
-   {
-    "id": "5cafa6d5e7f5",
-    "title": "M4.9 earthquake, 53 km WNW of Leni, Italy",
-    "country": "Italy",
+    "id": "f05f7c060176",
+    "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+    "country": "Taiwan",
     "city": null,
     "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-23T09:51:39.628000+00:00"
-   },
-   {
-    "id": "6ca512369285",
-    "title": "Detective raped by fellow officer David Carrick calls on Met chief to resign",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-23T09:42:28+00:00"
-   },
-   {
-    "id": "eea53450ccd9",
-    "title": "Widespread looting , clashes bring France protests to a halt",
-    "country": "France",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-23T04:00:00+00:00"
-   },
-   {
-    "id": "62268a7e1402",
-    "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T21:34:11+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "25581004f73c",
-    "title": "Russian drone attack injures 9 people, including 2 children",
-    "country": "Russia",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-23T04:53:49+00:00"
-   },
-   {
-    "id": "5122e52fd863",
-    "title": "Russia ready for talks on plans for final Ukraine deal, not truce: Putin",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-23T08:00:49+00:00"
-   },
-   {
-    "id": "4590f823fdf5",
-    "title": "General Staff: Russia has lost 1,574,620 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-23T06:10:44+00:00"
-   },
-   {
-    "id": "54b7854a6e25",
-    "title": "Ukraine Invasion Day 1 , 702 : Highest RU daily casualties of entire war as US buys Kremlin time",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-23T05:00:00+00:00"
-   },
-   {
-    "id": "4bf233d96448",
-    "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T23:16:20+00:00"
-   },
-   {
-    "id": "65cf5820a5f0",
-    "title": "Ukraine war latest: Ukrainian troops infiltrate Russian rear near Kupiansk through 15 kilometers of gas pipelines",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-22T18:03:30+00:00"
-   },
-   {
-    "id": "e009a9f63422",
-    "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T17:49:13+00:00"
-   },
-   {
-    "id": "821664fb6ec9",
-    "title": "EU responds to Trump diesel deal with new Russia energy sanctions",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-22T16:13:00+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "13e3fd439700",
-    "title": "First Thing: Former DHS aide Lewandowski investigated over claims he profited from government role",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-23T10:53:00+00:00"
-   },
-   {
-    "id": "a0545a8867c0",
-    "title": "Georgia on Democrats’ minds: Powering up the Black vote to counter Trump's meddling",
-    "country": "United States",
-    "city": "Atlanta",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-22T15:43:57+00:00"
-   },
-   {
-    "id": "49e27701b4e4",
-    "title": "Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-23T11:48:31+00:00"
+    "time": "2026-10-23T08:45:58+00:00"
    },
    {
-    "id": "3239c3722322",
-    "title": "The mega-Maga contender in deep-red Florida who doesn’t want to talk about Trump",
-    "country": "United States",
+    "id": "d4245f966feb",
+    "title": "Taiwan: Deadly Typhoon Champi brings travel chaos and school closures",
+    "country": "Taiwan",
     "city": null,
-    "category": "unrest",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T11:22:38+00:00"
-   },
-   {
-    "id": "38409386a7e2",
-    "title": "Why measles outbreak in Pennsylvania poses risks beyond US borders",
-    "country": "United States",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T21:02:30+00:00"
-   },
-   {
-    "id": "d2a6618467e2",
-    "title": "CDC denies approval for high-volume measles test, citing ‘other priorities’",
-    "country": "United States",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T18:30:39+00:00"
+    "confidence": "C4",
+    "time": "2026-10-23T07:30:14+00:00"
    }
   ],
   "South Asia": [
@@ -553,19 +553,19 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-22T17:30:00+00:00"
-   },
-   {
-    "id": "20b179351877",
-    "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
-    "country": "Nepal",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-22T12:00:00+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "68939b3b593e",
+    "title": "Martinique",
+    "country": "Martinique",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T15:16:42+00:00"
+   },
    {
     "id": "5d5f9f44cb3a",
     "title": "President launches mission to rescue four soldiers kidnapped in Haiti",
@@ -635,19 +635,29 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-22T22:15:00+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "70601cb00f75",
+    "title": "Why do women in public life become targets?",
+    "country": "Australia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-23T13:58:52+00:00"
    },
    {
-    "id": "572b2f0aa977",
-    "title": "M4.6 earthquake, 49 km S of Ollagüe, Chile",
-    "country": "Chile",
+    "id": "c87a667df9ea",
+    "title": "M4.5 earthquake, 193 km ENE of Levuka, Fiji",
+    "country": "Fiji",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-22T21:37:56.543000+00:00"
-   }
-  ],
-  "Oceania": [
+    "time": "2026-10-23T12:19:47.354000+00:00"
+   },
    {
     "id": "93849b919e0e",
     "title": "M4.9 earthquake, 104 km NNE of Hihifo, Tonga",
@@ -657,26 +667,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-22T19:06:56.074000+00:00"
-   },
-   {
-    "id": "485f15a8173d",
-    "title": "M4.8 earthquake, 144 km SSW of ‘Ohonua, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T16:51:21.365000+00:00"
-   },
-   {
-    "id": "54708d7cb0c7",
-    "title": "M4.9 earthquake, 200 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T12:22:57.822000+00:00"
    }
   ]
  }
