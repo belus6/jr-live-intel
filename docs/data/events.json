@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-24T17:53:44.188647+00:00",
+ "generated": "2026-10-24T20:21:15.337297+00:00",
  "sample": false,
- "count": 567,
+ "count": 559,
  "events": [
   {
    "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
@@ -531,34 +531,6 @@
    "watch": []
   },
   {
-   "title": "M5.7 earthquake, 198 km NW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga",
-   "time": "2026-10-19T18:52:36.659000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -14.0371,
-   "lon": 165.5508,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-19T20:13:33.583686+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "86c7e76bc376",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
    "title": "WHO raises alarm over undetected Ebola cases in DR Congo",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/14/who-raises-alarm-over-undetected-ebola-cases-in-dr-congo/",
@@ -771,11 +743,16 @@
      "name": "The Guardian World",
      "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
      "tier": "B"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-24T14:54:40.469282+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B2",
+   "corroboration": 2,
    "id": "f31bc0a7957e",
    "flag": "🇵🇸",
    "region": "Middle East & N. Africa",
@@ -1635,39 +1612,6 @@
    "watch": []
   },
   {
-   "title": "Ukraine war latest: Zelensky supports resuming trilateral peace talks with US, Russia after Putin claims Kremlin readiness",
-   "summary": "",
-   "url": "https://kyivindependent.com/ukraine-war-latest-russia-ready-to-resume-trilateral-peace-talks-with-us-ukraine/",
-   "time": "2026-10-21T17:53:54+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/ukraine-war-latest-russia-ready-to-resume-trilateral-peace-talks-with-us-ukraine/",
-     "tier": "C"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-21T19:21:07.130078+00:00",
-   "confidence": "C2",
-   "corroboration": 2,
-   "id": "db7edec21563",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "French PM Lecornu says ready to declare state of emergency 'if needed'",
    "summary": "",
    "url": "https://www.france24.com/en/france/20261019-french-pm-says-could-declare-state-of-emergency-over-unrest-if-needed",
@@ -1897,6 +1841,34 @@
    "watch": []
   },
   {
+   "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
+   "summary": "",
+   "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
+   "time": "2026-10-24T17:50:25+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Saudi Arabia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T20:21:15.337297+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "065cb28f0d2f",
+   "flag": "🇸🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
    "title": "Clashes erupt between protesters and police in France",
    "summary": "",
    "url": "https://en.apa.az/europe/clashes-erupt-between-protesters-and-police-in-france-updated-531994",
@@ -1950,6 +1922,39 @@
    "flag": "🇮🇱",
    "region": "Middle East & N. Africa",
    "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "France: Protests continue while police fire tear gas at demonstrators",
+   "summary": "",
+   "url": "https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators",
+   "time": "2026-10-24T17:10:42+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators",
+     "tier": "B"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T17:53:44.188647+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "741cf536478a",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -3543,34 +3548,6 @@
    "watch": []
   },
   {
-   "title": "Curfew imposed in certain areas of Paris every night until Monday morning",
-   "summary": "",
-   "url": "https://www.france24.com/en/curfew-imposed-in-certain-areas-of-paris-every-night-until-monday-morning",
-   "time": "2026-10-22T19:48:45+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/curfew-imposed-in-certain-areas-of-paris-every-night-until-monday-morning",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "be91e1fe1c74",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "French authorities ban some student protests after weekend looting and clashes",
    "summary": "",
    "url": "https://www.independent.co.uk/news/world/europe/french-paris-emmanuel-macron-lyon-grenoble-b3071345.html",
@@ -4772,34 +4749,6 @@
    "watch": []
   },
   {
-   "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
-   "summary": "",
-   "url": "https://www.france24.com/en/neither-the-sudanese-military-nor-the-rsf-take-any-acknowledgement-of-human-life-in-this-war",
-   "time": "2026-10-21T19:28:21+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Sudan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/neither-the-sudanese-military-nor-the-rsf-take-any-acknowledgement-of-human-life-in-this-war",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-21T22:35:45.530454+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3d0a208011d1",
-   "flag": "🇸🇩",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.76,
-   "watch": []
-  },
-  {
    "title": "Republicans push back on Donald Trump’s wavering support for Ukraine",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia",
@@ -5197,6 +5146,230 @@
    "watch": []
   },
   {
+   "title": "Hundreds of thousands march in France as protests take place across Europe – Europe live",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+   "time": "2026-10-24T20:02:58+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Italy",
+   "city": "Milan",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T20:21:15.337297+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "070640ac39a9",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 73 km SW of Isangel, Vanuatu",
+   "summary": "Depth 22 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ny",
+   "time": "2026-10-24T19:18:20.515000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -20.025,
+   "lon": 168.7941,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ny",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T20:21:15.337297+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "7fbad246affe",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+   "time": "2026-10-24T19:11:48+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Israel",
+   "city": "Tel Aviv",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T20:21:15.337297+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3ab75547bf4d",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Mali",
+   "summary": "On 22/10/2026, a forest fire started in Mali, until 24/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033148",
+   "time": "2026-10-24T19:02:19+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Mali",
+   "city": null,
+   "lat": 15.114449080896597,
+   "lon": -6.056834969647014,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033148",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T20:21:15.337297+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "14abf1c38efe",
+   "flag": "🇲🇱",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.62,
+   "watch": []
+  },
+  {
+   "title": "Thousands join Paris protests as authorities clamp down on disorder",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
+   "time": "2026-10-24T19:01:52+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T20:21:15.337297+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "27a7d1e7c975",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Thousands gather at new Albanian antigovernment rally",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+   "time": "2026-10-24T18:30:56+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": "Tirana",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T20:21:15.337297+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8998f68ae6a8",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
+   "summary": "",
+   "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
+   "time": "2026-10-24T18:21:55+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Palestine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T20:21:15.337297+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "def9165ae928",
+   "flag": "🇵🇸",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.42,
+   "watch": []
+  },
+  {
+   "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+   "time": "2026-10-24T18:11:44+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Brazil",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T20:21:15.337297+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f5289b51f09b",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
    "title": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
    "summary": "",
    "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
@@ -5412,34 +5585,6 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "615196d0d4bc",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France: Protests continue while police fire tear gas at demonstrators",
-   "summary": "",
-   "url": "https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators",
-   "time": "2026-10-24T17:10:42+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-24T17:53:44.188647+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "741cf536478a",
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
@@ -5932,6 +6077,34 @@
    "watch": []
   },
   {
+   "title": "Hundreds of soldiers deploy as thousands protest in Italy’s Milan",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+   "time": "2026-10-24T15:05:58+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Italy",
+   "city": "Milan",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T20:21:15.337297+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "62ff7ff88b7c",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
+   "watch": []
+  },
+  {
    "title": "Why Israeli tourists and investors are unsettling Cypriots",
    "summary": "",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
@@ -6046,6 +6219,39 @@
    "flag": "🇯🇴",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Fresh protests across France",
+   "summary": "",
+   "url": "https://www.france24.com/en/fresh-protests-across-france",
+   "time": "2026-10-24T13:22:01+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/fresh-protests-across-france",
+     "tier": "B"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T20:21:15.337297+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "3204f5bb0fed",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -10238,6 +10444,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Zimbabwe, Mozambique, Zambia",
+   "summary": "On 13/10/2026, a forest fire started in Zimbabwe, Mozambique, Zambia, until 23/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033083",
+   "time": "2026-10-23T03:20:12+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Zimbabwe",
+   "city": null,
+   "lat": -15.8526600402008,
+   "lon": 30.335631723533975,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033083",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T20:21:15.337297+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "480b0521cacd",
+   "flag": "🇿🇼",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.52,
+   "watch": []
+  },
+  {
    "title": "Green forest fire notification in Nigeria",
    "summary": "On 16/10/2026, a forest fire started in Nigeria, until 23/10/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033078",
@@ -10978,44 +11212,6 @@
    "watch": []
   },
   {
-   "title": "Thousands gather at final student-led rally ahead of Serbia election",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
-   "time": "2026-10-22T20:21:12+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Serbia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
-     "tier": "B"
-    },
-    {
-     "name": "independent.co.uk (via GDELT)",
-     "url": "https://www.independent.co.uk/news/uk/politics/aleksandar-vucic-serbia-belgrade-support-serbian-progressive-party-b3071732.html",
-     "tier": "C"
-    },
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "B1",
-   "corroboration": 3,
-   "id": "f42064d4cfe8",
-   "flag": "🇷🇸",
-   "region": "Eastern Europe",
-   "baseline": 2.13,
-   "watch": []
-  },
-  {
    "title": "M5.0 earthquake, 153 km S of Kokopo, Papua New Guinea",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u473",
@@ -11105,62 +11301,6 @@
    "watch": []
   },
   {
-   "title": "Govt defends cancellation of Wangchuk institute land allotment , alleges role in last year unrest | India News",
-   "summary": "",
-   "url": "https://timesofindia.indiatimes.com/india/govt-defends-cancellation-of-wangchuk-institutes-land-allotment-alleges-role-in-last-years-unrest/articleshow/135126422.cms",
-   "time": "2026-10-22T19:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "timesofindia.indiatimes.com (via GDELT)",
-     "url": "https://timesofindia.indiatimes.com/india/govt-defends-cancellation-of-wangchuk-institutes-land-allotment-alleges-role-in-last-years-unrest/articleshow/135126422.cms",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T19:56:22.346888+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "088c34aa099b",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "Albania's student protests are only getting bigger",
-   "summary": "",
-   "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-10-22T19:18:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Albania",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f9307561f94e",
-   "flag": "🇦🇱",
-   "region": "Eastern Europe",
-   "baseline": 2.14,
-   "watch": []
-  },
-  {
    "title": "Green forest fire notification in Zimbabwe",
    "summary": "On 15/10/2026, a forest fire started in Zimbabwe, until 20/10/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032978",
@@ -11186,207 +11326,6 @@
    "flag": "🇿🇼",
    "region": "Sub-Saharan Africa",
    "baseline": 3.52,
-   "watch": []
-  },
-  {
-   "title": "Women are protesting in Poland for free access to legal abortions",
-   "summary": "",
-   "url": "https://mymotherlode.com/news/world/11242447/women-are-protesting-in-poland-for-free-access-to-legal-abortions.html",
-   "time": "2026-10-22T19:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Poland",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "mymotherlode.com (via GDELT)",
-     "url": "https://mymotherlode.com/news/world/11242447/women-are-protesting-in-poland-for-free-access-to-legal-abortions.html",
-     "tier": "C"
-    },
-    {
-     "name": "thegazette.com (via GDELT)",
-     "url": "http://www.thegazette.com/news/world/women-are-protesting-in-poland-for-free-access-to-legal-abortions/article_015c9ff7-d408-572d-b6f2-c2fb9068eefa.html",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T19:56:22.346888+00:00",
-   "confidence": "C2",
-   "corroboration": 2,
-   "id": "90c20c77e877",
-   "flag": "🇵🇱",
-   "region": "Eastern Europe",
-   "baseline": 1.31,
-   "watch": []
-  },
-  {
-   "title": "French police to sue state over riots",
-   "summary": "",
-   "url": "http://www.parisguardian.com/news/279392597/french-police-to-sue-state-over-riots",
-   "time": "2026-10-22T19:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "parisguardian.com (via GDELT)",
-     "url": "http://www.parisguardian.com/news/279392597/french-police-to-sue-state-over-riots",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T19:56:22.346888+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "c5edf91b0353",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France protests increased polarisation and helped the far - right",
-   "summary": "",
-   "url": "https://economictimes.indiatimes.com/news/et-evoke/frances-protests-increased-polarisation-and-helped-the-far-right/articleshow/135124827.cms",
-   "time": "2026-10-22T19:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "economictimes.indiatimes.com (via GDELT)",
-     "url": "https://economictimes.indiatimes.com/news/et-evoke/frances-protests-increased-polarisation-and-helped-the-far-right/articleshow/135124827.cms",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T19:56:22.346888+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "a8cf320ad71f",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Evangelicals in Albania call for prayer as violent protests escalate",
-   "summary": "",
-   "url": "https://www.christiandaily.com/news/evangelicals-in-albania-call-for-prayer-as-violent-protests-escalate",
-   "time": "2026-10-22T19:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Albania",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "christiandaily.com (via GDELT)",
-     "url": "https://www.christiandaily.com/news/evangelicals-in-albania-call-for-prayer-as-violent-protests-escalate",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T19:56:22.346888+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "cfe8b0083915",
-   "flag": "🇦🇱",
-   "region": "Eastern Europe",
-   "baseline": 2.14,
-   "watch": []
-  },
-  {
-   "title": "We will not be soldiers for Saudis , Turkish protesters clash with security forces",
-   "summary": "",
-   "url": "https://www.presstv.co.uk/Detail/2026/10/22/778954/-We-will-NOT-be-soldiers-for-the-Saudis-----Turkish-communists-CLASH-with-security-forces-over-Mecca-defence-pact",
-   "time": "2026-10-22T19:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Turkey",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "presstv.co.uk (via GDELT)",
-     "url": "https://www.presstv.co.uk/Detail/2026/10/22/778954/-We-will-NOT-be-soldiers-for-the-Saudis-----Turkish-communists-CLASH-with-security-forces-over-Mecca-defence-pact",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T19:56:22.346888+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "48f572032f59",
-   "flag": "🇹🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.78,
-   "watch": []
-  },
-  {
-   "title": "Bukele warns Haitian gangs who kidnapped Salvarodan aviation techs : return hostages or face his wrath",
-   "summary": "",
-   "url": "https://humanevents.com/news/bukele-warns-haitian-gangs-who-kidnapped-salvarodan-aviation-techs-return-hostages-or-face-his",
-   "time": "2026-10-22T19:15:00+00:00",
-   "tier": "C",
-   "category": "crime",
-   "country": "Haiti",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "humanevents.com (via GDELT)",
-     "url": "https://humanevents.com/news/bukele-warns-haitian-gangs-who-kidnapped-salvarodan-aviation-techs-return-hostages-or-face-his",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T19:56:22.346888+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "637361e65c36",
-   "flag": "🇭🇹",
-   "region": "Latin America & Caribbean",
-   "baseline": 4.53,
-   "watch": []
-  },
-  {
-   "title": "Nova Scotia NDP whip removed after social media post about France protests",
-   "summary": "",
-   "url": "https://www.saltwire.com/news/canada/ndp-whip-removed-post-france-style-riots/wcm/939d30d1-8464-44d2-b9c5-b218f5f674d4",
-   "time": "2026-10-22T19:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "saltwire.com (via GDELT)",
-     "url": "https://www.saltwire.com/news/canada/ndp-whip-removed-post-france-style-riots/wcm/939d30d1-8464-44d2-b9c5-b218f5f674d4",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T19:56:22.346888+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "42244f728f94",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -11443,95 +11382,6 @@
    "flag": "🇹🇴",
    "region": "Oceania",
    "baseline": 1.93,
-   "watch": []
-  },
-  {
-   "title": "REPLAY : French Students Hold Protest March in Paris Demanding Better School Conditions",
-   "summary": "",
-   "url": "https://www.theepochtimes.com/epochtv/replay-french-students-hold-protest-march-in-paris-demanding-better-school-conditions-6107525",
-   "time": "2026-10-22T19:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "theepochtimes.com (via GDELT)",
-     "url": "https://www.theepochtimes.com/epochtv/replay-french-students-hold-protest-march-in-paris-demanding-better-school-conditions-6107525",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T19:56:22.346888+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "47d61dd4a395",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Women protest across Poland over stalled abortion law reforms",
-   "summary": "",
-   "url": "https://www.euronews.com/2026/10/22/women-protest-across-poland-over-stalled-abortion-law-reforms",
-   "time": "2026-10-22T19:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Poland",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "euronews.com (via GDELT)",
-     "url": "https://www.euronews.com/2026/10/22/women-protest-across-poland-over-stalled-abortion-law-reforms",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T19:56:22.346888+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "15b751da7665",
-   "flag": "🇵🇱",
-   "region": "Eastern Europe",
-   "baseline": 1.31,
-   "watch": []
-  },
-  {
-   "title": "Huge crowds gather at final pre - election rally of Serbia students",
-   "summary": "",
-   "url": "https://www.messenger-inquirer.com/ap/elections/huge-crowds-gather-at-final-pre-election-rally-of-serbias-students/article_07e5f6bf-fa55-5377-8113-4c40c5146b39.html",
-   "time": "2026-10-22T19:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Serbia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "messenger-inquirer.com (via GDELT)",
-     "url": "https://www.messenger-inquirer.com/ap/elections/huge-crowds-gather-at-final-pre-election-rally-of-serbias-students/article_07e5f6bf-fa55-5377-8113-4c40c5146b39.html",
-     "tier": "C"
-    },
-    {
-     "name": "thegazette.com (via GDELT)",
-     "url": "http://www.thegazette.com/news/national/huge-crowds-gather-at-final-pre-election-rally-of-serbias-students/article_d7fa06d1-6ad9-5b63-980a-29ab99dd054c.html",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T19:56:22.346888+00:00",
-   "confidence": "C2",
-   "corroboration": 2,
-   "id": "6a7ade9c6d05",
-   "flag": "🇷🇸",
-   "region": "Eastern Europe",
-   "baseline": 2.13,
    "watch": []
   },
   {
@@ -14428,62 +14278,6 @@
    "watch": []
   },
   {
-   "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
-   "time": "2026-10-19T19:38:40+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Spain",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T20:13:33.583686+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "e4ae0b9c52c6",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].",
-   "summary": "On 10/19/2026 6:52:36 PM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1572618",
-   "time": "2026-10-19T19:11:39+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -14.0371,
-   "lon": 165.5508,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1572618",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-21T10:08:59.221435+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "470e08678b03",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
    "title": "Mauritania",
    "summary": "New information on risks of travelling on the iron ore train (‘Safety and security’ page).",
    "url": "https://www.gov.uk/foreign-travel-advice/mauritania",
@@ -14509,34 +14303,6 @@
    "flag": "🇲🇷",
    "region": "Middle East & N. Africa",
    "baseline": 3.6,
-   "watch": []
-  },
-  {
-   "title": "M4.8 earthquake, 88 km WNW of Hihifo, Tonga",
-   "summary": "Depth 157 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3g6",
-   "time": "2026-10-19T18:27:46.554000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Tonga",
-   "city": null,
-   "lat": -15.6727,
-   "lon": -174.5697,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3g6",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-19T20:13:33.583686+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "3e11a1d27210",
-   "flag": "🇹🇴",
-   "region": "Oceania",
-   "baseline": 1.93,
    "watch": []
   },
   {
