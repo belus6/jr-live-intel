@@ -1,19 +1,29 @@
 {
- "generated": "2026-10-24T01:38:42.098561+00:00",
+ "generated": "2026-10-24T06:29:36.314299+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 104,
-  "3": 33,
-  "4": 16,
-  "5": 3
+  "2": 96,
+  "3": 35,
+  "4": 14,
+  "5": 5
  },
  "watch_hits": [
   "9948da5f6fb0"
  ],
  "regions": {
   "Middle East & N. Africa": [
+   {
+    "id": "f0e19b9fe883",
+    "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+    "country": "Jordan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "B1",
+    "time": "2026-10-23T19:46:30+00:00"
+   },
    {
     "id": "17cceb368c26",
     "title": "At least seven killed after gunmen open fire at church in Jordan",
@@ -33,16 +43,6 @@
     "severity": 5,
     "confidence": "B3",
     "time": "2026-10-23T08:35:17+00:00"
-   },
-   {
-    "id": "f0e19b9fe883",
-    "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-    "country": "Jordan",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B2",
-    "time": "2026-10-23T19:46:30+00:00"
    },
    {
     "id": "b844f50cf355",
@@ -95,6 +95,78 @@
     "time": "2026-10-23T15:37:07+00:00"
    }
   ],
+  "Oceania": [
+   {
+    "id": "5b42c77fb5f7",
+    "title": "M5.1 earthquake, 203 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-10-23T22:05:10.711000+00:00"
+   },
+   {
+    "id": "785c92fed78a",
+    "title": "M5.1 earthquake, 217 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-24T04:49:21.707000+00:00"
+   },
+   {
+    "id": "3e2a54942b16",
+    "title": "Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, 40 thousand in MMI IV.",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T02:40:23+00:00"
+   },
+   {
+    "id": "a6a8896a32ea",
+    "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
+    "country": "Australia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-23T23:26:05+00:00"
+   },
+   {
+    "id": "415603ff199b",
+    "title": "M4.9 earthquake, 115 km NE of Norsup, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T22:42:51.088000+00:00"
+   },
+   {
+    "id": "70601cb00f75",
+    "title": "Why do women in public life become targets?",
+    "country": "Australia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-23T13:58:52+00:00"
+   },
+   {
+    "id": "c87a667df9ea",
+    "title": "M4.5 earthquake, 193 km ENE of Levuka, Fiji",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T12:19:47.354000+00:00"
+   }
+  ],
   "Sub-Saharan Africa": [
    {
     "id": "8a8257b9cc83",
@@ -117,14 +189,14 @@
     "time": "2026-10-23T19:55:44+00:00"
    },
    {
-    "id": "a77572a7794d",
-    "title": "WHO: Africa facing 'complex' Ebola outbreak after Nigeria reports first case",
-    "country": "Nigeria",
+    "id": "eb963c928f9b",
+    "title": "Green forest fire notification in South Africa",
+    "country": "South Africa",
     "city": null,
-    "category": "health",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "C2",
-    "time": "2026-10-23T04:53:08+00:00"
+    "confidence": "A1",
+    "time": "2026-10-24T03:05:06+00:00"
    },
    {
     "id": "012417b35c64",
@@ -135,6 +207,16 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-24T00:27:21+00:00"
+   },
+   {
+    "id": "1fb744e8e2b2",
+    "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-24T00:05:43+00:00"
    },
    {
     "id": "c937ac1c4ba7",
@@ -165,16 +247,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-23T22:07:38+00:00"
-   },
-   {
-    "id": "9948da5f6fb0",
-    "title": "Building collapse in Nairobi search for survivors under way",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T20:31:50+00:00"
    }
   ],
   "Western Europe": [
@@ -281,16 +353,6 @@
     "time": "2026-10-23T14:55:15+00:00"
    },
    {
-    "id": "25581004f73c",
-    "title": "Russian drone attack injures 9 people, including 2 children",
-    "country": "Russia",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-23T04:53:49+00:00"
-   },
-   {
     "id": "293493967643",
     "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
     "country": "Russia",
@@ -299,6 +361,36 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-10-23T14:23:00+00:00"
+   },
+   {
+    "id": "ac441874854a",
+    "title": "General Staff: Russia has lost 1,576,600 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-24T06:11:44+00:00"
+   },
+   {
+    "id": "91de12a337a6",
+    "title": "Zelensky 'maybe not such a big humanitarian as Putin,' he quips as Ukraine's relations with Trump unravel",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-24T02:28:06+00:00"
+   },
+   {
+    "id": "7b7b12b851ef",
+    "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-23T20:02:21+00:00"
    },
    {
     "id": "b73c56e4e128",
@@ -319,26 +411,88 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-23T13:48:45+00:00"
-   },
+   }
+  ],
+  "East & SE Asia": [
    {
-    "id": "4ed9dd296afb",
-    "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-    "country": "Ukraine",
+    "id": "46eaff94a1d2",
+    "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
+    "country": "Taiwan",
     "city": null,
-    "category": "conflict",
+    "category": "hazard",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-23T13:39:06+00:00"
+    "time": "2026-10-23T23:10:54+00:00"
    },
    {
-    "id": "d11c60301958",
-    "title": "Breaking: Ukraine confirms Oleshky ceasefire mediated by Melania Trump between Russia, Ukraine",
-    "country": "Ukraine",
+    "id": "0f655dccfce0",
+    "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+    "country": "Taiwan",
+    "city": "Taipei",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-24T02:22:32+00:00"
+   },
+   {
+    "id": "7ee57e4eca2c",
+    "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+    "country": "Taiwan",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-23T13:38:06+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-23T23:10:54+00:00"
+   },
+   {
+    "id": "c0ecc7cc9a9c",
+    "title": "M4.6 earthquake, 73 km ENE of Kinablangan, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T21:41:04.400000+00:00"
+   },
+   {
+    "id": "dc7c1b629536",
+    "title": "M4.9 earthquake, 35 km ESE of Hualien City, Taiwan",
+    "country": "Taiwan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T20:48:16.356000+00:00"
+   },
+   {
+    "id": "61b9a753018f",
+    "title": "M5.1 earthquake, 72 km ENE of Noda, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T16:07:51.754000+00:00"
+   },
+   {
+    "id": "d3cd6d1b83f3",
+    "title": "M4.5 earthquake, 233 km ENE of Nagqu, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T14:41:16.206000+00:00"
+   },
+   {
+    "id": "19065f8b5c79",
+    "title": "M4.7 earthquake, 215 km NE of Nagqu, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T14:14:04.311000+00:00"
    }
   ],
   "North America": [
@@ -403,88 +557,6 @@
     "time": "2026-10-23T11:22:38+00:00"
    }
   ],
-  "East & SE Asia": [
-   {
-    "id": "19d54ef9af04",
-    "title": "Taiwan shuts down schools and businesses as Typhoon Champi approaches",
-    "country": "Taiwan",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-23T03:00:54+00:00"
-   },
-   {
-    "id": "68326e44a929",
-    "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-23T05:16:37+00:00"
-   },
-   {
-    "id": "7ee57e4eca2c",
-    "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
-    "country": "Taiwan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T23:10:54+00:00"
-   },
-   {
-    "id": "c0ecc7cc9a9c",
-    "title": "M4.6 earthquake, 73 km ENE of Kinablangan, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T21:41:04.400000+00:00"
-   },
-   {
-    "id": "dc7c1b629536",
-    "title": "M4.9 earthquake, 35 km ESE of Hualien City, Taiwan",
-    "country": "Taiwan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T20:48:16.356000+00:00"
-   },
-   {
-    "id": "61b9a753018f",
-    "title": "M5.1 earthquake, 72 km ENE of Noda, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T16:07:51.754000+00:00"
-   },
-   {
-    "id": "d3cd6d1b83f3",
-    "title": "M4.5 earthquake, 233 km ENE of Nagqu, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T14:41:16.206000+00:00"
-   },
-   {
-    "id": "125cb9f0bca2",
-    "title": "M4.5 earthquake, 18 km WNW of Bantogon, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T09:09:36.956000+00:00"
-   }
-  ],
   "Latin America & Caribbean": [
    {
     "id": "cb080f98e1c3",
@@ -505,88 +577,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-23T15:16:42+00:00"
-   },
-   {
-    "id": "5d5f9f44cb3a",
-    "title": "President launches mission to rescue four soldiers kidnapped in Haiti",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-23T06:00:00+00:00"
-   },
-   {
-    "id": "7c8d588b5cca",
-    "title": "Venezuelans demand elections in first national protest in nearly two years - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-    "country": "Dominican Republic",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-23T04:45:00+00:00"
-   },
-   {
-    "id": "f8a7405262d5",
-    "title": "M4.5 earthquake, 58 km SW of Atocha, Bolivia",
-    "country": "Bolivia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T02:45:41.183000+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "a6a8896a32ea",
-    "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
-    "country": "Australia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T23:26:05+00:00"
-   },
-   {
-    "id": "415603ff199b",
-    "title": "M4.9 earthquake, 115 km NE of Norsup, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T22:42:51.088000+00:00"
-   },
-   {
-    "id": "5b42c77fb5f7",
-    "title": "M5.1 earthquake, 203 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T22:05:10.711000+00:00"
-   },
-   {
-    "id": "70601cb00f75",
-    "title": "Why do women in public life become targets?",
-    "country": "Australia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T13:58:52+00:00"
-   },
-   {
-    "id": "c87a667df9ea",
-    "title": "M4.5 earthquake, 193 km ENE of Levuka, Fiji",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T12:19:47.354000+00:00"
    }
   ],
   "South Asia": [
@@ -609,26 +599,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-23T11:00:32+00:00"
-   },
-   {
-    "id": "5c606d0b0052",
-    "title": "Dalit activist Deepa Nepali 186 - day protest goes unheard as the Nepal government stays silent – Asia News Network",
-    "country": "Nepal",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-23T04:00:00+00:00"
-   },
-   {
-    "id": "84aaef8d63a7",
-    "title": "Indian developer turns ‘Cockroach’ protests into video game",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T02:44:35+00:00"
    }
   ]
  }

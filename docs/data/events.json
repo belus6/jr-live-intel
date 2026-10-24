@@ -1,8 +1,74 @@
 {
- "generated": "2026-10-24T01:38:42.098561+00:00",
+ "generated": "2026-10-24T06:29:36.314299+00:00",
  "sample": false,
- "count": 564,
+ "count": 561,
  "events": [
+  {
+   "title": "M5.1 earthquake, 203 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h7",
+   "time": "2026-10-23T22:05:10.711000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.8764,
+   "lon": 165.6172,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h7",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-23T23:12:59.565484+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "5b42c77fb5f7",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-23T19:46:30+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Jordan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
+     "tier": "B"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-23T20:15:01.898510+00:00",
+   "confidence": "B1",
+   "corroboration": 3,
+   "id": "f0e19b9fe883",
+   "flag": "🇯🇴",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
   {
    "title": "At least seven killed after gunmen open fire at church in Jordan",
    "summary": "",
@@ -91,6 +157,120 @@
    "region": "Middle East & N. Africa",
    "baseline": 4.42,
    "watch": []
+  },
+  {
+   "title": "Iraq - Level 4: Do Not Travel",
+   "summary": "Do not travel to Iraq due to terrorism, kidnapping, armed conflict, crime, health risks , and the U.S. government’s limited ability to provide emergency services to U.S. citizens in Iraq . Do not travel to Iraq for any reason. The U.S. government has limited ability to offer emergency services to U.S. citizens in Iraq due to the safety risks. Armed conflict Iranian-supported Houthis have engaged i",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html",
+   "time": "2026-10-23T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Iraq",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "7cd76a30f0c5",
+   "flag": "🇮🇶",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.28,
+   "watch": []
+  },
+  {
+   "title": "Iran - Level 4: Do Not Travel",
+   "summary": "Do not travel to Iran due to the risk of terrorism , unrest , kidnapping , arbitrary arrest of U.S. citizens, and wrongful detention . Read the entire Travel Advisory. Do not travel to Iran for any reason. U.S. citizens in Iran should leave immediately . There is no U.S. Embassy in Iran. Review our information on Travel to High-Risk Areas . Iranian-supported Houthis have engaged in hostilities aga",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irn.html",
+   "time": "2026-10-23T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Iran",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irn.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "5631cd5c4361",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Syria - Level 4: Do Not Travel",
+   "summary": "Do not travel to Syria for any reason due to the risk of terrorism , unrest , kidnapping , hostage taking, crime , and armed conflict. Do not travel to Syria for any reason. The U.S. government suspended U.S. Embassy operations in 2012. The Czech Republic is the protecting power for the United States in Syria. The U.S. government cannot offer emergency or routine consular services to U.S. citizens",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syr.html",
+   "time": "2026-10-23T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Syria",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syr.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "1dd1b38060ff",
+   "flag": "🇸🇾",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.8,
+   "watch": []
+  },
+  {
+   "title": "Lebanon - Level 4: Do Not Travel",
+   "summary": "Do not travel to Lebanon due to the risk of crime, terrorism, unrest, kidnapping, landmines, and armed conflict . U.S. government employee travel restrictions Do not travel to Lebanon for any reason. The U.S. government has limited ability to offer emergency services to U.S. citizens in Lebanon due to the safety risks . U.S. Embassy Beirut personnel are restricted from personal travel throughout L",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html",
+   "time": "2026-10-23T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Lebanon",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "a9a32d236d50",
+   "flag": "🇱🇧",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.29,
+   "watch": [
+    "Field staff, Lebanon"
+   ]
   },
   {
    "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 100 thousand in 100km.",
@@ -342,39 +522,6 @@
    "flag": "🇵🇸",
    "region": "Middle East & N. Africa",
    "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-23T19:46:30+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Jordan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T20:15:01.898510+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "f0e19b9fe883",
-   "flag": "🇯🇴",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
    "watch": []
   },
   {
@@ -795,6 +942,202 @@
    "watch": []
   },
   {
+   "title": "United Arab Emirates - Level 3: Reconsider Travel",
+   "summary": "Reconsider travel to the United Arab Emirates due to terrorism and armed conflict . U.S. government employee travel restrictions U.S. government employees working in the UAE need special authorization to travel to military bases and critical energy infrastructure sites due to UAE government restrictions and potential security risks. Additional staffing posture adjustments may be imposed on U.S. pe",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.are.html",
+   "time": "2026-10-23T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "UAE",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.are.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "6703a81a678c",
+   "flag": "🇦🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.53,
+   "watch": []
+  },
+  {
+   "title": "Qatar - Level 3: Reconsider Travel",
+   "summary": "Reconsider travel to Qatar due to risk of armed conflict . U.S. government employee travel restrictions Due to safety risks, U.S. government employees need special authorization to travel to Qatar. Additional staffing posture adjustments may be imposed on U.S. personnel under Chief of Mission security responsibility due to evolving security issues. Armed Conflict Iranian-supported Houthis have eng",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.qat.html",
+   "time": "2026-10-23T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Qatar",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.qat.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "f3f22aca415b",
+   "flag": "🇶🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.36,
+   "watch": []
+  },
+  {
+   "title": "Israel - Level 3: Reconsider Travel",
+   "summary": "Reconsider travel to Israel due to terrorism and unrest . Some areas have increased risk. Read the entire Travel Advisory. As of August 26, 2026, family members may join U.S. government employees who work in Israel. U.S. government employee travel restrictions U.S. government employees working in Israel are restricted from the following locations due to safety risks: Areas north of Route 85 to Rou",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isr.html",
+   "time": "2026-10-23T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isr.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "4bd1b7833d88",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Bahrain - Level 3: Reconsider Travel",
+   "summary": "Reconsider travel to Bahrain due to terrorism and armed conflict . U.S. government employee travel restrictions Due to safety risks, U.S. government employees need special authorization to travel to Bahrain. Additional staffing posture adjustments may be imposed on U.S. personnel under Chief of Mission security responsibility due to evolving security issues. Armed Conflict Iranian-supported Houthi",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bhr.html",
+   "time": "2026-10-23T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Bahrain",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bhr.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "36760f4f4184",
+   "flag": "🇧🇭",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Jordan - Level 3: Reconsider Travel",
+   "summary": "Reconsider travel to Jordan due to terrorism and armed conflict . Some areas have increased risk. Read the entire Travel Advisory. U.S. government employee travel restrictions Due to safety risks, U.S. government employees need special authorization to travel to Jordan. Additional staffing posture adjustments may be imposed on U.S. personnel under Chief of Mission security responsibility due to ev",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.jor.html",
+   "time": "2026-10-23T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Jordan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.jor.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "fa875d0e1022",
+   "flag": "🇯🇴",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Oman - Level 3: Reconsider Travel",
+   "summary": "Reconsider travel to Oman due to risk of armed conflict and terrorism . Some areas have increased risk. Read the entire Travel Advisory U.S. government employee travel restrictions As of August 30, 2026, family members may join U.S. government employees who work in Oman. Due to safety risks, U.S. government employees need special authorization to travel to Oman. U.S. government employees working i",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.omn.html",
+   "time": "2026-10-23T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Oman",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.omn.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "9327ecb349f5",
+   "flag": "🇴🇲",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.11,
+   "watch": []
+  },
+  {
+   "title": "Kuwait - Level 3: Reconsider Travel",
+   "summary": "Reconsider travel to Kuwait due to the threat of armed conflict , landmines , and crime . The U.S. government has limited ability to offer services to U.S. citizens in Kuwait due to safety risks. U.S. government employee travel restrictions Due to safety risks, U.S. government employees need special authorization to travel to Kuwait. Additional staffing posture adjustments may be imposed on U.S. p",
+   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kwt.html",
+   "time": "2026-10-23T00:00:00+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Kuwait",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "U.S. State Department travel advisories",
+     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kwt.html",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "b8ebbbca5a99",
+   "flag": "🇰🇼",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
    "title": "Ground fighting in Yemen intensifies as 2 killed in attempted drone strike on Saudi field",
    "summary": "",
    "url": "http://www.nepalnational.com/news/279390936/ground-fighting-in-yemen-intensifies-as-2-killed-in-attempted-drone-strike-on-saudi-field",
@@ -1003,62 +1346,6 @@
    "flag": "🇲🇱",
    "region": "Sub-Saharan Africa",
    "baseline": 4.62,
-   "watch": []
-  },
-  {
-   "title": "Helen Haines live updates: Helen Haines loses leg after alleged attack outside electorate office",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-   "time": "2026-10-20T03:29:50+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "CAR",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T03:45:59.992825+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "06a051ad1e64",
-   "flag": "🇨🇫",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.61,
-   "watch": []
-  },
-  {
-   "title": "Why terrorism laws stopped Sally Rooney selling books in the UK – podcast",
-   "summary": "",
-   "url": "https://www.theguardian.com/news/audio/2026/oct/20/why-terrorism-laws-stopped-sally-rooney-selling-books-in-the-uk-podcast",
-   "time": "2026-10-20T02:00:12+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "United Kingdom",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/news/audio/2026/oct/20/why-terrorism-laws-stopped-sally-rooney-selling-books-in-the-uk-podcast",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-20T03:45:59.992825+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4a3be1e60bd1",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
    "watch": []
   },
   {
@@ -1319,6 +1606,146 @@
    "watch": []
   },
   {
+   "title": "General Staff: Russia has lost 1,576,600 troops in Ukraine since Feb. 24, 2022",
+   "summary": "",
+   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-576-600-troops-in-ukraine-since-feb-24-2022/",
+   "time": "2026-10-24T06:11:44+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-576-600-troops-in-ukraine-since-feb-24-2022/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "ac441874854a",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "M5.1 earthquake, 217 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k1",
+   "time": "2026-10-24T04:49:21.707000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.8521,
+   "lon": 165.4673,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k1",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "785c92fed78a",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "Zelensky 'maybe not such a big humanitarian as Putin,' he quips as Ukraine's relations with Trump unravel",
+   "summary": "",
+   "url": "https://kyivindependent.com/zelensky-maybe-not-such-a-big-humanitarian-as-putin-he-quips-as-ukraines-relations-with-trump-unravel/",
+   "time": "2026-10-24T02:28:06+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/zelensky-maybe-not-such-a-big-humanitarian-as-putin-he-quips-as-ukraines-relations-with-trump-unravel/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "91de12a337a6",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Iran war live: Saudi Arabia downs Houthi ballistic missile targeting Riyadh",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+   "time": "2026-10-24T00:00:00+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Saudi Arabia",
+   "city": "Riyadh",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b73d5c04f236",
+   "flag": "🇸🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
+   "time": "2026-10-23T23:10:54+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Taiwan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "46eaff94a1d2",
+   "flag": "🇹🇼",
+   "region": "East & SE Asia",
+   "baseline": 1.19,
+   "watch": []
+  },
+  {
    "title": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
    "summary": "",
    "url": "https://www.france24.com/en/americas/20261023-trump-says-us-may-launch-another-little-epic-fury-attack-iran",
@@ -1344,6 +1771,34 @@
    "flag": "🇮🇷",
    "region": "Middle East & N. Africa",
    "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
+   "time": "2026-10-23T20:02:21+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7b7b12b851ef",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
    "watch": []
   },
   {
@@ -3238,39 +3693,6 @@
    "watch": []
   },
   {
-   "title": "France Protests : India issues advisory for its citizens",
-   "summary": "",
-   "url": "https://www.siasat.com/france-protests-india-issues-advisory-for-its-citizens-3562256/",
-   "time": "2026-10-22T04:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "siasat.com (via GDELT)",
-     "url": "https://www.siasat.com/france-protests-india-issues-advisory-for-its-citizens-3562256/",
-     "tier": "C"
-    },
-    {
-     "name": "tribuneindia.com (via GDELT)",
-     "url": "https://www.tribuneindia.com/news/world/indian-embassy-issues-safety-advisory-for-citizens-in-france-amid-unrest-local-curfews/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C2",
-   "corroboration": 2,
-   "id": "acfa5417e55d",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
    "summary": "",
    "url": "https://isp.netscape.com:443/news/world/story/0001/20261022/822efd292abcd7caa13cf085956f93cc",
@@ -3321,39 +3743,6 @@
    "flag": "🇭🇹",
    "region": "Latin America & Caribbean",
    "baseline": 4.53,
-   "watch": []
-  },
-  {
-   "title": "Exercise due caution : India warns citizens in France as violent protests prompt local curfews",
-   "summary": "",
-   "url": "https://www.businesstoday.in/india/story/exercise-due-caution-india-warns-citizens-in-france-as-violent-protests-prompt-local-curfews-562939-2026-10-22",
-   "time": "2026-10-22T03:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "businesstoday.in (via GDELT)",
-     "url": "https://www.businesstoday.in/india/story/exercise-due-caution-india-warns-citizens-in-france-as-violent-protests-prompt-local-curfews-562939-2026-10-22",
-     "tier": "C"
-    },
-    {
-     "name": "thehindu.com (via GDELT)",
-     "url": "https://www.thehindu.com/news/national/india-advises-caution-for-its-nationals-in-france-amid-unrest/article71610003.ece",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C2",
-   "corroboration": 2,
-   "id": "91d1476b27c9",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -4125,90 +4514,6 @@
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
-   "summary": "",
-   "url": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
-   "time": "2026-10-21T05:43:24+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-21T10:08:59.221435+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c9f33ed449d3",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
-   "summary": "",
-   "url": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
-   "time": "2026-10-21T05:00:02+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Iran",
-   "city": "Tehran",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-21T05:08:48.615909+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "0677ecf68a3a",
-   "flag": "🇮🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.58,
-   "watch": []
-  },
-  {
-   "title": "Russia releases US citizen accused of fighting for Ukraine, Putin says during Witkoff meeting",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky",
-   "time": "2026-10-21T04:29:24+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Russia",
-   "city": "Saint Petersburg",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-21T10:08:59.221435+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "52c48d7b3ec1",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
    "watch": []
   },
   {
@@ -5001,97 +5306,255 @@
    "watch": []
   },
   {
-   "title": "Exclusive: Watchdog lists ships carrying Russian gas, blasts Trump sanctions waiver",
+   "title": "France prepares for day of protest a week after nationwide riots",
    "summary": "",
-   "url": "https://kyivindependent.com/exclusive-watchdog-names-ships-carrying-russian-gas-blasts-trump-sanctions-waiver/",
-   "time": "2026-10-17T06:13:18+00:00",
-   "tier": "C",
-   "category": "political",
-   "country": "Russia",
+   "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-24T06:19:46+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/exclusive-watchdog-names-ships-carrying-russian-gas-blasts-trump-sanctions-waiver/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-17T07:58:44.644619+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "47016910494e",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Trump puts on hold new Russia sanctions he signed into law",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
-   "time": "2026-10-17T04:45:03+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-17T07:58:44.644619+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "2a43882303a5",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Trump waives latest Russia sanctions amid growing Ukraine-US tensions",
-   "summary": "",
-   "url": "https://kyivindependent.com/trump-waives-latest-russia-sanctions-amid-growing-ukraine-us-tensions/",
-   "time": "2026-10-17T02:31:15+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Russia",
-   "city": "Moscow",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/trump-waives-latest-russia-sanctions-amid-growing-ukraine-us-tensions/",
-     "tier": "C"
-    },
     {
      "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
+     "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-17T03:18:52.227457+00:00",
-   "confidence": "B1",
-   "corroboration": 3,
-   "id": "a0a5cf00c614",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8095a4dfe7e7",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Rally 6 Cities North of Portugal : Lancia Corse HF punta al successo Team",
+   "summary": "",
+   "url": "https://www.affaritaliani.it/motori/rally-6-cities-north-of-portugal-lancia-corse-hf-punta-al-successo-team.html",
+   "time": "2026-10-24T05:30:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Portugal",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "affaritaliani.it (via GDELT)",
+     "url": "https://www.affaritaliani.it/motori/rally-6-cities-north-of-portugal-lancia-corse-hf-punta-al-successo-team.html",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "aed9baf0dbe2",
+   "flag": "🇵🇹",
+   "region": "Western Europe",
+   "baseline": 1.0,
+   "watch": []
+  },
+  {
+   "title": "French police deploy in big numbers and Paris shuts major museums ahead of new protests",
+   "summary": "",
+   "url": "https://www.france24.com/en/france/20261024-french-police-deploy-in-big-numbers-and-paris-shuts-major-museums-ahead-of-new-protests",
+   "time": "2026-10-24T05:27:48+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261024-french-police-deploy-in-big-numbers-and-paris-shuts-major-museums-ahead-of-new-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ae60d718226c",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
+   "summary": "",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+   "time": "2026-10-24T05:00:24+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Israel",
+   "city": "Tel Aviv",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e1cc28600668",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Live: Hundreds of protests expected in France amid high tensions and heavy police presence",
+   "summary": "",
+   "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
+   "time": "2026-10-24T04:59:58+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4fba87ed660b",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in South Africa",
+   "summary": "On 20/10/2026, a forest fire started in South Africa, until 23/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033131",
+   "time": "2026-10-24T03:05:06+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "South Africa",
+   "city": null,
+   "lat": -24.288485117461363,
+   "lon": 29.092620481180727,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033131",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "eb963c928f9b",
+   "flag": "🇿🇦",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.02,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Mauritania, Mali",
+   "summary": "On 23/10/2026, a forest fire started in Mauritania, Mali, until 23/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033101",
+   "time": "2026-10-24T03:00:44+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Mauritania",
+   "city": null,
+   "lat": 15.729284056536907,
+   "lon": -5.951270425159321,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033101",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "dc1563c4203a",
+   "flag": "🇲🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 3.6,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, 40 thousand in MMI IV.",
+   "summary": "On 10/24/2026 2:31:28 AM, an earthquake occurred in Vanuatu potentially affecting 40 thousand in MMI IV. The earthquake had Magnitude 6.9M, Depth:10km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573515",
+   "time": "2026-10-24T02:40:23+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.0558,
+   "lon": 165.5455,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573515",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3e2a54942b16",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+   "time": "2026-10-24T02:22:32+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Taiwan",
+   "city": "Taipei",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0f655dccfce0",
+   "flag": "🇹🇼",
+   "region": "East & SE Asia",
+   "baseline": 1.19,
    "watch": []
   },
   {
@@ -5179,6 +5642,34 @@
    "watch": []
   },
   {
+   "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-24T00:05:43+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "Kenya",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "1fb744e8e2b2",
+   "flag": "🇰🇪",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.97,
+   "watch": []
+  },
+  {
    "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
    "summary": "",
    "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
@@ -5260,6 +5751,62 @@
    "flag": "🇹🇼",
    "region": "East & SE Asia",
    "baseline": 1.19,
+   "watch": []
+  },
+  {
+   "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-23T23:09:16+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a92605a41f7f",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-23T23:08:23+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Serbia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "673be0434db0",
+   "flag": "🇷🇸",
+   "region": "Eastern Europe",
+   "baseline": 2.13,
    "watch": []
   },
   {
@@ -5400,34 +5947,6 @@
    "flag": "🇨🇫",
    "region": "Sub-Saharan Africa",
    "baseline": 4.61,
-   "watch": []
-  },
-  {
-   "title": "M5.1 earthquake, 203 km NW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h7",
-   "time": "2026-10-23T22:05:10.711000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.8764,
-   "lon": 165.6172,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h7",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-23T23:12:59.565484+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "5b42c77fb5f7",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
    "watch": []
   },
   {
@@ -6186,6 +6705,34 @@
    "flag": "🇯🇴",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 215 km NE of Nagqu, China",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4df",
+   "time": "2026-10-23T14:14:04.311000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "China",
+   "city": null,
+   "lat": 32.5717,
+   "lon": 93.9443,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4df",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T06:29:36.314299+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "19065f8b5c79",
+   "flag": "🇨🇳",
+   "region": "East & SE Asia",
+   "baseline": 2.75,
    "watch": []
   },
   {
@@ -10854,90 +11401,6 @@
    "watch": []
   },
   {
-   "title": "The world is $365 trillion in debt, and the interest bill is climbing",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
-   "time": "2026-10-22T05:59:52+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T11:17:13.356778+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "169db1ea90af",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "‘Stupid talk’: France rejects Trump’s attempt to blame unrest on migration",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/22/stupid-talk-france-rejects-trumps-attempt-to-blame-unrest-on-migration?traffic_source=rss",
-   "time": "2026-10-22T05:58:52+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/22/stupid-talk-france-rejects-trumps-attempt-to-blame-unrest-on-migration?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T11:17:13.356778+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "bc355260b267",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
-   "time": "2026-10-22T05:36:33+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Haiti",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c2943201356b",
-   "flag": "🇭🇹",
-   "region": "Latin America & Caribbean",
-   "baseline": 4.53,
-   "watch": []
-  },
-  {
    "title": "M4.8 earthquake, 86 km S of Kokopo, Papua New Guinea",
    "summary": "Depth 57 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u417",
@@ -10963,258 +11426,6 @@
    "flag": "🇵🇬",
    "region": "East & SE Asia",
    "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "Iit Bombay Protest : 21 IIT - Bombay faculty members condemn unprecedented police action against protesting students , seek explanation from institute director | Mumbai News",
-   "summary": "",
-   "url": "https://timesofindia.indiatimes.com/city/mumbai/21-iit-bombay-faculty-members-condemn-unprecedented-police-action-against-protesting-students-seek-explanation-from-institute-director/articleshow/135099097.cms",
-   "time": "2026-10-22T05:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "India",
-   "city": "Mumbai",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "timesofindia.indiatimes.com (via GDELT)",
-     "url": "https://timesofindia.indiatimes.com/city/mumbai/21-iit-bombay-faculty-members-condemn-unprecedented-police-action-against-protesting-students-seek-explanation-from-institute-director/articleshow/135099097.cms",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "a63bf8f1acaa",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "Indian activists released after agreeing to halt protests at restricted Delhi venue",
-   "summary": "",
-   "url": "https://asianews.network/indian-activists-released-after-agreeing-to-halt-protests-at-restricted-delhi-venue/",
-   "time": "2026-10-22T05:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "India",
-   "city": "Delhi",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "asianews.network (via GDELT)",
-     "url": "https://asianews.network/indian-activists-released-after-agreeing-to-halt-protests-at-restricted-delhi-venue/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "7755e11724ec",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
-   "summary": "",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
-   "time": "2026-10-22T05:00:08+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "United Kingdom",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "2656bb553dd2",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
-   "watch": []
-  },
-  {
-   "title": "Fijian tourist recounts Paris protest aftermath",
-   "summary": "",
-   "url": "https://fijisun.com.fj:443/news/nation/fijian-tourist-recounts-paris-protest-aftermath",
-   "time": "2026-10-22T05:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "fijisun.com.fj (via GDELT)",
-     "url": "https://fijisun.com.fj:443/news/nation/fijian-tourist-recounts-paris-protest-aftermath",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "fafb2ded7966",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Can a Student - Led Protest Movement Actually Prevail Against Serbia Electoral Autocracy ?",
-   "summary": "",
-   "url": "https://www.dailykos.com/stories/2026/10/21/800115852/community/can-a-student-led-protest-movement/",
-   "time": "2026-10-22T04:45:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Serbia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "dailykos.com (via GDELT)",
-     "url": "https://www.dailykos.com/stories/2026/10/21/800115852/community/can-a-student-led-protest-movement/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "e34d9e9fe6b2",
-   "flag": "🇷🇸",
-   "region": "Eastern Europe",
-   "baseline": 2.13,
-   "watch": []
-  },
-  {
-   "title": "Austrian , Swiss women kidnapped in Niger are freed report",
-   "summary": "",
-   "url": "https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419",
-   "time": "2026-10-22T04:45:00+00:00",
-   "tier": "C",
-   "category": "crime",
-   "country": "Niger",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "dw.com (via GDELT)",
-     "url": "https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "e51703337130",
-   "flag": "🇳🇪",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.62,
-   "watch": []
-  },
-  {
-   "title": "France riots , India protests linked to same global network : Report",
-   "summary": "",
-   "url": "https://www.moneycontrol.com/world/france-riots-india-protests-linked-to-same-global-network-report-article-14057295.html",
-   "time": "2026-10-22T04:45:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "moneycontrol.com (via GDELT)",
-     "url": "https://www.moneycontrol.com/world/france-riots-india-protests-linked-to-same-global-network-report-article-14057295.html",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "fff00f880ac9",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Thailand Issues Travel Warning for European Travel Amid Riots",
-   "summary": "",
-   "url": "https://www.chiangraitimes.com/thailand-news/thailand-travel-warning-europe/",
-   "time": "2026-10-22T04:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Thailand",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "chiangraitimes.com (via GDELT)",
-     "url": "https://www.chiangraitimes.com/thailand-news/thailand-travel-warning-europe/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "b398fab1736a",
-   "flag": "🇹🇭",
-   "region": "East & SE Asia",
-   "baseline": 2.27,
-   "watch": []
-  },
-  {
-   "title": "El Salvador launches operation to rescue hostages from Haitian gangs President Bukele threatens to escalate",
-   "summary": "",
-   "url": "https://www.theblaze.com/news/el-salvador-threat-haiti-hostages",
-   "time": "2026-10-22T03:45:00+00:00",
-   "tier": "C",
-   "category": "crime",
-   "country": "Brazil",
-   "city": "Salvador",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "theblaze.com (via GDELT)",
-     "url": "https://www.theblaze.com/news/el-salvador-threat-haiti-hostages",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "6b46caeac76b",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
    "watch": []
   },
   {
@@ -11246,90 +11457,6 @@
    "watch": []
   },
   {
-   "title": "INDIA bloc plans next round of protests against CEC Gyanesh Kumar in early November",
-   "summary": "",
-   "url": "https://www.hindustantimes.com/india-news/india-group-plans-next-round-of-protests-against-cec-gyanesh-kumar-in-early-november-101792634590888.html",
-   "time": "2026-10-22T03:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "hindustantimes.com (via GDELT)",
-     "url": "https://www.hindustantimes.com/india-news/india-group-plans-next-round-of-protests-against-cec-gyanesh-kumar-in-early-november-101792634590888.html",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "37967068ad51",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "‘Almost looks fake’: two Sydney beaches closed after whale carcass washes up",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass",
-   "time": "2026-10-22T03:15:41+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Australia",
-   "city": "Sydney",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "7589181be387",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "Rioting does not deter big - ticket sales at Art Basel Paris",
-   "summary": "",
-   "url": "https://www.theartnewspaper.com/2026/10/21/riots-do-not-deter-big-ticket-sales-at-art-basel-paris",
-   "time": "2026-10-22T03:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "theartnewspaper.com (via GDELT)",
-     "url": "https://www.theartnewspaper.com/2026/10/21/riots-do-not-deter-big-ticket-sales-at-art-basel-paris",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "e2d1cdfd646c",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Green forest fire notification in South Sudan",
    "summary": "On 16/10/2026, a forest fire started in South Sudan, until 21/10/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033031",
@@ -11355,90 +11482,6 @@
    "flag": "🇸🇩",
    "region": "Middle East & N. Africa",
    "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "Live: Paris bans protests after violent unrest as Macron takes swipe at Trump",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump",
-   "time": "2026-10-22T02:28:48+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d74ba47931f3",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Live: France will ban 'illegitimate' protests in coming days, says Macron",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump",
-   "time": "2026-10-22T02:28:48+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T11:17:13.356778+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b5b3102d57df",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – as it happened",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-   "time": "2026-10-22T02:01:24+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Israel",
-   "city": "Jerusalem",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3e7fffa595de",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
    "watch": []
   },
   {
@@ -14228,34 +14271,6 @@
    "watch": []
   },
   {
-   "title": "Green flood alert in Uruguay",
-   "summary": "On 13/10/2026, a flood started in Uruguay, lasting until 15/10/2026 (last update). The flood caused 0 deaths and 108 displaced .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104238",
-   "time": "2026-10-19T06:24:23+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Uruguay",
-   "city": null,
-   "lat": -32.2702086,
-   "lon": -58.0837759,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104238",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "746e836aa677",
-   "flag": "🇺🇾",
-   "region": "Latin America & Caribbean",
-   "baseline": 1.45,
-   "watch": []
-  },
-  {
    "title": "DR Congo: Ebola outbreak deepens mental health crisis amid stigma and conflict",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/19/dr-congo-ebola-outbreak-deepens-mental-health-crisis-amid-stigma-and-conflict/",
@@ -14284,90 +14299,6 @@
    "watch": []
   },
   {
-   "title": "Green flood alert in Nicaragua",
-   "summary": "On 16/10/2026, a flood started in Nicaragua, lasting until 18/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104237",
-   "time": "2026-10-19T06:05:04+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Nicaragua",
-   "city": null,
-   "lat": 14.0282255,
-   "lon": -83.3805727,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104237",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "025638cff40f",
-   "flag": "🇳🇮",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.26,
-   "watch": []
-  },
-  {
-   "title": "Green flood alert in El Salvador",
-   "summary": "On 15/10/2026, a flood started in El Salvador, lasting until 17/10/2026 (last update). The flood caused 0 deaths and 1 displaced .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104236",
-   "time": "2026-10-19T06:04:57+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Brazil",
-   "city": null,
-   "lat": 13.7307422,
-   "lon": -88.8834422,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104236",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "924931eaf25d",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
-   "watch": []
-  },
-  {
-   "title": "Green flood alert in Spain",
-   "summary": "On 17/10/2026, a flood started in Spain, lasting until 19/10/2026 (last update). The flood caused 0 deaths and 2 displaced .",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104235",
-   "time": "2026-10-19T06:04:30+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Spain",
-   "city": null,
-   "lat": 41.3825802,
-   "lon": 2.177073,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104235",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "c6acc35d0b82",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Seabird numbers bounce back in Solent region after 2022 avian flu wipeout",
    "summary": "",
    "url": "https://www.theguardian.com/environment/2026/oct/19/seabird-numbers-bounce-back-solent-region-avian-flu-rspb",
@@ -14393,34 +14324,6 @@
    "flag": "🇬🇧",
    "region": "Western Europe",
    "baseline": 1.29,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, 68 km WSW of San Juan del Sur, Nicaragua",
-   "summary": "Depth 44 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3a8",
-   "time": "2026-10-19T05:18:36.003000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Nicaragua",
-   "city": null,
-   "lat": 11.1229,
-   "lon": -86.4815,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3a8",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "f9839c765fbb",
-   "flag": "🇳🇮",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.26,
    "watch": []
   },
   {
