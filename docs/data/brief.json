@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-23T23:12:59.565484+00:00",
+ "generated": "2026-10-24T01:38:42.098561+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 102,
-  "3": 34,
+  "2": 104,
+  "3": 33,
   "4": 16,
   "5": 3
  },
@@ -127,6 +127,16 @@
     "time": "2026-10-23T04:53:08+00:00"
    },
    {
+    "id": "012417b35c64",
+    "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-24T00:27:21+00:00"
+   },
+   {
     "id": "c937ac1c4ba7",
     "title": "Green forest fire notification in Senegal",
     "country": "Senegal",
@@ -165,16 +175,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-23T20:31:50+00:00"
-   },
-   {
-    "id": "2d6546361fbf",
-    "title": "Green forest fire notification in Tanzania",
-    "country": "Tanzania",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T19:22:31+00:00"
    }
   ],
   "Western Europe": [
@@ -425,6 +425,16 @@
     "time": "2026-10-23T05:16:37+00:00"
    },
    {
+    "id": "7ee57e4eca2c",
+    "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+    "country": "Taiwan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-23T23:10:54+00:00"
+   },
+   {
     "id": "c0ecc7cc9a9c",
     "title": "M4.6 earthquake, 73 km ENE of Kinablangan, Philippines",
     "country": "Philippines",
@@ -473,19 +483,71 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-23T09:09:36.956000+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "cb080f98e1c3",
+    "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+    "country": "Cuba",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-24T00:30:02+00:00"
    },
    {
-    "id": "f05f7c060176",
-    "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-    "country": "Taiwan",
+    "id": "68939b3b593e",
+    "title": "Martinique",
+    "country": "Martinique",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T15:16:42+00:00"
+   },
+   {
+    "id": "5d5f9f44cb3a",
+    "title": "President launches mission to rescue four soldiers kidnapped in Haiti",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-23T06:00:00+00:00"
+   },
+   {
+    "id": "7c8d588b5cca",
+    "title": "Venezuelans demand elections in first national protest in nearly two years - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+    "country": "Dominican Republic",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-23T04:45:00+00:00"
+   },
+   {
+    "id": "f8a7405262d5",
+    "title": "M4.5 earthquake, 58 km SW of Atocha, Bolivia",
+    "country": "Bolivia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T02:45:41.183000+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "a6a8896a32ea",
+    "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
+    "country": "Australia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-23T08:45:58+00:00"
-   }
-  ],
-  "Oceania": [
+    "time": "2026-10-23T23:26:05+00:00"
+   },
    {
     "id": "415603ff199b",
     "title": "M4.9 earthquake, 115 km NE of Norsup, Vanuatu",
@@ -567,68 +629,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-23T02:44:35+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "68939b3b593e",
-    "title": "Martinique",
-    "country": "Martinique",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T15:16:42+00:00"
-   },
-   {
-    "id": "5d5f9f44cb3a",
-    "title": "President launches mission to rescue four soldiers kidnapped in Haiti",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-23T06:00:00+00:00"
-   },
-   {
-    "id": "7c8d588b5cca",
-    "title": "Venezuelans demand elections in first national protest in nearly two years - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-    "country": "Dominican Republic",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-23T04:45:00+00:00"
-   },
-   {
-    "id": "f8a7405262d5",
-    "title": "M4.5 earthquake, 58 km SW of Atocha, Bolivia",
-    "country": "Bolivia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T02:45:41.183000+00:00"
-   },
-   {
-    "id": "7217ad07b217",
-    "title": "M4.5 earthquake, 102 km W of San Antonio de los Cobres, Argentina",
-    "country": "Argentina",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T00:09:35.519000+00:00"
-   },
-   {
-    "id": "b81a60a934db",
-    "title": "Green forest fire notification in Brazil",
-    "country": "Brazil",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-22T23:14:01+00:00"
    }
   ]
  }
