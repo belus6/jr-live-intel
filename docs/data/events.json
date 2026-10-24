@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-24T20:21:15.337297+00:00",
+ "generated": "2026-10-24T22:39:53.452008+00:00",
  "sample": false,
- "count": 559,
+ "count": 553,
  "events": [
   {
    "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
@@ -147,6 +147,34 @@
    "flag": "🇯🇴",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 195 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ib",
+   "time": "2026-10-24T00:27:44.940000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.9871,
+   "lon": 165.6177,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ib",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T22:39:53.452008+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e891bcadd1d5",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -1838,6 +1866,62 @@
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
    "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "Deadly Russian drone strike targets apartment in Dnipropetrovsk Oblast, killing 3, injuring 12",
+   "summary": "",
+   "url": "https://kyivindependent.com/deadly-russian-drone-strike-targets-apartment-in-dnipropetrovsk-oblast-killing-3-injuring-12/",
+   "time": "2026-10-24T21:42:59+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/deadly-russian-drone-strike-targets-apartment-in-dnipropetrovsk-oblast-killing-3-injuring-12/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-24T22:39:53.452008+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "ba7f7d73417b",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+   "time": "2026-10-24T21:08:51+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Saudi Arabia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T22:39:53.452008+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "cf8e429bd24b",
+   "flag": "🇸🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
    "watch": []
   },
   {
@@ -4553,202 +4637,6 @@
    "watch": []
   },
   {
-   "title": "Russian ballistic missiles rock Kyiv in late-night attack, injuring 6",
-   "summary": "",
-   "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
-   "time": "2026-10-21T22:22:41+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-21T22:35:45.530454+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "f9b9757ee58e",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Russian ballistic missile attack on Kyiv damages ambulances, kills 1, injures 22",
-   "summary": "",
-   "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
-   "time": "2026-10-21T22:22:41+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "eb86b2eb5728",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Deadly Russian missile strike on Kyiv reportedly used cluster warheads, hours after Putin-Witkoff meeting",
-   "summary": "",
-   "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
-   "time": "2026-10-21T22:22:41+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T11:17:13.356778+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "2e0b298a4d6b",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Deadly Russian missile strike on Kyiv used cluster warheads, hours after Putin-Witkoff meeting",
-   "summary": "",
-   "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
-   "time": "2026-10-21T22:22:41+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T15:57:46.880551+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "4224be5ba358",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Yemen: Tanks fire as fighting erupts on the outskirts of Taiz",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/21/yemen-tanks-fire-as-fighting-erupts-on-the-outskirts-of-taiz/",
-   "time": "2026-10-21T21:33:10+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/21/yemen-tanks-fire-as-fighting-erupts-on-the-outskirts-of-taiz/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-21T22:35:45.530454+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "4b2a240aed8b",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
-   "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-21T21:27:41+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T15:57:46.880551+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "36a61fcc6ac7",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "El Salvador Haiti Rescue Bid for 4 Troops",
-   "summary": "",
-   "url": "https://www.riotimesonline.com/el-salvador-haiti-rescue-4-troops-2026/",
-   "time": "2026-10-21T20:45:00+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Brazil",
-   "city": "Salvador",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "riotimesonline.com (via GDELT)",
-     "url": "https://www.riotimesonline.com/el-salvador-haiti-rescue-4-troops-2026/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-21T22:35:45.530454+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "eb4b5dde0c71",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
-   "watch": []
-  },
-  {
    "title": "Republicans push back on Donald Trump’s wavering support for Ukraine",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia",
@@ -5143,6 +5031,202 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Protests roil France once again as police seek to quell violence",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
+   "time": "2026-10-24T21:21:00+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T22:39:53.452008+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3432c2a2d2bb",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+   "time": "2026-10-24T21:10:23+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Brazil",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T22:39:53.452008+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f3835df0e646",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-24T21:09:27+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T22:39:53.452008+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7aa2e0db8acd",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "'The marches went well' – French government on demonstrations a week after looting and violence",
+   "summary": "",
+   "url": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
+   "time": "2026-10-24T21:01:56+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T22:39:53.452008+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "394b212d6173",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Violent clashes as Albanian government cracks down on protests",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
+   "time": "2026-10-24T20:39:08+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T22:39:53.452008+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4e6838dc8f49",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "M5.3 earthquake, 101 km SSE of Vilyuchinsk, Russia",
+   "summary": "Depth 70 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pa",
+   "time": "2026-10-24T20:35:04.576000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Russia",
+   "city": null,
+   "lat": 52.1565,
+   "lon": 159.1963,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pa",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T22:39:53.452008+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "7809d0536479",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Hundreds of thousands march in France as protests take place across Europe – as it happened",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+   "time": "2026-10-24T20:22:18+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Italy",
+   "city": "Milan",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T22:39:53.452008+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f011d656d5b6",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
    "watch": []
   },
   {
@@ -6099,6 +6183,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "62ff7ff88b7c",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
+   "watch": []
+  },
+  {
+   "title": "Hundreds of Italian soldiers deployed as thousands protest in Milan",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+   "time": "2026-10-24T15:05:58+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Italy",
+   "city": "Milan",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-24T22:39:53.452008+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "297261a62473",
    "flag": "🇮🇹",
    "region": "Western Europe",
    "baseline": 1.48,
@@ -7480,6 +7592,34 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 209 km ENE of Nagqu, China",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
+   "time": "2026-10-24T00:07:56.787000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "China",
+   "city": null,
+   "lat": 32.5271,
+   "lon": 93.9004,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T22:39:53.452008+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "8c2599aac6fc",
+   "flag": "🇨🇳",
+   "region": "East & SE Asia",
+   "baseline": 2.75,
    "watch": []
   },
   {
@@ -10752,118 +10892,6 @@
    "watch": []
   },
   {
-   "title": "Green youth group calls for students and young worker to join Paris - style riots",
-   "summary": "",
-   "url": "https://www.dailymail.com/news/article-16230879/Green-calls-students-young-workers-join-Paris-style-riots.html",
-   "time": "2026-10-22T22:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "dailymail.com (via GDELT)",
-     "url": "https://www.dailymail.com/news/article-16230879/Green-calls-students-young-workers-join-Paris-style-riots.html",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "70de6e359264",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Commentary : French students are showing us what protest looks like in the age of viral spectacle",
-   "summary": "",
-   "url": "https://www.channelnewsasia.com/commentary/france-student-protests-paris-6482091",
-   "time": "2026-10-22T22:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "channelnewsasia.com (via GDELT)",
-     "url": "https://www.channelnewsasia.com/commentary/france-student-protests-paris-6482091",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "de2052c56046",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Venezuela faces a deepening energy crisis as protests grow",
-   "summary": "",
-   "url": "https://globalvoices.org/2026/10/22/venezuela-faces-a-deepening-energy-crisis-as-protests-grow/",
-   "time": "2026-10-22T22:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Venezuela",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "globalvoices.org (via GDELT)",
-     "url": "https://globalvoices.org/2026/10/22/venezuela-faces-a-deepening-energy-crisis-as-protests-grow/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "c33724b04e68",
-   "flag": "🇻🇪",
-   "region": "Latin America & Caribbean",
-   "baseline": 4.49,
-   "watch": []
-  },
-  {
-   "title": "Baku Hijab Ban Sparks Protests in Azerbaijan and Creates Problems With Türkiye",
-   "summary": "",
-   "url": "https://jamestown.org/bakus-hijab-ban-sparks-protests-in-azerbaijan-and-creates-problems-with-turkiye/",
-   "time": "2026-10-22T22:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Azerbaijan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "jamestown.org (via GDELT)",
-     "url": "https://jamestown.org/bakus-hijab-ban-sparks-protests-in-azerbaijan-and-creates-problems-with-turkiye/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "d5f993eca5ff",
-   "flag": "🇦🇿",
-   "region": "Eastern Europe",
-   "baseline": 2.84,
-   "watch": []
-  },
-  {
    "title": "M4.6 earthquake, 49 km S of Ollagüe, Chile",
    "summary": "Depth 142 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u47n",
@@ -10920,34 +10948,6 @@
    "watch": []
   },
   {
-   "title": "We Will Not Be Soldiers for Saudi : Turkish Protesters Clash With Security Forces",
-   "summary": "",
-   "url": "https://www.islamicinvitationturkey.com/we-will-not-be-soldiers-for-saudis-turkish-protesters-clash-with-security-forces/",
-   "time": "2026-10-22T21:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Saudi Arabia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "islamicinvitationturkey.com (via GDELT)",
-     "url": "https://www.islamicinvitationturkey.com/we-will-not-be-soldiers-for-saudis-turkish-protesters-clash-with-security-forces/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "674c076f3257",
-   "flag": "🇸🇦",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
-   "watch": []
-  },
-  {
    "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
@@ -10973,34 +10973,6 @@
    "flag": "🇨🇳",
    "region": "East & SE Asia",
    "baseline": 2.75,
-   "watch": []
-  },
-  {
-   "title": "Watch : Spanish Far - Left Rioters Crash Right - Wing Rally",
-   "summary": "",
-   "url": "https://www.breitbart.com/europe/2026/10/22/watch-spanish-far-left-rioters-try-to-crash-vox-party-rally-in-a-coruna-stage-night-of-chaos/",
-   "time": "2026-10-22T21:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Spain",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "breitbart.com (via GDELT)",
-     "url": "https://www.breitbart.com/europe/2026/10/22/watch-spanish-far-left-rioters-try-to-crash-vox-party-rally-in-a-coruna-stage-night-of-chaos/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "677cf03911ad",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -11057,158 +11029,6 @@
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "French authorities seek to ban or curb fresh protests",
-   "summary": "",
-   "url": "https://www.channelnewsasia.com/world/france-weekend-protests-macron-ban-security-police-6483456",
-   "time": "2026-10-22T21:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "channelnewsasia.com (via GDELT)",
-     "url": "https://www.channelnewsasia.com/world/france-weekend-protests-macron-ban-security-police-6483456",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "38939d09d190",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-   "summary": "",
-   "url": "https://www.wcvb.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-   "time": "2026-10-22T21:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Italy",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "wcvb.com (via GDELT)",
-     "url": "https://www.wcvb.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-     "tier": "C"
-    },
-    {
-     "name": "mykxlg.com (via GDELT)",
-     "url": "https://www.mykxlg.com/news/world/millions-in-cheese-revenue-lost-as-protest-torpedoes-italys-buffalo-mozzarella-output/article_57071878-3d49-5b2b-865f-a7c3091771d0.html",
-     "tier": "C"
-    },
-    {
-     "name": "koat.com (via GDELT)",
-     "url": "https://www.koat.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-     "tier": "C"
-    },
-    {
-     "name": "wmtw.com (via GDELT)",
-     "url": "https://www.wmtw.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-     "tier": "C"
-    },
-    {
-     "name": "wapt.com (via GDELT)",
-     "url": "https://www.wapt.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-     "tier": "C"
-    },
-    {
-     "name": "sandiegouniontribune.com (via GDELT)",
-     "url": "https://www.sandiegouniontribune.com/2026/10/22/italy-mozzarella-protest/",
-     "tier": "C"
-    },
-    {
-     "name": "wgal.com (via GDELT)",
-     "url": "https://www.wgal.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-     "tier": "C"
-    },
-    {
-     "name": "wvtm13.com (via GDELT)",
-     "url": "https://www.wvtm13.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-     "tier": "C"
-    },
-    {
-     "name": "kcci.com (via GDELT)",
-     "url": "https://www.kcci.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "C1",
-   "corroboration": 9,
-   "id": "9cef43511194",
-   "flag": "🇮🇹",
-   "region": "Western Europe",
-   "baseline": 1.48,
-   "watch": []
-  },
-  {
-   "title": "More police to be deployed this weekend as French authorities attempt protest ban",
-   "summary": "",
-   "url": "https://www.sbs.com.au/news/article/french-authorities-seek-to-ban-or-curb-fresh-protests/s84lf5s7y",
-   "time": "2026-10-22T21:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "sbs.com.au (via GDELT)",
-     "url": "https://www.sbs.com.au/news/article/french-authorities-seek-to-ban-or-curb-fresh-protests/s84lf5s7y",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "80cae6302098",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Italy's trucker protests halt buffalo mozzarella production, cost producers €3m",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/business/20261022-italy-s-trucker-protests-halt-buffalo-mozzarella-production-cost-producers-%E2%82%AC3m",
-   "time": "2026-10-22T20:54:15+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Italy",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/business/20261022-italy-s-trucker-protests-halt-buffalo-mozzarella-production-cost-producers-%E2%82%AC3m",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "2c61ddb62a5a",
-   "flag": "🇮🇹",
-   "region": "Western Europe",
-   "baseline": 1.48,
    "watch": []
   },
   {
@@ -14247,34 +14067,6 @@
    "flag": "🇵🇬",
    "region": "East & SE Asia",
    "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "Spain floods kill four as torrential rain inundates eastern regions",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions",
-   "time": "2026-10-19T21:39:49+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Spain",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "1e4100645330",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
