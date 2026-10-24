@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-24T14:54:40.469282+00:00",
+ "generated": "2026-10-24T17:53:44.188647+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 78,
+  "2": 90,
   "3": 25,
-  "4": 15,
+  "4": 9,
   "5": 4
  },
  "watch_hits": [
@@ -17,6 +17,16 @@
  "regions": {
   "Middle East & N. Africa": [
    {
+    "id": "fce7707bb829",
+    "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+    "country": "Jordan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "B1",
+    "time": "2026-10-24T11:59:08+00:00"
+   },
+   {
     "id": "f0e19b9fe883",
     "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
     "country": "Jordan",
@@ -25,16 +35,6 @@
     "severity": 5,
     "confidence": "B1",
     "time": "2026-10-23T19:46:30+00:00"
-   },
-   {
-    "id": "fce7707bb829",
-    "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-    "country": "Jordan",
-    "city": null,
-    "category": "terrorism",
-    "severity": 5,
-    "confidence": "B2",
-    "time": "2026-10-24T11:59:08+00:00"
    },
    {
     "id": "27392c906699",
@@ -57,6 +57,16 @@
     "time": "2026-10-26T00:00:00+00:00"
    },
    {
+    "id": "f8249f9dae13",
+    "title": "Gunmen kill seven at church in Jordan",
+    "country": "Jordan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-24T16:15:00+00:00"
+   },
+   {
     "id": "f31bc0a7957e",
     "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
     "country": "Palestine",
@@ -77,24 +87,14 @@
     "time": "2026-10-24T10:33:52+00:00"
    },
    {
-    "id": "bf259b1f652c",
-    "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
-    "country": "Israel",
+    "id": "7beeb398903c",
+    "title": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+    "country": "Palestine",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-23T17:22:11+00:00"
-   },
-   {
-    "id": "8c5f05952c95",
-    "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
-    "country": "Jordan",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-23T15:59:36+00:00"
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-23T21:38:54+00:00"
    }
   ],
   "Oceania": [
@@ -129,6 +129,16 @@
     "time": "2026-10-24T04:49:21.707000+00:00"
    },
    {
+    "id": "c419c8ffc794",
+    "title": "M4.8 earthquake, 153 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T16:54:15.523000+00:00"
+   },
+   {
     "id": "3e2a54942b16",
     "title": "Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, 40 thousand in MMI IV.",
     "country": "Vanuatu",
@@ -159,17 +169,89 @@
     "time": "2026-10-23T22:42:51.088000+00:00"
    }
   ],
-  "Western Europe": [
+  "East & SE Asia": [
    {
-    "id": "b0ef1267f415",
-    "title": "🔴 Live: France’s Macron arrives in Trappes after ‘racist terrorist attack’",
-    "country": "France",
-    "city": "Paris",
+    "id": "00169d51b071",
+    "title": "The Anti - Terrorism Act of 2020 | The Manila Times",
+    "country": "Philippines",
+    "city": "Manila",
     "category": "terrorism",
     "severity": 4,
-    "confidence": "B2",
-    "time": "2026-10-23T17:08:51+00:00"
+    "confidence": "C4",
+    "time": "2026-10-24T17:15:00+00:00"
    },
+   {
+    "id": "46eaff94a1d2",
+    "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
+    "country": "Taiwan",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-23T23:10:54+00:00"
+   },
+   {
+    "id": "9cf89d56c886",
+    "title": "M4.7 earthquake, 72 km S of Basco, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T11:48:08.678000+00:00"
+   },
+   {
+    "id": "0f655759e76f",
+    "title": "Typhoon Champi batters Taiwan",
+    "country": "Taiwan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-24T10:33:04+00:00"
+   },
+   {
+    "id": "88db8632fcea",
+    "title": "M5.3 earthquake, 223 km ENE of Nagqu, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T08:39:53.139000+00:00"
+   },
+   {
+    "id": "c86a63c32ba4",
+    "title": "M4.9 earthquake, 41 km SSE of Kax, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T08:29:20.689000+00:00"
+   },
+   {
+    "id": "0f655dccfce0",
+    "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+    "country": "Taiwan",
+    "city": "Taipei",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-24T02:22:32+00:00"
+   },
+   {
+    "id": "7ee57e4eca2c",
+    "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+    "country": "Taiwan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-23T23:10:54+00:00"
+   }
+  ],
+  "Western Europe": [
    {
     "id": "d46f308137ba",
     "title": "Macron condemns racist terrorist attack in Paris suburb",
@@ -211,14 +293,24 @@
     "time": "2026-10-23T19:42:08+00:00"
    },
    {
-    "id": "91e57175a6a5",
-    "title": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
+    "id": "36ea7b7ac947",
+    "title": "Clashes erupt between protesters and police in France",
+    "country": "France",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-24T17:15:00+00:00"
+   },
+   {
+    "id": "773960393ec7",
+    "title": "🔴 French protests live: Police say 110,000 turn out for 'calm' Paris march amid reports of clashes in other cities",
     "country": "France",
     "city": "Paris",
-    "category": "terrorism",
-    "severity": 4,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-23T16:08:04+00:00"
+    "time": "2026-10-24T15:42:17+00:00"
    },
    {
     "id": "b2c9188b78ad",
@@ -243,24 +335,24 @@
   ],
   "Eastern Europe": [
    {
-    "id": "fc80adede58a",
-    "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+    "id": "a4516d8baee6",
+    "title": "What to know about the Melania Trump - brokered ceasefire in Russian - occupied Oleshky",
     "country": "Russia",
     "city": null,
     "category": "conflict",
-    "severity": 4,
-    "confidence": "B2",
-    "time": "2026-10-23T16:10:34+00:00"
+    "severity": 3,
+    "confidence": "C1",
+    "time": "2026-10-24T16:00:00+00:00"
    },
    {
-    "id": "643abf945462",
-    "title": "Europe faces threat of organised sabotage, terrorist attacks: Estonian FM Tsahkna",
-    "country": "Estonia",
+    "id": "8c2e4d5fb173",
+    "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+    "country": "Ukraine",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-23T14:55:15+00:00"
+    "time": "2026-10-24T15:47:20+00:00"
    },
    {
     "id": "d6628f27df2c",
@@ -353,98 +445,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-24T00:30:02+00:00"
-   },
-   {
-    "id": "68939b3b593e",
-    "title": "Martinique",
-    "country": "Martinique",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T15:16:42+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "46eaff94a1d2",
-    "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
-    "country": "Taiwan",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-23T23:10:54+00:00"
-   },
-   {
-    "id": "9cf89d56c886",
-    "title": "M4.7 earthquake, 72 km S of Basco, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T11:48:08.678000+00:00"
-   },
-   {
-    "id": "0f655759e76f",
-    "title": "Typhoon Champi batters Taiwan",
-    "country": "Taiwan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-24T10:33:04+00:00"
-   },
-   {
-    "id": "88db8632fcea",
-    "title": "M5.3 earthquake, 223 km ENE of Nagqu, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T08:39:53.139000+00:00"
-   },
-   {
-    "id": "c86a63c32ba4",
-    "title": "M4.9 earthquake, 41 km SSE of Kax, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T08:29:20.689000+00:00"
-   },
-   {
-    "id": "0f655dccfce0",
-    "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-    "country": "Taiwan",
-    "city": "Taipei",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-24T02:22:32+00:00"
-   },
-   {
-    "id": "7ee57e4eca2c",
-    "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
-    "country": "Taiwan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T23:10:54+00:00"
-   },
-   {
-    "id": "c0ecc7cc9a9c",
-    "title": "M4.6 earthquake, 73 km ENE of Kinablangan, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T21:41:04.400000+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -541,16 +541,6 @@
     "time": "2026-10-23T19:13:14+00:00"
    },
    {
-    "id": "f3e231dddb95",
-    "title": "Inside the legal design of America's Russia sanctions U-turn",
-    "country": "United States",
-    "city": "New York",
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-23T16:18:12+00:00"
-   },
-   {
     "id": "f2359cd2bc7d",
     "title": "Trump repeats false claim that other Dan Sullivan on Alaska ballot is ‘cheating’ during Florida rally - live",
     "country": "United States",
@@ -563,14 +553,14 @@
   ],
   "South Asia": [
    {
-    "id": "1ad988a2c3f8",
-    "title": "M4.6 earthquake, 91 km ESE of Tuensang, India",
+    "id": "a2c6b9c0f4ab",
+    "title": "If you are alive , you must show it : Hyderabad anti - SIR protest brings together people of all age groups",
     "country": "India",
-    "city": null,
-    "category": "hazard",
+    "city": "Hyderabad",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T17:06:25.116000+00:00"
+    "confidence": "C4",
+    "time": "2026-10-24T16:15:00+00:00"
    }
   ]
  }
