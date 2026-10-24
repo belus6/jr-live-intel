@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-24T11:30:21.119139+00:00",
+ "generated": "2026-10-24T14:54:40.469282+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 88,
-  "3": 31,
-  "4": 17,
+  "2": 78,
+  "3": 25,
+  "4": 15,
   "5": 4
  },
  "watch_hits": [
@@ -27,14 +27,14 @@
     "time": "2026-10-23T19:46:30+00:00"
    },
    {
-    "id": "17cceb368c26",
-    "title": "At least seven killed after gunmen open fire at church in Jordan",
+    "id": "fce7707bb829",
+    "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
     "country": "Jordan",
     "city": null,
     "category": "terrorism",
     "severity": 5,
     "confidence": "B2",
-    "time": "2026-10-23T13:32:40+00:00"
+    "time": "2026-10-24T11:59:08+00:00"
    },
    {
     "id": "27392c906699",
@@ -55,6 +55,16 @@
     "severity": 4,
     "confidence": "A1",
     "time": "2026-10-26T00:00:00+00:00"
+   },
+   {
+    "id": "f31bc0a7957e",
+    "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-24T13:17:13+00:00"
    },
    {
     "id": "5c1604d43860",
@@ -79,16 +89,6 @@
    {
     "id": "8c5f05952c95",
     "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
-    "country": "Jordan",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-23T15:59:36+00:00"
-   },
-   {
-    "id": "7eabe96cfc4a",
-    "title": "Watch: CCTV footage shows gunmen near church in Jordan",
     "country": "Jordan",
     "city": null,
     "category": "terrorism",
@@ -157,39 +157,9 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-23T22:42:51.088000+00:00"
-   },
-   {
-    "id": "70601cb00f75",
-    "title": "Why do women in public life become targets?",
-    "country": "Australia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T13:58:52+00:00"
-   },
-   {
-    "id": "c87a667df9ea",
-    "title": "M4.5 earthquake, 193 km ENE of Levuka, Fiji",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T12:19:47.354000+00:00"
    }
   ],
   "Western Europe": [
-   {
-    "id": "b110d654843b",
-    "title": "🔴 Deadly shooting west of Paris ‘clearly terrorist’ attack, French interior minister says",
-    "country": "France",
-    "city": "Paris",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B1",
-    "time": "2026-10-23T14:43:33+00:00"
-   },
    {
     "id": "b0ef1267f415",
     "title": "🔴 Live: France’s Macron arrives in Trappes after ‘racist terrorist attack’",
@@ -199,6 +169,16 @@
     "severity": 4,
     "confidence": "B2",
     "time": "2026-10-23T17:08:51+00:00"
+   },
+   {
+    "id": "d46f308137ba",
+    "title": "Macron condemns racist terrorist attack in Paris suburb",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-24T13:21:02+00:00"
    },
    {
     "id": "2e8abf200d91",
@@ -221,6 +201,16 @@
     "time": "2026-10-24T09:00:29+00:00"
    },
    {
+    "id": "d375380fd7fb",
+    "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-23T19:42:08+00:00"
+   },
+   {
     "id": "91e57175a6a5",
     "title": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
     "country": "France",
@@ -231,34 +221,24 @@
     "time": "2026-10-23T16:08:04+00:00"
    },
    {
-    "id": "2445df27205e",
-    "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+    "id": "b2c9188b78ad",
+    "title": "‘You need persistence’: the Norfolk couple who took on environmental regulators three times – and won",
     "country": "United Kingdom",
-    "city": "London",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-23T13:25:58+00:00"
-   },
-   {
-    "id": "c1b6e3661102",
-    "title": "At least one dead and four injured in Paris suburb shooting",
-    "country": "France",
-    "city": "Paris",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-23T11:44:12+00:00"
-   },
-   {
-    "id": "1d7dd636092e",
-    "title": "One person killed in deadly shooting in Paris suburbs",
-    "country": "France",
-    "city": "Paris",
-    "category": "crime",
+    "city": null,
+    "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-23T13:48:46+00:00"
+    "confidence": "B3",
+    "time": "2026-10-24T07:00:27+00:00"
+   },
+   {
+    "id": "fef3822c2c71",
+    "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – as it happened",
+    "country": "France",
+    "city": "Paris",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-23T19:51:21+00:00"
    }
   ],
   "Eastern Europe": [
@@ -283,14 +263,14 @@
     "time": "2026-10-23T14:55:15+00:00"
    },
    {
-    "id": "293493967643",
-    "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
+    "id": "d6628f27df2c",
+    "title": "Ukraine sanctions Russian arms suppliers as Moscow ramps up attacks",
     "country": "Russia",
     "city": "Moscow",
-    "category": "conflict",
+    "category": "political",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-23T14:23:00+00:00"
+    "confidence": "C4",
+    "time": "2026-10-24T12:12:05+00:00"
    },
    {
     "id": "a08523e08d88",
@@ -333,14 +313,56 @@
     "time": "2026-10-23T20:02:21+00:00"
    },
    {
-    "id": "b73c56e4e128",
-    "title": "Exclusive: The next Russia deal Trump may be weighing after diesel",
-    "country": "Ukraine",
-    "city": "Kyiv",
+    "id": "649a681f90c1",
+    "title": "European student protests take aim at Serbia's elections",
+    "country": "Serbia",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-24T11:42:11+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "d4b9e04506bd",
+    "title": "Haiti's ex-president Martelly registers as candidate for upcoming election",
+    "country": "Haiti",
+    "city": null,
     "category": "political",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-23T14:31:29+00:00"
+    "time": "2026-10-24T14:09:35+00:00"
+   },
+   {
+    "id": "92d88aef9f73",
+    "title": "Green forest fire notification in Bolivia",
+    "country": "Bolivia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T11:06:35+00:00"
+   },
+   {
+    "id": "cb080f98e1c3",
+    "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+    "country": "Cuba",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-24T00:30:02+00:00"
+   },
+   {
+    "id": "68939b3b593e",
+    "title": "Martinique",
+    "country": "Martinique",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-23T15:16:42+00:00"
    }
   ],
   "East & SE Asia": [
@@ -353,6 +375,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-23T23:10:54+00:00"
+   },
+   {
+    "id": "9cf89d56c886",
+    "title": "M4.7 earthquake, 72 km S of Basco, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T11:48:08.678000+00:00"
    },
    {
     "id": "0f655759e76f",
@@ -413,16 +445,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-23T21:41:04.400000+00:00"
-   },
-   {
-    "id": "dc7c1b629536",
-    "title": "M4.9 earthquake, 35 km ESE of Hualien City, Taiwan",
-    "country": "Taiwan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T20:48:16.356000+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -537,48 +559,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-23T19:59:41+00:00"
-   },
-   {
-    "id": "49e27701b4e4",
-    "title": "Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-23T11:48:31+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "92d88aef9f73",
-    "title": "Green forest fire notification in Bolivia",
-    "country": "Bolivia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T11:06:35+00:00"
-   },
-   {
-    "id": "cb080f98e1c3",
-    "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-    "country": "Cuba",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-24T00:30:02+00:00"
-   },
-   {
-    "id": "68939b3b593e",
-    "title": "Martinique",
-    "country": "Martinique",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-23T15:16:42+00:00"
    }
   ],
   "South Asia": [
