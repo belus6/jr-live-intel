@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-25T20:28:17.555217+00:00",
+ "generated": "2026-10-25T22:45:39.835775+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 64,
-  "3": 22,
-  "4": 10,
+  "2": 65,
+  "3": 21,
+  "4": 9,
   "5": 1
  },
  "watch_hits": [],
@@ -31,6 +31,16 @@
     "severity": 3,
     "confidence": "A1",
     "time": "2026-10-25T11:24:14.089000+00:00"
+   },
+   {
+    "id": "74117a5ab87c",
+    "title": "M5.3 earthquake, Bonin Islands, Japan region",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T22:14:15.949000+00:00"
    },
    {
     "id": "49ad57f2cde5",
@@ -81,16 +91,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-24T23:59:36.599000+00:00"
-   },
-   {
-    "id": "5d5a15d8c5bc",
-    "title": "M4.9 earthquake, 53 km NNW of Fef, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T21:41:51.565000+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -195,16 +195,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-25T03:20:16+00:00"
-   },
-   {
-    "id": "9b653a49cb71",
-    "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-    "country": "Nigeria",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-24T22:35:45+00:00"
    },
    {
     "id": "624bda24912d",
@@ -319,14 +309,14 @@
     "time": "2026-10-25T09:29:39+00:00"
    },
    {
-    "id": "f0d31aa99106",
-    "title": "Macron’s ‘vandals pay’ bill puts right to protest at risk",
+    "id": "9f221e999f0a",
+    "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
     "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-25T19:57:40+00:00"
+    "time": "2026-10-25T21:50:36+00:00"
    }
   ],
   "Oceania": [
@@ -349,6 +339,16 @@
     "severity": 4,
     "confidence": "A1",
     "time": "2026-10-24T22:47:08.577000+00:00"
+   },
+   {
+    "id": "039a716c343a",
+    "title": "M4.8 earthquake, 167 km WNW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T20:30:42.515000+00:00"
    },
    {
     "id": "ba84bfd62388",
@@ -389,6 +389,58 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-25T02:43:04+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "a0c962607395",
+    "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T20:00:04+00:00"
+   },
+   {
+    "id": "82bef1e1ed88",
+    "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+    "country": "Venezuela",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T18:55:39+00:00"
+   },
+   {
+    "id": "9af2dcb6d2f8",
+    "title": "Demand for UK government action 10 months after British man’s death in Grenada",
+    "country": "Grenada",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T11:00:01+00:00"
+   },
+   {
+    "id": "14599af19496",
+    "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T10:55:33+00:00"
+   },
+   {
+    "id": "bd800462b521",
+    "title": "M4.6 earthquake, 50 km SW of Atiquipa, Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T07:11:49.640000+00:00"
    }
   ],
   "North America": [
@@ -513,58 +565,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-24T23:27:09+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "82bef1e1ed88",
-    "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-    "country": "Venezuela",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T18:55:39+00:00"
-   },
-   {
-    "id": "9af2dcb6d2f8",
-    "title": "Demand for UK government action 10 months after British man’s death in Grenada",
-    "country": "Grenada",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T11:00:01+00:00"
-   },
-   {
-    "id": "14599af19496",
-    "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T10:55:33+00:00"
-   },
-   {
-    "id": "bd800462b521",
-    "title": "M4.6 earthquake, 50 km SW of Atiquipa, Peru",
-    "country": "Peru",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T07:11:49.640000+00:00"
-   },
-   {
-    "id": "f3835df0e646",
-    "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
-    "country": "Brazil",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-24T21:10:23+00:00"
    }
   ]
  }
