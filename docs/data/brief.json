@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-24T22:39:53.452008+00:00",
+ "generated": "2026-10-25T00:32:42.120953+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 93,
-  "3": 22,
-  "4": 8,
+  "2": 85,
+  "3": 24,
+  "4": 9,
   "5": 3
  },
  "watch_hits": [
@@ -98,14 +98,14 @@
   ],
   "Oceania": [
    {
-    "id": "e891bcadd1d5",
-    "title": "M4.5 earthquake, 195 km NW of Port-Olry, Vanuatu",
+    "id": "9e60c1ef0be3",
+    "title": "M6.9 earthquake, 197 km WNW of Port-Olry, Vanuatu",
     "country": "Vanuatu",
     "city": null,
     "category": "hazard",
     "severity": 5,
     "confidence": "A1",
-    "time": "2026-10-24T00:27:44.940000+00:00"
+    "time": "2026-10-24T02:31:28.641000+00:00"
    },
    {
     "id": "108bca45d1b9",
@@ -116,6 +116,16 @@
     "severity": 3,
     "confidence": "A1",
     "time": "2026-10-24T08:28:02.029000+00:00"
+   },
+   {
+    "id": "df71875231e8",
+    "title": "M5.8 earthquake, 182 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-24T05:23:40.747000+00:00"
    },
    {
     "id": "785c92fed78a",
@@ -148,6 +158,16 @@
     "time": "2026-10-24T16:54:15.523000+00:00"
    },
    {
+    "id": "c1d5d0d95931",
+    "title": "M5.3 earthquake, 216 km W of Sola, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T04:19:38.628000+00:00"
+   },
+   {
     "id": "3e2a54942b16",
     "title": "Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, 40 thousand in MMI IV.",
     "country": "Vanuatu",
@@ -156,26 +176,78 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-24T02:40:23+00:00"
-   },
+   }
+  ],
+  "Sub-Saharan Africa": [
    {
-    "id": "a6a8896a32ea",
-    "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
-    "country": "Australia",
+    "id": "9b653a49cb71",
+    "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+    "country": "Nigeria",
     "city": null,
-    "category": "hazard",
-    "severity": 2,
+    "category": "terrorism",
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-23T23:26:05+00:00"
+    "time": "2026-10-24T22:35:45+00:00"
    },
    {
-    "id": "415603ff199b",
-    "title": "M4.9 earthquake, 115 km NE of Norsup, Vanuatu",
-    "country": "Vanuatu",
+    "id": "14abf1c38efe",
+    "title": "Green forest fire notification in Mali",
+    "country": "Mali",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-23T22:42:51.088000+00:00"
+    "time": "2026-10-24T19:02:19+00:00"
+   },
+   {
+    "id": "071d9d2885f3",
+    "title": "Green forest fire notification in Mauritania, Mali",
+    "country": "Mali",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T11:01:03+00:00"
+   },
+   {
+    "id": "7f71d26c2b19",
+    "title": "New Tumaini Ebola vaccine trial launches in Bunia as DRC struggles",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-24T08:38:44+00:00"
+   },
+   {
+    "id": "acadb7ba74e8",
+    "title": "Police dispel crowds with tear gas after 16-storey building collapses in Nairobi",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-24T07:29:49+00:00"
+   },
+   {
+    "id": "40acc7b79127",
+    "title": "CAR: Former hostages greeted by President Touadéra on return to Bangui",
+    "country": "CAR",
+    "city": "Bangui",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-24T07:25:38+00:00"
+   },
+   {
+    "id": "eb963c928f9b",
+    "title": "Green forest fire notification in South Africa",
+    "country": "South Africa",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T03:05:06+00:00"
    }
   ],
   "East & SE Asia": [
@@ -190,14 +262,24 @@
     "time": "2026-10-24T17:15:00+00:00"
    },
    {
-    "id": "46eaff94a1d2",
-    "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
-    "country": "Taiwan",
+    "id": "1fe5f1051505",
+    "title": "M5.3 earthquake, 44 km ESE of Miyazaki, Japan",
+    "country": "Japan",
     "city": null,
     "category": "hazard",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-23T23:10:54+00:00"
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T23:59:36.599000+00:00"
+   },
+   {
+    "id": "5d5a15d8c5bc",
+    "title": "M4.9 earthquake, 53 km NNW of Fef, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T21:41:51.565000+00:00"
    },
    {
     "id": "9cf89d56c886",
@@ -248,16 +330,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-24T02:22:32+00:00"
-   },
-   {
-    "id": "8c2599aac6fc",
-    "title": "M4.9 earthquake, 209 km ENE of Nagqu, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T00:07:56.787000+00:00"
    }
   ],
   "Western Europe": [
@@ -354,6 +426,16 @@
     "time": "2026-10-24T16:00:00+00:00"
    },
    {
+    "id": "fcb499ceecf1",
+    "title": "Massive Ukrainian drone attack hits shopping center in Russia's Belgorod Oblast, locals say",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-24T23:27:09+00:00"
+   },
+   {
     "id": "ba7f7d73417b",
     "title": "Deadly Russian drone strike targets apartment in Dnipropetrovsk Oblast, killing 3, injuring 12",
     "country": "Russia",
@@ -412,16 +494,28 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-24T02:28:06+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "78e4501ea105",
+    "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
+    "country": "United States",
+    "city": "New York",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-25T00:29:15+00:00"
    },
    {
-    "id": "4e6838dc8f49",
-    "title": "Violent clashes as Albanian government cracks down on protests",
-    "country": "Albania",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
+    "id": "3cbd271a3693",
+    "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
+    "country": "United States",
+    "city": "Detroit",
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-24T20:39:08+00:00"
+    "time": "2026-10-25T00:14:30+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -464,98 +558,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-24T11:06:35+00:00"
-   },
-   {
-    "id": "cb080f98e1c3",
-    "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-    "country": "Cuba",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-24T00:30:02+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "14abf1c38efe",
-    "title": "Green forest fire notification in Mali",
-    "country": "Mali",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T19:02:19+00:00"
-   },
-   {
-    "id": "071d9d2885f3",
-    "title": "Green forest fire notification in Mauritania, Mali",
-    "country": "Mali",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T11:01:03+00:00"
-   },
-   {
-    "id": "7f71d26c2b19",
-    "title": "New Tumaini Ebola vaccine trial launches in Bunia as DRC struggles",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-24T08:38:44+00:00"
-   },
-   {
-    "id": "acadb7ba74e8",
-    "title": "Police dispel crowds with tear gas after 16-storey building collapses in Nairobi",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-24T07:29:49+00:00"
-   },
-   {
-    "id": "40acc7b79127",
-    "title": "CAR: Former hostages greeted by President Touadéra on return to Bangui",
-    "country": "CAR",
-    "city": "Bangui",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-24T07:25:38+00:00"
-   },
-   {
-    "id": "eb963c928f9b",
-    "title": "Green forest fire notification in South Africa",
-    "country": "South Africa",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T03:05:06+00:00"
-   },
-   {
-    "id": "012417b35c64",
-    "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-24T00:27:21+00:00"
-   },
-   {
-    "id": "1fb744e8e2b2",
-    "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-24T00:05:43+00:00"
    }
   ],
   "South Asia": [

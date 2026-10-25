@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-24T22:39:53.452008+00:00",
+ "generated": "2026-10-25T00:32:42.120953+00:00",
  "sample": false,
- "count": 553,
+ "count": 554,
  "events": [
   {
    "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
@@ -147,6 +147,34 @@
    "flag": "🇯🇴",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "M6.9 earthquake, 197 km WNW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
+   "time": "2026-10-24T02:31:28.641000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.0558,
+   "lon": 165.5455,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-25T00:32:42.120953+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "9e60c1ef0be3",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -668,6 +696,34 @@
    "flag": "🇵🇸",
    "region": "Middle East & N. Africa",
    "baseline": 4.42,
+   "watch": []
+  },
+  {
+   "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+   "time": "2026-10-24T22:35:45+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Nigeria",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-25T00:32:42.120953+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "9b653a49cb71",
+   "flag": "🇳🇬",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.3,
    "watch": []
   },
   {
@@ -1869,6 +1925,90 @@
    "watch": []
   },
   {
+   "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
+   "summary": "",
+   "url": "https://kyivindependent.com/sanctioned-russian-energy-giant-secretly-funded-us-gas-project-nyt-reports/",
+   "time": "2026-10-25T00:29:15+00:00",
+   "tier": "C",
+   "category": "political",
+   "country": "United States",
+   "city": "New York",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/sanctioned-russian-energy-giant-secretly-funded-us-gas-project-nyt-reports/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-25T00:32:42.120953+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "78e4501ea105",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+   "time": "2026-10-25T00:14:30+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "United States",
+   "city": "Detroit",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-25T00:32:42.120953+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3cbd271a3693",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Massive Ukrainian drone attack hits shopping center in Russia's Belgorod Oblast, locals say",
+   "summary": "",
+   "url": "https://kyivindependent.com/massive-ukrainian-drone-attack-hits-shopping-center-in-russias-belgorod-oblast-locals-say/",
+   "time": "2026-10-24T23:27:09+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/massive-ukrainian-drone-attack-hits-shopping-center-in-russias-belgorod-oblast-locals-say/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-25T00:32:42.120953+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "fcb499ceecf1",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
    "title": "Deadly Russian drone strike targets apartment in Dnipropetrovsk Oblast, killing 3, injuring 12",
    "summary": "",
    "url": "https://kyivindependent.com/deadly-russian-drone-strike-targets-apartment-in-dnipropetrovsk-oblast-killing-3-injuring-12/",
@@ -2410,6 +2550,34 @@
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "M5.8 earthquake, 182 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
+   "time": "2026-10-24T05:23:40.747000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.0833,
+   "lon": 165.6982,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-25T00:32:42.120953+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "df71875231e8",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -4525,118 +4693,6 @@
    "watch": []
   },
   {
-   "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
-   "time": "2026-10-22T00:00:00+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Iran",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T00:54:41.507435+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d344a4d25a91",
-   "flag": "🇮🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.58,
-   "watch": []
-  },
-  {
-   "title": "Explosions, fires reported amid overnight Ukrainian drone attack on Lipetsk, Russia",
-   "summary": "",
-   "url": "https://kyivindependent.com/explosion-fires-reported-amid-overnight-ukrainian-drone-attack-on-lipetsk-russia/",
-   "time": "2026-10-21T23:46:05+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/explosion-fires-reported-amid-overnight-ukrainian-drone-attack-on-lipetsk-russia/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T00:54:41.507435+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "9df10c70863e",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Sudan’s war escalates as UN warns of wider regional crisis",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis",
-   "time": "2026-10-21T22:41:43+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Nigeria",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T00:54:41.507435+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "705c5b18e213",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
-   "watch": []
-  },
-  {
-   "title": "Sudan's war escalates as UN warns of wider regional crisis",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis",
-   "time": "2026-10-21T22:41:43+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Nigeria",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T11:17:13.356778+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "2458dd679340",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
-   "watch": []
-  },
-  {
    "title": "Republicans push back on Donald Trump’s wavering support for Ukraine",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia",
@@ -5031,6 +5087,62 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "M5.3 earthquake, 44 km ESE of Miyazaki, Japan",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
+   "time": "2026-10-24T23:59:36.599000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Japan",
+   "city": null,
+   "lat": 31.8226,
+   "lon": 131.873,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-25T00:32:42.120953+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "1fe5f1051505",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 53 km NNW of Fef, Indonesia",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pw",
+   "time": "2026-10-24T21:41:51.565000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -0.3574,
+   "lon": 132.2541,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pw",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-25T00:32:42.120953+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "5d5a15d8c5bc",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
    "watch": []
   },
   {
@@ -7396,6 +7508,34 @@
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M5.3 earthquake, 216 km W of Sola, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jy",
+   "time": "2026-10-24T04:19:38.628000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.7325,
+   "lon": 165.551,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jy",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-25T00:32:42.120953+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "c1d5d0d95931",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -13986,90 +14126,6 @@
    "watch": []
   },
   {
-   "title": "Green forest fire notification in Nigeria, Cameroon",
-   "summary": "On 09/10/2026, a forest fire started in Nigeria, Cameroon, until 19/10/2026.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032954",
-   "time": "2026-10-19T23:10:51+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Nigeria",
-   "city": null,
-   "lat": 11.409661747045902,
-   "lon": 14.735067730450291,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032954",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "e59a98a065e6",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in South Africa, Botswana",
-   "summary": "On 15/10/2026, a forest fire started in South Africa, Botswana, until 19/10/2026.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032943",
-   "time": "2026-10-19T23:03:43+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "South Africa",
-   "city": null,
-   "lat": -22.68059930322043,
-   "lon": 28.05206201343007,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032943",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "f67a0b29bcb9",
-   "flag": "🇿🇦",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.02,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, 52 km S of Kokopo, Papua New Guinea",
-   "summary": "Depth 76 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ic",
-   "time": "2026-10-19T22:42:47.298000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Papua New Guinea",
-   "city": null,
-   "lat": -4.8147,
-   "lon": 152.1972,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ic",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-19T23:45:49.466425+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "0ff666f2531b",
-   "flag": "🇵🇬",
-   "region": "East & SE Asia",
-   "baseline": 3.3,
-   "watch": []
-  },
-  {
    "title": "Mauritania",
    "summary": "New information on risks of travelling on the iron ore train (‘Safety and security’ page).",
    "url": "https://www.gov.uk/foreign-travel-advice/mauritania",
@@ -15396,34 +15452,6 @@
    "flag": "🇸🇧",
    "region": "Oceania",
    "baseline": 2.71,
-   "watch": []
-  },
-  {
-   "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
-   "time": "2026-10-11T00:23:50+00:00",
-   "tier": "B",
-   "category": "health",
-   "country": "DRC",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-11T02:12:31.552155+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "dea4f469f134",
-   "flag": "🇨🇩",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.69,
    "watch": []
   },
   {
