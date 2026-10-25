@@ -1,8 +1,41 @@
 {
- "generated": "2026-10-25T00:32:42.120953+00:00",
+ "generated": "2026-10-25T05:20:48.724243+00:00",
  "sample": false,
- "count": 554,
+ "count": 542,
  "events": [
+  {
+   "title": "M6.5 earthquake, Bonin Islands, Japan region",
+   "summary": "Depth 492 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
+   "time": "2026-10-25T02:09:23.818000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Japan",
+   "city": null,
+   "lat": 27.7953,
+   "lon": 139.6184,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
+     "tier": "A"
+    },
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573709",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-25T05:20:48.724243+00:00",
+   "confidence": "A1",
+   "corroboration": 2,
+   "id": "8ed2959cb97d",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
+   "watch": []
+  },
   {
    "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
    "summary": "",
@@ -559,34 +592,6 @@
    "watch": []
   },
   {
-   "title": "M5.0 earthquake, 205 km NW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
-   "time": "2026-10-20T00:38:28.008000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.9476,
-   "lon": 165.5285,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-20T09:12:34.213334+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "111054a886b8",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
    "title": "WHO raises alarm over undetected Ebola cases in DR Congo",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/14/who-raises-alarm-over-undetected-ebola-cases-in-dr-congo/",
@@ -752,6 +757,34 @@
    "flag": "🇵🇭",
    "region": "East & SE Asia",
    "baseline": 3.11,
+   "watch": []
+  },
+  {
+   "title": "M4.8 earthquake, 153 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4n8",
+   "time": "2026-10-24T16:54:15.523000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.2056,
+   "lon": 165.9365,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4n8",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-24T17:53:44.188647+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "c419c8ffc794",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -1602,44 +1635,6 @@
    "watch": []
   },
   {
-   "title": "Ground fighting in Yemen intensifies as 2 killed in attempted drone strike on Saudi field",
-   "summary": "",
-   "url": "http://www.nepalnational.com/news/279390936/ground-fighting-in-yemen-intensifies-as-2-killed-in-attempted-drone-strike-on-saudi-field",
-   "time": "2026-10-22T03:15:00+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "nepalnational.com (via GDELT)",
-     "url": "http://www.nepalnational.com/news/279390936/ground-fighting-in-yemen-intensifies-as-2-killed-in-attempted-drone-strike-on-saudi-field",
-     "tier": "C"
-    },
-    {
-     "name": "philippinetimes.com (via GDELT)",
-     "url": "http://www.philippinetimes.com/news/279390908/roundup-ground-fighting-in-yemen-intensifies-as-2-killed-in-attempted-drone-strike-on-saudi-field",
-     "tier": "C"
-    },
-    {
-     "name": "southeastasiapost.com (via GDELT)",
-     "url": "http://www.southeastasiapost.com/news/279390936/ground-fighting-in-yemen-intensifies-as-2-killed-in-attempted-drone-strike-on-saudi-field",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C1",
-   "corroboration": 3,
-   "id": "50c2c064554f",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
    "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
    "summary": "",
    "url": "https://www.france24.com/en/tv-shows/spotlight/20261021-trump-admin-destroying-us-democracy-with-autocratic-terrorist-version-of-christian-nationalism",
@@ -1922,6 +1917,34 @@
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
    "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+   "time": "2026-10-25T02:45:43+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-25T05:20:48.724243+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "9f8915a53754",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -2463,6 +2486,34 @@
    "confidence": "A1",
    "corroboration": 1,
    "id": "108bca45d1b9",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "M5.1 earthquake, 218 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4l9",
+   "time": "2026-10-24T08:22:46.296000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.833,
+   "lon": 165.4664,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4l9",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-25T05:20:48.724243+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "8ce32941f7f9",
    "flag": "🇻🇺",
    "region": "Oceania",
    "baseline": 2.48,
@@ -4584,115 +4635,6 @@
    "watch": []
   },
   {
-   "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
-   "summary": "",
-   "url": "https://isp.netscape.com:443/news/world/story/0001/20261022/822efd292abcd7caa13cf085956f93cc",
-   "time": "2026-10-22T03:45:00+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Haiti",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "isp.netscape.com (via GDELT)",
-     "url": "https://isp.netscape.com:443/news/world/story/0001/20261022/822efd292abcd7caa13cf085956f93cc",
-     "tier": "C"
-    },
-    {
-     "name": "clickorlando.com (via GDELT)",
-     "url": "https://www.clickorlando.com/news/world/2026/10/21/bukele-says-military-operation-launched-to-rescue-salvadorans-held-by-gangs-in-haiti/",
-     "tier": "C"
-    },
-    {
-     "name": "wboc.com (via GDELT)",
-     "url": "https://www.wboc.com/news/international/bukele-says-military-operation-launched-to-rescue-salvadorans-held-by-gangs-in-haiti/article_3f5d8fe3-9abd-5680-8dd4-632aefd069bf.html",
-     "tier": "C"
-    },
-    {
-     "name": "khqa.com (via GDELT)",
-     "url": "https://www.khqa.com/news/nation-world/bukele-says-military-operation-launched-to-rescue-salvadorans-held-by-gangs-in-haiti/article_2bac1dd2-90fa-5882-bf9d-39ede46f4261.html",
-     "tier": "C"
-    },
-    {
-     "name": "ktvo.com (via GDELT)",
-     "url": "https://www.ktvo.com/news/nation-world/bukele-says-military-operation-launched-to-rescue-salvadorans-held-by-gangs-in-haiti/article_08b347c7-7510-5939-87dc-5929ea1caeae.html",
-     "tier": "C"
-    },
-    {
-     "name": "news4jax.com (via GDELT)",
-     "url": "https://www.news4jax.com/news/world/2026/10/21/bukele-says-military-operation-launched-to-rescue-salvadorans-held-by-gangs-in-haiti/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "C1",
-   "corroboration": 6,
-   "id": "8b9ac4f6ef97",
-   "flag": "🇭🇹",
-   "region": "Latin America & Caribbean",
-   "baseline": 4.53,
-   "watch": []
-  },
-  {
-   "title": "Russia and Ukraine trade strikes overnight as Moscow signals readiness for peace talks",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261022-russia-missiles-kyiv-ukraine-peace-talks",
-   "time": "2026-10-22T01:51:03+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Russia",
-   "city": "Moscow",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261022-russia-missiles-kyiv-ukraine-peace-talks",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T11:17:13.356778+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "7eb9113c198f",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-   "time": "2026-10-22T01:45:48+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Qatar",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T05:48:29.892730+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b3d62c85d5a2",
-   "flag": "🇶🇦",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.36,
-   "watch": []
-  },
-  {
    "title": "Republicans push back on Donald Trump’s wavering support for Ukraine",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia",
@@ -5029,64 +4971,143 @@
    "watch": []
   },
   {
-   "title": "Marco Rubio says Trump's Russian oil sanctions waiver is a '60-day pause,' denies restricting Starlink access",
+   "title": "Obama joins El-Sayed in Michigan rally cry before key midterms",
    "summary": "",
-   "url": "https://kyivindependent.com/marco-rubio-says-trumps-russian-oil-sanctions-waiver-is-a-60-day-pause-denies-restricting-starlink-access/",
-   "time": "2026-10-18T04:36:10+00:00",
-   "tier": "C",
-   "category": "political",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss",
+   "time": "2026-10-25T04:06:28+00:00",
+   "tier": "B",
+   "category": "unrest",
    "country": "United States",
-   "city": null,
+   "city": "Detroit",
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/marco-rubio-says-trumps-russian-oil-sanctions-waiver-is-a-60-day-pause-denies-restricting-starlink-access/",
-     "tier": "C"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss",
+     "tier": "B"
     }
    ],
-   "first_seen": "2026-10-18T04:56:26.365911+00:00",
-   "confidence": "C4",
+   "first_seen": "2026-10-25T05:20:48.724243+00:00",
+   "confidence": "B3",
    "corroboration": 1,
-   "id": "632797b409c8",
+   "id": "fc87101b4bbb",
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
    "watch": []
   },
   {
-   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "title": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
    "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-18T01:10:25+00:00",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
+   "time": "2026-10-25T03:47:56+00:00",
    "tier": "B",
-   "category": "political",
-   "country": "Russia",
-   "city": "Moscow",
+   "category": "unrest",
+   "country": "Turkey",
+   "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact",
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-18T04:56:26.365911+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "323176cca369",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
+   "first_seen": "2026-10-25T05:20:48.724243+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "daf7e72e6c21",
+   "flag": "🇹🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.78,
+   "watch": []
+  },
+  {
+   "title": "M5.2 earthquake, 63 km NNE of Lae, Papua New Guinea",
+   "summary": "Depth 81 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
+   "time": "2026-10-25T03:29:10.551000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -6.1737,
+   "lon": 147.1659,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-25T05:20:48.724243+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "cddaf208ec5b",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.",
+   "summary": "On 10/25/2026 2:24:02 AM, an earthquake occurred in Vanuatu potentially affecting 110 thousand in MMI IV. The earthquake had Magnitude 6.1M, Depth:116km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573712",
+   "time": "2026-10-25T02:43:04+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.9964,
+   "lon": 167.3039,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573712",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-25T05:20:48.724243+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "99edd1bf35e0",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "Violence breaks out across Europe after another day of protests",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
+   "time": "2026-10-25T00:23:48+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-25T05:20:48.724243+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "21fc0bd23215",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -5784,34 +5805,6 @@
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "M4.8 earthquake, 153 km NW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4n8",
-   "time": "2026-10-24T16:54:15.523000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -14.2056,
-   "lon": 165.9365,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4n8",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-24T17:53:44.188647+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "c419c8ffc794",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
    "watch": []
   },
   {
@@ -10346,95 +10339,6 @@
    "watch": []
   },
   {
-   "title": "Live: Macron meets with student representatives and law enforcement ahead of new protests",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests",
-   "time": "2026-10-23T05:06:31+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T06:29:47.227122+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "99c7ff40320f",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Milan braces for more unrest as debate intensifies over Italy’s ‘lost generation’",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/23/milan-unrest-italy-lost-generation-protests",
-   "time": "2026-10-23T05:00:01+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Italy",
-   "city": "Milan",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/23/milan-unrest-italy-lost-generation-protests",
-     "tier": "B"
-    },
-    {
-     "name": "theguardian.com (via GDELT)",
-     "url": "https://www.theguardian.com/world/2026/oct/23/milan-unrest-italy-lost-generation-protests",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-23T06:29:47.227122+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "8e1b457bbddd",
-   "flag": "🇮🇹",
-   "region": "Western Europe",
-   "baseline": 1.48,
-   "watch": []
-  },
-  {
-   "title": "France Boosts Security for Saturday Protests",
-   "summary": "",
-   "url": "https://www.riotimesonline.com/france-boosts-security-saturday-protests/",
-   "time": "2026-10-23T05:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "riotimesonline.com (via GDELT)",
-     "url": "https://www.riotimesonline.com/france-boosts-security-saturday-protests/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-23T06:29:47.227122+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "98fa5cb5692e",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
@@ -10496,105 +10400,6 @@
    "watch": []
   },
   {
-   "title": "What to know about the weapons and tactics blamed for injuring French protesters",
-   "summary": "",
-   "url": "http://www.goskagit.com/news/world/what-to-know-about-the-weapons-and-tactics-blamed-for-injuring-french-protesters/article_83212cf3-4f86-53d5-b8cc-62f05163c78c.html",
-   "time": "2026-10-23T04:45:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "goskagit.com (via GDELT)",
-     "url": "http://www.goskagit.com/news/world/what-to-know-about-the-weapons-and-tactics-blamed-for-injuring-french-protesters/article_83212cf3-4f86-53d5-b8cc-62f05163c78c.html",
-     "tier": "C"
-    },
-    {
-     "name": "winknews.com (via GDELT)",
-     "url": "https://www.winknews.com/news/international/what-to-know-about-the-weapons-and-tactics-blamed-for-injuring-french-protesters/article_0a2020a5-55e0-5165-aab1-33a3b111906b.html",
-     "tier": "C"
-    },
-    {
-     "name": "rockymounttelegram.com (via GDELT)",
-     "url": "http://www.rockymounttelegram.com/news/world/what-to-know-about-the-weapons-and-tactics-blamed-for-injuring-french-protesters/article_908ef6f6-282e-5557-821c-3a37f24a5ac6.html",
-     "tier": "C"
-    },
-    {
-     "name": "winnipegfreepress.com (via GDELT)",
-     "url": "https://www.winnipegfreepress.com/world/2026/10/22/what-to-know-about-the-weapons-and-tactics-blamed-for-injuring-french-protesters",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-23T06:29:47.227122+00:00",
-   "confidence": "C1",
-   "corroboration": 4,
-   "id": "f614331197b8",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Serbia protesting students mount serious challenge to Vučić power – POLITICO",
-   "summary": "",
-   "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/",
-   "time": "2026-10-23T04:45:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Serbia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "politico.eu (via GDELT)",
-     "url": "https://www.politico.eu/article/serbia-student-protests-challenge-aleksandar-vucic-power-poll/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-23T06:29:47.227122+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "943c6524899b",
-   "flag": "🇷🇸",
-   "region": "Eastern Europe",
-   "baseline": 2.13,
-   "watch": []
-  },
-  {
-   "title": "Venezuelans demand elections in first national protest in nearly two years - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-   "summary": "",
-   "url": "https://dominicanrepublicpost.com/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years/",
-   "time": "2026-10-23T04:45:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Dominican Republic",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "dominicanrepublicpost.com (via GDELT)",
-     "url": "https://dominicanrepublicpost.com/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-23T06:29:47.227122+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "7c8d588b5cca",
-   "flag": "🇩🇴",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.52,
-   "watch": []
-  },
-  {
    "title": "Magnitude-7 earthquake hits China’s Tibet, killing at least 16 and destroying hundreds of homes",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
@@ -10620,107 +10425,6 @@
    "flag": "🇨🇳",
    "region": "East & SE Asia",
    "baseline": 2.75,
-   "watch": []
-  },
-  {
-   "title": "French intel assessment reportedly links Antifa , far - left groups to France riots",
-   "summary": "",
-   "url": "https://abc6onyourside.com/news/nation-world/french-intel-assessment-reportedly-links-antifa-far-left-groups-to-france-riots-intelligence",
-   "time": "2026-10-23T04:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "abc6onyourside.com (via GDELT)",
-     "url": "https://abc6onyourside.com/news/nation-world/french-intel-assessment-reportedly-links-antifa-far-left-groups-to-france-riots-intelligence",
-     "tier": "C"
-    },
-    {
-     "name": "13wham.com (via GDELT)",
-     "url": "https://13wham.com/news/nation-world/french-intel-assessment-reportedly-links-antifa-far-left-groups-to-france-riots-intelligence",
-     "tier": "C"
-    },
-    {
-     "name": "fox23.com (via GDELT)",
-     "url": "https://fox23.com/news/nation-world/french-intel-assessment-reportedly-links-antifa-far-left-groups-to-france-riots-intelligence",
-     "tier": "C"
-    },
-    {
-     "name": "foxbaltimore.com (via GDELT)",
-     "url": "https://foxbaltimore.com/news/nation-world/french-intel-assessment-reportedly-links-antifa-far-left-groups-to-france-riots-intelligence",
-     "tier": "C"
-    },
-    {
-     "name": "wgme.com (via GDELT)",
-     "url": "https://wgme.com/news/nation-world/french-intel-assessment-reportedly-links-antifa-far-left-groups-to-france-riots-intelligence",
-     "tier": "C"
-    },
-    {
-     "name": "wjla.com (via GDELT)",
-     "url": "https://wjla.com/news/nation-world/french-intel-assessment-reportedly-links-antifa-far-left-groups-to-france-riots-intelligence",
-     "tier": "C"
-    },
-    {
-     "name": "cbs6albany.com (via GDELT)",
-     "url": "https://cbs6albany.com/news/nation-world/french-intel-assessment-reportedly-links-antifa-far-left-groups-to-france-riots-intelligence",
-     "tier": "C"
-    },
-    {
-     "name": "foxreno.com (via GDELT)",
-     "url": "https://foxreno.com/news/nation-world/french-intel-assessment-reportedly-links-antifa-far-left-groups-to-france-riots-intelligence",
-     "tier": "C"
-    },
-    {
-     "name": "ktul.com (via GDELT)",
-     "url": "https://ktul.com/news/nation-world/french-intel-assessment-reportedly-links-antifa-far-left-groups-to-france-riots-intelligence",
-     "tier": "C"
-    },
-    {
-     "name": "weartv.com (via GDELT)",
-     "url": "https://weartv.com/news/nation-world/french-intel-assessment-reportedly-links-antifa-far-left-groups-to-france-riots-intelligence",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-23T06:29:47.227122+00:00",
-   "confidence": "C1",
-   "corroboration": 10,
-   "id": "eb62cc60411f",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Dalit activist Deepa Nepali 186 - day protest goes unheard as the Nepal government stays silent – Asia News Network",
-   "summary": "",
-   "url": "https://asianews.network/dalit-activist-deepa-nepalis-186-day-protest-goes-unheard-as-the-nepal-government-stays-silent/",
-   "time": "2026-10-23T04:00:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Nepal",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "asianews.network (via GDELT)",
-     "url": "https://asianews.network/dalit-activist-deepa-nepalis-186-day-protest-goes-unheard-as-the-nepal-government-stays-silent/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-23T06:29:47.227122+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "5c606d0b0052",
-   "flag": "🇳🇵",
-   "region": "South Asia",
-   "baseline": 2.76,
    "watch": []
   },
   {
@@ -10808,34 +10512,6 @@
    "watch": []
   },
   {
-   "title": "Indian developer turns ‘Cockroach’ protests into video game",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss",
-   "time": "2026-10-23T02:44:35+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T06:29:47.227122+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "84aaef8d63a7",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
    "title": "M4.5 earthquake, 18 km NNW of Yongning, China",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
@@ -10861,62 +10537,6 @@
    "flag": "🇨🇳",
    "region": "East & SE Asia",
    "baseline": 2.75,
-   "watch": []
-  },
-  {
-   "title": "Thousands protest across Poland for access to free and legal abortions",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss",
-   "time": "2026-10-23T00:54:51+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Poland",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T01:31:45.486514+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "65e05479b03c",
-   "flag": "🇵🇱",
-   "region": "Eastern Europe",
-   "baseline": 1.31,
-   "watch": []
-  },
-  {
-   "title": "Rare unrest flares in Tunisian capital as police clash with protesters",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss",
-   "time": "2026-10-23T00:51:40+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Tunisia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T01:31:45.486514+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "321616eeaba8",
-   "flag": "🇹🇳",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.72,
    "watch": []
   },
   {
@@ -14067,62 +13687,6 @@
    "flag": "🇵🇭",
    "region": "East & SE Asia",
    "baseline": 3.11,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
-   "summary": "On 10/20/2026 4:20:38 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 6.3M, Depth:16km.",
-   "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1572693",
-   "time": "2026-10-20T04:31:52+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.9906,
-   "lon": 165.5892,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1572693",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-20T09:12:34.213334+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "37a9875f96aa",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 156 km SE of Kuqa, China",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
-   "time": "2026-10-20T00:56:32.769000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "China",
-   "city": null,
-   "lat": 40.6375,
-   "lon": 84.1295,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-20T03:45:59.992825+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "f73e51070391",
-   "flag": "🇨🇳",
-   "region": "East & SE Asia",
-   "baseline": 2.75,
    "watch": []
   },
   {
