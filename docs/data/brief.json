@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-25T14:23:13.483028+00:00",
+ "generated": "2026-10-25T17:45:47.368102+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 76,
-  "3": 26,
+  "2": 62,
+  "3": 20,
   "4": 9,
   "5": 1
  },
@@ -23,16 +23,6 @@
     "time": "2026-10-25T02:09:23.818000+00:00"
    },
    {
-    "id": "00169d51b071",
-    "title": "The Anti - Terrorism Act of 2020 | The Manila Times",
-    "country": "Philippines",
-    "city": "Manila",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-24T17:15:00+00:00"
-   },
-   {
     "id": "a1d5939a8a82",
     "title": "M5.1 earthquake, 199 km ENE of Nagqu, China",
     "country": "China",
@@ -41,6 +31,16 @@
     "severity": 3,
     "confidence": "A1",
     "time": "2026-10-25T11:24:14.089000+00:00"
+   },
+   {
+    "id": "49ad57f2cde5",
+    "title": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
+    "country": "Malaysia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T14:54:53+00:00"
    },
    {
     "id": "776e6350952d",
@@ -105,14 +105,34 @@
     "time": "2026-10-26T00:00:00+00:00"
    },
    {
-    "id": "f8249f9dae13",
-    "title": "Gunmen kill seven at church in Jordan",
+    "id": "f6da9dd72dff",
+    "title": "Seven killed in Gaza as Israel targets university campus and other sites",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-25T15:40:25+00:00"
+   },
+   {
+    "id": "81dc01dfc127",
+    "title": "Thousands mourn victims of deadly Jordan church attack",
     "country": "Jordan",
     "city": null,
     "category": "terrorism",
     "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-24T16:15:00+00:00"
+    "confidence": "B3",
+    "time": "2026-10-25T15:21:26+00:00"
+   },
+   {
+    "id": "a77393a35c05",
+    "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T14:46:38+00:00"
    },
    {
     "id": "ccd7d78fd55f",
@@ -153,26 +173,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-24T17:50:25+00:00"
-   },
-   {
-    "id": "71835405205f",
-    "title": "Around 1 , 200 Palestinians are displaced in Hebron as Israel begins military operation",
-    "country": "Israel",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-24T17:15:00+00:00"
-   },
-   {
-    "id": "caa16072770d",
-    "title": "Full lockdown of occupied West Bank begins",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-24T14:24:19+00:00"
    }
   ],
   "Western Europe": [
@@ -185,16 +185,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-25T10:36:42+00:00"
-   },
-   {
-    "id": "741cf536478a",
-    "title": "France: Protests continue while police fire tear gas at demonstrators",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-24T17:10:42+00:00"
    },
    {
     "id": "11659ce63737",
@@ -237,24 +227,34 @@
     "time": "2026-10-24T17:50:19+00:00"
    },
    {
-    "id": "36ea7b7ac947",
-    "title": "Clashes erupt between protesters and police in France",
-    "country": "France",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-24T17:15:00+00:00"
+    "id": "e308c91d864c",
+    "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-25T13:29:56+00:00"
    },
    {
-    "id": "773960393ec7",
-    "title": "🔴 French protests live: Police say 110,000 turn out for 'calm' Paris march amid reports of clashes in other cities",
+    "id": "31ecfde28ed0",
+    "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-25T10:38:15+00:00"
+   },
+   {
+    "id": "abe230e5ef04",
+    "title": "Hundreds of thousands march in France to protest against government",
     "country": "France",
     "city": "Paris",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-24T15:42:17+00:00"
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-25T09:29:39+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -341,14 +341,14 @@
     "time": "2026-10-24T19:18:20.515000+00:00"
    },
    {
-    "id": "c419c8ffc794",
-    "title": "M4.8 earthquake, 153 km NW of Port-Olry, Vanuatu",
+    "id": "af8b6c8a6237",
+    "title": "M5.0 earthquake, 193 km NW of Port-Olry, Vanuatu",
     "country": "Vanuatu",
     "city": null,
     "category": "hazard",
     "severity": 4,
     "confidence": "A1",
-    "time": "2026-10-24T16:54:15.523000+00:00"
+    "time": "2026-10-24T19:07:15.895000+00:00"
    },
    {
     "id": "ba84bfd62388",
@@ -389,29 +389,9 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-25T02:43:04+00:00"
-   },
-   {
-    "id": "9cda7c114372",
-    "title": "M4.8 earthquake, 215 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T15:07:40.810000+00:00"
    }
   ],
   "Eastern Europe": [
-   {
-    "id": "a4516d8baee6",
-    "title": "What to know about the Melania Trump - brokered ceasefire in Russian - occupied Oleshky",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C1",
-    "time": "2026-10-24T16:00:00+00:00"
-   },
    {
     "id": "02af3512de27",
     "title": "Ukraine strikes Russian titanium plant, facility producing missile, drone components, monitoring channels claim",
@@ -481,6 +461,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-24T21:42:59+00:00"
+   },
+   {
+    "id": "0f4da2b6686a",
+    "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
+    "country": "Serbia",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T17:39:23+00:00"
    }
   ],
   "North America": [
@@ -565,18 +555,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-24T18:11:44+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "a2c6b9c0f4ab",
-    "title": "If you are alive , you must show it : Hyderabad anti - SIR protest brings together people of all age groups",
-    "country": "India",
-    "city": "Hyderabad",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-24T16:15:00+00:00"
    }
   ]
  }

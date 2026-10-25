@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T14:23:13.483028+00:00",
+ "generated": "2026-10-25T17:45:47.368102+00:00",
  "sources": [
   {
    "id": "us-state-advisories",
@@ -15,7 +15,7 @@
    "ok": true,
    "items": 18,
    "note": "ok",
-   "secs": 0.2
+   "secs": 1.2
   },
   {
    "id": "cdc-notices",
@@ -29,7 +29,7 @@
    "id": "usgs-quakes",
    "name": "USGS earthquakes M4.5+",
    "ok": true,
-   "items": 26,
+   "items": 23,
    "note": "ok",
    "secs": 0.1
   },
@@ -37,9 +37,9 @@
    "id": "gdacs",
    "name": "GDACS disaster alerts",
    "ok": true,
-   "items": 121,
+   "items": 115,
    "note": "ok",
-   "secs": 4.0
+   "secs": 3.0
   },
   {
    "id": "reliefweb",
@@ -47,7 +47,7 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.1
   },
   {
    "id": "un-news",
@@ -61,7 +61,7 @@
    "id": "bbc-world",
    "name": "BBC World",
    "ok": true,
-   "items": 6,
+   "items": 7,
    "note": "ok",
    "secs": 0.2
   },
@@ -69,7 +69,7 @@
    "id": "aljazeera",
    "name": "Al Jazeera",
    "ok": true,
-   "items": 4,
+   "items": 6,
    "note": "ok",
    "secs": 0.2
   },
@@ -77,9 +77,9 @@
    "id": "france24",
    "name": "France 24",
    "ok": true,
-   "items": 18,
+   "items": 17,
    "note": "ok",
-   "secs": 0.4
+   "secs": 0.3
   },
   {
    "id": "dw",
@@ -87,7 +87,7 @@
    "ok": true,
    "items": 2,
    "note": "ok",
-   "secs": 0.6
+   "secs": 0.5
   },
   {
    "id": "guardian-world",
@@ -101,7 +101,7 @@
    "id": "npr-world",
    "name": "NPR World",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "note": "ok",
    "secs": 0.3
   },
@@ -117,7 +117,7 @@
    "id": "kyiv-independent",
    "name": "Kyiv Independent",
    "ok": true,
-   "items": 8,
+   "items": 6,
    "note": "ok",
    "secs": 0.3
   },
@@ -138,9 +138,10 @@
   {
    "id": "gdelt-unrest-es-fr",
    "name": "GDELT unrest (Spanish and French)",
-   "ok": false,
+   "ok": true,
    "items": 0,
-   "note": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28protesta%20OR%20manifestaci%C3%B3n%20OR%20bloqueo%20OR%20manif"
+   "note": "ok",
+   "secs": 15.1
   }
  ]
 }
