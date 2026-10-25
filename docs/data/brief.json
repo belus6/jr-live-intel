@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-25T17:45:47.368102+00:00",
+ "generated": "2026-10-25T20:28:17.555217+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 62,
-  "3": 20,
-  "4": 9,
+  "2": 64,
+  "3": 22,
+  "4": 10,
   "5": 1
  },
  "watch_hits": [],
@@ -115,6 +115,16 @@
     "time": "2026-10-25T15:40:25+00:00"
    },
    {
+    "id": "fc897da97357",
+    "title": "Eight killed in Gaza as Israel targets university campus and other sites",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-25T15:40:25+00:00"
+   },
+   {
     "id": "81dc01dfc127",
     "title": "Thousands mourn victims of deadly Jordan church attack",
     "country": "Jordan",
@@ -123,6 +133,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-25T15:21:26+00:00"
+   },
+   {
+    "id": "e04b841da7d5",
+    "title": "Israeli air strike on Gaza City university kills three people",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T18:12:13+00:00"
    },
    {
     "id": "a77393a35c05",
@@ -153,26 +173,78 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-25T05:27:54+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "97cc021254e1",
+    "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+    "country": "Nigeria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-25T19:14:27+00:00"
    },
    {
-    "id": "cf8e429bd24b",
-    "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-    "country": "Saudi Arabia",
+    "id": "45c083b50307",
+    "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+    "country": "Nigeria",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "terrorism",
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-24T21:08:51+00:00"
+    "time": "2026-10-25T03:20:16+00:00"
    },
    {
-    "id": "065cb28f0d2f",
-    "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
-    "country": "Saudi Arabia",
+    "id": "9b653a49cb71",
+    "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+    "country": "Nigeria",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "terrorism",
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-24T17:50:25+00:00"
+    "time": "2026-10-24T22:35:45+00:00"
+   },
+   {
+    "id": "624bda24912d",
+    "title": "Niger imposes curfew on petrol sales amid national fuel shortage",
+    "country": "Niger",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-25T09:14:11+00:00"
+   },
+   {
+    "id": "bdc473a38337",
+    "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T18:20:26+00:00"
+   },
+   {
+    "id": "8c634b33d172",
+    "title": "Red Cross trains staff as Kenya records its second death from Ebola",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-25T10:45:43+00:00"
+   },
+   {
+    "id": "8b4c7a71edc3",
+    "title": "Nigeria's Tinubu defends policies as he launches re-election bid",
+    "country": "Nigeria",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-25T08:47:47+00:00"
    }
   ],
   "Western Europe": [
@@ -217,16 +289,6 @@
     "time": "2026-10-25T07:00:56+00:00"
    },
    {
-    "id": "c19a1979042f",
-    "title": "France: Clashes erupt as protests sweep across cities",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-24T17:50:19+00:00"
-   },
-   {
     "id": "e308c91d864c",
     "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
     "country": "Portugal",
@@ -255,68 +317,16 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-25T09:29:39+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "45c083b50307",
-    "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-    "country": "Nigeria",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-25T03:20:16+00:00"
    },
    {
-    "id": "9b653a49cb71",
-    "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-    "country": "Nigeria",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-24T22:35:45+00:00"
-   },
-   {
-    "id": "624bda24912d",
-    "title": "Niger imposes curfew on petrol sales amid national fuel shortage",
-    "country": "Niger",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-25T09:14:11+00:00"
-   },
-   {
-    "id": "8c634b33d172",
-    "title": "Red Cross trains staff as Kenya records its second death from Ebola",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-25T10:45:43+00:00"
-   },
-   {
-    "id": "8b4c7a71edc3",
-    "title": "Nigeria's Tinubu defends policies as he launches re-election bid",
-    "country": "Nigeria",
+    "id": "f0d31aa99106",
+    "title": "Macron’s ‘vandals pay’ bill puts right to protest at risk",
+    "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-25T08:47:47+00:00"
-   },
-   {
-    "id": "14abf1c38efe",
-    "title": "Green forest fire notification in Mali",
-    "country": "Mali",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T19:02:19+00:00"
+    "confidence": "B3",
+    "time": "2026-10-25T19:57:40+00:00"
    }
   ],
   "Oceania": [
@@ -331,24 +341,14 @@
     "time": "2026-10-24T23:44:57.729000+00:00"
    },
    {
-    "id": "7fbad246affe",
-    "title": "M4.9 earthquake, 73 km SW of Isangel, Vanuatu",
+    "id": "51927e5988fd",
+    "title": "M5.0 earthquake, 210 km NW of Port-Olry, Vanuatu",
     "country": "Vanuatu",
     "city": null,
     "category": "hazard",
     "severity": 4,
     "confidence": "A1",
-    "time": "2026-10-24T19:18:20.515000+00:00"
-   },
-   {
-    "id": "af8b6c8a6237",
-    "title": "M5.0 earthquake, 193 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-24T19:07:15.895000+00:00"
+    "time": "2026-10-24T22:47:08.577000+00:00"
    },
    {
     "id": "ba84bfd62388",
@@ -391,7 +391,69 @@
     "time": "2026-10-25T02:43:04+00:00"
    }
   ],
+  "North America": [
+   {
+    "id": "cb577a2270fd",
+    "title": "US south-west braces for more storms after enduring days of rain and flooding",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T19:02:51+00:00"
+   },
+   {
+    "id": "78e4501ea105",
+    "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
+    "country": "United States",
+    "city": "New York",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-25T00:29:15+00:00"
+   },
+   {
+    "id": "3cbd271a3693",
+    "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
+    "country": "United States",
+    "city": "Detroit",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T00:14:30+00:00"
+   },
+   {
+    "id": "fc87101b4bbb",
+    "title": "Obama joins El-Sayed in Michigan rally cry before key midterms",
+    "country": "United States",
+    "city": "Detroit",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T04:06:28+00:00"
+   }
+  ],
   "Eastern Europe": [
+   {
+    "id": "a534131c1089",
+    "title": "Ukraine war latest: Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-25T19:02:26+00:00"
+   },
+   {
+    "id": "10f9b1ed59c6",
+    "title": "Moscow to host 2030 International Weightlifting Championships following lifting of Olympic suspensions",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-25T18:05:29+00:00"
+   },
    {
     "id": "02af3512de27",
     "title": "Ukraine strikes Russian titanium plant, facility producing missile, drone components, monitoring channels claim",
@@ -451,61 +513,19 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-24T23:27:09+00:00"
-   },
-   {
-    "id": "ba7f7d73417b",
-    "title": "Deadly Russian drone strike targets apartment in Dnipropetrovsk Oblast, killing 3, injuring 12",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-24T21:42:59+00:00"
-   },
-   {
-    "id": "0f4da2b6686a",
-    "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
-    "country": "Serbia",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T17:39:23+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "78e4501ea105",
-    "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
-    "country": "United States",
-    "city": "New York",
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-25T00:29:15+00:00"
-   },
-   {
-    "id": "3cbd271a3693",
-    "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
-    "country": "United States",
-    "city": "Detroit",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-25T00:14:30+00:00"
-   },
-   {
-    "id": "fc87101b4bbb",
-    "title": "Obama joins El-Sayed in Michigan rally cry before key midterms",
-    "country": "United States",
-    "city": "Detroit",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T04:06:28+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "82bef1e1ed88",
+    "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+    "country": "Venezuela",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T18:55:39+00:00"
+   },
    {
     "id": "9af2dcb6d2f8",
     "title": "Demand for UK government action 10 months after British man’s death in Grenada",
@@ -545,16 +565,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-24T21:10:23+00:00"
-   },
-   {
-    "id": "f5289b51f09b",
-    "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
-    "country": "Brazil",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-24T18:11:44+00:00"
    }
   ]
  }
