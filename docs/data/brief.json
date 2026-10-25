@@ -1,100 +1,16 @@
 {
- "generated": "2026-10-25T10:00:25.939053+00:00",
+ "generated": "2026-10-25T14:23:13.483028+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 87,
-  "3": 24,
-  "4": 12,
-  "5": 3
+  "2": 76,
+  "3": 26,
+  "4": 9,
+  "5": 1
  },
- "watch_hits": [
-  "1c16bd1ea18d"
- ],
+ "watch_hits": [],
  "regions": {
-  "Middle East & N. Africa": [
-   {
-    "id": "fce7707bb829",
-    "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-    "country": "Jordan",
-    "city": null,
-    "category": "terrorism",
-    "severity": 5,
-    "confidence": "B1",
-    "time": "2026-10-24T11:59:08+00:00"
-   },
-   {
-    "id": "27392c906699",
-    "title": "Eight killed and 40 injured after gunmen open fire at church funeral in Jordan",
-    "country": "Jordan",
-    "city": null,
-    "category": "terrorism",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-10-24T10:23:13+00:00"
-   },
-   {
-    "id": "f31bc0a7957e",
-    "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-    "country": "Palestine",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B2",
-    "time": "2026-10-24T13:17:13+00:00"
-   },
-   {
-    "id": "b844f50cf355",
-    "title": "The West Bank - Level 3: Reconsider Travel",
-    "country": "Palestine",
-    "city": null,
-    "category": "advisory",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-26T00:00:00+00:00"
-   },
-   {
-    "id": "f8249f9dae13",
-    "title": "Gunmen kill seven at church in Jordan",
-    "country": "Jordan",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-24T16:15:00+00:00"
-   },
-   {
-    "id": "2c7a3604e723",
-    "title": "Israel to close all West Bank land crossings on election day",
-    "country": "Israel",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-24T13:52:55+00:00"
-   },
-   {
-    "id": "5c1604d43860",
-    "title": "Netanyahu orders West Bank operation",
-    "country": "Palestine",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-24T10:33:52+00:00"
-   },
-   {
-    "id": "511b2d5a782a",
-    "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
-    "country": "Israel",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-25T05:27:54+00:00"
-   }
-  ],
   "East & SE Asia": [
    {
     "id": "8ed2959cb97d",
@@ -115,6 +31,26 @@
     "severity": 4,
     "confidence": "C4",
     "time": "2026-10-24T17:15:00+00:00"
+   },
+   {
+    "id": "a1d5939a8a82",
+    "title": "M5.1 earthquake, 199 km ENE of Nagqu, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-25T11:24:14.089000+00:00"
+   },
+   {
+    "id": "776e6350952d",
+    "title": "Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI>=V.",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T11:44:56+00:00"
    },
    {
     "id": "9be126c813f3",
@@ -155,182 +91,100 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-24T21:41:51.565000+00:00"
-   },
-   {
-    "id": "ac75c55eb11c",
-    "title": "M4.6 earthquake, 195 km NE of Nagqu, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T13:26:34.296000+00:00"
-   },
-   {
-    "id": "9cf89d56c886",
-    "title": "M4.7 earthquake, 72 km S of Basco, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T11:48:08.678000+00:00"
    }
   ],
-  "Sub-Saharan Africa": [
+  "Middle East & N. Africa": [
    {
-    "id": "45c083b50307",
-    "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-    "country": "Nigeria",
+    "id": "b844f50cf355",
+    "title": "The West Bank - Level 3: Reconsider Travel",
+    "country": "Palestine",
+    "city": null,
+    "category": "advisory",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-26T00:00:00+00:00"
+   },
+   {
+    "id": "f8249f9dae13",
+    "title": "Gunmen kill seven at church in Jordan",
+    "country": "Jordan",
     "city": null,
     "category": "terrorism",
     "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-25T03:20:16+00:00"
+    "confidence": "C4",
+    "time": "2026-10-24T16:15:00+00:00"
    },
    {
-    "id": "9b653a49cb71",
-    "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-    "country": "Nigeria",
+    "id": "ccd7d78fd55f",
+    "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
+    "country": "Saudi Arabia",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-24T22:35:45+00:00"
+    "time": "2026-10-25T10:42:51+00:00"
    },
    {
-    "id": "624bda24912d",
-    "title": "Niger imposes curfew on petrol sales amid national fuel shortage",
-    "country": "Niger",
+    "id": "511b2d5a782a",
+    "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+    "country": "Israel",
     "city": null,
-    "category": "unrest",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T05:27:54+00:00"
+   },
+   {
+    "id": "cf8e429bd24b",
+    "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+    "country": "Saudi Arabia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-24T21:08:51+00:00"
+   },
+   {
+    "id": "065cb28f0d2f",
+    "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
+    "country": "Saudi Arabia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-24T17:50:25+00:00"
+   },
+   {
+    "id": "71835405205f",
+    "title": "Around 1 , 200 Palestinians are displaced in Hebron as Israel begins military operation",
+    "country": "Israel",
+    "city": null,
+    "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-25T09:14:11+00:00"
+    "time": "2026-10-24T17:15:00+00:00"
    },
    {
-    "id": "8b4c7a71edc3",
-    "title": "Nigeria's Tinubu defends policies as he launches re-election bid",
-    "country": "Nigeria",
+    "id": "caa16072770d",
+    "title": "Full lockdown of occupied West Bank begins",
+    "country": "Palestine",
     "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-25T08:47:47+00:00"
-   },
-   {
-    "id": "14abf1c38efe",
-    "title": "Green forest fire notification in Mali",
-    "country": "Mali",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T19:02:19+00:00"
-   },
-   {
-    "id": "071d9d2885f3",
-    "title": "Green forest fire notification in Mauritania, Mali",
-    "country": "Mali",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T11:01:03+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "ab66ef5bae22",
-    "title": "M5.0 earthquake, 192 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-24T23:44:57.729000+00:00"
-   },
-   {
-    "id": "c419c8ffc794",
-    "title": "M4.8 earthquake, 153 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-24T16:54:15.523000+00:00"
-   },
-   {
-    "id": "e6686f977aa8",
-    "title": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "hazard",
-    "severity": 2,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-25T05:30:30+00:00"
-   },
-   {
-    "id": "99edd1bf35e0",
-    "title": "Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T02:43:04+00:00"
-   },
-   {
-    "id": "7fbad246affe",
-    "title": "M4.9 earthquake, 73 km SW of Isangel, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T19:18:20.515000+00:00"
-   },
-   {
-    "id": "df9611677c5b",
-    "title": "M4.8 earthquake, 216 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T13:53:00.775000+00:00"
-   },
-   {
-    "id": "6fa7f55b80b6",
-    "title": "M4.9 earthquake, 196 km W of Sola, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T11:14:00.121000+00:00"
+    "time": "2026-10-24T14:24:19+00:00"
    }
   ],
   "Western Europe": [
    {
-    "id": "d46f308137ba",
-    "title": "Macron condemns racist terrorist attack in Paris suburb",
+    "id": "b4dbc29621f0",
+    "title": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
     "country": "France",
     "city": "Paris",
     "category": "terrorism",
     "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-24T13:21:02+00:00"
-   },
-   {
-    "id": "2e8abf200d91",
-    "title": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
-    "country": "France",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-24T10:47:07+00:00"
+    "time": "2026-10-25T10:36:42+00:00"
    },
    {
     "id": "741cf536478a",
@@ -373,6 +227,16 @@
     "time": "2026-10-25T07:00:56+00:00"
    },
    {
+    "id": "c19a1979042f",
+    "title": "France: Clashes erupt as protests sweep across cities",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-24T17:50:19+00:00"
+   },
+   {
     "id": "36ea7b7ac947",
     "title": "Clashes erupt between protesters and police in France",
     "country": "France",
@@ -393,6 +257,150 @@
     "time": "2026-10-24T15:42:17+00:00"
    }
   ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "45c083b50307",
+    "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+    "country": "Nigeria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-25T03:20:16+00:00"
+   },
+   {
+    "id": "9b653a49cb71",
+    "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+    "country": "Nigeria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-24T22:35:45+00:00"
+   },
+   {
+    "id": "624bda24912d",
+    "title": "Niger imposes curfew on petrol sales amid national fuel shortage",
+    "country": "Niger",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-25T09:14:11+00:00"
+   },
+   {
+    "id": "8c634b33d172",
+    "title": "Red Cross trains staff as Kenya records its second death from Ebola",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-25T10:45:43+00:00"
+   },
+   {
+    "id": "8b4c7a71edc3",
+    "title": "Nigeria's Tinubu defends policies as he launches re-election bid",
+    "country": "Nigeria",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-25T08:47:47+00:00"
+   },
+   {
+    "id": "14abf1c38efe",
+    "title": "Green forest fire notification in Mali",
+    "country": "Mali",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T19:02:19+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "ab66ef5bae22",
+    "title": "M5.0 earthquake, 192 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-24T23:44:57.729000+00:00"
+   },
+   {
+    "id": "7fbad246affe",
+    "title": "M4.9 earthquake, 73 km SW of Isangel, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-24T19:18:20.515000+00:00"
+   },
+   {
+    "id": "c419c8ffc794",
+    "title": "M4.8 earthquake, 153 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-24T16:54:15.523000+00:00"
+   },
+   {
+    "id": "ba84bfd62388",
+    "title": "Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+    "country": "Marshall Islands",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T11:52:38+00:00"
+   },
+   {
+    "id": "dc54e9dd7be8",
+    "title": "M5.4 earthquake, 205 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T08:41:00.034000+00:00"
+   },
+   {
+    "id": "e6686f977aa8",
+    "title": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T05:30:30+00:00"
+   },
+   {
+    "id": "99edd1bf35e0",
+    "title": "Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T02:43:04+00:00"
+   },
+   {
+    "id": "9cda7c114372",
+    "title": "M4.8 earthquake, 215 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T15:07:40.810000+00:00"
+   }
+  ],
   "Eastern Europe": [
    {
     "id": "a4516d8baee6",
@@ -403,6 +411,16 @@
     "severity": 3,
     "confidence": "C1",
     "time": "2026-10-24T16:00:00+00:00"
+   },
+   {
+    "id": "02af3512de27",
+    "title": "Ukraine strikes Russian titanium plant, facility producing missile, drone components, monitoring channels claim",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-25T11:48:05+00:00"
    },
    {
     "id": "4cb47cdfdf93",
@@ -463,16 +481,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-24T21:42:59+00:00"
-   },
-   {
-    "id": "8c2e4d5fb173",
-    "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-24T15:47:20+00:00"
    }
   ],
   "North America": [
@@ -509,14 +517,24 @@
   ],
   "Latin America & Caribbean": [
    {
-    "id": "d4b9e04506bd",
-    "title": "Haiti's ex-president Martelly registers as candidate for upcoming election",
+    "id": "9af2dcb6d2f8",
+    "title": "Demand for UK government action 10 months after British man’s death in Grenada",
+    "country": "Grenada",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T11:00:01+00:00"
+   },
+   {
+    "id": "14599af19496",
+    "title": "El Salvador president says bodies found in Haiti are not those of hostages",
     "country": "Haiti",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-24T14:09:35+00:00"
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T10:55:33+00:00"
    },
    {
     "id": "bd800462b521",
@@ -547,16 +565,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-24T18:11:44+00:00"
-   },
-   {
-    "id": "92d88aef9f73",
-    "title": "Green forest fire notification in Bolivia",
-    "country": "Bolivia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T11:06:35+00:00"
    }
   ],
   "South Asia": [
