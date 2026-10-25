@@ -1,17 +1,16 @@
 {
- "generated": "2026-10-25T05:20:48.724243+00:00",
+ "generated": "2026-10-25T10:00:25.939053+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 80,
+  "2": 87,
   "3": 24,
-  "4": 10,
+  "4": 12,
   "5": 3
  },
  "watch_hits": [
-  "1c16bd1ea18d",
-  "acadb7ba74e8"
+  "1c16bd1ea18d"
  ],
  "regions": {
   "Middle East & N. Africa": [
@@ -66,6 +65,16 @@
     "time": "2026-10-24T16:15:00+00:00"
    },
    {
+    "id": "2c7a3604e723",
+    "title": "Israel to close all West Bank land crossings on election day",
+    "country": "Israel",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-24T13:52:55+00:00"
+   },
+   {
     "id": "5c1604d43860",
     "title": "Netanyahu orders West Bank operation",
     "country": "Palestine",
@@ -76,24 +85,14 @@
     "time": "2026-10-24T10:33:52+00:00"
    },
    {
-    "id": "cf8e429bd24b",
-    "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-    "country": "Saudi Arabia",
+    "id": "511b2d5a782a",
+    "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+    "country": "Israel",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-24T21:08:51+00:00"
-   },
-   {
-    "id": "065cb28f0d2f",
-    "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
-    "country": "Saudi Arabia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-24T17:50:25+00:00"
+    "time": "2026-10-25T05:27:54+00:00"
    }
   ],
   "East & SE Asia": [
@@ -116,6 +115,16 @@
     "severity": 4,
     "confidence": "C4",
     "time": "2026-10-24T17:15:00+00:00"
+   },
+   {
+    "id": "9be126c813f3",
+    "title": "M4.6 earthquake, Volcano Islands, Japan region",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T09:11:17.412000+00:00"
    },
    {
     "id": "cddaf208ec5b",
@@ -148,6 +157,16 @@
     "time": "2026-10-24T21:41:51.565000+00:00"
    },
    {
+    "id": "ac75c55eb11c",
+    "title": "M4.6 earthquake, 195 km NE of Nagqu, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T13:26:34.296000+00:00"
+   },
+   {
     "id": "9cf89d56c886",
     "title": "M4.7 earthquake, 72 km S of Basco, Philippines",
     "country": "Philippines",
@@ -156,29 +175,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-24T11:48:08.678000+00:00"
-   },
-   {
-    "id": "0f655759e76f",
-    "title": "Typhoon Champi batters Taiwan",
-    "country": "Taiwan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-24T10:33:04+00:00"
-   },
-   {
-    "id": "88db8632fcea",
-    "title": "M5.3 earthquake, 223 km ENE of Nagqu, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T08:39:53.139000+00:00"
    }
   ],
   "Sub-Saharan Africa": [
+   {
+    "id": "45c083b50307",
+    "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+    "country": "Nigeria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-25T03:20:16+00:00"
+   },
    {
     "id": "9b653a49cb71",
     "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
@@ -188,6 +197,26 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-24T22:35:45+00:00"
+   },
+   {
+    "id": "624bda24912d",
+    "title": "Niger imposes curfew on petrol sales amid national fuel shortage",
+    "country": "Niger",
+    "city": null,
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-25T09:14:11+00:00"
+   },
+   {
+    "id": "8b4c7a71edc3",
+    "title": "Nigeria's Tinubu defends policies as he launches re-election bid",
+    "country": "Nigeria",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-25T08:47:47+00:00"
    },
    {
     "id": "14abf1c38efe",
@@ -208,39 +237,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-24T11:01:03+00:00"
-   },
-   {
-    "id": "7f71d26c2b19",
-    "title": "New Tumaini Ebola vaccine trial launches in Bunia as DRC struggles",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-24T08:38:44+00:00"
-   },
-   {
-    "id": "acadb7ba74e8",
-    "title": "Police dispel crowds with tear gas after 16-storey building collapses in Nairobi",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-24T07:29:49+00:00"
-   },
-   {
-    "id": "40acc7b79127",
-    "title": "CAR: Former hostages greeted by President Touadéra on return to Bangui",
-    "country": "CAR",
-    "city": "Bangui",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-24T07:25:38+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "ab66ef5bae22",
+    "title": "M5.0 earthquake, 192 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-24T23:44:57.729000+00:00"
+   },
    {
     "id": "c419c8ffc794",
     "title": "M4.8 earthquake, 153 km NW of Port-Olry, Vanuatu",
@@ -252,34 +261,14 @@
     "time": "2026-10-24T16:54:15.523000+00:00"
    },
    {
-    "id": "108bca45d1b9",
-    "title": "M5.1 earthquake, 209 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
+    "id": "e6686f977aa8",
+    "title": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
+    "country": "Australia",
+    "city": "Sydney",
     "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-24T08:28:02.029000+00:00"
-   },
-   {
-    "id": "8ce32941f7f9",
-    "title": "M5.1 earthquake, 218 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-24T08:22:46.296000+00:00"
-   },
-   {
-    "id": "df71875231e8",
-    "title": "M5.8 earthquake, 182 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-24T05:23:40.747000+00:00"
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T05:30:30+00:00"
    },
    {
     "id": "99edd1bf35e0",
@@ -300,6 +289,26 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-24T19:18:20.515000+00:00"
+   },
+   {
+    "id": "df9611677c5b",
+    "title": "M4.8 earthquake, 216 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T13:53:00.775000+00:00"
+   },
+   {
+    "id": "6fa7f55b80b6",
+    "title": "M4.9 earthquake, 196 km W of Sola, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-24T11:14:00.121000+00:00"
    }
   ],
   "Western Europe": [
@@ -324,16 +333,6 @@
     "time": "2026-10-24T10:47:07+00:00"
    },
    {
-    "id": "c795dd092090",
-    "title": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-24T09:00:29+00:00"
-   },
-   {
     "id": "741cf536478a",
     "title": "France: Protests continue while police fire tear gas at demonstrators",
     "country": "France",
@@ -342,6 +341,36 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-10-24T17:10:42+00:00"
+   },
+   {
+    "id": "11659ce63737",
+    "title": "France: Some clashes erupted at end of protests",
+    "country": "France",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T09:35:20+00:00"
+   },
+   {
+    "id": "c7a83eed0b12",
+    "title": "Photos: Clashes erupt in France during protests over rising living costs",
+    "country": "France",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T07:28:47+00:00"
+   },
+   {
+    "id": "908fd23d3025",
+    "title": "Zadie Smith tells Dua Lipa inequality has made culture clashes feel ‘existential’",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T07:00:56+00:00"
    },
    {
     "id": "36ea7b7ac947",
@@ -362,26 +391,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-24T15:42:17+00:00"
-   },
-   {
-    "id": "b2c9188b78ad",
-    "title": "‘You need persistence’: the Norfolk couple who took on environmental regulators three times – and won",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-24T07:00:27+00:00"
-   },
-   {
-    "id": "583cb9f7db1c",
-    "title": "France mobilises thousands of police at protests over living costs",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C1",
-    "time": "2026-10-24T15:45:00+00:00"
    }
   ],
   "Eastern Europe": [
@@ -396,8 +405,38 @@
     "time": "2026-10-24T16:00:00+00:00"
    },
    {
+    "id": "4cb47cdfdf93",
+    "title": "Russian attacks kill 8, injure 51 across Ukraine over past day as drone strikes residential building in Vinnytsia",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-25T08:20:36+00:00"
+   },
+   {
+    "id": "e4f863f4fa1d",
+    "title": "General Staff: Russia has lost 1,578,450 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-25T07:15:42+00:00"
+   },
+   {
     "id": "9f8915a53754",
     "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T02:45:43+00:00"
+   },
+   {
+    "id": "58121fe35daf",
+    "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
     "country": "Ukraine",
     "city": null,
     "category": "conflict",
@@ -434,36 +473,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-24T15:47:20+00:00"
-   },
-   {
-    "id": "d6628f27df2c",
-    "title": "Ukraine sanctions Russian arms suppliers as Moscow ramps up attacks",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-24T12:12:05+00:00"
-   },
-   {
-    "id": "a08523e08d88",
-    "title": "Russian attacks kill 4, injure 78 across Ukraine over past day, as drone strikes Kyiv residential building in the morning",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-24T09:43:22+00:00"
-   },
-   {
-    "id": "ac441874854a",
-    "title": "General Staff: Russia has lost 1,576,600 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-24T06:11:44+00:00"
    }
   ],
   "North America": [
@@ -508,6 +517,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-24T14:09:35+00:00"
+   },
+   {
+    "id": "bd800462b521",
+    "title": "M4.6 earthquake, 50 km SW of Atiquipa, Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T07:11:49.640000+00:00"
    },
    {
     "id": "f3835df0e646",
