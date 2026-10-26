@@ -1,29 +1,37 @@
 {
- "generated": "2026-10-26T06:14:37.338465+00:00",
+ "generated": "2026-10-26T13:16:14.380188+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 67,
-  "3": 22,
-  "4": 7,
-  "5": 0
+  "2": 66,
+  "3": 25,
+  "4": 9,
+  "5": 2
  },
  "watch_hits": [],
  "regions": {
-  "South Asia": [
-   {
-    "id": "7cde74a45416",
-    "title": "Orange notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.356 million .",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-26T01:51:40+00:00"
-   }
-  ],
   "Middle East & N. Africa": [
+   {
+    "id": "a5492ab3442c",
+    "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-10-26T12:17:02+00:00"
+   },
+   {
+    "id": "cd3cf38bbf0e",
+    "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+    "country": "Jordan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-26T11:08:48+00:00"
+   },
    {
     "id": "b844f50cf355",
     "title": "The West Bank - Level 3: Reconsider Travel",
@@ -65,44 +73,170 @@
     "time": "2026-10-25T15:21:26+00:00"
    },
    {
-    "id": "b54e8f5d12dc",
-    "title": "Iran war live: Saudi, Pakistani and Turkish defence officials due in Tehran",
-    "country": "Iran",
-    "city": "Tehran",
+    "id": "ec6d86a215e3",
+    "title": "Algeria to send troops to Niger in first foreign deployment in over 50 years",
+    "country": "Algeria",
+    "city": "Algiers",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-26T00:00:00+00:00"
+    "time": "2026-10-26T10:10:40+00:00"
    },
    {
-    "id": "e04b841da7d5",
-    "title": "Israeli air strike on Gaza City university kills three people",
-    "country": "Palestine",
+    "id": "81b1c1085e0c",
+    "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+    "country": "Sudan",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-25T18:12:13+00:00"
+    "time": "2026-10-26T09:59:27+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "63a145ec47ee",
+    "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3.049 million .",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-10-26T01:51:40+00:00"
    },
    {
-    "id": "a77393a35c05",
-    "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-    "country": "Israel",
+    "id": "7cde74a45416",
+    "title": "Orange notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.356 million .",
+    "country": "India",
     "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-26T01:51:40+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "0df67ce3d972",
+    "title": "Live: France will maintain order without state of emergency, but it’s not off the table, Macron says",
+    "country": "France",
+    "city": "Marseille",
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-26T12:47:12+00:00"
+   },
+   {
+    "id": "43cfa4c4bc7e",
+    "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+    "country": "France",
+    "city": "Paris",
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-25T14:46:38+00:00"
+    "time": "2026-10-26T05:53:54+00:00"
    },
    {
-    "id": "ccd7d78fd55f",
-    "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-    "country": "Saudi Arabia",
+    "id": "e308c91d864c",
+    "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-25T13:29:56+00:00"
+   },
+   {
+    "id": "190dacb2ea1b",
+    "title": "Macron vows ‘concrete’ measures to address student demands after unrest",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T12:25:21+00:00"
+   },
+   {
+    "id": "d9ac5f8ef846",
+    "title": "French PM meets student representatives after weeks of protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T12:20:14+00:00"
+   },
+   {
+    "id": "24a06f65c192",
+    "title": "About 90,000 properties still without power after two storms strike Britain",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T11:09:13+00:00"
+   },
+   {
+    "id": "ecb7e78ac9c5",
+    "title": "Suspect in Paris shooting moved to police psychiatric unit",
+    "country": "France",
+    "city": "Paris",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-26T09:35:36+00:00"
+   },
+   {
+    "id": "849ec3112288",
+    "title": "Paris welcomes first NFL game with a party a day after protests",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T07:41:40+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "789875cf7e34",
+    "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
+    "country": "Canada",
+    "city": "Montreal",
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-26T06:44:33+00:00"
+   },
+   {
+    "id": "b979e787d798",
+    "title": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
+    "country": "United States",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-25T10:42:51+00:00"
+    "time": "2026-10-26T13:07:21+00:00"
+   },
+   {
+    "id": "cb577a2270fd",
+    "title": "US south-west braces for more storms after enduring days of rain and flooding",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T19:02:51+00:00"
+   },
+   {
+    "id": "03652b48ef1e",
+    "title": "Lula’s victory may be a turning point for Latin America",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T08:41:23+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -117,14 +251,64 @@
     "time": "2026-10-25T19:14:27+00:00"
    },
    {
-    "id": "624bda24912d",
-    "title": "Niger imposes curfew on petrol sales amid national fuel shortage",
+    "id": "05e72978642c",
+    "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+    "country": "Somalia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T11:00:40+00:00"
+   },
+   {
+    "id": "2dee83259df3",
+    "title": "Niger imposes overnight fuel sales curfew amid nationwide shortage",
     "country": "Niger",
     "city": null,
     "category": "unrest",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-25T09:14:11+00:00"
+    "time": "2026-10-26T09:02:33+00:00"
+   },
+   {
+    "id": "189b3bf900a4",
+    "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T12:57:58+00:00"
+   },
+   {
+    "id": "9eecfef8aa40",
+    "title": "Green forest fire notification in South Africa, Mozambique",
+    "country": "South Africa",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T12:15:03+00:00"
+   },
+   {
+    "id": "83ffcda81cfd",
+    "title": "Green forest fire notification in Tanzania, Mozambique",
+    "country": "Tanzania",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T08:33:40+00:00"
+   },
+   {
+    "id": "38ae14c7d6b7",
+    "title": "Ebola: Uganda introduces 21-day quarantine for people entering from DRC",
+    "country": "Uganda",
+    "city": "Kampala",
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-26T06:10:31+00:00"
    },
    {
     "id": "9a511997d6dd",
@@ -135,118 +319,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-26T04:21:26+00:00"
-   },
-   {
-    "id": "bdc473a38337",
-    "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T18:20:26+00:00"
-   },
-   {
-    "id": "8c634b33d172",
-    "title": "Red Cross trains staff as Kenya records its second death from Ebola",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-25T10:45:43+00:00"
-   },
-   {
-    "id": "8b4c7a71edc3",
-    "title": "Nigeria's Tinubu defends policies as he launches re-election bid",
-    "country": "Nigeria",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-25T08:47:47+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "b4dbc29621f0",
-    "title": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
-    "country": "France",
-    "city": "Paris",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-25T10:36:42+00:00"
-   },
-   {
-    "id": "43cfa4c4bc7e",
-    "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
-    "country": "France",
-    "city": "Paris",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-26T05:53:54+00:00"
-   },
-   {
-    "id": "11659ce63737",
-    "title": "France: Some clashes erupted at end of protests",
-    "country": "France",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-25T09:35:20+00:00"
-   },
-   {
-    "id": "c7a83eed0b12",
-    "title": "Photos: Clashes erupt in France during protests over rising living costs",
-    "country": "France",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-25T07:28:47+00:00"
-   },
-   {
-    "id": "908fd23d3025",
-    "title": "Zadie Smith tells Dua Lipa inequality has made culture clashes feel ‘existential’",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-25T07:00:56+00:00"
-   },
-   {
-    "id": "e308c91d864c",
-    "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
-    "country": "Portugal",
-    "city": "Lisbon",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-25T13:29:56+00:00"
-   },
-   {
-    "id": "31ecfde28ed0",
-    "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-25T10:38:15+00:00"
-   },
-   {
-    "id": "abe230e5ef04",
-    "title": "Hundreds of thousands march in France to protest against government",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-25T09:29:39+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -281,6 +353,16 @@
     "time": "2026-10-26T00:19:05+00:00"
    },
    {
+    "id": "9da56ce1c5c7",
+    "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T00:19:05+00:00"
+   },
+   {
     "id": "a0c962607395",
     "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
     "country": "Brazil",
@@ -301,49 +383,77 @@
     "time": "2026-10-25T20:00:04+00:00"
    },
    {
-    "id": "bfc83df0a7d4",
-    "title": "Green forest fire notification in Guyana",
-    "country": "Guyana",
+    "id": "81e9288e7258",
+    "title": "Brazil: Thousands flood streets to celebrate Lula's election victory",
+    "country": "Brazil",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-26T00:16:22+00:00"
+    "confidence": "C4",
+    "time": "2026-10-26T11:26:25+00:00"
    },
    {
-    "id": "82bef1e1ed88",
-    "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-    "country": "Venezuela",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T18:55:39+00:00"
-   },
-   {
-    "id": "9af2dcb6d2f8",
-    "title": "Demand for UK government action 10 months after British man’s death in Grenada",
-    "country": "Grenada",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T11:00:01+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "cb577a2270fd",
-    "title": "US south-west braces for more storms after enduring days of rain and flooding",
-    "country": "Mexico",
-    "city": null,
+    "id": "29a360a04594",
+    "title": "Photos: Lula supporters flood streets in celebration of historic win",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
     "category": "hazard",
-    "severity": 3,
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-25T19:02:51+00:00"
+    "time": "2026-10-26T07:24:58+00:00"
    }
   ],
   "Eastern Europe": [
+   {
+    "id": "98b7f419b79f",
+    "title": "US holding up air defense missiles for Ukraine for nearly a month, Zelensky says",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-26T12:20:29+00:00"
+   },
+   {
+    "id": "8fb01ab32dc8",
+    "title": "Russian attacks across Ukraine kill 2, injure 35 over past day, as repeated strikes hit Zaporizhzhia",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-26T09:52:57+00:00"
+   },
+   {
+    "id": "62af1fe1dfdd",
+    "title": "Russian ministry recommends underground data centers following Ukrainian drone strikes",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-26T09:13:17+00:00"
+   },
+   {
+    "id": "dc986424b307",
+    "title": "Russia says it will open humanitarian corridor to Ukrainian town",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T08:42:00+00:00"
+   },
+   {
+    "id": "c6c0325b03a5",
+    "title": "General Staff: Russia has lost 1,580,440 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-26T07:22:58+00:00"
+   },
    {
     "id": "a534131c1089",
     "title": "Ukraine war latest: Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
@@ -373,131 +483,49 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-25T14:34:33+00:00"
-   },
-   {
-    "id": "02af3512de27",
-    "title": "Ukraine strikes Russian titanium plant, facility producing missile, drone components, monitoring channels claim",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-25T11:48:05+00:00"
-   },
-   {
-    "id": "4cb47cdfdf93",
-    "title": "Russian attacks kill 8, injure 51 across Ukraine over past day as drone strikes residential building in Vinnytsia",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-25T08:20:36+00:00"
-   },
-   {
-    "id": "e4f863f4fa1d",
-    "title": "General Staff: Russia has lost 1,578,450 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-25T07:15:42+00:00"
-   },
-   {
-    "id": "c115636b0d3f",
-    "title": "Serbia’s Vucic concedes election defeat to student-led movement",
-    "country": "Serbia",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-10-25T19:19:54+00:00"
-   },
-   {
-    "id": "99e27d0e43a0",
-    "title": "Aleksandar Vucic, the Serbian leader brought down by students",
-    "country": "Serbia",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-26T05:24:59+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "a1d5939a8a82",
-    "title": "M5.1 earthquake, 199 km ENE of Nagqu, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-25T11:24:14.089000+00:00"
-   },
-   {
-    "id": "74117a5ab87c",
-    "title": "M5.3 earthquake, Bonin Islands, Japan region",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T22:14:15.949000+00:00"
-   },
-   {
-    "id": "f396cb59571f",
-    "title": "M4.8 earthquake, 41 km WNW of Kupang, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-26T03:59:22.208000+00:00"
-   },
-   {
-    "id": "49ad57f2cde5",
-    "title": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
-    "country": "Malaysia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T14:54:53+00:00"
-   },
-   {
-    "id": "776e6350952d",
-    "title": "Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI>=V.",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T11:44:56+00:00"
-   },
-   {
-    "id": "7f32e3c56a0b",
-    "title": "M5.4 earthquake, 33 km ESE of Ambunti, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T10:30:27.588000+00:00"
-   },
-   {
-    "id": "9be126c813f3",
-    "title": "M4.6 earthquake, Volcano Islands, Japan region",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T09:11:17.412000+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "670cb2fdf605",
+    "title": "M5.5 earthquake, 283 km E of Levuka, Fiji",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-26T10:13:01.234000+00:00"
+   },
+   {
+    "id": "cb4a1c56a320",
+    "title": "M5.0 earthquake, 218 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T11:17:55.055000+00:00"
+   },
+   {
+    "id": "6f9745ab8197",
+    "title": "Green earthquake (Magnitude 5.5M, Depth:641.812km) in Fiji 26/10/2026 10:13 UTC, 2 thousand in 100km.",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T10:30:25+00:00"
+   },
+   {
+    "id": "6bb662873457",
+    "title": "Man found dead in Queensland flood waters as state hit by multiple storms and days-long deluge",
+    "country": "Australia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T07:43:52+00:00"
+   },
    {
     "id": "f6394cc9ffad",
     "title": "Australian murderer loses bid to eat Vegemite in prison",
@@ -537,26 +565,78 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-25T20:30:42.515000+00:00"
-   },
+   }
+  ],
+  "East & SE Asia": [
    {
-    "id": "ba84bfd62388",
-    "title": "Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
-    "country": "Marshall Islands",
+    "id": "74117a5ab87c",
+    "title": "M5.3 earthquake, Bonin Islands, Japan region",
+    "country": "Japan",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-25T11:52:38+00:00"
+    "time": "2026-10-25T22:14:15.949000+00:00"
    },
    {
-    "id": "dc54e9dd7be8",
-    "title": "M5.4 earthquake, 205 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
+    "id": "1e73398ed9d8",
+    "title": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
+    "country": "Japan",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T12:52:39+00:00"
+   },
+   {
+    "id": "fc270661cd42",
+    "title": "Green forest fire notification in Papua New Guinea",
+    "country": "Papua New Guinea",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-25T08:41:00.034000+00:00"
+    "time": "2026-10-26T08:42:41+00:00"
+   },
+   {
+    "id": "d313bdc2c6ed",
+    "title": "M4.5 earthquake, 107 km WNW of Tumxuk, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T07:48:16.240000+00:00"
+   },
+   {
+    "id": "f396cb59571f",
+    "title": "M4.8 earthquake, 41 km WNW of Kupang, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T03:59:22.208000+00:00"
+   },
+   {
+    "id": "7ae963ca86f0",
+    "title": "M4.7 earthquake, 170 km ENE of Nagqu, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T22:01:35.793000+00:00"
+   },
+   {
+    "id": "49ad57f2cde5",
+    "title": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
+    "country": "Malaysia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T14:54:53+00:00"
    }
   ]
  }
