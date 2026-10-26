@@ -1,96 +1,26 @@
 {
- "generated": "2026-10-26T01:00:31.526486+00:00",
+ "generated": "2026-10-26T06:14:37.338465+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 66,
-  "3": 19,
-  "4": 8,
-  "5": 1
+  "2": 67,
+  "3": 22,
+  "4": 7,
+  "5": 0
  },
  "watch_hits": [],
  "regions": {
-  "East & SE Asia": [
+  "South Asia": [
    {
-    "id": "8ed2959cb97d",
-    "title": "M6.5 earthquake, Bonin Islands, Japan region",
-    "country": "Japan",
+    "id": "7cde74a45416",
+    "title": "Orange notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.356 million .",
+    "country": "India",
     "city": null,
     "category": "hazard",
-    "severity": 5,
+    "severity": 4,
     "confidence": "A1",
-    "time": "2026-10-25T02:09:23.818000+00:00"
-   },
-   {
-    "id": "a1d5939a8a82",
-    "title": "M5.1 earthquake, 199 km ENE of Nagqu, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-25T11:24:14.089000+00:00"
-   },
-   {
-    "id": "74117a5ab87c",
-    "title": "M5.3 earthquake, Bonin Islands, Japan region",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T22:14:15.949000+00:00"
-   },
-   {
-    "id": "49ad57f2cde5",
-    "title": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
-    "country": "Malaysia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T14:54:53+00:00"
-   },
-   {
-    "id": "776e6350952d",
-    "title": "Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI>=V.",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T11:44:56+00:00"
-   },
-   {
-    "id": "9be126c813f3",
-    "title": "M4.6 earthquake, Volcano Islands, Japan region",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T09:11:17.412000+00:00"
-   },
-   {
-    "id": "1498b0872f69",
-    "title": "M4.5 earthquake, 74 km SSE of Onagawa Chō, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T06:04:22.644000+00:00"
-   },
-   {
-    "id": "cddaf208ec5b",
-    "title": "M5.2 earthquake, 63 km NNE of Lae, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T03:29:10.551000+00:00"
+    "time": "2026-10-26T01:51:40+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -135,6 +65,16 @@
     "time": "2026-10-25T15:21:26+00:00"
    },
    {
+    "id": "b54e8f5d12dc",
+    "title": "Iran war live: Saudi, Pakistani and Turkish defence officials due in Tehran",
+    "country": "Iran",
+    "city": "Tehran",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T00:00:00+00:00"
+   },
+   {
     "id": "e04b841da7d5",
     "title": "Israeli air strike on Gaza City university kills three people",
     "country": "Palestine",
@@ -163,16 +103,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-25T10:42:51+00:00"
-   },
-   {
-    "id": "511b2d5a782a",
-    "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
-    "country": "Israel",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-25T05:27:54+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -187,16 +117,6 @@
     "time": "2026-10-25T19:14:27+00:00"
    },
    {
-    "id": "45c083b50307",
-    "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-    "country": "Nigeria",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-25T03:20:16+00:00"
-   },
-   {
     "id": "624bda24912d",
     "title": "Niger imposes curfew on petrol sales amid national fuel shortage",
     "country": "Niger",
@@ -205,6 +125,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-25T09:14:11+00:00"
+   },
+   {
+    "id": "9a511997d6dd",
+    "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T04:21:26+00:00"
    },
    {
     "id": "bdc473a38337",
@@ -247,6 +177,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-25T10:36:42+00:00"
+   },
+   {
+    "id": "43cfa4c4bc7e",
+    "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+    "country": "France",
+    "city": "Paris",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T05:53:54+00:00"
    },
    {
     "id": "11659ce63737",
@@ -307,81 +247,39 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-10-25T09:29:39+00:00"
-   },
-   {
-    "id": "9f221e999f0a",
-    "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T21:50:36+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "eea551bdc90b",
-    "title": "M5.1 earthquake, 166 km WNW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-25T01:46:23.382000+00:00"
-   },
-   {
-    "id": "039a716c343a",
-    "title": "M4.8 earthquake, 167 km WNW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T20:30:42.515000+00:00"
-   },
-   {
-    "id": "ba84bfd62388",
-    "title": "Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
-    "country": "Marshall Islands",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T11:52:38+00:00"
-   },
-   {
-    "id": "dc54e9dd7be8",
-    "title": "M5.4 earthquake, 205 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T08:41:00.034000+00:00"
-   },
-   {
-    "id": "e6686f977aa8",
-    "title": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T05:30:30+00:00"
-   },
-   {
-    "id": "99edd1bf35e0",
-    "title": "Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T02:43:04+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "52d13ac4ad31",
+    "title": "🔴 Live: Bolsonaro refuses to recognise Brazil election results",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-26T02:01:30+00:00"
+   },
+   {
+    "id": "151d01c40b3d",
+    "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T02:59:50+00:00"
+   },
+   {
+    "id": "0f79fd8fc43c",
+    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T00:19:05+00:00"
+   },
    {
     "id": "a0c962607395",
     "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
@@ -431,26 +329,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-25T11:00:01+00:00"
-   },
-   {
-    "id": "14599af19496",
-    "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T10:55:33+00:00"
-   },
-   {
-    "id": "bd800462b521",
-    "title": "M4.6 earthquake, 50 km SW of Atiquipa, Peru",
-    "country": "Peru",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T07:11:49.640000+00:00"
    }
   ],
   "North America": [
@@ -463,16 +341,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-25T19:02:51+00:00"
-   },
-   {
-    "id": "fc87101b4bbb",
-    "title": "Obama joins El-Sayed in Michigan rally cry before key midterms",
-    "country": "United States",
-    "city": "Detroit",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-25T04:06:28+00:00"
    }
   ],
   "Eastern Europe": [
@@ -495,6 +363,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-25T18:05:29+00:00"
+   },
+   {
+    "id": "738d676b1d6d",
+    "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T14:34:33+00:00"
    },
    {
     "id": "02af3512de27",
@@ -527,26 +405,6 @@
     "time": "2026-10-25T07:15:42+00:00"
    },
    {
-    "id": "9f8915a53754",
-    "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-25T02:45:43+00:00"
-   },
-   {
-    "id": "58121fe35daf",
-    "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-25T02:45:43+00:00"
-   },
-   {
     "id": "c115636b0d3f",
     "title": "Serbia’s Vucic concedes election defeat to student-led movement",
     "country": "Serbia",
@@ -555,6 +413,150 @@
     "severity": 2,
     "confidence": "B1",
     "time": "2026-10-25T19:19:54+00:00"
+   },
+   {
+    "id": "99e27d0e43a0",
+    "title": "Aleksandar Vucic, the Serbian leader brought down by students",
+    "country": "Serbia",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T05:24:59+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "a1d5939a8a82",
+    "title": "M5.1 earthquake, 199 km ENE of Nagqu, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-25T11:24:14.089000+00:00"
+   },
+   {
+    "id": "74117a5ab87c",
+    "title": "M5.3 earthquake, Bonin Islands, Japan region",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T22:14:15.949000+00:00"
+   },
+   {
+    "id": "f396cb59571f",
+    "title": "M4.8 earthquake, 41 km WNW of Kupang, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T03:59:22.208000+00:00"
+   },
+   {
+    "id": "49ad57f2cde5",
+    "title": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
+    "country": "Malaysia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-25T14:54:53+00:00"
+   },
+   {
+    "id": "776e6350952d",
+    "title": "Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI>=V.",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T11:44:56+00:00"
+   },
+   {
+    "id": "7f32e3c56a0b",
+    "title": "M5.4 earthquake, 33 km ESE of Ambunti, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T10:30:27.588000+00:00"
+   },
+   {
+    "id": "9be126c813f3",
+    "title": "M4.6 earthquake, Volcano Islands, Japan region",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T09:11:17.412000+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "f6394cc9ffad",
+    "title": "Australian murderer loses bid to eat Vegemite in prison",
+    "country": "Australia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T04:05:28+00:00"
+   },
+   {
+    "id": "8b63b3eba9bf",
+    "title": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T03:26:57+00:00"
+   },
+   {
+    "id": "cbd7e9d9523e",
+    "title": "M4.9 earthquake, 205 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T01:22:20.998000+00:00"
+   },
+   {
+    "id": "039a716c343a",
+    "title": "M4.8 earthquake, 167 km WNW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T20:30:42.515000+00:00"
+   },
+   {
+    "id": "ba84bfd62388",
+    "title": "Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+    "country": "Marshall Islands",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T11:52:38+00:00"
+   },
+   {
+    "id": "dc54e9dd7be8",
+    "title": "M5.4 earthquake, 205 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T08:41:00.034000+00:00"
    }
   ]
  }
