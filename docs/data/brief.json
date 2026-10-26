@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-26T19:29:28.687379+00:00",
+ "generated": "2026-10-26T23:17:25.886701+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 67,
-  "3": 36,
-  "4": 8,
-  "5": 4
+  "2": 65,
+  "3": 37,
+  "4": 11,
+  "5": 5
  },
  "watch_hits": [],
  "regions": {
@@ -63,6 +63,16 @@
     "time": "2026-10-26T12:57:58+00:00"
    },
    {
+    "id": "a17c6ad3c88e",
+    "title": "Human rights activists condemn alleged abduction of Tanzanian govt critic",
+    "country": "Kenya",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-26T21:13:32+00:00"
+   },
+   {
     "id": "242bb3870d77",
     "title": "Green forest fire notification in Botswana, South Africa",
     "country": "Botswana",
@@ -81,16 +91,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-26T15:58:48+00:00"
-   },
-   {
-    "id": "4ccf35e950ec",
-    "title": "Fear and misinformation hamper Ebola response efforts in DR Congo",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-26T15:56:58+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -103,6 +103,16 @@
     "severity": 5,
     "confidence": "B3",
     "time": "2026-10-26T12:17:02+00:00"
+   },
+   {
+    "id": "521b0f7cef49",
+    "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
+    "country": "Syria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-26T22:08:38+00:00"
    },
    {
     "id": "554a9629a1ff",
@@ -118,6 +128,16 @@
     "id": "9ffef1721fc8",
     "title": "Jordan arrests three following deadly terror attack on church",
     "country": "Jordan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-26T15:12:52+00:00"
+   },
+   {
+    "id": "cc2d55ac4d7a",
+    "title": "Jordan's strikes on Syria over church terror attack kill several civilians",
+    "country": "Syria",
     "city": null,
     "category": "terrorism",
     "severity": 4,
@@ -153,26 +173,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-26T17:55:47+00:00"
-   },
-   {
-    "id": "84e2ea078ba3",
-    "title": "Displaced families in Yemen live in dire humanitarian situation",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-26T17:14:30+00:00"
-   },
-   {
-    "id": "f42e39380e64",
-    "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-    "country": "Algeria",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-26T17:00:09+00:00"
    }
   ],
   "South Asia": [
@@ -197,6 +197,16 @@
     "time": "2026-10-26T01:51:40+00:00"
    },
    {
+    "id": "ccecf8faacd9",
+    "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 6.028 million .",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-10-26T01:51:40+00:00"
+   },
+   {
     "id": "7cde74a45416",
     "title": "Orange notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.356 million .",
     "country": "India",
@@ -205,6 +215,88 @@
     "severity": 4,
     "confidence": "A1",
     "time": "2026-10-26T01:51:40+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "2455644a610d",
+    "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-26T23:02:17+00:00"
+   },
+   {
+    "id": "52d13ac4ad31",
+    "title": "🔴 Live: Bolsonaro refuses to recognise Brazil election results",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-26T02:01:30+00:00"
+   },
+   {
+    "id": "151d01c40b3d",
+    "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T02:59:50+00:00"
+   },
+   {
+    "id": "0f79fd8fc43c",
+    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T00:19:05+00:00"
+   },
+   {
+    "id": "9da56ce1c5c7",
+    "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T00:19:05+00:00"
+   },
+   {
+    "id": "b6647ac852a6",
+    "title": "M4.6 earthquake, 20 km NNW of La Ligua, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T20:52:11.505000+00:00"
+   },
+   {
+    "id": "6636818e2f98",
+    "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
+    "country": "Brazil",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T17:56:50+00:00"
+   },
+   {
+    "id": "433c73a9904b",
+    "title": "How Venezuela’s earthquake amputees adapt to life without limbs",
+    "country": "Venezuela",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T17:55:59+00:00"
    }
   ],
   "Eastern Europe": [
@@ -217,6 +309,26 @@
     "severity": 4,
     "confidence": "C4",
     "time": "2026-10-26T19:01:03+00:00"
+   },
+   {
+    "id": "fdf29c0da19a",
+    "title": "Trump lashes out at Obama for joking that White House looks ‘like Saddam Hussein opened a Cheesecake Factory’ – live",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T22:50:04+00:00"
+   },
+   {
+    "id": "9732e576885f",
+    "title": "Paramedics caught under fire, university campus struck as Russian ballistic missile attack kills 1, injures 10 in Kyiv",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-26T20:16:41+00:00"
    },
    {
     "id": "03ac906e9b9b",
@@ -267,26 +379,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-26T16:24:43+00:00"
-   },
-   {
-    "id": "c580c10df7af",
-    "title": "Analysis: No Elon Musk, Russian soldiers in Ukraine are not 'kids' who have 'no choice but to fight and die'",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-26T16:24:40+00:00"
-   },
-   {
-    "id": "dcb46c25101d",
-    "title": "Musk's meddling in Ukraine's Starlink is a warning to every country relying on private tech",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-26T16:05:17+00:00"
    }
   ],
   "Western Europe": [
@@ -299,6 +391,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-26T12:47:12+00:00"
+   },
+   {
+    "id": "a83dcd78044b",
+    "title": "The fall of El-Fasher, one year on",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T21:26:52+00:00"
    },
    {
     "id": "99a513f11d0c",
@@ -341,34 +443,24 @@
     "time": "2026-10-26T05:53:54+00:00"
    },
    {
-    "id": "dfa3fd878dbf",
-    "title": "Major clean-up under way after two storms cause havoc in Britain",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "hazard",
+    "id": "9c355ff18563",
+    "title": "France: crowds fill Marseille's Old Port in anti-racism protest",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-26T18:25:07+00:00"
+    "confidence": "C4",
+    "time": "2026-10-26T22:20:20+00:00"
    },
    {
-    "id": "5e95fa1f4983",
-    "title": "French student union leaders call for 'continued mobilisation' after meeting PM",
+    "id": "9baf60e5296c",
+    "title": "Protest leaders urge French pupils to keep barricading their schools",
     "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-26T17:37:05+00:00"
-   },
-   {
-    "id": "eee507c83f3a",
-    "title": "Audi boss under fire in Germany for Trump rally appearance",
-    "country": "Germany",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-26T14:42:27+00:00"
+    "time": "2026-10-26T20:17:16+00:00"
    }
   ],
   "North America": [
@@ -423,88 +515,6 @@
     "time": "2026-10-26T08:41:23+00:00"
    }
   ],
-  "Latin America & Caribbean": [
-   {
-    "id": "52d13ac4ad31",
-    "title": "🔴 Live: Bolsonaro refuses to recognise Brazil election results",
-    "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-26T02:01:30+00:00"
-   },
-   {
-    "id": "151d01c40b3d",
-    "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
-    "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-26T02:59:50+00:00"
-   },
-   {
-    "id": "0f79fd8fc43c",
-    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-    "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-26T00:19:05+00:00"
-   },
-   {
-    "id": "9da56ce1c5c7",
-    "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
-    "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-26T00:19:05+00:00"
-   },
-   {
-    "id": "a0c962607395",
-    "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
-    "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-25T20:00:04+00:00"
-   },
-   {
-    "id": "af5dfa6115b7",
-    "title": "Brazil election results 2026 live: Lula beats Bolsonaro in shock upset",
-    "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-25T20:00:04+00:00"
-   },
-   {
-    "id": "6636818e2f98",
-    "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
-    "country": "Brazil",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-26T17:56:50+00:00"
-   },
-   {
-    "id": "433c73a9904b",
-    "title": "How Venezuela’s earthquake amputees adapt to life without limbs",
-    "country": "Venezuela",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-26T17:55:59+00:00"
-   }
-  ],
   "Oceania": [
    {
     "id": "670cb2fdf605",
@@ -515,6 +525,26 @@
     "severity": 3,
     "confidence": "A1",
     "time": "2026-10-26T10:13:01.234000+00:00"
+   },
+   {
+    "id": "207f923b0657",
+    "title": "M4.7 earthquake, 98 km S of Encounter Bay, Australia",
+    "country": "Australia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T21:18:11.526000+00:00"
+   },
+   {
+    "id": "0a5f3fca355f",
+    "title": "M4.6 earthquake, 154 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T15:08:25.118000+00:00"
    },
    {
     "id": "fbae4641bf50",
@@ -565,38 +595,28 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-26T04:05:28+00:00"
-   },
-   {
-    "id": "8b63b3eba9bf",
-    "title": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-26T03:26:57+00:00"
-   },
-   {
-    "id": "cbd7e9d9523e",
-    "title": "M4.9 earthquake, 205 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-26T01:22:20.998000+00:00"
    }
   ],
   "East & SE Asia": [
    {
-    "id": "74117a5ab87c",
-    "title": "M5.3 earthquake, Bonin Islands, Japan region",
-    "country": "Japan",
+    "id": "8c8c35483560",
+    "title": "Green forest fire notification in Indonesia",
+    "country": "Indonesia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-25T22:14:15.949000+00:00"
+    "time": "2026-10-26T21:59:12+00:00"
+   },
+   {
+    "id": "e5b994df79cd",
+    "title": "M4.5 earthquake, 89 km SSE of Pondaguitan, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T20:41:25.106000+00:00"
    },
    {
     "id": "aed80013d9aa",
@@ -647,16 +667,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-26T03:59:22.208000+00:00"
-   },
-   {
-    "id": "7ae963ca86f0",
-    "title": "M4.7 earthquake, 170 km ENE of Nagqu, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-25T22:01:35.793000+00:00"
    }
   ],
   "Central Asia": [
