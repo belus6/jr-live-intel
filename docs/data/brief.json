@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-25T22:45:39.835775+00:00",
+ "generated": "2026-10-26T01:00:31.526486+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 65,
-  "3": 21,
-  "4": 9,
+  "2": 66,
+  "3": 19,
+  "4": 8,
   "5": 1
  },
  "watch_hits": [],
@@ -73,6 +73,16 @@
     "time": "2026-10-25T09:11:17.412000+00:00"
    },
    {
+    "id": "1498b0872f69",
+    "title": "M4.5 earthquake, 74 km SSE of Onagawa Chō, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-25T06:04:22.644000+00:00"
+   },
+   {
     "id": "cddaf208ec5b",
     "title": "M5.2 earthquake, 63 km NNE of Lae, Papua New Guinea",
     "country": "Papua New Guinea",
@@ -81,16 +91,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-25T03:29:10.551000+00:00"
-   },
-   {
-    "id": "1fe5f1051505",
-    "title": "M5.3 earthquake, 44 km ESE of Miyazaki, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-24T23:59:36.599000+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -321,24 +321,14 @@
   ],
   "Oceania": [
    {
-    "id": "ab66ef5bae22",
-    "title": "M5.0 earthquake, 192 km NW of Port-Olry, Vanuatu",
+    "id": "eea551bdc90b",
+    "title": "M5.1 earthquake, 166 km WNW of Port-Olry, Vanuatu",
     "country": "Vanuatu",
     "city": null,
     "category": "hazard",
     "severity": 4,
     "confidence": "A1",
-    "time": "2026-10-24T23:44:57.729000+00:00"
-   },
-   {
-    "id": "51927e5988fd",
-    "title": "M5.0 earthquake, 210 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-24T22:47:08.577000+00:00"
+    "time": "2026-10-25T01:46:23.382000+00:00"
    },
    {
     "id": "039a716c343a",
@@ -403,6 +393,26 @@
     "time": "2026-10-25T20:00:04+00:00"
    },
    {
+    "id": "af5dfa6115b7",
+    "title": "Brazil election results 2026 live: Lula beats Bolsonaro in shock upset",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-25T20:00:04+00:00"
+   },
+   {
+    "id": "bfc83df0a7d4",
+    "title": "Green forest fire notification in Guyana",
+    "country": "Guyana",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T00:16:22+00:00"
+   },
+   {
     "id": "82bef1e1ed88",
     "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
     "country": "Venezuela",
@@ -453,26 +463,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-25T19:02:51+00:00"
-   },
-   {
-    "id": "78e4501ea105",
-    "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
-    "country": "United States",
-    "city": "New York",
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-25T00:29:15+00:00"
-   },
-   {
-    "id": "3cbd271a3693",
-    "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
-    "country": "United States",
-    "city": "Detroit",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-25T00:14:30+00:00"
    },
    {
     "id": "fc87101b4bbb",
@@ -557,14 +547,14 @@
     "time": "2026-10-25T02:45:43+00:00"
    },
    {
-    "id": "fcb499ceecf1",
-    "title": "Massive Ukrainian drone attack hits shopping center in Russia's Belgorod Oblast, locals say",
-    "country": "Russia",
+    "id": "c115636b0d3f",
+    "title": "Serbia’s Vucic concedes election defeat to student-led movement",
+    "country": "Serbia",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-24T23:27:09+00:00"
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-10-25T19:19:54+00:00"
    }
   ]
  }
