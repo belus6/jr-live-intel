@@ -1,18 +1,100 @@
 {
- "generated": "2026-10-27T19:39:49.368104+00:00",
+ "generated": "2026-10-27T23:13:40.588221+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 73,
+  "2": 70,
   "3": 34,
-  "4": 13,
+  "4": 10,
   "5": 0
  },
  "watch_hits": [
   "db9242d9dda5"
  ],
  "regions": {
+  "Middle East & N. Africa": [
+   {
+    "id": "6dce117c2920",
+    "title": "Trump, campaigning in Texas for Republicans, touts Iran war and ‘51st state’ Venezuela: ‘I knew that oil would go up’ – live",
+    "country": "Iran",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-27T22:39:07+00:00"
+   },
+   {
+    "id": "8f7d4bd20bff",
+    "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+    "country": "Algeria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-27T14:29:39+00:00"
+   },
+   {
+    "id": "1faed12bdacc",
+    "title": "Iraqi court sentences six French nationals to life for IS group membership",
+    "country": "Syria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-27T11:16:38+00:00"
+   },
+   {
+    "id": "51f7a40e3feb",
+    "title": "Families of victims killed in Jordanian strike deny links to church attack",
+    "country": "Syria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-27T10:52:48+00:00"
+   },
+   {
+    "id": "eabc4472136a",
+    "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-27T21:12:27+00:00"
+   },
+   {
+    "id": "da03202d976c",
+    "title": "Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-27T19:28:12+00:00"
+   },
+   {
+    "id": "64ab803273e2",
+    "title": "Funeral held for family killed in Jordanian airstrikes in Syria",
+    "country": "Syria",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-27T17:03:45+00:00"
+   },
+   {
+    "id": "044113e94678",
+    "title": "Sudan: One year after the fall of El-Fasher",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-27T11:46:35+00:00"
+   }
+  ],
   "Eastern Europe": [
    {
     "id": "b42bdd977737",
@@ -65,16 +147,6 @@
     "time": "2026-10-27T02:29:00+00:00"
    },
    {
-    "id": "5b357d4c861f",
-    "title": "Russian ballistic missiles hit Kyiv university, major bridge, medical centers, — 1 dead, 15 injured",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-10-26T20:16:41+00:00"
-   },
-   {
     "id": "319135716562",
     "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
     "country": "Ukraine",
@@ -83,6 +155,16 @@
     "severity": 3,
     "confidence": "B1",
     "time": "2026-10-27T05:26:58+00:00"
+   },
+   {
+    "id": "57c6977687b5",
+    "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-27T22:11:08+00:00"
    },
    {
     "id": "30e00b19940f",
@@ -127,6 +209,36 @@
     "time": "2026-10-27T08:49:18+00:00"
    },
    {
+    "id": "dcc44af177cc",
+    "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+    "country": "Zimbabwe",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T21:09:12+00:00"
+   },
+   {
+    "id": "219a569f1282",
+    "title": "Green forest fire notification in Senegal, Mali",
+    "country": "Senegal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T20:08:16+00:00"
+   },
+   {
+    "id": "8cf4eb4bc5e0",
+    "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T19:53:12+00:00"
+   },
+   {
     "id": "d1202a986fdd",
     "title": "Africa's Ebola outbreak tops 10,000 cases, mainly in DR Congo",
     "country": "DRC",
@@ -145,131 +257,51 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-27T14:12:35+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "36ae5249f6e8",
+    "title": "Trump reportedly considering lifting sanctions against Russia's investment fund",
+    "country": "United States",
+    "city": "New York",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-27T21:01:25+00:00"
    },
    {
-    "id": "487ad4ac61b5",
-    "title": "Tanzania's jailed opposition leader Tundu Lissu begins hunger strike",
-    "country": "Tanzania",
+    "id": "f4cd2724a841",
+    "title": "Federal agents search Beverly Hills mansion tied to ex-congressman Eric Swalwell",
+    "country": "United States",
+    "city": "Los Angeles",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-27T16:48:43+00:00"
+   },
+   {
+    "id": "36900dee5faf",
+    "title": "M4.6 earthquake, 5 km ENE of Tierra y Libertad, Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T12:01:11.952000+00:00"
+   },
+   {
+    "id": "109029126d9c",
+    "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
+    "country": "United States",
     "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-27T13:00:30+00:00"
-   },
-   {
-    "id": "5ec266a10bc6",
-    "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-27T12:31:19+00:00"
-   },
-   {
-    "id": "68c9a1bda965",
-    "title": "Kenya: 20 Ebola contacts released from quarantine",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T12:00:00+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "8f7d4bd20bff",
-    "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-    "country": "Algeria",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-27T14:29:39+00:00"
-   },
-   {
-    "id": "1faed12bdacc",
-    "title": "Iraqi court sentences six French nationals to life for IS group membership",
-    "country": "Syria",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-27T11:16:38+00:00"
-   },
-   {
-    "id": "51f7a40e3feb",
-    "title": "Families of victims killed in Jordanian strike deny links to church attack",
-    "country": "Syria",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-27T10:52:48+00:00"
-   },
-   {
-    "id": "521b0f7cef49",
-    "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
-    "country": "Syria",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-26T22:08:38+00:00"
-   },
-   {
-    "id": "e19a9a8d377f",
-    "title": "Jordan attacks militants in Syria in retaliation for church attack",
-    "country": "Syria",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-26T22:08:38+00:00"
-   },
-   {
-    "id": "64ab803273e2",
-    "title": "Funeral held for family killed in Jordanian airstrikes in Syria",
-    "country": "Syria",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T17:03:45+00:00"
-   },
-   {
-    "id": "044113e94678",
-    "title": "Sudan: One year after the fall of El-Fasher",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T11:46:35+00:00"
-   },
-   {
-    "id": "a10ba928ac98",
-    "title": "Israeli election: Fragile co-existence between residents in Jewish-Arab town of Lod",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T11:14:33+00:00"
+    "time": "2026-10-27T02:17:06+00:00"
    }
   ],
   "Latin America & Caribbean": [
-   {
-    "id": "2455644a610d",
-    "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
-    "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-26T23:02:17+00:00"
-   },
    {
     "id": "e4d791436663",
     "title": "‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your questions",
@@ -289,6 +321,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-26T23:56:24+00:00"
+   },
+   {
+    "id": "b821d68ff6de",
+    "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+    "country": "Venezuela",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T21:28:33+00:00"
    },
    {
     "id": "857846afab06",
@@ -339,38 +381,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-27T09:38:59+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "f4cd2724a841",
-    "title": "Federal agents search Beverly Hills mansion tied to ex-congressman Eric Swalwell",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T16:48:43+00:00"
-   },
-   {
-    "id": "36900dee5faf",
-    "title": "M4.6 earthquake, 5 km ENE of Tierra y Libertad, Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T12:01:11.952000+00:00"
-   },
-   {
-    "id": "109029126d9c",
-    "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T02:17:06+00:00"
    }
   ],
   "East & SE Asia": [
@@ -443,16 +453,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-27T00:25:08.167000+00:00"
-   },
-   {
-    "id": "9c10e6024a92",
-    "title": "M4.5 earthquake, 98 km NNW of Tobelo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-26T22:52:22.912000+00:00"
    }
   ],
   "Western Europe": [
@@ -477,14 +477,14 @@
     "time": "2026-10-27T07:00:04+00:00"
    },
    {
-    "id": "a83dcd78044b",
-    "title": "The fall of El-Fasher, one year on",
+    "id": "3ceec55f9ac5",
+    "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
     "country": "United Kingdom",
     "city": null,
-    "category": "political",
-    "severity": 3,
+    "category": "hazard",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-26T21:26:52+00:00"
+    "time": "2026-10-27T22:30:45+00:00"
    },
    {
     "id": "273de7c6a8f2",
@@ -549,6 +549,16 @@
     "time": "2026-10-27T08:55:23.290000+00:00"
    },
    {
+    "id": "46d26375bd03",
+    "title": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; man charged over false Bondi shooting claim",
+    "country": "Australia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T22:57:59+00:00"
+   },
+   {
     "id": "ce6034589ae0",
     "title": "M5.0 earthquake, south of the Fiji Islands",
     "country": "Fiji",
@@ -597,16 +607,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-27T02:02:55.847000+00:00"
-   },
-   {
-    "id": "207f923b0657",
-    "title": "M4.7 earthquake, 98 km S of Encounter Bay, Australia",
-    "country": "Australia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-26T21:18:11.526000+00:00"
    }
   ],
   "South Asia": [
