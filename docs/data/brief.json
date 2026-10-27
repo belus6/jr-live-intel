@@ -1,112 +1,62 @@
 {
- "generated": "2026-10-27T08:14:11.246600+00:00",
+ "generated": "2026-10-27T14:37:14.599106+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 58,
+  "2": 61,
   "3": 43,
-  "4": 11,
-  "5": 2
+  "4": 14,
+  "5": 0
  },
- "watch_hits": [],
+ "watch_hits": [
+  "db9242d9dda5"
+ ],
  "regions": {
-  "Sub-Saharan Africa": [
-   {
-    "id": "42b2341a5135",
-    "title": "Nigeria: 50 killed in bandit attack on Taraba village",
-    "country": "Nigeria",
-    "city": null,
-    "category": "terrorism",
-    "severity": 5,
-    "confidence": "C4",
-    "time": "2026-10-26T13:19:25+00:00"
-   },
-   {
-    "id": "5a2a5acbb05c",
-    "title": "Nigeria evacuates Ebola patient to Switzerland, tracks 53 contacts",
-    "country": "Nigeria",
-    "city": "Abuja",
-    "category": "health",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-26T15:05:32+00:00"
-   },
-   {
-    "id": "05e72978642c",
-    "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-    "country": "Somalia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-26T11:00:40+00:00"
-   },
-   {
-    "id": "2dee83259df3",
-    "title": "Niger imposes overnight fuel sales curfew amid nationwide shortage",
-    "country": "Niger",
-    "city": null,
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-26T09:02:33+00:00"
-   },
-   {
-    "id": "189b3bf900a4",
-    "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-26T12:57:58+00:00"
-   },
-   {
-    "id": "fcdd5a9a27f9",
-    "title": "Green forest fire notification in Namibia, Angola",
-    "country": "Namibia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T00:11:35+00:00"
-   },
-   {
-    "id": "a17c6ad3c88e",
-    "title": "Human rights activists condemn alleged abduction of Tanzanian govt critic",
-    "country": "Kenya",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-26T21:13:32+00:00"
-   },
-   {
-    "id": "242bb3870d77",
-    "title": "Green forest fire notification in Botswana, South Africa",
-    "country": "Botswana",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-26T16:07:46+00:00"
-   }
-  ],
   "Middle East & N. Africa": [
    {
-    "id": "a5492ab3442c",
-    "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
-    "country": "Palestine",
+    "id": "8f7d4bd20bff",
+    "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+    "country": "Algeria",
     "city": null,
-    "category": "conflict",
-    "severity": 5,
+    "category": "terrorism",
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-26T12:17:02+00:00"
+    "time": "2026-10-27T14:29:39+00:00"
+   },
+   {
+    "id": "1faed12bdacc",
+    "title": "Iraqi court sentences six French nationals to life for IS group membership",
+    "country": "Syria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-27T11:16:38+00:00"
+   },
+   {
+    "id": "51f7a40e3feb",
+    "title": "Families of victims killed in Jordanian strike deny links to church attack",
+    "country": "Syria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-27T10:52:48+00:00"
    },
    {
     "id": "521b0f7cef49",
     "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
+    "country": "Syria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-26T22:08:38+00:00"
+   },
+   {
+    "id": "e19a9a8d377f",
+    "title": "Jordan attacks militants in Syria in retaliation for church attack",
     "country": "Syria",
     "city": null,
     "category": "terrorism",
@@ -143,39 +93,19 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-26T15:12:52+00:00"
-   },
+   }
+  ],
+  "Eastern Europe": [
    {
-    "id": "cd3cf38bbf0e",
-    "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
-    "country": "Jordan",
+    "id": "942764498637",
+    "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
+    "country": "Ukraine",
     "city": null,
     "category": "terrorism",
     "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-26T11:08:48+00:00"
+    "time": "2026-10-27T14:02:54+00:00"
    },
-   {
-    "id": "95938ca4e402",
-    "title": "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom",
-    "country": "Iran",
-    "city": "Tehran",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T04:54:26+00:00"
-   },
-   {
-    "id": "b4c2beb8b138",
-    "title": "Jordan strikes Syria after church attack, killing at least seven people",
-    "country": "Syria",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-26T23:50:11+00:00"
-   }
-  ],
-  "Eastern Europe": [
    {
     "id": "29e81781fd17",
     "title": "Truce begins in Ukraine city where residents ate weeds to survive",
@@ -217,44 +147,34 @@
     "time": "2026-10-26T19:01:03+00:00"
    },
    {
-    "id": "f8c9190dcd05",
-    "title": "General Staff: Russia has lost 1,581,840 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-27T07:29:15+00:00"
-   },
-   {
-    "id": "44e81a7ade3f",
-    "title": "Ukrainian media face pressure as they step up scrutiny of authorities in wartime",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-27T06:00:17+00:00"
-   },
-   {
     "id": "319135716562",
     "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
-    "confidence": "B3",
+    "confidence": "B1",
     "time": "2026-10-27T05:26:58+00:00"
    },
    {
-    "id": "e863f53b262a",
-    "title": "New report tracks how Russia helps China build better drones",
-    "country": "Russia",
-    "city": null,
+    "id": "8a1401dc7831",
+    "title": "Russian attacks across Ukraine kill four, injure 57 over past day, as Kyiv comes under ballistic missile assault",
+    "country": "Ukraine",
+    "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-27T03:54:05+00:00"
+    "time": "2026-10-27T10:06:56+00:00"
+   },
+   {
+    "id": "e3bb3f616881",
+    "title": "Ukraine: firefighters battle flames and rescue dog from Kyiv ruins",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-27T09:35:16+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -279,6 +199,46 @@
     "time": "2026-10-26T23:56:24+00:00"
    },
    {
+    "id": "a0a58fec3db3",
+    "title": "Trump and Rubio head to Texas to stump for Ken Paxton as midterms campaign enters final week – US politics live",
+    "country": "Venezuela",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T14:27:05+00:00"
+   },
+   {
+    "id": "e98d59566117",
+    "title": "M4.6 earthquake, 100 km W of El Aguilar, Argentina",
+    "country": "Argentina",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T11:41:22.141000+00:00"
+   },
+   {
+    "id": "16a9e951f389",
+    "title": "El Salvador",
+    "country": "Brazil",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T11:06:26+00:00"
+   },
+   {
+    "id": "87739acdf5e7",
+    "title": "Heavy rains trigger massive flooding in Ecuador’s largest city",
+    "country": "Ecuador",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T09:38:59+00:00"
+   },
+   {
     "id": "b6647ac852a6",
     "title": "M4.6 earthquake, 20 km NNW of La Ligua, Chile",
     "country": "Chile",
@@ -297,38 +257,18 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-26T17:56:50+00:00"
-   },
-   {
-    "id": "433c73a9904b",
-    "title": "How Venezuela’s earthquake amputees adapt to life without limbs",
-    "country": "Venezuela",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-26T17:55:59+00:00"
-   },
-   {
-    "id": "81e9288e7258",
-    "title": "Brazil: Thousands flood streets to celebrate Lula's election victory",
-    "country": "Brazil",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-26T11:26:25+00:00"
    }
   ],
   "Western Europe": [
    {
-    "id": "0df67ce3d972",
-    "title": "Live: France will maintain order without state of emergency, but it’s not off the table, Macron says",
-    "country": "France",
-    "city": "Marseille",
-    "category": "political",
-    "severity": 4,
+    "id": "8ab0d7aeed26",
+    "title": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
+    "country": "Vatican City",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-26T12:47:12+00:00"
+    "time": "2026-10-27T13:45:01+00:00"
    },
    {
     "id": "8deb8e310321",
@@ -381,88 +321,138 @@
     "time": "2026-10-26T15:07:23+00:00"
    },
    {
-    "id": "a500ce0a6fd3",
-    "title": "Why has France struggled to address students’ demands?",
+    "id": "6a92674ada84",
+    "title": "French government concessions to students 'tactically shrewd' but risk creating new set of problems",
     "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-27T05:22:22+00:00"
+    "time": "2026-10-27T11:35:23+00:00"
    },
    {
-    "id": "9c355ff18563",
-    "title": "France: crowds fill Marseille's Old Port in anti-racism protest",
+    "id": "6e578e3b13e5",
+    "title": "French protests: Student union leaders vow to keep mobilising",
     "country": "France",
-    "city": "Paris",
+    "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-26T22:20:20+00:00"
+    "confidence": "B3",
+    "time": "2026-10-27T11:18:22+00:00"
    }
   ],
-  "North America": [
+  "Sub-Saharan Africa": [
    {
-    "id": "b979e787d798",
-    "title": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
-    "country": "United States",
+    "id": "871a49e62da0",
+    "title": "Chad hosts hundreds of thousands of Sudanese refugees as regional humanitarian crisis extends",
+    "country": "Chad",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-26T13:07:21+00:00"
+    "time": "2026-10-27T11:13:55+00:00"
    },
    {
-    "id": "109029126d9c",
-    "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
-    "country": "United States",
+    "id": "e09f77c93e28",
+    "title": "Niger accuses Chad of deadly drone attack in which two civilians died",
+    "country": "Niger",
     "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T02:17:06+00:00"
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-27T08:49:18+00:00"
    },
    {
-    "id": "813beeebe0ef",
-    "title": "Southern California prepares for flooding amid forecast of ‘record-breaking tides’",
-    "country": "United States",
-    "city": "Los Angeles",
+    "id": "5a2a5acbb05c",
+    "title": "Nigeria evacuates Ebola patient to Switzerland, tracks 53 contacts",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "category": "health",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-26T15:05:32+00:00"
+   },
+   {
+    "id": "db9242d9dda5",
+    "title": "A 'Green Army' is out to thwart El Niño flooding",
+    "country": "Kenya",
+    "city": "Nairobi",
     "category": "hazard",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-26T18:39:27+00:00"
+    "time": "2026-10-27T14:12:35+00:00"
    },
    {
-    "id": "9bc7605bede7",
-    "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
-    "country": "United States",
+    "id": "487ad4ac61b5",
+    "title": "Tanzania's jailed opposition leader Tundu Lissu begins hunger strike",
+    "country": "Tanzania",
     "city": null,
-    "category": "crime",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-27T13:00:30+00:00"
+   },
+   {
+    "id": "5ec266a10bc6",
+    "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-26T15:45:30+00:00"
+    "time": "2026-10-27T12:31:19+00:00"
    },
    {
-    "id": "03652b48ef1e",
-    "title": "Lula’s victory may be a turning point for Latin America",
-    "country": "United States",
+    "id": "68c9a1bda965",
+    "title": "Kenya: 20 Ebola contacts released from quarantine",
+    "country": "Kenya",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T12:00:00+00:00"
+   },
+   {
+    "id": "3792915eb5e5",
+    "title": "South Africa suspends asylum applications after recent unrest",
+    "country": "South Africa",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-26T08:41:23+00:00"
+    "time": "2026-10-27T11:37:35+00:00"
    }
   ],
   "Oceania": [
    {
-    "id": "670cb2fdf605",
-    "title": "M5.5 earthquake, 283 km E of Levuka, Fiji",
-    "country": "Fiji",
+    "id": "7bef91383385",
+    "title": "M5.8 earthquake, 196 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
     "city": null,
     "category": "hazard",
     "severity": 3,
     "confidence": "A1",
-    "time": "2026-10-26T10:13:01.234000+00:00"
+    "time": "2026-10-27T08:55:23.290000+00:00"
+   },
+   {
+    "id": "f5524ecd7788",
+    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T09:09:39+00:00"
+   },
+   {
+    "id": "cdd8aec06f80",
+    "title": "M5.0 earthquake, 95 km NNE of Hihifo, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T09:07:45.122000+00:00"
    },
    {
     "id": "60bd1acb6d3e",
@@ -503,36 +493,48 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-26T15:08:25.118000+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "36900dee5faf",
+    "title": "M4.6 earthquake, 5 km ENE of Tierra y Libertad, Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T12:01:11.952000+00:00"
    },
    {
-    "id": "fbae4641bf50",
-    "title": "Australian judge rejects prisoner's human rights challenge to Vegemite ban",
-    "country": "Australia",
+    "id": "109029126d9c",
+    "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T02:17:06+00:00"
+   },
+   {
+    "id": "813beeebe0ef",
+    "title": "Southern California prepares for flooding amid forecast of ‘record-breaking tides’",
+    "country": "United States",
+    "city": "Los Angeles",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T18:39:27+00:00"
+   },
+   {
+    "id": "9bc7605bede7",
+    "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+    "country": "United States",
     "city": null,
     "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-26T13:25:33+00:00"
-   },
-   {
-    "id": "cb4a1c56a320",
-    "title": "M5.0 earthquake, 218 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-26T11:17:55.055000+00:00"
-   },
-   {
-    "id": "6f9745ab8197",
-    "title": "Green earthquake (Magnitude 5.5M, Depth:641.812km) in Fiji 26/10/2026 10:13 UTC, 2 thousand in 100km.",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-26T10:30:25+00:00"
+    "time": "2026-10-26T15:45:30+00:00"
    }
   ],
   "East & SE Asia": [
@@ -575,36 +577,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-26T20:41:25.106000+00:00"
-   },
-   {
-    "id": "aed80013d9aa",
-    "title": "US Marine indicted for murder and robbery of woman in Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-26T14:13:18+00:00"
-   },
-   {
-    "id": "1e73398ed9d8",
-    "title": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
-    "country": "Japan",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-26T12:52:39+00:00"
-   },
-   {
-    "id": "fc270661cd42",
-    "title": "Green forest fire notification in Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-26T08:42:41+00:00"
    }
   ],
   "Central Asia": [

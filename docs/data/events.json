@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-27T08:14:11.246600+00:00",
+ "generated": "2026-10-27T14:37:14.599106+00:00",
  "sample": false,
- "count": 533,
+ "count": 532,
  "events": [
   {
    "title": "Nigeria: 50 killed in bandit attack on Taraba village",
@@ -166,6 +166,34 @@
    "confidence": "A1",
    "corroboration": 1,
    "id": "926d90dc052f",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.878 million .",
+   "summary": "From 26/10/2026 to 27/10/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 222 km/h) ARNAB-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 4.878 million .",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001345",
+   "time": "2026-10-26T01:51:40+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "India",
+   "city": null,
+   "lat": 16.3,
+   "lon": 82.7,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001345",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "a5fd6c94a4d3",
    "flag": "🇮🇳",
    "region": "South Asia",
    "baseline": 2.54,
@@ -501,67 +529,6 @@
    "watch": []
   },
   {
-   "title": "At least seven killed after gunmen open fire at church in Jordan",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
-   "time": "2026-10-23T13:32:40+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Jordan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
-     "tier": "B"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T16:56:24.580047+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "17cceb368c26",
-   "flag": "🇯🇴",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
-   "watch": []
-  },
-  {
-   "title": "Netanyahu orders army to prepare for full West Bank closure after attack",
-   "summary": "",
-   "url": "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack",
-   "time": "2026-10-23T08:35:17+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T11:59:16.168714+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "a6e5ba41d425",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
    "title": "Iraq - Level 4: Do Not Travel",
    "summary": "Do not travel to Iraq due to terrorism, kidnapping, armed conflict, crime, health risks , and the U.S. government’s limited ability to provide emergency services to U.S. citizens in Iraq . Do not travel to Iraq for any reason. The U.S. government has limited ability to offer emergency services to U.S. citizens in Iraq due to the safety risks. Armed conflict Iranian-supported Houthis have engaged i",
    "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html",
@@ -732,34 +699,6 @@
    "watch": []
   },
   {
-   "title": "M7.0 earthquake, 191 km ENE of Nagqu, China",
-   "summary": "Depth 18 km. Alert: orange.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
-   "time": "2026-10-22T14:33:40.353000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "China",
-   "city": null,
-   "lat": 32.3805,
-   "lon": 93.7797,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-22T15:57:46.880551+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "6b87b0f332eb",
-   "flag": "🇨🇳",
-   "region": "East & SE Asia",
-   "baseline": 2.75,
-   "watch": []
-  },
-  {
    "title": "WHO raises alarm over undetected Ebola cases in DR Congo",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/14/who-raises-alarm-over-undetected-ebola-cases-in-dr-congo/",
@@ -841,6 +780,118 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-27T14:29:39+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Algeria",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8f7d4bd20bff",
+   "flag": "🇩🇿",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.67,
+   "watch": []
+  },
+  {
+   "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+   "time": "2026-10-27T14:02:54+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "942764498637",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Iraqi court sentences six French nationals to life for IS group membership",
+   "summary": "",
+   "url": "https://www.france24.com/en/middle-east/20261027-iraqi-court-sentences-six-french-nationals-to-life-for-is-group-membership",
+   "time": "2026-10-27T11:16:38+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Syria",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261027-iraqi-court-sentences-six-french-nationals-to-life-for-is-group-membership",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "1faed12bdacc",
+   "flag": "🇸🇾",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.8,
+   "watch": []
+  },
+  {
+   "title": "Families of victims killed in Jordanian strike deny links to church attack",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
+   "time": "2026-10-27T10:52:48+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Syria",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "51f7a40e3feb",
+   "flag": "🇸🇾",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.8,
    "watch": []
   },
   {
@@ -950,6 +1001,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "521b0f7cef49",
+   "flag": "🇸🇾",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.8,
+   "watch": []
+  },
+  {
+   "title": "Jordan attacks militants in Syria in retaliation for church attack",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+   "time": "2026-10-26T22:08:38+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Syria",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e19a9a8d377f",
    "flag": "🇸🇾",
    "region": "Middle East & N. Africa",
    "baseline": 4.8,
@@ -2101,151 +2180,6 @@
    "watch": []
   },
   {
-   "title": "‘I killed lots of terrorists, but it didn’t make me feel better’: The trauma haunting Israel's elections",
-   "summary": "",
-   "url": "https://www.france24.com/en/middle-east/20261023-i-killed-lots-of-terrorists-but-it-didn-t-make-me-feel-better-the-trauma-haunting-israel-s-elections",
-   "time": "2026-10-23T14:32:07+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261023-i-killed-lots-of-terrorists-but-it-didn-t-make-me-feel-better-the-trauma-haunting-israel-s-elections",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T16:56:24.580047+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b10765fd75d9",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-   "time": "2026-10-23T14:19:30+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T16:56:24.580047+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3a55766f015f",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
-   "summary": "",
-   "url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
-   "time": "2026-10-23T13:25:58+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "United Kingdom",
-   "city": "London",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T16:56:24.580047+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "2445df27205e",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
-   "watch": []
-  },
-  {
-   "title": "At least one dead and four injured in Paris suburb shooting",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-23T11:44:12+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T11:59:16.168714+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c1b6e3661102",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France’s Macron arrives in Trappes after ‘racist terrorist attack’",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
-   "time": "2026-10-23T11:08:26+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
-     "tier": "B"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T16:56:24.580047+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "6f17130f34e6",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "United Arab Emirates - Level 3: Reconsider Travel",
    "summary": "Reconsider travel to the United Arab Emirates due to terrorism and armed conflict . U.S. government employee travel restrictions U.S. government employees working in the UAE need special authorization to travel to military bases and critical energy infrastructure sites due to UAE government restrictions and potential security risks. Additional staffing posture adjustments may be imposed on U.S. pe",
    "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.are.html",
@@ -2643,6 +2577,258 @@
    "watch": []
   },
   {
+   "title": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss",
+   "time": "2026-10-27T13:45:01+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Vatican City",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8ab0d7aeed26",
+   "flag": "🇻🇦",
+   "region": "Western Europe",
+   "baseline": 1.0,
+   "watch": []
+  },
+  {
+   "title": "Sudan: One year after the fall of El-Fasher",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261027-sudan-one-year-after-the-fall-of-el-fasher",
+   "time": "2026-10-27T11:46:35+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261027-sudan-one-year-after-the-fall-of-el-fasher",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "044113e94678",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
+   "title": "Israeli election: Fragile co-existence between residents in Jewish-Arab town of Lod",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/focus/20261027-israeli-election-fragile-co-existence-between-residents-in-jewish-arab-town-of-lod",
+   "time": "2026-10-27T11:14:33+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Palestine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/focus/20261027-israeli-election-fragile-co-existence-between-residents-in-jewish-arab-town-of-lod",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a10ba928ac98",
+   "flag": "🇵🇸",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.42,
+   "watch": []
+  },
+  {
+   "title": "Chad hosts hundreds of thousands of Sudanese refugees as regional humanitarian crisis extends",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261027-chad-hosts-hundreds-of-thousands-of-sudanese-refugees-as-regional-humanitarian-crisis-extends",
+   "time": "2026-10-27T11:13:55+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Chad",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261027-chad-hosts-hundreds-of-thousands-of-sudanese-refugees-as-regional-humanitarian-crisis-extends",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "871a49e62da0",
+   "flag": "🇹🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.62,
+   "watch": []
+  },
+  {
+   "title": "Jordan launches airstrikes in Syria after church attack",
+   "summary": "",
+   "url": "https://www.france24.com/en/jordan-launches-airstrikes-in-syria-after-church-attack",
+   "time": "2026-10-27T10:59:14+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Syria",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/jordan-launches-airstrikes-in-syria-after-church-attack",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a86401211a50",
+   "flag": "🇸🇾",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.8,
+   "watch": []
+  },
+  {
+   "title": "Russian attacks across Ukraine kill four, injure 57 over past day, as Kyiv comes under ballistic missile assault",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-four-injure-55-over-past-day-as-kyiv-comes-under-ballistic-missile-assault/",
+   "time": "2026-10-27T10:06:56+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-four-injure-55-over-past-day-as-kyiv-comes-under-ballistic-missile-assault/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "8a1401dc7831",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Ukraine: firefighters battle flames and rescue dog from Kyiv ruins",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins/",
+   "time": "2026-10-27T09:35:16+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "e3bb3f616881",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "M5.8 earthquake, 196 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 11 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb",
+   "time": "2026-10-27T08:55:23.290000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.9141,
+   "lon": 165.6671,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "7bef91383385",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "Niger accuses Chad of deadly drone attack in which two civilians died",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/27/niger-accuses-chad-of-deadly-drone-attack-in-which-two-civilians-died/",
+   "time": "2026-10-27T08:49:18+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Niger",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/27/niger-accuses-chad-of-deadly-drone-attack-in-which-two-civilians-died/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "e09f77c93e28",
+   "flag": "🇳🇪",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.62,
+   "watch": []
+  },
+  {
    "title": "General Staff: Russia has lost 1,581,840 troops in Ukraine since Feb. 24, 2022",
    "summary": "",
    "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-581-840-troops-in-ukraine-since-feb-24-2022/",
@@ -2743,11 +2929,21 @@
      "name": "NPR World",
      "url": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
      "tier": "B"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation",
+     "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-27T08:14:11.246600+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B1",
+   "corroboration": 3,
    "id": "319135716562",
    "flag": "🇺🇦",
    "region": "Eastern Europe",
@@ -2833,6 +3029,34 @@
    "confidence": "C4",
    "corroboration": 1,
    "id": "b8e4395fe7b5",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Oleshky ceasefire begins, Budanov says",
+   "summary": "",
+   "url": "https://kyivindependent.com/local-ceasefire-in-besieged-oleshky-begins-ukrainian-russian-officials-say/",
+   "time": "2026-10-27T02:58:18+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/local-ceasefire-in-besieged-oleshky-begins-ukrainian-russian-officials-say/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "a07638ecfb33",
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
@@ -3057,6 +3281,34 @@
    "confidence": "C4",
    "corroboration": 1,
    "id": "94d9fb198a87",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Deadly Russian ballistic missile attack hits Kyiv university, bridge, medical centers",
+   "summary": "",
+   "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
+   "time": "2026-10-26T20:16:41+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "9010eafb037d",
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
@@ -3620,6 +3872,34 @@
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
+   "summary": "",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168674",
+   "time": "2026-10-26T12:00:00+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Somalia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168674",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "d5b924f9aaf6",
+   "flag": "🇸🇴",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.77,
    "watch": []
   },
   {
@@ -4384,34 +4664,6 @@
    "watch": []
   },
   {
-   "title": "Niger imposes curfew on petrol sales amid national fuel shortage",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/25/niger-imposes-curfew-on-petrol-sales-amid-national-fuel-shortage/",
-   "time": "2026-10-25T09:14:11+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Niger",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/25/niger-imposes-curfew-on-petrol-sales-amid-national-fuel-shortage/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-25T10:00:25.939053+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "624bda24912d",
-   "flag": "🇳🇪",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.62,
-   "watch": []
-  },
-  {
    "title": "Russian attacks kill 8, injure 51 across Ukraine over past day as drone strikes residential building in Vinnytsia",
    "summary": "",
    "url": "https://kyivindependent.com/russian-attacks-kill-8-injure-51-across-ukraine-over-past-day-as-drone-strikes-residential-building-in-vinnytsia/",
@@ -4951,34 +5203,6 @@
    "watch": []
   },
   {
-   "title": "Full lockdown of occupied West Bank begins",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
-   "time": "2026-10-24T14:24:19+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-24T14:54:40.469282+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "caa16072770d",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
    "title": "Haiti's ex-president Martelly registers as candidate for upcoming election",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/24/haitis-ex-president-martelly-registers-as-candidate-for-upcoming-election/",
@@ -5032,62 +5256,6 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Russian attacks kill 4, injure 78 across Ukraine over past day, as drone strikes Kyiv residential building in the morning",
-   "summary": "",
-   "url": "https://kyivindependent.com/russian-attacks-kill-4-injure-78-across-ukraine-over-past-day-as-drone-strikes-kyiv-residential-building-in-the-morning/",
-   "time": "2026-10-24T09:43:22+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-attacks-kill-4-injure-78-across-ukraine-over-past-day-as-drone-strikes-kyiv-residential-building-in-the-morning/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-24T11:30:21.119139+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "a08523e08d88",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Why is Israel launching a new military operation in the occupied West Bank?",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
-   "time": "2026-10-24T09:14:40+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-24T11:30:21.119139+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ea29f696ca86",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
    "watch": []
   },
   {
@@ -5539,34 +5707,6 @@
    "watch": []
   },
   {
-   "title": "At least four dead after storm brings flooding to southern France",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-22T11:23:16+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T15:57:46.880551+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "97f2c4aeb84d",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Criminals who refuse to attend sentencing face losing prison privileges under new rules",
    "summary": "",
    "url": "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules",
@@ -5651,59 +5791,677 @@
    "watch": []
   },
   {
-   "title": "Niger, Mali and Burkina Faso resume dialogue with ECOWAS regional bloc",
+   "title": "Trump and Rubio head to Texas to stump for Ken Paxton as midterms campaign enters final week – US politics live",
    "summary": "",
-   "url": "https://www.france24.com/en/video/20261020-niger-mali-and-burkina-faso-resume-dialogue-with-ecowas-regional-bloc",
-   "time": "2026-10-20T12:21:24+00:00",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+   "time": "2026-10-27T14:27:05+00:00",
    "tier": "B",
-   "category": "political",
-   "country": "Niger",
+   "category": "unrest",
+   "country": "Venezuela",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261020-niger-mali-and-burkina-faso-resume-dialogue-with-ecowas-regional-bloc",
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
    "confidence": "B3",
    "corroboration": 1,
-   "id": "102241681ea4",
-   "flag": "🇳🇪",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.62,
+   "id": "a0a58fec3db3",
+   "flag": "🇻🇪",
+   "region": "Latin America & Caribbean",
+   "baseline": 4.49,
    "watch": []
   },
   {
-   "title": "Masoud Pezeshkian: Peace, Not Surrender",
+   "title": "High turnout as Israel goes to the polls in most consequential election in its history – live updates",
    "summary": "",
-   "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
-   "time": "2026-10-20T11:02:31+00:00",
+   "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+   "time": "2026-10-27T14:22:32+00:00",
    "tier": "B",
-   "category": "political",
+   "category": "unrest",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "41a45e73cdf2",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "A 'Green Army' is out to thwart El Niño flooding",
+   "summary": "",
+   "url": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
+   "time": "2026-10-27T14:12:35+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Kenya",
+   "city": "Nairobi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "db9242d9dda5",
+   "flag": "🇰🇪",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.97,
+   "watch": [
+    "Programme team, Nairobi"
+   ]
+  },
+  {
+   "title": "Al Jazeera meets iconic pro-Palestine Japanese activist",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss",
+   "time": "2026-10-27T13:06:28+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Palestine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4f965df9e57d",
+   "flag": "🇵🇸",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.42,
+   "watch": []
+  },
+  {
+   "title": "Tanzania's jailed opposition leader Tundu Lissu begins hunger strike",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-begins-hunger-strike/",
+   "time": "2026-10-27T13:00:30+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Tanzania",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-begins-hunger-strike/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "487ad4ac61b5",
+   "flag": "🇹🇿",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.67,
+   "watch": []
+  },
+  {
+   "title": "Israeli election: A referendum on 'Bibi' Netanyahu?",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/press-review/20261027-israeli-election-a-referendum-on-bibi-netanyahu",
+   "time": "2026-10-27T12:52:40+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Palestine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/press-review/20261027-israeli-election-a-referendum-on-bibi-netanyahu",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0d3ac384549c",
+   "flag": "🇵🇸",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.42,
+   "watch": []
+  },
+  {
+   "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss",
+   "time": "2026-10-27T12:31:19+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "DRC",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5ec266a10bc6",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
+   "watch": []
+  },
+  {
+   "title": "M4.6 earthquake, 5 km ENE of Tierra y Libertad, Mexico",
+   "summary": "Depth 140 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfx",
+   "time": "2026-10-27T12:01:11.952000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Mexico",
+   "city": null,
+   "lat": 16.3977,
+   "lon": -93.817,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfx",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "36900dee5faf",
+   "flag": "🇲🇽",
+   "region": "North America",
+   "baseline": 3.32,
+   "watch": []
+  },
+  {
+   "title": "Kenya: 20 Ebola contacts released from quarantine",
+   "summary": "",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168676",
+   "time": "2026-10-27T12:00:00+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "Kenya",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168676",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "68c9a1bda965",
+   "flag": "🇰🇪",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.97,
+   "watch": []
+  },
+  {
+   "title": "M4.6 earthquake, 100 km W of El Aguilar, Argentina",
+   "summary": "Depth 206 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs",
+   "time": "2026-10-27T11:41:22.141000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Argentina",
+   "city": null,
+   "lat": -23.1819,
+   "lon": -66.6616,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e98d59566117",
+   "flag": "🇦🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "South Africa suspends asylum applications after recent unrest",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261027-south-africa-suspends-asylum-applications-after-recent-unrest",
+   "time": "2026-10-27T11:37:35+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "South Africa",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261027-south-africa-suspends-asylum-applications-after-recent-unrest",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3792915eb5e5",
+   "flag": "🇿🇦",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.02,
+   "watch": []
+  },
+  {
+   "title": "French government concessions to students 'tactically shrewd' but risk creating new set of problems",
+   "summary": "",
+   "url": "https://www.france24.com/en/french-government-concessions-to-students-tactically-shrewd-but-risk-creating-new-set-of-problems",
+   "time": "2026-10-27T11:35:23+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/french-government-concessions-to-students-tactically-shrewd-but-risk-creating-new-set-of-problems",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "6a92674ada84",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "French protests: Student union leaders vow to keep mobilising",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261027-french-protests-student-union-leaders-vow-to-keep-mobilising",
+   "time": "2026-10-27T11:18:22+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261027-french-protests-student-union-leaders-vow-to-keep-mobilising",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "6e578e3b13e5",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "El Salvador",
+   "summary": "New information about Ebola-related health measures and quarantine requirements for some travellers (‘Entry requirements’ page).",
+   "url": "https://www.gov.uk/foreign-travel-advice/el-salvador",
+   "time": "2026-10-27T11:06:26+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Brazil",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UK FCDO travel advice updates",
+     "url": "https://www.gov.uk/foreign-travel-advice/el-salvador",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "16a9e951f389",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "Syria slams deadly Jordan strikes as ‘unacceptable’ breach of airspace",
+   "summary": "",
+   "url": "https://www.france24.com/en/middle-east/20261027-syria-slams-deadly-jordan-strikes-as-unacceptable-breach-of-airspace",
+   "time": "2026-10-27T11:02:18+00:00",
+   "tier": "B",
+   "category": "transport",
+   "country": "Jordan",
+   "city": "Amman",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261027-syria-slams-deadly-jordan-strikes-as-unacceptable-breach-of-airspace",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "9e67be1888a5",
+   "flag": "🇯🇴",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Turkey: tornado kills at least four workers at Antalya construction site",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/27/turkey-tornado-kills-at-least-four-workers-at-antalya-construction-site/",
+   "time": "2026-10-27T10:39:38+00:00",
+   "tier": "C",
+   "category": "hazard",
+   "country": "Turkey",
+   "city": "Istanbul",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/27/turkey-tornado-kills-at-least-four-workers-at-antalya-construction-site/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "1ede3076ea46",
+   "flag": "🇹🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.78,
+   "watch": []
+  },
+  {
+   "title": "Anthropic files for mammoth IPO as revenues and losses mount",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/business/20261027-anthropic-files-for-mammoth-ipo-as-revenues-and-losses-mount",
+   "time": "2026-10-27T10:20:34+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/business/20261027-anthropic-files-for-mammoth-ipo-as-revenues-and-losses-mount",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "28403dd6b0fe",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Azerbaijan: Rare protests over hijab ban in schools",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/the-observers/20261027-azerbaijan-rare-protests-over-hijab-ban-in-schools",
+   "time": "2026-10-27T10:16:47+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Azerbaijan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/the-observers/20261027-azerbaijan-rare-protests-over-hijab-ban-in-schools",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "841a8f3f3fd9",
+   "flag": "🇦🇿",
+   "region": "Eastern Europe",
+   "baseline": 2.84,
+   "watch": []
+  },
+  {
+   "title": "University students in The Gambia protest over poor campus conditions",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/27/university-students-in-the-gambia-protest-over-poor-campus-conditions/",
+   "time": "2026-10-27T09:40:25+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Gambia",
+   "city": "Banjul",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/27/university-students-in-the-gambia-protest-over-poor-campus-conditions/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "b819ed99d368",
+   "flag": "🇬🇲",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.71,
+   "watch": []
+  },
+  {
+   "title": "Heavy rains trigger massive flooding in Ecuador’s largest city",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss",
+   "time": "2026-10-27T09:38:59+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Ecuador",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "87739acdf5e7",
+   "flag": "🇪🇨",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.18,
+   "watch": []
+  },
+  {
+   "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
+   "summary": "",
+   "url": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
+   "time": "2026-10-27T09:30:30+00:00",
+   "tier": "B",
+   "category": "unrest",
    "country": "Iran",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-20T14:20:38.463070+00:00",
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
    "confidence": "B3",
    "corroboration": 1,
-   "id": "72fe1ec91617",
+   "id": "67aa3af39658",
    "flag": "🇮🇷",
    "region": "Middle East & N. Africa",
    "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.",
+   "summary": "On 10/27/2026 8:55:23 AM, an earthquake occurred in Vanuatu potentially affecting 1 thousand in MMI III. The earthquake had Magnitude 5.8M, Depth:10km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574115",
+   "time": "2026-10-27T09:09:39+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.8962,
+   "lon": 165.6262,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574115",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "f5524ecd7788",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "M5.0 earthquake, 95 km NNE of Hihifo, Tonga",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc",
+   "time": "2026-10-27T09:07:45.122000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Tonga",
+   "city": null,
+   "lat": -15.1739,
+   "lon": -173.4094,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "cdd8aec06f80",
+   "flag": "🇹🇴",
+   "region": "Oceania",
+   "baseline": 1.93,
+   "watch": []
+  },
+  {
+   "title": "Fear and misinformation hamper Ebola response in DR Congo",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/26/fear-and-misinformation-hamper-ebola-response-in-dr-congo/",
+   "time": "2026-10-27T08:20:19+00:00",
+   "tier": "C",
+   "category": "health",
+   "country": "DRC",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/26/fear-and-misinformation-hamper-ebola-response-in-dr-congo/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "2d25eaa3bbbc",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
    "watch": []
   },
   {
@@ -6656,6 +7414,34 @@
    "flag": "🇻🇺",
    "region": "Oceania",
    "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "Nurse killed, health worker injured in DR Congo Ebola attack",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/26/nurse-killed-health-worker-injured-in-dr-congo-ebola-attack/",
+   "time": "2026-10-26T15:01:56+00:00",
+   "tier": "C",
+   "category": "health",
+   "country": "DRC",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/26/nurse-killed-health-worker-injured-in-dr-congo-ebola-attack/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "6347f73a8d5e",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
    "watch": []
   },
   {
@@ -8588,6 +9374,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in South Sudan",
+   "summary": "On 19/10/2026, a forest fire started in South Sudan, until 26/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033153",
+   "time": "2026-10-25T16:21:03+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Sudan",
+   "city": null,
+   "lat": 8.930514626292714,
+   "lon": 29.196732268232093,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033153",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-27T14:37:14.599106+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "8a90971c128d",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
    "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
@@ -8756,179 +9570,6 @@
    "watch": []
   },
   {
-   "title": "Le Pen leads polls with up to 38% six months before election",
-   "summary": "",
-   "url": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
-   "time": "2026-10-25T13:51:14+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T14:23:13.483028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b86b9aac9d35",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France: Le Pen launches presidential campaign in Orleans",
-   "summary": "",
-   "url": "https://www.france24.com/en/france-le-pen-launches-presidential-campaign-in-orleans",
-   "time": "2026-10-25T13:46:08+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france-le-pen-launches-presidential-campaign-in-orleans",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T14:23:13.483028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "67c54c726311",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-   "summary": "",
-   "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-   "time": "2026-10-25T13:43:19+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Georgia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T14:23:13.483028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "2b02cbe10ff8",
-   "flag": "🇬🇪",
-   "region": "Eastern Europe",
-   "baseline": 2.39,
-   "watch": []
-  },
-  {
-   "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
-   "summary": "",
-   "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
-   "time": "2026-10-25T13:29:56+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Portugal",
-   "city": "Lisbon",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
-     "tier": "B"
-    },
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T14:23:13.483028+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "e308c91d864c",
-   "flag": "🇵🇹",
-   "region": "Western Europe",
-   "baseline": 1.0,
-   "watch": []
-  },
-  {
-   "title": "Over 1,000 arrested in France after a day of mostly peaceful protests",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/25/over-1000-arrested-in-france-after-a-day-of-mostly-peaceful-protests/",
-   "time": "2026-10-25T12:48:59+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/25/over-1000-arrested-in-france-after-a-day-of-mostly-peaceful-protests/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-25T14:23:13.483028+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "70f635888791",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections",
-   "time": "2026-10-25T12:48:31+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T14:23:13.483028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "68cacc889186",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Green forest fire notification in Mozambique",
    "summary": "On 18/10/2026, a forest fire started in Mozambique, until 25/10/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033155",
@@ -8954,34 +9595,6 @@
    "flag": "🇲🇿",
    "region": "Sub-Saharan Africa",
    "baseline": 3.83,
-   "watch": []
-  },
-  {
-   "title": "Hundreds of thousands march across France in protests over schools and policing",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-   "time": "2026-10-25T12:07:05+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T20:28:17.555217+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f9ba00c3c540",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -9041,174 +9654,6 @@
    "watch": []
   },
   {
-   "title": "Far-right leader Le Pen says visible policing keeps protests smooth",
-   "summary": "",
-   "url": "https://www.france24.com/en/far-right-leader-le-pen-says-visible-policing-keeps-protests-smooth",
-   "time": "2026-10-25T11:39:18+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/far-right-leader-le-pen-says-visible-policing-keeps-protests-smooth",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T20:28:17.555217+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "942e84e70ec8",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Israel: Demonstrators rally against government ahead of election",
-   "summary": "",
-   "url": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
-   "time": "2026-10-25T11:38:01+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Israel",
-   "city": "Tel Aviv",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T14:23:13.483028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "896e93e674d2",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "West Bank: Families forcibly displaced in Hebron",
-   "summary": "",
-   "url": "https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron",
-   "time": "2026-10-25T11:35:30+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T14:23:13.483028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4756eb5a0bac",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "Demand for UK government action 10 months after British man’s death in Grenada",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
-   "time": "2026-10-25T11:00:01+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Grenada",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T14:23:13.483028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9af2dcb6d2f8",
-   "flag": "🇬🇩",
-   "region": "Latin America & Caribbean",
-   "baseline": 1.67,
-   "watch": []
-  },
-  {
-   "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-25T10:55:33+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Haiti",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T14:23:13.483028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "14599af19496",
-   "flag": "🇭🇹",
-   "region": "Latin America & Caribbean",
-   "baseline": 4.53,
-   "watch": []
-  },
-  {
-   "title": "Police in Albania filmed beating protester unconscious",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
-   "time": "2026-10-25T10:45:51+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Albania",
-   "city": "Tirana",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T14:23:13.483028+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "e25c718baa7e",
-   "flag": "🇦🇱",
-   "region": "Eastern Europe",
-   "baseline": 2.14,
-   "watch": []
-  },
-  {
    "title": "Red Cross trains staff as Kenya records its second death from Ebola",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/25/red-cross-trains-staff-as-kenya-records-its-second-death-from-ebola/",
@@ -9234,39 +9679,6 @@
    "flag": "🇰🇪",
    "region": "Sub-Saharan Africa",
    "baseline": 2.97,
-   "watch": []
-  },
-  {
-   "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-25T10:38:15+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T14:23:13.483028+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "31ecfde28ed0",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -9298,123 +9710,6 @@
    "watch": []
   },
   {
-   "title": "More than 400.000 protest across France",
-   "summary": "",
-   "url": "https://www.france24.com/en/more-than-400-000-protest-across-france",
-   "time": "2026-10-25T09:32:21+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/more-than-400-000-protest-across-france",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T10:00:25.939053+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fca7de37d923",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "France’s far right gathers as Le Pen prepares her presidential campaign",
-   "summary": "",
-   "url": "https://www.france24.com/en/france-s-far-right-gathers-as-le-pen-prepares-her-presidential-campaign",
-   "time": "2026-10-25T09:31:02+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france-s-far-right-gathers-as-le-pen-prepares-her-presidential-campaign",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T10:00:25.939053+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "73852c90f3cb",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Hundreds of thousands march in France to protest against government",
-   "summary": "",
-   "url": "https://www.france24.com/en/hundreds-of-thousands-march-in-france-to-protest-against-government",
-   "time": "2026-10-25T09:29:39+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/hundreds-of-thousands-march-in-france-to-protest-against-government",
-     "tier": "B"
-    },
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T10:00:25.939053+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "abe230e5ef04",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Thousands of Northern Irish Protestants march ahead of court ruling",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss",
-   "time": "2026-10-25T09:14:07+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Ireland",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T10:00:25.939053+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "0547d960a7b4",
-   "flag": "🇮🇪",
-   "region": "Western Europe",
-   "baseline": 1.0,
-   "watch": []
-  },
-  {
    "title": "M4.6 earthquake, Volcano Islands, Japan region",
    "summary": "Depth 133 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf",
@@ -9443,34 +9738,6 @@
    "watch": []
   },
   {
-   "title": "Nigeria's Tinubu defends policies as he launches re-election bid",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/25/nigerias-tinubu-defends-policies-as-he-launches-re-election-bid/",
-   "time": "2026-10-25T08:47:47+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Nigeria",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/25/nigerias-tinubu-defends-policies-as-he-launches-re-election-bid/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-25T10:00:25.939053+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "8b4c7a71edc3",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
-   "watch": []
-  },
-  {
    "title": "M5.4 earthquake, 205 km NW of Port-Olry, Vanuatu",
    "summary": "Depth 10 km. Alert: green.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tc",
@@ -9496,34 +9763,6 @@
    "flag": "🇻🇺",
    "region": "Oceania",
    "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "Los pensionistas escenifican su unión con la juventud en una gran manifestación en Madrid : No vamos a aceptar una marcha atrás ## Guillermo Martínez",
-   "summary": "",
-   "url": "https://redescristianas.net/los-pensionistas-escenifican-su-union-con-la-juventud-en-una-gran-manifestacion-en-madrid-no-vamos-a-aceptar-una-marcha-atrasguillermo-martinez/",
-   "time": "2026-10-25T08:30:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Spain",
-   "city": "Madrid",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "redescristianas.net (via GDELT)",
-     "url": "https://redescristianas.net/los-pensionistas-escenifican-su-union-con-la-juventud-en-una-gran-manifestacion-en-madrid-no-vamos-a-aceptar-una-marcha-atrasguillermo-martinez/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-25T10:00:25.939053+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "ff3d729786f2",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -12514,34 +12753,6 @@
    "watch": []
   },
   {
-   "title": "M4.9 earthquake, 200 km NW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u432",
-   "time": "2026-10-22T12:22:57.822000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.9085,
-   "lon": 165.6239,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u432",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-22T15:57:46.880551+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "54708d7cb0c7",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
    "title": "Nigeria can stop Ebola spread, former disease control chief says",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/22/nigeria-can-stop-ebola-spread-former-disease-control-chief-says/",
@@ -12598,146 +12809,6 @@
    "watch": []
   },
   {
-   "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
-   "summary": "",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168651",
-   "time": "2026-10-22T12:00:00+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Nepal",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168651",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T06:29:47.227122+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "20b179351877",
-   "flag": "🇳🇵",
-   "region": "South Asia",
-   "baseline": 2.76,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Zambia",
-   "summary": "On 16/10/2026, a forest fire started in Zambia, until 23/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033030",
-   "time": "2026-10-22T11:11:18+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Zambia",
-   "city": null,
-   "lat": -14.840982226903371,
-   "lon": 29.985491335386797,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033030",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-24T01:38:42.098561+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "4ef24d8e8594",
-   "flag": "🇿🇲",
-   "region": "Sub-Saharan Africa",
-   "baseline": 2.88,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, 85 km NNW of Curup, Indonesia",
-   "summary": "Depth 135 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q",
-   "time": "2026-10-22T10:57:52.259000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": -2.8037,
-   "lon": 102.1272,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-22T15:57:46.880551+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "262a8244ad52",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "Dalai Lama appointed by China 'is going to be a fake one', exiled former Tibetan leader says",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261022-dalai-lama-appointed-by-china-is-going-to-be-a-fake-one-exiled-former-tibetan-leader-says",
-   "time": "2026-10-22T10:22:48+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "China",
-   "city": "Beijing",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261022-dalai-lama-appointed-by-china-is-going-to-be-a-fake-one-exiled-former-tibetan-leader-says",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-22T11:17:13.356778+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "669f223fef52",
-   "flag": "🇨🇳",
-   "region": "East & SE Asia",
-   "baseline": 2.75,
-   "watch": []
-  },
-  {
-   "title": "Australia: Bystanders dive into floodwaters to save trapped driver",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/22/australia-bystanders-dive-into-floodwaters-to-save-trapped-driver/",
-   "time": "2026-10-22T10:12:40+00:00",
-   "tier": "C",
-   "category": "hazard",
-   "country": "Australia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/22/australia-bystanders-dive-into-floodwaters-to-save-trapped-driver/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-22T11:17:13.356778+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "95284705dbd6",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
    "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
@@ -12763,34 +12834,6 @@
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
    "baseline": 4.3,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 11 km W of Ashkāsham, Afghanistan",
-   "summary": "Depth 175 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42e",
-   "time": "2026-10-22T10:07:41.749000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Afghanistan",
-   "city": null,
-   "lat": 36.677,
-   "lon": 71.3996,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42e",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-22T11:17:13.356778+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "1425cff26527",
-   "flag": "🇦🇫",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.8,
    "watch": []
   },
   {
@@ -12847,34 +12890,6 @@
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
    "baseline": 4.3,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 136 km NE of Petropavlovsk-Kamchatsky, Russia",
-   "summary": "Depth 61 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u423",
-   "time": "2026-10-22T08:34:18.537000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 53.7958,
-   "lon": 160.2671,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u423",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-22T11:17:13.356778+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "3f75d8e52598",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
    "watch": []
   },
   {
@@ -14549,62 +14564,6 @@
    "flag": "🇰🇿",
    "region": "Central Asia",
    "baseline": 2.76,
-   "watch": []
-  },
-  {
-   "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
-   "summary": "",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168589",
-   "time": "2026-10-13T12:00:00+00:00",
-   "tier": "B",
-   "category": "health",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168589",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-14T05:17:48.565044+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4c8250b5f1fd",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
-   "title": "Foot-and-mouth disease spreads to Namibia’s Zambezi Region",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/13/foot-and-mouth-disease-spreads-to-namibias-zambezi-region/",
-   "time": "2026-10-13T09:50:05+00:00",
-   "tier": "C",
-   "category": "health",
-   "country": "Namibia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/13/foot-and-mouth-disease-spreads-to-namibias-zambezi-region/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-13T16:20:59.584623+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "34f64faf5bff",
-   "flag": "🇳🇦",
-   "region": "Sub-Saharan Africa",
-   "baseline": 1.93,
    "watch": []
   },
   {
