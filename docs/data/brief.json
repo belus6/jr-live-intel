@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-26T23:17:25.886701+00:00",
+ "generated": "2026-10-27T02:19:09.850527+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
   "2": 65,
-  "3": 37,
-  "4": 11,
-  "5": 5
+  "3": 39,
+  "4": 9,
+  "5": 2
  },
  "watch_hits": [],
  "regions": {
@@ -63,6 +63,16 @@
     "time": "2026-10-26T12:57:58+00:00"
    },
    {
+    "id": "fcdd5a9a27f9",
+    "title": "Green forest fire notification in Namibia, Angola",
+    "country": "Namibia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T00:11:35+00:00"
+   },
+   {
     "id": "a17c6ad3c88e",
     "title": "Human rights activists condemn alleged abduction of Tanzanian govt critic",
     "country": "Kenya",
@@ -81,16 +91,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-26T16:07:46+00:00"
-   },
-   {
-    "id": "8ae178df2b0c",
-    "title": "Burkina Faso",
-    "country": "Burkina Faso",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-26T15:58:48+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -155,66 +155,24 @@
     "time": "2026-10-26T11:08:48+00:00"
    },
    {
-    "id": "b844f50cf355",
-    "title": "The West Bank - Level 3: Reconsider Travel",
-    "country": "Palestine",
-    "city": null,
-    "category": "advisory",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-26T00:00:00+00:00"
-   },
-   {
-    "id": "de688c1b0bcc",
-    "title": "Algeria’s president orders troop deployment to neighbouring Niger",
-    "country": "Algeria",
+    "id": "b4c2beb8b138",
+    "title": "Jordan strikes Syria after church attack, killing at least seven people",
+    "country": "Syria",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-26T17:55:47+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "63a145ec47ee",
-    "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3.049 million .",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-10-26T01:51:40+00:00"
+    "time": "2026-10-26T23:50:11+00:00"
    },
    {
-    "id": "c8682b6376c9",
-    "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3.146 million .",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-10-26T01:51:40+00:00"
-   },
-   {
-    "id": "ccecf8faacd9",
-    "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 6.028 million .",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-10-26T01:51:40+00:00"
-   },
-   {
-    "id": "7cde74a45416",
-    "title": "Orange notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.356 million .",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-26T01:51:40+00:00"
+    "id": "7488f722375d",
+    "title": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
+    "country": "Iran",
+    "city": "Tehran",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-26T23:24:17+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -229,14 +187,14 @@
     "time": "2026-10-26T23:02:17+00:00"
    },
    {
-    "id": "52d13ac4ad31",
-    "title": "🔴 Live: Bolsonaro refuses to recognise Brazil election results",
+    "id": "576f983c3456",
+    "title": "Flavio Bolsonaro vows to lead opposition after Brazil court imposes travel ban",
     "country": "Brazil",
     "city": null,
     "category": "political",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-26T02:01:30+00:00"
+    "confidence": "B3",
+    "time": "2026-10-26T23:56:24+00:00"
    },
    {
     "id": "151d01c40b3d",
@@ -247,26 +205,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-26T02:59:50+00:00"
-   },
-   {
-    "id": "0f79fd8fc43c",
-    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-    "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-26T00:19:05+00:00"
-   },
-   {
-    "id": "9da56ce1c5c7",
-    "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
-    "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-26T00:19:05+00:00"
    },
    {
     "id": "b6647ac852a6",
@@ -297,6 +235,26 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-26T17:55:59+00:00"
+   },
+   {
+    "id": "81e9288e7258",
+    "title": "Brazil: Thousands flood streets to celebrate Lula's election victory",
+    "country": "Brazil",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-26T11:26:25+00:00"
+   },
+   {
+    "id": "29a360a04594",
+    "title": "Photos: Lula supporters flood streets in celebration of historic win",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-26T07:24:58+00:00"
    }
   ],
   "Eastern Europe": [
@@ -311,6 +269,16 @@
     "time": "2026-10-26T19:01:03+00:00"
    },
    {
+    "id": "039b93fc3e5b",
+    "title": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – as it happened",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-27T01:55:40+00:00"
+   },
+   {
     "id": "fdf29c0da19a",
     "title": "Trump lashes out at Obama for joking that White House looks ‘like Saddam Hussein opened a Cheesecake Factory’ – live",
     "country": "Ukraine",
@@ -323,6 +291,16 @@
    {
     "id": "9732e576885f",
     "title": "Paramedics caught under fire, university campus struck as Russian ballistic missile attack kills 1, injures 10 in Kyiv",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-26T20:16:41+00:00"
+   },
+   {
+    "id": "94d9fb198a87",
+    "title": "Russian ballistic missiles target Kyiv university and medical centers, killing 1, injuring 10",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
@@ -359,26 +337,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-26T17:59:31+00:00"
-   },
-   {
-    "id": "8e8b2eaa157d",
-    "title": "Russia: flames engulf buildings after Ukrainian drone attack in Voronezh region",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-26T17:19:51+00:00"
-   },
-   {
-    "id": "a4026e7a7d56",
-    "title": "Ukraine strikes Russian plant producing missile, bomb batteries in Yelets, General Staff says",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-26T16:24:43+00:00"
    }
   ],
   "Western Europe": [
@@ -453,14 +411,14 @@
     "time": "2026-10-26T22:20:20+00:00"
    },
    {
-    "id": "9baf60e5296c",
-    "title": "Protest leaders urge French pupils to keep barricading their schools",
-    "country": "France",
+    "id": "fc2d6ad2b978",
+    "title": "Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
+    "country": "Portugal",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-26T20:17:16+00:00"
+    "time": "2026-10-26T22:18:34+00:00"
    }
   ],
   "North America": [
@@ -587,17 +545,37 @@
     "time": "2026-10-26T07:43:52+00:00"
    },
    {
-    "id": "f6394cc9ffad",
-    "title": "Australian murderer loses bid to eat Vegemite in prison",
-    "country": "Australia",
+    "id": "328f151b25fc",
+    "title": "M4.8 earthquake, 182 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
     "city": null,
-    "category": "crime",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-26T04:05:28+00:00"
+    "confidence": "A1",
+    "time": "2026-10-26T04:53:35.102000+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "b8fb1da66489",
+    "title": "M4.8 earthquake, 54 km E of Tomioka, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T00:25:08.167000+00:00"
+   },
+   {
+    "id": "9c10e6024a92",
+    "title": "M4.5 earthquake, 98 km NNW of Tobelo, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-26T22:52:22.912000+00:00"
+   },
    {
     "id": "8c8c35483560",
     "title": "Green forest fire notification in Indonesia",
@@ -657,16 +635,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-26T07:48:16.240000+00:00"
-   },
-   {
-    "id": "f396cb59571f",
-    "title": "M4.8 earthquake, 41 km WNW of Kupang, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-26T03:59:22.208000+00:00"
    }
   ],
   "Central Asia": [
