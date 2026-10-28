@@ -1,18 +1,100 @@
 {
- "generated": "2026-10-27T23:13:40.588221+00:00",
+ "generated": "2026-10-28T02:21:15.351159+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 70,
-  "3": 34,
-  "4": 10,
+  "2": 72,
+  "3": 33,
+  "4": 11,
   "5": 0
  },
  "watch_hits": [
   "db9242d9dda5"
  ],
  "regions": {
+  "Oceania": [
+   {
+    "id": "8a3ed104c70d",
+    "title": "Criminal case against alleged Bondi terrorist delayed amid ‘unprecedented’ investigation",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-28T01:18:39+00:00"
+   },
+   {
+    "id": "3709945a38d8",
+    "title": "M5.5 earthquake, 221 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-28T01:39:11.004000+00:00"
+   },
+   {
+    "id": "7bef91383385",
+    "title": "M5.8 earthquake, 196 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-27T08:55:23.290000+00:00"
+   },
+   {
+    "id": "288e6b3f2017",
+    "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T01:55:22+00:00"
+   },
+   {
+    "id": "46d26375bd03",
+    "title": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; man charged over false Bondi shooting claim",
+    "country": "Australia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T22:57:59+00:00"
+   },
+   {
+    "id": "ce6034589ae0",
+    "title": "M5.0 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T15:31:42.073000+00:00"
+   },
+   {
+    "id": "f5524ecd7788",
+    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T09:09:39+00:00"
+   },
+   {
+    "id": "cdd8aec06f80",
+    "title": "M5.0 earthquake, 95 km NNE of Hihifo, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T09:07:45.122000+00:00"
+   }
+  ],
   "Middle East & N. Africa": [
    {
     "id": "6dce117c2920",
@@ -55,6 +137,16 @@
     "time": "2026-10-27T10:52:48+00:00"
    },
    {
+    "id": "a6dcad0762e5",
+    "title": "Israel election results: No clear winner projected, what’s next?",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-27T23:06:47+00:00"
+   },
+   {
     "id": "eabc4472136a",
     "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
     "country": "Palestine",
@@ -75,24 +167,14 @@
     "time": "2026-10-27T19:28:12+00:00"
    },
    {
-    "id": "64ab803273e2",
-    "title": "Funeral held for family killed in Jordanian airstrikes in Syria",
-    "country": "Syria",
+    "id": "6db491d3e4c0",
+    "title": "Israel election results live: Netanyahu calls for a right-wing government",
+    "country": "Israel",
     "city": null,
-    "category": "conflict",
+    "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-27T17:03:45+00:00"
-   },
-   {
-    "id": "044113e94678",
-    "title": "Sudan: One year after the fall of El-Fasher",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T11:46:35+00:00"
+    "time": "2026-10-27T19:28:12+00:00"
    }
   ],
   "Eastern Europe": [
@@ -289,16 +371,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-27T12:01:11.952000+00:00"
-   },
-   {
-    "id": "109029126d9c",
-    "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T02:17:06+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -313,18 +385,28 @@
     "time": "2026-10-27T16:46:23+00:00"
    },
    {
-    "id": "576f983c3456",
-    "title": "Flavio Bolsonaro vows to lead opposition after Brazil court imposes travel ban",
-    "country": "Brazil",
+    "id": "4c577504bb88",
+    "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+    "country": "Venezuela",
     "city": null,
-    "category": "political",
-    "severity": 3,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-26T23:56:24+00:00"
+    "time": "2026-10-27T23:07:06+00:00"
    },
    {
     "id": "b821d68ff6de",
     "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+    "country": "Venezuela",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T21:28:33+00:00"
+   },
+   {
+    "id": "f329fe1b4061",
+    "title": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
     "country": "Venezuela",
     "city": null,
     "category": "unrest",
@@ -371,16 +453,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-27T11:06:26+00:00"
-   },
-   {
-    "id": "87739acdf5e7",
-    "title": "Heavy rains trigger massive flooding in Ecuador’s largest city",
-    "country": "Ecuador",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T09:38:59+00:00"
    }
   ],
   "East & SE Asia": [
@@ -443,16 +515,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-27T14:43:09.497000+00:00"
-   },
-   {
-    "id": "b8fb1da66489",
-    "title": "M4.8 earthquake, 54 km E of Tomioka, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T00:25:08.167000+00:00"
    }
   ],
   "Western Europe": [
@@ -475,6 +537,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-27T07:00:04+00:00"
+   },
+   {
+    "id": "fe035a526dbe",
+    "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-28T00:07:22+00:00"
+   },
+   {
+    "id": "a4a5231ec990",
+    "title": "Portugal: Lisbon housing crisis sparks protest outside parliament",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-27T23:12:53+00:00"
    },
    {
     "id": "3ceec55f9ac5",
@@ -515,98 +597,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-27T17:08:44+00:00"
-   },
-   {
-    "id": "35f9f203e042",
-    "title": "France's Senate takes on the 'rioters pay' bill after protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T14:13:51+00:00"
-   },
-   {
-    "id": "6a92674ada84",
-    "title": "French government concessions to students 'tactically shrewd' but risk creating new set of problems",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T11:35:23+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "7bef91383385",
-    "title": "M5.8 earthquake, 196 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-27T08:55:23.290000+00:00"
-   },
-   {
-    "id": "46d26375bd03",
-    "title": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; man charged over false Bondi shooting claim",
-    "country": "Australia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T22:57:59+00:00"
-   },
-   {
-    "id": "ce6034589ae0",
-    "title": "M5.0 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T15:31:42.073000+00:00"
-   },
-   {
-    "id": "f5524ecd7788",
-    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T09:09:39+00:00"
-   },
-   {
-    "id": "cdd8aec06f80",
-    "title": "M5.0 earthquake, 95 km NNE of Hihifo, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T09:07:45.122000+00:00"
-   },
-   {
-    "id": "60bd1acb6d3e",
-    "title": "Labor condemns One Nation cartoons depicting Penny Wong being murdered as Hanson says videos ‘not going anywhere’",
-    "country": "Australia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T05:13:57+00:00"
-   },
-   {
-    "id": "d1d1b2b34ec5",
-    "title": "M4.9 earthquake, 69 km WSW of Kirakira, Solomon Islands",
-    "country": "Solomon Islands",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T02:02:55.847000+00:00"
    }
   ],
   "South Asia": [

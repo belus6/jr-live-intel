@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-27T23:13:40.588221+00:00",
+ "generated": "2026-10-28T02:21:15.351159+00:00",
  "sample": false,
- "count": 527,
+ "count": 526,
  "events": [
   {
    "title": "Nigeria: 50 killed in bandit attack on Taraba village",
@@ -714,6 +714,34 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Criminal case against alleged Bondi terrorist delayed amid ‘unprecedented’ investigation",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
+   "time": "2026-10-28T01:18:39+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Australia",
+   "city": "Sydney",
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-28T02:21:15.351159+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8a3ed104c70d",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
    "watch": []
   },
   {
@@ -2323,6 +2351,62 @@
    "watch": []
   },
   {
+   "title": "M5.5 earthquake, 221 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld",
+   "time": "2026-10-28T01:39:11.004000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.8946,
+   "lon": 165.389,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-28T02:21:15.351159+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3709945a38d8",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "Israel election results: No clear winner projected, what’s next?",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+   "time": "2026-10-27T23:06:47+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-28T02:21:15.351159+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a6dcad0762e5",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
    "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
@@ -2429,6 +2513,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "da03202d976c",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Israel election results live: Netanyahu calls for a right-wing government",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+   "time": "2026-10-27T19:28:12+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-28T02:21:15.351159+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "6db491d3e4c0",
    "flag": "🇮🇱",
    "region": "Middle East & N. Africa",
    "baseline": 2.89,
@@ -4998,62 +5110,6 @@
    "watch": []
   },
   {
-   "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
-   "time": "2026-10-25T00:14:30+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "United States",
-   "city": "Detroit",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T00:32:42.120953+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3cbd271a3693",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "Massive Ukrainian drone attack hits shopping center in Russia's Belgorod Oblast, locals say",
-   "summary": "",
-   "url": "https://kyivindependent.com/massive-ukrainian-drone-attack-hits-shopping-center-in-russias-belgorod-oblast-locals-say/",
-   "time": "2026-10-24T23:27:09+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/massive-ukrainian-drone-attack-hits-shopping-center-in-russias-belgorod-oblast-locals-say/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-25T00:32:42.120953+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "fcb499ceecf1",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
    "title": "Haiti's ex-president Martelly registers as candidate for upcoming election",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/24/haitis-ex-president-martelly-registers-as-candidate-for-upcoming-election/",
@@ -5586,6 +5642,146 @@
    "watch": []
   },
   {
+   "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+   "time": "2026-10-28T02:13:39+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-28T02:21:15.351159+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e98691b21c54",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
+   "summary": "On 10/28/2026 1:39:11 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574251",
+   "time": "2026-10-28T01:55:22+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.8946,
+   "lon": 165.389,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574251",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-28T02:21:15.351159+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "288e6b3f2017",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+   "time": "2026-10-28T00:07:22+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-28T02:21:15.351159+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "fe035a526dbe",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "Portugal: Lisbon housing crisis sparks protest outside parliament",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/28/portugal-lisbon-housing-crisis-sparks-protest-outside-parliament/",
+   "time": "2026-10-27T23:12:53+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Portugal",
+   "city": "Lisbon",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/28/portugal-lisbon-housing-crisis-sparks-protest-outside-parliament/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-28T02:21:15.351159+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "a4a5231ec990",
+   "flag": "🇵🇹",
+   "region": "Western Europe",
+   "baseline": 1.0,
+   "watch": []
+  },
+  {
+   "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+   "time": "2026-10-27T23:07:06+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Venezuela",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-28T02:21:15.351159+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4c577504bb88",
+   "flag": "🇻🇪",
+   "region": "Latin America & Caribbean",
+   "baseline": 4.49,
+   "watch": []
+  },
+  {
    "title": "Israel election live: setback for Netanyahu as exit polls show strong opposition",
    "summary": "",
    "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
@@ -5692,6 +5888,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "b821d68ff6de",
+   "flag": "🇻🇪",
+   "region": "Latin America & Caribbean",
+   "baseline": 4.49,
+   "watch": []
+  },
+  {
+   "title": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+   "time": "2026-10-27T21:28:33+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Venezuela",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-28T02:21:15.351159+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f329fe1b4061",
    "flag": "🇻🇪",
    "region": "Latin America & Caribbean",
    "baseline": 4.49,
@@ -9401,62 +9625,6 @@
    "watch": []
   },
   {
-   "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-26T01:07:05+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Serbia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-26T06:14:37.338465+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4444048100b8",
-   "flag": "🇷🇸",
-   "region": "Eastern Europe",
-   "baseline": 2.13,
-   "watch": []
-  },
-  {
-   "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
-   "time": "2026-10-26T01:02:57+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-26T06:14:37.338465+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "a55c9b46b286",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
    "title": "Green forest fire notification in Guyana",
    "summary": "On 20/10/2026, a forest fire started in Guyana, until 25/10/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033209",
@@ -9482,62 +9650,6 @@
    "flag": "🇬🇾",
    "region": "Latin America & Caribbean",
    "baseline": 2.52,
-   "watch": []
-  },
-  {
-   "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-   "time": "2026-10-25T23:42:32+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Serbia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-26T01:00:31.526486+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "55ab9e02a514",
-   "flag": "🇷🇸",
-   "region": "Eastern Europe",
-   "baseline": 2.13,
-   "watch": []
-  },
-  {
-   "title": "Thousands protest in Prague against public media funding reforms",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
-   "time": "2026-10-25T23:29:13+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Czech Republic",
-   "city": "Prague",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-26T01:00:31.526486+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "1b27d62e36b9",
-   "flag": "🇨🇿",
-   "region": "Eastern Europe",
-   "baseline": 1.19,
    "watch": []
   },
   {
@@ -12360,118 +12472,6 @@
    "watch": []
   },
   {
-   "title": "M4.5 earthquake, 18 km NNW of Yongning, China",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
-   "time": "2026-10-23T02:17:01.507000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "China",
-   "city": null,
-   "lat": 27.9986,
-   "lon": 100.6189,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-23T06:29:47.227122+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "e35e9a1887ce",
-   "flag": "🇨🇳",
-   "region": "East & SE Asia",
-   "baseline": 2.75,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 102 km W of San Antonio de los Cobres, Argentina",
-   "summary": "Depth 186 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u48i",
-   "time": "2026-10-23T00:09:35.519000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Argentina",
-   "city": null,
-   "lat": -24.286,
-   "lon": -67.3224,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u48i",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-23T06:29:47.227122+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "7217ad07b217",
-   "flag": "🇦🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.14,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Central African Republic, Sudan",
-   "summary": "On 14/10/2026, a forest fire started in Central African Republic, Sudan, until 22/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033080",
-   "time": "2026-10-22T23:20:13+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "CAR",
-   "city": null,
-   "lat": 9.78507531355897,
-   "lon": 23.8604300512579,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033080",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-23T01:31:45.486514+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "f2adf0ba0f0e",
-   "flag": "🇨🇫",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.61,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Brazil",
-   "summary": "On 16/10/2026, a forest fire started in Brazil, until 22/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033076",
-   "time": "2026-10-22T23:14:01+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Brazil",
-   "city": null,
-   "lat": -3.3720191724152313,
-   "lon": -54.13648164183183,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033076",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-23T01:31:45.486514+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "b81a60a934db",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
-   "watch": []
-  },
-  {
    "title": "Why measles outbreak in Pennsylvania poses risks beyond US borders",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/22/why-measles-outbreak-in-pennsylvania-poses-risks-beyond-us-borders?traffic_source=rss",
@@ -14283,34 +14283,6 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/14/namibia-battles-cattle-disease-outbreak-as-eu-suspends-several-meat-imports?traffic_source=rss",
-   "time": "2026-10-14T01:07:46+00:00",
-   "tier": "B",
-   "category": "health",
-   "country": "Namibia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/14/namibia-battles-cattle-disease-outbreak-as-eu-suspends-several-meat-imports?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-14T05:17:48.565044+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "a33d30913773",
-   "flag": "🇳🇦",
-   "region": "Sub-Saharan Africa",
-   "baseline": 1.93,
    "watch": []
   },
   {
