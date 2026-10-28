@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-28T02:21:15.351159+00:00",
+ "generated": "2026-10-28T08:52:38.848740+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 72,
-  "3": 33,
+  "2": 73,
+  "3": 38,
   "4": 11,
   "5": 0
  },
@@ -13,7 +13,99 @@
   "db9242d9dda5"
  ],
  "regions": {
+  "Eastern Europe": [
+   {
+    "id": "d21643c1d594",
+    "title": "Elderly women and children survive Russian attack on Kharkiv",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-28T07:35:20+00:00"
+   },
+   {
+    "id": "b42bdd977737",
+    "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-27T17:43:02+00:00"
+   },
+   {
+    "id": "908f9642acf0",
+    "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-27T16:23:32+00:00"
+   },
+   {
+    "id": "942764498637",
+    "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
+    "country": "Ukraine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-27T14:02:54+00:00"
+   },
+   {
+    "id": "f3a618724c98",
+    "title": "Zelensky pushes back against Musk, says Ukraine uses Starshield to defend itself",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-28T08:43:56+00:00"
+   },
+   {
+    "id": "bb3e43db31bb",
+    "title": "Kyiv's housing market feels the chill as residents escape ahead of winter",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-28T08:11:43+00:00"
+   },
+   {
+    "id": "bb106af26400",
+    "title": "General Staff: Russia has lost 1,583,350 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-28T07:50:49+00:00"
+   },
+   {
+    "id": "ac73331d1b7d",
+    "title": "Ukraine: massive fire engulfs buildings after Russian strike on Kharkiv",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-28T07:43:30+00:00"
+   }
+  ],
   "Oceania": [
+   {
+    "id": "3709945a38d8",
+    "title": "M5.5 earthquake, 221 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-28T01:39:11.004000+00:00"
+   },
    {
     "id": "8a3ed104c70d",
     "title": "Criminal case against alleged Bondi terrorist delayed amid ‘unprecedented’ investigation",
@@ -25,16 +117,6 @@
     "time": "2026-10-28T01:18:39+00:00"
    },
    {
-    "id": "3709945a38d8",
-    "title": "M5.5 earthquake, 221 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-28T01:39:11.004000+00:00"
-   },
-   {
     "id": "7bef91383385",
     "title": "M5.8 earthquake, 196 km NW of Port-Olry, Vanuatu",
     "country": "Vanuatu",
@@ -43,6 +125,16 @@
     "severity": 3,
     "confidence": "A1",
     "time": "2026-10-27T08:55:23.290000+00:00"
+   },
+   {
+    "id": "a271d39c389c",
+    "title": "M5.0 earthquake, 200 km W of Sola, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T04:31:04.089000+00:00"
    },
    {
     "id": "288e6b3f2017",
@@ -83,16 +175,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-27T09:09:39+00:00"
-   },
-   {
-    "id": "cdd8aec06f80",
-    "title": "M5.0 earthquake, 95 km NNE of Hihifo, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T09:07:45.122000+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -137,126 +219,44 @@
     "time": "2026-10-27T10:52:48+00:00"
    },
    {
-    "id": "a6dcad0762e5",
-    "title": "Israel election results: No clear winner projected, what’s next?",
+    "id": "2b23b69fa0b8",
+    "title": "Israeli election results show no clear winner between Netanyahu, opposition",
     "country": "Israel",
     "city": null,
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-27T23:06:47+00:00"
+    "time": "2026-10-28T08:46:47+00:00"
    },
    {
-    "id": "eabc4472136a",
-    "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T21:12:27+00:00"
-   },
-   {
-    "id": "da03202d976c",
-    "title": "Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp",
+    "id": "bddce5669b49",
+    "title": "Israel election results live: vote count continues as exit polls suggest no clear winner",
     "country": "Israel",
     "city": null,
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-27T19:28:12+00:00"
+    "time": "2026-10-28T08:42:49+00:00"
    },
    {
-    "id": "6db491d3e4c0",
-    "title": "Israel election results live: Netanyahu calls for a right-wing government",
+    "id": "c6eb6d79cef6",
+    "title": "Wednesday briefing: We asked you - what do you want from the Burnham government’s first budget?",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-28T06:43:48+00:00"
+   },
+   {
+    "id": "194136e9d8c7",
+    "title": "Netanyahu outlines achievements, future plans as Likud leads Israeli polls",
     "country": "Israel",
     "city": null,
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-27T19:28:12+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "b42bdd977737",
-    "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-27T17:43:02+00:00"
-   },
-   {
-    "id": "908f9642acf0",
-    "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-27T16:23:32+00:00"
-   },
-   {
-    "id": "942764498637",
-    "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
-    "country": "Ukraine",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-27T14:02:54+00:00"
-   },
-   {
-    "id": "29e81781fd17",
-    "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-27T08:01:22+00:00"
-   },
-   {
-    "id": "888aa48340ee",
-    "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-27T02:29:00+00:00"
-   },
-   {
-    "id": "319135716562",
-    "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-10-27T05:26:58+00:00"
-   },
-   {
-    "id": "57c6977687b5",
-    "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T22:11:08+00:00"
-   },
-   {
-    "id": "30e00b19940f",
-    "title": "Ukraine's 'Veles' pipeline operation near Kupiansk 'eliminates' over 100 Russian troops, Zelensky says",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-27T18:05:12+00:00"
+    "time": "2026-10-28T06:02:00+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -279,16 +279,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-27T11:13:55+00:00"
-   },
-   {
-    "id": "e09f77c93e28",
-    "title": "Niger accuses Chad of deadly drone attack in which two civilians died",
-    "country": "Niger",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-27T08:49:18+00:00"
    },
    {
     "id": "dcc44af177cc",
@@ -339,9 +329,29 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-27T14:12:35+00:00"
+   },
+   {
+    "id": "487ad4ac61b5",
+    "title": "Tanzania's jailed opposition leader Tundu Lissu begins hunger strike",
+    "country": "Tanzania",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-27T13:00:30+00:00"
    }
   ],
   "North America": [
+   {
+    "id": "0977b42b42a4",
+    "title": "Why the US midterms matter even if you don’t live in America",
+    "country": "United States",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-28T08:15:19+00:00"
+   },
    {
     "id": "36ae5249f6e8",
     "title": "Trump reportedly considering lifting sanctions against Russia's investment fund",
@@ -373,6 +383,120 @@
     "time": "2026-10-27T12:01:11.952000+00:00"
    }
   ],
+  "South Asia": [
+   {
+    "id": "ce134e0b5479",
+    "title": "Cyclone Arnab makes landfall in India’s Andhra Pradesh",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-28T08:07:26+00:00"
+   },
+   {
+    "id": "2229afcf548c",
+    "title": "Pakistan",
+    "country": "Pakistan",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T16:05:20+00:00"
+   },
+   {
+    "id": "da49f374ec4b",
+    "title": "Cyclone Arnab batters India’s east coast",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T15:11:12+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "659a2109cb08",
+    "title": "Volunteer, 78, says Reform official likened her to Nazi collaborator for teaching asylum seekers English",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-28T06:00:01+00:00"
+   },
+   {
+    "id": "8ab0d7aeed26",
+    "title": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
+    "country": "Vatican City",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-27T13:45:01+00:00"
+   },
+   {
+    "id": "760064811151",
+    "title": "Why is the system failing France’s younger generation?",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-28T08:26:58+00:00"
+   },
+   {
+    "id": "504b51a18c2c",
+    "title": "French Senate backs 'make rioters pay' bill despite rights concerns",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-28T00:10:35+00:00"
+   },
+   {
+    "id": "fe035a526dbe",
+    "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-28T00:07:22+00:00"
+   },
+   {
+    "id": "a4a5231ec990",
+    "title": "Portugal: Lisbon housing crisis sparks protest outside parliament",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-27T23:12:53+00:00"
+   },
+   {
+    "id": "3ceec55f9ac5",
+    "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T22:30:45+00:00"
+   },
+   {
+    "id": "273de7c6a8f2",
+    "title": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-27T18:27:15+00:00"
+   }
+  ],
   "Latin America & Caribbean": [
    {
     "id": "e4d791436663",
@@ -383,6 +507,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-27T16:46:23+00:00"
+   },
+   {
+    "id": "30c9f968fa55",
+    "title": "M4.7 earthquake, 39 km SSW of Serrezuela, Argentina",
+    "country": "Argentina",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T07:02:12.084000+00:00"
+   },
+   {
+    "id": "a2b7fcdda2d8",
+    "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+    "country": "Bahamas",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-28T06:55:35+00:00"
    },
    {
     "id": "4c577504bb88",
@@ -433,26 +577,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-27T14:27:05+00:00"
-   },
-   {
-    "id": "e98d59566117",
-    "title": "M4.6 earthquake, 100 km W of El Aguilar, Argentina",
-    "country": "Argentina",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T11:41:22.141000+00:00"
-   },
-   {
-    "id": "16a9e951f389",
-    "title": "El Salvador",
-    "country": "Brazil",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T11:06:26+00:00"
    }
   ],
   "East & SE Asia": [
@@ -515,110 +639,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-27T14:43:09.497000+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "8ab0d7aeed26",
-    "title": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-    "country": "Vatican City",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T13:45:01+00:00"
-   },
-   {
-    "id": "8deb8e310321",
-    "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
-    "country": "Italy",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T07:00:04+00:00"
-   },
-   {
-    "id": "fe035a526dbe",
-    "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-28T00:07:22+00:00"
-   },
-   {
-    "id": "a4a5231ec990",
-    "title": "Portugal: Lisbon housing crisis sparks protest outside parliament",
-    "country": "Portugal",
-    "city": "Lisbon",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-27T23:12:53+00:00"
-   },
-   {
-    "id": "3ceec55f9ac5",
-    "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T22:30:45+00:00"
-   },
-   {
-    "id": "273de7c6a8f2",
-    "title": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T18:27:15+00:00"
-   },
-   {
-    "id": "8ffc390e4875",
-    "title": "Spain deports migrants from Ceuta in move criticised by rights group",
-    "country": "Spain",
-    "city": null,
-    "category": "transport",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T17:10:58+00:00"
-   },
-   {
-    "id": "377af489c4ef",
-    "title": "France: Lawmakers hold a minute of silence for Pengo Bossio Wangi, victim of racist attack",
-    "country": "France",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T17:08:44+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "2229afcf548c",
-    "title": "Pakistan",
-    "country": "Pakistan",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T16:05:20+00:00"
-   },
-   {
-    "id": "da49f374ec4b",
-    "title": "Cyclone Arnab batters India’s east coast",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T15:11:12+00:00"
    }
   ]
  }
