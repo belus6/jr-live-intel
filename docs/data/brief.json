@@ -1,19 +1,79 @@
 {
- "generated": "2026-10-28T08:52:38.848740+00:00",
+ "generated": "2026-10-28T15:45:41.205699+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 73,
-  "3": 38,
-  "4": 11,
+  "2": 58,
+  "3": 46,
+  "4": 10,
   "5": 0
  },
- "watch_hits": [
-  "db9242d9dda5"
- ],
+ "watch_hits": [],
  "regions": {
+  "North America": [
+   {
+    "id": "9a4ab9f4e13b",
+    "title": "US teen whose father arranged her marriage to Islamic State fighter convicted for weapons training",
+    "country": "United States",
+    "city": "New York",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-28T13:36:39+00:00"
+   },
+   {
+    "id": "0977b42b42a4",
+    "title": "Why the US midterms matter even if you don’t live in America",
+    "country": "United States",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-28T08:15:19+00:00"
+   },
+   {
+    "id": "36ae5249f6e8",
+    "title": "Trump reportedly considering lifting sanctions against Russia's investment fund",
+    "country": "United States",
+    "city": "New York",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-27T21:01:25+00:00"
+   },
+   {
+    "id": "f4cd2724a841",
+    "title": "Federal agents search Beverly Hills mansion tied to ex-congressman Eric Swalwell",
+    "country": "United States",
+    "city": "Los Angeles",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-27T16:48:43+00:00"
+   }
+  ],
   "Eastern Europe": [
+   {
+    "id": "eb59b3cf2cd8",
+    "title": "Ukraine: Melania Trump-brokered local ceasefire holds for second day",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-28T12:42:31+00:00"
+   },
+   {
+    "id": "5728e3ce681c",
+    "title": "Serbian police shoot dead assailant at Israeli Embassy",
+    "country": "Serbia",
+    "city": "Belgrade",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-28T08:48:00+00:00"
+   },
    {
     "id": "d21643c1d594",
     "title": "Elderly women and children survive Russian attack on Kharkiv",
@@ -45,54 +105,34 @@
     "time": "2026-10-27T16:23:32+00:00"
    },
    {
-    "id": "942764498637",
-    "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
-    "country": "Ukraine",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-27T14:02:54+00:00"
-   },
-   {
-    "id": "f3a618724c98",
-    "title": "Zelensky pushes back against Musk, says Ukraine uses Starshield to defend itself",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-28T08:43:56+00:00"
-   },
-   {
-    "id": "bb3e43db31bb",
-    "title": "Kyiv's housing market feels the chill as residents escape ahead of winter",
+    "id": "6f401be04d76",
+    "title": "Tsikhanouskaya on how Russia’s closest ally is playing the US",
     "country": "Ukraine",
     "city": "Kyiv",
-    "category": "conflict",
+    "category": "political",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-28T08:11:43+00:00"
+    "time": "2026-10-28T15:00:55+00:00"
    },
    {
-    "id": "bb106af26400",
-    "title": "General Staff: Russia has lost 1,583,350 troops in Ukraine since Feb. 24, 2022",
+    "id": "d5122748e25f",
+    "title": "Nearly 50 companies involved in producing Russia's Starlink alternative, 23 not under international sanctions, HUR says",
     "country": "Ukraine",
     "city": null,
-    "category": "conflict",
+    "category": "political",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-28T07:50:49+00:00"
+    "time": "2026-10-28T10:49:28+00:00"
    },
    {
-    "id": "ac73331d1b7d",
-    "title": "Ukraine: massive fire engulfs buildings after Russian strike on Kharkiv",
-    "country": "Ukraine",
-    "city": null,
+    "id": "72cb8d5e30f5",
+    "title": "Ukraine: Ceasefire holds for its first 30 hours in occupied Oleshky",
+    "country": "Russia",
+    "city": "Moscow",
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-28T07:43:30+00:00"
+    "confidence": "B3",
+    "time": "2026-10-28T10:46:51+00:00"
    }
   ],
   "Oceania": [
@@ -117,14 +157,34 @@
     "time": "2026-10-28T01:18:39+00:00"
    },
    {
-    "id": "7bef91383385",
-    "title": "M5.8 earthquake, 196 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
+    "id": "62e1f10ce121",
+    "title": "M4.6 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
     "city": null,
     "category": "hazard",
-    "severity": 3,
+    "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-27T08:55:23.290000+00:00"
+    "time": "2026-10-28T12:58:58.100000+00:00"
+   },
+   {
+    "id": "b4e0a995d04d",
+    "title": "M4.9 earthquake, 88 km SE of Hihifo, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T12:35:23.786000+00:00"
+   },
+   {
+    "id": "9dd203b89022",
+    "title": "Green flood alert in Australia",
+    "country": "Australia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T11:00:59+00:00"
    },
    {
     "id": "a271d39c389c",
@@ -155,26 +215,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-27T22:57:59+00:00"
-   },
-   {
-    "id": "ce6034589ae0",
-    "title": "M5.0 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T15:31:42.073000+00:00"
-   },
-   {
-    "id": "f5524ecd7788",
-    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T09:09:39+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -189,34 +229,64 @@
     "time": "2026-10-27T22:39:07+00:00"
    },
    {
-    "id": "8f7d4bd20bff",
-    "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-    "country": "Algeria",
+    "id": "3da0272f82e8",
+    "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
+    "country": "Israel",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "political",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-27T14:29:39+00:00"
+    "time": "2026-10-28T15:33:03+00:00"
    },
    {
-    "id": "1faed12bdacc",
-    "title": "Iraqi court sentences six French nationals to life for IS group membership",
-    "country": "Syria",
+    "id": "4a03f37d6f9d",
+    "title": "Israel's election result is messy - here's why",
+    "country": "Israel",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "political",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-27T11:16:38+00:00"
+    "time": "2026-10-28T14:26:24+00:00"
    },
    {
-    "id": "51f7a40e3feb",
-    "title": "Families of victims killed in Jordanian strike deny links to church attack",
+    "id": "5f7fe5683d76",
+    "title": "Victims of Jordan’s air strikes in Syria",
     "country": "Syria",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-27T10:52:48+00:00"
+    "time": "2026-10-28T12:35:19+00:00"
+   },
+   {
+    "id": "4f375065cf72",
+    "title": "Israeli election: As votes are counted, no clear winner emerges",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-28T11:32:07+00:00"
+   },
+   {
+    "id": "ea4bf7739d35",
+    "title": "Israeli election: 'Wishful thinking' for pro- and anti-Netanyahu parties?",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-28T10:15:25+00:00"
+   },
+   {
+    "id": "fc68d4df8c62",
+    "title": "Israelis await final election results as Netanyahu remains far from defeated",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-28T10:12:33+00:00"
    },
    {
     "id": "2b23b69fa0b8",
@@ -227,36 +297,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-28T08:46:47+00:00"
-   },
-   {
-    "id": "bddce5669b49",
-    "title": "Israel election results live: vote count continues as exit polls suggest no clear winner",
-    "country": "Israel",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-28T08:42:49+00:00"
-   },
-   {
-    "id": "c6eb6d79cef6",
-    "title": "Wednesday briefing: We asked you - what do you want from the Burnham government’s first budget?",
-    "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-28T06:43:48+00:00"
-   },
-   {
-    "id": "194136e9d8c7",
-    "title": "Netanyahu outlines achievements, future plans as Likud leads Israeli polls",
-    "country": "Israel",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-28T06:02:00+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -271,14 +311,64 @@
     "time": "2026-10-27T15:53:35+00:00"
    },
    {
-    "id": "871a49e62da0",
-    "title": "Chad hosts hundreds of thousands of Sudanese refugees as regional humanitarian crisis extends",
-    "country": "Chad",
+    "id": "53bb52abc666",
+    "title": "Niger accuses Chad of drone attack that killed two civilians",
+    "country": "Niger",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-28T13:42:38+00:00"
+   },
+   {
+    "id": "74b056cc028e",
+    "title": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
+    "country": "Ethiopia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-27T11:13:55+00:00"
+    "time": "2026-10-28T12:51:39+00:00"
+   },
+   {
+    "id": "da9295da22ad",
+    "title": "M4.5 earthquake, 13 km WSW of Āwash, Ethiopia",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T13:31:54.350000+00:00"
+   },
+   {
+    "id": "bf25eadf4c0b",
+    "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-28T12:00:00+00:00"
+   },
+   {
+    "id": "9189d95ebdf8",
+    "title": "Judge throws out attempted murder case against Zimbabwe VP's ex-wife",
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-28T09:56:01+00:00"
+   },
+   {
+    "id": "1af139a270c1",
+    "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+    "country": "Kenya",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-28T08:28:39+00:00"
    },
    {
     "id": "dcc44af177cc",
@@ -289,133 +379,101 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-27T21:09:12+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "488272ea7ebe",
+    "title": "M5.5 earthquake, 5 km ESE of Asahi, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-28T15:07:52.050000+00:00"
    },
    {
-    "id": "219a569f1282",
-    "title": "Green forest fire notification in Senegal, Mali",
-    "country": "Senegal",
+    "id": "6963a127e218",
+    "title": "Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.",
+    "country": "Japan",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-27T20:08:16+00:00"
+    "time": "2026-10-28T15:29:41+00:00"
    },
    {
-    "id": "8cf4eb4bc5e0",
-    "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
-    "country": "DRC",
+    "id": "c751d1a691bb",
+    "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+    "country": "China",
     "city": null,
     "category": "health",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-27T19:53:12+00:00"
+    "time": "2026-10-28T09:37:49+00:00"
    },
    {
-    "id": "d1202a986fdd",
-    "title": "Africa's Ebola outbreak tops 10,000 cases, mainly in DR Congo",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T15:45:18+00:00"
-   },
-   {
-    "id": "db9242d9dda5",
-    "title": "A 'Green Army' is out to thwart El Niño flooding",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T14:12:35+00:00"
-   },
-   {
-    "id": "487ad4ac61b5",
-    "title": "Tanzania's jailed opposition leader Tundu Lissu begins hunger strike",
-    "country": "Tanzania",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-27T13:00:30+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "0977b42b42a4",
-    "title": "Why the US midterms matter even if you don’t live in America",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-28T08:15:19+00:00"
-   },
-   {
-    "id": "36ae5249f6e8",
-    "title": "Trump reportedly considering lifting sanctions against Russia's investment fund",
-    "country": "United States",
-    "city": "New York",
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-27T21:01:25+00:00"
-   },
-   {
-    "id": "f4cd2724a841",
-    "title": "Federal agents search Beverly Hills mansion tied to ex-congressman Eric Swalwell",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T16:48:43+00:00"
-   },
-   {
-    "id": "36900dee5faf",
-    "title": "M4.6 earthquake, 5 km ENE of Tierra y Libertad, Mexico",
-    "country": "Mexico",
+    "id": "16b06dc9ac68",
+    "title": "M4.8 earthquake, 29 km SSW of Sarangani, Philippines",
+    "country": "Philippines",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-27T12:01:11.952000+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "ce134e0b5479",
-    "title": "Cyclone Arnab makes landfall in India’s Andhra Pradesh",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-28T08:07:26+00:00"
+    "time": "2026-10-28T09:32:56.341000+00:00"
    },
    {
-    "id": "2229afcf548c",
-    "title": "Pakistan",
-    "country": "Pakistan",
+    "id": "3a73657c66bf",
+    "title": "M5.4 earthquake, 210 km ENE of Nagqu, China",
+    "country": "China",
     "city": null,
-    "category": "advisory",
+    "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-27T16:05:20+00:00"
+    "time": "2026-10-27T18:57:53.135000+00:00"
    },
    {
-    "id": "da49f374ec4b",
-    "title": "Cyclone Arnab batters India’s east coast",
-    "country": "India",
+    "id": "e064ab90219a",
+    "title": "Rain brings temporary relief as Southeast Asia battles fires and toxic haze",
+    "country": "Indonesia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-27T15:11:12+00:00"
+    "time": "2026-10-27T18:41:28+00:00"
+   },
+   {
+    "id": "cb2a2931f958",
+    "title": "M4.9 earthquake, 70 km WNW of Callaguip, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T16:07:53.845000+00:00"
+   },
+   {
+    "id": "986bfcacfe92",
+    "title": "Green forest fire notification in Mongolia",
+    "country": "Mongolia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T16:01:46+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "247c367d02ad",
+    "title": "UK announces 'biggest ever' Ukraine support package of $13 billion in 2027",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-28T14:11:30+00:00"
+   },
    {
     "id": "659a2109cb08",
     "title": "Volunteer, 78, says Reform official likened her to Nazi collaborator for teaching asylum seekers English",
@@ -427,14 +485,24 @@
     "time": "2026-10-28T06:00:01+00:00"
    },
    {
-    "id": "8ab0d7aeed26",
-    "title": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-    "country": "Vatican City",
+    "id": "1b5ca798b725",
+    "title": "Britain's King Charles III attends youth rally in the Bahamas",
+    "country": "United Kingdom",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T13:45:01+00:00"
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-28T15:22:14+00:00"
+   },
+   {
+    "id": "5b6a58a1c732",
+    "title": "Spain",
+    "country": "Spain",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T13:02:06+00:00"
    },
    {
     "id": "760064811151",
@@ -475,26 +543,58 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-27T23:12:53+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "054535daae34",
+    "title": "Pakistan’s Rauf sanctioned for conduct contrary to ‘spirit’ of cricket",
+    "country": "Pakistan",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-28T12:44:18+00:00"
    },
    {
-    "id": "3ceec55f9ac5",
-    "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
-    "country": "United Kingdom",
+    "id": "ff96f04e1c14",
+    "title": "Cyclone leaves trail of destruction in India as thousands evacuated",
+    "country": "India",
     "city": null,
     "category": "hazard",
-    "severity": 2,
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-27T22:30:45+00:00"
+    "time": "2026-10-28T11:41:04+00:00"
    },
    {
-    "id": "273de7c6a8f2",
-    "title": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
-    "country": "France",
+    "id": "26b77f1922fe",
+    "title": "India: Over 180,000 evacuated on east coast as massive cyclone hits",
+    "country": "India",
     "city": null,
-    "category": "unrest",
-    "severity": 2,
+    "category": "hazard",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-27T18:27:15+00:00"
+    "time": "2026-10-28T11:28:19+00:00"
+   },
+   {
+    "id": "ce134e0b5479",
+    "title": "Cyclone Arnab makes landfall in India’s Andhra Pradesh",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-28T08:07:26+00:00"
+   },
+   {
+    "id": "2229afcf548c",
+    "title": "Pakistan",
+    "country": "Pakistan",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-27T16:05:20+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -557,88 +657,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-27T21:28:33+00:00"
-   },
-   {
-    "id": "857846afab06",
-    "title": "M5.0 earthquake, 27 km W of Río Grande, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T15:26:02.987000+00:00"
-   },
-   {
-    "id": "a0a58fec3db3",
-    "title": "Trump and Rubio head to Texas to stump for Ken Paxton as midterms campaign enters final week – US politics live",
-    "country": "Venezuela",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T14:27:05+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "1b7a44fedc10",
-    "title": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
-    "country": "Myanmar",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-27T15:16:00+00:00"
-   },
-   {
-    "id": "3a73657c66bf",
-    "title": "M5.4 earthquake, 210 km ENE of Nagqu, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T18:57:53.135000+00:00"
-   },
-   {
-    "id": "e064ab90219a",
-    "title": "Rain brings temporary relief as Southeast Asia battles fires and toxic haze",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T18:41:28+00:00"
-   },
-   {
-    "id": "cb2a2931f958",
-    "title": "M4.9 earthquake, 70 km WNW of Callaguip, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T16:07:53.845000+00:00"
-   },
-   {
-    "id": "986bfcacfe92",
-    "title": "Green forest fire notification in Mongolia",
-    "country": "Mongolia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T16:01:46+00:00"
-   },
-   {
-    "id": "6d83fc472a5c",
-    "title": "M4.9 earthquake, 156 km S of Pundong, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T14:43:09.497000+00:00"
    }
   ]
  }
