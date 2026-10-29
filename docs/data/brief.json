@@ -1,19 +1,27 @@
 {
- "generated": "2026-10-29T13:37:56.956414+00:00",
+ "generated": "2026-10-29T19:14:15.216240+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 48,
-  "3": 34,
-  "4": 10,
-  "5": 3
+  "2": 54,
+  "3": 36,
+  "4": 9,
+  "5": 2
  },
- "watch_hits": [
-  "3f31bdece470"
- ],
+ "watch_hits": [],
  "regions": {
   "Eastern Europe": [
+   {
+    "id": "a75ad0d857d8",
+    "title": "At least 14 people killed in attack on Ukraine train station",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-10-29T18:03:21+00:00"
+   },
    {
     "id": "c203442387f7",
     "title": "At least 13 killed in 'horrific' Russian drone strike at Ukraine train station",
@@ -35,77 +43,139 @@
     "time": "2026-10-29T10:26:57+00:00"
    },
    {
-    "id": "973821c5cd80",
-    "title": "Evacuation from Oleshky: How are preparations going?",
+    "id": "049396a49b58",
+    "title": "While Oleshky ceasefire holds for third day, Russian attacks kill 1, injure at least 22 across Ukraine",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-29T16:04:09+00:00"
+   },
+   {
+    "id": "b9cf5b5bf786",
+    "title": "Russia drone strike on Ukrainian railway station kills 13",
     "country": "Ukraine",
     "city": null,
     "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-10-29T12:00:00+00:00"
+   },
+   {
+    "id": "a70eeebe6f6f",
+    "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-29T19:04:17+00:00"
+   },
+   {
+    "id": "0eff892c36de",
+    "title": "'They know exactly what they're doing' — What Russia gains from a ceasefire in Oleshky",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-29T18:47:26+00:00"
+   },
+   {
+    "id": "f76d536650a6",
+    "title": "Ukraine destroys 2 Russian Su-34 bomber jets in Neptune missile strike on airfield, Navy says",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-29T17:21:24+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "9b8b658c999f",
+    "title": "A year after Tanzania’s bloody election, victims still await justice",
+    "country": "Tanzania",
+    "city": null,
+    "category": "terrorism",
     "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-28T17:04:00+00:00"
+    "confidence": "C4",
+    "time": "2026-10-29T14:58:45+00:00"
    },
    {
-    "id": "1c7c4a58cbf8",
-    "title": "Putin’s two-war advantage over Trump",
-    "country": "Russia",
-    "city": "Moscow",
+    "id": "9f2a98bd1b5c",
+    "title": "DRC: US sanctions on Rwanda draw mixed reactions in Goma",
+    "country": "Rwanda",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-29T16:44:15+00:00"
+   },
+   {
+    "id": "a7dbf49b916a",
+    "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+    "country": "Rwanda",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-29T11:25:16+00:00"
+   },
+   {
+    "id": "b4f19914baf8",
+    "title": "US imposes sanctions on Rwandan defence ministry over links to Congo rebels",
+    "country": "Rwanda",
+    "city": "Kigali",
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-10-29T13:00:39+00:00"
+    "time": "2026-10-29T09:25:03+00:00"
    },
    {
-    "id": "4f7157581cea",
-    "title": "Russian drone attack on Ukrainian train station kills at least 13, officials say",
-    "country": "Ukraine",
+    "id": "261f40cfc985",
+    "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+    "country": "Ethiopia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-29T12:38:40+00:00"
+    "time": "2026-10-29T08:23:31+00:00"
    },
    {
-    "id": "60fe836af332",
-    "title": "General Staff: Russia has lost 1,584,910 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
+    "id": "c23e90e3e137",
+    "title": "DR Congo: A centre celebrates the discharge of last Ebola patients",
+    "country": "DRC",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-29T07:33:29+00:00"
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T17:13:52+00:00"
    },
    {
-    "id": "dd69e405e25a",
-    "title": "Moscow faces mass drone strike overnight, flights grounded at major airports",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
+    "id": "f9ee58d34889",
+    "title": "DRC Ebola clinic celebrates departure of last confirmed cases",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
     "confidence": "C4",
-    "time": "2026-10-28T22:34:12+00:00"
+    "time": "2026-10-29T14:49:17+00:00"
    },
    {
-    "id": "96daecc7d543",
-    "title": "Ukraine's military reveals what Russia's war has cost Moscow — in dollars, arms, and lives",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-28T21:20:17+00:00"
+    "id": "eb963c928f9b",
+    "title": "Green forest fire notification in South Africa",
+    "country": "South Africa",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T13:19:35+00:00"
    }
   ],
   "Western Europe": [
-   {
-    "id": "0d7fb618b89c",
-    "title": "‘It all happened in a split-second’: survivors recount details of deadly train crash in Spain",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "crime",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-10-28T18:12:01+00:00"
-   },
    {
     "id": "f1b482a4bf25",
     "title": "France: Trappes racist shooting suspect transferred to French court",
@@ -167,138 +237,24 @@
     "time": "2026-10-28T23:10:45+00:00"
    },
    {
-    "id": "247c367d02ad",
-    "title": "UK announces 'biggest ever' Ukraine support package of $13 billion in 2027",
-    "country": "United Kingdom",
+    "id": "716cf19a1631",
+    "title": "'Deeply regressive': How the French government plans to make protesters pay for riots and looting",
+    "country": "France",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-28T14:11:30+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "92e79d4f6e81",
-    "title": "One year on, families seek justice after election violence",
-    "country": "Tanzania",
-    "city": null,
-    "category": "political",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-10-28T16:30:00+00:00"
-   },
-   {
-    "id": "a7dbf49b916a",
-    "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-    "country": "Rwanda",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-29T11:25:16+00:00"
-   },
-   {
-    "id": "b4f19914baf8",
-    "title": "US imposes sanctions on Rwandan defence ministry over links to Congo rebels",
-    "country": "Rwanda",
-    "city": "Kigali",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-29T09:25:03+00:00"
-   },
-   {
-    "id": "261f40cfc985",
-    "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-29T08:23:31+00:00"
-   },
-   {
-    "id": "824773ddcbff",
-    "title": "Ethiopia clashes push 50,000 to flee to Kenya",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-28T16:29:54+00:00"
-   },
-   {
-    "id": "53bb52abc666",
-    "title": "Niger accuses Chad of drone attack that killed two civilians",
-    "country": "Niger",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-28T13:42:38+00:00"
-   },
-   {
-    "id": "eb963c928f9b",
-    "title": "Green forest fire notification in South Africa",
-    "country": "South Africa",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-29T13:19:35+00:00"
-   },
-   {
-    "id": "e59a98a065e6",
-    "title": "Green forest fire notification in Nigeria, Cameroon",
-    "country": "Nigeria",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-29T12:15:18+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "467001bf0192",
-    "title": "Defeated Brazilian presidential candidate Flavio Bolsonaro lands in Miami",
-    "country": "United States",
-    "city": "Miami",
-    "category": "political",
-    "severity": 4,
-    "confidence": "B2",
-    "time": "2026-10-28T16:28:38+00:00"
-   },
-   {
-    "id": "c2f80a041ef3",
-    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-    "country": "United States",
-    "city": "Miami",
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-29T01:14:01+00:00"
-   },
-   {
-    "id": "d5661939859f",
-    "title": "Explosive book targets Jared Kushner’s role in US foreign policy | First Thing",
-    "country": "United States",
-    "city": "Minneapolis",
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-29T12:29:15+00:00"
+    "time": "2026-10-29T18:15:38+00:00"
    },
    {
-    "id": "a7b23db3596a",
-    "title": "‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff",
-    "country": "United States",
-    "city": "Atlanta",
+    "id": "5e2c1af811a6",
+    "title": "Minimum wage increase could come early as France braces for protests",
+    "country": "France",
+    "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-29T02:12:23+00:00"
+    "time": "2026-10-29T14:47:48+00:00"
    }
   ],
   "East & SE Asia": [
@@ -311,6 +267,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-29T12:36:43+00:00"
+   },
+   {
+    "id": "e03ab9fb74f6",
+    "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+    "country": "Japan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-29T15:58:27+00:00"
    },
    {
     "id": "885f317edbee",
@@ -353,14 +319,14 @@
     "time": "2026-10-28T22:06:45.820000+00:00"
    },
    {
-    "id": "488272ea7ebe",
-    "title": "M5.5 earthquake, 5 km ESE of Asahi, Japan",
+    "id": "09252e8f7c59",
+    "title": "M4.5 earthquake, 141 km E of Miyako, Japan",
     "country": "Japan",
     "city": null,
     "category": "hazard",
-    "severity": 3,
+    "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-28T15:07:52.050000+00:00"
+    "time": "2026-10-29T17:37:01.805000+00:00"
    },
    {
     "id": "36f713233e51",
@@ -371,16 +337,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-29T11:38:24.162000+00:00"
-   },
-   {
-    "id": "f8b0d460fc69",
-    "title": "Green flood alert in Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-29T09:29:04+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -393,6 +349,26 @@
     "severity": 4,
     "confidence": "C4",
     "time": "2026-10-29T10:57:23+00:00"
+   },
+   {
+    "id": "58c2184f48a5",
+    "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-29T17:49:57+00:00"
+   },
+   {
+    "id": "4e6ee68393e1",
+    "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-29T15:12:36+00:00"
    },
    {
     "id": "29aaa00eb55b",
@@ -443,26 +419,68 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-28T20:03:20+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "c2f80a041ef3",
+    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "country": "United States",
+    "city": "Miami",
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-29T01:14:01+00:00"
    },
    {
-    "id": "7e138f54a4d4",
-    "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
-    "country": "Israel",
+    "id": "64b2f8165a98",
+    "title": "Flavio Bolsonaro’s great escape: Is this the beginning of the end for ‘Bolsonarism’?",
+    "country": "United States",
     "city": null,
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-28T19:58:27+00:00"
+    "time": "2026-10-29T16:19:17+00:00"
    },
    {
-    "id": "2efab670ac17",
-    "title": "Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition",
-    "country": "Israel",
-    "city": null,
-    "category": "political",
-    "severity": 3,
+    "id": "2c6db1a723c4",
+    "title": "US Midterms: Donald Trump and Barack Obama make closing pitches",
+    "country": "United States",
+    "city": "Atlanta",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-28T18:54:10+00:00"
+    "time": "2026-10-29T14:57:48+00:00"
+   },
+   {
+    "id": "81b12895eb4b",
+    "title": "Trump and Obama trade barbs in closing week of US midterm election",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T14:48:42+00:00"
+   },
+   {
+    "id": "d5661939859f",
+    "title": "Explosive book targets Jared Kushner’s role in US foreign policy | First Thing",
+    "country": "United States",
+    "city": "Minneapolis",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T12:29:15+00:00"
+   },
+   {
+    "id": "a7b23db3596a",
+    "title": "‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff",
+    "country": "United States",
+    "city": "Atlanta",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T02:12:23+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -477,6 +495,26 @@
     "time": "2026-10-29T06:24:56+00:00"
    },
    {
+    "id": "7d2a5a83ce60",
+    "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+    "country": "Brazil",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T17:46:38+00:00"
+   },
+   {
+    "id": "69f44f4a4f0e",
+    "title": "M4.7 earthquake, 6 km SE of Pitaloza Arriba, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T13:42:57.953000+00:00"
+   },
+   {
     "id": "c38e3a8c37c4",
     "title": "Green flood alert in Peru",
     "country": "Peru",
@@ -487,39 +525,17 @@
     "time": "2026-10-29T09:44:53+00:00"
    }
   ],
-  "South Asia": [
+  "Oceania": [
    {
-    "id": "d35938f57a63",
-    "title": "Protest at India university where no students’ union vote held for 20 years",
-    "country": "India",
+    "id": "eac7b861747d",
+    "title": "Cornell faculty press ahead with no-confidence vote in handling of gang-rape case",
+    "country": "Australia",
     "city": null,
-    "category": "unrest",
+    "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-29T11:05:18+00:00"
+    "time": "2026-10-29T14:12:59+00:00"
    },
-   {
-    "id": "ce5589be939a",
-    "title": "M5.1 earthquake, 218 km NNW of Bamboo Flat, India",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-29T08:49:42.448000+00:00"
-   },
-   {
-    "id": "d5f24415c5dc",
-    "title": "Drought is on going in Bangladesh, Bhutan, China, India, Myanmar, Nepal",
-    "country": "Bangladesh",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T18:05:01+00:00"
-   }
-  ],
-  "Oceania": [
    {
     "id": "5e2342f1be50",
     "title": "Australia news live: Lambie scolded by ADF chief over hidden recording device revelations; woman dies after drive-by shooting",
@@ -559,6 +575,28 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-29T00:08:20.933000+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "d35938f57a63",
+    "title": "Protest at India university where no students’ union vote held for 20 years",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T11:05:18+00:00"
+   },
+   {
+    "id": "ce5589be939a",
+    "title": "M5.1 earthquake, 218 km NNW of Bamboo Flat, India",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T08:49:42.448000+00:00"
    }
   ]
  }
