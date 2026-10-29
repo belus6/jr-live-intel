@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-28T20:48:58.758737+00:00",
+ "generated": "2026-10-29T00:38:06.432900+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 40,
+  "2": 38,
   "3": 46,
   "4": 8,
   "5": 2
@@ -25,6 +25,16 @@
     "time": "2026-10-28T18:12:01+00:00"
    },
    {
+    "id": "a5355bd207de",
+    "title": "Spain: Madrid mourns train crash victims as rescuers work through the night",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-28T23:10:45+00:00"
+   },
+   {
     "id": "247c367d02ad",
     "title": "UK announces 'biggest ever' Ukraine support package of $13 billion in 2027",
     "country": "United Kingdom",
@@ -43,6 +53,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-28T06:00:01+00:00"
+   },
+   {
+    "id": "fb1ec7dd99e0",
+    "title": "UN experts sound alarm at excessive use of force in French student protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-28T22:34:51+00:00"
    },
    {
     "id": "1b5ca798b725",
@@ -73,26 +93,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-28T08:26:58+00:00"
-   },
-   {
-    "id": "504b51a18c2c",
-    "title": "French Senate backs 'make rioters pay' bill despite rights concerns",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-28T00:10:35+00:00"
-   },
-   {
-    "id": "fe035a526dbe",
-    "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-28T00:07:22+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -147,6 +147,26 @@
     "time": "2026-10-28T12:00:00+00:00"
    },
    {
+    "id": "c72ab7dce60c",
+    "title": "Green forest fire notification in Nigeria",
+    "country": "Nigeria",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T22:57:30+00:00"
+   },
+   {
+    "id": "a254cc0b5475",
+    "title": "Green forest fire notification in Mali, Mauritania",
+    "country": "Mali",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T20:33:48+00:00"
+   },
+   {
     "id": "1186f650cbbd",
     "title": "Nigeria",
     "country": "Nigeria",
@@ -155,26 +175,38 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-28T13:48:23+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "467001bf0192",
+    "title": "Defeated Brazilian presidential candidate Flavio Bolsonaro lands in Miami",
+    "country": "United States",
+    "city": "Miami",
+    "category": "political",
+    "severity": 4,
+    "confidence": "B2",
+    "time": "2026-10-28T16:28:38+00:00"
    },
    {
-    "id": "da9295da22ad",
-    "title": "M4.5 earthquake, 13 km WSW of Āwash, Ethiopia",
-    "country": "Ethiopia",
+    "id": "9a4ab9f4e13b",
+    "title": "US teen whose father arranged her marriage to Islamic State fighter convicted for weapons training",
+    "country": "United States",
+    "city": "New York",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-28T13:36:39+00:00"
+   },
+   {
+    "id": "0977b42b42a4",
+    "title": "Why the US midterms matter even if you don’t live in America",
+    "country": "United States",
     "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T13:31:54.350000+00:00"
-   },
-   {
-    "id": "9189d95ebdf8",
-    "title": "Judge throws out attempted murder case against Zimbabwe VP's ex-wife",
-    "country": "Zimbabwe",
-    "city": "Harare",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-28T09:56:01+00:00"
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-28T08:15:19+00:00"
    }
   ],
   "Eastern Europe": [
@@ -219,6 +251,26 @@
     "time": "2026-10-28T07:35:20+00:00"
    },
    {
+    "id": "dd69e405e25a",
+    "title": "Moscow faces mass drone strike overnight, flights grounded at major airports",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-28T22:34:12+00:00"
+   },
+   {
+    "id": "96daecc7d543",
+    "title": "Ukraine's military reveals what Russia's war has cost Moscow — in dollars, arms, and lives",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-28T21:20:17+00:00"
+   },
+   {
     "id": "e5db083655f9",
     "title": "Ukraine war latest: Oleshky ceasefire holds as Zelensky secures new aid pledges",
     "country": "Russia",
@@ -237,68 +289,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-28T18:17:54+00:00"
-   },
-   {
-    "id": "6f401be04d76",
-    "title": "Tsikhanouskaya on how Russia’s closest ally is playing the US",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-28T15:00:55+00:00"
-   },
-   {
-    "id": "d5122748e25f",
-    "title": "Nearly 50 companies involved in producing Russia's Starlink alternative, 23 not under international sanctions, HUR says",
-    "country": "Ukraine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-28T10:49:28+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "9a4ab9f4e13b",
-    "title": "US teen whose father arranged her marriage to Islamic State fighter convicted for weapons training",
-    "country": "United States",
-    "city": "New York",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-28T13:36:39+00:00"
-   },
-   {
-    "id": "467001bf0192",
-    "title": "Defeated Brazilian presidential candidate Flavio Bolsonaro lands in Miami",
-    "country": "United States",
-    "city": "Miami",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-28T16:28:38+00:00"
-   },
-   {
-    "id": "0977b42b42a4",
-    "title": "Why the US midterms matter even if you don’t live in America",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-28T08:15:19+00:00"
-   },
-   {
-    "id": "36ae5249f6e8",
-    "title": "Trump reportedly considering lifting sanctions against Russia's investment fund",
-    "country": "United States",
-    "city": "New York",
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-27T21:01:25+00:00"
    }
   ],
   "Oceania": [
@@ -321,6 +311,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-28T01:18:39+00:00"
+   },
+   {
+    "id": "04cc7eeb7173",
+    "title": "M5.4 earthquake, 109 km ENE of Luganville, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T00:08:20.933000+00:00"
    },
    {
     "id": "62e1f10ce121",
@@ -371,29 +371,91 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-28T01:55:22+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "9a80a284a9e2",
+    "title": "M5.7 earthquake, 271 km WSW of Tual, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-28T22:06:45.820000+00:00"
    },
    {
-    "id": "46d26375bd03",
-    "title": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; man charged over false Bondi shooting claim",
-    "country": "Australia",
+    "id": "488272ea7ebe",
+    "title": "M5.5 earthquake, 5 km ESE of Asahi, Japan",
+    "country": "Japan",
     "city": null,
-    "category": "crime",
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-28T15:07:52.050000+00:00"
+   },
+   {
+    "id": "59341e0041d1",
+    "title": "Green earthquake (Magnitude 5.7M, Depth:142km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T22:20:23+00:00"
+   },
+   {
+    "id": "874f6b66ca4d",
+    "title": "Indonesian students demand action on wildfires and rising costs",
+    "country": "Indonesia",
+    "city": null,
+    "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-27T22:57:59+00:00"
+    "time": "2026-10-28T21:23:17+00:00"
+   },
+   {
+    "id": "7fba00d91df1",
+    "title": "M5.3 earthquake, 159 km WNW of Tobelo, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T19:56:47.711000+00:00"
+   },
+   {
+    "id": "eed50ab12d44",
+    "title": "M4.7 earthquake, 81 km ENE of Mazha, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T15:40:55.130000+00:00"
+   },
+   {
+    "id": "6963a127e218",
+    "title": "Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T15:29:41+00:00"
+   },
+   {
+    "id": "2f014ec31b7e",
+    "title": "M4.9 earthquake, 1 km WSW of Butulan, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T12:14:49.242000+00:00"
    }
   ],
   "Middle East & N. Africa": [
-   {
-    "id": "6dce117c2920",
-    "title": "Trump, campaigning in Texas for Republicans, touts Iran war and ‘51st state’ Venezuela: ‘I knew that oil would go up’ – live",
-    "country": "Iran",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-27T22:39:07+00:00"
-   },
    {
     "id": "34a29d4fc610",
     "title": "Israel election results live: Netanyahu bloc loses majority as most ballots counted",
@@ -463,88 +525,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-28T12:35:19+00:00"
-   }
-  ],
-  "East & SE Asia": [
+   },
    {
-    "id": "488272ea7ebe",
-    "title": "M5.5 earthquake, 5 km ESE of Asahi, Japan",
-    "country": "Japan",
+    "id": "b3647e75283c",
+    "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+    "country": "Sudan",
     "city": null,
-    "category": "hazard",
+    "category": "conflict",
     "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-28T15:07:52.050000+00:00"
-   },
-   {
-    "id": "7fba00d91df1",
-    "title": "M5.3 earthquake, 159 km WNW of Tobelo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T19:56:47.711000+00:00"
-   },
-   {
-    "id": "eed50ab12d44",
-    "title": "M4.7 earthquake, 81 km ENE of Mazha, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T15:40:55.130000+00:00"
-   },
-   {
-    "id": "6963a127e218",
-    "title": "Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T15:29:41+00:00"
-   },
-   {
-    "id": "2f014ec31b7e",
-    "title": "M4.9 earthquake, 1 km WSW of Butulan, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T12:14:49.242000+00:00"
-   },
-   {
-    "id": "c751d1a691bb",
-    "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-    "country": "China",
-    "city": null,
-    "category": "health",
-    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-28T09:37:49+00:00"
-   },
-   {
-    "id": "16b06dc9ac68",
-    "title": "M4.8 earthquake, 29 km SSW of Sarangani, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T09:32:56.341000+00:00"
-   },
-   {
-    "id": "8a6dc8dcdffe",
-    "title": "M5.1 earthquake, 7 km N of Balangonan, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-27T23:43:51.480000+00:00"
+    "time": "2026-10-28T12:00:00+00:00"
    }
   ],
   "South Asia": [
@@ -619,36 +609,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-28T06:55:35+00:00"
-   },
-   {
-    "id": "4c577504bb88",
-    "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
-    "country": "Venezuela",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T23:07:06+00:00"
-   },
-   {
-    "id": "b821d68ff6de",
-    "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
-    "country": "Venezuela",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T21:28:33+00:00"
-   },
-   {
-    "id": "f329fe1b4061",
-    "title": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
-    "country": "Venezuela",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-27T21:28:33+00:00"
    }
   ]
  }
