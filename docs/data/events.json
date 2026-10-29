@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-29T00:38:06.432900+00:00",
+ "generated": "2026-10-29T06:29:55.075429+00:00",
  "sample": false,
- "count": 513,
+ "count": 520,
  "events": [
   {
    "title": "‘It all happened in a split-second’: survivors recount details of deadly train crash in Spain",
@@ -317,34 +317,6 @@
    "watch": []
   },
   {
-   "title": "M6.9 earthquake, 197 km WNW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
-   "time": "2026-10-24T02:31:28.641000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -14.0558,
-   "lon": 165.5455,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-25T00:32:42.120953+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "9e60c1ef0be3",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
    "title": "Iraq - Level 4: Do Not Travel",
    "summary": "Do not travel to Iraq due to terrorism, kidnapping, armed conflict, crime, health risks , and the U.S. government’s limited ability to provide emergency services to U.S. citizens in Iraq . Do not travel to Iraq for any reason. The U.S. government has limited ability to offer emergency services to U.S. citizens in Iraq due to the safety risks. Armed conflict Iranian-supported Houthis have engaged i",
    "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html",
@@ -512,6 +484,34 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-29T01:14:01+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "United States",
+   "city": "Miami",
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c2f80a041ef3",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
    "watch": []
   },
   {
@@ -1472,34 +1472,6 @@
    "watch": []
   },
   {
-   "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-25T03:20:16+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Nigeria",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T10:00:25.939053+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "45c083b50307",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
-   "watch": []
-  },
-  {
    "title": "M5.1 earthquake, 166 km WNW of Port-Olry, Vanuatu",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r3",
@@ -2009,6 +1981,118 @@
    "watch": []
   },
   {
+   "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+   "time": "2026-10-29T06:14:15+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8bd7b06ef3d7",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage",
+   "time": "2026-10-29T04:41:41+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "South Korea",
+   "city": "Seoul",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "d72e942276be",
+   "flag": "🇰🇷",
+   "region": "East & SE Asia",
+   "baseline": 1.36,
+   "watch": []
+  },
+  {
+   "title": "M5.7 earthquake, 82 km NE of Kiunga, Papua New Guinea",
+   "summary": "Depth 10 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
+   "time": "2026-10-29T03:26:42.275000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -5.6991,
+   "lon": 141.9018,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "daf3f78e8b93",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
+   "watch": []
+  },
+  {
+   "title": "M5.4 earthquake, 113 km ENE of Barcelona, Philippines",
+   "summary": "Depth 10 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
+   "time": "2026-10-29T03:17:54.507000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Spain",
+   "city": null,
+   "lat": 8.3695,
+   "lon": 127.4427,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "c5af67f46265",
+   "flag": "🇪🇸",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
    "title": "Spain: Madrid mourns train crash victims as rescuers work through the night",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/29/spain-madrid-mourns-train-crash-victims-as-rescuers-work-through-the-night/",
@@ -2171,6 +2255,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "34a29d4fc610",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+   "time": "2026-10-28T19:58:27+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7e138f54a4d4",
    "flag": "🇮🇱",
    "region": "Middle East & N. Africa",
    "baseline": 2.89,
@@ -5666,62 +5778,6 @@
    "watch": []
   },
   {
-   "title": "M5.8 earthquake, 182 km NW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
-   "time": "2026-10-24T05:23:40.747000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -14.0833,
-   "lon": 165.6982,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-25T00:32:42.120953+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "df71875231e8",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "M5.1 earthquake, 217 km NW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k1",
-   "time": "2026-10-24T04:49:21.707000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.8521,
-   "lon": 165.4673,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k1",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-24T06:29:36.314299+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "785c92fed78a",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
    "title": "How EU ships are still able to carry Trump's Russian diesel despite so many sanctions",
    "summary": "",
    "url": "https://kyivindependent.com/how-eu-ships-are-still-able-to-carry-trumps-russian-diesel-despite-so-many-sanctions/",
@@ -6002,6 +6058,370 @@
    "watch": []
   },
   {
+   "title": "Australia news live: Lambie scolded by ADF chief over hidden recording device revelations; woman dies after drive-by shooting",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+   "time": "2026-10-29T06:18:13+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Australia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5e2342f1be50",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Zimbabwe",
+   "summary": "On 22/10/2026, a forest fire started in Zimbabwe, until 28/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033282",
+   "time": "2026-10-29T05:38:25+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Zimbabwe",
+   "city": null,
+   "lat": -16.070900343356662,
+   "lon": 30.154478965783746,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033282",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "dfed7f4effcd",
+   "flag": "🇿🇼",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.52,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Zambia, Malawi",
+   "summary": "On 22/10/2026, a forest fire started in Zambia, Malawi, until 28/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033281",
+   "time": "2026-10-29T05:11:26+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Zambia",
+   "city": null,
+   "lat": -10.075527920159205,
+   "lon": 33.69596773520064,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033281",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "70b6c829e23d",
+   "flag": "🇿🇲",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.88,
+   "watch": []
+  },
+  {
+   "title": "‘Hey hun’: police colleague messaged Beau Lamarre-Condon on Instagram after alleged murders, court hears",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/29/beau-lamarre-condon-trial-police-colleague-instagram-message-court-hears-ntwnfb",
+   "time": "2026-10-29T04:44:11+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Australia",
+   "city": "Sydney",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/29/beau-lamarre-condon-trial-police-colleague-instagram-message-court-hears-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b9476dda32ca",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI>=VII).",
+   "summary": "On 10/29/2026 3:26:42 AM, an earthquake occurred in Papua New Guinea potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.7M, Depth:10km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574467",
+   "time": "2026-10-29T03:41:37+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -5.6991,
+   "lon": 141.9018,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574467",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "8d4300c4ef15",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
+   "watch": []
+  },
+  {
+   "title": "Incredible celebrations as last patient leaves a DRC Ebola centre",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/incredible-celebrations-as-last-patient-leaves-a-drc-ebola-centre?traffic_source=rss",
+   "time": "2026-10-29T03:39:02+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "DRC",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/incredible-celebrations-as-last-patient-leaves-a-drc-ebola-centre?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2c5328abeb25",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Philippines 29/10/2026 03:19 UTC, 7 thousand in MMI IV.",
+   "summary": "On 10/29/2026 3:19:05 AM, an earthquake occurred in Philippines potentially affecting 7 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:10km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574466",
+   "time": "2026-10-29T03:34:20+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Philippines",
+   "city": null,
+   "lat": 8.3638,
+   "lon": 127.4204,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574466",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "0ae816266f01",
+   "flag": "🇵🇭",
+   "region": "East & SE Asia",
+   "baseline": 3.11,
+   "watch": []
+  },
+  {
+   "title": "How students toppled Serbia’s strongman – podcast",
+   "summary": "",
+   "url": "https://www.theguardian.com/news/audio/2026/oct/29/how-students-toppled-serbias-strongman-podcast",
+   "time": "2026-10-29T03:00:20+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Serbia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/news/audio/2026/oct/29/how-students-toppled-serbias-strongman-podcast",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "84766d9bb845",
+   "flag": "🇷🇸",
+   "region": "Eastern Europe",
+   "baseline": 2.13,
+   "watch": []
+  },
+  {
+   "title": "‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
+   "time": "2026-10-29T02:12:23+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "United States",
+   "city": "Atlanta",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a7b23db3596a",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 117 km E of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
+   "time": "2026-10-29T00:57:36.802000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -15.0234,
+   "lon": 168.1637,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "a3eb77e3d659",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/29/albania-protest-attendance-fine-law",
+   "time": "2026-10-29T00:53:26+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": "Tirana",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/29/albania-protest-attendance-fine-law",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c0e95a6e0807",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+   "time": "2026-10-29T00:36:33+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Spain",
+   "city": "Madrid",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8c888dab0efb",
+   "flag": "🇪🇸",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Israelis rally for Jewish-Arab government after election gains",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+   "time": "2026-10-29T00:34:24+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "fb0abb087750",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
    "title": "M5.4 earthquake, 109 km ENE of Luganville, Vanuatu",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
@@ -6083,6 +6503,34 @@
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Moscow faces over 600 Ukrainian drones overnights, flights grounded at major airports",
+   "summary": "",
+   "url": "https://kyivindependent.com/moscow-comes-under-drone-fire-overnight-grounding-flights-at-major-airports/",
+   "time": "2026-10-28T22:34:12+00:00",
+   "tier": "C",
+   "category": "transport",
+   "country": "Russia",
+   "city": "Moscow",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/moscow-comes-under-drone-fire-overnight-grounding-flights-at-major-airports/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "1839ebd9b585",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
    "watch": []
   },
   {
@@ -6620,6 +7068,34 @@
    "flag": "🇷🇸",
    "region": "Eastern Europe",
    "baseline": 2.13,
+   "watch": []
+  },
+  {
+   "title": "Higher Ground: How New York is raising a park to hold back the sea",
+   "summary": "",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168679",
+   "time": "2026-10-28T12:00:00+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "United States",
+   "city": "New York",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168679",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T06:29:55.075429+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "17e6b51e244a",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
    "watch": []
   },
   {
@@ -9058,118 +9534,6 @@
    "flag": "🇮🇱",
    "region": "Middle East & N. Africa",
    "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Palestinian citizens of Israel fear they’re next target if far-right wins",
-   "summary": "",
-   "url": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss",
-   "time": "2026-10-27T06:12:04+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T08:14:11.246600+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "0f44048662a1",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "Why has France struggled to address students’ demands?",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands?traffic_source=rss",
-   "time": "2026-10-27T05:22:22+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T08:14:11.246600+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "a500ce0a6fd3",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Labor condemns One Nation cartoons depicting Penny Wong being murdered as Hanson says videos ‘not going anywhere’",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/27/one-nation-cartoon-penny-wong-beheading-condemned-ntwnfb",
-   "time": "2026-10-27T05:13:57+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Australia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/27/one-nation-cartoon-penny-wong-beheading-condemned-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T08:14:11.246600+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "60bd1acb6d3e",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss",
-   "time": "2026-10-27T02:17:06+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T08:14:11.246600+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "109029126d9c",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
    "watch": []
   },
   {
@@ -11649,146 +12013,6 @@
    "watch": []
   },
   {
-   "title": "M5.3 earthquake, 216 km W of Sola, Vanuatu",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jy",
-   "time": "2026-10-24T04:19:38.628000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.7325,
-   "lon": 165.551,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jy",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-25T00:32:42.120953+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "c1d5d0d95931",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in South Africa",
-   "summary": "On 20/10/2026, a forest fire started in South Africa, until 23/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033131",
-   "time": "2026-10-24T03:05:06+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "South Africa",
-   "city": null,
-   "lat": -24.288485117461363,
-   "lon": 29.092620481180727,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033131",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-24T06:29:36.314299+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "eb963c928f9b",
-   "flag": "🇿🇦",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.02,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Mauritania, Mali",
-   "summary": "On 23/10/2026, a forest fire started in Mauritania, Mali, until 23/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033101",
-   "time": "2026-10-24T03:00:44+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Mauritania",
-   "city": null,
-   "lat": 15.729284056536907,
-   "lon": -5.951270425159321,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033101",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-24T06:29:36.314299+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "dc1563c4203a",
-   "flag": "🇲🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 3.6,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, 40 thousand in MMI IV.",
-   "summary": "On 10/24/2026 2:31:28 AM, an earthquake occurred in Vanuatu potentially affecting 40 thousand in MMI IV. The earthquake had Magnitude 6.9M, Depth:10km.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573515",
-   "time": "2026-10-24T02:40:23+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -14.0558,
-   "lon": 165.5455,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573515",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-24T06:29:36.314299+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "3e2a54942b16",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
-   "time": "2026-10-24T02:22:32+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Taiwan",
-   "city": "Taipei",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-24T06:29:36.314299+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "0f655dccfce0",
-   "flag": "🇹🇼",
-   "region": "East & SE Asia",
-   "baseline": 1.19,
-   "watch": []
-  },
-  {
    "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
@@ -13815,36 +14039,6 @@
    "region": "Sub-Saharan Africa",
    "baseline": 2.97,
    "watch": []
-  },
-  {
-   "title": "Kenya’s Ebola cases test preparedness beyond Nairobi",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
-   "time": "2026-10-15T02:45:49+00:00",
-   "tier": "B",
-   "category": "health",
-   "country": "Kenya",
-   "city": "Nairobi",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-15T05:37:12.651071+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d6b3afc3d593",
-   "flag": "🇰🇪",
-   "region": "Sub-Saharan Africa",
-   "baseline": 2.97,
-   "watch": [
-    "Programme team, Nairobi"
-   ]
   },
   {
    "title": "Kazakhstan",

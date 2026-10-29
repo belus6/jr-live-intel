@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-29T00:38:06.432900+00:00",
+ "generated": "2026-10-29T06:29:55.075429+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 38,
-  "3": 46,
-  "4": 8,
+  "2": 47,
+  "3": 44,
+  "4": 7,
   "5": 2
  },
  "watch_hits": [
@@ -23,6 +23,16 @@
     "severity": 5,
     "confidence": "B3",
     "time": "2026-10-28T18:12:01+00:00"
+   },
+   {
+    "id": "c5af67f46265",
+    "title": "M5.4 earthquake, 113 km ENE of Barcelona, Philippines",
+    "country": "Spain",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-29T03:17:54.507000+00:00"
    },
    {
     "id": "a5355bd207de",
@@ -45,14 +55,14 @@
     "time": "2026-10-28T14:11:30+00:00"
    },
    {
-    "id": "659a2109cb08",
-    "title": "Volunteer, 78, says Reform official likened her to Nazi collaborator for teaching asylum seekers English",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "id": "8c888dab0efb",
+    "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-28T06:00:01+00:00"
+    "time": "2026-10-29T00:36:33+00:00"
    },
    {
     "id": "fb1ec7dd99e0",
@@ -83,16 +93,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-28T13:02:06+00:00"
-   },
-   {
-    "id": "760064811151",
-    "title": "Why is the system failing France’s younger generation?",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-28T08:26:58+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -147,34 +147,34 @@
     "time": "2026-10-28T12:00:00+00:00"
    },
    {
-    "id": "c72ab7dce60c",
-    "title": "Green forest fire notification in Nigeria",
-    "country": "Nigeria",
+    "id": "dfed7f4effcd",
+    "title": "Green forest fire notification in Zimbabwe",
+    "country": "Zimbabwe",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-28T22:57:30+00:00"
+    "time": "2026-10-29T05:38:25+00:00"
    },
    {
-    "id": "a254cc0b5475",
-    "title": "Green forest fire notification in Mali, Mauritania",
-    "country": "Mali",
+    "id": "70b6c829e23d",
+    "title": "Green forest fire notification in Zambia, Malawi",
+    "country": "Zambia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-28T20:33:48+00:00"
+    "time": "2026-10-29T05:11:26+00:00"
    },
    {
-    "id": "1186f650cbbd",
-    "title": "Nigeria",
-    "country": "Nigeria",
+    "id": "2c5328abeb25",
+    "title": "Incredible celebrations as last patient leaves a DRC Ebola centre",
+    "country": "DRC",
     "city": null,
-    "category": "advisory",
+    "category": "health",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T13:48:23+00:00"
+    "confidence": "B3",
+    "time": "2026-10-29T03:39:02+00:00"
    }
   ],
   "North America": [
@@ -187,6 +187,16 @@
     "severity": 4,
     "confidence": "B2",
     "time": "2026-10-28T16:28:38+00:00"
+   },
+   {
+    "id": "c2f80a041ef3",
+    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "country": "United States",
+    "city": "Miami",
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-29T01:14:01+00:00"
    },
    {
     "id": "9a4ab9f4e13b",
@@ -207,6 +217,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-28T08:15:19+00:00"
+   },
+   {
+    "id": "a7b23db3596a",
+    "title": "‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff",
+    "country": "United States",
+    "city": "Atlanta",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T02:12:23+00:00"
+   },
+   {
+    "id": "17e6b51e244a",
+    "title": "Higher Ground: How New York is raising a park to hold back the sea",
+    "country": "United States",
+    "city": "New York",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-28T12:00:00+00:00"
    }
   ],
   "Eastern Europe": [
@@ -291,171 +321,17 @@
     "time": "2026-10-28T18:17:54+00:00"
    }
   ],
-  "Oceania": [
-   {
-    "id": "3709945a38d8",
-    "title": "M5.5 earthquake, 221 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-28T01:39:11.004000+00:00"
-   },
-   {
-    "id": "8a3ed104c70d",
-    "title": "Criminal case against alleged Bondi terrorist delayed amid ‘unprecedented’ investigation",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-28T01:18:39+00:00"
-   },
-   {
-    "id": "04cc7eeb7173",
-    "title": "M5.4 earthquake, 109 km ENE of Luganville, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-29T00:08:20.933000+00:00"
-   },
-   {
-    "id": "62e1f10ce121",
-    "title": "M4.6 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T12:58:58.100000+00:00"
-   },
-   {
-    "id": "b4e0a995d04d",
-    "title": "M4.9 earthquake, 88 km SE of Hihifo, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T12:35:23.786000+00:00"
-   },
-   {
-    "id": "9dd203b89022",
-    "title": "Green flood alert in Australia",
-    "country": "Australia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T11:00:59+00:00"
-   },
-   {
-    "id": "a271d39c389c",
-    "title": "M5.0 earthquake, 200 km W of Sola, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T04:31:04.089000+00:00"
-   },
-   {
-    "id": "288e6b3f2017",
-    "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T01:55:22+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "9a80a284a9e2",
-    "title": "M5.7 earthquake, 271 km WSW of Tual, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-28T22:06:45.820000+00:00"
-   },
-   {
-    "id": "488272ea7ebe",
-    "title": "M5.5 earthquake, 5 km ESE of Asahi, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-28T15:07:52.050000+00:00"
-   },
-   {
-    "id": "59341e0041d1",
-    "title": "Green earthquake (Magnitude 5.7M, Depth:142km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T22:20:23+00:00"
-   },
-   {
-    "id": "874f6b66ca4d",
-    "title": "Indonesian students demand action on wildfires and rising costs",
-    "country": "Indonesia",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-28T21:23:17+00:00"
-   },
-   {
-    "id": "7fba00d91df1",
-    "title": "M5.3 earthquake, 159 km WNW of Tobelo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T19:56:47.711000+00:00"
-   },
-   {
-    "id": "eed50ab12d44",
-    "title": "M4.7 earthquake, 81 km ENE of Mazha, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T15:40:55.130000+00:00"
-   },
-   {
-    "id": "6963a127e218",
-    "title": "Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T15:29:41+00:00"
-   },
-   {
-    "id": "2f014ec31b7e",
-    "title": "M4.9 earthquake, 1 km WSW of Butulan, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-28T12:14:49.242000+00:00"
-   }
-  ],
   "Middle East & N. Africa": [
+   {
+    "id": "8bd7b06ef3d7",
+    "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-29T06:14:15+00:00"
+   },
    {
     "id": "34a29d4fc610",
     "title": "Israel election results live: Netanyahu bloc loses majority as most ballots counted",
@@ -465,6 +341,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-28T20:03:20+00:00"
+   },
+   {
+    "id": "7e138f54a4d4",
+    "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-28T19:58:27+00:00"
    },
    {
     "id": "2efab670ac17",
@@ -515,26 +401,88 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-28T14:26:24+00:00"
-   },
+   }
+  ],
+  "East & SE Asia": [
    {
-    "id": "5f7fe5683d76",
-    "title": "Victims of Jordan’s air strikes in Syria",
-    "country": "Syria",
-    "city": null,
+    "id": "d72e942276be",
+    "title": "Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game",
+    "country": "South Korea",
+    "city": "Seoul",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-28T12:35:19+00:00"
+    "time": "2026-10-29T04:41:41+00:00"
    },
    {
-    "id": "b3647e75283c",
-    "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-    "country": "Sudan",
+    "id": "daf3f78e8b93",
+    "title": "M5.7 earthquake, 82 km NE of Kiunga, Papua New Guinea",
+    "country": "Papua New Guinea",
     "city": null,
-    "category": "conflict",
+    "category": "hazard",
     "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-29T03:26:42.275000+00:00"
+   },
+   {
+    "id": "9a80a284a9e2",
+    "title": "M5.7 earthquake, 271 km WSW of Tual, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-28T22:06:45.820000+00:00"
+   },
+   {
+    "id": "488272ea7ebe",
+    "title": "M5.5 earthquake, 5 km ESE of Asahi, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-28T15:07:52.050000+00:00"
+   },
+   {
+    "id": "8d4300c4ef15",
+    "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI>=VII).",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T03:41:37+00:00"
+   },
+   {
+    "id": "0ae816266f01",
+    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Philippines 29/10/2026 03:19 UTC, 7 thousand in MMI IV.",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T03:34:20+00:00"
+   },
+   {
+    "id": "59341e0041d1",
+    "title": "Green earthquake (Magnitude 5.7M, Depth:142km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T22:20:23+00:00"
+   },
+   {
+    "id": "874f6b66ca4d",
+    "title": "Indonesian students demand action on wildfires and rising costs",
+    "country": "Indonesia",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-28T12:00:00+00:00"
+    "time": "2026-10-28T21:23:17+00:00"
    }
   ],
   "South Asia": [
@@ -587,6 +535,78 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-28T18:05:01+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "5e2342f1be50",
+    "title": "Australia news live: Lambie scolded by ADF chief over hidden recording device revelations; woman dies after drive-by shooting",
+    "country": "Australia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T06:18:13+00:00"
+   },
+   {
+    "id": "b9476dda32ca",
+    "title": "‘Hey hun’: police colleague messaged Beau Lamarre-Condon on Instagram after alleged murders, court hears",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T04:44:11+00:00"
+   },
+   {
+    "id": "a3eb77e3d659",
+    "title": "M4.9 earthquake, 117 km E of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T00:57:36.802000+00:00"
+   },
+   {
+    "id": "04cc7eeb7173",
+    "title": "M5.4 earthquake, 109 km ENE of Luganville, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T00:08:20.933000+00:00"
+   },
+   {
+    "id": "62e1f10ce121",
+    "title": "M4.6 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T12:58:58.100000+00:00"
+   },
+   {
+    "id": "b4e0a995d04d",
+    "title": "M4.9 earthquake, 88 km SE of Hihifo, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T12:35:23.786000+00:00"
+   },
+   {
+    "id": "9dd203b89022",
+    "title": "Green flood alert in Australia",
+    "country": "Australia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-28T11:00:59+00:00"
    }
   ],
   "Latin America & Caribbean": [
