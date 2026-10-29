@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-29T19:14:15.216240+00:00",
+ "generated": "2026-10-29T23:21:12.897931+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 54,
-  "3": 36,
-  "4": 9,
+  "2": 53,
+  "3": 37,
+  "4": 11,
   "5": 2
  },
  "watch_hits": [],
@@ -63,6 +63,16 @@
     "time": "2026-10-29T12:00:00+00:00"
    },
    {
+    "id": "b251a3e873db",
+    "title": "Ukraine war latest: 'Russia's mass murder' — Deadly Russian strikes on Dnipro, Chernihiv, Kremenchuk",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-29T19:42:55+00:00"
+   },
+   {
     "id": "a70eeebe6f6f",
     "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
     "country": "Russia",
@@ -81,16 +91,170 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-29T18:47:26+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "cb692833bf29",
+    "title": "M6.2 earthquake, 43 km ESE of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-29T21:46:44.786000+00:00"
    },
    {
-    "id": "f76d536650a6",
-    "title": "Ukraine destroys 2 Russian Su-34 bomber jets in Neptune missile strike on airfield, Navy says",
-    "country": "Ukraine",
+    "id": "bf2cb022ac3c",
+    "title": "Erin Patterson appeal live updates: mushroom murderer to learn fate in retrial bid",
+    "country": "Australia",
     "city": null,
-    "category": "conflict",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T23:02:52+00:00"
+   },
+   {
+    "id": "3907d31076dc",
+    "title": "Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T22:07:35+00:00"
+   },
+   {
+    "id": "eac7b861747d",
+    "title": "Cornell faculty press ahead with no-confidence vote in handling of gang-rape case",
+    "country": "Australia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T14:12:59+00:00"
+   },
+   {
+    "id": "5e2342f1be50",
+    "title": "Australia news live: Lambie scolded by ADF chief over hidden recording device revelations; woman dies after drive-by shooting",
+    "country": "Australia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T06:18:13+00:00"
+   },
+   {
+    "id": "b9476dda32ca",
+    "title": "‘Hey hun’: police colleague messaged Beau Lamarre-Condon on Instagram after alleged murders, court hears",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T04:44:11+00:00"
+   },
+   {
+    "id": "a3eb77e3d659",
+    "title": "M4.9 earthquake, 117 km E of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T00:57:36.802000+00:00"
+   },
+   {
+    "id": "04cc7eeb7173",
+    "title": "M5.4 earthquake, 109 km ENE of Luganville, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T00:08:20.933000+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "b2be562f8c82",
+    "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-29T20:02:03+00:00"
+   },
+   {
+    "id": "f1b482a4bf25",
+    "title": "France: Trappes racist shooting suspect transferred to French court",
+    "country": "France",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-29T13:22:39+00:00"
+   },
+   {
+    "id": "cc0a4a27eb3a",
+    "title": "REPLAY: French anti-terrorism prosecutor gives press conference on racist attack",
+    "country": "France",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-29T10:56:43+00:00"
+   },
+   {
+    "id": "807639ee8d77",
+    "title": "🔴 Suspect in deadly shooting near Paris admits racist intent, French anti-terrorism prosecutor says",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-29T10:41:24+00:00"
+   },
+   {
+    "id": "ee4f66688f5a",
+    "title": "Trappes residents reel from deadly racist attack that killed one",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-29T10:29:32+00:00"
+   },
+   {
+    "id": "5df5445a597b",
+    "title": "ECB President Lagarde steps down in order to speak out",
+    "country": "France",
+    "city": null,
+    "category": "political",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-29T17:21:24+00:00"
+    "confidence": "B3",
+    "time": "2026-10-29T21:01:37+00:00"
+   },
+   {
+    "id": "c5af67f46265",
+    "title": "M5.4 earthquake, 113 km ENE of Barcelona, Philippines",
+    "country": "Spain",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-10-29T03:17:54.507000+00:00"
+   },
+   {
+    "id": "afced7ae6f8e",
+    "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
+    "country": "France",
+    "city": "Paris",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-29T20:06:36+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -145,6 +309,16 @@
     "time": "2026-10-29T08:23:31+00:00"
    },
    {
+    "id": "803778de57f0",
+    "title": "Green forest fire notification in Chad",
+    "country": "Chad",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T20:21:15+00:00"
+   },
+   {
     "id": "c23e90e3e137",
     "title": "DR Congo: A centre celebrates the discharge of last Ebola patients",
     "country": "DRC",
@@ -163,98 +337,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-10-29T14:49:17+00:00"
-   },
-   {
-    "id": "eb963c928f9b",
-    "title": "Green forest fire notification in South Africa",
-    "country": "South Africa",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-29T13:19:35+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "f1b482a4bf25",
-    "title": "France: Trappes racist shooting suspect transferred to French court",
-    "country": "France",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-29T13:22:39+00:00"
-   },
-   {
-    "id": "cc0a4a27eb3a",
-    "title": "REPLAY: French anti-terrorism prosecutor gives press conference on racist attack",
-    "country": "France",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-29T10:56:43+00:00"
-   },
-   {
-    "id": "807639ee8d77",
-    "title": "🔴 Suspect in deadly shooting near Paris admits racist intent, French anti-terrorism prosecutor says",
-    "country": "France",
-    "city": "Paris",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-29T10:41:24+00:00"
-   },
-   {
-    "id": "ee4f66688f5a",
-    "title": "Trappes residents reel from deadly racist attack that killed one",
-    "country": "France",
-    "city": "Paris",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-29T10:29:32+00:00"
-   },
-   {
-    "id": "c5af67f46265",
-    "title": "M5.4 earthquake, 113 km ENE of Barcelona, Philippines",
-    "country": "Spain",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-10-29T03:17:54.507000+00:00"
-   },
-   {
-    "id": "a5355bd207de",
-    "title": "Spain: Madrid mourns train crash victims as rescuers work through the night",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-28T23:10:45+00:00"
-   },
-   {
-    "id": "716cf19a1631",
-    "title": "'Deeply regressive': How the French government plans to make protesters pay for riots and looting",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-29T18:15:38+00:00"
-   },
-   {
-    "id": "5e2c1af811a6",
-    "title": "Minimum wage increase could come early as France braces for protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-29T14:47:48+00:00"
    }
   ],
   "East & SE Asia": [
@@ -309,14 +391,14 @@
     "time": "2026-10-29T03:26:42.275000+00:00"
    },
    {
-    "id": "9a80a284a9e2",
-    "title": "M5.7 earthquake, 271 km WSW of Tual, Indonesia",
+    "id": "1171b2aeb0e0",
+    "title": "M5.0 earthquake, 131 km NNW of Tual, Indonesia",
     "country": "Indonesia",
     "city": null,
     "category": "hazard",
-    "severity": 3,
+    "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-28T22:06:45.820000+00:00"
+    "time": "2026-10-29T20:32:11.667000+00:00"
    },
    {
     "id": "09252e8f7c59",
@@ -351,6 +433,46 @@
     "time": "2026-10-29T10:57:23+00:00"
    },
    {
+    "id": "f0b2e1582d94",
+    "title": "Palestinians injured, arrested in Israeli raids across West Bank",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-29T20:40:03+00:00"
+   },
+   {
+    "id": "df09400e77c0",
+    "title": "Israel election result shows no overall majority as vote count complete",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-29T20:22:04+00:00"
+   },
+   {
+    "id": "8b8bf0f32303",
+    "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
+    "country": "Iran",
+    "city": "Tehran",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-29T19:32:24+00:00"
+   },
+   {
+    "id": "4f7c924f51cf",
+    "title": "Libya’s central bank targeted in overnight raid raising fresh concerns",
+    "country": "Libya",
+    "city": "Tripoli",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-29T19:01:46+00:00"
+   },
+   {
     "id": "58c2184f48a5",
     "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
     "country": "Israel",
@@ -379,46 +501,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-29T13:13:16+00:00"
-   },
-   {
-    "id": "1df0ccbbca95",
-    "title": "Israelis await final election results as difficult choices lie ahead",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-29T12:59:18+00:00"
-   },
-   {
-    "id": "17866d37ed91",
-    "title": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-29T12:46:29+00:00"
-   },
-   {
-    "id": "8bd7b06ef3d7",
-    "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
-    "country": "Israel",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-29T06:14:15+00:00"
-   },
-   {
-    "id": "34a29d4fc610",
-    "title": "Israel election results live: Netanyahu bloc loses majority as most ballots counted",
-    "country": "Israel",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-28T20:03:20+00:00"
    }
   ],
   "North America": [
@@ -523,58 +605,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-29T09:44:53+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "eac7b861747d",
-    "title": "Cornell faculty press ahead with no-confidence vote in handling of gang-rape case",
-    "country": "Australia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-29T14:12:59+00:00"
-   },
-   {
-    "id": "5e2342f1be50",
-    "title": "Australia news live: Lambie scolded by ADF chief over hidden recording device revelations; woman dies after drive-by shooting",
-    "country": "Australia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-29T06:18:13+00:00"
-   },
-   {
-    "id": "b9476dda32ca",
-    "title": "‘Hey hun’: police colleague messaged Beau Lamarre-Condon on Instagram after alleged murders, court hears",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-29T04:44:11+00:00"
-   },
-   {
-    "id": "a3eb77e3d659",
-    "title": "M4.9 earthquake, 117 km E of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-29T00:57:36.802000+00:00"
-   },
-   {
-    "id": "04cc7eeb7173",
-    "title": "M5.4 earthquake, 109 km ENE of Luganville, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-29T00:08:20.933000+00:00"
    }
   ],
   "South Asia": [

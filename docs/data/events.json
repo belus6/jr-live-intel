@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-29T19:14:15.216240+00:00",
+ "generated": "2026-10-29T23:21:12.897931+00:00",
  "sample": false,
- "count": 517,
+ "count": 516,
  "events": [
   {
    "title": "At least 14 people killed in attack on Ukraine train station",
@@ -484,6 +484,62 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "M6.2 earthquake, 43 km ESE of Port-Olry, Vanuatu",
+   "summary": "Depth 143 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f",
+   "time": "2026-10-29T21:46:44.786000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -15.1891,
+   "lon": 167.4523,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "cb692833bf29",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
+   "time": "2026-10-29T20:02:03+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b2be562f8c82",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -1332,34 +1388,6 @@
    "watch": []
   },
   {
-   "title": "Russian ballistic missiles hit Kyiv university, major bridge, medical centers, — 1 dead, 15 injured",
-   "summary": "",
-   "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
-   "time": "2026-10-26T20:16:41+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-27T08:14:11.246600+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "5b357d4c861f",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
    "summary": "",
    "url": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron",
@@ -1584,34 +1612,6 @@
    "watch": []
   },
   {
-   "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-25T19:14:27+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Nigeria",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-25T20:28:17.555217+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "97cc021254e1",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
-   "watch": []
-  },
-  {
    "title": "M5.1 earthquake, 166 km WNW of Port-Olry, Vanuatu",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r3",
@@ -1662,62 +1662,6 @@
    "confidence": "A1",
    "corroboration": 1,
    "id": "ab66ef5bae22",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "M5.0 earthquake, 210 km NW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4q8",
-   "time": "2026-10-24T22:47:08.577000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.8678,
-   "lon": 165.534,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4q8",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-25T20:28:17.555217+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "51927e5988fd",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, 73 km SW of Isangel, Vanuatu",
-   "summary": "Depth 22 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ny",
-   "time": "2026-10-24T19:18:20.515000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -20.025,
-   "lon": 168.7941,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ny",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-24T20:21:15.337297+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "7fbad246affe",
    "flag": "🇻🇺",
    "region": "Oceania",
    "baseline": 2.48,
@@ -2065,6 +2009,146 @@
    "watch": []
   },
   {
+   "title": "ECB President Lagarde steps down in order to speak out",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out",
+   "time": "2026-10-29T21:01:37+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5df5445a597b",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Palestinians injured, arrested in Israeli raids across West Bank",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
+   "time": "2026-10-29T20:40:03+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Palestine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f0b2e1582d94",
+   "flag": "🇵🇸",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.42,
+   "watch": []
+  },
+  {
+   "title": "Israel election result shows no overall majority as vote count complete",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
+   "time": "2026-10-29T20:22:04+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "df09400e77c0",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Ukraine war latest: 'Russia's mass murder' — Deadly Russian strikes on Dnipro, Chernihiv, Kremenchuk",
+   "summary": "",
+   "url": "https://kyivindependent.com/ukraine-war-latest-russias-mass-murder-deadly-russian-strikes-on-dnipro-chernihiv-kremenchuk/",
+   "time": "2026-10-29T19:42:55+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-war-latest-russias-mass-murder-deadly-russian-strikes-on-dnipro-chernihiv-kremenchuk/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "b251a3e873db",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+   "time": "2026-10-29T19:32:24+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Iran",
+   "city": "Tehran",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "8b8bf0f32303",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
    "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
@@ -2093,6 +2177,34 @@
    "watch": []
   },
   {
+   "title": "Libya’s central bank targeted in overnight raid raising fresh concerns",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/29/libyas-central-bank-targeted-in-overnight-raid-raising-fresh-concerns/",
+   "time": "2026-10-29T19:01:46+00:00",
+   "tier": "C",
+   "category": "political",
+   "country": "Libya",
+   "city": "Tripoli",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/29/libyas-central-bank-targeted-in-overnight-raid-raising-fresh-concerns/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "4f7c924f51cf",
+   "flag": "🇱🇾",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.79,
+   "watch": []
+  },
+  {
    "title": "'They know exactly what they're doing' — What Russia gains from a ceasefire in Oleshky",
    "summary": "",
    "url": "https://kyivindependent.com/they-know-exactly-what-theyre-doing-what-russia-gains-from-a-ceasefire-in-oleshky/",
@@ -2115,6 +2227,34 @@
    "confidence": "C4",
    "corroboration": 1,
    "id": "0eff892c36de",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Why did Russia agree to the Oleshky ceasefire?",
+   "summary": "",
+   "url": "https://kyivindependent.com/they-know-exactly-what-theyre-doing-what-russia-gains-from-a-ceasefire-in-oleshky/",
+   "time": "2026-10-29T18:47:26+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": "Moscow",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/they-know-exactly-what-theyre-doing-what-russia-gains-from-a-ceasefire-in-oleshky/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "f2e0f1ddfddb",
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
@@ -2576,6 +2716,34 @@
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+   "summary": "",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+   "time": "2026-10-29T12:00:00+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e7a11c8493dd",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
    "watch": []
   },
   {
@@ -5251,34 +5419,6 @@
    "watch": []
   },
   {
-   "title": "Trump lashes out at Obama for joking that White House looks ‘like Saddam Hussein opened a Cheesecake Factory’ – live",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-   "time": "2026-10-26T22:50:04+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-26T23:17:25.886701+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fdf29c0da19a",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "The fall of El-Fasher, one year on",
    "summary": "",
    "url": "https://www.france24.com/en/the-fall-of-el-fasher-one-year-on",
@@ -5304,90 +5444,6 @@
    "flag": "🇬🇧",
    "region": "Western Europe",
    "baseline": 1.29,
-   "watch": []
-  },
-  {
-   "title": "Paramedics caught under fire, university campus struck as Russian ballistic missile attack kills 1, injures 10 in Kyiv",
-   "summary": "",
-   "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
-   "time": "2026-10-26T20:16:41+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-26T23:17:25.886701+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "9732e576885f",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Russian ballistic missiles target Kyiv university and medical centers, killing 1, injuring 10",
-   "summary": "",
-   "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
-   "time": "2026-10-26T20:16:41+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-27T02:19:09.850527+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "94d9fb198a87",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Deadly Russian ballistic missile attack hits Kyiv university, bridge, medical centers",
-   "summary": "",
-   "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
-   "time": "2026-10-26T20:16:41+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-27T14:37:14.599106+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "9010eafb037d",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
    "watch": []
   },
   {
@@ -6040,31 +6096,227 @@
    "watch": []
   },
   {
-   "title": "Myanmar Junta Renews Peace Talks Invitation to CNF , KNU , and ABSDF",
+   "title": "Erin Patterson appeal live updates: mushroom murderer to learn fate in retrial bid",
    "summary": "",
-   "url": "https://www.bnionline.net/en/news/myanmar-junta-renews-peace-talks-invitation-cnf-knu-and-absdf",
-   "time": "2026-10-22T21:30:00+00:00",
-   "tier": "C",
-   "category": "political",
-   "country": "Myanmar",
+   "url": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb",
+   "time": "2026-10-29T23:02:52+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Australia",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "bnionline.net (via GDELT)",
-     "url": "https://www.bnionline.net/en/news/myanmar-junta-renews-peace-talks-invitation-cnf-knu-and-absdf",
-     "tier": "C"
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb",
+     "tier": "B"
     }
    ],
-   "first_seen": "2026-10-22T23:04:49.496992+00:00",
-   "confidence": "C4",
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "B3",
    "corroboration": 1,
-   "id": "ece8d0b23d50",
-   "flag": "🇲🇲",
+   "id": "bf2cb022ac3c",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.",
+   "summary": "On 10/29/2026 9:46:44 PM, an earthquake occurred in Vanuatu potentially affecting 120 thousand in MMI IV. The earthquake had Magnitude 6.2M, Depth:142.833km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574623",
+   "time": "2026-10-29T22:07:35+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -15.1891,
+   "lon": 167.4523,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574623",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3907d31076dc",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "M4.6 earthquake, 121 km ENE of Shikotan, Russia",
+   "summary": "Depth 35 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4a",
+   "time": "2026-10-29T21:12:36.287000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Russia",
+   "city": null,
+   "lat": 44.1091,
+   "lon": 148.1794,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4a",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "0a787f7d0609",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 1 km SSE of Radwanice, Poland",
+   "summary": "Depth 5 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu46",
+   "time": "2026-10-29T21:00:15.784000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Poland",
+   "city": null,
+   "lat": 51.5608,
+   "lon": 15.9523,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu46",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "95aa54d9fa59",
+   "flag": "🇵🇱",
+   "region": "Eastern Europe",
+   "baseline": 1.31,
+   "watch": []
+  },
+  {
+   "title": "M5.0 earthquake, 131 km NNW of Tual, Indonesia",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3u",
+   "time": "2026-10-29T20:32:11.667000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -4.4698,
+   "lon": 132.4922,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3u",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "1171b2aeb0e0",
+   "flag": "🇮🇩",
    "region": "East & SE Asia",
-   "baseline": 4.79,
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Chad",
+   "summary": "On 23/10/2026, a forest fire started in Chad, until 29/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033315",
+   "time": "2026-10-29T20:21:15+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Chad",
+   "city": null,
+   "lat": 11.174516176015153,
+   "lon": 20.839624106285005,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033315",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "803778de57f0",
+   "flag": "🇹🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.62,
+   "watch": []
+  },
+  {
+   "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/spotlight/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
+   "time": "2026-10-29T20:06:36+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "afced7ae6f8e",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "French shooting suspect deliberately targeted Muslims, Africans",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261029-french-shooting-suspect-deliberately-targeted-muslims-africans",
+   "time": "2026-10-29T18:45:57+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261029-french-shooting-suspect-deliberately-targeted-muslims-africans",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0c7ce033e87e",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -8145,6 +8397,34 @@
    "watch": []
   },
   {
+   "title": "Brazil",
+   "summary": "Removal of information about elections ('Warnings and insurance' and 'Safety and security' pages).",
+   "url": "https://www.gov.uk/foreign-travel-advice/brazil",
+   "time": "2026-10-28T10:42:46+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Brazil",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UK FCDO travel advice updates",
+     "url": "https://www.gov.uk/foreign-travel-advice/brazil",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "9ee7002dd0d6",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
    "title": "Judge throws out attempted murder case against Zimbabwe VP's ex-wife",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/28/judge-throws-out-attempted-murder-case-against-zimbabwe-vps-ex-wife/",
@@ -8397,6 +8677,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Mali",
+   "summary": "On 23/10/2026, a forest fire started in Mali, until 29/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033266",
+   "time": "2026-10-28T04:22:56+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Mali",
+   "city": null,
+   "lat": 14.75954114849771,
+   "lon": -10.48657180928204,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033266",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-29T23:21:12.897931+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "14abf1c38efe",
+   "flag": "🇲🇱",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.62,
+   "watch": []
+  },
+  {
    "title": "Green forest fire notification in Mali, Senegal",
    "summary": "On 24/10/2026, a forest fire started in Mali, Senegal, until 28/10/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033262",
@@ -8621,118 +8929,6 @@
    "watch": []
   },
   {
-   "title": "Portugal: Lisbon housing crisis sparks protest outside parliament",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/28/portugal-lisbon-housing-crisis-sparks-protest-outside-parliament/",
-   "time": "2026-10-27T23:12:53+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Portugal",
-   "city": "Lisbon",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/28/portugal-lisbon-housing-crisis-sparks-protest-outside-parliament/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-28T02:21:15.351159+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "a4a5231ec990",
-   "flag": "🇵🇹",
-   "region": "Western Europe",
-   "baseline": 1.0,
-   "watch": []
-  },
-  {
-   "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
-   "time": "2026-10-27T23:07:06+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Venezuela",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T02:21:15.351159+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4c577504bb88",
-   "flag": "🇻🇪",
-   "region": "Latin America & Caribbean",
-   "baseline": 4.49,
-   "watch": []
-  },
-  {
-   "title": "Israel election live: setback for Netanyahu as exit polls show strong opposition",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-   "time": "2026-10-27T22:59:41+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T23:13:40.588221+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f583b4332bc5",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; man charged over false Bondi shooting claim",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-   "time": "2026-10-27T22:57:59+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Australia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T23:13:40.588221+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "46d26375bd03",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
    "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
    "summary": "",
    "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
@@ -8758,90 +8954,6 @@
    "flag": "🇬🇧",
    "region": "Western Europe",
    "baseline": 1.29,
-   "watch": []
-  },
-  {
-   "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
-   "time": "2026-10-27T21:28:33+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Venezuela",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T23:13:40.588221+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b821d68ff6de",
-   "flag": "🇻🇪",
-   "region": "Latin America & Caribbean",
-   "baseline": 4.49,
-   "watch": []
-  },
-  {
-   "title": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
-   "time": "2026-10-27T21:28:33+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Venezuela",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T02:21:15.351159+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f329fe1b4061",
-   "flag": "🇻🇪",
-   "region": "Latin America & Caribbean",
-   "baseline": 4.49,
-   "watch": []
-  },
-  {
-   "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-27T21:09:12+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Zimbabwe",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T23:13:40.588221+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "dcc44af177cc",
-   "flag": "🇿🇼",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.52,
    "watch": []
   },
   {
@@ -8898,62 +9010,6 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "Legacy of 7 October looms large as a divided Israel goes to the polls in record numbers",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
-   "time": "2026-10-27T19:47:03+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Israel",
-   "city": "Tel Aviv",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T23:13:40.588221+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "08ec495b869c",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Israel election live: Netanyahu’s bid to extend voting hours denied by central elections committee",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-   "time": "2026-10-27T19:27:24+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T19:39:49.368104+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f79218223efe",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
    "watch": []
   },
   {
@@ -11962,90 +12018,6 @@
    "flag": "🇯🇵",
    "region": "East & SE Asia",
    "baseline": 1.07,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in China",
-   "summary": "On 22/10/2026, a forest fire started in China, until 24/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033138",
-   "time": "2026-10-24T23:05:32+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "China",
-   "city": null,
-   "lat": 47.29832379940728,
-   "lon": 131.14615926533563,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033138",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-25T22:45:39.835775+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "541a02ea64d0",
-   "flag": "🇨🇳",
-   "region": "East & SE Asia",
-   "baseline": 2.75,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, 53 km NNW of Fef, Indonesia",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pw",
-   "time": "2026-10-24T21:41:51.565000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": -0.3574,
-   "lon": 132.2541,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pw",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-25T00:32:42.120953+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "5d5a15d8c5bc",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "M5.3 earthquake, 101 km SSE of Vilyuchinsk, Russia",
-   "summary": "Depth 70 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pa",
-   "time": "2026-10-24T20:35:04.576000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 52.1565,
-   "lon": 159.1963,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pa",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-24T22:39:53.452008+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "7809d0536479",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
    "watch": []
   },
   {
