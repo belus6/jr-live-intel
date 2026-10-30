@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-29T23:21:12.897931+00:00",
+ "generated": "2026-10-30T02:47:23.641382+00:00",
  "sample": false,
- "count": 516,
+ "count": 517,
  "events": [
   {
    "title": "At least 14 people killed in attack on Ukraine train station",
@@ -309,39 +309,6 @@
    "flag": "🇮🇳",
    "region": "South Asia",
    "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "M6.5 earthquake, Bonin Islands, Japan region",
-   "summary": "Depth 492 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
-   "time": "2026-10-25T02:09:23.818000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Japan",
-   "city": null,
-   "lat": 27.7953,
-   "lon": 139.6184,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
-     "tier": "A"
-    },
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573709",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-25T05:20:48.724243+00:00",
-   "confidence": "A1",
-   "corroboration": 2,
-   "id": "8ed2959cb97d",
-   "flag": "🇯🇵",
-   "region": "East & SE Asia",
-   "baseline": 1.07,
    "watch": []
   },
   {
@@ -708,6 +675,34 @@
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 111 km SW of Port-Vila, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyd",
+   "time": "2026-10-29T10:33:22.424000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -18.4979,
+   "lon": 167.6261,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttyd",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "f910ad6c911a",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -1276,34 +1271,6 @@
    "watch": []
   },
   {
-   "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
-   "time": "2026-10-27T02:29:00+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T08:14:11.246600+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "888aa48340ee",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
@@ -1609,62 +1576,6 @@
    "flag": "🇵🇸",
    "region": "Middle East & N. Africa",
    "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "M5.1 earthquake, 166 km WNW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r3",
-   "time": "2026-10-25T01:46:23.382000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -14.3846,
-   "lon": 165.6863,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r3",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-26T01:00:31.526486+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "eea551bdc90b",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "M5.0 earthquake, 192 km NW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qp",
-   "time": "2026-10-24T23:44:57.729000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.9002,
-   "lon": 165.7311,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qp",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-25T10:00:25.939053+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "ab66ef5bae22",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
    "watch": []
   },
   {
@@ -2006,6 +1917,118 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
+   "time": "2026-10-30T01:05:26+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Kenya",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "28af50802aeb",
+   "flag": "🇰🇪",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.97,
+   "watch": []
+  },
+  {
+   "title": "North Korea tests attack drones as Kim calls for 'absolute superiority'",
+   "summary": "",
+   "url": "https://www.france24.com/en/asia-pacific/20261030-north-korea-tests-attack-drones-as-kim-calls-for-absolute-superiority",
+   "time": "2026-10-30T00:22:55+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "North Korea",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261030-north-korea-tests-attack-drones-as-kim-calls-for-absolute-superiority",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f05efba7e8db",
+   "flag": "🇰🇵",
+   "region": "East & SE Asia",
+   "baseline": 4.61,
+   "watch": []
+  },
+  {
+   "title": "Russian night attacks kill 1 in Kyiv, leave 350,000 in Dnipro without power",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-night-attacks-kill-1-in-kyiv-leave-350-000-in-dnipro-without-power/",
+   "time": "2026-10-29T23:36:48+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-night-attacks-kill-1-in-kyiv-leave-350-000-in-dnipro-without-power/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "c8853547259a",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Ukraine: Russian strike kills two teenage girls in Chernihiv",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv/",
+   "time": "2026-10-29T23:15:11+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "18d2f83c84be",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -5307,34 +5330,6 @@
    "watch": []
   },
   {
-   "title": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – as it happened",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-   "time": "2026-10-27T01:55:40+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T02:19:09.850527+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "039b93fc3e5b",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "Flavio Bolsonaro vows to lead opposition after Brazil court imposes travel ban",
    "summary": "",
    "url": "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
@@ -5360,62 +5355,6 @@
    "flag": "🇧🇷",
    "region": "Latin America & Caribbean",
    "baseline": 3.13,
-   "watch": []
-  },
-  {
-   "title": "Jordan strikes Syria after church attack, killing at least seven people",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-   "time": "2026-10-26T23:50:11+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Syria",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T02:19:09.850527+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b4c2beb8b138",
-   "flag": "🇸🇾",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.8,
-   "watch": []
-  },
-  {
-   "title": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
-   "summary": "",
-   "url": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
-   "time": "2026-10-26T23:24:17+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Iran",
-   "city": "Tehran",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T02:19:09.850527+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "7488f722375d",
-   "flag": "🇮🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.58,
    "watch": []
   },
   {
@@ -6093,6 +6032,174 @@
    "flag": "🇬🇧",
    "region": "Western Europe",
    "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
+   "time": "2026-10-30T00:48:00+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "New Zealand",
+   "city": "Wellington",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "65949267ffca",
+   "flag": "🇳🇿",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Colombia",
+   "summary": "New information about the the temporary deployment of security forces in the city of Cucuta (‘Warnings and Insurance’ page).",
+   "url": "https://www.gov.uk/foreign-travel-advice/colombia",
+   "time": "2026-10-30T00:40:46+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Colombia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UK FCDO travel advice updates",
+     "url": "https://www.gov.uk/foreign-travel-advice/colombia",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "43a87e4d4772",
+   "flag": "🇨🇴",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.26,
+   "watch": []
+  },
+  {
+   "title": "Australia’s mushroom murderer loses bid to overturn convictions – as it happened",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb",
+   "time": "2026-10-30T00:27:58+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Australia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2d95834375ca",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Central African Republic, Chad",
+   "summary": "On 24/10/2026, a forest fire started in Central African Republic, Chad, until 29/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033313",
+   "time": "2026-10-30T00:17:01+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "CAR",
+   "city": null,
+   "lat": 10.683943205917588,
+   "lon": 22.022945110667095,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033313",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "aa5765c60608",
+   "flag": "🇨🇫",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.61,
+   "watch": []
+  },
+  {
+   "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
+   "time": "2026-10-29T23:52:30+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "fb59e6c18c2d",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M4.6 earthquake, 59 km SW of Port-Vila, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4z",
+   "time": "2026-10-29T23:04:49.300000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -18.1317,
+   "lon": 167.9345,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4z",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "6d99df9ddf42",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -7244,6 +7351,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in China",
+   "summary": "On 22/10/2026, a forest fire started in China, until 29/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033284",
+   "time": "2026-10-29T05:34:07+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "China",
+   "city": null,
+   "lat": 46.39947001193899,
+   "lon": 132.32954329929024,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033284",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "541a02ea64d0",
+   "flag": "🇨🇳",
+   "region": "East & SE Asia",
+   "baseline": 2.75,
+   "watch": []
+  },
+  {
    "title": "Green forest fire notification in Zambia, Malawi",
    "summary": "On 22/10/2026, a forest fire started in Zambia, Malawi, until 28/10/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033281",
@@ -7938,6 +8073,34 @@
    "confidence": "A1",
    "corroboration": 1,
    "id": "6963a127e218",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 190 thousand in MMI V.",
+   "summary": "On 10/28/2026 3:07:52 PM, an earthquake occurred in Japan potentially affecting 190 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:41.356km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574369",
+   "time": "2026-10-28T15:29:41+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Japan",
+   "city": null,
+   "lat": 35.7015,
+   "lon": 140.7059,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574369",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "514ae27a22e7",
    "flag": "🇯🇵",
    "region": "East & SE Asia",
    "baseline": 1.07,
@@ -8733,6 +8896,34 @@
    "watch": []
   },
   {
+   "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.",
+   "summary": "On 10/28/2026 2:59:48 AM, an earthquake occurred in Vanuatu potentially affecting 3 thousand in MMI III. The earthquake had Magnitude 5.6M, Depth:10km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574271",
+   "time": "2026-10-28T03:19:52+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.0693,
+   "lon": 165.8001,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574271",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-30T02:47:23.641382+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "9be025522af4",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
    "title": "Green forest fire notification in Sudan",
    "summary": "On 19/10/2026, a forest fire started in Sudan, until 28/10/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033267",
@@ -8758,34 +8949,6 @@
    "flag": "🇸🇩",
    "region": "Middle East & N. Africa",
    "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-   "time": "2026-10-28T02:13:39+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T02:21:15.351159+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "e98691b21c54",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
    "watch": []
   },
   {
@@ -8842,62 +9005,6 @@
    "flag": "🇵🇭",
    "region": "East & SE Asia",
    "baseline": 3.11,
-   "watch": []
-  },
-  {
-   "title": "French Senate backs 'make rioters pay' bill despite rights concerns",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261028-french-senate-backs-bill-to-make-protesters-pay-for-unrest-damage-despite-rights-concern",
-   "time": "2026-10-28T00:10:35+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261028-french-senate-backs-bill-to-make-protesters-pay-for-unrest-damage-despite-rights-concern",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T08:52:38.848740+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "504b51a18c2c",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-   "time": "2026-10-28T00:07:22+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "United Kingdom",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T02:21:15.351159+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fe035a526dbe",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
    "watch": []
   },
   {
@@ -11934,90 +12041,6 @@
    "flag": "🇵🇬",
    "region": "East & SE Asia",
    "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.",
-   "summary": "On 10/25/2026 2:24:02 AM, an earthquake occurred in Vanuatu potentially affecting 110 thousand in MMI IV. The earthquake had Magnitude 6.1M, Depth:116km.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573712",
-   "time": "2026-10-25T02:43:04+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -14.9964,
-   "lon": 167.3039,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573712",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-25T05:20:48.724243+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "99edd1bf35e0",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.",
-   "summary": "On 10/25/2026 2:09:23 AM, an earthquake occurred in Bonin Islands, Japan Region potentially affecting No people affected in 100km. The earthquake had Magnitude 6.5M, Depth:492.376km.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573709",
-   "time": "2026-10-25T02:25:53+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Japan",
-   "city": null,
-   "lat": 27.7953,
-   "lon": 139.6184,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573709",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-26T06:14:37.338465+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "d118baec2644",
-   "flag": "🇯🇵",
-   "region": "East & SE Asia",
-   "baseline": 1.07,
-   "watch": []
-  },
-  {
-   "title": "M5.3 earthquake, 44 km ESE of Miyazaki, Japan",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
-   "time": "2026-10-24T23:59:36.599000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Japan",
-   "city": null,
-   "lat": 31.8226,
-   "lon": 131.873,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-25T00:32:42.120953+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "1fe5f1051505",
-   "flag": "🇯🇵",
-   "region": "East & SE Asia",
-   "baseline": 1.07,
    "watch": []
   },
   {

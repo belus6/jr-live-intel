@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-29T23:21:12.897931+00:00",
+ "generated": "2026-10-30T02:47:23.641382+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 53,
-  "3": 37,
+  "2": 54,
+  "3": 41,
   "4": 11,
   "5": 2
  },
@@ -63,6 +63,26 @@
     "time": "2026-10-29T12:00:00+00:00"
    },
    {
+    "id": "c8853547259a",
+    "title": "Russian night attacks kill 1 in Kyiv, leave 350,000 in Dnipro without power",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-29T23:36:48+00:00"
+   },
+   {
+    "id": "18d2f83c84be",
+    "title": "Ukraine: Russian strike kills two teenage girls in Chernihiv",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-29T23:15:11+00:00"
+   },
+   {
     "id": "b251a3e873db",
     "title": "Ukraine war latest: 'Russia's mass murder' — Deadly Russian strikes on Dnipro, Chernihiv, Kremenchuk",
     "country": "Ukraine",
@@ -71,26 +91,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-29T19:42:55+00:00"
-   },
-   {
-    "id": "a70eeebe6f6f",
-    "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-29T19:04:17+00:00"
-   },
-   {
-    "id": "0eff892c36de",
-    "title": "'They know exactly what they're doing' — What Russia gains from a ceasefire in Oleshky",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-29T18:47:26+00:00"
    }
   ],
   "Oceania": [
@@ -103,6 +103,46 @@
     "severity": 4,
     "confidence": "A1",
     "time": "2026-10-29T21:46:44.786000+00:00"
+   },
+   {
+    "id": "f910ad6c911a",
+    "title": "M4.9 earthquake, 111 km SW of Port-Vila, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-10-29T10:33:22.424000+00:00"
+   },
+   {
+    "id": "65949267ffca",
+    "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+    "country": "New Zealand",
+    "city": "Wellington",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-30T00:48:00+00:00"
+   },
+   {
+    "id": "2d95834375ca",
+    "title": "Australia’s mushroom murderer loses bid to overturn convictions – as it happened",
+    "country": "Australia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-30T00:27:58+00:00"
+   },
+   {
+    "id": "6d99df9ddf42",
+    "title": "M4.6 earthquake, 59 km SW of Port-Vila, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-29T23:04:49.300000+00:00"
    },
    {
     "id": "bf2cb022ac3c",
@@ -133,46 +173,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-29T14:12:59+00:00"
-   },
-   {
-    "id": "5e2342f1be50",
-    "title": "Australia news live: Lambie scolded by ADF chief over hidden recording device revelations; woman dies after drive-by shooting",
-    "country": "Australia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-29T06:18:13+00:00"
-   },
-   {
-    "id": "b9476dda32ca",
-    "title": "‘Hey hun’: police colleague messaged Beau Lamarre-Condon on Instagram after alleged murders, court hears",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-29T04:44:11+00:00"
-   },
-   {
-    "id": "a3eb77e3d659",
-    "title": "M4.9 earthquake, 117 km E of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-29T00:57:36.802000+00:00"
-   },
-   {
-    "id": "04cc7eeb7173",
-    "title": "M5.4 earthquake, 109 km ENE of Luganville, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-29T00:08:20.933000+00:00"
    }
   ],
   "Western Europe": [
@@ -247,14 +247,14 @@
     "time": "2026-10-29T03:17:54.507000+00:00"
    },
    {
-    "id": "afced7ae6f8e",
-    "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
+    "id": "fb59e6c18c2d",
+    "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
     "country": "France",
-    "city": "Paris",
-    "category": "crime",
+    "city": null,
+    "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-29T20:06:36+00:00"
+    "time": "2026-10-29T23:52:30+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -267,6 +267,16 @@
     "severity": 4,
     "confidence": "C4",
     "time": "2026-10-29T14:58:45+00:00"
+   },
+   {
+    "id": "28af50802aeb",
+    "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+    "country": "Kenya",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-30T01:05:26+00:00"
    },
    {
     "id": "9f2a98bd1b5c",
@@ -309,6 +319,16 @@
     "time": "2026-10-29T08:23:31+00:00"
    },
    {
+    "id": "aa5765c60608",
+    "title": "Green forest fire notification in Central African Republic, Chad",
+    "country": "CAR",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-30T00:17:01+00:00"
+   },
+   {
     "id": "803778de57f0",
     "title": "Green forest fire notification in Chad",
     "country": "Chad",
@@ -317,26 +337,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-29T20:21:15+00:00"
-   },
-   {
-    "id": "c23e90e3e137",
-    "title": "DR Congo: A centre celebrates the discharge of last Ebola patients",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-29T17:13:52+00:00"
-   },
-   {
-    "id": "f9ee58d34889",
-    "title": "DRC Ebola clinic celebrates departure of last confirmed cases",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-29T14:49:17+00:00"
    }
   ],
   "East & SE Asia": [
@@ -349,6 +349,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-29T12:36:43+00:00"
+   },
+   {
+    "id": "f05efba7e8db",
+    "title": "North Korea tests attack drones as Kim calls for 'absolute superiority'",
+    "country": "North Korea",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-30T00:22:55+00:00"
    },
    {
     "id": "e03ab9fb74f6",
@@ -409,16 +419,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-29T17:37:01.805000+00:00"
-   },
-   {
-    "id": "36f713233e51",
-    "title": "M4.6 earthquake, Pulau Pulau Tanimbar, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-29T11:38:24.162000+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -505,16 +505,6 @@
   ],
   "North America": [
    {
-    "id": "c2f80a041ef3",
-    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-    "country": "United States",
-    "city": "Miami",
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-29T01:14:01+00:00"
-   },
-   {
     "id": "64b2f8165a98",
     "title": "Flavio Bolsonaro’s great escape: Is this the beginning of the end for ‘Bolsonarism’?",
     "country": "United States",
@@ -553,16 +543,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-29T12:29:15+00:00"
-   },
-   {
-    "id": "a7b23db3596a",
-    "title": "‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff",
-    "country": "United States",
-    "city": "Atlanta",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-29T02:12:23+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -575,6 +555,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-29T06:24:56+00:00"
+   },
+   {
+    "id": "43a87e4d4772",
+    "title": "Colombia",
+    "country": "Colombia",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-30T00:40:46+00:00"
    },
    {
     "id": "7d2a5a83ce60",
