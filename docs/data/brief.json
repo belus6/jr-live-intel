@@ -1,26 +1,76 @@
 {
- "generated": "2026-10-30T16:15:57.759860+00:00",
+ "generated": "2026-10-30T20:58:10.770274+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
   "2": 52,
-  "3": 35,
-  "4": 4,
-  "5": 1
+  "3": 31,
+  "4": 5,
+  "5": 0
  },
  "watch_hits": [],
  "regions": {
   "Eastern Europe": [
    {
-    "id": "a75ad0d857d8",
-    "title": "At least 14 people killed in attack on Ukraine train station",
+    "id": "f09adab90ecb",
+    "title": "Ukraine war latest: Russia strikes Dnipro railway station again, day after attack killed 15",
     "country": "Ukraine",
     "city": null,
     "category": "conflict",
-    "severity": 5,
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-10-30T19:11:14+00:00"
+   },
+   {
+    "id": "e118c5b427a6",
+    "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-10-29T18:03:21+00:00"
+    "time": "2026-10-30T16:26:11+00:00"
+   },
+   {
+    "id": "68f5e6e39dae",
+    "title": "Ukraine calls for emergency UN Security Council meeting over deadly Russian attacks on Dnipro, Chernihiv, Kremenchuk",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-30T17:46:10+00:00"
+   },
+   {
+    "id": "b2fc9ccadc3a",
+    "title": "President Ruto seeks compensation for Kenyans recruited into Russian military",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-30T17:22:27+00:00"
+   },
+   {
+    "id": "b1dca234183e",
+    "title": "Stranded locals use rare truce to leave Moscow-occupied town in Ukraine",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-30T16:44:11+00:00"
+   },
+   {
+    "id": "f1f9a78dcbd0",
+    "title": "Dealers of Hate: Kyiv Independent documentary investigates aggression against Ukrainians in Europe",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-30T16:34:21+00:00"
    },
    {
     "id": "e7f81880b542",
@@ -41,56 +91,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-10-30T13:28:54+00:00"
-   },
-   {
-    "id": "6dc86cbddc2a",
-    "title": "Russian oil refinery struck as Ukraine renews drone attacks",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-30T09:14:16+00:00"
-   },
-   {
-    "id": "ef90dee7c888",
-    "title": "Russian attacks across Ukraine kill 27, injure 127 over past day as 'horrific attack' strikes Dnipro train station",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-30T09:02:58+00:00"
-   },
-   {
-    "id": "ce2233a0a7a1",
-    "title": "General Staff: Russia has lost 1,586,500 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-30T07:28:23+00:00"
-   },
-   {
-    "id": "93a0f9c17bff",
-    "title": "Student-backed election winners demand sweeping resignations in Serbia",
-    "country": "Serbia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-30T00:17:28+00:00"
-   },
-   {
-    "id": "c8853547259a",
-    "title": "Russian night attacks kill 1 in Kyiv, leave 350,000 in Dnipro without power",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-29T23:36:48+00:00"
    }
   ],
   "Western Europe": [
@@ -113,16 +113,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-30T09:34:24+00:00"
-   },
-   {
-    "id": "b2be562f8c82",
-    "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
-    "country": "France",
-    "city": "Paris",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-29T20:02:03+00:00"
    },
    {
     "id": "bfa6665e5f39",
@@ -173,6 +163,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-30T07:10:50+00:00"
+   },
+   {
+    "id": "5df5445a597b",
+    "title": "ECB President Lagarde steps down in order to speak out",
+    "country": "France",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-29T21:01:37+00:00"
    }
   ],
   "Oceania": [
@@ -259,6 +259,26 @@
   ],
   "Middle East & N. Africa": [
    {
+    "id": "334c71e8b8da",
+    "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
+    "country": "Israel",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-30T18:35:44+00:00"
+   },
+   {
+    "id": "012227d0217e",
+    "title": "MAGA: Why Trump's movement is fracturing?",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-30T18:01:38+00:00"
+   },
+   {
     "id": "544b4108eaff",
     "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
     "country": "Israel",
@@ -299,44 +319,106 @@
     "time": "2026-10-30T08:29:10+00:00"
    },
    {
-    "id": "f0b2e1582d94",
-    "title": "Palestinians injured, arrested in Israeli raids across West Bank",
-    "country": "Palestine",
+    "id": "0667e1e3e203",
+    "title": "Green flood alert in Egypt",
+    "country": "Egypt",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-30T10:18:46+00:00"
+   },
+   {
+    "id": "58bdc478aaf0",
+    "title": "Green flood alert in Syria",
+    "country": "Syria",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-30T09:34:20+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "4b0a7aeb653a",
+    "title": "Tanzania still haunted by deadly election violence one year on",
+    "country": "Tanzania",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-30T17:07:53+00:00"
+   },
+   {
+    "id": "34325b18f814",
+    "title": "Gunfire heard across Ethiopia border as growing numbers flee into Kenya",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-10-30T16:00:54+00:00"
+   },
+   {
+    "id": "28af50802aeb",
+    "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+    "country": "Kenya",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-10-29T20:40:03+00:00"
+    "time": "2026-10-30T01:05:26+00:00"
    },
    {
-    "id": "df09400e77c0",
-    "title": "Israel election result shows no overall majority as vote count complete",
-    "country": "Israel",
+    "id": "3bc008bbaf3f",
+    "title": "Green forest fire notification in Niger",
+    "country": "Niger",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-29T20:22:04+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-30T20:01:45+00:00"
    },
    {
-    "id": "8b8bf0f32303",
-    "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
-    "country": "Iran",
-    "city": "Tehran",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-29T19:32:24+00:00"
+    "id": "9fa30e817ded",
+    "title": "Green forest fire notification in Madagascar",
+    "country": "Madagascar",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-30T16:10:49+00:00"
    },
    {
-    "id": "4f7c924f51cf",
-    "title": "Libya’s central bank targeted in overnight raid raising fresh concerns",
-    "country": "Libya",
-    "city": "Tripoli",
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-29T19:01:46+00:00"
+    "id": "66e99ecfdaa9",
+    "title": "Man who ran over cyclist and dragged him under car for a mile convicted of murder",
+    "country": "CAR",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-30T15:05:29+00:00"
+   },
+   {
+    "id": "fadaf5c3b005",
+    "title": "Green forest fire notification in Mozambique",
+    "country": "Mozambique",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-30T13:55:01+00:00"
+   },
+   {
+    "id": "bbedf752ad4c",
+    "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-30T12:00:00+00:00"
    }
   ],
   "North America": [
@@ -351,14 +433,14 @@
     "time": "2026-10-30T12:49:56+00:00"
    },
    {
-    "id": "64b2f8165a98",
-    "title": "Flavio Bolsonaro’s great escape: Is this the beginning of the end for ‘Bolsonarism’?",
+    "id": "a70a7bbda596",
+    "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
     "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
+    "city": "Atlanta",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-29T16:19:17+00:00"
+    "time": "2026-10-30T17:25:20+00:00"
    },
    {
     "id": "fa2319e400f5",
@@ -401,98 +483,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-30T00:40:46+00:00"
-   },
-   {
-    "id": "7d2a5a83ce60",
-    "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-    "country": "Brazil",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-29T17:46:38+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "28af50802aeb",
-    "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
-    "country": "Kenya",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-30T01:05:26+00:00"
-   },
-   {
-    "id": "9f2a98bd1b5c",
-    "title": "DRC: US sanctions on Rwanda draw mixed reactions in Goma",
-    "country": "Rwanda",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-29T16:44:15+00:00"
-   },
-   {
-    "id": "9fa30e817ded",
-    "title": "Green forest fire notification in Madagascar",
-    "country": "Madagascar",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-30T16:10:49+00:00"
-   },
-   {
-    "id": "66e99ecfdaa9",
-    "title": "Man who ran over cyclist and dragged him under car for a mile convicted of murder",
-    "country": "CAR",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-30T15:05:29+00:00"
-   },
-   {
-    "id": "c2e7a7c4eddb",
-    "title": "CAR tightens border checks as DR Congo's Ebola cases rise",
-    "country": "CAR",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-30T08:25:50+00:00"
-   },
-   {
-    "id": "72e98a7b7205",
-    "title": "DR Congo: MSF celebrates Ebola patient discharges in Ituri province",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-30T07:54:01+00:00"
-   },
-   {
-    "id": "dfcd568a04ee",
-    "title": "Green forest fire notification in Zambia, Zimbabwe",
-    "country": "Zambia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-30T05:11:44+00:00"
-   },
-   {
-    "id": "aa5765c60608",
-    "title": "Green forest fire notification in Central African Republic, Chad",
-    "country": "CAR",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-30T00:17:01+00:00"
    }
   ],
   "East & SE Asia": [
@@ -505,6 +495,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-30T00:22:55+00:00"
+   },
+   {
+    "id": "27f211fed3b6",
+    "title": "M4.6 earthquake, 7 km NE of Tago, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-30T17:06:26.864000+00:00"
    },
    {
     "id": "883f548a3dfc",
@@ -557,24 +557,14 @@
     "time": "2026-10-30T07:37:38+00:00"
    },
    {
-    "id": "7453f05f66e8",
-    "title": "M5.1 earthquake, 97 km NNE of Finschhafen, Papua New Guinea",
-    "country": "Papua New Guinea",
+    "id": "722716d86274",
+    "title": "M4.6 earthquake, 51 km ENE of Noda, Japan",
+    "country": "Japan",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-30T03:04:17.406000+00:00"
-   },
-   {
-    "id": "1171b2aeb0e0",
-    "title": "M5.0 earthquake, 131 km NNW of Tual, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-29T20:32:11.667000+00:00"
+    "time": "2026-10-30T04:58:31.595000+00:00"
    }
   ],
   "South Asia": [
