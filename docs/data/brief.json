@@ -1,17 +1,27 @@
 {
- "generated": "2026-10-31T12:56:33.755035+00:00",
+ "generated": "2026-10-31T17:33:53.225902+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 49,
-  "3": 27,
-  "4": 4,
+  "2": 40,
+  "3": 19,
+  "4": 3,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
   "Eastern Europe": [
+   {
+    "id": "709ee8a35143",
+    "title": "Residents from Russian-occupied Oleshky reunite with families after evacuation operation",
+    "country": "Belarus",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-10-31T12:45:49+00:00"
+   },
    {
     "id": "8e7bec1c0c9e",
     "title": "Residents leave Russian-occupied Oleshky in evacuation operation",
@@ -31,16 +41,6 @@
     "severity": 4,
     "confidence": "C4",
     "time": "2026-10-30T19:11:14+00:00"
-   },
-   {
-    "id": "e118c5b427a6",
-    "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-30T16:26:11+00:00"
    },
    {
     "id": "6a39c365420a",
@@ -95,23 +95,13 @@
   ],
   "Western Europe": [
    {
-    "id": "32e439b9388a",
-    "title": "Who is Kevin T., the main suspect behind the racist Trappes attack?",
-    "country": "France",
-    "city": "Paris",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-10-30T14:06:25+00:00"
-   },
-   {
     "id": "05e786f744b9",
     "title": "France's Nunez warns of high risk during protests",
     "country": "France",
     "city": "Paris",
     "category": "unrest",
     "severity": 3,
-    "confidence": "B3",
+    "confidence": "B2",
     "time": "2026-10-31T11:15:19+00:00"
    },
    {
@@ -125,24 +115,24 @@
     "time": "2026-10-31T09:28:52+00:00"
    },
    {
-    "id": "bfa6665e5f39",
-    "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-    "country": "Spain",
-    "city": null,
-    "category": "political",
-    "severity": 3,
+    "id": "1460b3d55f78",
+    "title": "Almost 50 arrested at protest against Palestine Action ban outside US embassy in London",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-30T15:03:39+00:00"
+    "time": "2026-10-31T16:38:19+00:00"
    },
    {
-    "id": "953f7beb9031",
-    "title": "Spanish transport minister faces calls to quit after deadly train crash",
-    "country": "France",
-    "city": null,
-    "category": "political",
-    "severity": 3,
+    "id": "ee744ecd1416",
+    "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
+    "country": "Germany",
+    "city": "Berlin",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-30T14:21:39+00:00"
+    "time": "2026-10-31T16:28:04+00:00"
    },
    {
     "id": "1982c2da0efe",
@@ -173,9 +163,39 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-31T11:07:39+00:00"
+   },
+   {
+    "id": "f9cdff33b38a",
+    "title": "France: Two rallies against racism near Paris",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-31T09:27:17+00:00"
    }
   ],
   "Middle East & N. Africa": [
+   {
+    "id": "294ffb90e9ce",
+    "title": "Iran's Khamenei warns US and Israel against new attacks",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-31T17:00:36+00:00"
+   },
+   {
+    "id": "81f6f8e0cd81",
+    "title": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-31T12:45:49+00:00"
+   },
    {
     "id": "fe23fd2382ec",
     "title": "Trump vs MAGA: Why his movement is splitting",
@@ -205,16 +225,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-30T18:01:38+00:00"
-   },
-   {
-    "id": "544b4108eaff",
-    "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-30T15:50:23+00:00"
    },
    {
     "id": "181e4264f76a",
@@ -267,26 +277,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-30T22:43:48+00:00"
-   },
-   {
-    "id": "a70a7bbda596",
-    "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-    "country": "United States",
-    "city": "Atlanta",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-30T17:25:20+00:00"
-   },
-   {
-    "id": "fa2319e400f5",
-    "title": "USA",
-    "country": "United States",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-30T12:59:38+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -301,24 +291,14 @@
     "time": "2026-10-31T09:11:48+00:00"
    },
    {
-    "id": "4b0a7aeb653a",
-    "title": "Tanzania still haunted by deadly election violence one year on",
-    "country": "Tanzania",
+    "id": "10d73a932928",
+    "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+    "country": "DRC",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-30T17:07:53+00:00"
-   },
-   {
-    "id": "34325b18f814",
-    "title": "Gunfire heard across Ethiopia border as growing numbers flee into Kenya",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-30T16:00:54+00:00"
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-31T15:16:20+00:00"
    },
    {
     "id": "ce908b53a5c8",
@@ -349,26 +329,90 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-30T20:01:45+00:00"
-   },
+   }
+  ],
+  "East & SE Asia": [
    {
-    "id": "9fa30e817ded",
-    "title": "Green forest fire notification in Madagascar",
-    "country": "Madagascar",
+    "id": "fc270661cd42",
+    "title": "Green forest fire notification in Papua New Guinea",
+    "country": "Papua New Guinea",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-30T16:10:49+00:00"
+    "time": "2026-10-31T16:24:58+00:00"
    },
    {
-    "id": "66e99ecfdaa9",
-    "title": "Man who ran over cyclist and dragged him under car for a mile convicted of murder",
-    "country": "CAR",
+    "id": "bc214f5a734f",
+    "title": "Binance hit by 6.3 billion dollar crypto theft",
+    "country": "North Korea",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-31T11:16:54+00:00"
+   },
+   {
+    "id": "c1c2a40be820",
+    "title": "M4.6 earthquake, Izu Islands, Japan region",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-31T03:14:13.580000+00:00"
+   },
+   {
+    "id": "0e865fe9740f",
+    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "country": "North Korea",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-31T02:12:19+00:00"
+   },
+   {
+    "id": "4a50763838c4",
+    "title": "M4.5 earthquake, 223 km SE of Katsuura, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-31T00:32:46.687000+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "f109b94dc01b",
+    "title": "M5.2 earthquake, 4 km S of Bajo Corral, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-31T15:50:18.909000+00:00"
+   },
+   {
+    "id": "462f57d8ffd8",
+    "title": "2,000 Salvadoran troops take quarters in Haiti to help fight gangs",
+    "country": "Haiti",
     "city": null,
     "category": "crime",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-30T15:05:29+00:00"
+    "confidence": "C4",
+    "time": "2026-10-31T15:42:44+00:00"
+   },
+   {
+    "id": "ea8276814579",
+    "title": "M4.6 earthquake, 33 km NE of Mazo Cruz, Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-30T22:46:57.982000+00:00"
    }
   ],
   "Oceania": [
@@ -413,68 +457,6 @@
     "time": "2026-10-30T22:14:55.008000+00:00"
    }
   ],
-  "East & SE Asia": [
-   {
-    "id": "bc214f5a734f",
-    "title": "Binance hit by 6.3 billion dollar crypto theft",
-    "country": "North Korea",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-31T11:16:54+00:00"
-   },
-   {
-    "id": "c1c2a40be820",
-    "title": "M4.6 earthquake, Izu Islands, Japan region",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T03:14:13.580000+00:00"
-   },
-   {
-    "id": "0e865fe9740f",
-    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-    "country": "North Korea",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-31T02:12:19+00:00"
-   },
-   {
-    "id": "27f211fed3b6",
-    "title": "M4.6 earthquake, 7 km NE of Tago, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-30T17:06:26.864000+00:00"
-   },
-   {
-    "id": "883f548a3dfc",
-    "title": "How the record-breaking $6.3 billion heist in crypto history unfolded",
-    "country": "North Korea",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-30T13:52:44+00:00"
-   },
-   {
-    "id": "0559faf682c3",
-    "title": "M4.5 earthquake, 68 km ENE of Kuji, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-30T13:18:19.151000+00:00"
-   }
-  ],
   "South Asia": [
    {
     "id": "655fff866f87",
@@ -485,38 +467,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-31T10:30:43+00:00"
-   },
-   {
-    "id": "f1cc695ce85e",
-    "title": "Bhutan hot springs hit by flood from glacial lake burst",
-    "country": "Bhutan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-30T14:01:03+00:00"
-   },
-   {
-    "id": "370ca8a6f10a",
-    "title": "Bollywood and the underworld — together in the spotlight?",
-    "country": "India",
-    "city": "Mumbai",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-30T14:00:00+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "ea8276814579",
-    "title": "M4.6 earthquake, 33 km NE of Mazo Cruz, Peru",
-    "country": "Peru",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-30T22:46:57.982000+00:00"
    }
   ]
  }
