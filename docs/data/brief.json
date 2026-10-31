@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-31T00:38:51.190111+00:00",
+ "generated": "2026-10-31T06:19:22.972486+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 52,
-  "3": 28,
+  "2": 49,
+  "3": 29,
   "4": 5,
   "5": 0
  },
@@ -49,8 +49,18 @@
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B3",
+    "confidence": "B2",
     "time": "2026-10-30T22:20:52+00:00"
+   },
+   {
+    "id": "7d563cf02228",
+    "title": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-31T02:18:17+00:00"
    },
    {
     "id": "68f5e6e39dae",
@@ -81,16 +91,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-30T16:44:11+00:00"
-   },
-   {
-    "id": "f1f9a78dcbd0",
-    "title": "Dealers of Hate: Kyiv Independent documentary investigates aggression against Ukrainians in Europe",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-30T16:34:21+00:00"
    }
   ],
   "Western Europe": [
@@ -165,17 +165,27 @@
     "time": "2026-10-30T07:10:50+00:00"
    },
    {
-    "id": "e1a444ccf78a",
-    "title": "Germany and France brace for protests on Halloween weekend",
-    "country": "Germany",
+    "id": "6521cf381ac6",
+    "title": "‘Reparations now’: King and Burham face protests at Antigua Commonwealth summit",
+    "country": "United Kingdom",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-31T00:17:35+00:00"
+    "time": "2026-10-31T06:00:37+00:00"
    }
   ],
   "North America": [
+   {
+    "id": "075088a587dd",
+    "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+    "country": "Canada",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-10-31T02:39:25+00:00"
+   },
    {
     "id": "b34646f7b37b",
     "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
@@ -225,16 +235,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-30T12:59:38+00:00"
-   },
-   {
-    "id": "ff5f2b17e85d",
-    "title": "New York police will now investigate Cornell sex complaints, governor says",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-30T03:32:44+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -299,6 +299,16 @@
     "time": "2026-10-30T08:29:10+00:00"
    },
    {
+    "id": "181e4264f76a",
+    "title": "Halloween Protests & French Promises, US Mid Term Mood, What now for Israel?",
+    "country": "Israel",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-31T00:30:13+00:00"
+   },
+   {
     "id": "0667e1e3e203",
     "title": "Green flood alert in Egypt",
     "country": "Egypt",
@@ -307,16 +317,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-30T10:18:46+00:00"
-   },
-   {
-    "id": "58bdc478aaf0",
-    "title": "Green flood alert in Syria",
-    "country": "Syria",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-30T09:34:20+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -341,14 +341,14 @@
     "time": "2026-10-30T16:00:54+00:00"
    },
    {
-    "id": "28af50802aeb",
-    "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
-    "country": "Kenya",
+    "id": "ce908b53a5c8",
+    "title": "Ebola death toll in DR Congo passes 5,000",
+    "country": "DRC",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "health",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-30T01:05:26+00:00"
+    "time": "2026-10-31T02:51:52+00:00"
    },
    {
     "id": "83674748178f",
@@ -421,71 +421,29 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-30T22:46:57.982000+00:00"
-   },
-   {
-    "id": "43a87e4d4772",
-    "title": "Colombia",
-    "country": "Colombia",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-30T00:40:46+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "dbf9d2465dca",
-    "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-    "country": "Australia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-30T01:35:40+00:00"
-   },
-   {
-    "id": "2f340de0215f",
-    "title": "M4.7 earthquake, 222 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-30T22:14:55.008000+00:00"
-   },
-   {
-    "id": "9a30a9b32eda",
-    "title": "M4.8 earthquake, Fiji region",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-30T05:10:19.806000+00:00"
-   },
-   {
-    "id": "fa5b603d3ecf",
-    "title": "Watch: Why Australia's mushroom murderer may now die in prison",
-    "country": "Australia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-30T01:38:54+00:00"
-   },
-   {
-    "id": "65949267ffca",
-    "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
-    "country": "New Zealand",
-    "city": "Wellington",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-30T00:48:00+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "c1c2a40be820",
+    "title": "M4.6 earthquake, Izu Islands, Japan region",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-31T03:14:13.580000+00:00"
+   },
+   {
+    "id": "0e865fe9740f",
+    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "country": "North Korea",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-10-31T02:12:19+00:00"
+   },
    {
     "id": "27f211fed3b6",
     "title": "M4.6 earthquake, 7 km NE of Tago, Philippines",
@@ -505,6 +463,16 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-30T13:52:44+00:00"
+   },
+   {
+    "id": "0559faf682c3",
+    "title": "M4.5 earthquake, 68 km ENE of Kuji, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-30T13:18:19.151000+00:00"
    },
    {
     "id": "c2e361b353ca",
@@ -535,36 +503,18 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-30T08:20:30+00:00"
-   },
+   }
+  ],
+  "Oceania": [
    {
-    "id": "542636ca8527",
-    "title": "Philippines raises alert as Mayon Volcano erupts",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-30T07:37:38+00:00"
-   },
-   {
-    "id": "722716d86274",
-    "title": "M4.6 earthquake, 51 km ENE of Noda, Japan",
-    "country": "Japan",
+    "id": "2f340de0215f",
+    "title": "M4.7 earthquake, 222 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-30T04:58:31.595000+00:00"
-   },
-   {
-    "id": "7453f05f66e8",
-    "title": "M5.1 earthquake, 97 km NNE of Finschhafen, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-30T03:04:17.406000+00:00"
+    "time": "2026-10-30T22:14:55.008000+00:00"
    }
   ],
   "South Asia": [
@@ -587,16 +537,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-30T14:00:00+00:00"
-   },
-   {
-    "id": "75a5e162b5be",
-    "title": "Husband of one of Modi’s closest advisors questions election integrity",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-30T02:41:18+00:00"
    }
   ]
  }
