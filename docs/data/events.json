@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-31T20:41:02.105514+00:00",
+ "generated": "2026-10-31T23:46:53.757232+00:00",
  "sample": false,
- "count": 487,
+ "count": 491,
  "events": [
   {
    "title": "At least 14 people killed in attack on Ukraine train station",
@@ -227,6 +227,34 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "M6.0 earthquake, 58 km SSE of Shima, Japan",
+   "summary": "Depth 352 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku",
+   "time": "2026-10-31T22:15:02.901000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Japan",
+   "city": null,
+   "lat": 33.822,
+   "lon": 136.9854,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3160f29ed1d8",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
    "watch": []
   },
   {
@@ -935,34 +963,6 @@
    "watch": []
   },
   {
-   "title": "Trump, campaigning in Texas for Republicans, touts Iran war and ‘51st state’ Venezuela: ‘I knew that oil would go up’ – live",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-   "time": "2026-10-27T22:39:07+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Iran",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T23:13:40.588221+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "6dce117c2920",
-   "flag": "🇮🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.58,
-   "watch": []
-  },
-  {
    "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
@@ -1413,6 +1413,34 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Russian airstrike destroys Kramatorsk city council building that survived 2014 occupation",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-airstrike-destroys-kramatorsk-city-council-building-that-survived-2014-occupation/",
+   "time": "2026-10-31T23:28:01+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-airstrike-destroys-kramatorsk-city-council-building-that-survived-2014-occupation/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "ad5d60f6b7c6",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
    "watch": []
   },
   {
@@ -3928,34 +3956,6 @@
    "watch": []
   },
   {
-   "title": "Moscow faces mass drone strike overnight, flights grounded at major airports",
-   "summary": "",
-   "url": "https://kyivindependent.com/moscow-comes-under-drone-fire-overnight-grounding-flights-at-major-airports/",
-   "time": "2026-10-28T22:34:12+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": "Moscow",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/moscow-comes-under-drone-fire-overnight-grounding-flights-at-major-airports/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-29T00:38:06.432900+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "dd69e405e25a",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
    "title": "M5.7 earthquake, 271 km WSW of Tual, Indonesia",
    "summary": "Depth 142 km. Alert: green.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua",
@@ -3981,34 +3981,6 @@
    "flag": "🇮🇩",
    "region": "East & SE Asia",
    "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "Ukraine's military reveals what Russia's war has cost Moscow — in dollars, arms, and lives",
-   "summary": "",
-   "url": "https://kyivindependent.com/ukraines-military-reveals-what-russias-war-has-cost-moscow-in-dollars-arms-and-lives/",
-   "time": "2026-10-28T21:20:17+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": "Moscow",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/ukraines-military-reveals-what-russias-war-has-cost-moscow-in-dollars-arms-and-lives/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-29T00:38:06.432900+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "96daecc7d543",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
    "watch": []
   },
   {
@@ -5249,6 +5221,230 @@
    "watch": []
   },
   {
+   "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+   "time": "2026-10-31T22:43:09+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Poland",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f1acabb7dc3f",
+   "flag": "🇵🇱",
+   "region": "Eastern Europe",
+   "baseline": 1.31,
+   "watch": []
+  },
+  {
+   "title": "M5.2 earthquake, 200 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky",
+   "time": "2026-10-31T22:42:39.540000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.8729,
+   "lon": 165.6456,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "f0c0bb2b6879",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.",
+   "summary": "On 10/31/2026 10:15:02 PM, an earthquake occurred in Japan potentially affecting 60 thousand in MMI III. The earthquake had Magnitude 6M, Depth:352.449km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574997",
+   "time": "2026-10-31T22:31:13+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Japan",
+   "city": null,
+   "lat": 33.822,
+   "lon": 136.9854,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574997",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "569b2df609bb",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "Thousands demonstrate in Paris as protests spread across Europe",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-31T21:29:01+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "40bc0c3d4ca4",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M5.0 earthquake, 115 km SE of Bushehr, Iran",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukm",
+   "time": "2026-10-31T21:20:39.173000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Iran",
+   "city": null,
+   "lat": 28.114,
+   "lon": 51.5076,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukm",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "75b16f04af1e",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Fiery confrontations between protestors and police in Albania",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+   "time": "2026-10-31T21:12:46+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Albania",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7caf5ef0ecbb",
+   "flag": "🇦🇱",
+   "region": "Eastern Europe",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+   "time": "2026-10-31T21:01:19+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "Nigeria",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "9af1519c0682",
+   "flag": "🇳🇬",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "'Gen Z' demonstrations across Germany demand more education funding",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261031-german-police-protesters-clash-after-gen-z-demos",
+   "time": "2026-10-31T20:07:52+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Germany",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261031-german-police-protesters-clash-after-gen-z-demos",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "6b8c312ddf7a",
+   "flag": "🇩🇪",
+   "region": "Western Europe",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
    "title": "Clashes erupt between police and protesters in Paris",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
@@ -5382,11 +5578,16 @@
      "name": "The Guardian World",
      "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
      "tier": "B"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-10-31T20:41:02.105514+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B2",
+   "corroboration": 2,
    "id": "fa6e88791a13",
    "flag": "🇫🇷",
    "region": "Western Europe",
@@ -5612,6 +5813,34 @@
    "confidence": "C4",
    "corroboration": 1,
    "id": "c2e7f9052fba",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "'It's a miracle' — Oleshky residents reach Ukrainian-controlled territory after escaping Russian occupation",
+   "summary": "",
+   "url": "https://kyivindependent.com/oleshky-residents-reach-ukrainian-controlled-territory-after-escaping-russian-occupation/",
+   "time": "2026-10-31T13:04:04+00:00",
+   "tier": "C",
+   "category": "transport",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/oleshky-residents-reach-ukrainian-controlled-territory-after-escaping-russian-occupation/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "c28e1cbf0947",
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
@@ -6066,6 +6295,34 @@
    "watch": []
   },
   {
+   "title": "Interior minister says protests across France went well despite clashes with police",
+   "summary": "",
+   "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
+   "time": "2026-10-31T05:53:27+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e2a31bfeb06c",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
    "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
@@ -6287,6 +6544,34 @@
    "flag": "🇮🇱",
    "region": "Middle East & N. Africa",
    "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "M4.8 earthquake, 97 km ENE of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
+   "time": "2026-10-31T00:26:35.699000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.8091,
+   "lon": 167.9478,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-10-31T23:46:53.757232+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3c72859824cf",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -7944,34 +8229,6 @@
    "flag": "🇻🇺",
    "region": "Oceania",
    "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "Erin Patterson appeal live updates: mushroom murderer to learn fate in retrial bid",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb",
-   "time": "2026-10-29T23:02:52+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Australia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-29T23:21:12.897931+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "bf2cb022ac3c",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
    "watch": []
   },
   {
@@ -11255,146 +11512,6 @@
    "flag": "🇳🇦",
    "region": "Sub-Saharan Africa",
    "baseline": 1.93,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 98 km NNW of Tobelo, Indonesia",
-   "summary": "Depth 89 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttd3",
-   "time": "2026-10-26T22:52:22.912000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": 2.5777,
-   "lon": 127.7372,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttd3",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-27T02:19:09.850527+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "9c10e6024a92",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Indonesia",
-   "summary": "On 14/10/2026, a forest fire started in Indonesia, until 25/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033210",
-   "time": "2026-10-26T21:59:12+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": -2.75294494850749,
-   "lon": 110.52151594968608,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033210",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-26T23:17:25.886701+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "8c8c35483560",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "M4.7 earthquake, 98 km S of Encounter Bay, Australia",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttci",
-   "time": "2026-10-26T21:18:11.526000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Australia",
-   "city": null,
-   "lat": -36.4594,
-   "lon": 138.5321,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttci",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-26T23:17:25.886701+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "207f923b0657",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 20 km NNW of La Ligua, Chile",
-   "summary": "Depth 48 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc8",
-   "time": "2026-10-26T20:52:11.505000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Chile",
-   "city": null,
-   "lat": -32.2811,
-   "lon": -71.3014,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc8",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-26T23:17:25.886701+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "b6647ac852a6",
-   "flag": "🇨🇱",
-   "region": "Latin America & Caribbean",
-   "baseline": 1.62,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 89 km SSE of Pondaguitan, Philippines",
-   "summary": "Depth 75 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc6",
-   "time": "2026-10-26T20:41:25.106000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Philippines",
-   "city": null,
-   "lat": 5.6361,
-   "lon": 126.5418,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc6",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-26T23:17:25.886701+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "e5b994df79cd",
-   "flag": "🇵🇭",
-   "region": "East & SE Asia",
-   "baseline": 3.11,
    "watch": []
   },
   {
