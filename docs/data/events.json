@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-31T23:46:53.757232+00:00",
+ "generated": "2026-11-01T04:46:42.279002+00:00",
  "sample": false,
- "count": 491,
+ "count": 492,
  "events": [
   {
    "title": "At least 14 people killed in attack on Ukraine train station",
@@ -227,6 +227,34 @@
    "flag": "🇾🇪",
    "region": "Middle East & N. Africa",
    "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Bolivia declares state of emergency over El Nino weather pattern",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern?traffic_source=rss",
+   "time": "2026-11-01T04:04:40+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Bolivia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "19e1609faf40",
+   "flag": "🇧🇴",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.09,
    "watch": []
   },
   {
@@ -935,34 +963,6 @@
    "watch": []
   },
   {
-   "title": "Criminal case against alleged Bondi terrorist delayed amid ‘unprecedented’ investigation",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
-   "time": "2026-10-28T01:18:39+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Australia",
-   "city": "Sydney",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T02:21:15.351159+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "8a3ed104c70d",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
    "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
@@ -1413,6 +1413,34 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Russian oil refinery in Kstovo ablaze after reported overnight drone strike",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-oil-refinery-in-kstovo-ablaze-after-reported-overnight-drone-strike/",
+   "time": "2026-11-01T03:25:48+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-oil-refinery-in-kstovo-ablaze-after-reported-overnight-drone-strike/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "d80aec7b3413",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -3844,34 +3872,6 @@
    "watch": []
   },
   {
-   "title": "Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage",
-   "time": "2026-10-29T04:41:41+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "South Korea",
-   "city": "Seoul",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-29T06:29:55.075429+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d72e942276be",
-   "flag": "🇰🇷",
-   "region": "East & SE Asia",
-   "baseline": 1.36,
-   "watch": []
-  },
-  {
    "title": "M5.7 earthquake, 82 km NE of Kiunga, Papua New Guinea",
    "summary": "Depth 10 km. Alert: green.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
@@ -5193,31 +5193,255 @@
    "watch": []
   },
   {
-   "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
+   "title": "Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’",
    "summary": "",
-   "url": "https://kyivindependent.com/sanctioned-russian-energy-giant-secretly-funded-us-gas-project-nyt-reports/",
-   "time": "2026-10-25T00:29:15+00:00",
-   "tier": "C",
-   "category": "political",
+   "url": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events",
+   "time": "2026-11-01T03:56:49+00:00",
+   "tier": "B",
+   "category": "unrest",
    "country": "United States",
    "city": "New York",
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/sanctioned-russian-energy-giant-secretly-funded-us-gas-project-nyt-reports/",
-     "tier": "C"
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events",
+     "tier": "B"
     }
    ],
-   "first_seen": "2026-10-25T00:32:42.120953+00:00",
-   "confidence": "C4",
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "B3",
    "corroboration": 1,
-   "id": "78e4501ea105",
+   "id": "149d333800d6",
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "India’s largest dam planned to counter China faces Indigenous revolt",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss",
+   "time": "2026-11-01T03:19:28+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e85eb27525fd",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "The murder of Javits Frimpong, a bullied schoolboy in The Bronx",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/the-murder-of-javits-frimpong-a-bullied-schoolboy-in-the-bronx?traffic_source=rss",
+   "time": "2026-11-01T03:18:02+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "United States",
+   "city": "New York",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/the-murder-of-javits-frimpong-a-bullied-schoolboy-in-the-bronx?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "73d5545bff9e",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+   "summary": "From 01/11/2026 to 01/11/2026, a Tropical Storm (maximum wind speed of 93 km/h) FOUR-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0 (0 in tropical storm).",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001346",
+   "time": "2026-11-01T02:23:45+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "India",
+   "city": null,
+   "lat": 11.6,
+   "lon": 86.6,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001346",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "0678114993b2",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+   "time": "2026-11-01T02:05:40+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "93caf306b60a",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Shops looted as German cost of living protests turn violent",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-01T01:59:57+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Germany",
+   "city": "Frankfurt",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "362c2ca298f6",
+   "flag": "🇩🇪",
+   "region": "Western Europe",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 55 km SSW of Ollagüe, Chile",
+   "summary": "Depth 120 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly",
+   "time": "2026-11-01T01:24:52.448000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Chile",
+   "city": null,
+   "lat": -21.698,
+   "lon": -68.435,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "310e99a1fe03",
+   "flag": "🇨🇱",
+   "region": "Latin America & Caribbean",
+   "baseline": 1.62,
+   "watch": []
+  },
+  {
+   "title": "Gen Z-led protests in Germany turn violent",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss",
+   "time": "2026-11-01T00:27:20+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Germany",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b156118a3534",
+   "flag": "🇩🇪",
+   "region": "Western Europe",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-01T00:12:07+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "97110a195acc",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
    "watch": []
   },
   {
@@ -5302,6 +5526,39 @@
    "flag": "🇯🇵",
    "region": "East & SE Asia",
    "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
+   "summary": "",
+   "url": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
+   "time": "2026-10-31T21:34:15+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Paris",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
+     "tier": "B"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "f9f61d3f21fe",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -5707,6 +5964,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Botswana, Namibia",
+   "summary": "On 28/10/2026, a forest fire started in Botswana, Namibia, until 31/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033366",
+   "time": "2026-10-31T16:07:12+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Botswana",
+   "city": null,
+   "lat": -18.57793725070157,
+   "lon": 23.821890359114274,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033366",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "c8d7b3cef55c",
+   "flag": "🇧🇼",
+   "region": "Sub-Saharan Africa",
+   "baseline": 1.9,
+   "watch": []
+  },
+  {
    "title": "M5.2 earthquake, 4 km S of Bajo Corral, Panama",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf",
@@ -6096,6 +6381,34 @@
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 236 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuht",
+   "time": "2026-10-31T09:18:32.051000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.7894,
+   "lon": 165.2951,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuht",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-01T04:46:42.279002+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "dae5e9810281",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -7891,34 +8204,6 @@
    "watch": []
   },
   {
-   "title": "New York police will now investigate Cornell sex complaints, governor says",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-30T03:32:44+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United States",
-   "city": "New York",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T09:41:18.231860+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ff5f2b17e85d",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
    "title": "Flash floods kill five in Syria",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
@@ -7975,123 +8260,6 @@
    "watch": []
   },
   {
-   "title": "Husband of one of Modi’s closest advisors questions election integrity",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
-   "time": "2026-10-30T02:41:18+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "India",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T09:41:18.231860+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "75a5e162b5be",
-   "flag": "🇮🇳",
-   "region": "South Asia",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "Watch: Why Australia's mushroom murderer may now die in prison",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-30T01:38:54+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Australia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T16:15:57.759860+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fa5b603d3ecf",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-30T01:35:40+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Australia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T09:41:18.231860+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "dbf9d2465dca",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
-   "time": "2026-10-30T00:48:00+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "New Zealand",
-   "city": "Wellington",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T02:47:23.641382+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "65949267ffca",
-   "flag": "🇳🇿",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
    "title": "Colombia",
    "summary": "New information about the the temporary deployment of security forces in the city of Cucuta (‘Warnings and Insurance’ page).",
    "url": "https://www.gov.uk/foreign-travel-advice/colombia",
@@ -8120,34 +8288,6 @@
    "watch": []
   },
   {
-   "title": "Australia’s mushroom murderer loses bid to overturn convictions – as it happened",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb",
-   "time": "2026-10-30T00:27:58+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Australia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T02:47:23.641382+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "2d95834375ca",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
    "title": "Green forest fire notification in Central African Republic, Chad",
    "summary": "On 24/10/2026, a forest fire started in Central African Republic, Chad, until 29/10/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033313",
@@ -8173,34 +8313,6 @@
    "flag": "🇨🇫",
    "region": "Sub-Saharan Africa",
    "baseline": 4.61,
-   "watch": []
-  },
-  {
-   "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
-   "time": "2026-10-29T23:52:30+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T02:47:23.641382+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fb59e6c18c2d",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -11428,90 +11540,6 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, 69 km WSW of Kirakira, Solomon Islands",
-   "summary": "Depth 35 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4",
-   "time": "2026-10-27T02:02:55.847000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Solomon Islands",
-   "city": null,
-   "lat": -10.6683,
-   "lon": 161.3189,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-27T08:14:11.246600+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "d1d1b2b34ec5",
-   "flag": "🇸🇧",
-   "region": "Oceania",
-   "baseline": 2.71,
-   "watch": []
-  },
-  {
-   "title": "M4.8 earthquake, 54 km E of Tomioka, Japan",
-   "summary": "Depth 49 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
-   "time": "2026-10-27T00:25:08.167000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Japan",
-   "city": null,
-   "lat": 37.3869,
-   "lon": 141.625,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-27T02:19:09.850527+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "b8fb1da66489",
-   "flag": "🇯🇵",
-   "region": "East & SE Asia",
-   "baseline": 1.07,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Namibia, Angola",
-   "summary": "On 23/10/2026, a forest fire started in Namibia, Angola, until 26/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033235",
-   "time": "2026-10-27T00:11:35+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Namibia",
-   "city": null,
-   "lat": -17.603718930008963,
-   "lon": 22.59458874131041,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033235",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-27T02:19:09.850527+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "fcdd5a9a27f9",
-   "flag": "🇳🇦",
-   "region": "Sub-Saharan Africa",
-   "baseline": 1.93,
    "watch": []
   },
   {

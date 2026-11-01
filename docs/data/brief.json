@@ -1,16 +1,58 @@
 {
- "generated": "2026-10-31T23:46:53.757232+00:00",
+ "generated": "2026-11-01T04:46:42.279002+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 50,
-  "3": 15,
-  "4": 3,
+  "2": 51,
+  "3": 14,
+  "4": 4,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
+  "Latin America & Caribbean": [
+   {
+    "id": "19e1609faf40",
+    "title": "Bolivia declares state of emergency over El Nino weather pattern",
+    "country": "Bolivia",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-01T04:04:40+00:00"
+   },
+   {
+    "id": "310e99a1fe03",
+    "title": "M4.5 earthquake, 55 km SSW of Ollagüe, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T01:24:52.448000+00:00"
+   },
+   {
+    "id": "f109b94dc01b",
+    "title": "M5.2 earthquake, 4 km S of Bajo Corral, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-31T15:50:18.909000+00:00"
+   },
+   {
+    "id": "462f57d8ffd8",
+    "title": "2,000 Salvadoran troops take quarters in Haiti to help fight gangs",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-10-31T15:42:44+00:00"
+   }
+  ],
   "East & SE Asia": [
    {
     "id": "3160f29ed1d8",
@@ -61,36 +103,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-31T11:16:54+00:00"
-   },
-   {
-    "id": "c1c2a40be820",
-    "title": "M4.6 earthquake, Izu Islands, Japan region",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T03:14:13.580000+00:00"
-   },
-   {
-    "id": "0e865fe9740f",
-    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-    "country": "North Korea",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-31T02:12:19+00:00"
-   },
-   {
-    "id": "4a50763838c4",
-    "title": "M4.5 earthquake, 223 km SE of Katsuura, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T00:32:46.687000+00:00"
    }
   ],
   "Eastern Europe": [
@@ -113,6 +125,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-31T12:45:49+00:00"
+   },
+   {
+    "id": "d80aec7b3413",
+    "title": "Russian oil refinery in Kstovo ablaze after reported overnight drone strike",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-01T03:25:48+00:00"
    },
    {
     "id": "ad5d60f6b7c6",
@@ -155,16 +177,6 @@
     "time": "2026-10-31T07:39:23+00:00"
    },
    {
-    "id": "7d563cf02228",
-    "title": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-31T02:18:17+00:00"
-   },
-   {
     "id": "f1acabb7dc3f",
     "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
     "country": "Poland",
@@ -197,6 +209,16 @@
     "time": "2026-10-31T09:28:52+00:00"
    },
    {
+    "id": "f9f61d3f21fe",
+    "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-31T21:34:15+00:00"
+   },
+   {
     "id": "99245ed4c90b",
     "title": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
     "country": "United Kingdom",
@@ -217,6 +239,26 @@
     "time": "2026-10-31T18:23:56+00:00"
    },
    {
+    "id": "362c2ca298f6",
+    "title": "Shops looted as German cost of living protests turn violent",
+    "country": "Germany",
+    "city": "Frankfurt",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T01:59:57+00:00"
+   },
+   {
+    "id": "b156118a3534",
+    "title": "Gen Z-led protests in Germany turn violent",
+    "country": "Germany",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T00:27:20+00:00"
+   },
+   {
     "id": "40bc0c3d4ca4",
     "title": "Thousands demonstrate in Paris as protests spread across Europe",
     "country": "France",
@@ -225,36 +267,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-31T21:29:01+00:00"
-   },
-   {
-    "id": "6b8c312ddf7a",
-    "title": "'Gen Z' demonstrations across Germany demand more education funding",
-    "country": "Germany",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-31T20:07:52+00:00"
-   },
-   {
-    "id": "70d6b5630fe9",
-    "title": "Clashes erupt between police and protesters in Paris",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-31T19:37:43+00:00"
-   },
-   {
-    "id": "1445762b98cb",
-    "title": "France seethes again as youth-led protests sweep Europe",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-31T19:30:19+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -299,6 +311,16 @@
     "time": "2026-10-31T10:11:47+00:00"
    },
    {
+    "id": "93caf306b60a",
+    "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
+    "country": "Israel",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T02:05:40+00:00"
+   },
+   {
     "id": "75b16f04af1e",
     "title": "M5.0 earthquake, 115 km SE of Bushehr, Iran",
     "country": "Iran",
@@ -307,16 +329,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-31T21:20:39.173000+00:00"
-   },
-   {
-    "id": "181e4264f76a",
-    "title": "Halloween Protests & French Promises, US Mid Term Mood, What now for Israel?",
-    "country": "Israel",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-31T00:30:13+00:00"
    }
   ],
   "North America": [
@@ -331,14 +343,24 @@
     "time": "2026-10-31T10:00:41+00:00"
    },
    {
-    "id": "075088a587dd",
-    "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
-    "country": "Canada",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "id": "149d333800d6",
+    "title": "Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’",
+    "country": "United States",
+    "city": "New York",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-31T02:39:25+00:00"
+    "time": "2026-11-01T03:56:49+00:00"
+   },
+   {
+    "id": "73d5545bff9e",
+    "title": "The murder of Javits Frimpong, a bullied schoolboy in The Bronx",
+    "country": "United States",
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T03:18:02+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -373,6 +395,16 @@
     "time": "2026-10-31T16:44:52+00:00"
    },
    {
+    "id": "c8d7b3cef55c",
+    "title": "Green forest fire notification in Botswana, Namibia",
+    "country": "Botswana",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-31T16:07:12+00:00"
+   },
+   {
     "id": "10d73a932928",
     "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
     "country": "DRC",
@@ -381,26 +413,48 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-31T15:16:20+00:00"
-   },
+   }
+  ],
+  "South Asia": [
    {
-    "id": "ce908b53a5c8",
-    "title": "Ebola death toll in DR Congo passes 5,000",
-    "country": "DRC",
+    "id": "e85eb27525fd",
+    "title": "India’s largest dam planned to counter China faces Indigenous revolt",
+    "country": "India",
     "city": null,
-    "category": "health",
+    "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-31T02:51:52+00:00"
+    "time": "2026-11-01T03:19:28+00:00"
    },
    {
-    "id": "83674748178f",
-    "title": "Green forest fire notification in Central African Republic",
-    "country": "CAR",
+    "id": "0678114993b2",
+    "title": "Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+    "country": "India",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-10-31T00:24:17+00:00"
+    "time": "2026-11-01T02:23:45+00:00"
+   },
+   {
+    "id": "97110a195acc",
+    "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T00:12:07+00:00"
+   },
+   {
+    "id": "655fff866f87",
+    "title": "Green flood alert in Bhutan",
+    "country": "Bhutan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-31T10:30:43+00:00"
    }
   ],
   "Oceania": [
@@ -425,6 +479,16 @@
     "time": "2026-10-31T11:31:12.352000+00:00"
    },
    {
+    "id": "dae5e9810281",
+    "title": "M4.9 earthquake, 236 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-31T09:18:32.051000+00:00"
+   },
+   {
     "id": "a1f5388b3347",
     "title": "M4.9 earthquake, 213 km W of Sola, Vanuatu",
     "country": "Vanuatu",
@@ -443,50 +507,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-31T06:05:20+00:00"
-   },
-   {
-    "id": "3c72859824cf",
-    "title": "M4.8 earthquake, 97 km ENE of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T00:26:35.699000+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "f109b94dc01b",
-    "title": "M5.2 earthquake, 4 km S of Bajo Corral, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T15:50:18.909000+00:00"
-   },
-   {
-    "id": "462f57d8ffd8",
-    "title": "2,000 Salvadoran troops take quarters in Haiti to help fight gangs",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-10-31T15:42:44+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "655fff866f87",
-    "title": "Green flood alert in Bhutan",
-    "country": "Bhutan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T10:30:43+00:00"
    }
   ]
  }
