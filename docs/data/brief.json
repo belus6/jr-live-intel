@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-01T17:14:57.872569+00:00",
+ "generated": "2026-11-01T21:14:54.337904+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 44,
+  "2": 46,
   "3": 14,
-  "4": 5,
-  "5": 2
+  "4": 7,
+  "5": 3
  },
  "watch_hits": [],
  "regions": {
@@ -25,6 +25,16 @@
    {
     "id": "9f16afff42ef",
     "title": "Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.204 million .",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-11-01T02:23:45+00:00"
+   },
+   {
+    "id": "1ad3d9c3e150",
+    "title": "Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.196 million .",
     "country": "India",
     "city": null,
     "category": "hazard",
@@ -53,6 +63,26 @@
     "time": "2026-11-01T06:24:17+00:00"
    },
    {
+    "id": "a6af2b5cf579",
+    "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-11-01T16:11:50+00:00"
+   },
+   {
+    "id": "0fcc035321a5",
+    "title": "Bangladesh workers clash with police in protests over low pay",
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T16:52:42+00:00"
+   },
+   {
     "id": "a89753a3ac85",
     "title": "India protesters march with 1km banner of deleted voters’ names",
     "country": "India",
@@ -61,36 +91,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-01T16:42:18+00:00"
-   },
-   {
-    "id": "a6af2b5cf579",
-    "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T16:11:50+00:00"
-   },
-   {
-    "id": "0595d7f02258",
-    "title": "Bangladesh forms wage board as garment workers protest",
-    "country": "Bangladesh",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T08:13:00+00:00"
-   },
-   {
-    "id": "7151338a8485",
-    "title": "Indian forces tighten security in Delhi ahead of big opposition protest",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T06:20:58+00:00"
    }
   ],
   "Eastern Europe": [
@@ -101,8 +101,28 @@
     "city": null,
     "category": "conflict",
     "severity": 4,
-    "confidence": "B3",
+    "confidence": "B2",
     "time": "2026-11-01T14:56:05+00:00"
+   },
+   {
+    "id": "b5d65a6396f1",
+    "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-01T21:01:58+00:00"
+   },
+   {
+    "id": "796500847a3a",
+    "title": "Oleshky: Evacuations during first humanitarian truce of war end",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-01T17:44:51+00:00"
    },
    {
     "id": "a8d46f764a25",
@@ -121,8 +141,18 @@
     "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
+    "confidence": "C2",
     "time": "2026-11-01T16:59:37+00:00"
+   },
+   {
+    "id": "78e4a9e5548a",
+    "title": "Russian drone strike near school dormitory housing displaced people kills 13-year-old in Vinnytsia Oblast, injures more children",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-01T19:02:26+00:00"
    },
    {
     "id": "360d9c667984",
@@ -135,44 +165,14 @@
     "time": "2026-11-01T14:07:08+00:00"
    },
    {
-    "id": "24da3b36a8b6",
-    "title": "Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-01T09:30:23+00:00"
-   },
-   {
-    "id": "589c47827826",
-    "title": "General Staff: Russia has lost 1,590,270 troops in Ukraine since Feb. 24, 2022",
+    "id": "ca1f2cff0eed",
+    "title": "Ceasefire in Ukraine's Kherson region set to end after Russia refuses extension",
     "country": "Ukraine",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-01T08:01:08+00:00"
-   },
-   {
-    "id": "d80aec7b3413",
-    "title": "Russian oil refinery in Kstovo ablaze after reported overnight drone strike",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-01T03:25:48+00:00"
-   },
-   {
-    "id": "ad5d60f6b7c6",
-    "title": "Russian airstrike destroys Kramatorsk city council building that survived 2014 occupation",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-31T23:28:01+00:00"
+    "confidence": "B3",
+    "time": "2026-11-01T12:41:48+00:00"
    }
   ],
   "Oceania": [
@@ -185,6 +185,16 @@
     "severity": 4,
     "confidence": "A1",
     "time": "2026-11-01T11:47:03.778000+00:00"
+   },
+   {
+    "id": "d7c6cceaea25",
+    "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T17:56:47+00:00"
    },
    {
     "id": "02a164ea9bbc",
@@ -229,6 +239,26 @@
     "time": "2026-11-01T04:04:40+00:00"
    },
    {
+    "id": "d67fce5c21fb",
+    "title": "Video captures house collapsing due to Ecuador floods",
+    "country": "Ecuador",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T19:56:47+00:00"
+   },
+   {
+    "id": "51a71c5ed6b5",
+    "title": "Ecuador",
+    "country": "Ecuador",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T19:30:00+00:00"
+   },
+   {
     "id": "1ae66f03b387",
     "title": "Cape Verde president rallies supporters as campaigns kick off",
     "country": "Cabo Verde",
@@ -271,14 +301,24 @@
     "time": "2026-10-31T22:15:02.901000+00:00"
    },
    {
-    "id": "37f0bb6b7065",
-    "title": "Key takeaways from this week's political meeting in Beijing",
-    "country": "China",
-    "city": "Beijing",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-31T18:42:33+00:00"
+    "id": "2c5ea39358df",
+    "title": "M4.6 earthquake, 101 km SW of Basco, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T18:42:57.023000+00:00"
+   },
+   {
+    "id": "6dac098b405d",
+    "title": "M4.7 earthquake, 78 km SSE of Yonakuni, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T17:01:18.126000+00:00"
    },
    {
     "id": "fb933a7c341f",
@@ -309,6 +349,68 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-31T22:31:13+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "bff21e228e11",
+    "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+    "country": "Israel",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-01T17:30:45+00:00"
+   },
+   {
+    "id": "92a572b6dba9",
+    "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-01T13:36:16+00:00"
+   },
+   {
+    "id": "5c4d63c9712a",
+    "title": "Yemeni government forces seize strategic positions in al-Jawf",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-01T10:08:55+00:00"
+   },
+   {
+    "id": "12f91c02af7e",
+    "title": "Israeli protesters urge Jewish-Arab coalition government",
+    "country": "Israel",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T09:24:52+00:00"
+   },
+   {
+    "id": "93caf306b60a",
+    "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
+    "country": "Israel",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T02:05:40+00:00"
+   },
+   {
+    "id": "75b16f04af1e",
+    "title": "M5.0 earthquake, 115 km SE of Bushehr, Iran",
+    "country": "Iran",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-31T21:20:39.173000+00:00"
    }
   ],
   "North America": [
@@ -383,69 +485,17 @@
     "time": "2026-11-01T03:18:02+00:00"
    }
   ],
-  "Middle East & N. Africa": [
-   {
-    "id": "92a572b6dba9",
-    "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T13:36:16+00:00"
-   },
-   {
-    "id": "5c4d63c9712a",
-    "title": "Yemeni government forces seize strategic positions in al-Jawf",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T10:08:55+00:00"
-   },
-   {
-    "id": "cf7d44c9a64b",
-    "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-31T17:49:23+00:00"
-   },
-   {
-    "id": "12f91c02af7e",
-    "title": "Israeli protesters urge Jewish-Arab coalition government",
-    "country": "Israel",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T09:24:52+00:00"
-   },
-   {
-    "id": "93caf306b60a",
-    "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
-    "country": "Israel",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T02:05:40+00:00"
-   },
-   {
-    "id": "75b16f04af1e",
-    "title": "M5.0 earthquake, 115 km SE of Bushehr, Iran",
-    "country": "Iran",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T21:20:39.173000+00:00"
-   }
-  ],
   "Western Europe": [
+   {
+    "id": "b08003a8b2ed",
+    "title": "Attempted murder probe after petrol bomb thrown at French riot police",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-11-01T16:24:38+00:00"
+   },
    {
     "id": "f9f61d3f21fe",
     "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
@@ -457,34 +507,44 @@
     "time": "2026-10-31T21:34:15+00:00"
    },
    {
-    "id": "99245ed4c90b",
-    "title": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
+    "id": "5250adc93872",
+    "title": "Police clash with housing crisis protesters in Portugal",
+    "country": "Portugal",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T20:31:17+00:00"
+   },
+   {
+    "id": "096b44e9e6ea",
+    "title": "Peaceful protests in Germany spiral into violence and looting",
+    "country": "Germany",
+    "city": "Frankfurt",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T18:51:56+00:00"
+   },
+   {
+    "id": "cf1f1eb6f832",
+    "title": "Police detain 325 people at pro-Palestine Action protest at US embassy in London",
     "country": "United Kingdom",
     "city": "London",
     "category": "unrest",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-31T18:28:30+00:00"
+    "confidence": "B3",
+    "time": "2026-11-01T17:29:20+00:00"
    },
    {
-    "id": "fa6e88791a13",
-    "title": "Police clash with masked rioters after largely peaceful protests across France",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-31T18:23:56+00:00"
-   },
-   {
-    "id": "b08003a8b2ed",
-    "title": "Attempted murder probe after petrol bomb thrown at French riot police",
+    "id": "70706d0bfdfd",
+    "title": "France reports largely peaceful protests",
     "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-01T16:24:38+00:00"
+    "time": "2026-11-01T15:50:06+00:00"
    },
    {
     "id": "2545e2df75f1",
@@ -505,38 +565,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-01T09:38:00+00:00"
-   },
-   {
-    "id": "e8350b222282",
-    "title": "How social media are central to protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T09:36:20+00:00"
-   },
-   {
-    "id": "085ecfc14133",
-    "title": "Hundreds of thousands protest in France for \"Act III\"",
-    "country": "France",
-    "city": "Marseille",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T09:35:02+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "9af1519c0682",
-    "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-31T21:01:19+00:00"
    }
   ]
  }
