@@ -1,16 +1,88 @@
 {
- "generated": "2026-11-01T04:46:42.279002+00:00",
+ "generated": "2026-11-01T11:42:43.851304+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 51,
-  "3": 14,
+  "2": 48,
+  "3": 11,
   "4": 4,
-  "5": 0
+  "5": 1
  },
  "watch_hits": [],
  "regions": {
+  "South Asia": [
+   {
+    "id": "4f05a40ab1a1",
+    "title": "Red notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.156 million .",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-11-01T02:23:45+00:00"
+   },
+   {
+    "id": "d99437f9e85a",
+    "title": "Indian opposition parties stage mega rally seeking election chief’s resignation",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-11-01T06:24:17+00:00"
+   },
+   {
+    "id": "0595d7f02258",
+    "title": "Bangladesh forms wage board as garment workers protest",
+    "country": "Bangladesh",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T08:13:00+00:00"
+   },
+   {
+    "id": "7151338a8485",
+    "title": "Indian forces tighten security in Delhi ahead of big opposition protest",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T06:20:58+00:00"
+   },
+   {
+    "id": "e85eb27525fd",
+    "title": "India’s largest dam planned to counter China faces Indigenous revolt",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T03:19:28+00:00"
+   },
+   {
+    "id": "0678114993b2",
+    "title": "Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T02:23:45+00:00"
+   },
+   {
+    "id": "97110a195acc",
+    "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T00:12:07+00:00"
+   }
+  ],
   "Latin America & Caribbean": [
    {
     "id": "19e1609faf40",
@@ -21,6 +93,26 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-01T04:04:40+00:00"
+   },
+   {
+    "id": "1ae66f03b387",
+    "title": "Cape Verde president rallies supporters as campaigns kick off",
+    "country": "Cabo Verde",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-01T08:12:14+00:00"
+   },
+   {
+    "id": "b96d1f86ada4",
+    "title": "M4.8 earthquake, 71 km NNW of San Antonio de los Cobres, Argentina",
+    "country": "Argentina",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T05:31:54.598000+00:00"
    },
    {
     "id": "310e99a1fe03",
@@ -75,6 +167,16 @@
     "time": "2026-10-31T18:42:33+00:00"
    },
    {
+    "id": "88afdd503e92",
+    "title": "M4.8 earthquake, 33 km SE of Jiufen, Taiwan",
+    "country": "Taiwan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T08:20:07.549000+00:00"
+   },
+   {
     "id": "569b2df609bb",
     "title": "Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.",
     "country": "Japan",
@@ -93,16 +195,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-10-31T16:24:58+00:00"
-   },
-   {
-    "id": "bc214f5a734f",
-    "title": "Binance hit by 6.3 billion dollar crypto theft",
-    "country": "North Korea",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-31T11:16:54+00:00"
    }
   ],
   "Eastern Europe": [
@@ -125,6 +217,26 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-10-31T12:45:49+00:00"
+   },
+   {
+    "id": "24da3b36a8b6",
+    "title": "Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-01T09:30:23+00:00"
+   },
+   {
+    "id": "589c47827826",
+    "title": "General Staff: Russia has lost 1,590,270 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-01T08:01:08+00:00"
    },
    {
     "id": "d80aec7b3413",
@@ -165,111 +277,19 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-10-31T12:05:04+00:00"
-   },
-   {
-    "id": "9f5dc5abc794",
-    "title": "General Staff: Russia has lost 1,588,180 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-31T07:39:23+00:00"
-   },
-   {
-    "id": "f1acabb7dc3f",
-    "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
-    "country": "Poland",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-31T22:43:09+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "05e786f744b9",
-    "title": "France's Nunez warns of high risk during protests",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-10-31T11:15:19+00:00"
-   },
-   {
-    "id": "32d16c099581",
-    "title": "French Interior Minister fears disorder after dark on Halloween",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-10-31T09:28:52+00:00"
-   },
-   {
-    "id": "f9f61d3f21fe",
-    "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-31T21:34:15+00:00"
-   },
-   {
-    "id": "99245ed4c90b",
-    "title": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-31T18:28:30+00:00"
-   },
-   {
-    "id": "fa6e88791a13",
-    "title": "Police clash with masked rioters after largely peaceful protests across France",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-31T18:23:56+00:00"
-   },
-   {
-    "id": "362c2ca298f6",
-    "title": "Shops looted as German cost of living protests turn violent",
-    "country": "Germany",
-    "city": "Frankfurt",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T01:59:57+00:00"
-   },
-   {
-    "id": "b156118a3534",
-    "title": "Gen Z-led protests in Germany turn violent",
-    "country": "Germany",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T00:27:20+00:00"
-   },
-   {
-    "id": "40bc0c3d4ca4",
-    "title": "Thousands demonstrate in Paris as protests spread across Europe",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-31T21:29:01+00:00"
    }
   ],
   "Middle East & N. Africa": [
+   {
+    "id": "5c4d63c9712a",
+    "title": "Yemeni government forces seize strategic positions in al-Jawf",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-01T10:08:55+00:00"
+   },
    {
     "id": "cf7d44c9a64b",
     "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
@@ -301,14 +321,14 @@
     "time": "2026-10-31T12:45:49+00:00"
    },
    {
-    "id": "fe23fd2382ec",
-    "title": "Trump vs MAGA: Why his movement is splitting",
-    "country": "Iran",
+    "id": "12f91c02af7e",
+    "title": "Israeli protesters urge Jewish-Arab coalition government",
+    "country": "Israel",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-31T10:11:47+00:00"
+    "time": "2026-11-01T09:24:52+00:00"
    },
    {
     "id": "93caf306b60a",
@@ -331,16 +351,98 @@
     "time": "2026-10-31T21:20:39.173000+00:00"
    }
   ],
+  "Western Europe": [
+   {
+    "id": "f9f61d3f21fe",
+    "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-31T21:34:15+00:00"
+   },
+   {
+    "id": "99245ed4c90b",
+    "title": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-31T18:28:30+00:00"
+   },
+   {
+    "id": "fa6e88791a13",
+    "title": "Police clash with masked rioters after largely peaceful protests across France",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-10-31T18:23:56+00:00"
+   },
+   {
+    "id": "4067f3573d61",
+    "title": "Youth-led rallies sweep Europe",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T09:38:00+00:00"
+   },
+   {
+    "id": "e8350b222282",
+    "title": "How social media are central to protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T09:36:20+00:00"
+   },
+   {
+    "id": "085ecfc14133",
+    "title": "Hundreds of thousands protest in France for \"Act III\"",
+    "country": "France",
+    "city": "Marseille",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T09:35:02+00:00"
+   },
+   {
+    "id": "ff7944026e07",
+    "title": "No, France is not ‘burning’",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T07:56:52+00:00"
+   },
+   {
+    "id": "362c2ca298f6",
+    "title": "Shops looted as German cost of living protests turn violent",
+    "country": "Germany",
+    "city": "Frankfurt",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T01:59:57+00:00"
+   }
+  ],
   "North America": [
    {
-    "id": "4a954fefd73b",
-    "title": "Trump beware: US voters are concerned about government corruption",
+    "id": "c39bb33fb0bb",
+    "title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
     "country": "United States",
-    "city": "Chicago",
-    "category": "conflict",
-    "severity": 3,
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-10-31T10:00:41+00:00"
+    "time": "2026-11-01T08:18:23+00:00"
    },
    {
     "id": "149d333800d6",
@@ -363,17 +465,19 @@
     "time": "2026-11-01T03:18:02+00:00"
    }
   ],
-  "Sub-Saharan Africa": [
+  "Oceania": [
    {
-    "id": "882435ea5767",
-    "title": "Drone strikes in Ethiopia kill at least 25: witnesses",
-    "country": "Ethiopia",
+    "id": "f0c0bb2b6879",
+    "title": "M5.2 earthquake, 200 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-10-31T09:11:48+00:00"
-   },
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-31T22:42:39.540000+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
    {
     "id": "9af1519c0682",
     "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
@@ -387,6 +491,16 @@
    {
     "id": "9afeffb434d5",
     "title": "Green forest fire notification in Sudan, Ethiopia",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-10-31T16:44:52+00:00"
+   },
+   {
+    "id": "16ee52970a2d",
+    "title": "Green forest fire notification in Ethiopia, Sudan",
     "country": "Ethiopia",
     "city": null,
     "category": "hazard",
@@ -413,100 +527,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-10-31T15:16:20+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "e85eb27525fd",
-    "title": "India’s largest dam planned to counter China faces Indigenous revolt",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T03:19:28+00:00"
-   },
-   {
-    "id": "0678114993b2",
-    "title": "Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-01T02:23:45+00:00"
-   },
-   {
-    "id": "97110a195acc",
-    "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T00:12:07+00:00"
-   },
-   {
-    "id": "655fff866f87",
-    "title": "Green flood alert in Bhutan",
-    "country": "Bhutan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T10:30:43+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "f0c0bb2b6879",
-    "title": "M5.2 earthquake, 200 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T22:42:39.540000+00:00"
-   },
-   {
-    "id": "eb75535cf89f",
-    "title": "M5.0 earthquake, 196 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T11:31:12.352000+00:00"
-   },
-   {
-    "id": "dae5e9810281",
-    "title": "M4.9 earthquake, 236 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T09:18:32.051000+00:00"
-   },
-   {
-    "id": "a1f5388b3347",
-    "title": "M4.9 earthquake, 213 km W of Sola, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T09:15:52.568000+00:00"
-   },
-   {
-    "id": "3b5bffe7d264",
-    "title": "Storm warnings for Melbourne, Canberra, Sydney and Brisbane as cold front ‘packs a punch’",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-10-31T06:05:20+00:00"
    }
   ]
  }

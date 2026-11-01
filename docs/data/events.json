@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-01T04:46:42.279002+00:00",
+ "generated": "2026-11-01T11:42:43.851304+00:00",
  "sample": false,
- "count": 492,
+ "count": 493,
  "events": [
+  {
+   "title": "Red notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.156 million .",
+   "summary": "From 01/11/2026 to 01/11/2026, a Tropical Storm (maximum wind speed of 120 km/h) FOUR-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 1.156 million .",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001346",
+   "time": "2026-11-01T02:23:45+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "India",
+   "city": null,
+   "lat": 12.2,
+   "lon": 84.8,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001346",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "4f05a40ab1a1",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
   {
    "title": "At least 14 people killed in attack on Ukraine train station",
    "summary": "",
@@ -29,34 +57,6 @@
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "At least 13 killed in 'horrific' Russian drone strike at Ukraine train station",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station",
-   "time": "2026-10-29T11:36:35+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Russia",
-   "city": "Moscow",
-   "lat": null,
-   "lon": null,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-29T13:37:56.956414+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c203442387f7",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
    "watch": []
   },
   {
@@ -790,34 +790,6 @@
    "watch": []
   },
   {
-   "title": "After years under fire, a rare quiet settles over Ukrainian city as truce holds",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261029-after-years-under-fire-a-rare-quiet-settles-over-ukrainian-city-as-truce-holds",
-   "time": "2026-10-29T10:26:57+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261029-after-years-under-fire-a-rare-quiet-settles-over-ukrainian-city-as-truce-holds",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-29T13:37:56.956414+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3ac6e004b71f",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
@@ -904,34 +876,6 @@
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "Serbian police shoot dead assailant at Israeli Embassy",
-   "summary": "",
-   "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-10-28T08:48:00+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Serbia",
-   "city": "Belgrade",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T15:45:41.205699+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "5728e3ce681c",
-   "flag": "🇷🇸",
-   "region": "Eastern Europe",
-   "baseline": 2.13,
    "watch": []
   },
   {
@@ -1413,6 +1357,90 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Yemeni government forces seize strategic positions in al-Jawf",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
+   "time": "2026-11-01T10:08:55+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5c4d63c9712a",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says",
+   "summary": "",
+   "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
+   "time": "2026-11-01T09:30:23+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "24da3b36a8b6",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "General Staff: Russia has lost 1,590,270 troops in Ukraine since Feb. 24, 2022",
+   "summary": "",
+   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-590-270-troops-in-ukraine-since-feb-24-2022/",
+   "time": "2026-11-01T08:01:08+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-590-270-troops-in-ukraine-since-feb-24-2022/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "589c47827826",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -3676,174 +3704,6 @@
    "watch": []
   },
   {
-   "title": "'Russia's mass murder:' Drone strike on Dnipro station kills 14 amid deadly daytime attacks on Chernihiv, Kremenchuk",
-   "summary": "",
-   "url": "https://kyivindependent.com/breaking-russia-strikes-train-at-dnipro-station-with-jet-powered-drone-at-least-13-dead/",
-   "time": "2026-10-29T10:01:12+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/breaking-russia-strikes-train-at-dnipro-station-with-jet-powered-drone-at-least-13-dead/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-29T19:14:15.216240+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "bf7db703c005",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "'Russia's mass murder:' Drone strike on Dnipro station kills 15 amid deadly daytime attacks on Chernihiv, Kremenchuk",
-   "summary": "",
-   "url": "https://kyivindependent.com/breaking-russia-strikes-train-at-dnipro-station-with-jet-powered-drone-at-least-13-dead/",
-   "time": "2026-10-29T10:01:12+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/breaking-russia-strikes-train-at-dnipro-station-with-jet-powered-drone-at-least-13-dead/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-30T09:41:18.231860+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "2a85d2bdb92d",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "US imposes sanctions on Rwandan defence ministry over links to Congo rebels",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/29/us-imposes-sanctions-on-rwandan-defence-ministry-over-links-to-congo-rebels/",
-   "time": "2026-10-29T09:25:03+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Rwanda",
-   "city": "Kigali",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/29/us-imposes-sanctions-on-rwandan-defence-ministry-over-links-to-congo-rebels/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-29T13:37:56.956414+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "b4f19914baf8",
-   "flag": "🇷🇼",
-   "region": "Sub-Saharan Africa",
-   "baseline": 2.72,
-   "watch": []
-  },
-  {
-   "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-29T08:23:31+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ethiopia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-29T13:37:56.956414+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "261f40cfc985",
-   "flag": "🇪🇹",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.2,
-   "watch": []
-  },
-  {
-   "title": "General Staff: Russia has lost 1,584,910 troops in Ukraine since Feb. 24, 2022",
-   "summary": "",
-   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-584-910-troops-in-ukraine-since-feb-24-2022/",
-   "time": "2026-10-29T07:33:29+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-584-910-troops-in-ukraine-since-feb-24-2022/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-29T13:37:56.956414+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "60fe836af332",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-29T06:24:56+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Brazil",
-   "city": "Salvador",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-29T13:37:56.956414+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c8f9e32648d4",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
-   "watch": []
-  },
-  {
    "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
    "summary": "",
    "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
@@ -4796,34 +4656,6 @@
    "watch": []
   },
   {
-   "title": "M5.8 earthquake, 196 km NW of Port-Olry, Vanuatu",
-   "summary": "Depth 11 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb",
-   "time": "2026-10-27T08:55:23.290000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.9141,
-   "lon": 165.6671,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-27T14:37:14.599106+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "7bef91383385",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
    "title": "Flavio Bolsonaro vows to lead opposition after Brazil court imposes travel ban",
    "summary": "",
    "url": "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
@@ -5190,6 +5022,352 @@
    "flag": "🇮🇱",
    "region": "Middle East & N. Africa",
    "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Youth-led rallies sweep Europe",
+   "summary": "",
+   "url": "https://www.france24.com/en/youth-led-rallies-sweep-europe",
+   "time": "2026-11-01T09:38:00+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/youth-led-rallies-sweep-europe",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4067f3573d61",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "How social media are central to protests",
+   "summary": "",
+   "url": "https://www.france24.com/en/how-social-media-are-central-to-protests",
+   "time": "2026-11-01T09:36:20+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/how-social-media-are-central-to-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e8350b222282",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Hundreds of thousands protest in France for \"Act III\"",
+   "summary": "",
+   "url": "https://www.france24.com/en/hundreds-of-thousands-protest-in-france-for-act-iii",
+   "time": "2026-11-01T09:35:02+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Marseille",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/hundreds-of-thousands-protest-in-france-for-act-iii",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "085ecfc14133",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Israeli protesters urge Jewish-Arab coalition government",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-protesters-urge-jewish-arab-coalition-government?traffic_source=rss",
+   "time": "2026-11-01T09:24:52+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-protesters-urge-jewish-arab-coalition-government?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "12f91c02af7e",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "M4.8 earthquake, 33 km SE of Jiufen, Taiwan",
+   "summary": "Depth 119 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tunq",
+   "time": "2026-11-01T08:20:07.549000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Taiwan",
+   "city": null,
+   "lat": 24.8805,
+   "lon": 122.0621,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tunq",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "88afdd503e92",
+   "flag": "🇹🇼",
+   "region": "East & SE Asia",
+   "baseline": 1.19,
+   "watch": []
+  },
+  {
+   "title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss",
+   "time": "2026-11-01T08:18:23+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "United States",
+   "city": "New York",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c39bb33fb0bb",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Bangladesh forms wage board as garment workers protest",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/1/bangladesh-forms-wage-board-amid-garment-worker-protests?traffic_source=rss",
+   "time": "2026-11-01T08:13:00+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Bangladesh",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/bangladesh-forms-wage-board-amid-garment-worker-protests?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "0595d7f02258",
+   "flag": "🇧🇩",
+   "region": "South Asia",
+   "baseline": 3.12,
+   "watch": []
+  },
+  {
+   "title": "Cape Verde president rallies supporters as campaigns kick off",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/11/01/cape-verde-president-rallies-supporters-as-campaigns-kick-off/",
+   "time": "2026-11-01T08:12:14+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Cabo Verde",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/11/01/cape-verde-president-rallies-supporters-as-campaigns-kick-off/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "1ae66f03b387",
+   "flag": "🇨🇻",
+   "region": "Latin America & Caribbean",
+   "baseline": 1.81,
+   "watch": []
+  },
+  {
+   "title": "No, France is not ‘burning’",
+   "summary": "",
+   "url": "https://www.aljazeera.com/opinions/2026/11/1/no-france-is-not?traffic_source=rss",
+   "time": "2026-11-01T07:56:52+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/opinions/2026/11/1/no-france-is-not?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ff7944026e07",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Indian opposition parties stage mega rally seeking election chief’s resignation",
+   "summary": "",
+   "url": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
+   "time": "2026-11-01T06:24:17+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": "Delhi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
+     "tier": "B"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "B1",
+   "corroboration": 3,
+   "id": "d99437f9e85a",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "Indian forces tighten security in Delhi ahead of big opposition protest",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+   "time": "2026-11-01T06:20:58+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "India",
+   "city": "Delhi",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7151338a8485",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "M4.8 earthquake, 71 km NNW of San Antonio de los Cobres, Argentina",
+   "summary": "Depth 202 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy",
+   "time": "2026-11-01T05:31:54.598000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Argentina",
+   "city": null,
+   "lat": -23.6386,
+   "lon": -66.6315,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "b96d1f86ada4",
+   "flag": "🇦🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.14,
    "watch": []
   },
   {
@@ -5852,6 +6030,34 @@
    "watch": []
   },
   {
+   "title": "🔴 Live: Interior ministry says some 320,000 people protest across France as unrest flares",
+   "summary": "",
+   "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
+   "time": "2026-10-31T16:45:06+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a5b3396ef358",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
    "title": "Green forest fire notification in Sudan, Ethiopia",
    "summary": "On 20/10/2026, a forest fire started in Sudan, Ethiopia, until 31/10/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033378",
@@ -5874,6 +6080,34 @@
    "confidence": "A1",
    "corroboration": 1,
    "id": "9afeffb434d5",
+   "flag": "🇪🇹",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.2,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Ethiopia, Sudan",
+   "summary": "On 20/10/2026, a forest fire started in Ethiopia, Sudan, until 31/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033378",
+   "time": "2026-10-31T16:44:52+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Ethiopia",
+   "city": null,
+   "lat": 12.4369504765811,
+   "lon": 35.256906151428026,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033378",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "16ee52970a2d",
    "flag": "🇪🇹",
    "region": "Sub-Saharan Africa",
    "baseline": 4.2,
@@ -7728,6 +7962,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Botswana, South Africa",
+   "summary": "On 27/10/2026, a forest fire started in Botswana, South Africa, until 31/10/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033307",
+   "time": "2026-10-30T12:03:46+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Botswana",
+   "city": null,
+   "lat": -25.520564204557456,
+   "lon": 24.675667852260695,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033307",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-01T11:42:43.851304+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "242bb3870d77",
+   "flag": "🇧🇼",
+   "region": "Sub-Saharan Africa",
+   "baseline": 1.9,
+   "watch": []
+  },
+  {
    "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
    "summary": "",
    "url": "https://news.un.org/feed/view/en/story/2026/10/1168708",
@@ -8033,62 +8295,6 @@
    "flag": "🇵🇭",
    "region": "East & SE Asia",
    "baseline": 3.11,
-   "watch": []
-  },
-  {
-   "title": "French minister warns of 'very high' violence risk as country braces for Halloween protests",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261030-french-minister-warns-of-very-high-violence-risk-as-country-braces-for-halloween-protests",
-   "time": "2026-10-30T06:57:15+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261030-french-minister-warns-of-very-high-violence-risk-as-country-braces-for-halloween-protests",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T09:41:18.231860+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "62055b0bfa45",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Battle lines redrawn in Spain’s snap election after latest train disaster",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
-   "time": "2026-10-30T06:00:47+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Spain",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T09:41:18.231860+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d061e944e54c",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -11347,34 +11553,6 @@
    "watch": []
   },
   {
-   "title": "M4.6 earthquake, 100 km W of El Aguilar, Argentina",
-   "summary": "Depth 206 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs",
-   "time": "2026-10-27T11:41:22.141000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Argentina",
-   "city": null,
-   "lat": -23.1819,
-   "lon": -66.6616,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-27T14:37:14.599106+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "e98d59566117",
-   "flag": "🇦🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.14,
-   "watch": []
-  },
-  {
    "title": "El Salvador",
    "summary": "New information about Ebola-related health measures and quarantine requirements for some travellers (‘Entry requirements’ page).",
    "url": "https://www.gov.uk/foreign-travel-advice/el-salvador",
@@ -11400,118 +11578,6 @@
    "flag": "🇧🇷",
    "region": "Latin America & Caribbean",
    "baseline": 3.13,
-   "watch": []
-  },
-  {
-   "title": "Turkey: tornado kills at least four workers at Antalya construction site",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/27/turkey-tornado-kills-at-least-four-workers-at-antalya-construction-site/",
-   "time": "2026-10-27T10:39:38+00:00",
-   "tier": "C",
-   "category": "hazard",
-   "country": "Turkey",
-   "city": "Istanbul",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/27/turkey-tornado-kills-at-least-four-workers-at-antalya-construction-site/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-27T14:37:14.599106+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "1ede3076ea46",
-   "flag": "🇹🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.78,
-   "watch": []
-  },
-  {
-   "title": "Heavy rains trigger massive flooding in Ecuador’s largest city",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss",
-   "time": "2026-10-27T09:38:59+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Ecuador",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T14:37:14.599106+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "87739acdf5e7",
-   "flag": "🇪🇨",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.18,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.",
-   "summary": "On 10/27/2026 8:55:23 AM, an earthquake occurred in Vanuatu potentially affecting 1 thousand in MMI III. The earthquake had Magnitude 5.8M, Depth:10km.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574115",
-   "time": "2026-10-27T09:09:39+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.8962,
-   "lon": 165.6262,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574115",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-27T14:37:14.599106+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "f5524ecd7788",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "M5.0 earthquake, 95 km NNE of Hihifo, Tonga",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc",
-   "time": "2026-10-27T09:07:45.122000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Tonga",
-   "city": null,
-   "lat": -15.1739,
-   "lon": -173.4094,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-27T14:37:14.599106+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "cdd8aec06f80",
-   "flag": "🇹🇴",
-   "region": "Oceania",
-   "baseline": 1.93,
    "watch": []
   },
   {
@@ -13808,34 +13874,6 @@
    "flag": "🇮🇹",
    "region": "Western Europe",
    "baseline": 1.48,
-   "watch": []
-  },
-  {
-   "title": "Ukraine",
-   "summary": "Updated information about the Russian invasion of Ukraine ('Warnings and insurance' page).",
-   "url": "https://www.gov.uk/foreign-travel-advice/ukraine",
-   "time": "2026-10-02T08:30:25+00:00",
-   "tier": "A",
-   "category": "advisory",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "UK FCDO travel advice updates",
-     "url": "https://www.gov.uk/foreign-travel-advice/ukraine",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-03T01:15:07.964179+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "d978202a5983",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
    "watch": []
   },
   {
