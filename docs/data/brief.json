@@ -1,98 +1,16 @@
 {
- "generated": "2026-11-02T00:51:14.039794+00:00",
+ "generated": "2026-11-02T07:20:35.830736+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 41,
+  "2": 40,
   "3": 15,
-  "4": 9,
-  "5": 3
+  "4": 8,
+  "5": 0
  },
  "watch_hits": [],
  "regions": {
-  "South Asia": [
-   {
-    "id": "4f05a40ab1a1",
-    "title": "Red notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.156 million .",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-11-01T02:23:45+00:00"
-   },
-   {
-    "id": "9f16afff42ef",
-    "title": "Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.204 million .",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-11-01T02:23:45+00:00"
-   },
-   {
-    "id": "1ad3d9c3e150",
-    "title": "Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.196 million .",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-11-01T02:23:45+00:00"
-   },
-   {
-    "id": "2118ce45583f",
-    "title": "India's opposition holds mega rally seeking election chief's resignation",
-    "country": "India",
-    "city": "Delhi",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T07:00:55+00:00"
-   },
-   {
-    "id": "d99437f9e85a",
-    "title": "Indian opposition parties stage mega rally seeking election chief’s resignation",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-11-01T06:24:17+00:00"
-   },
-   {
-    "id": "a6af2b5cf579",
-    "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-11-01T16:11:50+00:00"
-   },
-   {
-    "id": "0fcc035321a5",
-    "title": "Bangladesh workers clash with police in protests over low pay",
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T16:52:42+00:00"
-   },
-   {
-    "id": "a89753a3ac85",
-    "title": "India protesters march with 1km banner of deleted voters’ names",
-    "country": "India",
-    "city": "Delhi",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T16:42:18+00:00"
-   }
-  ],
   "Eastern Europe": [
    {
     "id": "be5b5b25b3f7",
@@ -155,6 +73,16 @@
     "time": "2026-11-01T13:50:56+00:00"
    },
    {
+    "id": "cdeb7951bc32",
+    "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-01T22:15:14+00:00"
+   },
+   {
     "id": "92c464419ffd",
     "title": "Ukraine war latest: Russian oil refinery in Kstovo ablaze after reported overnight drone strike",
     "country": "Ukraine",
@@ -163,16 +91,6 @@
     "severity": 3,
     "confidence": "C2",
     "time": "2026-11-01T16:59:37+00:00"
-   },
-   {
-    "id": "cdeb7951bc32",
-    "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T22:15:14+00:00"
    }
   ],
   "Oceania": [
@@ -187,14 +105,14 @@
     "time": "2026-11-01T11:47:03.778000+00:00"
    },
    {
-    "id": "85f11ba2b5ed",
-    "title": "M5.4 earthquake, 203 km NW of Port-Olry, Vanuatu",
+    "id": "5ea25b57c949",
+    "title": "M4.7 earthquake, 191 km NW of Port-Olry, Vanuatu",
     "country": "Vanuatu",
     "city": null,
     "category": "hazard",
     "severity": 4,
     "confidence": "A1",
-    "time": "2026-11-01T06:26:42.287000+00:00"
+    "time": "2026-11-01T07:37:47.343000+00:00"
    },
    {
     "id": "d7c6cceaea25",
@@ -227,213 +145,17 @@
     "time": "2026-11-01T12:02:33+00:00"
    }
   ],
-  "Latin America & Caribbean": [
-   {
-    "id": "19e1609faf40",
-    "title": "Bolivia declares state of emergency over El Nino weather pattern",
-    "country": "Bolivia",
-    "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-01T04:04:40+00:00"
-   },
-   {
-    "id": "62c52b0cb259",
-    "title": "M4.5 earthquake, 86 km WNW of Abra Pampa, Argentina",
-    "country": "Argentina",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-01T23:18:05.811000+00:00"
-   },
-   {
-    "id": "d67fce5c21fb",
-    "title": "Video captures house collapsing due to Ecuador floods",
-    "country": "Ecuador",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T19:56:47+00:00"
-   },
-   {
-    "id": "51a71c5ed6b5",
-    "title": "Ecuador",
-    "country": "Ecuador",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-01T19:30:00+00:00"
-   },
-   {
-    "id": "1ae66f03b387",
-    "title": "Cape Verde president rallies supporters as campaigns kick off",
-    "country": "Cabo Verde",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-01T08:12:14+00:00"
-   },
-   {
-    "id": "b96d1f86ada4",
-    "title": "M4.8 earthquake, 71 km NNW of San Antonio de los Cobres, Argentina",
-    "country": "Argentina",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-01T05:31:54.598000+00:00"
-   },
-   {
-    "id": "310e99a1fe03",
-    "title": "M4.5 earthquake, 55 km SSW of Ollagüe, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-01T01:24:52.448000+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "3aaf6dcfa351",
-    "title": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
-    "country": "United States",
-    "city": "Dallas",
-    "category": "crime",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-02T00:49:01+00:00"
-   },
-   {
-    "id": "3c2f25987831",
-    "title": "Multiple shootings in Dallas leave four dead and 15 injured on Halloween night",
-    "country": "United States",
-    "city": "Dallas",
-    "category": "crime",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T16:24:18+00:00"
-   },
-   {
-    "id": "0afeee2330c2",
-    "title": "Republican senator Dan Sullivan says he will accept Alaska election results",
-    "country": "United States",
-    "city": "New York",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T15:39:02+00:00"
-   },
-   {
-    "id": "8a3a67fede83",
-    "title": "Director Michael Mann accidentally shoots himself in the leg at gun range",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T16:39:37+00:00"
-   },
-   {
-    "id": "9a3c9cac0b7f",
-    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-    "country": "United States",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T12:00:12+00:00"
-   },
-   {
-    "id": "c39bb33fb0bb",
-    "title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T08:18:23+00:00"
-   },
-   {
-    "id": "149d333800d6",
-    "title": "Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’",
-    "country": "United States",
-    "city": "New York",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T03:56:49+00:00"
-   },
-   {
-    "id": "73d5545bff9e",
-    "title": "The murder of Javits Frimpong, a bullied schoolboy in The Bronx",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T03:18:02+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "bff21e228e11",
-    "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-    "country": "Israel",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T17:30:45+00:00"
-   },
-   {
-    "id": "92a572b6dba9",
-    "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T13:36:16+00:00"
-   },
-   {
-    "id": "5c4d63c9712a",
-    "title": "Yemeni government forces seize strategic positions in al-Jawf",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T10:08:55+00:00"
-   },
-   {
-    "id": "12f91c02af7e",
-    "title": "Israeli protesters urge Jewish-Arab coalition government",
-    "country": "Israel",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T09:24:52+00:00"
-   },
-   {
-    "id": "93caf306b60a",
-    "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
-    "country": "Israel",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T02:05:40+00:00"
-   }
-  ],
   "Western Europe": [
+   {
+    "id": "35998d29ca87",
+    "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-02T06:00:33+00:00"
+   },
    {
     "id": "b08003a8b2ed",
     "title": "Attempted murder probe after petrol bomb thrown at French riot police",
@@ -443,6 +165,16 @@
     "severity": 2,
     "confidence": "B1",
     "time": "2026-11-01T16:24:38+00:00"
+   },
+   {
+    "id": "554b0b79bf7c",
+    "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-02T00:15:30+00:00"
    },
    {
     "id": "5250adc93872",
@@ -493,41 +225,205 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-01T11:57:48+00:00"
-   },
-   {
-    "id": "4067f3573d61",
-    "title": "Youth-led rallies sweep Europe",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T09:38:00+00:00"
-   },
-   {
-    "id": "e8350b222282",
-    "title": "How social media are central to protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T09:36:20+00:00"
    }
   ],
-  "Sub-Saharan Africa": [
+  "North America": [
    {
-    "id": "f2adf0ba0f0e",
-    "title": "Green forest fire notification in Central African Republic, Sudan",
-    "country": "CAR",
+    "id": "3aaf6dcfa351",
+    "title": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
+    "country": "United States",
+    "city": "Dallas",
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-02T00:49:01+00:00"
+   },
+   {
+    "id": "3c2f25987831",
+    "title": "Multiple shootings in Dallas leave four dead and 15 injured on Halloween night",
+    "country": "United States",
+    "city": "Dallas",
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-01T16:24:18+00:00"
+   },
+   {
+    "id": "0afeee2330c2",
+    "title": "Republican senator Dan Sullivan says he will accept Alaska election results",
+    "country": "United States",
+    "city": "New York",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-01T15:39:02+00:00"
+   },
+   {
+    "id": "21719237f032",
+    "title": "U.S. National Cathedral holds special prayer for Ukrainian children",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-02T01:54:08+00:00"
+   },
+   {
+    "id": "8a3a67fede83",
+    "title": "Director Michael Mann accidentally shoots himself in the leg at gun range",
+    "country": "United States",
+    "city": "Los Angeles",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T16:39:37+00:00"
+   },
+   {
+    "id": "9a3c9cac0b7f",
+    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+    "country": "United States",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T12:00:12+00:00"
+   },
+   {
+    "id": "c39bb33fb0bb",
+    "title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
+    "country": "United States",
+    "city": "New York",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T08:18:23+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "bff21e228e11",
+    "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+    "country": "Israel",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-01T17:30:45+00:00"
+   },
+   {
+    "id": "92a572b6dba9",
+    "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-01T13:36:16+00:00"
+   },
+   {
+    "id": "5c4d63c9712a",
+    "title": "Yemeni government forces seize strategic positions in al-Jawf",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-01T10:08:55+00:00"
+   },
+   {
+    "id": "01578b7bdc69",
+    "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+    "country": "Iran",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-02T06:00:54+00:00"
+   },
+   {
+    "id": "12f91c02af7e",
+    "title": "Israeli protesters urge Jewish-Arab coalition government",
+    "country": "Israel",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T09:24:52+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "a6af2b5cf579",
+    "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-11-01T16:11:50+00:00"
+   },
+   {
+    "id": "1443c0d82fe9",
+    "title": "Bangladesh garment factories disrupted as protests continue for third day",
+    "country": "Bangladesh",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-02T07:08:28+00:00"
+   },
+   {
+    "id": "0fcc035321a5",
+    "title": "Bangladesh workers clash with police in protests over low pay",
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T16:52:42+00:00"
+   },
+   {
+    "id": "a89753a3ac85",
+    "title": "India protesters march with 1km banner of deleted voters’ names",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T16:42:18+00:00"
+   },
+   {
+    "id": "0595d7f02258",
+    "title": "Bangladesh forms wage board as garment workers protest",
+    "country": "Bangladesh",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T08:13:00+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "644f9bb71ae3",
+    "title": "M4.5 earthquake, 135 km SW of Lorengau, Papua New Guinea",
+    "country": "Papua New Guinea",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-02T00:28:01+00:00"
-   }
-  ],
-  "East & SE Asia": [
+    "time": "2026-11-02T02:24:03.097000+00:00"
+   },
+   {
+    "id": "49ceb935be6c",
+    "title": "M4.5 earthquake, 64 km SE of Yilan, Taiwan",
+    "country": "Taiwan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-02T02:23:08.566000+00:00"
+   },
    {
     "id": "2c5ea39358df",
     "title": "M4.6 earthquake, 101 km SW of Basco, Philippines",
@@ -567,6 +463,60 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-01T08:20:07.549000+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "f2adf0ba0f0e",
+    "title": "Green forest fire notification in Central African Republic, Sudan",
+    "country": "CAR",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-02T00:28:01+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "62c52b0cb259",
+    "title": "M4.5 earthquake, 86 km WNW of Abra Pampa, Argentina",
+    "country": "Argentina",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T23:18:05.811000+00:00"
+   },
+   {
+    "id": "d67fce5c21fb",
+    "title": "Video captures house collapsing due to Ecuador floods",
+    "country": "Ecuador",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T19:56:47+00:00"
+   },
+   {
+    "id": "51a71c5ed6b5",
+    "title": "Ecuador",
+    "country": "Ecuador",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T19:30:00+00:00"
+   },
+   {
+    "id": "1ae66f03b387",
+    "title": "Cape Verde president rallies supporters as campaigns kick off",
+    "country": "Cabo Verde",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-01T08:12:14+00:00"
    }
   ]
  }

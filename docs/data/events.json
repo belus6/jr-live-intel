@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-02T00:51:14.039794+00:00",
+ "generated": "2026-11-02T07:20:35.830736+00:00",
  "sample": false,
- "count": 478,
+ "count": 465,
  "events": [
   {
    "title": "Red notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.156 million .",
@@ -458,6 +458,34 @@
    "confidence": "A1",
    "corroboration": 1,
    "id": "b0e68d05c883",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 191 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tung",
+   "time": "2026-11-01T07:37:47.343000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.9872,
+   "lon": 165.6642,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tung",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "5ea25b57c949",
    "flag": "🇻🇺",
    "region": "Oceania",
    "baseline": 2.48,
@@ -1113,34 +1141,6 @@
    "watch": []
   },
   {
-   "title": "M5.5 earthquake, 221 km NW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld",
-   "time": "2026-10-28T01:39:11.004000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.8946,
-   "lon": 165.389,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-28T02:21:15.351159+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "3709945a38d8",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
    "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
    "summary": "",
    "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
@@ -1194,34 +1194,6 @@
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-   "time": "2026-10-26T06:44:33+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Canada",
-   "city": "Montreal",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-26T13:16:14.380188+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "789875cf7e34",
-   "flag": "🇨🇦",
-   "region": "North America",
-   "baseline": 1.05,
    "watch": []
   },
   {
@@ -1594,6 +1566,62 @@
    "watch": []
   },
   {
+   "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+   "time": "2026-11-02T06:00:33+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "35998d29ca87",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "Russia and Ukraine accuse each other of hacking emergency alert apps",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
+   "time": "2026-11-02T01:20:44+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "1f1d109a95ea",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
    "title": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
    "summary": "",
    "url": "https://www.france24.com/en/americas/20261102-halloween-weekend-shootings-across-us-leave-at-least-six-dead-dozens-wounded",
@@ -1638,11 +1666,16 @@
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
      "tier": "B"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-11-02T00:51:14.039794+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B2",
+   "corroboration": 2,
    "id": "cdeb7951bc32",
    "flag": "🇷🇺",
    "region": "Eastern Europe",
@@ -3289,34 +3322,6 @@
    "watch": []
   },
   {
-   "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
-   "time": "2026-10-30T01:05:26+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Kenya",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T02:47:23.641382+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "28af50802aeb",
-   "flag": "🇰🇪",
-   "region": "Sub-Saharan Africa",
-   "baseline": 2.97,
-   "watch": []
-  },
-  {
    "title": "Student-backed election winners demand sweeping resignations in Serbia",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
@@ -4773,92 +4778,227 @@
    "watch": []
   },
   {
-   "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+   "title": "Bangladesh garment factories disrupted as protests continue for third day",
    "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-   "time": "2026-10-26T05:53:54+00:00",
+   "url": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss",
+   "time": "2026-11-02T07:08:28+00:00",
    "tier": "B",
-   "category": "political",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-26T06:14:37.338465+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "43cfa4c4bc7e",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
-   "time": "2026-10-26T02:59:50+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Brazil",
+   "category": "unrest",
+   "country": "Bangladesh",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-26T06:14:37.338465+00:00",
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
    "confidence": "B3",
    "corroboration": 1,
-   "id": "151d01c40b3d",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
+   "id": "1443c0d82fe9",
+   "flag": "🇧🇩",
+   "region": "South Asia",
+   "baseline": 3.12,
    "watch": []
   },
   {
-   "title": "🔴 Live: Bolsonaro refuses to recognise Brazil election results",
+   "title": "Iran killed her teenage daughter - now she is facing up to the regime",
    "summary": "",
-   "url": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-   "time": "2026-10-26T02:01:30+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-02T06:00:54+00:00",
    "tier": "B",
-   "category": "political",
-   "country": "Brazil",
+   "category": "unrest",
+   "country": "Iran",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-     "tier": "B"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-26T06:14:37.338465+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "52d13ac4ad31",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "01578b7bdc69",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "M4.6 earthquake, 201 km NE of Kuril’sk, Russia",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
+   "time": "2026-11-02T04:45:48.110000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Russia",
+   "city": null,
+   "lat": 46.6019,
+   "lon": 149.5786,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "27cb45c3502a",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "'Suspicious object' enters Latvian airspace near Belarus, Russia border",
+   "summary": "",
+   "url": "https://kyivindependent.com/suspicious-object-enters-latvian-airspace-near-belarus-russia-border/",
+   "time": "2026-11-02T03:46:45+00:00",
+   "tier": "C",
+   "category": "transport",
+   "country": "Belarus",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/suspicious-object-enters-latvian-airspace-near-belarus-russia-border/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "4239d3d85474",
+   "flag": "🇧🇾",
+   "region": "Eastern Europe",
+   "baseline": 3.78,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 135 km SW of Lorengau, Papua New Guinea",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tute",
+   "time": "2026-11-02T02:24:03.097000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -2.9446,
+   "lon": 146.4573,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tute",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "644f9bb71ae3",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 64 km SE of Yilan, Taiwan",
+   "summary": "Depth 55 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutf",
+   "time": "2026-11-02T02:23:08.566000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Taiwan",
+   "city": null,
+   "lat": 24.322,
+   "lon": 122.1775,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutf",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "49ceb935be6c",
+   "flag": "🇹🇼",
+   "region": "East & SE Asia",
+   "baseline": 1.19,
+   "watch": []
+  },
+  {
+   "title": "U.S. National Cathedral holds special prayer for Ukrainian children",
+   "summary": "",
+   "url": "https://kyivindependent.com/u-s-national-cathedral-holds-special-prayer-for-ukrainian-children/",
+   "time": "2026-11-02T01:54:08+00:00",
+   "tier": "C",
+   "category": "crime",
+   "country": "United States",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/u-s-national-cathedral-holds-special-prayer-for-ukrainian-children/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "21719237f032",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+   "time": "2026-11-02T01:40:50+00:00",
+   "tier": "B",
+   "category": "cyber",
+   "country": "Russia",
+   "city": "Moscow",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "91e105608144",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
    "watch": []
   },
   {
@@ -4887,6 +5027,34 @@
    "flag": "🇨🇫",
    "region": "Sub-Saharan Africa",
    "baseline": 4.61,
+   "watch": []
+  },
+  {
+   "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-02T00:15:30+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "554b0b79bf7c",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -5956,6 +6124,34 @@
    "watch": []
   },
   {
+   "title": "Green notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+   "summary": "From 01/11/2026 to 02/11/2026, a Tropical Storm (maximum wind speed of 111 km/h) MURASU-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0 (0 in tropical storm).",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001346",
+   "time": "2026-11-01T02:23:45+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "India",
+   "city": null,
+   "lat": 13.5,
+   "lon": 81.8,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001346",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "113b894c6369",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
    "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
@@ -6727,6 +6923,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Sudan, South Sudan",
+   "summary": "On 29/10/2026, a forest fire started in Sudan, South Sudan, until 01/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033365",
+   "time": "2026-10-31T16:06:09+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Sudan",
+   "city": null,
+   "lat": 9.363041801651946,
+   "lon": 26.652113332156137,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033365",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-02T07:20:35.830736+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "6ca086297cd6",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
    "title": "M5.2 earthquake, 4 km S of Bajo Corral, Panama",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf",
@@ -7315,174 +7539,6 @@
    "watch": []
   },
   {
-   "title": "‘Reparations now’: King and Burham face protests at Antigua Commonwealth summit",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/31/protests-expected-king-charles-reparations-slave-trade-commonwealth-summit-antigua",
-   "time": "2026-10-31T06:00:37+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "United Kingdom",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/31/protests-expected-king-charles-reparations-slave-trade-commonwealth-summit-antigua",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-31T06:19:22.972486+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "6521cf381ac6",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
-   "watch": []
-  },
-  {
-   "title": "Live: France’s top court bans Halloween protest in the heart of Paris, permits route on outskirts",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-   "time": "2026-10-31T05:53:27+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-31T12:56:33.755035+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "db44f62c01fb",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Live: Interior ministry says some 320,000 people protest across France as unrest flares",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-   "time": "2026-10-31T05:53:27+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-31T17:33:53.225902+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "64edd9859916",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Live: Interior minister says protests across France went well despite clashes with police",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-   "time": "2026-10-31T05:53:27+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-31T20:41:02.105514+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "cefe3efd0ac4",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Interior minister says protests across France went well despite clashes with police",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-   "time": "2026-10-31T05:53:27+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-31T23:46:53.757232+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "e2a31bfeb06c",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
-   "time": "2026-10-31T04:27:25+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Poland",
-   "city": "Warsaw",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-31T06:19:22.972486+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "bebab1ffc89c",
-   "flag": "🇵🇱",
-   "region": "Eastern Europe",
-   "baseline": 1.31,
-   "watch": []
-  },
-  {
    "title": "Green forest fire notification in South Sudan, Sudan",
    "summary": "On 21/10/2026, a forest fire started in South Sudan, Sudan, until 01/11/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033337",
@@ -7508,34 +7564,6 @@
    "flag": "🇸🇩",
    "region": "Middle East & N. Africa",
    "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
-   "time": "2026-10-31T03:27:21+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-31T06:19:22.972486+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c121f7187544",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
    "watch": []
   },
   {
@@ -7592,34 +7620,6 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "Poland’s president joins protest amid constitutional crisis at top court",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
-   "time": "2026-10-31T02:24:00+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Poland",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-31T06:19:22.972486+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "dbb69c491cd8",
-   "flag": "🇵🇱",
-   "region": "Eastern Europe",
-   "baseline": 1.31,
    "watch": []
   },
   {
@@ -10540,258 +10540,6 @@
    "watch": []
   },
   {
-   "title": "M4.7 earthquake, 39 km SSW of Serrezuela, Argentina",
-   "summary": "Depth 186 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh",
-   "time": "2026-10-28T07:02:12.084000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Argentina",
-   "city": null,
-   "lat": -30.9564,
-   "lon": -65.5684,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-28T08:52:38.848740+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "30c9f968fa55",
-   "flag": "🇦🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.14,
-   "watch": []
-  },
-  {
-   "title": "M5.0 earthquake, 205 km SSE of Vilyuchinsk, Russia",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmb",
-   "time": "2026-10-28T06:12:47.777000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 51.2258,
-   "lon": 159.5373,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmb",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-28T08:52:38.848740+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "db4270194a78",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "M5.0 earthquake, 200 km W of Sola, Vanuatu",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2",
-   "time": "2026-10-28T04:31:04.089000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.7421,
-   "lon": 165.7007,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-28T08:52:38.848740+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "a271d39c389c",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Mali",
-   "summary": "On 23/10/2026, a forest fire started in Mali, until 29/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033266",
-   "time": "2026-10-28T04:22:56+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Mali",
-   "city": null,
-   "lat": 14.75954114849771,
-   "lon": -10.48657180928204,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033266",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-29T23:21:12.897931+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "14abf1c38efe",
-   "flag": "🇲🇱",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.62,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Mali, Senegal",
-   "summary": "On 24/10/2026, a forest fire started in Mali, Senegal, until 28/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033262",
-   "time": "2026-10-28T04:15:25+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Mali",
-   "city": null,
-   "lat": 14.075919314851118,
-   "lon": -11.997409122624797,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033262",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-29T13:37:56.956414+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "7b30af17c8c9",
-   "flag": "🇲🇱",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.62,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.",
-   "summary": "On 10/28/2026 2:59:48 AM, an earthquake occurred in Vanuatu potentially affecting 3 thousand in MMI III. The earthquake had Magnitude 5.6M, Depth:10km.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574271",
-   "time": "2026-10-28T03:19:52+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -14.0693,
-   "lon": 165.8001,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574271",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-30T02:47:23.641382+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "9be025522af4",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Sudan",
-   "summary": "On 19/10/2026, a forest fire started in Sudan, until 28/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033267",
-   "time": "2026-10-28T02:46:07+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Sudan",
-   "city": null,
-   "lat": 9.830710856846352,
-   "lon": 28.661720097125993,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033267",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-29T00:38:06.432900+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "5845a3df04eb",
-   "flag": "🇸🇩",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
-   "summary": "On 10/28/2026 1:39:11 AM, an earthquake occurred in Vanuatu Islands potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574251",
-   "time": "2026-10-28T01:55:22+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.8946,
-   "lon": 165.389,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1574251",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-28T02:21:15.351159+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "288e6b3f2017",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "M5.2 earthquake, 6 km NW of Balangonan, Philippines",
-   "summary": "Depth 46 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc",
-   "time": "2026-10-28T01:11:54.979000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Philippines",
-   "city": null,
-   "lat": 5.6079,
-   "lon": 125.3054,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-29T00:38:06.432900+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "5ffc4da06f54",
-   "flag": "🇵🇭",
-   "region": "East & SE Asia",
-   "baseline": 3.11,
-   "watch": []
-  },
-  {
    "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
    "summary": "",
    "url": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
@@ -12912,120 +12660,6 @@
    "confidence": "C2",
    "corroboration": 2,
    "id": "ed219394dba4",
-   "flag": "🇰🇪",
-   "region": "Sub-Saharan Africa",
-   "baseline": 2.97,
-   "watch": []
-  },
-  {
-   "title": "DR Congo: Ebola outbreak deepens mental health crisis amid stigma and conflict",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/19/dr-congo-ebola-outbreak-deepens-mental-health-crisis-amid-stigma-and-conflict/",
-   "time": "2026-10-19T06:08:48+00:00",
-   "tier": "C",
-   "category": "health",
-   "country": "DRC",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/19/dr-congo-ebola-outbreak-deepens-mental-health-crisis-amid-stigma-and-conflict/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "fb03ebe05817",
-   "flag": "🇨🇩",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "Seabird numbers bounce back in Solent region after 2022 avian flu wipeout",
-   "summary": "",
-   "url": "https://www.theguardian.com/environment/2026/oct/19/seabird-numbers-bounce-back-solent-region-avian-flu-rspb",
-   "time": "2026-10-19T06:00:21+00:00",
-   "tier": "B",
-   "category": "health",
-   "country": "United Kingdom",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/environment/2026/oct/19/seabird-numbers-bounce-back-solent-region-avian-flu-rspb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T06:56:53.562971+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f62e0e8eb0b2",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
-   "watch": []
-  },
-  {
-   "title": "Level 1 - Ebola Bundibugyo Virus Disease in Kenya",
-   "summary": "The Kenyan Ministry of Health has confirmed an imported case, as well as other linked cases, of Ebola disease caused by Bundibugyo virus in Nairobi, Kenya.",
-   "url": "https://wwwnc.cdc.gov/travel/notices/level1/ebola-kenya",
-   "time": "2026-10-19T04:00:00+00:00",
-   "tier": "A",
-   "category": "health",
-   "country": "Kenya",
-   "city": "Nairobi",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "CDC travel health notices",
-     "url": "https://wwwnc.cdc.gov/travel/notices/level1/ebola-kenya",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-20T18:36:49.404753+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "66eca7bb24a8",
-   "flag": "🇰🇪",
-   "region": "Sub-Saharan Africa",
-   "baseline": 2.97,
-   "watch": [
-    "Programme team, Nairobi"
-   ]
-  },
-  {
-   "title": "Kenya confirms eighth Ebola case amid widening regional outbreak",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss",
-   "time": "2026-10-19T01:07:52+00:00",
-   "tier": "B",
-   "category": "health",
-   "country": "Kenya",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-19T01:44:26.337192+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "36257b005db9",
    "flag": "🇰🇪",
    "region": "Sub-Saharan Africa",
    "baseline": 2.97,
