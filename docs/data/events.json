@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-01T21:14:54.337904+00:00",
+ "generated": "2026-11-02T00:51:14.039794+00:00",
  "sample": false,
- "count": 483,
+ "count": 478,
  "events": [
   {
    "title": "Red notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.156 million .",
@@ -258,6 +258,34 @@
    "watch": []
   },
   {
+   "title": "Ukrainian forces evacuate civilians around Kherson Oblast during Oleshky ceasefire",
+   "summary": "",
+   "url": "https://kyivindependent.com/ukrainian-forces-evacuate-civilians-around-kherson-oblast-during-oleshky-ceasefire/",
+   "time": "2026-11-01T23:38:34+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukrainian-forces-evacuate-civilians-around-kherson-oblast-during-oleshky-ceasefire/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-02T00:51:14.039794+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "c135ade5e05d",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
    "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
@@ -375,6 +403,39 @@
    "watch": []
   },
   {
+   "title": "Ceasefire in Ukraine's Kherson region ends after Russia refuses extension",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
+   "time": "2026-11-01T12:41:48+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
+     "tier": "B"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-02T00:51:14.039794+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "30bd817063c5",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
    "title": "M6.0 earthquake, 165 km NW of Port-Olry, Vanuatu",
    "summary": "Depth 10 km. Alert: green.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl",
@@ -397,6 +458,34 @@
    "confidence": "A1",
    "corroboration": 1,
    "id": "b0e68d05c883",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "M5.4 earthquake, 203 km NW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8",
+   "time": "2026-11-01T06:26:42.287000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -13.8672,
+   "lon": 165.6167,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-02T00:51:14.039794+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "85f11ba2b5ed",
    "flag": "🇻🇺",
    "region": "Oceania",
    "baseline": 2.48,
@@ -1502,6 +1591,62 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
+   "summary": "",
+   "url": "https://www.france24.com/en/americas/20261102-halloween-weekend-shootings-across-us-leave-at-least-six-dead-dozens-wounded",
+   "time": "2026-11-02T00:49:01+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "United States",
+   "city": "Dallas",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261102-halloween-weekend-shootings-across-us-leave-at-least-six-dead-dozens-wounded",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-02T00:51:14.039794+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3aaf6dcfa351",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+   "time": "2026-11-01T22:15:14+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": "Moscow",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-02T00:51:14.039794+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "cdeb7951bc32",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
    "watch": []
   },
   {
@@ -3172,34 +3317,6 @@
    "watch": []
   },
   {
-   "title": "North Korea tests attack drones as Kim calls for 'absolute superiority'",
-   "summary": "",
-   "url": "https://www.france24.com/en/asia-pacific/20261030-north-korea-tests-attack-drones-as-kim-calls-for-absolute-superiority",
-   "time": "2026-10-30T00:22:55+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "North Korea",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/asia-pacific/20261030-north-korea-tests-attack-drones-as-kim-calls-for-absolute-superiority",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T02:47:23.641382+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f05efba7e8db",
-   "flag": "🇰🇵",
-   "region": "East & SE Asia",
-   "baseline": 4.61,
-   "watch": []
-  },
-  {
    "title": "Student-backed election winners demand sweeping resignations in Serbia",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
@@ -3225,62 +3342,6 @@
    "flag": "🇷🇸",
    "region": "Eastern Europe",
    "baseline": 2.13,
-   "watch": []
-  },
-  {
-   "title": "Russian night attacks kill 1 in Kyiv, leave 350,000 in Dnipro without power",
-   "summary": "",
-   "url": "https://kyivindependent.com/russian-night-attacks-kill-1-in-kyiv-leave-350-000-in-dnipro-without-power/",
-   "time": "2026-10-29T23:36:48+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-night-attacks-kill-1-in-kyiv-leave-350-000-in-dnipro-without-power/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-30T02:47:23.641382+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "c8853547259a",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Ukraine: Russian strike kills two teenage girls in Chernihiv",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv/",
-   "time": "2026-10-29T23:15:11+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-30T02:47:23.641382+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "18d2f83c84be",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
    "watch": []
   },
   {
@@ -4801,59 +4862,92 @@
    "watch": []
   },
   {
-   "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-   "time": "2026-10-26T00:19:05+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Brazil",
+   "title": "Green forest fire notification in Central African Republic, Sudan",
+   "summary": "On 22/10/2026, a forest fire started in Central African Republic, Sudan, until 01/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033409",
+   "time": "2026-11-02T00:28:01+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "CAR",
    "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
+   "lat": 9.74207838465755,
+   "lon": 23.443935063997948,
+   "severity": 2,
    "sources": [
     {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-     "tier": "B"
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033409",
+     "tier": "A"
     }
    ],
-   "first_seen": "2026-10-26T06:14:37.338465+00:00",
-   "confidence": "B3",
+   "first_seen": "2026-11-02T00:51:14.039794+00:00",
+   "confidence": "A1",
    "corroboration": 1,
-   "id": "0f79fd8fc43c",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
+   "id": "f2adf0ba0f0e",
+   "flag": "🇨🇫",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.61,
    "watch": []
   },
   {
-   "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
+   "title": "M4.5 earthquake, 86 km WNW of Abra Pampa, Argentina",
+   "summary": "Depth 244 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tus5",
+   "time": "2026-11-01T23:18:05.811000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Argentina",
+   "city": null,
+   "lat": -22.5661,
+   "lon": -66.523,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tus5",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-02T00:51:14.039794+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "62c52b0cb259",
+   "flag": "🇦🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Ukraine's air raid alert system hacked, Air Force says as false nuclear, chemical warnings sound",
    "summary": "",
-   "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-   "time": "2026-10-26T00:19:05+00:00",
+   "url": "https://kyivindependent.com/ukraines-air-raid-alert-system-hacked-air-force-says-as-false-nuclear-chemical-warnings-sound/",
+   "time": "2026-11-01T21:29:01+00:00",
    "tier": "B",
-   "category": "political",
-   "country": "Brazil",
+   "category": "cyber",
+   "country": "Ukraine",
    "city": null,
    "lat": null,
    "lon": null,
-   "severity": 3,
+   "severity": 2,
    "sources": [
     {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraines-air-raid-alert-system-hacked-air-force-says-as-false-nuclear-chemical-warnings-sound/",
+     "tier": "C"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
      "tier": "B"
     }
    ],
-   "first_seen": "2026-10-26T13:16:14.380188+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9da56ce1c5c7",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
+   "first_seen": "2026-11-02T00:51:14.039794+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "d8bd7f7f0b31",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -5214,11 +5308,16 @@
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
      "tier": "B"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-11-01T17:14:57.872569+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
+   "confidence": "B1",
+   "corroboration": 3,
    "id": "b08003a8b2ed",
    "flag": "🇫🇷",
    "region": "Western Europe",
@@ -7580,34 +7679,6 @@
    "watch": []
   },
   {
-   "title": "Halloween Protests & French Promises, US Mid Term Mood, What now for Israel?",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261031-halloween-protests-french-promises-us-mid-term-mood-what-now-for-israel",
-   "time": "2026-10-31T00:30:13+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261031-halloween-protests-french-promises-us-mid-term-mood-what-now-for-israel",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-31T06:19:22.972486+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "181e4264f76a",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
    "title": "M4.8 earthquake, 97 km ENE of Port-Olry, Vanuatu",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
@@ -7664,34 +7735,6 @@
    "watch": []
   },
   {
-   "title": "Germany and France brace for protests on Halloween weekend",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
-   "time": "2026-10-31T00:17:35+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Germany",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-31T00:38:51.190111+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "e1a444ccf78a",
-   "flag": "🇩🇪",
-   "region": "Western Europe",
-   "baseline": 1.07,
-   "watch": []
-  },
-  {
    "title": "M4.6 earthquake, 33 km NE of Mazo Cruz, Peru",
    "summary": "Depth 195 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufp",
@@ -7720,34 +7763,6 @@
    "watch": []
   },
   {
-   "title": "Teen boy from Ghana chased and fatally shot on way to school in New York City",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/oct/30/javits-frimpong-fatal-shooting-bronx-new-york",
-   "time": "2026-10-30T22:43:48+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "United States",
-   "city": "New York",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/oct/30/javits-frimpong-fatal-shooting-bronx-new-york",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-31T00:38:51.190111+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4ae0e22eb6b0",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
    "title": "M4.7 earthquake, 222 km NW of Port-Olry, Vanuatu",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufc",
@@ -7773,62 +7788,6 @@
    "flag": "🇻🇺",
    "region": "Oceania",
    "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-30T22:11:52+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-31T00:38:51.190111+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "bf6bdf67254d",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "US approves $2.1 billion Patriot missile sale to Ukraine as NATO commander dismisses delivery concerns",
-   "summary": "",
-   "url": "https://kyivindependent.com/us-approves-2-1-billion-patriot-missile-sale-to-ukraine-as-nato-commander-dismisses-delivery-concerns/",
-   "time": "2026-10-30T21:24:53+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/us-approves-2-1-billion-patriot-missile-sale-to-ukraine-as-nato-commander-dismisses-delivery-concerns/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-31T00:38:51.190111+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "a5f9ac848967",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
    "watch": []
   },
   {
@@ -10833,62 +10792,6 @@
    "watch": []
   },
   {
-   "title": "M5.1 earthquake, 7 km N of Balangonan, Philippines",
-   "summary": "Depth 58 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
-   "time": "2026-10-27T23:43:51.480000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Philippines",
-   "city": null,
-   "lat": 5.6402,
-   "lon": 125.3536,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-28T20:48:58.758737+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "8a6dc8dcdffe",
-   "flag": "🇵🇭",
-   "region": "East & SE Asia",
-   "baseline": 3.11,
-   "watch": []
-  },
-  {
-   "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
-   "summary": "",
-   "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
-   "time": "2026-10-27T22:30:45+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "United Kingdom",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-27T23:13:40.588221+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3ceec55f9ac5",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
-   "watch": []
-  },
-  {
    "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
    "summary": "",
    "url": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
@@ -13658,34 +13561,6 @@
    "flag": "🇹🇼",
    "region": "East & SE Asia",
    "baseline": 1.19,
-   "watch": []
-  },
-  {
-   "title": "Barbados - Level 1: Exercise Normal Precautions",
-   "summary": "Exercise normal precautionSummary not available",
-   "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.brb.html",
-   "time": "2026-10-03T00:00:00+00:00",
-   "tier": "A",
-   "category": "advisory",
-   "country": "Barbados",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 1,
-   "sources": [
-    {
-     "name": "U.S. State Department travel advisories",
-     "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.brb.html",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-03T06:33:41.758220+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "7018e2ea8c00",
-   "flag": "🇧🇧",
-   "region": "Latin America & Caribbean",
-   "baseline": 1.62,
    "watch": []
   }
  ]

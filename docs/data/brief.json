@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-01T21:14:54.337904+00:00",
+ "generated": "2026-11-02T00:51:14.039794+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 46,
-  "3": 14,
-  "4": 7,
+  "2": 41,
+  "3": 15,
+  "4": 9,
   "5": 3
  },
  "watch_hits": [],
@@ -105,6 +105,26 @@
     "time": "2026-11-01T14:56:05+00:00"
    },
    {
+    "id": "30bd817063c5",
+    "title": "Ceasefire in Ukraine's Kherson region ends after Russia refuses extension",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B2",
+    "time": "2026-11-01T12:41:48+00:00"
+   },
+   {
+    "id": "c135ade5e05d",
+    "title": "Ukrainian forces evacuate civilians around Kherson Oblast during Oleshky ceasefire",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-11-01T23:38:34+00:00"
+   },
+   {
     "id": "b5d65a6396f1",
     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
     "country": "Ukraine",
@@ -145,34 +165,14 @@
     "time": "2026-11-01T16:59:37+00:00"
    },
    {
-    "id": "78e4a9e5548a",
-    "title": "Russian drone strike near school dormitory housing displaced people kills 13-year-old in Vinnytsia Oblast, injures more children",
+    "id": "cdeb7951bc32",
+    "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
     "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-01T19:02:26+00:00"
-   },
-   {
-    "id": "360d9c667984",
-    "title": "Zelensky confirms attack on Russian rocket fuel factory, missile launcher system",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-01T14:07:08+00:00"
-   },
-   {
-    "id": "ca1f2cff0eed",
-    "title": "Ceasefire in Ukraine's Kherson region set to end after Russia refuses extension",
-    "country": "Ukraine",
-    "city": null,
+    "city": "Moscow",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-01T12:41:48+00:00"
+    "time": "2026-11-01T22:15:14+00:00"
    }
   ],
   "Oceania": [
@@ -185,6 +185,16 @@
     "severity": 4,
     "confidence": "A1",
     "time": "2026-11-01T11:47:03.778000+00:00"
+   },
+   {
+    "id": "85f11ba2b5ed",
+    "title": "M5.4 earthquake, 203 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-11-01T06:26:42.287000+00:00"
    },
    {
     "id": "d7c6cceaea25",
@@ -215,16 +225,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-01T12:02:33+00:00"
-   },
-   {
-    "id": "f0c0bb2b6879",
-    "title": "M5.2 earthquake, 200 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T22:42:39.540000+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -237,6 +237,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-01T04:04:40+00:00"
+   },
+   {
+    "id": "62c52b0cb259",
+    "title": "M4.5 earthquake, 86 km WNW of Abra Pampa, Argentina",
+    "country": "Argentina",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T23:18:05.811000+00:00"
    },
    {
     "id": "d67fce5c21fb",
@@ -289,131 +299,17 @@
     "time": "2026-11-01T01:24:52.448000+00:00"
    }
   ],
-  "East & SE Asia": [
-   {
-    "id": "3160f29ed1d8",
-    "title": "M6.0 earthquake, 58 km SSE of Shima, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-10-31T22:15:02.901000+00:00"
-   },
-   {
-    "id": "2c5ea39358df",
-    "title": "M4.6 earthquake, 101 km SW of Basco, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-01T18:42:57.023000+00:00"
-   },
-   {
-    "id": "6dac098b405d",
-    "title": "M4.7 earthquake, 78 km SSE of Yonakuni, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-01T17:01:18.126000+00:00"
-   },
-   {
-    "id": "fb933a7c341f",
-    "title": "Binance restarts withdrawals after $6.3bn heist",
-    "country": "North Korea",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T12:50:55+00:00"
-   },
-   {
-    "id": "88afdd503e92",
-    "title": "M4.8 earthquake, 33 km SE of Jiufen, Taiwan",
-    "country": "Taiwan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-01T08:20:07.549000+00:00"
-   },
-   {
-    "id": "569b2df609bb",
-    "title": "Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T22:31:13+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "bff21e228e11",
-    "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-    "country": "Israel",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T17:30:45+00:00"
-   },
-   {
-    "id": "92a572b6dba9",
-    "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T13:36:16+00:00"
-   },
-   {
-    "id": "5c4d63c9712a",
-    "title": "Yemeni government forces seize strategic positions in al-Jawf",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T10:08:55+00:00"
-   },
-   {
-    "id": "12f91c02af7e",
-    "title": "Israeli protesters urge Jewish-Arab coalition government",
-    "country": "Israel",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T09:24:52+00:00"
-   },
-   {
-    "id": "93caf306b60a",
-    "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
-    "country": "Israel",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T02:05:40+00:00"
-   },
-   {
-    "id": "75b16f04af1e",
-    "title": "M5.0 earthquake, 115 km SE of Bushehr, Iran",
-    "country": "Iran",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-10-31T21:20:39.173000+00:00"
-   }
-  ],
   "North America": [
+   {
+    "id": "3aaf6dcfa351",
+    "title": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
+    "country": "United States",
+    "city": "Dallas",
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-02T00:49:01+00:00"
+   },
    {
     "id": "3c2f25987831",
     "title": "Multiple shootings in Dallas leave four dead and 15 injured on Halloween night",
@@ -485,6 +381,58 @@
     "time": "2026-11-01T03:18:02+00:00"
    }
   ],
+  "Middle East & N. Africa": [
+   {
+    "id": "bff21e228e11",
+    "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+    "country": "Israel",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-01T17:30:45+00:00"
+   },
+   {
+    "id": "92a572b6dba9",
+    "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-01T13:36:16+00:00"
+   },
+   {
+    "id": "5c4d63c9712a",
+    "title": "Yemeni government forces seize strategic positions in al-Jawf",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-01T10:08:55+00:00"
+   },
+   {
+    "id": "12f91c02af7e",
+    "title": "Israeli protesters urge Jewish-Arab coalition government",
+    "country": "Israel",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T09:24:52+00:00"
+   },
+   {
+    "id": "93caf306b60a",
+    "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
+    "country": "Israel",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T02:05:40+00:00"
+   }
+  ],
   "Western Europe": [
    {
     "id": "b08003a8b2ed",
@@ -493,18 +441,8 @@
     "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "B2",
+    "confidence": "B1",
     "time": "2026-11-01T16:24:38+00:00"
-   },
-   {
-    "id": "f9f61d3f21fe",
-    "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-10-31T21:34:15+00:00"
    },
    {
     "id": "5250adc93872",
@@ -565,6 +503,70 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-01T09:38:00+00:00"
+   },
+   {
+    "id": "e8350b222282",
+    "title": "How social media are central to protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T09:36:20+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "f2adf0ba0f0e",
+    "title": "Green forest fire notification in Central African Republic, Sudan",
+    "country": "CAR",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-02T00:28:01+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "2c5ea39358df",
+    "title": "M4.6 earthquake, 101 km SW of Basco, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T18:42:57.023000+00:00"
+   },
+   {
+    "id": "6dac098b405d",
+    "title": "M4.7 earthquake, 78 km SSE of Yonakuni, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T17:01:18.126000+00:00"
+   },
+   {
+    "id": "fb933a7c341f",
+    "title": "Binance restarts withdrawals after $6.3bn heist",
+    "country": "North Korea",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-01T12:50:55+00:00"
+   },
+   {
+    "id": "88afdd503e92",
+    "title": "M4.8 earthquake, 33 km SE of Jiufen, Taiwan",
+    "country": "Taiwan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-01T08:20:07.549000+00:00"
    }
   ]
  }
