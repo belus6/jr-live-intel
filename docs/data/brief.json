@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-02T17:21:22.307503+00:00",
+ "generated": "2026-11-02T23:59:11.732319+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 41,
-  "3": 22,
-  "4": 7,
+  "2": 44,
+  "3": 27,
+  "4": 4,
   "5": 0
  },
  "watch_hits": [],
@@ -43,44 +43,14 @@
     "time": "2026-11-02T09:42:11+00:00"
    },
    {
-    "id": "c135ade5e05d",
-    "title": "Ukrainian forces evacuate civilians around Kherson Oblast during Oleshky ceasefire",
+    "id": "4720c0faad6a",
+    "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
     "country": "Ukraine",
     "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-11-01T23:38:34+00:00"
-   },
-   {
-    "id": "b5d65a6396f1",
-    "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-01T21:01:58+00:00"
-   },
-   {
-    "id": "796500847a3a",
-    "title": "Oleshky: Evacuations during first humanitarian truce of war end",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-01T17:44:51+00:00"
-   },
-   {
-    "id": "cdeb7951bc32",
-    "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
-    "country": "Russia",
-    "city": "Moscow",
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-01T22:15:14+00:00"
+    "confidence": "B3",
+    "time": "2026-11-02T17:33:19+00:00"
    },
    {
     "id": "c03cf3b9b151",
@@ -91,6 +61,36 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-02T16:58:17+00:00"
+   },
+   {
+    "id": "8799ddadb4d3",
+    "title": "Ukraine, EU split over US-backed plan to bring Russian gas back to Europe",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-02T13:54:55+00:00"
+   },
+   {
+    "id": "7efd83e17a4c",
+    "title": "Russian attacks increase Ukraine's need for foreign aid, Bloomberg report finds",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-02T13:36:38+00:00"
+   },
+   {
+    "id": "1d395c8b9d2f",
+    "title": "Su-57 destroyed in engine fire at Akhtubinsk airfield in Russia, HUR confirms",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-02T13:08:45+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -103,6 +103,26 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-02T12:36:23+00:00"
+   },
+   {
+    "id": "3288e4e61abc",
+    "title": "Iran pushing accelerated plan for ceasefire talks with US",
+    "country": "Iran",
+    "city": "Tehran",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-02T18:49:26+00:00"
+   },
+   {
+    "id": "b4a5b0b98865",
+    "title": "Drone attacks extend campaign targeting Sudan’s power system",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-02T17:26:32+00:00"
    },
    {
     "id": "e9b2b6da1c31",
@@ -123,16 +143,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-02T10:25:22+00:00"
-   },
-   {
-    "id": "bff21e228e11",
-    "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-    "country": "Israel",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-01T17:30:45+00:00"
    },
    {
     "id": "7c930fa2a36c",
@@ -165,89 +175,37 @@
     "time": "2026-11-02T06:00:54+00:00"
    }
   ],
-  "Western Europe": [
-   {
-    "id": "566665dbd8c8",
-    "title": "Nigel Farage’s regular column for the Telegraph to end",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-02T16:14:07+00:00"
-   },
-   {
-    "id": "35998d29ca87",
-    "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-02T06:00:33+00:00"
-   },
-   {
-    "id": "39c3f0ff27ed",
-    "title": "French school protests resume on small scale as students return from break",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-11-02T11:39:22+00:00"
-   },
-   {
-    "id": "896a3c3efc25",
-    "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-    "country": "France",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-02T16:39:20+00:00"
-   },
-   {
-    "id": "92a8e1959219",
-    "title": "Fresh wave of fridge cyberattacks hits European supermarkets",
-    "country": "Belgium",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-02T13:40:09+00:00"
-   },
-   {
-    "id": "333bc85dd1f5",
-    "title": "Police arrive at German university pro-Palestine protest",
-    "country": "Germany",
-    "city": "Hamburg",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-02T13:37:26+00:00"
-   },
-   {
-    "id": "a8f9749cca2a",
-    "title": "'No political solution' to anger in France, expert says amid ongoing protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-02T12:41:04+00:00"
-   },
-   {
-    "id": "c096b8b7a425",
-    "title": "Suspected cyberattacks trigger supermarket fridge failures across Europe",
-    "country": "France",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-02T12:08:59+00:00"
-   }
-  ],
   "Sub-Saharan Africa": [
+   {
+    "id": "ee2e2373283e",
+    "title": "Uganda withdrawing troops from peacekeeping mission in Somalia",
+    "country": "Somalia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-02T21:24:21+00:00"
+   },
+   {
+    "id": "fc402ccb3518",
+    "title": "Man guilty of stealing cash from farm owned by South African president",
+    "country": "South Africa",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-02T20:08:51+00:00"
+   },
+   {
+    "id": "d168eba9041c",
+    "title": "Trump to remove Rwanda and South Africa from US trade deal",
+    "country": "Rwanda",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-02T19:33:10+00:00"
+   },
    {
     "id": "c30207bfd0a3",
     "title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
@@ -279,6 +237,16 @@
     "time": "2026-11-02T12:05:34+00:00"
    },
    {
+    "id": "930143da8a28",
+    "title": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-02T12:00:00+00:00"
+   },
+   {
     "id": "d38092e381b8",
     "title": "Will renewed conflict derail Ethiopia's economic growth?",
     "country": "Ethiopia",
@@ -287,46 +255,88 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-02T11:19:00+00:00"
-   },
+   }
+  ],
+  "Western Europe": [
    {
-    "id": "d7efab4665ea",
-    "title": "TPLF loses popular support after fresh fighting in Ethiopia's Tigray",
-    "country": "Ethiopia",
+    "id": "566665dbd8c8",
+    "title": "Nigel Farage’s regular column for the Telegraph to end",
+    "country": "United Kingdom",
     "city": null,
-    "category": "conflict",
+    "category": "political",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-02T09:42:04+00:00"
+    "confidence": "B3",
+    "time": "2026-11-02T16:14:07+00:00"
    },
    {
-    "id": "14abf1c38efe",
-    "title": "Green forest fire notification in Mali",
-    "country": "Mali",
+    "id": "35998d29ca87",
+    "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+    "country": "United Kingdom",
     "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-02T16:28:37+00:00"
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-02T06:00:33+00:00"
    },
    {
-    "id": "e749ec13bf26",
-    "title": "Ebola fatality rate in DR Congo tops 50% as death toll reaches 5,372",
-    "country": "DRC",
+    "id": "2f96d733ae01",
+    "title": "French pupils resume school blockades as country braces for more protests",
+    "country": "France",
     "city": null,
-    "category": "health",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-02T11:53:10+00:00"
+    "confidence": "B2",
+    "time": "2026-11-02T18:17:33+00:00"
    },
    {
-    "id": "f2adf0ba0f0e",
-    "title": "Green forest fire notification in Central African Republic, Sudan",
-    "country": "CAR",
-    "city": null,
-    "category": "hazard",
+    "id": "39c3f0ff27ed",
+    "title": "French school protests resume on small scale as students return from break",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-02T00:28:01+00:00"
+    "confidence": "B2",
+    "time": "2026-11-02T11:39:22+00:00"
+   },
+   {
+    "id": "b0815cb4b39e",
+    "title": "Migration is a moral issue for Burnham – but is he trying to please everyone?",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-02T20:39:52+00:00"
+   },
+   {
+    "id": "8e32be91ab89",
+    "title": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply",
+    "country": "Belgium",
+    "city": "Brussels",
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-02T20:30:07+00:00"
+   },
+   {
+    "id": "a34c1884acb3",
+    "title": "Protester’s ‘I support genocide’ sign appears to face no police action",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-02T19:39:24+00:00"
+   },
+   {
+    "id": "ba34c399b84c",
+    "title": "German unions launch wave of strikes over cost-of-living pressures",
+    "country": "Germany",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-02T18:47:24+00:00"
    }
   ],
   "North America": [
@@ -341,6 +351,16 @@
     "time": "2026-11-02T00:49:01+00:00"
    },
    {
+    "id": "921fd976ad19",
+    "title": "Washington state resident dies from ‘severe illness’ after contracting bird flu",
+    "country": "United States",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-02T21:59:02+00:00"
+   },
+   {
     "id": "21719237f032",
     "title": "U.S. National Cathedral holds special prayer for Ukrainian children",
     "country": "United States",
@@ -349,6 +369,70 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-11-02T01:54:08+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "43bd54f19e43",
+    "title": "M4.6 earthquake, 226 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-02T20:54:25.928000+00:00"
+   },
+   {
+    "id": "bbbfec4f03db",
+    "title": "M4.7 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-02T14:05:23.380000+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "8d71bd0be1fa",
+    "title": "M4.5 earthquake, 168 km SE of San Jose Village, Northern Mariana Islands",
+    "country": "Costa Rica",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-02T19:59:04.529000+00:00"
+   },
+   {
+    "id": "7eeaf7266675",
+    "title": "M5.1 earthquake, 50 km WSW of Huarmey, Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-02T15:28:13.954000+00:00"
+   },
+   {
+    "id": "0d301a4f824c",
+    "title": "Cape Verde president rallies supporters as election campaign begins",
+    "country": "Cabo Verde",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-02T14:16:54+00:00"
+   },
+   {
+    "id": "79f2e9fc0bd5",
+    "title": "2,000 Salvadoran troops deploy to Haiti to help fight gangs",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-02T11:57:18+00:00"
    }
   ],
   "East & SE Asia": [
@@ -411,100 +495,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-02T01:54:55.186000+00:00"
-   },
-   {
-    "id": "2c5ea39358df",
-    "title": "M4.6 earthquake, 101 km SW of Basco, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-01T18:42:57.023000+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "7eeaf7266675",
-    "title": "M5.1 earthquake, 50 km WSW of Huarmey, Peru",
-    "country": "Peru",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-02T15:28:13.954000+00:00"
-   },
-   {
-    "id": "0d301a4f824c",
-    "title": "Cape Verde president rallies supporters as election campaign begins",
-    "country": "Cabo Verde",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-02T14:16:54+00:00"
-   },
-   {
-    "id": "79f2e9fc0bd5",
-    "title": "2,000 Salvadoran troops deploy to Haiti to help fight gangs",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-02T11:57:18+00:00"
-   },
-   {
-    "id": "62c52b0cb259",
-    "title": "M4.5 earthquake, 86 km WNW of Abra Pampa, Argentina",
-    "country": "Argentina",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-01T23:18:05.811000+00:00"
-   },
-   {
-    "id": "d67fce5c21fb",
-    "title": "Video captures house collapsing due to Ecuador floods",
-    "country": "Ecuador",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T19:56:47+00:00"
-   },
-   {
-    "id": "51a71c5ed6b5",
-    "title": "Ecuador",
-    "country": "Ecuador",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-01T19:30:00+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "bbbfec4f03db",
-    "title": "M4.7 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-02T14:05:23.380000+00:00"
-   },
-   {
-    "id": "d7c6cceaea25",
-    "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-01T17:56:47+00:00"
    }
   ],
   "South Asia": [
