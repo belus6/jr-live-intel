@@ -1,17 +1,37 @@
 {
- "generated": "2026-11-02T23:59:11.732319+00:00",
+ "generated": "2026-11-03T06:30:03.014094+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 44,
-  "3": 27,
-  "4": 4,
+  "2": 39,
+  "3": 31,
+  "4": 6,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
   "Eastern Europe": [
+   {
+    "id": "047b787541d0",
+    "title": "Poland deploys counterterrorism police near Russian border amid sabotage warnings",
+    "country": "Poland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-11-03T05:33:54+00:00"
+   },
+   {
+    "id": "b961f2215e40",
+    "title": "Russian missile attack hits Kharkiv medical facility, 62 reported injured",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-11-03T03:47:53+00:00"
+   },
    {
     "id": "c8637fe4cef2",
     "title": "Kremlin rules out further humanitarian operations like Oleshky evacuation for now",
@@ -43,54 +63,34 @@
     "time": "2026-11-02T09:42:11+00:00"
    },
    {
-    "id": "4720c0faad6a",
-    "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+    "id": "319a57f64525",
+    "title": "European force to hold first Ukraine support exercise in Poland",
+    "country": "Poland",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T01:43:00+00:00"
+   },
+   {
+    "id": "74010504b2be",
+    "title": "Russian strikes kill 26 in Ukraine after longest ceasefire ends",
     "country": "Ukraine",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-02T17:33:19+00:00"
+    "time": "2026-11-03T01:18:44+00:00"
    },
    {
-    "id": "c03cf3b9b151",
-    "title": "Russian Defense Ministry to propose delaying troop salary payments, media reports",
+    "id": "85b1720e47d2",
+    "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
     "country": "Ukraine",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-02T16:58:17+00:00"
-   },
-   {
-    "id": "8799ddadb4d3",
-    "title": "Ukraine, EU split over US-backed plan to bring Russian gas back to Europe",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-02T13:54:55+00:00"
-   },
-   {
-    "id": "7efd83e17a4c",
-    "title": "Russian attacks increase Ukraine's need for foreign aid, Bloomberg report finds",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-02T13:36:38+00:00"
-   },
-   {
-    "id": "1d395c8b9d2f",
-    "title": "Su-57 destroyed in engine fire at Akhtubinsk airfield in Russia, HUR confirms",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-02T13:08:45+00:00"
+    "confidence": "B3",
+    "time": "2026-11-03T00:07:05+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -103,6 +103,26 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-02T12:36:23+00:00"
+   },
+   {
+    "id": "da5c54492400",
+    "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T05:02:34+00:00"
+   },
+   {
+    "id": "988930929592",
+    "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T00:00:00+00:00"
    },
    {
     "id": "3288e4e61abc",
@@ -153,29 +173,19 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-02T15:57:00+00:00"
-   },
-   {
-    "id": "d2ba4846c9de",
-    "title": "Israeli right-wing activists protest possible Arab coalition",
-    "country": "Israel",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-02T08:37:35+00:00"
-   },
-   {
-    "id": "01578b7bdc69",
-    "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-    "country": "Iran",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-02T06:00:54+00:00"
    }
   ],
   "Sub-Saharan Africa": [
+   {
+    "id": "4ffff4f59fdd",
+    "title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
+    "country": "Kenya",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-03T05:57:22+00:00"
+   },
    {
     "id": "ee2e2373283e",
     "title": "Uganda withdrawing troops from peacekeeping mission in Somalia",
@@ -245,16 +255,38 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-02T12:00:00+00:00"
-   },
+   }
+  ],
+  "North America": [
    {
-    "id": "d38092e381b8",
-    "title": "Will renewed conflict derail Ethiopia's economic growth?",
-    "country": "Ethiopia",
-    "city": null,
+    "id": "0c08669fc9d6",
+    "title": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
+    "country": "United States",
+    "city": "Memphis",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-02T11:19:00+00:00"
+    "time": "2026-11-03T03:13:06+00:00"
+   },
+   {
+    "id": "2db9f33fb337",
+    "title": "New York child dies from measles in state’s first fatal case in 30 years",
+    "country": "United States",
+    "city": "New York",
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-03T05:48:26+00:00"
+   },
+   {
+    "id": "921fd976ad19",
+    "title": "Washington state resident dies from ‘severe illness’ after contracting bird flu",
+    "country": "United States",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-02T21:59:02+00:00"
    }
   ],
   "Western Europe": [
@@ -267,16 +299,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-02T16:14:07+00:00"
-   },
-   {
-    "id": "35998d29ca87",
-    "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-02T06:00:33+00:00"
    },
    {
     "id": "2f96d733ae01",
@@ -297,6 +319,16 @@
     "severity": 2,
     "confidence": "B2",
     "time": "2026-11-02T11:39:22+00:00"
+   },
+   {
+    "id": "4fd0f9a0791e",
+    "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-03T00:01:32+00:00"
    },
    {
     "id": "b0815cb4b39e",
@@ -339,61 +371,17 @@
     "time": "2026-11-02T18:47:24+00:00"
    }
   ],
-  "North America": [
-   {
-    "id": "3aaf6dcfa351",
-    "title": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
-    "country": "United States",
-    "city": "Dallas",
-    "category": "crime",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-02T00:49:01+00:00"
-   },
-   {
-    "id": "921fd976ad19",
-    "title": "Washington state resident dies from ‘severe illness’ after contracting bird flu",
-    "country": "United States",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-02T21:59:02+00:00"
-   },
-   {
-    "id": "21719237f032",
-    "title": "U.S. National Cathedral holds special prayer for Ukrainian children",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-02T01:54:08+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "43bd54f19e43",
-    "title": "M4.6 earthquake, 226 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-02T20:54:25.928000+00:00"
-   },
-   {
-    "id": "bbbfec4f03db",
-    "title": "M4.7 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-02T14:05:23.380000+00:00"
-   }
-  ],
   "Latin America & Caribbean": [
+   {
+    "id": "92d88aef9f73",
+    "title": "Green forest fire notification in Bolivia",
+    "country": "Bolivia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-03T04:11:48+00:00"
+   },
    {
     "id": "8d71bd0be1fa",
     "title": "M4.5 earthquake, 168 km SE of San Jose Village, Northern Mariana Islands",
@@ -435,6 +423,28 @@
     "time": "2026-11-02T11:57:18+00:00"
    }
   ],
+  "Oceania": [
+   {
+    "id": "43bd54f19e43",
+    "title": "M4.6 earthquake, 226 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-02T20:54:25.928000+00:00"
+   },
+   {
+    "id": "bbbfec4f03db",
+    "title": "M4.7 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-02T14:05:23.380000+00:00"
+   }
+  ],
   "East & SE Asia": [
    {
     "id": "15cebdd3814b",
@@ -465,36 +475,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-02T08:13:14.014000+00:00"
-   },
-   {
-    "id": "644f9bb71ae3",
-    "title": "M4.5 earthquake, 135 km SW of Lorengau, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-02T02:24:03.097000+00:00"
-   },
-   {
-    "id": "49ceb935be6c",
-    "title": "M4.5 earthquake, 64 km SE of Yilan, Taiwan",
-    "country": "Taiwan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-02T02:23:08.566000+00:00"
-   },
-   {
-    "id": "621c27a013d6",
-    "title": "M4.5 earthquake, 288 km SSE of Muroto-misakicho, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-02T01:54:55.186000+00:00"
    }
   ],
   "South Asia": [
