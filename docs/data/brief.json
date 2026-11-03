@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-03T14:36:16.088148+00:00",
+ "generated": "2026-11-03T20:39:01.181775+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 44,
-  "3": 26,
-  "4": 5,
+  "2": 37,
+  "3": 28,
+  "4": 4,
   "5": 1
  },
  "watch_hits": [],
@@ -21,6 +21,16 @@
     "severity": 5,
     "confidence": "B2",
     "time": "2026-11-03T10:58:38+00:00"
+   },
+   {
+    "id": "8ff5b366da04",
+    "title": "‘Vile terrorist attack’: Russia bombs Ukraine aid centre",
+    "country": "Russia",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-03T16:30:08+00:00"
    },
    {
     "id": "047b787541d0",
@@ -53,252 +63,66 @@
     "time": "2026-11-03T03:47:53+00:00"
    },
    {
-    "id": "c8637fe4cef2",
-    "title": "Kremlin rules out further humanitarian operations like Oleshky evacuation for now",
+    "id": "8ad60e7996cc",
+    "title": "Russian households face increasing financial strain as war in Ukraine drags on",
     "country": "Ukraine",
     "city": null,
     "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-11-02T16:58:36+00:00"
-   },
-   {
-    "id": "38a8b3bf7d84",
-    "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-02T16:17:14+00:00"
-   },
-   {
-    "id": "282e28449720",
-    "title": "Ukraine's ombudsman, sanctioned Russian commissioner invited to Melania Trump's White House event, source says",
-    "country": "Ukraine",
-    "city": null,
-    "category": "political",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-03T13:48:31+00:00"
+    "confidence": "B3",
+    "time": "2026-11-03T17:05:54+00:00"
    },
    {
-    "id": "26e276b6c1f2",
-    "title": "Russian attacks across Ukraine kill 38, injure 167, as Russia hits Dnipro hospitals in morning missile strike",
+    "id": "dbf48119abe3",
+    "title": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-03T12:32:02+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
+    "confidence": "B3",
+    "time": "2026-11-03T16:52:13+00:00"
+   },
    {
-    "id": "eb737048b94c",
-    "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
-    "country": "Iran",
+    "id": "c24b42dad26d",
+    "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+    "country": "Ukraine",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-03T13:52:34+00:00"
-   },
-   {
-    "id": "f9557f4d8ff9",
-    "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T10:29:56+00:00"
-   },
-   {
-    "id": "da5c54492400",
-    "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T05:02:34+00:00"
-   },
-   {
-    "id": "988930929592",
-    "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
-    "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T00:00:00+00:00"
-   },
-   {
-    "id": "3288e4e61abc",
-    "title": "Iran pushing accelerated plan for ceasefire talks with US",
-    "country": "Iran",
-    "city": "Tehran",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-02T18:49:26+00:00"
-   },
-   {
-    "id": "b4a5b0b98865",
-    "title": "Drone attacks extend campaign targeting Sudan’s power system",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-02T17:26:32+00:00"
-   },
-   {
-    "id": "7c930fa2a36c",
-    "title": "Israel's president begins process of coalition government negotiations",
-    "country": "Israel",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-02T15:57:00+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "f85b45e49e34",
-    "title": "Ethiopia's Tigray rebels claim to have inflicted heavy losses on army",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-03T11:52:59+00:00"
-   },
-   {
-    "id": "d5f627bbe94b",
-    "title": "Uganda withdraws its troops from Somalia as fight against rebels persists",
-    "country": "Uganda",
-    "city": "Kampala",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T11:50:18+00:00"
-   },
-   {
-    "id": "4ffff4f59fdd",
-    "title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
-    "country": "Kenya",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-03T05:57:22+00:00"
-   },
-   {
-    "id": "ee2e2373283e",
-    "title": "Uganda withdrawing troops from peacekeeping mission in Somalia",
-    "country": "Somalia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-02T21:24:21+00:00"
-   },
-   {
-    "id": "fc402ccb3518",
-    "title": "Man guilty of stealing cash from farm owned by South African president",
-    "country": "South Africa",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-02T20:08:51+00:00"
-   },
-   {
-    "id": "d168eba9041c",
-    "title": "Trump to remove Rwanda and South Africa from US trade deal",
-    "country": "Rwanda",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-02T19:33:10+00:00"
-   },
-   {
-    "id": "c30207bfd0a3",
-    "title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
-    "country": "Ethiopia",
-    "city": "Addis Ababa",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-02T16:03:40+00:00"
-   },
-   {
-    "id": "c72ab7dce60c",
-    "title": "Green forest fire notification in Nigeria",
-    "country": "Nigeria",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T12:03:30+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "0c08669fc9d6",
-    "title": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
-    "country": "United States",
-    "city": "Memphis",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T03:13:06+00:00"
-   },
-   {
-    "id": "2db9f33fb337",
-    "title": "New York child dies from measles in state’s first fatal case in 30 years",
-    "country": "United States",
-    "city": "New York",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-03T05:48:26+00:00"
-   },
-   {
-    "id": "921fd976ad19",
-    "title": "Washington state resident dies from ‘severe illness’ after contracting bird flu",
-    "country": "United States",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-02T21:59:02+00:00"
+    "time": "2026-11-03T15:54:39+00:00"
    }
   ],
   "Western Europe": [
    {
-    "id": "566665dbd8c8",
-    "title": "Nigel Farage’s regular column for the Telegraph to end",
-    "country": "United Kingdom",
-    "city": null,
+    "id": "551059e93db8",
+    "title": "Spanish transport minister resigns days after deadly train crash",
+    "country": "Spain",
+    "city": "Madrid",
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-02T16:14:07+00:00"
+    "time": "2026-11-03T20:36:14+00:00"
    },
    {
-    "id": "2f96d733ae01",
-    "title": "French pupils resume school blockades as country braces for more protests",
+    "id": "7f0237884c33",
+    "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-03T17:28:49+00:00"
+   },
+   {
+    "id": "f0decea5ed4b",
+    "title": "Political parallels in France and the US: Anger at the ballot box and in the streets",
     "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-11-02T18:17:33+00:00"
+    "confidence": "B3",
+    "time": "2026-11-03T15:21:19+00:00"
    },
    {
     "id": "22da87e2cd4b",
@@ -349,19 +173,259 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-03T11:03:47.340000+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "b51722030004",
+    "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T19:09:09+00:00"
    },
    {
-    "id": "c6acc35d0b82",
-    "title": "Green flood alert in Spain",
-    "country": "Spain",
+    "id": "4c4754867219",
+    "title": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T14:18:00+00:00"
+   },
+   {
+    "id": "eb737048b94c",
+    "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T13:52:34+00:00"
+   },
+   {
+    "id": "f9557f4d8ff9",
+    "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T10:29:56+00:00"
+   },
+   {
+    "id": "da5c54492400",
+    "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T05:02:34+00:00"
+   },
+   {
+    "id": "988930929592",
+    "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T00:00:00+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "d1d1156df1dc",
+    "title": "China and India achieved diplomatic thaw. Now the border is flaring up",
+    "country": "India",
+    "city": "Delhi",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T14:48:00+00:00"
+   },
+   {
+    "id": "b6e1d51cd61e",
+    "title": "Cyclone Murasu makes landfall on India’s eastern coast",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-03T09:33:18+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "f85b45e49e34",
+    "title": "Ethiopia's Tigray rebels claim to have inflicted heavy losses on army",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-03T11:52:59+00:00"
+   },
+   {
+    "id": "d5f627bbe94b",
+    "title": "Uganda withdraws its troops from Somalia as fight against rebels persists",
+    "country": "Uganda",
+    "city": "Kampala",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T11:50:18+00:00"
+   },
+   {
+    "id": "4ffff4f59fdd",
+    "title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
+    "country": "Kenya",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-03T05:57:22+00:00"
+   },
+   {
+    "id": "ee2e2373283e",
+    "title": "Uganda withdrawing troops from peacekeeping mission in Somalia",
+    "country": "Somalia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-02T21:24:21+00:00"
+   },
+   {
+    "id": "df65ab9df806",
+    "title": "Opposition party organiser killed before South Africa elections",
+    "country": "South Africa",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-03T16:39:00+00:00"
+   },
+   {
+    "id": "e0faf6d79e0c",
+    "title": "Madagascar",
+    "country": "Madagascar",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-03T16:23:39+00:00"
+   },
+   {
+    "id": "4ef24d8e8594",
+    "title": "Green forest fire notification in Zambia",
+    "country": "Zambia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-03T10:19:19+00:00"
+    "time": "2026-11-03T16:11:35+00:00"
+   },
+   {
+    "id": "c72ab7dce60c",
+    "title": "Green forest fire notification in Nigeria",
+    "country": "Nigeria",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-03T12:03:30+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "0c08669fc9d6",
+    "title": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
+    "country": "United States",
+    "city": "Memphis",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T03:13:06+00:00"
+   },
+   {
+    "id": "f6eb4676f8c5",
+    "title": "Trickle or tsunami? Democrats eye gains in US midterm elections",
+    "country": "United States",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-03T19:18:13+00:00"
+   },
+   {
+    "id": "2db9f33fb337",
+    "title": "New York child dies from measles in state’s first fatal case in 30 years",
+    "country": "United States",
+    "city": "New York",
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-03T05:48:26+00:00"
+   },
+   {
+    "id": "921fd976ad19",
+    "title": "Washington state resident dies from ‘severe illness’ after contracting bird flu",
+    "country": "United States",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-02T21:59:02+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "83ae0f42724c",
+    "title": "Paraguay",
+    "country": "Paraguay",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-03T20:29:30+00:00"
+   },
+   {
+    "id": "108e85ce1cdf",
+    "title": "M5.4 earthquake, 24 km NNW of Rioblanco, Colombia",
+    "country": "Colombia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-03T09:13:14.972000+00:00"
+   },
+   {
+    "id": "92d88aef9f73",
+    "title": "Green forest fire notification in Bolivia",
+    "country": "Bolivia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-03T04:11:48+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "bb7a769ffc17",
+    "title": "M4.8 earthquake, 85 km S of Gorontalo, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-03T15:37:51.082000+00:00"
+   },
    {
     "id": "8c8c35483560",
     "title": "Green forest fire notification in Indonesia",
@@ -411,70 +475,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-03T05:23:44.068000+00:00"
-   },
-   {
-    "id": "15cebdd3814b",
-    "title": "M4.7 earthquake, 193 km ENE of Nagqu, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-02T15:35:12.369000+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "b6e1d51cd61e",
-    "title": "Cyclone Murasu makes landfall on India’s eastern coast",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-03T09:33:18+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "108e85ce1cdf",
-    "title": "M5.4 earthquake, 24 km NNW of Rioblanco, Colombia",
-    "country": "Colombia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T09:13:14.972000+00:00"
-   },
-   {
-    "id": "92d88aef9f73",
-    "title": "Green forest fire notification in Bolivia",
-    "country": "Bolivia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T04:11:48+00:00"
-   },
-   {
-    "id": "8d71bd0be1fa",
-    "title": "M4.5 earthquake, 168 km SE of San Jose Village, Northern Mariana Islands",
-    "country": "Costa Rica",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-02T19:59:04.529000+00:00"
-   },
-   {
-    "id": "7eeaf7266675",
-    "title": "M5.1 earthquake, 50 km WSW of Huarmey, Peru",
-    "country": "Peru",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-02T15:28:13.954000+00:00"
    }
   ],
   "Oceania": [
