@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-04T00:54:57.772166+00:00",
+ "generated": "2026-11-04T07:17:40.104065+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 36,
-  "3": 29,
-  "4": 4,
+  "2": 34,
+  "3": 28,
+  "4": 1,
   "5": 1
  },
  "watch_hits": [],
@@ -33,34 +33,14 @@
     "time": "2026-11-03T16:30:08+00:00"
    },
    {
-    "id": "047b787541d0",
-    "title": "Poland deploys counterterrorism police near Russian border amid sabotage warnings",
-    "country": "Poland",
+    "id": "66f1703138fa",
+    "title": "Ukrainian-born US lawmaker Victoria Spartz loses congressional seat to Democrat",
+    "country": "Ukraine",
     "city": null,
-    "category": "terrorism",
-    "severity": 4,
+    "category": "political",
+    "severity": 3,
     "confidence": "C4",
-    "time": "2026-11-03T05:33:54+00:00"
-   },
-   {
-    "id": "b961f2215e40",
-    "title": "Russian missile attack hits Kharkiv medical facility, 62 reported injured",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-11-03T03:47:53+00:00"
-   },
-   {
-    "id": "f6c51017fb0c",
-    "title": "Russian missile attack hits Kharkiv medical facility, injuring 73",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-11-03T03:47:53+00:00"
+    "time": "2026-11-04T04:13:37+00:00"
    },
    {
     "id": "6b6b2e946b66",
@@ -91,6 +71,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-03T17:05:54+00:00"
+   },
+   {
+    "id": "dbf48119abe3",
+    "title": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T16:52:13+00:00"
+   },
+   {
+    "id": "c24b42dad26d",
+    "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T15:54:39+00:00"
    }
   ],
   "Western Europe": [
@@ -105,6 +105,16 @@
     "time": "2026-11-03T21:46:02+00:00"
    },
    {
+    "id": "39b3103fd5f3",
+    "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T05:00:25+00:00"
+   },
+   {
     "id": "551059e93db8",
     "title": "Spanish transport minister resigns days after deadly train crash",
     "country": "Spain",
@@ -113,6 +123,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-03T20:36:14+00:00"
+   },
+   {
+    "id": "d46c0dc1bbee",
+    "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+    "country": "Germany",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-04T03:16:37+00:00"
    },
    {
     "id": "5ffb528b695f",
@@ -153,26 +173,58 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-03T14:31:00+00:00"
-   },
+   }
+  ],
+  "East & SE Asia": [
    {
-    "id": "dfcc0b8d0368",
-    "title": "UK meat processing firms’ fridges heat up after cyber-attacks in Europe",
-    "country": "United Kingdom",
+    "id": "805c7d66ddb5",
+    "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+    "country": "Papua New Guinea",
     "city": null,
-    "category": "cyber",
-    "severity": 2,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-03T14:29:37+00:00"
+    "time": "2026-11-04T03:46:10+00:00"
    },
    {
-    "id": "c6fe7974ce9c",
-    "title": "US Midterms: Could a blue wave widen the centrist-progressive divide among Democrats ahead of 2028?",
-    "country": "Netherlands",
-    "city": "Amsterdam",
-    "category": "unrest",
-    "severity": 2,
+    "id": "599421ef2bde",
+    "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
+    "country": "Myanmar",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-03T13:19:46+00:00"
+    "time": "2026-11-03T12:00:00+00:00"
+   },
+   {
+    "id": "e93ff8b3959f",
+    "title": "M5.2 earthquake, Volcano Islands, Japan region",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-03T16:48:13.110000+00:00"
+   },
+   {
+    "id": "bb7a769ffc17",
+    "title": "M4.8 earthquake, 85 km S of Gorontalo, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-03T15:37:51.082000+00:00"
+   },
+   {
+    "id": "8c8c35483560",
+    "title": "Green forest fire notification in Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-03T12:07:00+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -207,6 +259,16 @@
     "time": "2026-11-03T13:52:34+00:00"
    },
    {
+    "id": "52c97065bdf3",
+    "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T12:00:00+00:00"
+   },
+   {
     "id": "f9557f4d8ff9",
     "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
     "country": "Sudan",
@@ -215,26 +277,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-03T10:29:56+00:00"
-   },
-   {
-    "id": "da5c54492400",
-    "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T05:02:34+00:00"
-   },
-   {
-    "id": "8a90971c128d",
-    "title": "Green forest fire notification in South Sudan",
-    "country": "Sudan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T04:06:26+00:00"
    }
   ],
   "South Asia": [
@@ -259,78 +301,6 @@
     "time": "2026-11-03T09:33:18+00:00"
    }
   ],
-  "East & SE Asia": [
-   {
-    "id": "599421ef2bde",
-    "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-    "country": "Myanmar",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T12:00:00+00:00"
-   },
-   {
-    "id": "bb7a769ffc17",
-    "title": "M4.8 earthquake, 85 km S of Gorontalo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T15:37:51.082000+00:00"
-   },
-   {
-    "id": "8c8c35483560",
-    "title": "Green forest fire notification in Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T12:07:00+00:00"
-   },
-   {
-    "id": "8ac6d52db1c0",
-    "title": "Green flood alert in Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T06:49:36+00:00"
-   },
-   {
-    "id": "7b136b3ec2e2",
-    "title": "Volcanic eruption is on going for Mayon in Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T06:45:43+00:00"
-   },
-   {
-    "id": "8a172e515802",
-    "title": "M4.8 earthquake, 6 km S of Asahi, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T05:40:18.064000+00:00"
-   },
-   {
-    "id": "1150a09c2500",
-    "title": "M4.5 earthquake, 31 km E of Mawlaik, Burma (Myanmar)",
-    "country": "Myanmar",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T05:23:44.068000+00:00"
-   }
-  ],
   "Sub-Saharan Africa": [
    {
     "id": "f85b45e49e34",
@@ -353,14 +323,14 @@
     "time": "2026-11-03T11:50:18+00:00"
    },
    {
-    "id": "4ffff4f59fdd",
-    "title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
-    "country": "Kenya",
+    "id": "0b3e0267a1ab",
+    "title": "US requires air passengers to attest they haven’t visited Ebola-hit DRC",
+    "country": "DRC",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "health",
+    "severity": 2,
     "confidence": "C4",
-    "time": "2026-11-03T05:57:22+00:00"
+    "time": "2026-11-04T06:32:13+00:00"
    },
    {
     "id": "df65ab9df806",
@@ -393,6 +363,16 @@
     "time": "2026-11-03T16:11:35+00:00"
    },
    {
+    "id": "aa5765c60608",
+    "title": "Green forest fire notification in Central African Republic, Chad",
+    "country": "CAR",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-03T16:03:02+00:00"
+   },
+   {
     "id": "c72ab7dce60c",
     "title": "Green forest fire notification in Nigeria",
     "country": "Nigeria",
@@ -401,51 +381,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-03T12:03:30+00:00"
-   },
-   {
-    "id": "ad16a44e4388",
-    "title": "NGOs urge Malian authorities for transparency on abduction of Mountaga Tall",
-    "country": "Mali",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-03T10:15:39+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "0c08669fc9d6",
-    "title": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
-    "country": "United States",
-    "city": "Memphis",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T03:13:06+00:00"
-   },
-   {
-    "id": "f6eb4676f8c5",
-    "title": "Trickle or tsunami? Democrats eye gains in US midterm elections",
-    "country": "United States",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-03T19:18:13+00:00"
-   },
-   {
-    "id": "2db9f33fb337",
-    "title": "New York child dies from measles in state’s first fatal case in 30 years",
-    "country": "United States",
-    "city": "New York",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-03T05:48:26+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "44a03885d1c7",
+    "title": "M4.6 earthquake, Fiji region",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-04T00:32:59.774000+00:00"
+   },
    {
     "id": "213c8636a60a",
     "title": "M5.0 earthquake, Fiji region",
@@ -455,6 +403,16 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-04T00:32:59.305000+00:00"
+   },
+   {
+    "id": "b5175afcda7a",
+    "title": "The transplanted Scot doing famous father proud in New Zealand",
+    "country": "New Zealand",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-03T17:50:16+00:00"
    }
   ],
   "Central Asia": [
@@ -499,16 +457,18 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-03T09:13:14.972000+00:00"
-   },
+   }
+  ],
+  "North America": [
    {
-    "id": "92d88aef9f73",
-    "title": "Green forest fire notification in Bolivia",
-    "country": "Bolivia",
+    "id": "f6eb4676f8c5",
+    "title": "Trickle or tsunami? Democrats eye gains in US midterm elections",
+    "country": "United States",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T04:11:48+00:00"
+    "confidence": "B3",
+    "time": "2026-11-03T19:18:13+00:00"
    }
   ]
  }
