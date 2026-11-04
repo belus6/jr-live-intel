@@ -1,108 +1,46 @@
 {
- "generated": "2026-11-04T15:40:01.891482+00:00",
+ "generated": "2026-11-04T21:30:47.194099+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 26,
-  "3": 22,
+  "2": 25,
+  "3": 23,
   "4": 3,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
-  "Western Europe": [
+  "Eastern Europe": [
    {
-    "id": "79be2d83a2cf",
-    "title": "Police say explosive devices found in Belfast are linked to ‘rightwing terrorism’",
-    "country": "Ireland",
-    "city": null,
-    "category": "terrorism",
+    "id": "ee92be3ec3ba",
+    "title": "Serbia detains police officers over alleged use of force against protesters",
+    "country": "Serbia",
+    "city": "Belgrade",
+    "category": "unrest",
     "severity": 4,
     "confidence": "B3",
-    "time": "2026-11-04T13:15:28+00:00"
+    "time": "2026-11-04T20:42:14+00:00"
    },
    {
-    "id": "a37c50f03741",
-    "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-04T12:43:47+00:00"
-   },
-   {
-    "id": "0f2e55854e0e",
-    "title": "Spanish transport minister resigns after deadly train crash",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-03T21:46:02+00:00"
-   },
-   {
-    "id": "68d917c167b9",
-    "title": "Spanish Transport Minister resigns over train crash disasters",
-    "country": "Spain",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T13:52:11+00:00"
-   },
-   {
-    "id": "39b3103fd5f3",
-    "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
-    "country": "United Kingdom",
+    "id": "35b8ebdfc007",
+    "title": "Russia has capacity to produce over 200 ballistic, cruise missiles per month, Ukraine's military intelligence says",
+    "country": "Russia",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T05:00:25+00:00"
+    "confidence": "C4",
+    "time": "2026-11-04T19:51:31+00:00"
    },
    {
-    "id": "551059e93db8",
-    "title": "Spanish transport minister resigns days after deadly train crash",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "political",
+    "id": "d7447be96a50",
+    "title": "Law enforcement detains 2 female suspects linked to clashes near Kyiv, media reports",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T20:36:14+00:00"
-   },
-   {
-    "id": "3228709cb035",
-    "title": "French blood banks foil new cyberattack targeting refrigerators",
-    "country": "France",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-04T15:10:17+00:00"
-   },
-   {
-    "id": "cf4fe871795d",
-    "title": "French blood banks hacked in latest cyber-attack on Europe",
-    "country": "France",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-04T13:22:28+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "8ff5b366da04",
-    "title": "‘Vile terrorist attack’: Russia bombs Ukraine aid centre",
-    "country": "Russia",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-03T16:30:08+00:00"
+    "confidence": "C4",
+    "time": "2026-11-04T19:24:43+00:00"
    },
    {
     "id": "ed2c5cf0446a",
@@ -153,29 +91,193 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-04T04:13:37+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "79be2d83a2cf",
+    "title": "Police say explosive devices found in Belfast are linked to ‘rightwing terrorism’",
+    "country": "Ireland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-04T13:15:28+00:00"
    },
    {
-    "id": "6b6b2e946b66",
-    "title": "Drone strikes warehouse in southern Russia, online retailer Ozon claims",
-    "country": "Russia",
+    "id": "a37c50f03741",
+    "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-04T12:43:47+00:00"
+   },
+   {
+    "id": "0f2e55854e0e",
+    "title": "Spanish transport minister resigns after deadly train crash",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-03T21:46:02+00:00"
+   },
+   {
+    "id": "d3cf171b1d7d",
+    "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "health",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T18:18:37+00:00"
+   },
+   {
+    "id": "4f4f6a727390",
+    "title": "Trump after the midterms: Gridlock, impeachment and succession?",
+    "country": "France",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T15:54:58+00:00"
+   },
+   {
+    "id": "68d917c167b9",
+    "title": "Spanish Transport Minister resigns over train crash disasters",
+    "country": "Spain",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T13:52:11+00:00"
+   },
+   {
+    "id": "39b3103fd5f3",
+    "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+    "country": "United Kingdom",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-04T00:42:38+00:00"
+    "confidence": "B3",
+    "time": "2026-11-04T05:00:25+00:00"
    },
    {
-    "id": "6eb7d62bd25d",
-    "title": "Norway deploys additional air defense sensors, troops near Russia border",
-    "country": "Russia",
+    "id": "f32674142a95",
+    "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+    "country": "France",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-04T16:26:15+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "1182adfb0c09",
+    "title": "South Africans vote in key municipal elections",
+    "country": "South Africa",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-03T21:25:50+00:00"
+    "confidence": "B3",
+    "time": "2026-11-04T21:26:13+00:00"
+   },
+   {
+    "id": "81ab51eab8e2",
+    "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+    "country": "DRC",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T11:46:09+00:00"
+   },
+   {
+    "id": "96670ad2befb",
+    "title": "Sudanese Arab refugees face hostility and distrust after fleeing to Chad",
+    "country": "Chad",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T10:18:55+00:00"
+   },
+   {
+    "id": "a31f0a6b1fd9",
+    "title": "WHO approves trials for two new Ebola vaccines",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-04T19:22:09+00:00"
+   },
+   {
+    "id": "629ff720a51a",
+    "title": "Ghana",
+    "country": "Ghana",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-04T17:07:08+00:00"
+   },
+   {
+    "id": "6716c276ba55",
+    "title": "South Africa",
+    "country": "South Africa",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-04T16:54:14+00:00"
+   },
+   {
+    "id": "d6a6b77a0f1e",
+    "title": "Benin",
+    "country": "Benin",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-04T16:27:24+00:00"
+   },
+   {
+    "id": "dd3aae6a78db",
+    "title": "Togo",
+    "country": "Togo",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-04T16:27:18+00:00"
    }
   ],
   "Middle East & N. Africa": [
+   {
+    "id": "34e227812f4c",
+    "title": "US midterm election results live: Trump blames Iran war after losses",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T21:00:00+00:00"
+   },
+   {
+    "id": "c141c59894b2",
+    "title": "Libya's eastern administration appoints a new central bank governor",
+    "country": "Libya",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-04T17:45:54+00:00"
+   },
    {
     "id": "ced2d834b798",
     "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
@@ -205,16 +307,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-04T11:24:50+00:00"
-   },
-   {
-    "id": "b51722030004",
-    "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T19:09:09+00:00"
    },
    {
     "id": "9fe061905c21",
@@ -257,101 +349,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-04T07:40:12.288000+00:00"
-   },
-   {
-    "id": "e93ff8b3959f",
-    "title": "M5.2 earthquake, Volcano Islands, Japan region",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T16:48:13.110000+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "81ab51eab8e2",
-    "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-    "country": "DRC",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T11:46:09+00:00"
-   },
-   {
-    "id": "96670ad2befb",
-    "title": "Sudanese Arab refugees face hostility and distrust after fleeing to Chad",
-    "country": "Chad",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T10:18:55+00:00"
-   },
-   {
-    "id": "32aaf6cfd60d",
-    "title": "Chad",
-    "country": "Chad",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-04T14:33:29+00:00"
-   },
-   {
-    "id": "0b3e0267a1ab",
-    "title": "US requires air passengers to attest they haven’t visited Ebola-hit DRC",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-04T06:32:13+00:00"
-   },
-   {
-    "id": "df65ab9df806",
-    "title": "Opposition party organiser killed before South Africa elections",
-    "country": "South Africa",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-03T16:39:00+00:00"
-   },
-   {
-    "id": "e0faf6d79e0c",
-    "title": "Madagascar",
-    "country": "Madagascar",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T16:23:39+00:00"
-   },
-   {
-    "id": "4ef24d8e8594",
-    "title": "Green forest fire notification in Zambia",
-    "country": "Zambia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T16:11:35+00:00"
-   },
-   {
-    "id": "aa5765c60608",
-    "title": "Green forest fire notification in Central African Republic, Chad",
-    "country": "CAR",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T16:03:02+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "fb105f46e703",
+    "title": "M4.5 earthquake, 2 km W of Chinandega, Nicaragua",
+    "country": "Nicaragua",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-04T19:55:26.313000+00:00"
+   },
    {
     "id": "8f564f99434c",
     "title": "Haitian PM thanks El Salvador for support in fight against gangs",
@@ -361,16 +371,18 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-11-04T10:28:43+00:00"
-   },
+   }
+  ],
+  "North America": [
    {
-    "id": "83ae0f42724c",
-    "title": "Paraguay",
-    "country": "Paraguay",
+    "id": "220664fadec9",
+    "title": "Blue wave across America: do US midterms signal beginning of the end for Trump?",
+    "country": "United States",
     "city": null,
-    "category": "advisory",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T20:29:30+00:00"
+    "confidence": "B3",
+    "time": "2026-11-04T19:49:21+00:00"
    }
   ],
   "Oceania": [
@@ -393,16 +405,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-04T00:32:59.305000+00:00"
-   },
-   {
-    "id": "b5175afcda7a",
-    "title": "The transplanted Scot doing famous father proud in New Zealand",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-03T17:50:16+00:00"
    }
   ],
   "Central Asia": [
@@ -415,18 +417,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-03T21:34:08.654000+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "f6eb4676f8c5",
-    "title": "Trickle or tsunami? Democrats eye gains in US midterm elections",
-    "country": "United States",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-03T19:18:13+00:00"
    }
   ]
  }
