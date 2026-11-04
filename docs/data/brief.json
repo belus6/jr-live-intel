@@ -1,27 +1,99 @@
 {
- "generated": "2026-11-04T07:17:40.104065+00:00",
+ "generated": "2026-11-04T15:40:01.891482+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 34,
-  "3": 28,
-  "4": 1,
-  "5": 1
+  "2": 26,
+  "3": 22,
+  "4": 3,
+  "5": 0
  },
  "watch_hits": [],
  "regions": {
-  "Eastern Europe": [
+  "Western Europe": [
    {
-    "id": "b22f1c2731e3",
-    "title": "Dozens killed, dozens more missing after Russian strike on Ukrainian aid site",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 5,
-    "confidence": "B2",
-    "time": "2026-11-03T10:58:38+00:00"
+    "id": "79be2d83a2cf",
+    "title": "Police say explosive devices found in Belfast are linked to ‘rightwing terrorism’",
+    "country": "Ireland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-04T13:15:28+00:00"
    },
+   {
+    "id": "a37c50f03741",
+    "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-04T12:43:47+00:00"
+   },
+   {
+    "id": "0f2e55854e0e",
+    "title": "Spanish transport minister resigns after deadly train crash",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-03T21:46:02+00:00"
+   },
+   {
+    "id": "68d917c167b9",
+    "title": "Spanish Transport Minister resigns over train crash disasters",
+    "country": "Spain",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T13:52:11+00:00"
+   },
+   {
+    "id": "39b3103fd5f3",
+    "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T05:00:25+00:00"
+   },
+   {
+    "id": "551059e93db8",
+    "title": "Spanish transport minister resigns days after deadly train crash",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-03T20:36:14+00:00"
+   },
+   {
+    "id": "3228709cb035",
+    "title": "French blood banks foil new cyberattack targeting refrigerators",
+    "country": "France",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-04T15:10:17+00:00"
+   },
+   {
+    "id": "cf4fe871795d",
+    "title": "French blood banks hacked in latest cyber-attack on Europe",
+    "country": "France",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-04T13:22:28+00:00"
+   }
+  ],
+  "Eastern Europe": [
    {
     "id": "8ff5b366da04",
     "title": "‘Vile terrorist attack’: Russia bombs Ukraine aid centre",
@@ -31,6 +103,46 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-03T16:30:08+00:00"
+   },
+   {
+    "id": "ed2c5cf0446a",
+    "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T15:04:34+00:00"
+   },
+   {
+    "id": "23eef6ba3568",
+    "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T15:01:10+00:00"
+   },
+   {
+    "id": "ec040f9b1d2d",
+    "title": "And still, they plant: Ukraine's front-line farmers rebuild their businesses against all odds",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-04T09:59:45+00:00"
+   },
+   {
+    "id": "ff09805bc808",
+    "title": "General Staff: Russia has lost 1,597,010 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-04T07:42:20+00:00"
    },
    {
     "id": "66f1703138fa",
@@ -61,173 +173,39 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-03T21:25:50+00:00"
-   },
-   {
-    "id": "8ad60e7996cc",
-    "title": "Russian households face increasing financial strain as war in Ukraine drags on",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T17:05:54+00:00"
-   },
-   {
-    "id": "dbf48119abe3",
-    "title": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T16:52:13+00:00"
-   },
-   {
-    "id": "c24b42dad26d",
-    "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T15:54:39+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "0f2e55854e0e",
-    "title": "Spanish transport minister resigns after deadly train crash",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-03T21:46:02+00:00"
-   },
-   {
-    "id": "39b3103fd5f3",
-    "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T05:00:25+00:00"
-   },
-   {
-    "id": "551059e93db8",
-    "title": "Spanish transport minister resigns days after deadly train crash",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T20:36:14+00:00"
-   },
-   {
-    "id": "d46c0dc1bbee",
-    "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
-    "country": "Germany",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-04T03:16:37+00:00"
-   },
-   {
-    "id": "5ffb528b695f",
-    "title": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-03T22:04:24+00:00"
-   },
-   {
-    "id": "7f0237884c33",
-    "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-03T17:28:49+00:00"
-   },
-   {
-    "id": "f0decea5ed4b",
-    "title": "Political parallels in France and the US: Anger at the ballot box and in the streets",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-03T15:21:19+00:00"
-   },
-   {
-    "id": "22da87e2cd4b",
-    "title": "True crime novel about 1949 murder of Paris life model wins France’s biggest literary prize",
-    "country": "France",
-    "city": "Paris",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-03T14:31:00+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "805c7d66ddb5",
-    "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T03:46:10+00:00"
-   },
-   {
-    "id": "599421ef2bde",
-    "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-    "country": "Myanmar",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T12:00:00+00:00"
-   },
-   {
-    "id": "e93ff8b3959f",
-    "title": "M5.2 earthquake, Volcano Islands, Japan region",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T16:48:13.110000+00:00"
-   },
-   {
-    "id": "bb7a769ffc17",
-    "title": "M4.8 earthquake, 85 km S of Gorontalo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T15:37:51.082000+00:00"
-   },
-   {
-    "id": "8c8c35483560",
-    "title": "Green forest fire notification in Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T12:07:00+00:00"
    }
   ],
   "Middle East & N. Africa": [
+   {
+    "id": "ced2d834b798",
+    "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T14:08:18+00:00"
+   },
+   {
+    "id": "37d0c269df12",
+    "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
+    "country": "Iran",
+    "city": "Tehran",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T14:07:17+00:00"
+   },
+   {
+    "id": "7723a8e12c9f",
+    "title": "‘Seismic shift’: World reacts to US midterm election results",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T11:24:50+00:00"
+   },
    {
     "id": "b51722030004",
     "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
@@ -239,88 +217,88 @@
     "time": "2026-11-03T19:09:09+00:00"
    },
    {
-    "id": "4c4754867219",
-    "title": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T14:18:00+00:00"
-   },
-   {
-    "id": "eb737048b94c",
-    "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+    "id": "9fe061905c21",
+    "title": "‘We want our taxes spent here’: 11 Democrats weigh in after sweeping the US midterm elections",
     "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T13:52:34+00:00"
-   },
-   {
-    "id": "52c97065bdf3",
-    "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T12:00:00+00:00"
-   },
-   {
-    "id": "f9557f4d8ff9",
-    "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T10:29:56+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "d1d1156df1dc",
-    "title": "China and India achieved diplomatic thaw. Now the border is flaring up",
-    "country": "India",
-    "city": "Delhi",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T14:48:00+00:00"
-   },
-   {
-    "id": "b6e1d51cd61e",
-    "title": "Cyclone Murasu makes landfall on India’s eastern coast",
-    "country": "India",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-03T09:33:18+00:00"
+    "time": "2026-11-04T14:33:21+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "dd50e34e9fcd",
+    "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T12:52:00+00:00"
+   },
+   {
+    "id": "805c7d66ddb5",
+    "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T03:46:10+00:00"
+   },
+   {
+    "id": "2aae47875b32",
+    "title": "M5.0 earthquake, 207 km ESE of Sarangani, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-04T07:40:12.288000+00:00"
+   },
+   {
+    "id": "e93ff8b3959f",
+    "title": "M5.2 earthquake, Volcano Islands, Japan region",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-03T16:48:13.110000+00:00"
    }
   ],
   "Sub-Saharan Africa": [
    {
-    "id": "f85b45e49e34",
-    "title": "Ethiopia's Tigray rebels claim to have inflicted heavy losses on army",
-    "country": "Ethiopia",
+    "id": "81ab51eab8e2",
+    "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+    "country": "DRC",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T11:46:09+00:00"
+   },
+   {
+    "id": "96670ad2befb",
+    "title": "Sudanese Arab refugees face hostility and distrust after fleeing to Chad",
+    "country": "Chad",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-03T11:52:59+00:00"
+    "confidence": "B3",
+    "time": "2026-11-04T10:18:55+00:00"
    },
    {
-    "id": "d5f627bbe94b",
-    "title": "Uganda withdraws its troops from Somalia as fight against rebels persists",
-    "country": "Uganda",
-    "city": "Kampala",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-03T11:50:18+00:00"
+    "id": "32aaf6cfd60d",
+    "title": "Chad",
+    "country": "Chad",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-04T14:33:29+00:00"
    },
    {
     "id": "0b3e0267a1ab",
@@ -371,16 +349,28 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-03T16:03:02+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "8f564f99434c",
+    "title": "Haitian PM thanks El Salvador for support in fight against gangs",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-04T10:28:43+00:00"
    },
    {
-    "id": "c72ab7dce60c",
-    "title": "Green forest fire notification in Nigeria",
-    "country": "Nigeria",
+    "id": "83ae0f42724c",
+    "title": "Paraguay",
+    "country": "Paraguay",
     "city": null,
-    "category": "hazard",
+    "category": "advisory",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-03T12:03:30+00:00"
+    "time": "2026-11-03T20:29:30+00:00"
    }
   ],
   "Oceania": [
@@ -425,38 +415,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-03T21:34:08.654000+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "83ae0f42724c",
-    "title": "Paraguay",
-    "country": "Paraguay",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T20:29:30+00:00"
-   },
-   {
-    "id": "f6db40489225",
-    "title": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-03T12:00:00+00:00"
-   },
-   {
-    "id": "108e85ce1cdf",
-    "title": "M5.4 earthquake, 24 km NNW of Rioblanco, Colombia",
-    "country": "Colombia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T09:13:14.972000+00:00"
    }
   ],
   "North America": [

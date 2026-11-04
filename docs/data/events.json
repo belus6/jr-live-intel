@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T07:17:40.104065+00:00",
+ "generated": "2026-11-04T15:40:01.891482+00:00",
  "sample": false,
- "count": 408,
+ "count": 388,
  "events": [
   {
    "title": "Dozens killed, dozens more missing after Russian strike on Ukrainian aid site",
@@ -347,6 +347,62 @@
    "watch": []
   },
   {
+   "title": "Police say explosive devices found in Belfast are linked to ‘rightwing terrorism’",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/nov/04/weapons-haul-belfast-linked-to-far-right",
+   "time": "2026-11-04T13:15:28+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "Ireland",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/04/weapons-haul-belfast-linked-to-far-right",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "79be2d83a2cf",
+   "flag": "🇮🇪",
+   "region": "Western Europe",
+   "baseline": 1.0,
+   "watch": []
+  },
+  {
+   "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
+   "time": "2026-11-04T12:43:47+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a37c50f03741",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
    "title": "‘Vile terrorist attack’: Russia bombs Ukraine aid centre",
    "summary": "",
    "url": "https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre",
@@ -655,39 +711,6 @@
    "watch": []
   },
   {
-   "title": "Oleshky residents return to Ukraine",
-   "summary": "",
-   "url": "https://www.france24.com/en/oleshky-residents-return-to-ukraine",
-   "time": "2026-11-01T14:56:05+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/oleshky-residents-return-to-ukraine",
-     "tier": "B"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/tears-and-joy-as-oleshky-residents-reunite-with-relatives-in-ukraine/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-01T17:14:57.872569+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "be5b5b25b3f7",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "'Life simply returned' – Oleshky ceasefire gives Kherson short respite amid years of Russian terror",
    "summary": "",
    "url": "https://kyivindependent.com/life-simply-returned-oleshky-ceasefire-gives-kherson-short-respite-amid-years-of-russian-terror/",
@@ -710,39 +733,6 @@
    "confidence": "C4",
    "corroboration": 1,
    "id": "a8d46f764a25",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Ceasefire in Ukraine's Kherson region ends after Russia refuses extension",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
-   "time": "2026-11-01T12:41:48+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
-     "tier": "B"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-02T00:51:14.039794+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "30bd817063c5",
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
@@ -1372,6 +1362,314 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+   "summary": "",
+   "url": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
+   "time": "2026-11-04T15:04:34+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ed2c5cf0446a",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-04T15:01:10+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "23eef6ba3568",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
+   "time": "2026-11-04T14:08:18+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ced2d834b798",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
+   "time": "2026-11-04T14:07:17+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Iran",
+   "city": "Tehran",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "37d0c269df12",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Spanish Transport Minister resigns over train crash disasters",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/spanish-transport-minister-resigns-over-train-crash-disasters?traffic_source=rss",
+   "time": "2026-11-04T13:52:11+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Spain",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/spanish-transport-minister-resigns-over-train-crash-disasters?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "68d917c167b9",
+   "flag": "🇪🇸",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
+   "summary": "",
+   "url": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-world-4025-rdf",
+   "time": "2026-11-04T12:52:00+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Indonesia",
+   "city": "Jakarta",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-world-4025-rdf",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "dd50e34e9fcd",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-04T11:46:09+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "DRC",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "81ab51eab8e2",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
+   "watch": []
+  },
+  {
+   "title": "‘Seismic shift’: World reacts to US midterm election results",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
+   "time": "2026-11-04T11:24:50+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Iran",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7723a8e12c9f",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Sudanese Arab refugees face hostility and distrust after fleeing to Chad",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261104-sudanese-arab-refugees-face-hostility-and-distrust-after-fleeing-to-chad",
+   "time": "2026-11-04T10:18:55+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Chad",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261104-sudanese-arab-refugees-face-hostility-and-distrust-after-fleeing-to-chad",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "96670ad2befb",
+   "flag": "🇹🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.62,
+   "watch": []
+  },
+  {
+   "title": "And still, they plant: Ukraine's front-line farmers rebuild their businesses against all odds",
+   "summary": "",
+   "url": "https://kyivindependent.com/and-still-they-plant-front-line-farmers-rebuild-their-businesses-against-all-odds-2/",
+   "time": "2026-11-04T09:59:45+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/and-still-they-plant-front-line-farmers-rebuild-their-businesses-against-all-odds-2/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "ec040f9b1d2d",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "General Staff: Russia has lost 1,597,010 troops in Ukraine since Feb. 24, 2022",
+   "summary": "",
+   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-597-010-troops-in-ukraine-since-feb-24-2022/",
+   "time": "2026-11-04T07:42:20+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-597-010-troops-in-ukraine-since-feb-24-2022/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "ff09805bc808",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -3238,174 +3536,6 @@
    "watch": []
   },
   {
-   "title": "Zelensky confirms attack on Russian rocket fuel factory, missile launcher system",
-   "summary": "",
-   "url": "https://kyivindependent.com/zelensky-confirms-attack-on-russian-rocket-fuel-factory-missile-launcher-system/",
-   "time": "2026-11-01T14:07:08+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/zelensky-confirms-attack-on-russian-rocket-fuel-factory-missile-launcher-system/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-01T17:14:57.872569+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "360d9c667984",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
-   "time": "2026-11-01T13:36:16+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-01T17:14:57.872569+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "92a572b6dba9",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "Ceasefire in Ukraine's Kherson region set to end after Russia refuses extension",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
-   "time": "2026-11-01T12:41:48+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-01T21:14:54.337904+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ca1f2cff0eed",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Yemeni government forces seize strategic positions in al-Jawf",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
-   "time": "2026-11-01T10:08:55+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Yemen",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-01T11:42:43.851304+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "5c4d63c9712a",
-   "flag": "🇾🇪",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.84,
-   "watch": []
-  },
-  {
-   "title": "Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says",
-   "summary": "",
-   "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
-   "time": "2026-11-01T09:30:23+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-01T11:42:43.851304+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "24da3b36a8b6",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "General Staff: Russia has lost 1,590,270 troops in Ukraine since Feb. 24, 2022",
-   "summary": "",
-   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-590-270-troops-in-ukraine-since-feb-24-2022/",
-   "time": "2026-11-01T08:01:08+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-590-270-troops-in-ukraine-since-feb-24-2022/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-01T11:42:43.851304+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "589c47827826",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "India's opposition holds mega rally seeking election chief's resignation",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
@@ -3627,34 +3757,6 @@
    "flag": "🇩🇪",
    "region": "Western Europe",
    "baseline": 1.07,
-   "watch": []
-  },
-  {
-   "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-   "summary": "",
-   "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-   "time": "2026-10-30T10:07:16+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Greece",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T16:15:57.759860+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "42dcc54c451e",
-   "flag": "🇬🇷",
-   "region": "Western Europe",
-   "baseline": 1.65,
    "watch": []
   },
   {
@@ -4246,314 +4348,6 @@
    "watch": []
   },
   {
-   "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-   "time": "2026-10-28T15:33:03+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T15:45:41.205699+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "3da0272f82e8",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Tsikhanouskaya on how Russia’s closest ally is playing the US",
-   "summary": "",
-   "url": "https://kyivindependent.com/tsikhanouskaya-on-how-russias-closest-ally-is-playing-the-us/",
-   "time": "2026-10-28T15:00:55+00:00",
-   "tier": "C",
-   "category": "political",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/tsikhanouskaya-on-how-russias-closest-ally-is-playing-the-us/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-28T15:45:41.205699+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "6f401be04d76",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Israel's election result is messy - here's why",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-28T14:26:24+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T15:45:41.205699+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4a03f37d6f9d",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Pakistan’s Rauf sanctioned for conduct contrary to ‘spirit’ of cricket",
-   "summary": "",
-   "url": "https://www.aljazeera.com/sports/2026/10/28/haris-rauf-sanctioned-england-penalised-for-slow-over-rate-in-odi-thriller-pakistan?traffic_source=rss",
-   "time": "2026-10-28T12:44:18+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Pakistan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/10/28/haris-rauf-sanctioned-england-penalised-for-slow-over-rate-in-odi-thriller-pakistan?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T15:45:41.205699+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "054535daae34",
-   "flag": "🇵🇰",
-   "region": "South Asia",
-   "baseline": 4.31,
-   "watch": []
-  },
-  {
-   "title": "Israeli election: As votes are counted, no clear winner emerges",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261028-israeli-election-as-votes-are-counted-no-clear-winner-emerges",
-   "time": "2026-10-28T11:32:07+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Israel",
-   "city": "Jerusalem",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261028-israeli-election-as-votes-are-counted-no-clear-winner-emerges",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T15:45:41.205699+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4f375065cf72",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Nearly 50 companies involved in producing Russia's Starlink alternative, 23 not under international sanctions, HUR says",
-   "summary": "",
-   "url": "https://kyivindependent.com/nearly-50-companies-involved-in-producing-russias-starlink-alternative-23-not-under-international-sanctions-hur-says/",
-   "time": "2026-10-28T10:49:28+00:00",
-   "tier": "C",
-   "category": "political",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/nearly-50-companies-involved-in-producing-russias-starlink-alternative-23-not-under-international-sanctions-hur-says/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-28T15:45:41.205699+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "d5122748e25f",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Israeli election: 'Wishful thinking' for pro- and anti-Netanyahu parties?",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/press-review/20261028-israeli-election-wishful-thinking-for-pro-and-anti-netanyahu-parties",
-   "time": "2026-10-28T10:15:25+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/press-review/20261028-israeli-election-wishful-thinking-for-pro-and-anti-netanyahu-parties",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T15:45:41.205699+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ea4bf7739d35",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Israelis await final election results as Netanyahu remains far from defeated",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261028-israelis-await-final-election-results-as-netanyahu-remains-far-from-defeated",
-   "time": "2026-10-28T10:12:33+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261028-israelis-await-final-election-results-as-netanyahu-remains-far-from-defeated",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T15:45:41.205699+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fc68d4df8c62",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Israeli election results show no clear winner between Netanyahu, opposition",
-   "summary": "",
-   "url": "https://www.npr.org/2026/10/28/nx-s1-6019423/israeli-election-results-show-no-clear-winner-between-netanyahu-opposition",
-   "time": "2026-10-28T08:46:47+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "NPR World",
-     "url": "https://www.npr.org/2026/10/28/nx-s1-6019423/israeli-election-results-show-no-clear-winner-between-netanyahu-opposition",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T08:52:38.848740+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "2b23b69fa0b8",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Israel election results live: vote count continues as exit polls suggest no clear winner",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-   "time": "2026-10-28T08:42:49+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T08:52:38.848740+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "bddce5669b49",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
-   "watch": []
-  },
-  {
-   "title": "Why the US midterms matter even if you don’t live in America",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss",
-   "time": "2026-10-28T08:15:19+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-28T08:52:38.848740+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "0977b42b42a4",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
    "title": "Nigeria evacuates Ebola patient to Switzerland, tracks 53 contacts",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/26/nigeria-evacuates-ebola-patient-to-switzerland-tracks-53-contacts/",
@@ -4579,6 +4373,258 @@
    "flag": "🇳🇬",
    "region": "Sub-Saharan Africa",
    "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "French blood banks foil new cyberattack targeting refrigerators",
+   "summary": "",
+   "url": "https://www.france24.com/en/france/20261104-french-blood-banks-foil-new-cyberattack-targeting-refrigerators",
+   "time": "2026-11-04T15:10:17+00:00",
+   "tier": "B",
+   "category": "cyber",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261104-french-blood-banks-foil-new-cyberattack-targeting-refrigerators",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3228709cb035",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Moldova",
+   "summary": "This travel advice has been reviewed for accuracy with changes made throughout, including updated information about visa requirements, land border crossings, entering Moldova from Ukraine, political situation, humanitarian support workers, crime, using cameras, money and taxi's ('Entry requirements' and 'Safety and security' pages).",
+   "url": "https://www.gov.uk/foreign-travel-advice/moldova",
+   "time": "2026-11-04T14:54:38+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Moldova",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UK FCDO travel advice updates",
+     "url": "https://www.gov.uk/foreign-travel-advice/moldova",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e12d8c41ff5c",
+   "flag": "🇲🇩",
+   "region": "Eastern Europe",
+   "baseline": 2.77,
+   "watch": []
+  },
+  {
+   "title": "Kyiv Independent hit by suspected Russian cyberattack",
+   "summary": "",
+   "url": "https://kyivindependent.com/kyiv-independent-hit-by-suspected-russian-cyberattack/",
+   "time": "2026-11-04T14:49:08+00:00",
+   "tier": "C",
+   "category": "cyber",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/kyiv-independent-hit-by-suspected-russian-cyberattack/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "2fdf905335f2",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Chad",
+   "summary": "This travel advice has been reviewed for accuracy with changes made throughout, including updated information about applying for a visa, terrorism in Chad, terrorist kidnapping, political situation, robbery, protecting yourself and your belongings, Ramadan, driving standards and security, travelling outside N'Djamena, regional risks, health risks you may face in Chad, including Dengue and emergenc",
+   "url": "https://www.gov.uk/foreign-travel-advice/chad",
+   "time": "2026-11-04T14:33:29+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Chad",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UK FCDO travel advice updates",
+     "url": "https://www.gov.uk/foreign-travel-advice/chad",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "32aaf6cfd60d",
+   "flag": "🇹🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.62,
+   "watch": []
+  },
+  {
+   "title": "‘We want our taxes spent here’: 11 Democrats weigh in after sweeping the US midterm elections",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/democrat-midterm-election-remarks",
+   "time": "2026-11-04T14:33:21+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Iran",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/04/democrat-midterm-election-remarks",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "9fe061905c21",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "French blood banks hacked in latest cyber-attack on Europe",
+   "summary": "",
+   "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
+   "time": "2026-11-04T13:22:28+00:00",
+   "tier": "B",
+   "category": "cyber",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "cf4fe871795d",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Portugal: Housing protesters return to Lisbon square after court ruling",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/11/04/portugal-housing-protesters-return-to-lisbon-square-after-court-ruling/",
+   "time": "2026-11-04T10:45:50+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Portugal",
+   "city": "Lisbon",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/11/04/portugal-housing-protesters-return-to-lisbon-square-after-court-ruling/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "e2e0a3951f71",
+   "flag": "🇵🇹",
+   "region": "Western Europe",
+   "baseline": 1.0,
+   "watch": []
+  },
+  {
+   "title": "Haitian PM thanks El Salvador for support in fight against gangs",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/11/04/haitian-pm-thanks-el-salvador-for-support-in-fight-against-gangs/",
+   "time": "2026-11-04T10:28:43+00:00",
+   "tier": "C",
+   "category": "crime",
+   "country": "Brazil",
+   "city": "Salvador",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/11/04/haitian-pm-thanks-el-salvador-for-support-in-fight-against-gangs/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "8f564f99434c",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "M5.0 earthquake, 207 km ESE of Sarangani, Philippines",
+   "summary": "Depth 49 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj",
+   "time": "2026-11-04T07:40:12.288000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Philippines",
+   "city": null,
+   "lat": 4.3895,
+   "lon": 127.0325,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "2aae47875b32",
+   "flag": "🇵🇭",
+   "region": "East & SE Asia",
+   "baseline": 3.11,
    "watch": []
   },
   {
@@ -5674,6 +5720,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Brazil",
+   "summary": "On 22/10/2026, a forest fire started in Brazil, until 02/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033448",
+   "time": "2026-11-03T04:27:48+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Brazil",
+   "city": null,
+   "lat": -3.3012264818231247,
+   "lon": -54.278915055135215,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033448",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-04T15:40:01.891482+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "b81a60a934db",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
    "title": "Green forest fire notification in Bolivia",
    "summary": "On 26/10/2026, a forest fire started in Bolivia, until 02/11/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033447",
@@ -6463,34 +6537,6 @@
    "watch": []
   },
   {
-   "title": "Cape Verde president rallies supporters as election campaign begins",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/11/01/cape-verde-president-rallies-supporters-as-election-campaign-begins/",
-   "time": "2026-11-02T14:16:54+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Cabo Verde",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/11/01/cape-verde-president-rallies-supporters-as-election-campaign-begins/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-02T17:21:22.307503+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "0d301a4f824c",
-   "flag": "🇨🇻",
-   "region": "Latin America & Caribbean",
-   "baseline": 1.81,
-   "watch": []
-  },
-  {
    "title": "M4.7 earthquake, south of the Fiji Islands",
    "summary": "Depth 502 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuwv",
@@ -6547,62 +6593,6 @@
    "watch": []
   },
   {
-   "title": "Police arrive at German university pro-Palestine protest",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/police-arrive-at-german-university-pro-palestine-protest?traffic_source=rss",
-   "time": "2026-11-02T13:37:26+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Germany",
-   "city": "Hamburg",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/police-arrive-at-german-university-pro-palestine-protest?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-02T17:21:22.307503+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "333bc85dd1f5",
-   "flag": "🇩🇪",
-   "region": "Western Europe",
-   "baseline": 1.07,
-   "watch": []
-  },
-  {
-   "title": "'No political solution' to anger in France, expert says amid ongoing protests",
-   "summary": "",
-   "url": "https://www.france24.com/en/tv-shows/perspective/20261102-no-political-solution-to-the-anger-in-france-expert-says-amid-ongoing-protests",
-   "time": "2026-11-02T12:41:04+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/perspective/20261102-no-political-solution-to-the-anger-in-france-expert-says-amid-ongoing-protests",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-02T17:21:22.307503+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "a8f9749cca2a",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Suspected cyberattacks trigger supermarket fridge failures across Europe",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss",
@@ -6631,34 +6621,6 @@
    "watch": []
   },
   {
-   "title": "2,000 Salvadoran troops deploy to Haiti to help fight gangs",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/31/2000-salvadoran-troops-deploy-to-haiti-to-help-fight-gangs/",
-   "time": "2026-11-02T11:57:18+00:00",
-   "tier": "C",
-   "category": "crime",
-   "country": "Haiti",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/31/2000-salvadoran-troops-deploy-to-haiti-to-help-fight-gangs/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-02T17:21:22.307503+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "79f2e9fc0bd5",
-   "flag": "🇭🇹",
-   "region": "Latin America & Caribbean",
-   "baseline": 4.53,
-   "watch": []
-  },
-  {
    "title": "Ebola fatality rate in DR Congo tops 50% as death toll reaches 5,372",
    "summary": "",
    "url": "http://www.africanews.com/2026/11/02/ebola-fatality-rate-in-dr-congo-tops-50-as-death-toll-reaches-5372/",
@@ -6684,39 +6646,6 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "French school protests resume on small scale as students return from break",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/2/french-school-protests-resume-on-small-scale-as-students-return-from-break?traffic_source=rss",
-   "time": "2026-11-02T11:39:22+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/2/french-school-protests-resume-on-small-scale-as-students-return-from-break?traffic_source=rss",
-     "tier": "B"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261102-french-school-protests-resume-on-smaller-scale-after-autumn-break",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-02T17:21:22.307503+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "39c3f0ff27ed",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -6773,34 +6702,6 @@
    "flag": "🇵🇭",
    "region": "East & SE Asia",
    "baseline": 3.11,
-   "watch": []
-  },
-  {
-   "title": "Israeli right-wing activists protest possible Arab coalition",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/11/02/israeli-right-wing-activists-protest-possible-arab-coalition/",
-   "time": "2026-11-02T08:37:35+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Israel",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/11/02/israeli-right-wing-activists-protest-possible-arab-coalition/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-02T17:21:22.307503+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "d2ba4846c9de",
-   "flag": "🇮🇱",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.89,
    "watch": []
   },
   {
@@ -7338,34 +7239,6 @@
    "flag": "🇨🇳",
    "region": "East & SE Asia",
    "baseline": 2.75,
-   "watch": []
-  },
-  {
-   "title": "Binance restarts withdrawals after $6.3bn heist",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss",
-   "time": "2026-11-01T12:50:55+00:00",
-   "tier": "B",
-   "category": "cyber",
-   "country": "North Korea",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-01T17:14:57.872569+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fb933a7c341f",
-   "flag": "🇰🇵",
-   "region": "East & SE Asia",
-   "baseline": 4.61,
    "watch": []
   },
   {
@@ -8433,34 +8306,6 @@
    "watch": []
   },
   {
-   "title": "Spain working to identify train crash dead as relatives' anguish grows",
-   "summary": "",
-   "url": "https://www.france24.com/en/video/20261030-spain-working-to-identify-train-crash-dead-as-relatives-anguish-grows",
-   "time": "2026-10-30T15:34:20+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Spain",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261030-spain-working-to-identify-train-crash-dead-as-relatives-anguish-grows",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T16:15:57.759860+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "7b21a8cfa4bc",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
    "title": "Tanzania",
    "summary": "Additional information about use of security measures to reduce the risk of burglary in hotels and other accommodation (‘Safety and security’ page).",
    "url": "https://www.gov.uk/foreign-travel-advice/tanzania",
@@ -8486,90 +8331,6 @@
    "flag": "🇹🇿",
    "region": "Sub-Saharan Africa",
    "baseline": 2.67,
-   "watch": []
-  },
-  {
-   "title": "Bhutan hot springs hit by flood from glacial lake burst",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/30/bhutan-hot-springs-hit-by-flood-from-glacial-lake-burst?traffic_source=rss",
-   "time": "2026-10-30T14:01:03+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Bhutan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/30/bhutan-hot-springs-hit-by-flood-from-glacial-lake-burst?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T16:15:57.759860+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f1cc695ce85e",
-   "flag": "🇧🇹",
-   "region": "South Asia",
-   "baseline": 1.73,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Mozambique",
-   "summary": "On 15/10/2026, a forest fire started in Mozambique, until 28/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033296",
-   "time": "2026-10-30T13:55:01+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Mozambique",
-   "city": null,
-   "lat": -15.330336926797822,
-   "lon": 40.442698884629834,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033296",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-30T20:58:10.770274+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "fadaf5c3b005",
-   "flag": "🇲🇿",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.83,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 68 km ENE of Kuji, Japan",
-   "summary": "Depth 43 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu83",
-   "time": "2026-10-30T13:18:19.151000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Japan",
-   "city": null,
-   "lat": 40.4803,
-   "lon": 142.4748,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu83",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-31T06:19:22.972486+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "0559faf682c3",
-   "flag": "🇯🇵",
-   "region": "East & SE Asia",
-   "baseline": 1.07,
    "watch": []
   },
   {
@@ -8601,34 +8362,6 @@
    "watch": []
   },
   {
-   "title": "Green forest fire notification in Botswana, South Africa",
-   "summary": "On 27/10/2026, a forest fire started in Botswana, South Africa, until 31/10/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033307",
-   "time": "2026-10-30T12:03:46+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Botswana",
-   "city": null,
-   "lat": -25.520564204557456,
-   "lon": 24.675667852260695,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033307",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-01T11:42:43.851304+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "242bb3870d77",
-   "flag": "🇧🇼",
-   "region": "Sub-Saharan Africa",
-   "baseline": 1.9,
-   "watch": []
-  },
-  {
    "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
    "summary": "",
    "url": "https://news.un.org/feed/view/en/story/2026/10/1168708",
@@ -8654,174 +8387,6 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "Indonesia: nine orangutans rescued from wildfires return to the forest",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest/",
-   "time": "2026-10-30T11:17:50+00:00",
-   "tier": "C",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-10-30T16:15:57.759860+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "19955fbe5a63",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "M4.7 earthquake, 42 km SE of Sykiá, Greece",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7m",
-   "time": "2026-10-30T10:45:03.842000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Greece",
-   "city": null,
-   "lat": 39.7308,
-   "lon": 24.2284,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7m",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-30T16:15:57.759860+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "97473367ba87",
-   "flag": "🇬🇷",
-   "region": "Western Europe",
-   "baseline": 1.65,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 104 km ENE of Barcelona, Philippines",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7k",
-   "time": "2026-10-30T10:24:11.303000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Spain",
-   "city": null,
-   "lat": 8.3731,
-   "lon": 127.3616,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7k",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-30T16:15:57.759860+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "caa2d29fa9b1",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Green flood alert in Egypt",
-   "summary": "On 26/10/2026, a flood started in Egypt, lasting until 28/10/2026 (last update). The flood caused 2 deaths and 0 displaced .",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104264",
-   "time": "2026-10-30T10:18:46+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Egypt",
-   "city": null,
-   "lat": 29.2076755,
-   "lon": 33.8119441,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104264",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-30T16:15:57.759860+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "0667e1e3e203",
-   "flag": "🇪🇬",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.82,
-   "watch": []
-  },
-  {
-   "title": "Green flood alert in Syria",
-   "summary": "On 27/10/2026, a flood started in Syria, lasting until 29/10/2026 (last update). The flood caused 1 deaths and 375 displaced .",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104263",
-   "time": "2026-10-30T09:34:20+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Syria",
-   "city": null,
-   "lat": 35.9627618,
-   "lon": 39.0145648,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104263",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-30T09:41:18.231860+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "58bdc478aaf0",
-   "flag": "🇸🇾",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.8,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 64 km SSW of Shikotan, Russia",
-   "summary": "Depth 44 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7b",
-   "time": "2026-10-30T08:45:49.982000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Russia",
-   "city": null,
-   "lat": 43.2605,
-   "lon": 146.4242,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7b",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-10-31T00:38:51.190111+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "efa6342d1216",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
    "watch": []
   },
   {
@@ -8853,34 +8418,6 @@
    "watch": []
   },
   {
-   "title": "Smoke from wildfires killed 3,500 people in Indonesia in September: Report",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/10/30/smoke-from-wildfires-killed-3500-people-in-indonesia-in-september-report?traffic_source=rss",
-   "time": "2026-10-30T08:20:30+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/30/smoke-from-wildfires-killed-3500-people-in-indonesia-in-september-report?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T09:41:18.231860+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "142c5e550488",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
    "title": "DR Congo: MSF celebrates Ebola patient discharges in Ituri province",
    "summary": "",
    "url": "http://www.africanews.com/2026/10/30/dr-congo-msf-celebrates-ebola-patient-discharges-in-ituri-province/",
@@ -8906,34 +8443,6 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "Philippines raises alert as Mayon Volcano erupts",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/philippines-raises-alert-as-mayon-volcano-erupts?traffic_source=rss",
-   "time": "2026-10-30T07:37:38+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Philippines",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/philippines-raises-alert-as-mayon-volcano-erupts?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-30T09:41:18.231860+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "542636ca8527",
-   "flag": "🇵🇭",
-   "region": "East & SE Asia",
-   "baseline": 3.11,
    "watch": []
   },
   {
@@ -10771,110 +10280,6 @@
    "flag": "🇹🇲",
    "region": "Central Asia",
    "baseline": 3.54,
-   "watch": []
-  },
-  {
-   "title": "Nigeria's first ebola case sparks shock and urgent concern nationwide",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/21/nigerias-first-ebola-case-sparks-shock-and-urgent-concern-nationwide/",
-   "time": "2026-10-21T12:03:58+00:00",
-   "tier": "C",
-   "category": "health",
-   "country": "Nigeria",
-   "city": "Abuja",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/21/nigerias-first-ebola-case-sparks-shock-and-urgent-concern-nationwide/",
-     "tier": "C"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-21T15:15:04.002612+00:00",
-   "confidence": "C1",
-   "corroboration": 3,
-   "id": "e0bbbc0b6fae",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
-   "watch": []
-  },
-  {
-   "title": "WHO supports Nigeria after first Ebola case confirmed",
-   "summary": "",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168637",
-   "time": "2026-10-21T12:00:00+00:00",
-   "tier": "B",
-   "category": "health",
-   "country": "Nigeria",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168637",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-23T11:59:16.168714+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ef446f3a7dac",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
-   "watch": []
-  },
-  {
-   "title": "Nigeria confirms first Ebola case as outbreak spreads across Africa",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/10/21/nigeria-confirms-first-ebola-case-as-outbreak-spreads-across-africa/",
-   "time": "2026-10-21T07:21:27+00:00",
-   "tier": "C",
-   "category": "health",
-   "country": "Nigeria",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/10/21/nigeria-confirms-first-ebola-case-as-outbreak-spreads-across-africa/",
-     "tier": "C"
-    },
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168637",
-     "tier": "B"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-10-21T10:08:59.221435+00:00",
-   "confidence": "C1",
-   "corroboration": 3,
-   "id": "2f67a461be14",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
    "watch": []
   },
   {
