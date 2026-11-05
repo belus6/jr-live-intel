@@ -1,181 +1,27 @@
 {
- "generated": "2026-11-05T01:49:20.430885+00:00",
+ "generated": "2026-11-05T09:03:21.150184+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 23,
-  "3": 23,
-  "4": 3,
+  "2": 28,
+  "3": 26,
+  "4": 4,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
-  "Eastern Europe": [
-   {
-    "id": "ee92be3ec3ba",
-    "title": "Serbia detains police officers over alleged use of force against protesters",
-    "country": "Serbia",
-    "city": "Belgrade",
-    "category": "unrest",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-04T20:42:14+00:00"
-   },
-   {
-    "id": "35b8ebdfc007",
-    "title": "Russia has capacity to produce over 200 ballistic, cruise missiles per month, Ukraine's military intelligence says",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-04T19:51:31+00:00"
-   },
-   {
-    "id": "d7447be96a50",
-    "title": "Law enforcement detains 2 female suspects linked to clashes near Kyiv, media reports",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-04T19:24:43+00:00"
-   },
-   {
-    "id": "ed2c5cf0446a",
-    "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T15:04:34+00:00"
-   },
-   {
-    "id": "23eef6ba3568",
-    "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T15:01:10+00:00"
-   },
-   {
-    "id": "ec040f9b1d2d",
-    "title": "And still, they plant: Ukraine's front-line farmers rebuild their businesses against all odds",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-04T09:59:45+00:00"
-   },
-   {
-    "id": "ff09805bc808",
-    "title": "General Staff: Russia has lost 1,597,010 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-04T07:42:20+00:00"
-   },
-   {
-    "id": "66f1703138fa",
-    "title": "Ukrainian-born US lawmaker Victoria Spartz loses congressional seat to Democrat",
-    "country": "Ukraine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-04T04:13:37+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "79be2d83a2cf",
-    "title": "Police say explosive devices found in Belfast are linked to ‘rightwing terrorism’",
-    "country": "Ireland",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-04T13:15:28+00:00"
-   },
-   {
-    "id": "a37c50f03741",
-    "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-04T12:43:47+00:00"
-   },
-   {
-    "id": "d3cf171b1d7d",
-    "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "health",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T18:18:37+00:00"
-   },
-   {
-    "id": "4f4f6a727390",
-    "title": "Trump after the midterms: Gridlock, impeachment and succession?",
-    "country": "France",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T15:54:58+00:00"
-   },
-   {
-    "id": "68d917c167b9",
-    "title": "Spanish Transport Minister resigns over train crash disasters",
-    "country": "Spain",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T13:52:11+00:00"
-   },
-   {
-    "id": "39b3103fd5f3",
-    "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T05:00:25+00:00"
-   },
-   {
-    "id": "f32674142a95",
-    "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-    "country": "France",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-04T16:26:15+00:00"
-   },
-   {
-    "id": "3228709cb035",
-    "title": "French blood banks foil new cyberattack targeting refrigerators",
-    "country": "France",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-04T15:10:17+00:00"
-   }
-  ],
   "Middle East & N. Africa": [
+   {
+    "id": "c989ad76a01b",
+    "title": "Melania Trump to host Ukrainian, Russian officials at White House",
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-05T05:23:48+00:00"
+   },
    {
     "id": "8cda1213e4a7",
     "title": "Pete Hegseth may take fall for Republicans’ midterm losses, despite Trump support",
@@ -245,16 +91,254 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-04T11:24:50+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "ee92be3ec3ba",
+    "title": "Serbia detains police officers over alleged use of force against protesters",
+    "country": "Serbia",
+    "city": "Belgrade",
+    "category": "unrest",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-04T20:42:14+00:00"
    },
    {
-    "id": "22bc1f502259",
-    "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
-    "country": "Iran",
-    "city": "Tehran",
+    "id": "ae1136a59d0e",
+    "title": "General Staff: Russia has lost 1,599,390 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-05T07:07:59+00:00"
+   },
+   {
+    "id": "842428b9028c",
+    "title": "Russian drone attacks injure 4 in Dnipropetrovsk and Kyiv oblasts, spark fires at infrastructure facilities",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-05T04:58:00+00:00"
+   },
+   {
+    "id": "65c2e53ba50c",
+    "title": "Drone attack sparks fires at industrial facilities in Russia's Ryazan, oil refinery reportedly targeted",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-05T02:05:00+00:00"
+   },
+   {
+    "id": "35b8ebdfc007",
+    "title": "Russia has capacity to produce over 200 ballistic, cruise missiles per month, Ukraine's military intelligence says",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-04T19:51:31+00:00"
+   },
+   {
+    "id": "d7447be96a50",
+    "title": "Law enforcement detains 2 female suspects linked to clashes near Kyiv, media reports",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-04T19:24:43+00:00"
+   },
+   {
+    "id": "ed2c5cf0446a",
+    "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T15:04:34+00:00"
+   },
+   {
+    "id": "23eef6ba3568",
+    "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T15:01:10+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "79be2d83a2cf",
+    "title": "Police say explosive devices found in Belfast are linked to ‘rightwing terrorism’",
+    "country": "Ireland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-04T13:15:28+00:00"
+   },
+   {
+    "id": "a37c50f03741",
+    "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-04T12:43:47+00:00"
+   },
+   {
+    "id": "cc51b8150d28",
+    "title": "Italian chef fired after refusing to put pineapple on pizza",
+    "country": "Italy",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-05T07:56:53+00:00"
+   },
+   {
+    "id": "155c6141427c",
+    "title": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-05T05:00:54+00:00"
+   },
+   {
+    "id": "d3cf171b1d7d",
+    "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "health",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T18:18:37+00:00"
+   },
+   {
+    "id": "4f4f6a727390",
+    "title": "Trump after the midterms: Gridlock, impeachment and succession?",
+    "country": "France",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T15:54:58+00:00"
+   },
+   {
+    "id": "68d917c167b9",
+    "title": "Spanish Transport Minister resigns over train crash disasters",
+    "country": "Spain",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T13:52:11+00:00"
+   },
+   {
+    "id": "f299b1733784",
+    "title": "Norman conquest castle and Dickens chalet among sites added to heritage at risk register",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-05T06:00:56+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "3830a224aa1e",
+    "title": "Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion",
+    "country": "China",
+    "city": "Hong Kong",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-05T03:31:53+00:00"
+   },
+   {
+    "id": "dd50e34e9fcd",
+    "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T12:52:00+00:00"
+   },
+   {
+    "id": "c3d6faf828ac",
+    "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "country": "China",
+    "city": "Hong Kong",
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-04T23:34:47+00:00"
+    "time": "2026-11-05T08:07:22+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "738291529a5a",
+    "title": "El Salvador’s Bukele touts military intervention in Haiti",
+    "country": "Haiti",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-05T02:10:07+00:00"
+   },
+   {
+    "id": "6cb9993a29bf",
+    "title": "Green forest fire notification in Suriname, Brazil",
+    "country": "Suriname",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-05T08:08:58+00:00"
+   },
+   {
+    "id": "2b5ef079248d",
+    "title": "Paraguay bank collapses with half of population’s savings",
+    "country": "Paraguay",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-05T04:11:45+00:00"
+   },
+   {
+    "id": "fb105f46e703",
+    "title": "M4.5 earthquake, 2 km W of Chinandega, Nicaragua",
+    "country": "Nicaragua",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-04T19:55:26.313000+00:00"
+   },
+   {
+    "id": "8f564f99434c",
+    "title": "Haitian PM thanks El Salvador for support in fight against gangs",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-04T10:28:43+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -287,6 +371,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-04T10:18:55+00:00"
+   },
+   {
+    "id": "83674748178f",
+    "title": "Green forest fire notification in Central African Republic",
+    "country": "CAR",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-04T20:07:23+00:00"
    },
    {
     "id": "a31f0a6b1fd9",
@@ -327,51 +421,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-04T16:27:24+00:00"
-   },
-   {
-    "id": "dd3aae6a78db",
-    "title": "Togo",
-    "country": "Togo",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-04T16:27:18+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "dd50e34e9fcd",
-    "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
-    "country": "Indonesia",
-    "city": "Jakarta",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T12:52:00+00:00"
-   },
-   {
-    "id": "805c7d66ddb5",
-    "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T03:46:10+00:00"
-   },
-   {
-    "id": "2aae47875b32",
-    "title": "M5.0 earthquake, 207 km ESE of Sarangani, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-04T07:40:12.288000+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "8bc6b5fff3c0",
+    "title": "Beau Lamarre-Condon tells double murder trial he went through Jesse Baird’s phone and poured water into his fuel tank",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-05T06:56:01+00:00"
+   },
    {
     "id": "62e1f10ce121",
     "title": "M4.6 earthquake, south of the Fiji Islands",
@@ -381,28 +443,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-04T21:24:24.646000+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "fb105f46e703",
-    "title": "M4.5 earthquake, 2 km W of Chinandega, Nicaragua",
-    "country": "Nicaragua",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-04T19:55:26.313000+00:00"
-   },
-   {
-    "id": "8f564f99434c",
-    "title": "Haitian PM thanks El Salvador for support in fight against gangs",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-04T10:28:43+00:00"
    }
   ],
   "North America": [
