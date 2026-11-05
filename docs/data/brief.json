@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-04T21:30:47.194099+00:00",
+ "generated": "2026-11-05T01:49:20.430885+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 25,
+  "2": 23,
   "3": 23,
   "4": 3,
   "5": 0
@@ -115,16 +115,6 @@
     "time": "2026-11-04T12:43:47+00:00"
    },
    {
-    "id": "0f2e55854e0e",
-    "title": "Spanish transport minister resigns after deadly train crash",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-03T21:46:02+00:00"
-   },
-   {
     "id": "d3cf171b1d7d",
     "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
     "country": "United Kingdom",
@@ -173,6 +163,98 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-04T16:26:15+00:00"
+   },
+   {
+    "id": "3228709cb035",
+    "title": "French blood banks foil new cyberattack targeting refrigerators",
+    "country": "France",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-04T15:10:17+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "8cda1213e4a7",
+    "title": "Pete Hegseth may take fall for Republicans’ midterm losses, despite Trump support",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-05T00:41:00+00:00"
+   },
+   {
+    "id": "835e8b6dac12",
+    "title": "Chadian president meets Algerian foreign minister in Ndjamena",
+    "country": "Algeria",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-04T21:35:21+00:00"
+   },
+   {
+    "id": "34e227812f4c",
+    "title": "US midterm election results live: Trump blames Iran war after losses",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T21:00:00+00:00"
+   },
+   {
+    "id": "c141c59894b2",
+    "title": "Libya's eastern administration appoints a new central bank governor",
+    "country": "Libya",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-04T17:45:54+00:00"
+   },
+   {
+    "id": "ced2d834b798",
+    "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T14:08:18+00:00"
+   },
+   {
+    "id": "37d0c269df12",
+    "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
+    "country": "Iran",
+    "city": "Tehran",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T14:07:17+00:00"
+   },
+   {
+    "id": "7723a8e12c9f",
+    "title": "‘Seismic shift’: World reacts to US midterm election results",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-04T11:24:50+00:00"
+   },
+   {
+    "id": "22bc1f502259",
+    "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
+    "country": "Iran",
+    "city": "Tehran",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-04T23:34:47+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -257,68 +339,6 @@
     "time": "2026-11-04T16:27:18+00:00"
    }
   ],
-  "Middle East & N. Africa": [
-   {
-    "id": "34e227812f4c",
-    "title": "US midterm election results live: Trump blames Iran war after losses",
-    "country": "Iran",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T21:00:00+00:00"
-   },
-   {
-    "id": "c141c59894b2",
-    "title": "Libya's eastern administration appoints a new central bank governor",
-    "country": "Libya",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-04T17:45:54+00:00"
-   },
-   {
-    "id": "ced2d834b798",
-    "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T14:08:18+00:00"
-   },
-   {
-    "id": "37d0c269df12",
-    "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
-    "country": "Iran",
-    "city": "Tehran",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T14:07:17+00:00"
-   },
-   {
-    "id": "7723a8e12c9f",
-    "title": "‘Seismic shift’: World reacts to US midterm election results",
-    "country": "Iran",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-04T11:24:50+00:00"
-   },
-   {
-    "id": "9fe061905c21",
-    "title": "‘We want our taxes spent here’: 11 Democrats weigh in after sweeping the US midterm elections",
-    "country": "Iran",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-04T14:33:21+00:00"
-   }
-  ],
   "East & SE Asia": [
    {
     "id": "dd50e34e9fcd",
@@ -349,6 +369,18 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-04T07:40:12.288000+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "62e1f10ce121",
+    "title": "M4.6 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-04T21:24:24.646000+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -383,40 +415,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-04T19:49:21+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "44a03885d1c7",
-    "title": "M4.6 earthquake, Fiji region",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-04T00:32:59.774000+00:00"
-   },
-   {
-    "id": "213c8636a60a",
-    "title": "M5.0 earthquake, Fiji region",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-04T00:32:59.305000+00:00"
-   }
-  ],
-  "Central Asia": [
-   {
-    "id": "37a598ed49f6",
-    "title": "M5.2 earthquake, 91 km ESE of Kyzyl-Eshme, Kyrgyzstan",
-    "country": "Kyrgyzstan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-03T21:34:08.654000+00:00"
    }
   ]
  }
