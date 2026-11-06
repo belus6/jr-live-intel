@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-06T17:57:37.953878+00:00",
+ "generated": "2026-11-06T22:58:13.312628+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 40,
-  "3": 31,
-  "4": 4,
+  "2": 46,
+  "3": 23,
+  "4": 3,
   "5": 0
  },
  "watch_hits": [],
@@ -21,6 +21,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-06T13:49:07+00:00"
+   },
+   {
+    "id": "7c2423311904",
+    "title": "Russian ballistic missiles slam Kyiv after Zelensky warns of mass attack",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-06T22:04:00+00:00"
    },
    {
     "id": "88e966dcec45",
@@ -81,16 +91,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-06T07:07:16+00:00"
-   },
-   {
-    "id": "cd00333db7c1",
-    "title": "Ukrainian forces target oil refinery as explosions reported across southern Russia",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-06T04:41:12+00:00"
    }
   ],
   "East & SE Asia": [
@@ -115,14 +115,24 @@
     "time": "2026-11-06T10:39:24.800000+00:00"
    },
    {
-    "id": "c91cdd3ec7c8",
-    "title": "Myanmar: Civilians under fire from military junta",
-    "country": "Myanmar",
+    "id": "541a02ea64d0",
+    "title": "Green forest fire notification in China",
+    "country": "China",
     "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-05T17:58:28+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-06T20:10:36+00:00"
+   },
+   {
+    "id": "c4953d8f6e87",
+    "title": "M4.8 earthquake, 36 km WNW of Poso, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-06T19:07:01.269000+00:00"
    },
    {
     "id": "4c1bafadcbe2",
@@ -163,16 +173,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-06T07:50:41+00:00"
-   },
-   {
-    "id": "4996f0239b06",
-    "title": "M4.9 earthquake, 41 km SW of Balangonan, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T06:28:26.156000+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -185,6 +185,16 @@
     "severity": 3,
     "confidence": "C2",
     "time": "2026-11-06T08:29:10+00:00"
+   },
+   {
+    "id": "b5d2de2d132f",
+    "title": "Ueno Bank scandal plunges Paraguay into political crisis",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-06T20:23:00+00:00"
    },
    {
     "id": "db6be6a52998",
@@ -259,14 +269,14 @@
     "time": "2026-11-06T00:24:59+00:00"
    },
    {
-    "id": "a4dde55a437f",
-    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+    "id": "6124e0506726",
+    "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
     "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
+    "city": "Minneapolis",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-05T18:48:07+00:00"
+    "time": "2026-11-06T20:51:37+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -301,26 +311,6 @@
     "time": "2026-11-06T07:15:07+00:00"
    },
    {
-    "id": "f8664f6693e3",
-    "title": "Nigeria court bars opposition candidate two months before election",
-    "country": "Senegal",
-    "city": "Dakar",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T21:22:18+00:00"
-   },
-   {
-    "id": "09a906e786b5",
-    "title": "'Fighting won't stop': Ethiopia clashes drive thousands into Kenya",
-    "country": "Kenya",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-05T20:44:46+00:00"
-   },
-   {
     "id": "eb80b3e3e710",
     "title": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
     "country": "Kenya",
@@ -329,6 +319,26 @@
     "severity": 2,
     "confidence": "B1",
     "time": "2026-11-06T12:03:00+00:00"
+   },
+   {
+    "id": "876ed19fdd3f",
+    "title": "Kenyan cult leader sentenced to 200 years in prison",
+    "country": "South Africa",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-06T21:23:53+00:00"
+   },
+   {
+    "id": "b6ce8693c404",
+    "title": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-06T19:07:06+00:00"
    },
    {
     "id": "55202e74c727",
@@ -373,36 +383,6 @@
     "time": "2026-11-06T07:33:41+00:00"
    },
    {
-    "id": "31cf55786e66",
-    "title": "Egypt army says hundreds of illegal gold miners arrested",
-    "country": "Egypt",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-05T22:02:30+00:00"
-   },
-   {
-    "id": "0ebf7515ff80",
-    "title": "Saudi coalition intercepts missile fired towards Medina",
-    "country": "Saudi Arabia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T20:48:47+00:00"
-   },
-   {
-    "id": "f16b5c4725db",
-    "title": "Eight killed in series of shootings in western Turkey",
-    "country": "Turkey",
-    "city": null,
-    "category": "crime",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T19:32:54+00:00"
-   },
-   {
     "id": "1fd2791831c8",
     "title": "Netherlands: Protesters storm Amsterdam data centre construction site",
     "country": "Palestine",
@@ -431,6 +411,36 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-06T02:03:47+00:00"
+   },
+   {
+    "id": "a3ac36b306c9",
+    "title": "Green forest fire notification in South Sudan, Sudan",
+    "country": "Sudan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-06T00:14:17+00:00"
+   },
+   {
+    "id": "fabc03ab6b21",
+    "title": "Three in four displaced people live in climate danger zones, UN says",
+    "country": "Turkey",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-05T23:34:08+00:00"
+   },
+   {
+    "id": "9489a4e5a168",
+    "title": "Three-quarters of world's displaced people face severe climate risks, UN says",
+    "country": "Turkey",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-05T23:34:08+00:00"
    }
   ],
   "Western Europe": [
@@ -465,14 +475,44 @@
     "time": "2026-11-06T08:32:57+00:00"
    },
    {
-    "id": "fcb571aa9892",
-    "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "health",
-    "severity": 3,
+    "id": "1439e56928b1",
+    "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-11-06T18:51:37+00:00"
+   },
+   {
+    "id": "f794fefc7cea",
+    "title": "How ‘Street Medics’ protect French protesters",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-05T20:30:11+00:00"
+    "time": "2026-11-06T20:17:32+00:00"
+   },
+   {
+    "id": "416bd4a680a0",
+    "title": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-06T20:08:32+00:00"
+   },
+   {
+    "id": "bbea125c21c0",
+    "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+    "country": "France",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-06T19:00:21+00:00"
    },
    {
     "id": "b2ffdc190811",
@@ -483,36 +523,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-11-06T17:25:15+00:00"
-   },
-   {
-    "id": "09976fe14c86",
-    "title": "Spain: Vintage cars hit the streets of Almería for annual rally",
-    "country": "Spain",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-06T16:38:34+00:00"
-   },
-   {
-    "id": "aee00d98c71b",
-    "title": "Wounded French protesters to sue interior minister over police brutality",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-06T16:13:55+00:00"
-   },
-   {
-    "id": "33c566fb0d94",
-    "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
-    "country": "Netherlands",
-    "city": "Amsterdam",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-06T15:48:10+00:00"
    }
   ],
   "Oceania": [
