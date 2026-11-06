@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-06T03:14:45.165918+00:00",
+ "generated": "2026-11-06T11:06:25.814517+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 44,
+  "2": 45,
   "3": 32,
   "4": 3,
   "5": 0
@@ -12,6 +12,16 @@
  "watch_hits": [],
  "regions": {
   "East & SE Asia": [
+   {
+    "id": "79213ba2e39b",
+    "title": "M6.1 earthquake, 156 km SE of Hasaki, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-11-06T10:39:24.800000+00:00"
+   },
    {
     "id": "c91cdd3ec7c8",
     "title": "Myanmar: Civilians under fire from military junta",
@@ -21,16 +31,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-05T17:58:28+00:00"
-   },
-   {
-    "id": "3830a224aa1e",
-    "title": "Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion",
-    "country": "China",
-    "city": "Hong Kong",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-05T03:31:53+00:00"
    },
    {
     "id": "36d7a5113973",
@@ -43,14 +43,34 @@
     "time": "2026-11-05T13:41:24+00:00"
    },
    {
-    "id": "687ab6a1c55c",
-    "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
-    "country": "China",
-    "city": "Hong Kong",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T07:56:21+00:00"
+    "id": "4c1bafadcbe2",
+    "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-06T10:56:32+00:00"
+   },
+   {
+    "id": "863a76a474ff",
+    "title": "Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-06T07:50:41+00:00"
+   },
+   {
+    "id": "4996f0239b06",
+    "title": "M4.9 earthquake, 41 km SW of Balangonan, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-06T06:28:26.156000+00:00"
    },
    {
     "id": "6d4dc0c965b1",
@@ -71,16 +91,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-05T18:05:43.367000+00:00"
-   },
-   {
-    "id": "c3d6faf828ac",
-    "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-    "country": "China",
-    "city": "Hong Kong",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-05T08:07:22+00:00"
    }
   ],
   "Oceania": [
@@ -93,6 +103,16 @@
     "severity": 4,
     "confidence": "A1",
     "time": "2026-11-05T17:21:45.305000+00:00"
+   },
+   {
+    "id": "b638a0678e46",
+    "title": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-06T05:17:05+00:00"
    },
    {
     "id": "7ed6bc6f01d2",
@@ -123,28 +143,388 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-05T17:39:33+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "2140519c226f",
+    "title": "Paraguay's president Peña impeached moments after resigning over banking scandal",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-11-05T17:33:53+00:00"
    },
    {
-    "id": "8bc6b5fff3c0",
-    "title": "Beau Lamarre-Condon tells double murder trial he went through Jesse Baird’s phone and poured water into his fuel tank",
-    "country": "Australia",
-    "city": "Sydney",
+    "id": "bc2f2357653a",
+    "title": "Paraguay President Santiago Peña resigns after bank collapse",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-11-05T17:14:41+00:00"
+   },
+   {
+    "id": "3ac056aebc47",
+    "title": "Paraguay: Thousands protest banking scandal as president faces impeachment",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-06T08:29:10+00:00"
+   },
+   {
+    "id": "e61683ceadfe",
+    "title": "Paraguay President Pena resigns in wake of bank collapse",
+    "country": "Paraguay",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-05T17:08:19+00:00"
+   },
+   {
+    "id": "9f4b89f2b678",
+    "title": "Belize",
+    "country": "Belize",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-05T16:48:48+00:00"
+   },
+   {
+    "id": "542819ab46d5",
+    "title": "Nicaragua",
+    "country": "Nicaragua",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-05T14:10:53+00:00"
+   },
+   {
+    "id": "2d5551a1bb31",
+    "title": "Guatemala",
+    "country": "Guatemala",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-05T14:10:49+00:00"
+   },
+   {
+    "id": "eb2d7e43df98",
+    "title": "Honduras",
+    "country": "Honduras",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-05T14:10:43+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "14352d6b2e8e",
+    "title": "Death toll from Russian strike on Komyshuvakha rises to 53 as search operation enters 5th day",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-06T10:52:29+00:00"
+   },
+   {
+    "id": "6184ffdfbc62",
+    "title": "General Staff: Russia has lost 1,601,830 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-06T07:07:16+00:00"
+   },
+   {
+    "id": "cd00333db7c1",
+    "title": "Ukrainian forces target oil refinery as explosions reported across southern Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-06T04:41:12+00:00"
+   },
+   {
+    "id": "a162b05f58ba",
+    "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-05T20:43:46+00:00"
+   },
+   {
+    "id": "b3094b0b9ac6",
+    "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-05T19:08:08+00:00"
+   },
+   {
+    "id": "82c2a0adafdf",
+    "title": "Pro-Russian Latvian moves to Russia, gets forcibly conscripted into the Russian army",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-05T18:41:45+00:00"
+   },
+   {
+    "id": "1abfdb14dd54",
+    "title": "Police, SBU identify 130 people potentially involved in clashes near National Guard facility in Kyiv Oblast",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-05T15:34:37+00:00"
+   },
+   {
+    "id": "51b3d873f7d9",
+    "title": "Senior Ukrainian law enforcement officials charged in sprawling scam call centers case",
+    "country": "Ukraine",
+    "city": null,
     "category": "crime",
     "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-05T17:30:00+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "09699896fb2a",
+    "title": "‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-05T06:56:01+00:00"
+    "time": "2026-11-06T10:30:38+00:00"
+   },
+   {
+    "id": "73986d91eacb",
+    "title": "Navi Pillay on the ICC and accusations of bias against Africa",
+    "country": "France",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-06T10:09:51+00:00"
+   },
+   {
+    "id": "8f37a6f5eba5",
+    "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-06T08:32:57+00:00"
+   },
+   {
+    "id": "fcb571aa9892",
+    "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "health",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-05T20:30:11+00:00"
+   },
+   {
+    "id": "e6d1c0475b70",
+    "title": "France: Mass protests and school blockades mark fourth national strike",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C2",
+    "time": "2026-11-05T13:46:04+00:00"
+   },
+   {
+    "id": "714800012ab7",
+    "title": "Mass protests sweep France as huge crowds demand higher wages",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-06T10:05:40+00:00"
+   },
+   {
+    "id": "5a5884432ef2",
+    "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+    "country": "Belgium",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-06T06:43:04+00:00"
+   },
+   {
+    "id": "26c6df2851aa",
+    "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+    "country": "Spain",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-06T06:00:46+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "068b468d369b",
+    "title": "Ethiopia clashes drive thousands into Kenya",
+    "country": "Kenya",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-06T10:11:31+00:00"
+   },
+   {
+    "id": "f7a9e3b844e6",
+    "title": "South Africa's ANC party on track to face 'nightmare' losses in municipal elections",
+    "country": "South Africa",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-06T07:15:07+00:00"
+   },
+   {
+    "id": "f8664f6693e3",
+    "title": "Nigeria court bars opposition candidate two months before election",
+    "country": "Senegal",
+    "city": "Dakar",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-05T21:22:18+00:00"
+   },
+   {
+    "id": "09a906e786b5",
+    "title": "'Fighting won't stop': Ethiopia clashes drive thousands into Kenya",
+    "country": "Kenya",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-05T20:44:46+00:00"
+   },
+   {
+    "id": "63816281b250",
+    "title": "Extension of Mohamud's presidential term unlawful, Somalia's Supreme Court rules",
+    "country": "Somalia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-05T15:15:42+00:00"
+   },
+   {
+    "id": "4f79acb0b3d8",
+    "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+    "country": "Tanzania",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-06T10:57:30+00:00"
+   },
+   {
+    "id": "814e6f561a87",
+    "title": "Kenyan cult leader faces death sentence over child murders",
+    "country": "Kenya",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-06T09:19:12+00:00"
+   },
+   {
+    "id": "dfcd568a04ee",
+    "title": "Green forest fire notification in Zambia, Zimbabwe",
+    "country": "Zambia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-05T20:04:46+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "a8fb473f3ecb",
+    "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+    "country": "United States",
+    "city": "Boston",
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-06T09:54:12+00:00"
+   },
+   {
+    "id": "a962dcc7de93",
+    "title": "Marco Rubio denies plans to resign as 2028 speculation grows",
+    "country": "United States",
+    "city": "New York",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-06T00:24:59+00:00"
+   },
+   {
+    "id": "9f6b8ee7e2de",
+    "title": "Rubio denies plans to resign, says working for Trump until end of term has 'always been my plan'",
+    "country": "United States",
+    "city": "New York",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-06T00:24:59+00:00"
+   },
+   {
+    "id": "a4dde55a437f",
+    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+    "country": "United States",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-05T18:48:07+00:00"
    }
   ],
   "Middle East & N. Africa": [
    {
-    "id": "c989ad76a01b",
-    "title": "Melania Trump to host Ukrainian, Russian officials at White House",
-    "country": "UAE",
-    "city": "Abu Dhabi",
+    "id": "942da4779fba",
+    "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+    "country": "Iran",
+    "city": null,
     "category": "conflict",
-    "severity": 4,
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-05T05:23:48+00:00"
+    "time": "2026-11-06T07:33:41+00:00"
    },
    {
     "id": "31cf55786e66",
@@ -207,364 +587,14 @@
     "time": "2026-11-05T11:07:22+00:00"
    },
    {
-    "id": "0280d4765ea9",
-    "title": "Morocco say it remains committed to Western Sahara ceasefire as peacekeeping mission ends",
-    "country": "Morocco",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-05T09:25:50+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "2140519c226f",
-    "title": "Paraguay's president Peña impeached moments after resigning over banking scandal",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-05T17:33:53+00:00"
-   },
-   {
-    "id": "bc2f2357653a",
-    "title": "Paraguay President Santiago Peña resigns after bank collapse",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T17:14:41+00:00"
-   },
-   {
-    "id": "e61683ceadfe",
-    "title": "Paraguay President Pena resigns in wake of bank collapse",
-    "country": "Paraguay",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T17:08:19+00:00"
-   },
-   {
-    "id": "9f4b89f2b678",
-    "title": "Belize",
-    "country": "Belize",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-05T16:48:48+00:00"
-   },
-   {
-    "id": "542819ab46d5",
-    "title": "Nicaragua",
-    "country": "Nicaragua",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-05T14:10:53+00:00"
-   },
-   {
-    "id": "2d5551a1bb31",
-    "title": "Guatemala",
-    "country": "Guatemala",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-05T14:10:49+00:00"
-   },
-   {
-    "id": "eb2d7e43df98",
-    "title": "Honduras",
-    "country": "Honduras",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-05T14:10:43+00:00"
-   },
-   {
-    "id": "6cb9993a29bf",
-    "title": "Green forest fire notification in Suriname, Brazil",
-    "country": "Suriname",
+    "id": "3b1421e3d0f6",
+    "title": "Transition to renewable energy key issue at COP 31 talks",
+    "country": "Turkey",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-05T08:08:58+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "842428b9028c",
-    "title": "Russian drone attacks injure 4 in Dnipropetrovsk and Kyiv oblasts, spark fires at infrastructure facilities",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C2",
-    "time": "2026-11-05T04:58:00+00:00"
-   },
-   {
-    "id": "a162b05f58ba",
-    "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T20:43:46+00:00"
-   },
-   {
-    "id": "b3094b0b9ac6",
-    "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T19:08:08+00:00"
-   },
-   {
-    "id": "82c2a0adafdf",
-    "title": "Pro-Russian Latvian moves to Russia, gets forcibly conscripted into the Russian army",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
     "confidence": "C4",
-    "time": "2026-11-05T18:41:45+00:00"
-   },
-   {
-    "id": "1abfdb14dd54",
-    "title": "Police, SBU identify 130 people potentially involved in clashes near National Guard facility in Kyiv Oblast",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-05T15:34:37+00:00"
-   },
-   {
-    "id": "24711eed8f42",
-    "title": "Russian strikes on Ukraine’s drug supply chain leave pharmacy shelves empty",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-05T10:59:56+00:00"
-   },
-   {
-    "id": "fda37b9f534c",
-    "title": "Russian attacks kill 9, injure 19 across Ukraine over past day, as casualty toll from Russian strikes in Kherson Oblast rises following end of ceasefire",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-05T10:33:34+00:00"
-   },
-   {
-    "id": "49f654e6faa7",
-    "title": "Death toll of Russian strike on Komyshuvakha rises to 43 as search continues",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-05T10:18:41+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "a962dcc7de93",
-    "title": "Marco Rubio denies plans to resign as 2028 speculation grows",
-    "country": "United States",
-    "city": "New York",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-06T00:24:59+00:00"
-   },
-   {
-    "id": "a4dde55a437f",
-    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T18:48:07+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "f8664f6693e3",
-    "title": "Nigeria court bars opposition candidate two months before election",
-    "country": "Senegal",
-    "city": "Dakar",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T21:22:18+00:00"
-   },
-   {
-    "id": "09a906e786b5",
-    "title": "'Fighting won't stop': Ethiopia clashes drive thousands into Kenya",
-    "country": "Kenya",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-05T20:44:46+00:00"
-   },
-   {
-    "id": "63816281b250",
-    "title": "Extension of Mohamud's presidential term unlawful, Somalia's Supreme Court rules",
-    "country": "Somalia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-05T15:15:42+00:00"
-   },
-   {
-    "id": "dfcd568a04ee",
-    "title": "Green forest fire notification in Zambia, Zimbabwe",
-    "country": "Zambia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-05T20:04:46+00:00"
-   },
-   {
-    "id": "81cc45948255",
-    "title": "New Yorkers rally against gun violence after Ghanaian teen’s killing",
-    "country": "Ghana",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-05T12:25:28+00:00"
-   },
-   {
-    "id": "8b4d8e3e27d6",
-    "title": "Two new Ebola vaccines to join DR Congo clinical trial",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-05T12:00:00+00:00"
-   },
-   {
-    "id": "c76fc6d07e41",
-    "title": "Green flood alert in Democratic Republic of Congo",
-    "country": "DRC",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-05T10:23:17+00:00"
-   },
-   {
-    "id": "862179deaa88",
-    "title": "M5.1 earthquake, 19 km NNW of Masumbwe, Tanzania",
-    "country": "Tanzania",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-05T09:22:32.714000+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "fcb571aa9892",
-    "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "health",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T20:30:11+00:00"
-   },
-   {
-    "id": "74f280c493f0",
-    "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-    "country": "Italy",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T10:33:21+00:00"
-   },
-   {
-    "id": "cc51b8150d28",
-    "title": "Italian chef fired after refusing to put pineapple on pizza",
-    "country": "Italy",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T07:56:53+00:00"
-   },
-   {
-    "id": "155c6141427c",
-    "title": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T05:00:54+00:00"
-   },
-   {
-    "id": "e6d1c0475b70",
-    "title": "France: Mass protests and school blockades mark fourth national strike",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C2",
-    "time": "2026-11-05T13:46:04+00:00"
-   },
-   {
-    "id": "902651e38ddc",
-    "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-05T20:39:49+00:00"
-   },
-   {
-    "id": "f237f49e4b62",
-    "title": "French protests see numbers surge as unions join strikes over high cost of living",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-05T17:59:53+00:00"
-   },
-   {
-    "id": "9ade49280406",
-    "title": "France needs 'more public services', 'salaries are too low', 'schools are in very, very bad shape'",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-05T17:36:48+00:00"
+    "time": "2026-11-06T09:57:59+00:00"
    }
   ],
   "South Asia": [
