@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-05T22:46:45.977578+00:00",
+ "generated": "2026-11-06T03:14:45.165918+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 38,
-  "3": 34,
+  "2": 44,
+  "3": 32,
   "4": 3,
   "5": 0
  },
@@ -53,6 +53,16 @@
     "time": "2026-11-05T07:56:21+00:00"
    },
    {
+    "id": "6d4dc0c965b1",
+    "title": "M4.6 earthquake, 96 km NNW of Lae, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-06T00:02:25.016000+00:00"
+   },
+   {
     "id": "d405ea39addc",
     "title": "M4.6 earthquake, 36 km E of Watari, Japan",
     "country": "Japan",
@@ -83,6 +93,26 @@
     "severity": 4,
     "confidence": "A1",
     "time": "2026-11-05T17:21:45.305000+00:00"
+   },
+   {
+    "id": "7ed6bc6f01d2",
+    "title": "M4.6 earthquake, 58 km WNW of Isangel, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-06T01:37:39.847000+00:00"
+   },
+   {
+    "id": "fcc627793586",
+    "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-06T01:36:20+00:00"
    },
    {
     "id": "c3c54d9fb56c",
@@ -219,16 +249,6 @@
     "time": "2026-11-05T17:08:19+00:00"
    },
    {
-    "id": "738291529a5a",
-    "title": "El Salvador’s Bukele touts military intervention in Haiti",
-    "country": "Haiti",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T02:10:07+00:00"
-   },
-   {
     "id": "9f4b89f2b678",
     "title": "Belize",
     "country": "Belize",
@@ -267,6 +287,16 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-05T14:10:43+00:00"
+   },
+   {
+    "id": "6cb9993a29bf",
+    "title": "Green forest fire notification in Suriname, Brazil",
+    "country": "Suriname",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-05T08:08:58+00:00"
    }
   ],
   "Eastern Europe": [
@@ -349,6 +379,28 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-05T10:18:41+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "a962dcc7de93",
+    "title": "Marco Rubio denies plans to resign as 2028 speculation grows",
+    "country": "United States",
+    "city": "New York",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-06T00:24:59+00:00"
+   },
+   {
+    "id": "a4dde55a437f",
+    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+    "country": "United States",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-05T18:48:07+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -513,18 +565,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-05T17:36:48+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "a4dde55a437f",
-    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-05T18:48:07+00:00"
    }
   ],
   "South Asia": [
