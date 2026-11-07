@@ -1,17 +1,39 @@
 {
- "generated": "2026-11-07T15:50:02.271079+00:00",
+ "generated": "2026-11-07T19:56:05.532613+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 39,
-  "3": 25,
+  "2": 42,
+  "3": 29,
   "4": 0,
-  "5": 1
+  "5": 3
  },
- "watch_hits": [],
+ "watch_hits": [
+  "3f9a8961412f"
+ ],
  "regions": {
   "Middle East & N. Africa": [
+   {
+    "id": "4adc7cd97678",
+    "title": "Houthis report 25 killed in Yemen strikes",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-07T17:39:23+00:00"
+   },
+   {
+    "id": "b40e7acee85e",
+    "title": "Houthis say at least 25 killed in Saudi air strike",
+    "country": "Saudi Arabia",
+    "city": null,
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-07T17:09:24+00:00"
+   },
    {
     "id": "cf7625a3c3c0",
     "title": "Yemen: 30 dead in strikes on Taiz market",
@@ -21,6 +43,36 @@
     "severity": 5,
     "confidence": "B3",
     "time": "2026-11-07T09:37:16+00:00"
+   },
+   {
+    "id": "360dc45d9f43",
+    "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
+    "country": "Yemen",
+    "city": "Sanaa",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-07T19:06:31+00:00"
+   },
+   {
+    "id": "3f9a8961412f",
+    "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
+    "country": "Lebanon",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-07T17:16:50+00:00"
+   },
+   {
+    "id": "7c51563b8ec5",
+    "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-07T15:34:58+00:00"
    },
    {
     "id": "efb942917b58",
@@ -33,64 +85,14 @@
     "time": "2026-11-07T04:50:46+00:00"
    },
    {
-    "id": "da37c48aae9c",
-    "title": "Heavy rains leave tens of thousands without shelter in Gaza",
-    "country": "Palestine",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-07T14:53:34+00:00"
-   },
-   {
-    "id": "2a126bcb0184",
-    "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+    "id": "85f31cff4f47",
+    "title": "Jerusalem Daily: Heavy rains flood Gaza",
     "country": "Israel",
-    "city": null,
+    "city": "Jerusalem",
     "category": "hazard",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-07T13:07:23+00:00"
-   },
-   {
-    "id": "3dae45024e67",
-    "title": "Heavy rains flood displacement camps across Gaza",
-    "country": "Palestine",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T13:04:51+00:00"
-   },
-   {
-    "id": "68369a78f096",
-    "title": "Court rules against Home Office in asylum seeker kidnapping case",
-    "country": "Libya",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T13:00:11+00:00"
-   },
-   {
-    "id": "a19db1a93120",
-    "title": "Rains flood 70,000 displaced families’ tents in Gaza",
-    "country": "Palestine",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T11:10:02+00:00"
-   },
-   {
-    "id": "7c48d9657ed6",
-    "title": "Curas contra el genocidio pide a los obispos de EEUU que se unan a la manifestación por Gaza en Washington ## Jesús Bastante",
-    "country": "Palestine",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-07T07:00:00+00:00"
+    "time": "2026-11-07T17:11:29+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -115,6 +117,26 @@
     "time": "2026-11-06T20:23:00+00:00"
    },
    {
+    "id": "2c0d5085be04",
+    "title": "Paraguay VP Alliana sworn is as president after predecessor impeached",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-07T10:29:18+00:00"
+   },
+   {
+    "id": "296fca710f73",
+    "title": "Ousted Paraguayan president appears before prosecutors",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-07T17:14:36+00:00"
+   },
+   {
     "id": "ecade8934426",
     "title": "Paraguay bank collapse sees president impeached , arrested",
     "country": "Paraguay",
@@ -125,14 +147,24 @@
     "time": "2026-11-07T07:00:00+00:00"
    },
    {
-    "id": "db6be6a52998",
-    "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
-    "country": "Paraguay",
+    "id": "b30c8a7a0630",
+    "title": "M4.7 earthquake, 45 km NNW of Salinas, Ecuador",
+    "country": "Ecuador",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-06T16:58:56+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-07T17:17:38.931000+00:00"
+   },
+   {
+    "id": "b055a9c59080",
+    "title": "M4.5 earthquake, 11 km ESE of Pedasí, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-07T16:01:52.257000+00:00"
    },
    {
     "id": "8913906bebe2",
@@ -143,39 +175,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-07T10:53:12.299000+00:00"
-   },
-   {
-    "id": "528b66958d51",
-    "title": "Protestas exigen que Santiago Peña salga de su casa y sea llevado a una cárcel",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-07T06:30:00+00:00"
-   },
-   {
-    "id": "4fced617291d",
-    "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T05:02:49+00:00"
-   },
-   {
-    "id": "16312bb53c2b",
-    "title": "Peru",
-    "country": "Peru",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T16:13:51+00:00"
    }
   ],
   "Eastern Europe": [
+   {
+    "id": "326823d4e8e7",
+    "title": "At least six people killed in shooting in Poland’s Krakow",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-11-07T15:22:55+00:00"
+   },
    {
     "id": "ca09a244ee78",
     "title": "Russia hits Kyiv and surrounding region in massive overnight strike",
@@ -195,6 +207,26 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-11-07T05:11:03+00:00"
+   },
+   {
+    "id": "fa88eb294616",
+    "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-07T17:17:23+00:00"
+   },
+   {
+    "id": "2aca0acdc4ab",
+    "title": "Zelensky says Oleshky ceasefire shows Russia can halt fighting but Putin is unwilling",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-07T16:13:52+00:00"
    },
    {
     "id": "380f2b7dfbd8",
@@ -225,36 +257,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-07T07:30:35+00:00"
-   },
-   {
-    "id": "f1259dc07ad0",
-    "title": "Ukraine strikes Oryol factory with Neptune missile, reportedly Saratov Oil Refinery in mass attack on Russian regions",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T03:01:27+00:00"
-   },
-   {
-    "id": "7c2423311904",
-    "title": "Russian ballistic missiles slam Kyiv after Zelensky warns of mass attack",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-06T22:04:00+00:00"
-   },
-   {
-    "id": "5572140d86e3",
-    "title": "36 Russian ballistic missiles slam Kyiv and Kyiv Oblast, damage Northern Bridge, injure at least 6 people",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-06T22:04:00+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -279,14 +281,14 @@
     "time": "2026-11-07T07:47:35+00:00"
    },
    {
-    "id": "2fd481a35de1",
-    "title": "Kenya",
-    "country": "Kenya",
+    "id": "9fa30e817ded",
+    "title": "Green forest fire notification in Madagascar",
+    "country": "Madagascar",
     "city": null,
-    "category": "advisory",
-    "severity": 3,
+    "category": "hazard",
+    "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-06T17:00:48+00:00"
+    "time": "2026-11-07T16:08:20+00:00"
    },
    {
     "id": "575b3265531e",
@@ -317,26 +319,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-06T21:23:53+00:00"
-   },
-   {
-    "id": "b6ce8693c404",
-    "title": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-06T19:07:06+00:00"
-   },
-   {
-    "id": "55202e74c727",
-    "title": "Cameroon",
-    "country": "Cameroon",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T16:22:46+00:00"
    }
   ],
   "Western Europe": [
@@ -351,14 +333,44 @@
     "time": "2026-11-07T13:27:01+00:00"
    },
    {
-    "id": "1439e56928b1",
-    "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
-    "country": "Netherlands",
-    "city": "Amsterdam",
+    "id": "c76f439dba9d",
+    "title": "Demonstration in Berlin calls for an end to arming Israel",
+    "country": "Germany",
+    "city": "Berlin",
     "category": "unrest",
     "severity": 2,
-    "confidence": "B1",
-    "time": "2026-11-06T18:51:37+00:00"
+    "confidence": "B3",
+    "time": "2026-11-07T19:04:04+00:00"
+   },
+   {
+    "id": "68adb7d893d9",
+    "title": "Germany cannot provide Ukraine with more Patriot systems for now, defense minister says",
+    "country": "Germany",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-07T17:55:00+00:00"
+   },
+   {
+    "id": "a33a381bf26e",
+    "title": "Italian foreign minister says hackers leaked his personal data",
+    "country": "Italy",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T16:50:06+00:00"
+   },
+   {
+    "id": "06083d336c33",
+    "title": "Italy's foreign minister targeted in cyberattack due to Ukraine stance, minister says",
+    "country": "Italy",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-07T15:49:31+00:00"
    },
    {
     "id": "9c718c23e220",
@@ -389,36 +401,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-07T10:44:34+00:00"
-   },
-   {
-    "id": "462c627e6303",
-    "title": "AI Data centres face growing backlash",
-    "country": "Netherlands",
-    "city": "Amsterdam",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T09:39:55+00:00"
-   },
-   {
-    "id": "085c445e1572",
-    "title": "Live: France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T08:17:22+00:00"
-   },
-   {
-    "id": "9de3289d9568",
-    "title": "Live: Calm prevails as new mass cost-of-living demonstrations take off across France",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T08:17:22+00:00"
    }
   ],
   "East & SE Asia": [
@@ -471,16 +453,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-06T20:10:36+00:00"
-   },
-   {
-    "id": "c4953d8f6e87",
-    "title": "M4.8 earthquake, 36 km WNW of Poso, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T19:07:01.269000+00:00"
    }
   ],
   "South Asia": [
@@ -527,16 +499,6 @@
     "time": "2026-11-07T00:00:00+00:00"
    },
    {
-    "id": "c27eb40e5faf",
-    "title": "US midterm elections 2026 live: Democrats inch ahead in Mississippi Senate count; another Trump loyalist resigns from justice department",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-06T17:07:58+00:00"
-   },
-   {
     "id": "827a9c754073",
     "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
     "country": "United States",
@@ -555,6 +517,18 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-06T20:51:37+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "06bd9d8d71af",
+    "title": "M4.5 earthquake, Fiji region",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-07T15:05:45.113000+00:00"
    }
   ]
  }
