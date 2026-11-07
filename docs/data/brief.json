@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-06T22:58:13.312628+00:00",
+ "generated": "2026-11-07T02:39:40.045843+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 46,
-  "3": 23,
+  "2": 42,
+  "3": 25,
   "4": 3,
   "5": 0
  },
@@ -115,6 +115,16 @@
     "time": "2026-11-06T10:39:24.800000+00:00"
    },
    {
+    "id": "0944424d452c",
+    "title": "Japan , U . S . agree on measures to prevent crimes by troops in Okinawa",
+    "country": "Japan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-07T00:00:00+00:00"
+   },
+   {
     "id": "541a02ea64d0",
     "title": "Green forest fire notification in China",
     "country": "China",
@@ -163,16 +173,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-06T07:50:41+00:00"
-   },
-   {
-    "id": "f76fd585e77a",
-    "title": "Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2127 .",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T07:50:41+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -185,6 +185,16 @@
     "severity": 3,
     "confidence": "C2",
     "time": "2026-11-06T08:29:10+00:00"
+   },
+   {
+    "id": "00733a0f4fc4",
+    "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-07T01:55:11+00:00"
    },
    {
     "id": "b5d2de2d132f",
@@ -227,7 +237,29 @@
     "time": "2026-11-06T14:15:28+00:00"
    }
   ],
+  "South Asia": [
+   {
+    "id": "ce61b17dcebb",
+    "title": "Pakistan forces launch deadly crackdown in PoJK , civilian deaths reported in Rawalakot clashes",
+    "country": "Pakistan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-07T00:00:00+00:00"
+   }
+  ],
   "North America": [
+   {
+    "id": "2f04ee149d3a",
+    "title": "Historic New York Mills curfew bell finds new home in Centennial Park",
+    "country": "United States",
+    "city": "New York",
+    "category": "unrest",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-07T00:00:00+00:00"
+   },
    {
     "id": "c27eb40e5faf",
     "title": "US midterm elections 2026 live: Democrats inch ahead in Mississippi Senate count; another Trump loyalist resigns from justice department",
@@ -247,26 +279,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-06T09:54:12+00:00"
-   },
-   {
-    "id": "a962dcc7de93",
-    "title": "Marco Rubio denies plans to resign as 2028 speculation grows",
-    "country": "United States",
-    "city": "New York",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-06T00:24:59+00:00"
-   },
-   {
-    "id": "9f6b8ee7e2de",
-    "title": "Rubio denies plans to resign, says working for Trump until end of term has 'always been my plan'",
-    "country": "United States",
-    "city": "New York",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-06T00:24:59+00:00"
    },
    {
     "id": "6124e0506726",
@@ -401,46 +413,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-11-06T09:57:59+00:00"
-   },
-   {
-    "id": "6a26d567de0d",
-    "title": "Gaza turns discarded cooking pots into seawalls",
-    "country": "Palestine",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-06T02:03:47+00:00"
-   },
-   {
-    "id": "a3ac36b306c9",
-    "title": "Green forest fire notification in South Sudan, Sudan",
-    "country": "Sudan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T00:14:17+00:00"
-   },
-   {
-    "id": "fabc03ab6b21",
-    "title": "Three in four displaced people live in climate danger zones, UN says",
-    "country": "Turkey",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-05T23:34:08+00:00"
-   },
-   {
-    "id": "9489a4e5a168",
-    "title": "Three-quarters of world's displaced people face severe climate risks, UN says",
-    "country": "Turkey",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-05T23:34:08+00:00"
    }
   ],
   "Western Europe": [
@@ -481,7 +453,7 @@
     "city": "Amsterdam",
     "category": "unrest",
     "severity": 2,
-    "confidence": "B2",
+    "confidence": "B1",
     "time": "2026-11-06T18:51:37+00:00"
    },
    {
@@ -527,6 +499,16 @@
   ],
   "Oceania": [
    {
+    "id": "43ef928cd65a",
+    "title": "M4.5 earthquake, 87 km N of Isangel, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-06T08:14:08.319000+00:00"
+   },
+   {
     "id": "b638a0678e46",
     "title": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
     "country": "Australia",
@@ -535,26 +517,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-06T05:17:05+00:00"
-   },
-   {
-    "id": "7ed6bc6f01d2",
-    "title": "M4.6 earthquake, 58 km WNW of Isangel, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T01:37:39.847000+00:00"
-   },
-   {
-    "id": "fcc627793586",
-    "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-06T01:36:20+00:00"
    }
   ]
  }
