@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T19:56:05.532613+00:00",
+ "generated": "2026-11-07T23:30:04.569429+00:00",
  "sources": [
   {
    "id": "us-state-advisories",
@@ -15,7 +15,7 @@
    "ok": true,
    "items": 20,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.0
   },
   {
    "id": "cdc-notices",
@@ -29,17 +29,16 @@
    "id": "usgs-quakes",
    "name": "USGS earthquakes M4.5+",
    "ok": true,
-   "items": 8,
+   "items": 10,
    "note": "ok",
    "secs": 0.1
   },
   {
    "id": "gdacs",
    "name": "GDACS disaster alerts",
-   "ok": true,
-   "items": 81,
-   "note": "ok",
-   "secs": 3.2
+   "ok": false,
+   "items": 0,
+   "note": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   {
    "id": "reliefweb",
@@ -47,7 +46,7 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.0
+   "secs": 0.1
   },
   {
    "id": "un-news",
@@ -55,7 +54,7 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.4
   },
   {
    "id": "bbc-world",
@@ -63,23 +62,23 @@
    "ok": true,
    "items": 3,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.2
   },
   {
    "id": "aljazeera",
    "name": "Al Jazeera",
    "ok": true,
-   "items": 10,
+   "items": 11,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.2
   },
   {
    "id": "france24",
    "name": "France 24",
    "ok": true,
-   "items": 11,
+   "items": 9,
    "note": "ok",
-   "secs": 0.5
+   "secs": 0.2
   },
   {
    "id": "dw",
@@ -103,23 +102,23 @@
    "ok": true,
    "items": 3,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "id": "africanews",
    "name": "Africanews",
    "ok": true,
-   "items": 15,
+   "items": 13,
    "note": "ok",
-   "secs": 0.4
+   "secs": 0.3
   },
   {
    "id": "kyiv-independent",
    "name": "Kyiv Independent",
    "ok": true,
-   "items": 8,
+   "items": 9,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "times-of-israel",

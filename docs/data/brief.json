@@ -1,18 +1,100 @@
 {
- "generated": "2026-11-07T19:56:05.532613+00:00",
+ "generated": "2026-11-07T23:30:04.569429+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
   "2": 42,
-  "3": 29,
+  "3": 30,
   "4": 0,
-  "5": 3
+  "5": 4
  },
  "watch_hits": [
   "3f9a8961412f"
  ],
  "regions": {
+  "Eastern Europe": [
+   {
+    "id": "bb90a6a73dc3",
+    "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+    "country": "Poland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-07T21:19:01+00:00"
+   },
+   {
+    "id": "326823d4e8e7",
+    "title": "At least six people killed in shooting in Poland’s Krakow",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-11-07T15:22:55+00:00"
+   },
+   {
+    "id": "2df9297aa77b",
+    "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-11-07T09:21:00+00:00"
+   },
+   {
+    "id": "ca09a244ee78",
+    "title": "Russia hits Kyiv and surrounding region in massive overnight strike",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-11-07T08:08:44+00:00"
+   },
+   {
+    "id": "935a80690f9b",
+    "title": "Russia launches missile attack on Kyiv, injuring residents",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-07T05:11:03+00:00"
+   },
+   {
+    "id": "dafcb07d071f",
+    "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-07T22:32:41+00:00"
+   },
+   {
+    "id": "b7d77aeac9e1",
+    "title": "Poland: Footage shows people taking cover as a gunman opens fire in Krakow",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-07T22:10:54+00:00"
+   },
+   {
+    "id": "fa88eb294616",
+    "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-07T17:17:23+00:00"
+   }
+  ],
   "Middle East & N. Africa": [
    {
     "id": "4adc7cd97678",
@@ -107,16 +189,6 @@
     "time": "2026-11-07T01:55:11+00:00"
    },
    {
-    "id": "b5d2de2d132f",
-    "title": "Ueno Bank scandal plunges Paraguay into political crisis",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-06T20:23:00+00:00"
-   },
-   {
     "id": "2c0d5085be04",
     "title": "Paraguay VP Alliana sworn is as president after predecessor impeached",
     "country": "Chile",
@@ -145,6 +217,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-07T07:00:00+00:00"
+   },
+   {
+    "id": "c907f0e98df3",
+    "title": "M4.5 earthquake, 65 km WSW of Masachapa, Nicaragua",
+    "country": "Nicaragua",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-07T19:55:10.891000+00:00"
    },
    {
     "id": "b30c8a7a0630",
@@ -177,86 +259,86 @@
     "time": "2026-11-07T10:53:12.299000+00:00"
    }
   ],
-  "Eastern Europe": [
+  "Western Europe": [
    {
-    "id": "326823d4e8e7",
-    "title": "At least six people killed in shooting in Poland’s Krakow",
-    "country": "Poland",
+    "id": "6d399bf84844",
+    "title": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
+    "country": "France",
+    "city": "Paris",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-07T19:58:43+00:00"
+   },
+   {
+    "id": "3692af890d45",
+    "title": "Nations League: Zinedine Zidane balances surprise and continuity in his second roster",
+    "country": "France",
     "city": null,
-    "category": "crime",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-07T15:22:55+00:00"
-   },
-   {
-    "id": "ca09a244ee78",
-    "title": "Russia hits Kyiv and surrounding region in massive overnight strike",
-    "country": "Ukraine",
-    "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-07T08:08:44+00:00"
+    "confidence": "B3",
+    "time": "2026-11-07T13:27:01+00:00"
    },
    {
-    "id": "935a80690f9b",
-    "title": "Russia launches missile attack on Kyiv, injuring residents",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
+    "id": "9c718c23e220",
+    "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B2",
-    "time": "2026-11-07T05:11:03+00:00"
+    "time": "2026-11-07T13:29:28+00:00"
    },
    {
-    "id": "fa88eb294616",
-    "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
-    "country": "Poland",
-    "city": null,
-    "category": "crime",
-    "severity": 3,
+    "id": "f7faf91a8420",
+    "title": "Police clash with protesters as anti-government rallies sweep France",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-07T17:17:23+00:00"
+    "time": "2026-11-07T21:24:10+00:00"
    },
    {
-    "id": "2aca0acdc4ab",
-    "title": "Zelensky says Oleshky ceasefire shows Russia can halt fighting but Putin is unwilling",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T16:13:52+00:00"
-   },
-   {
-    "id": "380f2b7dfbd8",
-    "title": "At least five killed in shooting in Polish city of Krakow, police say",
-    "country": "Poland",
-    "city": null,
-    "category": "crime",
-    "severity": 3,
+    "id": "c76f439dba9d",
+    "title": "Demonstration in Berlin calls for an end to arming Israel",
+    "country": "Germany",
+    "city": "Berlin",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-07T15:23:48+00:00"
+    "time": "2026-11-07T19:04:04+00:00"
    },
    {
-    "id": "a9d7ea71229d",
-    "title": "Ukraine strikes Russian missile launchers, air defense systems in Bryansk Oblast, General Staff says",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T12:38:32+00:00"
-   },
-   {
-    "id": "7c86c7a48490",
-    "title": "General Staff: Russia has lost 1,604,110 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
+    "id": "68adb7d893d9",
+    "title": "Germany cannot provide Ukraine with more Patriot systems for now, defense minister says",
+    "country": "Germany",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "C4",
-    "time": "2026-11-07T07:30:35+00:00"
+    "time": "2026-11-07T17:55:00+00:00"
+   },
+   {
+    "id": "a33a381bf26e",
+    "title": "Italian foreign minister says hackers leaked his personal data",
+    "country": "Italy",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T16:50:06+00:00"
+   },
+   {
+    "id": "06083d336c33",
+    "title": "Italy's foreign minister targeted in cyberattack due to Ukraine stance, minister says",
+    "country": "Italy",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-07T15:49:31+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -309,98 +391,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-07T07:05:43+00:00"
-   },
-   {
-    "id": "876ed19fdd3f",
-    "title": "Kenyan cult leader sentenced to 200 years in prison",
-    "country": "South Africa",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-06T21:23:53+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "3692af890d45",
-    "title": "Nations League: Zinedine Zidane balances surprise and continuity in his second roster",
-    "country": "France",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-07T13:27:01+00:00"
-   },
-   {
-    "id": "c76f439dba9d",
-    "title": "Demonstration in Berlin calls for an end to arming Israel",
-    "country": "Germany",
-    "city": "Berlin",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T19:04:04+00:00"
-   },
-   {
-    "id": "68adb7d893d9",
-    "title": "Germany cannot provide Ukraine with more Patriot systems for now, defense minister says",
-    "country": "Germany",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-07T17:55:00+00:00"
-   },
-   {
-    "id": "a33a381bf26e",
-    "title": "Italian foreign minister says hackers leaked his personal data",
-    "country": "Italy",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T16:50:06+00:00"
-   },
-   {
-    "id": "06083d336c33",
-    "title": "Italy's foreign minister targeted in cyberattack due to Ukraine stance, minister says",
-    "country": "Italy",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-07T15:49:31+00:00"
-   },
-   {
-    "id": "9c718c23e220",
-    "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T13:29:28+00:00"
-   },
-   {
-    "id": "0ed03b784629",
-    "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
-    "country": "Italy",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T12:29:48+00:00"
-   },
-   {
-    "id": "fc5574f70d28",
-    "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T10:44:34+00:00"
    }
   ],
   "East & SE Asia": [
@@ -443,16 +433,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-07T09:47:33.240000+00:00"
-   },
-   {
-    "id": "541a02ea64d0",
-    "title": "Green forest fire notification in China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T20:10:36+00:00"
    }
   ],
   "South Asia": [
@@ -507,16 +487,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-07T15:00:14+00:00"
-   },
-   {
-    "id": "6124e0506726",
-    "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
-    "country": "United States",
-    "city": "Minneapolis",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-06T20:51:37+00:00"
    }
   ],
   "Oceania": [
