@@ -1,26 +1,190 @@
 {
- "generated": "2026-11-07T09:16:31.461137+00:00",
+ "generated": "2026-11-07T15:50:02.271079+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 41,
-  "3": 28,
-  "4": 3,
-  "5": 0
+  "2": 39,
+  "3": 25,
+  "4": 0,
+  "5": 1
  },
  "watch_hits": [],
  "regions": {
+  "Middle East & N. Africa": [
+   {
+    "id": "cf7625a3c3c0",
+    "title": "Yemen: 30 dead in strikes on Taiz market",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-07T09:37:16+00:00"
+   },
+   {
+    "id": "efb942917b58",
+    "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-07T04:50:46+00:00"
+   },
+   {
+    "id": "da37c48aae9c",
+    "title": "Heavy rains leave tens of thousands without shelter in Gaza",
+    "country": "Palestine",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-07T14:53:34+00:00"
+   },
+   {
+    "id": "2a126bcb0184",
+    "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+    "country": "Israel",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T13:07:23+00:00"
+   },
+   {
+    "id": "3dae45024e67",
+    "title": "Heavy rains flood displacement camps across Gaza",
+    "country": "Palestine",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T13:04:51+00:00"
+   },
+   {
+    "id": "68369a78f096",
+    "title": "Court rules against Home Office in asylum seeker kidnapping case",
+    "country": "Libya",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T13:00:11+00:00"
+   },
+   {
+    "id": "a19db1a93120",
+    "title": "Rains flood 70,000 displaced families’ tents in Gaza",
+    "country": "Palestine",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T11:10:02+00:00"
+   },
+   {
+    "id": "7c48d9657ed6",
+    "title": "Curas contra el genocidio pide a los obispos de EEUU que se unan a la manifestación por Gaza en Washington ## Jesús Bastante",
+    "country": "Palestine",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-07T07:00:00+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "00733a0f4fc4",
+    "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-11-07T01:55:11+00:00"
+   },
+   {
+    "id": "b5d2de2d132f",
+    "title": "Ueno Bank scandal plunges Paraguay into political crisis",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-11-06T20:23:00+00:00"
+   },
+   {
+    "id": "ecade8934426",
+    "title": "Paraguay bank collapse sees president impeached , arrested",
+    "country": "Paraguay",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-07T07:00:00+00:00"
+   },
+   {
+    "id": "db6be6a52998",
+    "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
+    "country": "Paraguay",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-06T16:58:56+00:00"
+   },
+   {
+    "id": "8913906bebe2",
+    "title": "M4.5 earthquake, 57 km SW of Ollagüe, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-07T10:53:12.299000+00:00"
+   },
+   {
+    "id": "528b66958d51",
+    "title": "Protestas exigen que Santiago Peña salga de su casa y sea llevado a una cárcel",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-07T06:30:00+00:00"
+   },
+   {
+    "id": "4fced617291d",
+    "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T05:02:49+00:00"
+   },
+   {
+    "id": "16312bb53c2b",
+    "title": "Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-06T16:13:51+00:00"
+   }
+  ],
   "Eastern Europe": [
    {
-    "id": "0d0125869eb0",
-    "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-06T13:49:07+00:00"
+    "id": "ca09a244ee78",
+    "title": "Russia hits Kyiv and surrounding region in massive overnight strike",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-11-07T08:08:44+00:00"
    },
    {
     "id": "935a80690f9b",
@@ -31,6 +195,26 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-11-07T05:11:03+00:00"
+   },
+   {
+    "id": "380f2b7dfbd8",
+    "title": "At least five killed in shooting in Polish city of Krakow, police say",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-07T15:23:48+00:00"
+   },
+   {
+    "id": "a9d7ea71229d",
+    "title": "Ukraine strikes Russian missile launchers, air defense systems in Bryansk Oblast, General Staff says",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-07T12:38:32+00:00"
    },
    {
     "id": "7c86c7a48490",
@@ -71,205 +255,19 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-06T22:04:00+00:00"
-   },
-   {
-    "id": "88e966dcec45",
-    "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-    "country": "Poland",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-06T16:04:19+00:00"
-   },
-   {
-    "id": "220873bbf929",
-    "title": "Fact check: How clashes over fake hostages near Kyiv fueled Russian disinformation blitz",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-06T15:18:17+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "7cd917d985a5",
-    "title": "M6.1 earthquake, 144 km SE of Hasaki, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-11-06T10:39:27.869000+00:00"
-   },
-   {
-    "id": "79213ba2e39b",
-    "title": "M6.1 earthquake, 156 km SE of Hasaki, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-11-06T10:39:24.800000+00:00"
-   },
-   {
-    "id": "0944424d452c",
-    "title": "Japan , U . S . agree on measures to prevent crimes by troops in Okinawa",
-    "country": "Japan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T00:00:00+00:00"
-   },
-   {
-    "id": "541a02ea64d0",
-    "title": "Green forest fire notification in China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T20:10:36+00:00"
-   },
-   {
-    "id": "c4953d8f6e87",
-    "title": "M4.8 earthquake, 36 km WNW of Poso, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T19:07:01.269000+00:00"
-   },
-   {
-    "id": "4c1bafadcbe2",
-    "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T10:56:32+00:00"
-   },
-   {
-    "id": "7cb35973e8a7",
-    "title": "Green earthquake (Magnitude 6.1M, Depth:29km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T10:56:32+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "b5d2de2d132f",
-    "title": "Ueno Bank scandal plunges Paraguay into political crisis",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-06T20:23:00+00:00"
-   },
-   {
-    "id": "ecade8934426",
-    "title": "Paraguay bank collapse sees president impeached , arrested",
-    "country": "Paraguay",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T07:00:00+00:00"
-   },
-   {
-    "id": "00733a0f4fc4",
-    "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-07T01:55:11+00:00"
-   },
-   {
-    "id": "db6be6a52998",
-    "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
-    "country": "Paraguay",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-06T16:58:56+00:00"
-   },
-   {
-    "id": "528b66958d51",
-    "title": "Protestas exigen que Santiago Peña salga de su casa y sea llevado a una cárcel",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-07T06:30:00+00:00"
-   },
-   {
-    "id": "4fced617291d",
-    "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T05:02:49+00:00"
-   },
-   {
-    "id": "16312bb53c2b",
-    "title": "Peru",
-    "country": "Peru",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-06T16:13:51+00:00"
-   },
-   {
-    "id": "1553ec83536a",
-    "title": "The women who rode the blue wave",
-    "country": "El Salvador",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-06T14:15:28+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "cc74978df97f",
-    "title": "Kolkata Police issues prohibitory order in area around Abhishek Banerjee residence after late - night clashes ( LD )",
-    "country": "India",
-    "city": "Kolkata",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T08:00:00+00:00"
-   },
-   {
-    "id": "ce61b17dcebb",
-    "title": "Pakistan forces launch deadly crackdown in PoJK , civilian deaths reported in Rawalakot clashes",
-    "country": "Pakistan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T00:00:00+00:00"
    }
   ],
   "Sub-Saharan Africa": [
+   {
+    "id": "4310c4f08418",
+    "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
+    "country": "CAR",
+    "city": null,
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-07T15:42:19+00:00"
+   },
    {
     "id": "bf8968e36c4d",
     "title": "Political chaos in Somalia after court ruling against president's term extension",
@@ -291,24 +289,14 @@
     "time": "2026-11-06T17:00:48+00:00"
    },
    {
-    "id": "068b468d369b",
-    "title": "Ethiopia clashes drive thousands into Kenya",
-    "country": "Kenya",
+    "id": "575b3265531e",
+    "title": "M4.9 earthquake, 77 km NNW of Khorixas, Namibia",
+    "country": "Namibia",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-06T10:11:31+00:00"
-   },
-   {
-    "id": "eb80b3e3e710",
-    "title": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
-    "country": "Kenya",
-    "city": null,
-    "category": "crime",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B1",
-    "time": "2026-11-06T12:03:00+00:00"
+    "confidence": "A1",
+    "time": "2026-11-07T15:22:50.149000+00:00"
    },
    {
     "id": "02dd66dd4707",
@@ -351,56 +339,180 @@
     "time": "2026-11-06T16:22:46+00:00"
    }
   ],
-  "Middle East & N. Africa": [
+  "Western Europe": [
    {
-    "id": "efb942917b58",
-    "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-    "country": "Iran",
+    "id": "3692af890d45",
+    "title": "Nations League: Zinedine Zidane balances surprise and continuity in his second roster",
+    "country": "France",
     "city": null,
-    "category": "political",
+    "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-07T04:50:46+00:00"
+    "time": "2026-11-07T13:27:01+00:00"
    },
    {
-    "id": "060cc93ef3fd",
-    "title": "US Defence Secretary Pete Hegseth's future in question after midterms setback",
-    "country": "Iran",
-    "city": null,
-    "category": "political",
-    "severity": 3,
+    "id": "1439e56928b1",
+    "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-11-06T18:51:37+00:00"
+   },
+   {
+    "id": "9c718c23e220",
+    "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-06T13:15:54+00:00"
+    "time": "2026-11-07T13:29:28+00:00"
    },
    {
-    "id": "7c48d9657ed6",
-    "title": "Curas contra el genocidio pide a los obispos de EEUU que se unan a la manifestación por Gaza en Washington ## Jesús Bastante",
-    "country": "Palestine",
+    "id": "0ed03b784629",
+    "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
+    "country": "Italy",
     "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T12:29:48+00:00"
+   },
+   {
+    "id": "fc5574f70d28",
+    "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
+    "country": "France",
+    "city": "Paris",
     "category": "unrest",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-07T07:00:00+00:00"
+    "confidence": "B3",
+    "time": "2026-11-07T10:44:34+00:00"
    },
    {
-    "id": "1fd2791831c8",
-    "title": "Netherlands: Protesters storm Amsterdam data centre construction site",
-    "country": "Palestine",
-    "city": null,
+    "id": "462c627e6303",
+    "title": "AI Data centres face growing backlash",
+    "country": "Netherlands",
+    "city": "Amsterdam",
     "category": "unrest",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-06T14:04:54+00:00"
+    "confidence": "B3",
+    "time": "2026-11-07T09:39:55+00:00"
    },
    {
-    "id": "3b1421e3d0f6",
-    "title": "Transition to renewable energy key issue at COP 31 talks",
-    "country": "Turkey",
+    "id": "085c445e1572",
+    "title": "Live: France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T08:17:22+00:00"
+   },
+   {
+    "id": "9de3289d9568",
+    "title": "Live: Calm prevails as new mass cost-of-living demonstrations take off across France",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T08:17:22+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "2d6e7cf5daf6",
+    "title": "M5.5 earthquake, 74 km NE of Hasaki, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-07T11:07:43.355000+00:00"
+   },
+   {
+    "id": "0944424d452c",
+    "title": "Japan , U . S . agree on measures to prevent crimes by troops in Okinawa",
+    "country": "Japan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-07T00:00:00+00:00"
+   },
+   {
+    "id": "d9ef587445b3",
+    "title": "Green earthquake (Magnitude 5.5M, Depth:31.748km) in Japan 07/11/2026 11:07 UTC, 1.8 million in MMI IV.",
+    "country": "Japan",
     "city": null,
     "category": "hazard",
     "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-07T11:24:32+00:00"
+   },
+   {
+    "id": "cebbad579490",
+    "title": "M4.7 earthquake, 156 km ESE of Modisi, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-07T09:47:33.240000+00:00"
+   },
+   {
+    "id": "541a02ea64d0",
+    "title": "Green forest fire notification in China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-06T20:10:36+00:00"
+   },
+   {
+    "id": "c4953d8f6e87",
+    "title": "M4.8 earthquake, 36 km WNW of Poso, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-06T19:07:01.269000+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "cc74978df97f",
+    "title": "Kolkata Police issues prohibitory order in area around Abhishek Banerjee residence after late - night clashes ( LD )",
+    "country": "India",
+    "city": "Kolkata",
+    "category": "conflict",
+    "severity": 3,
     "confidence": "C4",
-    "time": "2026-11-06T09:57:59+00:00"
+    "time": "2026-11-07T08:00:00+00:00"
+   },
+   {
+    "id": "ce61b17dcebb",
+    "title": "Pakistan forces launch deadly crackdown in PoJK , civilian deaths reported in Rawalakot clashes",
+    "country": "Pakistan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-07T00:00:00+00:00"
+   },
+   {
+    "id": "09d580446a02",
+    "title": "Nepal’s fight to rebuild after flood disaster",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T11:30:00+00:00"
    }
   ],
   "North America": [
@@ -425,14 +537,14 @@
     "time": "2026-11-06T17:07:58+00:00"
    },
    {
-    "id": "a8fb473f3ecb",
-    "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+    "id": "827a9c754073",
+    "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
     "country": "United States",
-    "city": "Boston",
+    "city": "Los Angeles",
     "category": "hazard",
-    "severity": 3,
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-06T09:54:12+00:00"
+    "time": "2026-11-07T15:00:14+00:00"
    },
    {
     "id": "6124e0506726",
@@ -443,88 +555,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-06T20:51:37+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "09699896fb2a",
-    "title": "‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-06T10:30:38+00:00"
-   },
-   {
-    "id": "73986d91eacb",
-    "title": "Navi Pillay on the ICC and accusations of bias against Africa",
-    "country": "France",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-06T10:09:51+00:00"
-   },
-   {
-    "id": "1439e56928b1",
-    "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
-    "country": "Netherlands",
-    "city": "Amsterdam",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-11-06T18:51:37+00:00"
-   },
-   {
-    "id": "085c445e1572",
-    "title": "Live: France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T08:17:22+00:00"
-   },
-   {
-    "id": "50638340ff08",
-    "title": "Amid protests, France's rising debt costs threaten stability",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T08:16:00+00:00"
-   },
-   {
-    "id": "e05b26d32fb8",
-    "title": "Early release prisoners facing street homelessness, probation staff warn",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T07:00:06+00:00"
-   },
-   {
-    "id": "f794fefc7cea",
-    "title": "How ‘Street Medics’ protect French protesters",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-06T20:17:32+00:00"
-   },
-   {
-    "id": "416bd4a680a0",
-    "title": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-06T20:08:32+00:00"
    }
   ]
  }
