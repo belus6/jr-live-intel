@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-08T02:39:46.193624+00:00",
+ "generated": "2026-11-08T09:29:37.698836+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 46,
-  "3": 26,
+  "2": 43,
+  "3": 20,
   "4": 1,
-  "5": 5
+  "5": 9
  },
  "watch_hits": [
   "3f9a8961412f"
@@ -15,8 +15,28 @@
  "regions": {
   "Eastern Europe": [
    {
+    "id": "16fcba202ec2",
+    "title": "Briton among six dead after gunman opens fire in Kraków market square",
+    "country": "Poland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-08T09:09:35+00:00"
+   },
+   {
     "id": "0daabadbe22e",
     "title": "Gunmen kills six in Krakow, three more bodies found at his house",
+    "country": "Poland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-07T22:47:06+00:00"
+   },
+   {
+    "id": "01d006c54475",
+    "title": "Gunman kills six in Krakow, three more bodies found at his house",
     "country": "Poland",
     "city": null,
     "category": "terrorism",
@@ -55,34 +75,14 @@
     "time": "2026-11-07T15:22:55+00:00"
    },
    {
-    "id": "2df9297aa77b",
-    "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+    "id": "7131bc23ccbe",
+    "title": "General Staff: Russia has lost 1,606,400 troops in Ukraine since Feb. 24, 2022",
     "country": "Ukraine",
-    "city": "Kyiv",
+    "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-07T09:21:00+00:00"
-   },
-   {
-    "id": "ca09a244ee78",
-    "title": "Russia hits Kyiv and surrounding region in massive overnight strike",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-07T08:08:44+00:00"
-   },
-   {
-    "id": "935a80690f9b",
-    "title": "Russia launches missile attack on Kyiv, injuring residents",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-07T05:11:03+00:00"
+    "confidence": "C4",
+    "time": "2026-11-08T07:29:26+00:00"
    },
    {
     "id": "dafcb07d071f",
@@ -96,6 +96,26 @@
    }
   ],
   "Middle East & N. Africa": [
+   {
+    "id": "622f99cb5845",
+    "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+    "country": "Yemen",
+    "city": "Sanaa",
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-08T07:40:07+00:00"
+   },
+   {
+    "id": "a57fd6db6477",
+    "title": "Houthis say at least 33 killed in Saudi air strike",
+    "country": "Saudi Arabia",
+    "city": null,
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-08T04:03:12+00:00"
+   },
    {
     "id": "4adc7cd97678",
     "title": "Houthis report 25 killed in Yemen strikes",
@@ -127,6 +147,16 @@
     "time": "2026-11-07T09:37:16+00:00"
    },
    {
+    "id": "dd42e907e181",
+    "title": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-08T07:00:34+00:00"
+   },
+   {
     "id": "360dc45d9f43",
     "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
     "country": "Yemen",
@@ -145,36 +175,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-07T17:16:50+00:00"
-   },
-   {
-    "id": "7c51563b8ec5",
-    "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-    "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-07T15:34:58+00:00"
-   },
-   {
-    "id": "efb942917b58",
-    "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-    "country": "Iran",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-07T04:50:46+00:00"
-   },
-   {
-    "id": "85f31cff4f47",
-    "title": "Jerusalem Daily: Heavy rains flood Gaza",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T17:11:29+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -185,8 +185,18 @@
     "city": "Santiago",
     "category": "political",
     "severity": 3,
-    "confidence": "B2",
+    "confidence": "B1",
     "time": "2026-11-07T10:29:18+00:00"
+   },
+   {
+    "id": "251db24dffea",
+    "title": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+    "country": "Colombia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-08T04:56:37+00:00"
    },
    {
     "id": "296fca710f73",
@@ -199,14 +209,14 @@
     "time": "2026-11-07T17:14:36+00:00"
    },
    {
-    "id": "ecade8934426",
-    "title": "Paraguay bank collapse sees president impeached , arrested",
-    "country": "Paraguay",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T07:00:00+00:00"
+    "id": "d6bc3b36edb7",
+    "title": "Haitians cheer El Salvador’s Bukele amid gang war",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T05:09:39+00:00"
    },
    {
     "id": "886915b367fe",
@@ -247,16 +257,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-07T16:01:52.257000+00:00"
-   },
-   {
-    "id": "8913906bebe2",
-    "title": "M4.5 earthquake, 57 km SW of Ollagüe, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T10:53:12.299000+00:00"
    }
   ],
   "Western Europe": [
@@ -291,6 +291,36 @@
     "time": "2026-11-07T13:29:28+00:00"
    },
    {
+    "id": "7cf3dcfb338f",
+    "title": "Mapping how France’s protest wave spread across Europe",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T08:18:38+00:00"
+   },
+   {
+    "id": "7bf8687d42d2",
+    "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T08:00:36+00:00"
+   },
+   {
+    "id": "2fe7b1dcb256",
+    "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T06:00:33+00:00"
+   },
+   {
     "id": "f7faf91a8420",
     "title": "Police clash with protesters as anti-government rallies sweep France",
     "country": "France",
@@ -309,36 +339,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-07T19:04:04+00:00"
-   },
-   {
-    "id": "68adb7d893d9",
-    "title": "Germany cannot provide Ukraine with more Patriot systems for now, defense minister says",
-    "country": "Germany",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-07T17:55:00+00:00"
-   },
-   {
-    "id": "a33a381bf26e",
-    "title": "Italian foreign minister says hackers leaked his personal data",
-    "country": "Italy",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T16:50:06+00:00"
-   },
-   {
-    "id": "06083d336c33",
-    "title": "Italy's foreign minister targeted in cyberattack due to Ukraine stance, minister says",
-    "country": "Italy",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-07T15:49:31+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -351,16 +351,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-07T15:42:19+00:00"
-   },
-   {
-    "id": "bf8968e36c4d",
-    "title": "Political chaos in Somalia after court ruling against president's term extension",
-    "country": "Somalia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T07:47:35+00:00"
    },
    {
     "id": "14abf1c38efe",
@@ -401,16 +391,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-07T15:22:50.149000+00:00"
-   },
-   {
-    "id": "02dd66dd4707",
-    "title": "Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
-    "country": "Madagascar",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T07:05:43+00:00"
    }
   ],
   "East & SE Asia": [
@@ -423,6 +403,26 @@
     "severity": 3,
     "confidence": "A1",
     "time": "2026-11-07T11:07:43.355000+00:00"
+   },
+   {
+    "id": "234178f4627b",
+    "title": "Earthquake hits central Japan, injuring more than 20 people",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T04:20:57+00:00"
+   },
+   {
+    "id": "42719f4209ed",
+    "title": "M4.5 earthquake, 11 km W of Honmachi, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-08T01:53:16.193000+00:00"
    },
    {
     "id": "dd9105ca8c87",
@@ -453,28 +453,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-07T09:47:33.240000+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "cc74978df97f",
-    "title": "Kolkata Police issues prohibitory order in area around Abhishek Banerjee residence after late - night clashes ( LD )",
-    "country": "India",
-    "city": "Kolkata",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T08:00:00+00:00"
-   },
-   {
-    "id": "09d580446a02",
-    "title": "Nepal’s fight to rebuild after flood disaster",
-    "country": "Nepal",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T11:30:00+00:00"
    }
   ],
   "Oceania": [
@@ -509,6 +487,18 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-07T15:00:14+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "09d580446a02",
+    "title": "Nepal’s fight to rebuild after flood disaster",
+    "country": "Nepal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T11:30:00+00:00"
    }
   ]
  }
