@@ -1,19 +1,29 @@
 {
- "generated": "2026-11-07T23:30:04.569429+00:00",
+ "generated": "2026-11-08T02:39:46.193624+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 42,
-  "3": 30,
-  "4": 0,
-  "5": 4
+  "2": 46,
+  "3": 26,
+  "4": 1,
+  "5": 5
  },
  "watch_hits": [
   "3f9a8961412f"
  ],
  "regions": {
   "Eastern Europe": [
+   {
+    "id": "0daabadbe22e",
+    "title": "Gunmen kills six in Krakow, three more bodies found at his house",
+    "country": "Poland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-07T22:47:06+00:00"
+   },
    {
     "id": "bb90a6a73dc3",
     "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
@@ -23,6 +33,16 @@
     "severity": 5,
     "confidence": "B3",
     "time": "2026-11-07T21:19:01+00:00"
+   },
+   {
+    "id": "90a5396724c6",
+    "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+    "country": "Poland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-08T00:50:28+00:00"
    },
    {
     "id": "326823d4e8e7",
@@ -73,26 +93,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-07T22:32:41+00:00"
-   },
-   {
-    "id": "b7d77aeac9e1",
-    "title": "Poland: Footage shows people taking cover as a gunman opens fire in Krakow",
-    "country": "Poland",
-    "city": null,
-    "category": "crime",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T22:10:54+00:00"
-   },
-   {
-    "id": "fa88eb294616",
-    "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
-    "country": "Poland",
-    "city": null,
-    "category": "crime",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-07T17:17:23+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -179,16 +179,6 @@
   ],
   "Latin America & Caribbean": [
    {
-    "id": "00733a0f4fc4",
-    "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-07T01:55:11+00:00"
-   },
-   {
     "id": "2c0d5085be04",
     "title": "Paraguay VP Alliana sworn is as president after predecessor impeached",
     "country": "Chile",
@@ -217,6 +207,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-07T07:00:00+00:00"
+   },
+   {
+    "id": "886915b367fe",
+    "title": "M4.5 earthquake, 77 km SW of La Gomera, Guatemala",
+    "country": "Guatemala",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-07T23:22:35.649000+00:00"
    },
    {
     "id": "c907f0e98df3",
@@ -363,6 +363,26 @@
     "time": "2026-11-07T07:47:35+00:00"
    },
    {
+    "id": "14abf1c38efe",
+    "title": "Green forest fire notification in Mali",
+    "country": "Mali",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-08T00:06:15+00:00"
+   },
+   {
+    "id": "2d6546361fbf",
+    "title": "Green forest fire notification in Tanzania",
+    "country": "Tanzania",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-07T21:48:19+00:00"
+   },
+   {
     "id": "9fa30e817ded",
     "title": "Green forest fire notification in Madagascar",
     "country": "Madagascar",
@@ -405,14 +425,14 @@
     "time": "2026-11-07T11:07:43.355000+00:00"
    },
    {
-    "id": "0944424d452c",
-    "title": "Japan , U . S . agree on measures to prevent crimes by troops in Okinawa",
-    "country": "Japan",
+    "id": "dd9105ca8c87",
+    "title": "M4.9 earthquake, 41 km WSW of Gadung, Philippines",
+    "country": "Philippines",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T00:00:00+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-07T23:25:35.852000+00:00"
    },
    {
     "id": "d9ef587445b3",
@@ -447,16 +467,6 @@
     "time": "2026-11-07T08:00:00+00:00"
    },
    {
-    "id": "ce61b17dcebb",
-    "title": "Pakistan forces launch deadly crackdown in PoJK , civilian deaths reported in Rawalakot clashes",
-    "country": "Pakistan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T00:00:00+00:00"
-   },
-   {
     "id": "09d580446a02",
     "title": "Nepal’s fight to rebuild after flood disaster",
     "country": "Nepal",
@@ -467,29 +477,17 @@
     "time": "2026-11-07T11:30:00+00:00"
    }
   ],
-  "North America": [
+  "Oceania": [
    {
-    "id": "2f04ee149d3a",
-    "title": "Historic New York Mills curfew bell finds new home in Centennial Park",
-    "country": "United States",
-    "city": "New York",
-    "category": "unrest",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-07T00:00:00+00:00"
-   },
-   {
-    "id": "827a9c754073",
-    "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
-    "country": "United States",
-    "city": "Los Angeles",
+    "id": "7041e1899d75",
+    "title": "M5.1 earthquake, 91 km ENE of Hihifo, Tonga",
+    "country": "Tonga",
+    "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T15:00:14+00:00"
-   }
-  ],
-  "Oceania": [
+    "confidence": "A1",
+    "time": "2026-11-07T23:27:09.444000+00:00"
+   },
    {
     "id": "06bd9d8d71af",
     "title": "M4.5 earthquake, Fiji region",
@@ -499,6 +497,18 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-07T15:05:45.113000+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "827a9c754073",
+    "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
+    "country": "United States",
+    "city": "Los Angeles",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-07T15:00:14+00:00"
    }
   ]
  }

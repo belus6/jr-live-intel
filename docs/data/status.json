@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T23:30:04.569429+00:00",
+ "generated": "2026-11-08T02:39:46.193624+00:00",
  "sources": [
   {
    "id": "us-state-advisories",
@@ -15,7 +15,7 @@
    "ok": true,
    "items": 20,
    "note": "ok",
-   "secs": 0.0
+   "secs": 0.1
   },
   {
    "id": "cdc-notices",
@@ -29,16 +29,17 @@
    "id": "usgs-quakes",
    "name": "USGS earthquakes M4.5+",
    "ok": true,
-   "items": 10,
+   "items": 13,
    "note": "ok",
    "secs": 0.1
   },
   {
    "id": "gdacs",
    "name": "GDACS disaster alerts",
-   "ok": false,
-   "items": 0,
-   "note": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+   "ok": true,
+   "items": 101,
+   "note": "ok",
+   "secs": 2.4
   },
   {
    "id": "reliefweb",
@@ -54,7 +55,7 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.4
+   "secs": 0.2
   },
   {
    "id": "bbc-world",
@@ -62,7 +63,7 @@
    "ok": true,
    "items": 3,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.1
   },
   {
    "id": "aljazeera",
@@ -78,7 +79,7 @@
    "ok": true,
    "items": 9,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "id": "dw",
@@ -102,7 +103,7 @@
    "ok": true,
    "items": 3,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.1
   },
   {
    "id": "africanews",
@@ -110,13 +111,13 @@
    "ok": true,
    "items": 13,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.5
   },
   {
    "id": "kyiv-independent",
    "name": "Kyiv Independent",
    "ok": true,
-   "items": 9,
+   "items": 10,
    "note": "ok",
    "secs": 0.2
   },
