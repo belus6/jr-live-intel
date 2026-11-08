@@ -1,19 +1,39 @@
 {
- "generated": "2026-11-08T09:29:37.698836+00:00",
+ "generated": "2026-11-08T16:14:50.847572+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 43,
-  "3": 20,
-  "4": 1,
-  "5": 9
+  "2": 34,
+  "3": 15,
+  "4": 2,
+  "5": 10
  },
  "watch_hits": [
   "3f9a8961412f"
  ],
  "regions": {
   "Eastern Europe": [
+   {
+    "id": "13d6cce9d641",
+    "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+    "country": "Poland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-08T12:40:12+00:00"
+   },
+   {
+    "id": "ad0411f707bb",
+    "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
+    "country": "Poland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-08T11:50:15+00:00"
+   },
    {
     "id": "16fcba202ec2",
     "title": "Briton among six dead after gunman opens fire in Kraków market square",
@@ -55,6 +75,16 @@
     "time": "2026-11-07T21:19:01+00:00"
    },
    {
+    "id": "c00b46c80bc5",
+    "title": "Poland launches terrorism probe into mass shooting in Krakow",
+    "country": "Poland",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-08T08:59:56+00:00"
+   },
+   {
     "id": "90a5396724c6",
     "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
     "country": "Poland",
@@ -63,36 +93,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-08T00:50:28+00:00"
-   },
-   {
-    "id": "326823d4e8e7",
-    "title": "At least six people killed in shooting in Poland’s Krakow",
-    "country": "Poland",
-    "city": null,
-    "category": "crime",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-07T15:22:55+00:00"
-   },
-   {
-    "id": "7131bc23ccbe",
-    "title": "General Staff: Russia has lost 1,606,400 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-08T07:29:26+00:00"
-   },
-   {
-    "id": "dafcb07d071f",
-    "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
-    "country": "Poland",
-    "city": null,
-    "category": "crime",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-07T22:32:41+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -137,14 +137,24 @@
     "time": "2026-11-07T17:09:24+00:00"
    },
    {
-    "id": "cf7625a3c3c0",
-    "title": "Yemen: 30 dead in strikes on Taiz market",
-    "country": "Yemen",
+    "id": "e092ffe41ab3",
+    "title": "Yemen's humanitarian crisis worsens",
+    "country": "Jordan",
+    "city": "Amman",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-08T14:22:14+00:00"
+   },
+   {
+    "id": "0a3bf0eab764",
+    "title": "After rebel offensive, efforts to push them back appear to have stalled",
+    "country": "Saudi Arabia",
     "city": null,
     "category": "conflict",
-    "severity": 5,
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-07T09:37:16+00:00"
+    "time": "2026-11-08T10:28:08+00:00"
    },
    {
     "id": "dd42e907e181",
@@ -165,28 +175,18 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-07T19:06:31+00:00"
-   },
-   {
-    "id": "3f9a8961412f",
-    "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-    "country": "Lebanon",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-07T17:16:50+00:00"
    }
   ],
   "Latin America & Caribbean": [
    {
-    "id": "2c0d5085be04",
-    "title": "Paraguay VP Alliana sworn is as president after predecessor impeached",
+    "id": "5364249046da",
+    "title": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
     "country": "Chile",
     "city": "Santiago",
     "category": "political",
     "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-07T10:29:18+00:00"
+    "confidence": "B3",
+    "time": "2026-11-08T10:42:59+00:00"
    },
    {
     "id": "251db24dffea",
@@ -207,6 +207,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-07T17:14:36+00:00"
+   },
+   {
+    "id": "62c1c2af66b1",
+    "title": "M4.7 earthquake, 46 km NW of Huara, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-08T11:58:32.451000+00:00"
    },
    {
     "id": "d6bc3b36edb7",
@@ -247,16 +257,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-07T17:17:38.931000+00:00"
-   },
-   {
-    "id": "b055a9c59080",
-    "title": "M4.5 earthquake, 11 km ESE of Pedasí, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T16:01:52.257000+00:00"
    }
   ],
   "Western Europe": [
@@ -271,24 +271,34 @@
     "time": "2026-11-07T19:58:43+00:00"
    },
    {
-    "id": "3692af890d45",
-    "title": "Nations League: Zinedine Zidane balances surprise and continuity in his second roster",
-    "country": "France",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "id": "f737489a1fd8",
+    "title": "WW2 veterans outnumber former PMs for possible last time at Remembrance Sunday service",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "hazard",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-07T13:27:01+00:00"
+    "time": "2026-11-08T13:05:13+00:00"
    },
    {
-    "id": "9c718c23e220",
-    "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
+    "id": "0cdb8a5f391b",
+    "title": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
     "country": "France",
-    "city": "Paris",
+    "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-11-07T13:29:28+00:00"
+    "confidence": "B3",
+    "time": "2026-11-08T11:53:14+00:00"
+   },
+   {
+    "id": "9da4faef4c3a",
+    "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
+    "country": "France",
+    "city": "Paris",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T11:00:38+00:00"
    },
    {
     "id": "7cf3dcfb338f",
@@ -329,80 +339,30 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-07T21:24:10+00:00"
-   },
-   {
-    "id": "c76f439dba9d",
-    "title": "Demonstration in Berlin calls for an end to arming Israel",
-    "country": "Germany",
-    "city": "Berlin",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T19:04:04+00:00"
    }
   ],
-  "Sub-Saharan Africa": [
+  "North America": [
    {
-    "id": "4310c4f08418",
-    "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
-    "country": "CAR",
+    "id": "787efe9bb1ce",
+    "title": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
+    "country": "United States",
     "city": null,
     "category": "crime",
-    "severity": 3,
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-07T15:42:19+00:00"
-   },
-   {
-    "id": "14abf1c38efe",
-    "title": "Green forest fire notification in Mali",
-    "country": "Mali",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-08T00:06:15+00:00"
-   },
-   {
-    "id": "2d6546361fbf",
-    "title": "Green forest fire notification in Tanzania",
-    "country": "Tanzania",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T21:48:19+00:00"
-   },
-   {
-    "id": "9fa30e817ded",
-    "title": "Green forest fire notification in Madagascar",
-    "country": "Madagascar",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T16:08:20+00:00"
-   },
-   {
-    "id": "575b3265531e",
-    "title": "M4.9 earthquake, 77 km NNW of Khorixas, Namibia",
-    "country": "Namibia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T15:22:50.149000+00:00"
+    "time": "2026-11-08T14:15:54+00:00"
    }
   ],
   "East & SE Asia": [
    {
-    "id": "2d6e7cf5daf6",
-    "title": "M5.5 earthquake, 74 km NE of Hasaki, Japan",
+    "id": "29d8b19c488f",
+    "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
     "country": "Japan",
     "city": null,
     "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-07T11:07:43.355000+00:00"
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T13:11:41+00:00"
    },
    {
     "id": "234178f4627b",
@@ -435,24 +395,58 @@
     "time": "2026-11-07T23:25:35.852000+00:00"
    },
    {
-    "id": "d9ef587445b3",
-    "title": "Green earthquake (Magnitude 5.5M, Depth:31.748km) in Japan 07/11/2026 11:07 UTC, 1.8 million in MMI IV.",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T11:24:32+00:00"
-   },
-   {
-    "id": "cebbad579490",
-    "title": "M4.7 earthquake, 156 km ESE of Modisi, Indonesia",
+    "id": "3c1409a14e27",
+    "title": "M4.7 earthquake, 43 km ESE of Ambon, Indonesia",
     "country": "Indonesia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-07T09:47:33.240000+00:00"
+    "time": "2026-11-07T20:55:38.512000+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "b916a7dd4ea2",
+    "title": "M4.7 earthquake, Southwest Indian Ridge",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-08T12:29:17.722000+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "f7824e7f9542",
+    "title": "2026 Dakar Youth Olympic Games: Golden Double for Senegal",
+    "country": "Senegal",
+    "city": "Dakar",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T10:56:56+00:00"
+   },
+   {
+    "id": "14abf1c38efe",
+    "title": "Green forest fire notification in Mali",
+    "country": "Mali",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-08T00:06:15+00:00"
+   },
+   {
+    "id": "2d6546361fbf",
+    "title": "Green forest fire notification in Tanzania",
+    "country": "Tanzania",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-07T21:48:19+00:00"
    }
   ],
   "Oceania": [
@@ -465,40 +459,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-07T23:27:09.444000+00:00"
-   },
-   {
-    "id": "06bd9d8d71af",
-    "title": "M4.5 earthquake, Fiji region",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T15:05:45.113000+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "827a9c754073",
-    "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T15:00:14+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "09d580446a02",
-    "title": "Nepal’s fight to rebuild after flood disaster",
-    "country": "Nepal",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T11:30:00+00:00"
    }
   ]
  }
