@@ -1,17 +1,15 @@
 {
- "generated": "2026-11-08T16:14:50.847572+00:00",
+ "generated": "2026-11-08T20:35:14.571385+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 34,
-  "3": 15,
+  "2": 37,
+  "3": 12,
   "4": 2,
-  "5": 10
+  "5": 8
  },
- "watch_hits": [
-  "3f9a8961412f"
- ],
+ "watch_hits": [],
  "regions": {
   "Eastern Europe": [
    {
@@ -117,24 +115,14 @@
     "time": "2026-11-08T04:03:12+00:00"
    },
    {
-    "id": "4adc7cd97678",
-    "title": "Houthis report 25 killed in Yemen strikes",
-    "country": "Yemen",
-    "city": null,
+    "id": "ae925c0c4e6a",
+    "title": "Ukraine war latest: Ukraine hits key bridge on 'highway of death' linking mainland Russia to occupied regions",
+    "country": "UAE",
+    "city": "Abu Dhabi",
     "category": "conflict",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-11-07T17:39:23+00:00"
-   },
-   {
-    "id": "b40e7acee85e",
-    "title": "Houthis say at least 25 killed in Saudi air strike",
-    "country": "Saudi Arabia",
-    "city": null,
-    "category": "conflict",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-11-07T17:09:24+00:00"
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-08T18:44:31+00:00"
    },
    {
     "id": "e092ffe41ab3",
@@ -167,14 +155,24 @@
     "time": "2026-11-08T07:00:34+00:00"
    },
    {
-    "id": "360dc45d9f43",
-    "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-    "country": "Yemen",
-    "city": "Sanaa",
-    "category": "conflict",
-    "severity": 3,
+    "id": "a28fc8fe7cce",
+    "title": "Iran executes three men for 'armed unrest' after January protests",
+    "country": "Iran",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-07T19:06:31+00:00"
+    "time": "2026-11-08T13:37:50+00:00"
+   },
+   {
+    "id": "6bba35b76e35",
+    "title": "Gaza: Heavy rain inundates thousands of tents",
+    "country": "Palestine",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T09:42:03+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -197,16 +195,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-08T04:56:37+00:00"
-   },
-   {
-    "id": "296fca710f73",
-    "title": "Ousted Paraguayan president appears before prosecutors",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-07T17:14:36+00:00"
    },
    {
     "id": "62c1c2af66b1",
@@ -237,123 +225,61 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-07T23:22:35.649000+00:00"
-   },
+   }
+  ],
+  "South Asia": [
    {
-    "id": "c907f0e98df3",
-    "title": "M4.5 earthquake, 65 km WSW of Masachapa, Nicaragua",
-    "country": "Nicaragua",
+    "id": "1d33196b14a2",
+    "title": "Green forest fire notification in India",
+    "country": "India",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-07T19:55:10.891000+00:00"
+    "time": "2026-11-08T20:19:27+00:00"
    },
    {
-    "id": "b30c8a7a0630",
-    "title": "M4.7 earthquake, 45 km NNW of Salinas, Ecuador",
-    "country": "Ecuador",
+    "id": "b916a7dd4ea2",
+    "title": "M4.7 earthquake, Southwest Indian Ridge",
+    "country": "India",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-07T17:17:38.931000+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "6d399bf84844",
-    "title": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
-    "country": "France",
-    "city": "Paris",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-07T19:58:43+00:00"
-   },
-   {
-    "id": "f737489a1fd8",
-    "title": "WW2 veterans outnumber former PMs for possible last time at Remembrance Sunday service",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-08T13:05:13+00:00"
-   },
-   {
-    "id": "0cdb8a5f391b",
-    "title": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-08T11:53:14+00:00"
-   },
-   {
-    "id": "9da4faef4c3a",
-    "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
-    "country": "France",
-    "city": "Paris",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-08T11:00:38+00:00"
-   },
-   {
-    "id": "7cf3dcfb338f",
-    "title": "Mapping how France’s protest wave spread across Europe",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-08T08:18:38+00:00"
-   },
-   {
-    "id": "7bf8687d42d2",
-    "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-08T08:00:36+00:00"
-   },
-   {
-    "id": "2fe7b1dcb256",
-    "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-08T06:00:33+00:00"
-   },
-   {
-    "id": "f7faf91a8420",
-    "title": "Police clash with protesters as anti-government rallies sweep France",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-07T21:24:10+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "787efe9bb1ce",
-    "title": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-08T14:15:54+00:00"
+    "time": "2026-11-08T12:29:17.722000+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "c47a9d0d83d5",
+    "title": "M4.8 earthquake, 38 km E of Onagawa Chō, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-08T20:16:30.710000+00:00"
+   },
+   {
+    "id": "8c8c35483560",
+    "title": "Green forest fire notification in Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-08T20:03:48+00:00"
+   },
+   {
+    "id": "6afb86484ead",
+    "title": "M4.6 earthquake, 117 km NE of Tobelo, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-08T16:45:12.938000+00:00"
+   },
    {
     "id": "29d8b19c488f",
     "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
@@ -405,19 +331,37 @@
     "time": "2026-11-07T20:55:38.512000+00:00"
    }
   ],
-  "South Asia": [
+  "Sub-Saharan Africa": [
    {
-    "id": "b916a7dd4ea2",
-    "title": "M4.7 earthquake, Southwest Indian Ridge",
-    "country": "India",
+    "id": "db227737d820",
+    "title": "Green forest fire notification in Benin, Niger, Burkina Faso",
+    "country": "Benin",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-08T12:29:17.722000+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
+    "time": "2026-11-08T20:07:55+00:00"
+   },
+   {
+    "id": "e59a98a065e6",
+    "title": "Green forest fire notification in Nigeria, Cameroon",
+    "country": "Nigeria",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-08T20:04:55+00:00"
+   },
+   {
+    "id": "d8975c4473b2",
+    "title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
+    "country": "Senegal",
+    "city": "Dakar",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T16:21:34+00:00"
+   },
    {
     "id": "f7824e7f9542",
     "title": "2026 Dakar Youth Olympic Games: Golden Double for Senegal",
@@ -447,6 +391,100 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-07T21:48:19+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "f95941972c1d",
+    "title": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
+    "country": "Ireland",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T18:33:34+00:00"
+   },
+   {
+    "id": "dadfc99cc296",
+    "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T17:51:19+00:00"
+   },
+   {
+    "id": "9022f7c3d797",
+    "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T17:44:51+00:00"
+   },
+   {
+    "id": "f737489a1fd8",
+    "title": "WW2 veterans outnumber former PMs for possible last time at Remembrance Sunday service",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T13:05:13+00:00"
+   },
+   {
+    "id": "0cdb8a5f391b",
+    "title": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T11:53:14+00:00"
+   },
+   {
+    "id": "9da4faef4c3a",
+    "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
+    "country": "France",
+    "city": "Paris",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T11:00:38+00:00"
+   },
+   {
+    "id": "7cf3dcfb338f",
+    "title": "Mapping how France’s protest wave spread across Europe",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T08:18:38+00:00"
+   },
+   {
+    "id": "7bf8687d42d2",
+    "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T08:00:36+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "787efe9bb1ce",
+    "title": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T14:15:54+00:00"
    }
   ],
   "Oceania": [
