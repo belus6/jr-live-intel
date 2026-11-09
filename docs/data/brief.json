@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-08T20:35:14.571385+00:00",
+ "generated": "2026-11-09T00:03:41.022393+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 37,
+  "2": 35,
   "3": 12,
   "4": 2,
-  "5": 8
+  "5": 5
  },
  "watch_hits": [],
  "regions": {
@@ -43,36 +43,6 @@
     "time": "2026-11-08T09:09:35+00:00"
    },
    {
-    "id": "0daabadbe22e",
-    "title": "Gunmen kills six in Krakow, three more bodies found at his house",
-    "country": "Poland",
-    "city": null,
-    "category": "terrorism",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-11-07T22:47:06+00:00"
-   },
-   {
-    "id": "01d006c54475",
-    "title": "Gunman kills six in Krakow, three more bodies found at his house",
-    "country": "Poland",
-    "city": null,
-    "category": "terrorism",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-11-07T22:47:06+00:00"
-   },
-   {
-    "id": "bb90a6a73dc3",
-    "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
-    "country": "Poland",
-    "city": null,
-    "category": "terrorism",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-11-07T21:19:01+00:00"
-   },
-   {
     "id": "c00b46c80bc5",
     "title": "Poland launches terrorism probe into mass shooting in Krakow",
     "country": "Poland",
@@ -91,6 +61,36 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-08T00:50:28+00:00"
+   },
+   {
+    "id": "f6ac7264943a",
+    "title": "Poland: Kraków mourns six victims as shooting site reopens",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-08T22:06:35+00:00"
+   },
+   {
+    "id": "03a7445a6030",
+    "title": "Ukraine: Russian strikes leave hundreds of thousands without power",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-08T16:59:42+00:00"
+   },
+   {
+    "id": "5f922d4b300b",
+    "title": "Poland in shock after 6 killed in Krakow far-right shooting",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-08T14:21:18+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -155,6 +155,16 @@
     "time": "2026-11-08T07:00:34+00:00"
    },
    {
+    "id": "9c7307d0815a",
+    "title": "Netherlands: Sea of red fills Amsterdam streets in Gaza protest",
+    "country": "Palestine",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-08T22:19:04+00:00"
+   },
+   {
     "id": "a28fc8fe7cce",
     "title": "Iran executes three men for 'armed unrest' after January protests",
     "country": "Iran",
@@ -163,16 +173,28 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-08T13:37:50+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "f3f8d3cbb8f6",
+    "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+    "country": "United States",
+    "city": "New York",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-08T22:04:13+00:00"
    },
    {
-    "id": "6bba35b76e35",
-    "title": "Gaza: Heavy rain inundates thousands of tents",
-    "country": "Palestine",
+    "id": "787efe9bb1ce",
+    "title": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
+    "country": "United States",
     "city": null,
-    "category": "hazard",
+    "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-08T09:42:03+00:00"
+    "time": "2026-11-08T14:15:54+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -215,16 +237,28 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-08T05:09:39+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "f4b90056cd19",
+    "title": "‘This happened very quick’: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-08T23:50:17+00:00"
    },
    {
-    "id": "886915b367fe",
-    "title": "M4.5 earthquake, 77 km SW of La Gomera, Guatemala",
-    "country": "Guatemala",
-    "city": null,
-    "category": "hazard",
+    "id": "1f49ddcfb04b",
+    "title": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
+    "country": "Australia",
+    "city": "Melbourne",
+    "category": "crime",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T23:22:35.649000+00:00"
+    "confidence": "B3",
+    "time": "2026-11-08T22:03:59+00:00"
    }
   ],
   "South Asia": [
@@ -259,6 +293,16 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-08T20:16:30.710000+00:00"
+   },
+   {
+    "id": "75370dff53f9",
+    "title": "M4.5 earthquake, 43 km E of Onagawa Chō, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-08T20:16:30.347000+00:00"
    },
    {
     "id": "8c8c35483560",
@@ -309,26 +353,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-08T01:53:16.193000+00:00"
-   },
-   {
-    "id": "dd9105ca8c87",
-    "title": "M4.9 earthquake, 41 km WSW of Gadung, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T23:25:35.852000+00:00"
-   },
-   {
-    "id": "3c1409a14e27",
-    "title": "M4.7 earthquake, 43 km ESE of Ambon, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T20:55:38.512000+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -381,16 +405,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-08T00:06:15+00:00"
-   },
-   {
-    "id": "2d6546361fbf",
-    "title": "Green forest fire notification in Tanzania",
-    "country": "Tanzania",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T21:48:19+00:00"
    }
   ],
   "Western Europe": [
@@ -473,30 +487,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-08T08:00:36+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "787efe9bb1ce",
-    "title": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-08T14:15:54+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "7041e1899d75",
-    "title": "M5.1 earthquake, 91 km ENE of Hihifo, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-07T23:27:09.444000+00:00"
    }
   ]
  }
