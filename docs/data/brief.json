@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-10T00:33:57.193597+00:00",
+ "generated": "2026-11-10T07:45:39.376889+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 66,
-  "3": 24,
-  "4": 3,
+  "2": 59,
+  "3": 26,
+  "4": 2,
   "5": 0
  },
  "watch_hits": [],
@@ -39,7 +39,7 @@
     "city": null,
     "category": "cyber",
     "severity": 2,
-    "confidence": "B3",
+    "confidence": "B2",
     "time": "2026-11-09T22:33:12+00:00"
    },
    {
@@ -145,14 +145,24 @@
     "time": "2026-11-09T13:21:02+00:00"
    },
    {
-    "id": "1270318ebf7f",
-    "title": "Ukrainian forces reportedly strike Russia's second-largest oil refinery in overnight drone attack",
-    "country": "Russia",
+    "id": "746d231687cf",
+    "title": "Polish unity on show in silent march to honour Krakow shooting victims",
+    "country": "Poland",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-09T04:05:17+00:00"
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-10T05:38:53+00:00"
+   },
+   {
+    "id": "fd8cde95a2a3",
+    "title": "Poland’s political rivals join ‘March of Silence’ for shooting victims",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-10T05:12:54+00:00"
    },
    {
     "id": "ddc3b3d3d9ab",
@@ -163,91 +173,49 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-11-09T21:34:21+00:00"
-   },
-   {
-    "id": "a2fb11649878",
-    "title": "Shock and grief in Poland after weekend mass shooting",
-    "country": "Poland",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-09T15:31:45+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "5881586947c3",
-    "title": "M6.4 earthquake, 30 km WSW of Lata, Solomon Islands",
-    "country": "Solomon Islands",
-    "city": null,
-    "category": "hazard",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-11-09T03:34:59.466000+00:00"
-   },
-   {
-    "id": "da3aab98c2a6",
-    "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as evidence to double murder trial continues",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-10T00:18:13+00:00"
-   },
-   {
-    "id": "569a90ff8a31",
-    "title": "M4.8 earthquake, 149 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T19:27:54.236000+00:00"
-   },
-   {
-    "id": "c9dcf92dacbf",
-    "title": "M4.6 earthquake, 206 km E of Kirakira, Solomon Islands",
-    "country": "Solomon Islands",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T18:51:45.515000+00:00"
-   },
-   {
-    "id": "dd26740628dc",
-    "title": "Man accused of HungryPanda delivery rider’s stabbing murder yells and exposes himself in Melbourne court",
-    "country": "Australia",
-    "city": "Melbourne",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-09T03:47:21+00:00"
-   },
-   {
-    "id": "f76c510c2e43",
-    "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon re-enacts shooting when giving evidence in NSW trial",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-09T01:44:14+00:00"
-   },
-   {
-    "id": "d5894612334f",
-    "title": "M5.1 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T00:46:59.021000+00:00"
    }
   ],
   "Middle East & N. Africa": [
+   {
+    "id": "e26ce9ad58a1",
+    "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
+    "country": "Iraq",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-10T06:22:00+00:00"
+   },
+   {
+    "id": "4c15727d726c",
+    "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
+    "country": "Palestine",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-10T05:39:50+00:00"
+   },
+   {
+    "id": "06be4cb8f6a2",
+    "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-10T03:17:51+00:00"
+   },
+   {
+    "id": "3a2309d2a2a2",
+    "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-10T01:00:00+00:00"
+   },
    {
     "id": "b60add37b574",
     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
@@ -287,46 +255,140 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-09T21:46:23+00:00"
-   },
+   }
+  ],
+  "East & SE Asia": [
    {
-    "id": "b2cd06266a32",
-    "title": "Yemen government forces claim new advances as Houthi border attacks resume",
-    "country": "Yemen",
+    "id": "e56c5d6957db",
+    "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – as it happened",
+    "country": "China",
     "city": null,
-    "category": "conflict",
+    "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-09T18:37:03+00:00"
+    "time": "2026-11-10T03:00:40+00:00"
    },
    {
-    "id": "db8ddc2ac0b2",
-    "title": "Iran stands by demands to end the war as US ramps up military pressure",
-    "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-09T14:39:32+00:00"
-   },
-   {
-    "id": "cefcd2ff3771",
-    "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
-    "country": "Syria",
-    "city": "Damascus",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-09T13:15:27+00:00"
-   },
-   {
-    "id": "037f34f977fe",
-    "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-    "country": "Palestine",
+    "id": "f7d47328cf82",
+    "title": "M4.9 earthquake, 78 km ESE of Hitachi, Japan",
+    "country": "Japan",
     "city": null,
     "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-10T05:20:08.677000+00:00"
+   },
+   {
+    "id": "9e046b64f0dc",
+    "title": "M5.4 earthquake, Pulau Pulau Tanimbar, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-10T01:53:24.195000+00:00"
+   },
+   {
+    "id": "4b379cc34d07",
+    "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+    "country": "China",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-09T23:30:37+00:00"
+   },
+   {
+    "id": "1109b564453d",
+    "title": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-09T16:07:18+00:00"
+   },
+   {
+    "id": "1ca1d7d8e8fe",
+    "title": "M4.7 earthquake, 271 km N of Tobelo, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-09T11:25:07.473000+00:00"
+   },
+   {
+    "id": "d44838d0a5dd",
+    "title": "Philippines: 'Trump out!' Women rally ahead of ASEAN summit",
+    "country": "Philippines",
+    "city": "Manila",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-09T11:11:35+00:00"
+   },
+   {
+    "id": "277330175987",
+    "title": "M5.4 earthquake, 160 km E of Masohi, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-09T09:48:27.794000+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "dc53cd8311c1",
+    "title": "Amnesty urges El Salvador to disclose terms of Haiti troop deployment",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-09T10:41:57+00:00"
+    "time": "2026-11-10T02:24:22+00:00"
+   },
+   {
+    "id": "064b1ddbdc91",
+    "title": "Paraguay's Pedro Alliana sworn in as president after predecessor impeached",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-09T08:35:37+00:00"
+   },
+   {
+    "id": "5016337a021c",
+    "title": "Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-09T12:06:58+00:00"
+   },
+   {
+    "id": "f71307736d21",
+    "title": "M5.3 earthquake, 80 km ENE of Lagunas, Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-09T10:23:53.528000+00:00"
+   },
+   {
+    "id": "4cd299256c1c",
+    "title": "Green flood alert in Venezuela",
+    "country": "Venezuela",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-09T09:58:32+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -401,14 +463,14 @@
     "time": "2026-11-09T20:21:27+00:00"
    },
    {
-    "id": "8e66d275a817",
-    "title": "Eritrea",
-    "country": "Eritrea",
+    "id": "83674748178f",
+    "title": "Green forest fire notification in Central African Republic",
+    "country": "CAR",
     "city": null,
-    "category": "advisory",
+    "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-09T16:20:13+00:00"
+    "time": "2026-11-09T20:20:53+00:00"
    }
   ],
   "North America": [
@@ -431,150 +493,68 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-09T13:00:09+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "b06f3e044640",
+    "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+    "country": "Australia",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-10T06:00:52+00:00"
    },
    {
-    "id": "126ee442c1b2",
-    "title": "Mexico arrests alleged major leader of Jalisco cartel",
-    "country": "Mexico",
+    "id": "5818b8364ee1",
+    "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+    "country": "Australia",
     "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-10T05:22:39+00:00"
+   },
+   {
+    "id": "da3aab98c2a6",
+    "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as evidence to double murder trial continues",
+    "country": "Australia",
+    "city": "Sydney",
     "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-09T03:42:57+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "064b1ddbdc91",
-    "title": "Paraguay's Pedro Alliana sworn in as president after predecessor impeached",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-09T08:35:37+00:00"
+    "time": "2026-11-10T00:18:13+00:00"
    },
    {
-    "id": "5016337a021c",
-    "title": "Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T12:06:58+00:00"
-   },
-   {
-    "id": "f71307736d21",
-    "title": "M5.3 earthquake, 80 km ENE of Lagunas, Peru",
-    "country": "Peru",
+    "id": "569a90ff8a31",
+    "title": "M4.8 earthquake, 149 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-09T10:23:53.528000+00:00"
+    "time": "2026-11-09T19:27:54.236000+00:00"
    },
    {
-    "id": "4cd299256c1c",
-    "title": "Green flood alert in Venezuela",
-    "country": "Venezuela",
+    "id": "62e1f10ce121",
+    "title": "M4.6 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-09T09:58:32+00:00"
+    "time": "2026-11-09T19:09:47.863000+00:00"
    },
    {
-    "id": "bfc83df0a7d4",
-    "title": "Green forest fire notification in Guyana",
-    "country": "Guyana",
+    "id": "c9dcf92dacbf",
+    "title": "M4.6 earthquake, 206 km E of Kirakira, Solomon Islands",
+    "country": "Solomon Islands",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-09T04:13:36+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "e88e0fbcea1e",
-    "title": "M5.7 earthquake, 106 km ENE of Hasaki, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-09T04:52:51.519000+00:00"
-   },
-   {
-    "id": "4b379cc34d07",
-    "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-    "country": "China",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-09T23:30:37+00:00"
-   },
-   {
-    "id": "1109b564453d",
-    "title": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-09T16:07:18+00:00"
-   },
-   {
-    "id": "1ca1d7d8e8fe",
-    "title": "M4.7 earthquake, 271 km N of Tobelo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T11:25:07.473000+00:00"
-   },
-   {
-    "id": "d44838d0a5dd",
-    "title": "Philippines: 'Trump out!' Women rally ahead of ASEAN summit",
-    "country": "Philippines",
-    "city": "Manila",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-09T11:11:35+00:00"
-   },
-   {
-    "id": "277330175987",
-    "title": "M5.4 earthquake, 160 km E of Masohi, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T09:48:27.794000+00:00"
-   },
-   {
-    "id": "79a07eef5949",
-    "title": "Green flood alert in Vietnam",
-    "country": "Vietnam",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T07:36:30+00:00"
-   },
-   {
-    "id": "4bae13eba4d2",
-    "title": "Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T05:03:32+00:00"
+    "time": "2026-11-09T18:51:45.515000+00:00"
    }
   ],
   "South Asia": [
