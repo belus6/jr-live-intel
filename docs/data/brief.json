@@ -1,181 +1,27 @@
 {
- "generated": "2026-11-10T16:09:45.309872+00:00",
+ "generated": "2026-11-10T21:48:17.975939+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 51,
-  "3": 34,
-  "4": 2,
-  "5": 0
+  "2": 43,
+  "3": 41,
+  "4": 5,
+  "5": 1
  },
  "watch_hits": [],
  "regions": {
-  "Middle East & N. Africa": [
-   {
-    "id": "9bf739a45091",
-    "title": "Sudan war: First suicide bombers, now long-range drone strikes are the norm",
-    "country": "Sudan",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-10T12:00:00+00:00"
-   },
-   {
-    "id": "9794e6867cad",
-    "title": "Ukraine meets European, US officials in Abu Dhabi ahead of renewed peace talks with Russia",
-    "country": "UAE",
-    "city": "Abu Dhabi",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-10T07:42:00+00:00"
-   },
-   {
-    "id": "440dfbf7589b",
-    "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-10T15:49:36+00:00"
-   },
-   {
-    "id": "931a434cf62c",
-    "title": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
-    "country": "Iran",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-10T15:43:41+00:00"
-   },
-   {
-    "id": "9e897e131c6d",
-    "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-    "country": "Egypt",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-10T15:39:26+00:00"
-   },
-   {
-    "id": "aba26cbee1a9",
-    "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – Europe live",
-    "country": "UAE",
-    "city": "Abu Dhabi",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-10T15:31:20+00:00"
-   },
-   {
-    "id": "20848c8ccff3",
-    "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
-    "country": "Iran",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-10T14:45:22+00:00"
-   },
-   {
-    "id": "2c6bbeb831c0",
-    "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
-    "country": "Iraq",
-    "city": "Basra",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-10T14:03:31+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "86cc302f29b8",
-    "title": "Cyprus rivals agree new crossings across island’s dividing line",
-    "country": "Cyprus",
-    "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-09T20:50:20+00:00"
-   },
-   {
-    "id": "bf1330c63ce8",
-    "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
-    "country": "France",
-    "city": "Paris",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-09T17:54:40+00:00"
-   },
-   {
-    "id": "2977830f7516",
-    "title": "France blames Iran for cyberattack on supermarket fridges",
-    "country": "France",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-11-09T22:33:12+00:00"
-   },
-   {
-    "id": "374db7f6ed90",
-    "title": "Iran denies role in fridge hack, France summons ambassador",
-    "country": "France",
-    "city": "Paris",
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-10T15:57:00+00:00"
-   },
-   {
-    "id": "17dba9bd4962",
-    "title": "Portugal",
-    "country": "Portugal",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-10T14:25:20+00:00"
-   },
-   {
-    "id": "2fe921956ac4",
-    "title": "French students block dozens of schools, vow more protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-10T13:29:04+00:00"
-   },
-   {
-    "id": "7e6f24a72d7c",
-    "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-    "country": "France",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-09T22:30:49+00:00"
-   },
-   {
-    "id": "bf959e31aa91",
-    "title": "Paris prosecutor opens probe into IRGC cyber unit Shahid Kaveh over fridge cyberattacks",
-    "country": "France",
-    "city": "Paris",
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-09T20:06:09+00:00"
-   }
-  ],
   "Latin America & Caribbean": [
+   {
+    "id": "e9c3cbe8a477",
+    "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-10T20:22:21+00:00"
+   },
    {
     "id": "11e9c41a5fc8",
     "title": "M5.6 earthquake, 43 km S of Puerto San José, Guatemala",
@@ -195,6 +41,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-10T02:24:22+00:00"
+   },
+   {
+    "id": "6cb9993a29bf",
+    "title": "Green forest fire notification in Suriname, Brazil",
+    "country": "Suriname",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-10T16:42:24+00:00"
    },
    {
     "id": "ec117360b3e8",
@@ -237,79 +93,263 @@
     "time": "2026-11-10T08:08:48+00:00"
    }
   ],
-  "East & SE Asia": [
+  "Western Europe": [
    {
-    "id": "e9a003242a7c",
-    "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
-    "country": "Indonesia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-10T14:01:14+00:00"
+    "id": "a5ab4230ee58",
+    "title": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B2",
+    "time": "2026-11-10T20:12:11+00:00"
    },
    {
-    "id": "872f6084ba05",
-    "title": "China's charm offensive pays off as foreign tourism rebounds",
-    "country": "China",
+    "id": "160462dde586",
+    "title": "US soldier arrested in Britain on suspicion of assisting Russian intelligence",
+    "country": "United Kingdom",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "terrorism",
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-11-10T10:58:28+00:00"
+    "time": "2026-11-10T20:23:04+00:00"
    },
    {
-    "id": "e56c5d6957db",
-    "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – as it happened",
-    "country": "China",
+    "id": "18f2ffe46ca8",
+    "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
+    "country": "United Kingdom",
     "city": null,
-    "category": "political",
-    "severity": 3,
+    "category": "terrorism",
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-11-10T03:00:40+00:00"
+    "time": "2026-11-10T19:35:00+00:00"
    },
    {
-    "id": "f7e7f4872cc5",
-    "title": "Pokemon's 30-year anniversary: Japanese cards sell like wildfire",
-    "country": "Japan",
+    "id": "2977830f7516",
+    "title": "France blames Iran for cyberattack on supermarket fridges",
+    "country": "France",
     "city": null,
-    "category": "hazard",
+    "category": "cyber",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-10T13:58:55+00:00"
+    "confidence": "B2",
+    "time": "2026-11-09T22:33:12+00:00"
    },
    {
-    "id": "f7d47328cf82",
-    "title": "M4.9 earthquake, 78 km ESE of Hitachi, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-10T05:20:08.677000+00:00"
-   },
-   {
-    "id": "9e046b64f0dc",
-    "title": "M5.4 earthquake, Pulau Pulau Tanimbar, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-10T01:53:24.195000+00:00"
-   },
-   {
-    "id": "4b379cc34d07",
-    "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-    "country": "China",
+    "id": "225e20826c81",
+    "title": "French students vow to keep up protest pressure for better learning conditions",
+    "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-09T23:30:37+00:00"
+    "time": "2026-11-10T16:40:39+00:00"
+   },
+   {
+    "id": "816864f79b6b",
+    "title": "French far right on track to secure €10 million loan for Le Pen's presidential campaign",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-10T16:30:41+00:00"
+   },
+   {
+    "id": "374db7f6ed90",
+    "title": "Iran denies role in fridge hack, France summons ambassador",
+    "country": "France",
+    "city": "Paris",
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-10T15:57:00+00:00"
+   },
+   {
+    "id": "17dba9bd4962",
+    "title": "Portugal",
+    "country": "Portugal",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-10T14:25:20+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "cf30fa9fb2d7",
+    "title": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
+    "country": "Jordan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-10T21:34:13+00:00"
+   },
+   {
+    "id": "9bf739a45091",
+    "title": "Sudan war: First suicide bombers, now long-range drone strikes are the norm",
+    "country": "Sudan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-10T12:00:00+00:00"
+   },
+   {
+    "id": "9794e6867cad",
+    "title": "Ukraine meets European, US officials in Abu Dhabi ahead of renewed peace talks with Russia",
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-11-10T07:42:00+00:00"
+   },
+   {
+    "id": "6ed1ecde33fe",
+    "title": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-10T11:45:29+00:00"
+   },
+   {
+    "id": "75e8fcd4b63e",
+    "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+    "country": "Iraq",
+    "city": "Basra",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-10T20:23:03+00:00"
+   },
+   {
+    "id": "d68846415e01",
+    "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-10T17:05:05+00:00"
+   },
+   {
+    "id": "6af1d9f9e7ee",
+    "title": "Who exactly is Pete Hegseth, the Pentagon chief facing an impeachment bid?",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-10T16:41:45+00:00"
+   },
+   {
+    "id": "a301151f5b9b",
+    "title": "REPLAY: Pentagon chief Hegseth holds news briefing amid impeachment push",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-10T16:23:38+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "70f76a8543ac",
+    "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-10T18:35:35+00:00"
+   },
+   {
+    "id": "6c1b67cba21f",
+    "title": "What Russia's military buildup during Oleshky ceasefire could mean for Kherson Oblast",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-10T18:08:17+00:00"
+   },
+   {
+    "id": "d2eca514f436",
+    "title": "Russian attacks kill 9, injure 39 including a 1-year-old across Ukraine over past day",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-10T10:03:22+00:00"
+   },
+   {
+    "id": "440b054f89a5",
+    "title": "General Staff: Russia has lost 1,611,600 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-10T07:54:25+00:00"
+   },
+   {
+    "id": "fe4b488906d4",
+    "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-10T15:36:49+00:00"
+   },
+   {
+    "id": "746d231687cf",
+    "title": "Polish unity on show in silent march to honour Krakow shooting victims",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-10T05:38:53+00:00"
+   },
+   {
+    "id": "edfb6c865332",
+    "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-10T05:38:53+00:00"
+   },
+   {
+    "id": "fd8cde95a2a3",
+    "title": "Poland’s political rivals join ‘March of Silence’ for shooting victims",
+    "country": "Poland",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-10T05:12:54+00:00"
    }
   ],
   "Sub-Saharan Africa": [
+   {
+    "id": "aaa9aee628b0",
+    "title": "DRC: FRN intensifies offensive, putting FARDC under pressure on multiple fronts",
+    "country": "DRC",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-10T15:42:55+00:00"
+   },
    {
     "id": "8e15f71077e3",
     "title": "South Africa's ANC slumps to worst-ever election result",
@@ -351,6 +391,16 @@
     "time": "2026-11-09T21:54:11+00:00"
    },
    {
+    "id": "b10bfd22d7f6",
+    "title": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-10T12:00:00+00:00"
+   },
+   {
     "id": "c937ac1c4ba7",
     "title": "Green forest fire notification in Senegal",
     "country": "Senegal",
@@ -359,121 +409,123 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-10T00:13:20+00:00"
-   },
-   {
-    "id": "d6ac3e829911",
-    "title": "Green forest fire notification in Benin, Niger",
-    "country": "Benin",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T20:21:27+00:00"
-   },
-   {
-    "id": "83674748178f",
-    "title": "Green forest fire notification in Central African Republic",
-    "country": "CAR",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T20:20:53+00:00"
-   },
-   {
-    "id": "8e66d275a817",
-    "title": "Eritrea",
-    "country": "Eritrea",
-    "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T16:20:13+00:00"
    }
   ],
-  "Eastern Europe": [
+  "East & SE Asia": [
    {
-    "id": "d2eca514f436",
-    "title": "Russian attacks kill 9, injure 39 including a 1-year-old across Ukraine over past day",
-    "country": "Ukraine",
+    "id": "e9a003242a7c",
+    "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
+    "country": "Indonesia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-10T14:01:14+00:00"
+   },
+   {
+    "id": "872f6084ba05",
+    "title": "China's charm offensive pays off as foreign tourism rebounds",
+    "country": "China",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-10T10:03:22+00:00"
+    "confidence": "B3",
+    "time": "2026-11-10T10:58:28+00:00"
    },
    {
-    "id": "440b054f89a5",
-    "title": "General Staff: Russia has lost 1,611,600 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
+    "id": "e56c5d6957db",
+    "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – as it happened",
+    "country": "China",
     "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-10T03:00:40+00:00"
+   },
+   {
+    "id": "cc5b32f6d441",
+    "title": "M5.2 earthquake, 21 km WNW of Popondetta, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-10T17:36:49.391000+00:00"
+   },
+   {
+    "id": "e958360590fc",
+    "title": "M4.7 earthquake, Java, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-10T14:31:36.388000+00:00"
+   },
+   {
+    "id": "f7e7f4872cc5",
+    "title": "Pokemon's 30-year anniversary: Japanese cards sell like wildfire",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-10T13:58:55+00:00"
+   },
+   {
+    "id": "f7d47328cf82",
+    "title": "M4.9 earthquake, 78 km ESE of Hitachi, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-10T05:20:08.677000+00:00"
+   },
+   {
+    "id": "9e046b64f0dc",
+    "title": "M5.4 earthquake, Pulau Pulau Tanimbar, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-10T01:53:24.195000+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "2a6d330dc5e4",
+    "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
+    "country": "United States",
+    "city": "New York",
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-10T07:54:25+00:00"
-   },
-   {
-    "id": "64c4cdb88eac",
-    "title": "Ukraine war latest: Russia suffers record daily losses for 2nd time in a month",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-09T18:34:24+00:00"
-   },
-   {
-    "id": "fe4b488906d4",
-    "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
-    "country": "Poland",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-10T15:36:49+00:00"
-   },
-   {
-    "id": "746d231687cf",
-    "title": "Polish unity on show in silent march to honour Krakow shooting victims",
-    "country": "Poland",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-10T05:38:53+00:00"
-   },
-   {
-    "id": "edfb6c865332",
-    "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
-    "country": "Poland",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-10T05:38:53+00:00"
-   },
-   {
-    "id": "fd8cde95a2a3",
-    "title": "Poland’s political rivals join ‘March of Silence’ for shooting victims",
-    "country": "Poland",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-10T05:12:54+00:00"
-   },
-   {
-    "id": "ddc3b3d3d9ab",
-    "title": "Poland: Tusk and Nawrocki honour six victims of Kraków shooting",
-    "country": "Poland",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-09T21:34:21+00:00"
+    "time": "2026-11-10T12:00:00+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "38df666dd93d",
+    "title": "M4.9 earthquake, 207 km NW of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-10T19:54:18.279000+00:00"
+   },
+   {
+    "id": "a5abfdaeb12f",
+    "title": "M4.8 earthquake, 20 km SSW of Lata, Solomon Islands",
+    "country": "Solomon Islands",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-10T15:52:55.256000+00:00"
+   },
    {
     "id": "b06f3e044640",
     "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
@@ -495,6 +547,16 @@
     "time": "2026-11-10T05:22:39+00:00"
    },
    {
+    "id": "84584bb80cd4",
+    "title": "M5.2 earthquake, 19 km WSW of Lata, Solomon Islands",
+    "country": "Solomon Islands",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-10T03:37:46.152000+00:00"
+   },
+   {
     "id": "da3aab98c2a6",
     "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as evidence to double murder trial continues",
     "country": "Australia",
@@ -505,34 +567,26 @@
     "time": "2026-11-10T00:18:13+00:00"
    },
    {
-    "id": "569a90ff8a31",
-    "title": "M4.8 earthquake, 149 km NW of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T19:27:54.236000+00:00"
-   },
-   {
-    "id": "62e1f10ce121",
-    "title": "M4.6 earthquake, south of the Fiji Islands",
+    "id": "2a07afa35197",
+    "title": "M4.9 earthquake, south of the Fiji Islands",
     "country": "Fiji",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-09T19:09:47.863000+00:00"
-   },
+    "time": "2026-11-09T23:45:26.548000+00:00"
+   }
+  ],
+  "South Asia": [
    {
-    "id": "c9dcf92dacbf",
-    "title": "M4.6 earthquake, 206 km E of Kirakira, Solomon Islands",
-    "country": "Solomon Islands",
+    "id": "804f41f79dd5",
+    "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+    "country": "Bangladesh",
     "city": null,
-    "category": "hazard",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-09T18:51:45.515000+00:00"
+    "confidence": "B3",
+    "time": "2026-11-10T19:26:42+00:00"
    }
   ]
  }
