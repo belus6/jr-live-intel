@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-10T21:48:17.975939+00:00",
+ "generated": "2026-11-11T01:43:49.944352+00:00",
  "sample": false,
- "count": 411,
+ "count": 414,
  "events": [
   {
    "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
@@ -370,6 +370,34 @@
    ]
   },
   {
+   "title": "US charges three 'Iranian operatives' over RAF Fairford terror plot",
+   "summary": "",
+   "url": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
+   "time": "2026-11-10T22:26:36+00:00",
+   "tier": "B",
+   "category": "terrorism",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "05ff542afb98",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
    "title": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
@@ -414,11 +442,16 @@
      "name": "France 24",
      "url": "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence",
      "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-11-10T21:48:17.975939+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B2",
+   "corroboration": 2,
    "id": "160462dde586",
    "flag": "🇬🇧",
    "region": "Western Europe",
@@ -1075,6 +1108,90 @@
    "watch": []
   },
   {
+   "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-11T01:14:40+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "United States",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7196c643a476",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+   "time": "2026-11-11T00:01:26+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Iran",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c57a1b4cf918",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
+   "time": "2026-11-10T22:41:07+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Russia",
+   "city": "Moscow",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2f9bacd3957b",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
    "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
    "summary": "",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
@@ -1259,11 +1376,21 @@
      "name": "France 24",
      "url": "https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort",
      "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+     "tier": "B"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-11-10T21:48:17.975939+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B1",
+   "corroboration": 3,
    "id": "50543e242812",
    "flag": "🇮🇷",
    "region": "Middle East & N. Africa",
@@ -1576,6 +1703,34 @@
    "flag": "🇮🇷",
    "region": "Middle East & N. Africa",
    "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Russia, Ukraine and US resume peace talks in Abu Dhabi amid fresh attacks",
+   "summary": "",
+   "url": "http://www.africanews.com/2026/11/10/talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi/",
+   "time": "2026-11-10T13:18:48+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "UAE",
+   "city": "Abu Dhabi",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/11/10/talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "128ce5aa7992",
+   "flag": "🇦🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.53,
    "watch": []
   },
   {
@@ -2795,34 +2950,6 @@
    "flag": "🇮🇶",
    "region": "Middle East & N. Africa",
    "baseline": 4.28,
-   "watch": []
-  },
-  {
-   "title": "Poland: Kraków mourns six victims as shooting site reopens",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/11/08/poland-krakow-mourns-six-victims-as-shooting-site-reopens/",
-   "time": "2026-11-08T22:06:35+00:00",
-   "tier": "C",
-   "category": "crime",
-   "country": "Poland",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/11/08/poland-krakow-mourns-six-victims-as-shooting-site-reopens/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-09T00:03:41.022393+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "f6ac7264943a",
-   "flag": "🇵🇱",
-   "region": "Eastern Europe",
-   "baseline": 1.31,
    "watch": []
   },
   {
@@ -4209,6 +4336,230 @@
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Beau Lamarre-Condon denies making fake Grindr account for Jesse Baird, double murder trial hears",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/11/beau-lamarre-condon-murder-trial-fake-grindr-account-ntwnfb",
+   "time": "2026-11-11T01:00:28+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Australia",
+   "city": "Sydney",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/11/beau-lamarre-condon-murder-trial-fake-grindr-account-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "1915e19cc29a",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Benin, Burkina Faso",
+   "summary": "On 05/11/2026, a forest fire started in Benin, Burkina Faso, until 10/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033715",
+   "time": "2026-11-11T00:19:58+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Benin",
+   "city": null,
+   "lat": 11.581944965824219,
+   "lon": 2.129048931191541,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033715",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "ab3785ba51de",
+   "flag": "🇧🇯",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.24,
+   "watch": []
+  },
+  {
+   "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-11T00:18:07+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "Kenya",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ef925a06d342",
+   "flag": "🇰🇪",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.97,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Senegal, Mali",
+   "summary": "On 07/11/2026, a forest fire started in Senegal, Mali, until 10/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033706",
+   "time": "2026-11-11T00:09:13+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Senegal",
+   "city": null,
+   "lat": 13.735255252805054,
+   "lon": -12.204726372667489,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033706",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "219a569f1282",
+   "flag": "🇸🇳",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.84,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Ethiopia, Sudan",
+   "summary": "On 08/11/2026, a forest fire started in Ethiopia, Sudan, until 10/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033702",
+   "time": "2026-11-11T00:07:46+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Ethiopia",
+   "city": null,
+   "lat": 11.86426663556488,
+   "lon": 35.37472568989241,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033702",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "16ee52970a2d",
+   "flag": "🇪🇹",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.2,
+   "watch": []
+  },
+  {
+   "title": "Protesters denounce Ovechkin support for Putin as Capitals visit Senators in Ottawa",
+   "summary": "",
+   "url": "https://www.cbc.ca/news/canada/ottawa/protesters-denounce-ovechkin-s-support-for-putin-as-capitals-visit-senators-in-ottawa-9.7416605",
+   "time": "2026-11-11T00:00:00+00:00",
+   "tier": "C",
+   "category": "unrest",
+   "country": "Canada",
+   "city": "Ottawa",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "cbc.ca (via GDELT)",
+     "url": "https://www.cbc.ca/news/canada/ottawa/protesters-denounce-ovechkin-s-support-for-putin-as-capitals-visit-senators-in-ottawa-9.7416605",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "b490009f3b0b",
+   "flag": "🇨🇦",
+   "region": "North America",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "French far-right author Zemmour launches second bid for 2027 presidency",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
+   "time": "2026-11-10T23:23:12+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "03a17bd6502e",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Asymmetric cyberwarfare: 'States increasingly use cyberattacks in support of their other objectives'",
+   "summary": "",
+   "url": "https://www.france24.com/en/asymmetric-cyberwarfare-states-increasingly-use-cyberattacks-in-support-of-their-other-objectives",
+   "time": "2026-11-10T21:25:45+00:00",
+   "tier": "B",
+   "category": "cyber",
+   "country": "France",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asymmetric-cyberwarfare-states-increasingly-use-cyberattacks-in-support-of-their-other-objectives",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "dfbf8042147e",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
    "watch": []
   },
   {
@@ -7073,6 +7424,34 @@
    "watch": []
   },
   {
+   "title": "Green forest fire notification in Australia",
+   "summary": "On 05/11/2026, a forest fire started in Australia, until 09/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033626",
+   "time": "2026-11-09T04:10:47+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Australia",
+   "city": null,
+   "lat": -15.194955359321277,
+   "lon": 135.0616344711719,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033626",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-11T01:43:49.944352+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "1c78c4282108",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
    "title": "Green forest fire notification in Botswana",
    "summary": "On 06/11/2026, a forest fire started in Botswana, until 10/11/2026.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033634",
@@ -7213,62 +7592,6 @@
    "watch": []
   },
   {
-   "title": "Mexican mayor found alive after hours-long abduction",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
-   "time": "2026-11-08T23:55:37+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Mexico",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-09T06:29:36.250654+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "dac10ac4f388",
-   "flag": "🇲🇽",
-   "region": "North America",
-   "baseline": 3.32,
-   "watch": []
-  },
-  {
-   "title": "‘This happened very quick’: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
-   "time": "2026-11-08T23:50:17+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Australia",
-   "city": "Sydney",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-09T00:03:41.022393+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f4b90056cd19",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
    "title": "M4.7 earthquake, 119 km SW of Kokopo, Papua New Guinea",
    "summary": "Depth 121 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twzn",
@@ -7294,90 +7617,6 @@
    "flag": "🇵🇬",
    "region": "East & SE Asia",
    "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "Netherlands: Sea of red fills Amsterdam streets in Gaza protest",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest/",
-   "time": "2026-11-08T22:19:04+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-09T00:03:41.022393+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "9c7307d0815a",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-11-08T22:05:12+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Poland",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-09T06:29:36.250654+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b48328c17273",
-   "flag": "🇵🇱",
-   "region": "Eastern Europe",
-   "baseline": 1.31,
-   "watch": []
-  },
-  {
-   "title": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
-   "time": "2026-11-08T22:03:59+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Australia",
-   "city": "Melbourne",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-09T00:03:41.022393+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "1f49ddcfb04b",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
    "watch": []
   },
   {
@@ -9409,146 +9648,6 @@
    "flag": "🇵🇸",
    "region": "Middle East & N. Africa",
    "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 58 km WNW of Isangel, Vanuatu",
-   "summary": "Depth 83 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
-   "time": "2026-11-06T01:37:39.847000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -19.3647,
-   "lon": 168.7529,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-06T03:14:45.165918+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "7ed6bc6f01d2",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in South Sudan, Sudan",
-   "summary": "On 31/10/2026, a forest fire started in South Sudan, Sudan, until 05/11/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033532",
-   "time": "2026-11-06T00:14:17+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Sudan",
-   "city": null,
-   "lat": 9.624827690200398,
-   "lon": 26.380224112889096,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033532",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-06T03:14:45.165918+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "a3ac36b306c9",
-   "flag": "🇸🇩",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 96 km NNW of Lae, Papua New Guinea",
-   "summary": "Depth 98 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd",
-   "time": "2026-11-06T00:02:25.016000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Papua New Guinea",
-   "city": null,
-   "lat": -5.9168,
-   "lon": 146.6624,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-06T03:14:45.165918+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "6d4dc0c965b1",
-   "flag": "🇵🇬",
-   "region": "East & SE Asia",
-   "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "Three in four displaced people live in climate danger zones, UN says",
-   "summary": "",
-   "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
-   "time": "2026-11-05T23:34:08+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Turkey",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-06T03:14:45.165918+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fabc03ab6b21",
-   "flag": "🇹🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.78,
-   "watch": []
-  },
-  {
-   "title": "Three-quarters of world's displaced people face severe climate risks, UN says",
-   "summary": "",
-   "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
-   "time": "2026-11-05T23:34:08+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Turkey",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-06T11:06:25.814517+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9489a4e5a168",
-   "flag": "🇹🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.78,
    "watch": []
   },
   {
