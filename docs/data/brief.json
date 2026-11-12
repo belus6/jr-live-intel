@@ -1,15 +1,17 @@
 {
- "generated": "2026-11-11T22:57:58.735262+00:00",
+ "generated": "2026-11-12T03:44:05.490300+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 58,
-  "3": 31,
+  "2": 55,
+  "3": 30,
   "4": 2,
   "5": 2
  },
- "watch_hits": [],
+ "watch_hits": [
+  "b6ebd28c4b26"
+ ],
  "regions": {
   "Sub-Saharan Africa": [
    {
@@ -115,6 +117,26 @@
     "time": "2026-11-11T10:40:26+00:00"
    },
    {
+    "id": "b34aea7287d3",
+    "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T03:00:07+00:00"
+   },
+   {
+    "id": "b6ebd28c4b26",
+    "title": "US election results could be positive for Lebanon, Hezbollah chief says",
+    "country": "Lebanon",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T00:06:50+00:00"
+   },
+   {
     "id": "06a18c484a1d",
     "title": "Trump planning new military assault or tighter sanctions, say Iranian officials",
     "country": "Iran",
@@ -153,29 +175,19 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-11T09:28:36+00:00"
-   },
-   {
-    "id": "fe3026dd3927",
-    "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – as it happened",
-    "country": "Iran",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-11T02:55:46+00:00"
-   },
-   {
-    "id": "6d1a0bdde115",
-    "title": "Republicans block Hegseth impeachment motion",
-    "country": "Iran",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-11T01:43:42+00:00"
    }
   ],
   "North America": [
+   {
+    "id": "fd874becf3e1",
+    "title": "Scott Colom claims victory as he addresses supporters in Mississippi following his historic Senate victory – live",
+    "country": "United States",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T03:27:53+00:00"
+   },
    {
     "id": "3cdb351abdac",
     "title": "Hegseth and team reprimanded by Arlington National Cemetery guard; Trump defends his defense secretary and Iran war - live",
@@ -245,101 +257,153 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-11T08:09:34+00:00"
-   },
-   {
-    "id": "fdaa2578cf32",
-    "title": "M4.7 earthquake, 130 km W of Tofino, Canada",
-    "country": "Canada",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-11T01:45:27.859000+00:00"
    }
   ],
-  "Western Europe": [
+  "Latin America & Caribbean": [
    {
-    "id": "72628031e3bc",
-    "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-    "country": "Spain",
-    "city": "Barcelona",
-    "category": "conflict",
+    "id": "f8a173754a75",
+    "title": "Paraguay partially refunds Ueno Bank depositors after collapse",
+    "country": "Chile",
+    "city": "Santiago",
+    "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-11T22:07:37+00:00"
+    "time": "2026-11-12T03:11:52+00:00"
    },
    {
-    "id": "2140c575544b",
-    "title": "Spain's workers hold a general strike over housing costs before national election",
-    "country": "Spain",
-    "city": "Barcelona",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-11-11T09:54:54+00:00"
-   },
-   {
-    "id": "b9446013ee34",
-    "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
-    "country": "Spain",
+    "id": "77c29083bef2",
+    "title": "Salvadoran troops target headquarters of powerful gang in Haiti",
+    "country": "Haiti",
     "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-11-11T09:54:54+00:00"
-   },
-   {
-    "id": "bc369f893443",
-    "title": "Spain: 120,000 brave rain to demand affordable housing and better wages",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "unrest",
-    "severity": 2,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "C4",
-    "time": "2026-11-11T22:37:04+00:00"
+    "time": "2026-11-11T12:20:49+00:00"
    },
    {
-    "id": "96c1b482bd4f",
-    "title": "General strike over housing brings out tens of thousands in Spain",
-    "country": "Spain",
-    "city": "Madrid",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-11T19:37:21+00:00"
-   },
-   {
-    "id": "b7ba42afd2ff",
-    "title": "Spain faces nationwide protests over soaring housing costs",
-    "country": "Spain",
+    "id": "a9fe6a5c089f",
+    "title": "M4.5 earthquake, 41 km SSE of Camiña, Chile",
+    "country": "Chile",
     "city": null,
-    "category": "unrest",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-11T17:49:03+00:00"
+    "confidence": "A1",
+    "time": "2026-11-11T20:45:04.390000+00:00"
    },
    {
-    "id": "cfb994a26430",
-    "title": "The most hacked country in Europe? Why is France the target of so many cyberattacks",
-    "country": "France",
+    "id": "e3d28bafd8d8",
+    "title": "Trinidad and Tobago",
+    "country": "Trinidad & Tobago",
     "city": null,
-    "category": "cyber",
+    "category": "advisory",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-11T17:09:03+00:00"
+    "confidence": "A1",
+    "time": "2026-11-11T16:31:16+00:00"
    },
    {
-    "id": "005450861247",
-    "title": "Violent incidents in schools as French students vow to maintain protest pressure",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
+    "id": "71bcf05862c8",
+    "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+    "country": "Argentina",
+    "city": null,
+    "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-11T16:35:05+00:00"
+    "time": "2026-11-11T14:56:11+00:00"
+   },
+   {
+    "id": "1e82453b77d3",
+    "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
+    "country": "Ecuador",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-11T14:00:52+00:00"
+   },
+   {
+    "id": "ae3d42c01e77",
+    "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-11T12:14:12+00:00"
+   },
+   {
+    "id": "e0aaecd1d723",
+    "title": "M5.1 earthquake, 27 km WSW of Calama, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-11T11:36:51.281000+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "8b773b238959",
+    "title": "Indonesian VP resigns over education qualification row",
+    "country": "Indonesia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T02:22:48+00:00"
+   },
+   {
+    "id": "2a42279b87ca",
+    "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+    "country": "Indonesia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-11T16:38:07+00:00"
+   },
+   {
+    "id": "390ecd4545dd",
+    "title": "M5.1 earthquake, 80 km W of Panguna, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-11T17:38:22.582000+00:00"
+   },
+   {
+    "id": "fdfe9e720dc6",
+    "title": "M5.1 earthquake, Pulau Pulau Tanimbar, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-11T11:32:24.685000+00:00"
+   },
+   {
+    "id": "0ab1653619b9",
+    "title": "M4.6 earthquake, 130 km ENE of Hasaki, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-11T03:56:52.372000+00:00"
    }
   ],
   "Eastern Europe": [
+   {
+    "id": "75e0b14570d9",
+    "title": "Russia attacks Kyiv with ballistic missiles hours after peace talks end",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-11T23:27:06+00:00"
+   },
    {
     "id": "6b0f1035d718",
     "title": "Ukraine captures first Indonesian prisoner of war as Russia steps up foreign recruitment",
@@ -409,140 +473,88 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-11T10:02:54+00:00"
-   },
-   {
-    "id": "1cb932c4fa10",
-    "title": "General Staff: Russia has lost 1,614,180 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-11T07:11:06+00:00"
    }
   ],
-  "East & SE Asia": [
+  "Western Europe": [
    {
-    "id": "2a42279b87ca",
-    "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-    "country": "Indonesia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-11T16:38:07+00:00"
-   },
-   {
-    "id": "390ecd4545dd",
-    "title": "M5.1 earthquake, 80 km W of Panguna, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-11T17:38:22.582000+00:00"
-   },
-   {
-    "id": "fdfe9e720dc6",
-    "title": "M5.1 earthquake, Pulau Pulau Tanimbar, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-11T11:32:24.685000+00:00"
-   },
-   {
-    "id": "0ab1653619b9",
-    "title": "M4.6 earthquake, 130 km ENE of Hasaki, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-11T03:56:52.372000+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "77c29083bef2",
-    "title": "Salvadoran troops target headquarters of powerful gang in Haiti",
-    "country": "Haiti",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-11T12:20:49+00:00"
-   },
-   {
-    "id": "2770f89a6bb2",
-    "title": "Haiti's PM praises Bukele after Salvadoran troops help destroy gang headquarters",
-    "country": "Haiti",
-    "city": "Port-au-Prince",
+    "id": "72628031e3bc",
+    "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+    "country": "Spain",
+    "city": "Barcelona",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-11T01:41:43+00:00"
+    "time": "2026-11-11T22:07:37+00:00"
    },
    {
-    "id": "434faa3b1a0d",
-    "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "crime",
+    "id": "2140c575544b",
+    "title": "Spain's workers hold a general strike over housing costs before national election",
+    "country": "Spain",
+    "city": "Barcelona",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-11-11T09:54:54+00:00"
+   },
+   {
+    "id": "c6e312f6ec48",
+    "title": "Spain: Clashes erupt in Barcelona after peaceful general strike march",
+    "country": "Spain",
+    "city": "Barcelona",
+    "category": "unrest",
     "severity": 2,
     "confidence": "B2",
-    "time": "2026-11-11T02:47:59+00:00"
+    "time": "2026-11-11T22:54:35+00:00"
    },
    {
-    "id": "a9fe6a5c089f",
-    "title": "M4.5 earthquake, 41 km SSE of Camiña, Chile",
-    "country": "Chile",
+    "id": "b9446013ee34",
+    "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
+    "country": "Spain",
     "city": null,
-    "category": "hazard",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-11T20:45:04.390000+00:00"
+    "confidence": "B2",
+    "time": "2026-11-11T09:54:54+00:00"
    },
    {
-    "id": "e3d28bafd8d8",
-    "title": "Trinidad and Tobago",
-    "country": "Trinidad & Tobago",
+    "id": "78c79b233fa2",
+    "title": "Bronze leg found in Scottish bog sheds new light on Roman occupation",
+    "country": "United Kingdom",
     "city": null,
-    "category": "advisory",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-11T16:31:16+00:00"
-   },
-   {
-    "id": "71bcf05862c8",
-    "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-    "country": "Argentina",
-    "city": null,
-    "category": "crime",
+    "category": "cyber",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-11T14:56:11+00:00"
+    "time": "2026-11-12T00:01:03+00:00"
    },
    {
-    "id": "1e82453b77d3",
-    "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
-    "country": "Ecuador",
+    "id": "bc369f893443",
+    "title": "Spain: 120,000 brave rain to demand affordable housing and better wages",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-11T22:37:04+00:00"
+   },
+   {
+    "id": "96c1b482bd4f",
+    "title": "General strike over housing brings out tens of thousands in Spain",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-11T19:37:21+00:00"
+   },
+   {
+    "id": "b7ba42afd2ff",
+    "title": "Spain faces nationwide protests over soaring housing costs",
+    "country": "Spain",
     "city": null,
-    "category": "crime",
+    "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-11T14:00:52+00:00"
-   },
-   {
-    "id": "ae3d42c01e77",
-    "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-11T12:14:12+00:00"
+    "time": "2026-11-11T17:49:03+00:00"
    }
   ],
   "Oceania": [
@@ -555,6 +567,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-11T06:27:38+00:00"
+   },
+   {
+    "id": "3169e1e2538d",
+    "title": "Beau Lamarre-Condon admits throwing Jesse Baird’s phone off a bridge after alleged murders, trial hears",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-12T02:46:16+00:00"
+   },
+   {
+    "id": "e71ad41b8abc",
+    "title": "Australian teen missing in bush for six days rescued alive",
+    "country": "Australia",
+    "city": null,
+    "category": "transport",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-12T02:40:18+00:00"
    },
    {
     "id": "38057ccd67a9",
@@ -585,16 +617,18 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-11T10:57:37.101000+00:00"
-   },
+   }
+  ],
+  "South Asia": [
    {
-    "id": "1915e19cc29a",
-    "title": "Beau Lamarre-Condon denies making fake Grindr account for Jesse Baird, double murder trial hears",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
+    "id": "ed266a186c7a",
+    "title": "M4.6 earthquake, 73 km NNW of Gyalshing, India",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-11T01:00:28+00:00"
+    "confidence": "A1",
+    "time": "2026-11-11T23:00:22.433000+00:00"
    }
   ]
  }
