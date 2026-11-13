@@ -1,545 +1,60 @@
 {
- "generated": "2026-11-13T07:22:23.479969+00:00",
+ "generated": "2026-11-13T15:36:11.440712+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 39,
-  "3": 40,
-  "4": 10,
-  "5": 0
+  "2": 52,
+  "3": 35,
+  "4": 7,
+  "5": 2
  },
  "watch_hits": [
-  "814fddc51041"
+  "a1f7b1491431",
+  "0521626e5105"
  ],
  "regions": {
-  "Middle East & N. Africa": [
-   {
-    "id": "5d1624b10894",
-    "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B1",
-    "time": "2026-11-12T12:00:00+00:00"
-   },
-   {
-    "id": "97c382278dc4",
-    "title": "Mauritania fishing boats falsely portrayed as migrant fleet bound for Spain",
-    "country": "Mauritania",
-    "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-12T21:56:26+00:00"
-   },
-   {
-    "id": "01b5538b6cf8",
-    "title": "Israel targets senior Hamas member in Gaza hospital strike",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-12T11:27:00+00:00"
-   },
-   {
-    "id": "f6750711bda8",
-    "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-12T11:27:00+00:00"
-   },
-   {
-    "id": "2da0cc3c4e0a",
-    "title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-12T16:18:24+00:00"
-   },
-   {
-    "id": "6adbd30fab97",
-    "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-12T11:24:09+00:00"
-   },
-   {
-    "id": "9d4b5f1bf2bf",
-    "title": "UN food agency chief calls for end to Sudan war as famine crisis deepens",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-13T06:05:42+00:00"
-   },
-   {
-    "id": "479ed00d064f",
-    "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-    "country": "Saudi Arabia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T23:52:38+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "e9aea276aa49",
-    "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
-    "country": "Burkina Faso",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-13T05:23:31+00:00"
-   },
-   {
-    "id": "1b0ae3f1f82f",
-    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T00:20:24+00:00"
-   },
-   {
-    "id": "1808940e87ff",
-    "title": "Ngo criticizes UN's response to massacre in South Sudan",
-    "country": "South Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T21:20:52+00:00"
-   },
-   {
-    "id": "a0e508874bfb",
-    "title": "Ukraine war latest: Starshield speed restrictions return, Zelensky says",
-    "country": "CAR",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-12T18:58:32+00:00"
-   },
-   {
-    "id": "b1a0666328ae",
-    "title": "M5.0 earthquake, 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
-    "country": "DRC",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T01:12:46.186000+00:00"
-   },
-   {
-    "id": "132a650f0809",
-    "title": "'Nothing will stop us,' Nigerian opposition leader vows after campaign event attack",
-    "country": "Nigeria",
-    "city": "Lagos",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-12T19:17:26+00:00"
-   },
-   {
-    "id": "28f9ae40318d",
-    "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-12T12:00:00+00:00"
-   },
-   {
-    "id": "814fddc51041",
-    "title": "Kenya discharges last Ebola patient, 42-day countdown to 'Ebola-free' begins",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-12T10:48:51+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "7b0882867ab7",
-    "title": "‘Peruvian pope’ Leo XIV comes home to a country that shaped his life and faith through 'hardship'",
-    "country": "United States",
-    "city": "Chicago",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-12T23:26:12+00:00"
-   },
-   {
-    "id": "3e0a08a312bd",
-    "title": "Concentration of power & wealth: Do tech CEOs have more authority, influence than elected officials?",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T16:49:25+00:00"
-   },
-   {
-    "id": "6051afdd1423",
-    "title": "Nvidia CEO Jensen Huang resigns after revelations on extramarital affairs",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T15:46:08+00:00"
-   },
-   {
-    "id": "5a2709c612a5",
-    "title": "Washington DC shooting: police identify victim and suspect – as it happened",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-12T22:54:05+00:00"
-   },
-   {
-    "id": "f7328ba82ae8",
-    "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-12T19:09:00+00:00"
-   },
-   {
-    "id": "3906463b4041",
-    "title": "What to know about the Logan Circle shooting in Washington, DC",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-12T18:22:04+00:00"
-   },
-   {
-    "id": "70529b97931d",
-    "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-12T18:02:32+00:00"
-   },
-   {
-    "id": "bd6514b31f73",
-    "title": "Teenager arrested over killing of Ghanaian boy in New York",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-12T10:36:31+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "5e55317bafb1",
-    "title": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
-    "country": "France",
-    "city": "Paris",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-12T17:32:06+00:00"
-   },
-   {
-    "id": "2e64ced3e7b8",
-    "title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
-    "country": "France",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T22:10:28+00:00"
-   },
-   {
-    "id": "351fe0227646",
-    "title": "UK says it's 1st country to target all of Russia's top 10 oil producers with latest round of sanctions",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-12T17:04:30+00:00"
-   },
-   {
-    "id": "0f3e413d8e70",
-    "title": "‘Like priests who don’t believe in God’: Italy’s anti-vax medics eye return to frontline duty",
-    "country": "Italy",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T10:20:09+00:00"
-   },
-   {
-    "id": "65d56ffd4c1f",
-    "title": "Hybrid warfare: Hoax bomb alerts sent to schools in Italy, UK in latest disruption",
-    "country": "Italy",
-    "city": null,
-    "category": "cyber",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T10:20:02+00:00"
-   },
-   {
-    "id": "1804314d1aba",
-    "title": "M5.1 earthquake, 39 km S of Moíres, Greece",
-    "country": "Greece",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T00:05:04.104000+00:00"
-   },
-   {
-    "id": "effd915a3789",
-    "title": "M4.6 earthquake, 117 km S of Akureyri, Iceland",
-    "country": "Iceland",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-12T21:53:42.535000+00:00"
-   },
-   {
-    "id": "32116dd23bee",
-    "title": "France: Five men on trial for murder of anti-drug activist Amine Kessaci's brother",
-    "country": "France",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-12T14:20:36+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "59116193ad1d",
-    "title": "Sri Lanka: Rights groups sound alarm over proposed anti-terror law",
-    "country": "Sri Lanka",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-12T15:40:00+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "b64a5dcfbb48",
-    "title": "What’s behind Australia’s surge in teen extremism?",
-    "country": "Australia",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-12T14:00:45+00:00"
-   },
-   {
-    "id": "3749d64517f8",
-    "title": "‘If I wanted to plan a murder’: Beau Lamarre-Condon tells court what he would have done",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T05:33:48+00:00"
-   },
-   {
-    "id": "a5c068bd1723",
-    "title": "M4.5 earthquake, 278 km E of Levuka, Fiji",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T02:26:23.505000+00:00"
-   },
-   {
-    "id": "d8564566cb4f",
-    "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T00:34:23+00:00"
-   },
-   {
-    "id": "376cca04eb27",
-    "title": "Drought is on going in New Zealand",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-12T08:29:44+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "1d46f97e66f1",
-    "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
-    "country": "Haiti",
-    "city": "Port-au-Prince",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-12T12:00:00+00:00"
-   },
-   {
-    "id": "a8657d499fc9",
-    "title": "Haitian police retake national stadium from gangs after two years",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T02:01:26+00:00"
-   },
-   {
-    "id": "090403716f07",
-    "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-    "country": "Colombia",
-    "city": null,
-    "category": "crime",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T13:58:49+00:00"
-   },
-   {
-    "id": "4494ce46b8d6",
-    "title": "Paraguayans get some savings back after banking collapse disrupted economy",
-    "country": "Chile",
-    "city": "Santiago",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T11:24:53+00:00"
-   },
-   {
-    "id": "79d89d024880",
-    "title": "Green flood alert in Dominican Republic",
-    "country": "Dominican Republic",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-12T21:54:41+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "f68859ac3ccf",
-    "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-12T19:45:40+00:00"
-   },
-   {
-    "id": "bb07702a6064",
-    "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T03:02:06+00:00"
-   },
-   {
-    "id": "fa8bbcc19927",
-    "title": "M5.8 earthquake, 148 km NW of Kavieng, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-12T22:04:06.729000+00:00"
-   },
-   {
-    "id": "9399efa06f0f",
-    "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T19:01:37+00:00"
-   },
-   {
-    "id": "c4ab2e2f056a",
-    "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
-    "country": "Indonesia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T14:22:50+00:00"
-   },
-   {
-    "id": "cb406ca9e8f1",
-    "title": "Nvidia CEO Jensen Huang resigns after affair raises national security concerns",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T14:06:37+00:00"
-   },
-   {
-    "id": "2869c223a25e",
-    "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-    "country": "Indonesia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T08:46:57+00:00"
-   },
-   {
-    "id": "8b7d511f752c",
-    "title": "M4.7 earthquake, 27 km NNE of Labuan Lombok, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T04:49:33.549000+00:00"
-   }
-  ],
   "Eastern Europe": [
+   {
+    "id": "b3a409ed7b8f",
+    "title": "Ukraine: Russian drone attacks hit Kyiv hospital, leave two dead in Odesa",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "C4",
+    "time": "2026-11-13T11:00:16+00:00"
+   },
+   {
+    "id": "01102f67d69b",
+    "title": "Ukraine seeks explanation on Starshield speed restrictions from US",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-13T13:33:27+00:00"
+   },
+   {
+    "id": "a0ff5dd5f9b3",
+    "title": "Russia's advance in Ukraine has slowed significantly, Air Assault Forces commander says",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-13T13:01:51+00:00"
+   },
+   {
+    "id": "9cc5ac1bd530",
+    "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-13T10:11:38+00:00"
+   },
    {
     "id": "27ddcc828f66",
     "title": "General Staff: Russia has lost 1,618,920 troops in Ukraine since Feb. 24, 2022",
@@ -579,46 +94,562 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-12T17:50:41+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "d8a91880d85c",
+    "title": "France remembers victims of 2015 Paris terror attacks",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "B3",
+    "time": "2026-11-13T10:52:36+00:00"
    },
    {
-    "id": "81d47de5788c",
-    "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-    "country": "Russia",
-    "city": "Moscow",
+    "id": "5e55317bafb1",
+    "title": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-12T17:32:06+00:00"
+   },
+   {
+    "id": "b19dfdf34a53",
+    "title": "It's 'game over' for Jensen Huang, king of AI chips",
+    "country": "France",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-13T11:56:27+00:00"
+   },
+   {
+    "id": "67b6160c19eb",
+    "title": "Toera's homecoming: Madagascar's slain king joins his ancestors after 129 years",
+    "country": "France",
+    "city": "Paris",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-12T17:26:51+00:00"
+    "time": "2026-11-13T10:27:02+00:00"
    },
    {
-    "id": "807a1cbb7a27",
-    "title": "Russia's Vladimir Putin suggests no Ukraine compromise in meeting with US envoys",
-    "country": "Russia",
+    "id": "2e64ced3e7b8",
+    "title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
+    "country": "France",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T22:10:28+00:00"
+   },
+   {
+    "id": "351fe0227646",
+    "title": "UK says it's 1st country to target all of Russia's top 10 oil producers with latest round of sanctions",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-12T17:04:30+00:00"
+   },
+   {
+    "id": "ee0d19901ce6",
+    "title": "'Devastated wasteland': Haitian security forces regain control of stadium from gangs",
+    "country": "France",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T14:37:07+00:00"
+   },
+   {
+    "id": "0d986fbff916",
+    "title": "What does the 'Blue Tsunami' mean for US media?",
+    "country": "France",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T14:22:06+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "7c29719f36fa",
+    "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+    "country": "Pakistan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-13T11:59:34+00:00"
+   },
+   {
+    "id": "59116193ad1d",
+    "title": "Sri Lanka: Rights groups sound alarm over proposed anti-terror law",
+    "country": "Sri Lanka",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-12T15:40:00+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "5e5cd455b26c",
+    "title": "US terrorism case sheds light on RAF Fairford arrests mystery",
+    "country": "United States",
+    "city": "New York",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-13T07:55:56+00:00"
+   },
+   {
+    "id": "7b0882867ab7",
+    "title": "‘Peruvian pope’ Leo XIV comes home to a country that shaped his life and faith through 'hardship'",
+    "country": "United States",
+    "city": "Chicago",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-12T23:26:12+00:00"
+   },
+   {
+    "id": "3e0a08a312bd",
+    "title": "Concentration of power & wealth: Do tech CEOs have more authority, influence than elected officials?",
+    "country": "United States",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T16:49:25+00:00"
+   },
+   {
+    "id": "6051afdd1423",
+    "title": "Nvidia CEO Jensen Huang resigns after revelations on extramarital affairs",
+    "country": "United States",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T15:46:08+00:00"
+   },
+   {
+    "id": "42093c6c297f",
+    "title": "Doctor named as DC gym shooting suspect confessed, detailing dispute over living conditions, police say",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T15:25:28+00:00"
+   },
+   {
+    "id": "0521626e5105",
+    "title": "The scourge of femicide in Mexico: Impunity reigns in state of Morelos",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T12:38:35+00:00"
+   },
+   {
+    "id": "5a2709c612a5",
+    "title": "Washington DC shooting: police identify victim and suspect – as it happened",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-12T22:54:05+00:00"
+   },
+   {
+    "id": "f7328ba82ae8",
+    "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-12T19:09:00+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "e9aea276aa49",
+    "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+    "country": "Burkina Faso",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-13T05:23:31+00:00"
+   },
+   {
+    "id": "a259700d03c0",
+    "title": "After suffering its worst election result, what's next for the ANC — and for South Africa?",
+    "country": "South Africa",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-13T08:33:00+00:00"
+   },
+   {
+    "id": "1b0ae3f1f82f",
+    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+    "country": "Ethiopia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-12T16:46:14+00:00"
+    "time": "2026-11-13T00:20:24+00:00"
    },
    {
-    "id": "4d0325bc421c",
-    "title": "Ukraine: Russian drone attack sparks major fire in Kyiv residential building",
-    "country": "Ukraine",
-    "city": "Kyiv",
+    "id": "1808940e87ff",
+    "title": "Ngo criticizes UN's response to massacre in South Sudan",
+    "country": "South Sudan",
+    "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-12T14:26:25+00:00"
+    "confidence": "B3",
+    "time": "2026-11-12T21:20:52+00:00"
    },
    {
-    "id": "fb7b49842b80",
-    "title": "General Staff: Russia has lost 1,616,330 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
+    "id": "a0e508874bfb",
+    "title": "Ukraine war latest: Starshield speed restrictions return, Zelensky says",
+    "country": "CAR",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-11-12T13:15:58+00:00"
+    "time": "2026-11-12T18:58:32+00:00"
+   },
+   {
+    "id": "6c1d2c05ee0e",
+    "title": "Nigeria Ebola patient contacts complete 21-day monitoring without signs of infection",
+    "country": "Nigeria",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-13T14:56:21+00:00"
+   },
+   {
+    "id": "a1f7b1491431",
+    "title": "Kenyans brace for El Niño rains as flood survivors fear a repeat of 2024 devastation",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-13T12:42:14+00:00"
+   },
+   {
+    "id": "d89890fc27fe",
+    "title": "Green forest fire notification in South Sudan, Sudan",
+    "country": "South Sudan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T12:40:30+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "97c382278dc4",
+    "title": "Mauritania fishing boats falsely portrayed as migrant fleet bound for Spain",
+    "country": "Mauritania",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-12T21:56:26+00:00"
+   },
+   {
+    "id": "a0f3157afbe4",
+    "title": "Iran showcases missiles as military targets US army radar in Bahrain",
+    "country": "Bahrain",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-13T11:10:49+00:00"
+   },
+   {
+    "id": "2da0cc3c4e0a",
+    "title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-12T16:18:24+00:00"
+   },
+   {
+    "id": "9d4b5f1bf2bf",
+    "title": "UN food agency chief calls for end to Sudan war as famine crisis deepens",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-13T06:05:42+00:00"
+   },
+   {
+    "id": "479ed00d064f",
+    "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+    "country": "Saudi Arabia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T23:52:38+00:00"
+   },
+   {
+    "id": "631a9998522e",
+    "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T16:55:10+00:00"
+   },
+   {
+    "id": "4b1ed33d46fb",
+    "title": "Gaza: Devastation inside Nasser Hospital after deadly Israeli strike",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-12T16:10:30+00:00"
+   },
+   {
+    "id": "bf313ad87edc",
+    "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
+    "country": "Palestine",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T16:07:16+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "db395f197a9c",
+    "title": "Jensen Huang quits Nvidia as scandal rocks AI giant",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-13T08:37:26+00:00"
+   },
+   {
+    "id": "f68859ac3ccf",
+    "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-12T19:45:40+00:00"
+   },
+   {
+    "id": "7d8644cbac09",
+    "title": "Nvidia scandal: Was Alice Huang really a Chinese spy?",
+    "country": "China",
+    "city": "Beijing",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-13T12:02:05+00:00"
+   },
+   {
+    "id": "1648a8e6d16c",
+    "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-13T09:41:22+00:00"
+   },
+   {
+    "id": "bb07702a6064",
+    "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-13T03:02:06+00:00"
+   },
+   {
+    "id": "fa8bbcc19927",
+    "title": "M5.8 earthquake, 148 km NW of Kavieng, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-12T22:04:06.729000+00:00"
+   },
+   {
+    "id": "9399efa06f0f",
+    "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T19:01:37+00:00"
+   },
+   {
+    "id": "ae28b4d39e68",
+    "title": "Green flood alert in Thailand",
+    "country": "Thailand",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T10:41:16+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "3d3b2751371a",
+    "title": "Haitian police retake national stadium after two years of gang control",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-13T11:43:08+00:00"
+   },
+   {
+    "id": "a8657d499fc9",
+    "title": "Haitian police retake national stadium from gangs after two years",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-13T02:01:26+00:00"
+   },
+   {
+    "id": "94e4db3c2804",
+    "title": "Haitian forces recapture national stadium after two years of gang control",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T15:09:35+00:00"
+   },
+   {
+    "id": "dbc5f6b5a935",
+    "title": "M5.2 earthquake, West Chile Rise",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T14:12:47.843000+00:00"
+   },
+   {
+    "id": "3276581b5509",
+    "title": "Green forest fire notification in Argentina",
+    "country": "Argentina",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T12:04:18+00:00"
+   },
+   {
+    "id": "1cad60f3cb27",
+    "title": "El Salvador deploys armed robots to fight gangs in Haiti",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T10:57:20+00:00"
+   },
+   {
+    "id": "372ed39c2d99",
+    "title": "M4.6 earthquake, 18 km WNW of Río Grande, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T08:01:57.936000+00:00"
+   },
+   {
+    "id": "79d89d024880",
+    "title": "Green flood alert in Dominican Republic",
+    "country": "Dominican Republic",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-12T21:54:41+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "9684025891d1",
+    "title": "M4.8 earthquake, 59 km WSW of Houma, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T11:18:12.734000+00:00"
+   },
+   {
+    "id": "3749d64517f8",
+    "title": "‘If I wanted to plan a murder’: Beau Lamarre-Condon tells court what he would have done",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T05:33:48+00:00"
+   },
+   {
+    "id": "a5c068bd1723",
+    "title": "M4.5 earthquake, 278 km E of Levuka, Fiji",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T02:26:23.505000+00:00"
+   },
+   {
+    "id": "d8564566cb4f",
+    "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T00:34:23+00:00"
    }
   ]
  }
