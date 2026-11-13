@@ -1,19 +1,100 @@
 {
- "generated": "2026-11-12T19:37:20.056772+00:00",
+ "generated": "2026-11-13T00:42:15.323786+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 39,
-  "3": 40,
-  "4": 7,
+  "2": 36,
+  "3": 41,
+  "4": 8,
   "5": 0
  },
  "watch_hits": [
-  "b6ebd28c4b26",
   "814fddc51041"
  ],
  "regions": {
+  "Middle East & N. Africa": [
+   {
+    "id": "97c382278dc4",
+    "title": "Mauritania fishing boats falsely portrayed as migrant fleet bound for Spain",
+    "country": "Mauritania",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-12T21:56:26+00:00"
+   },
+   {
+    "id": "01b5538b6cf8",
+    "title": "Israel targets senior Hamas member in Gaza hospital strike",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-12T11:27:00+00:00"
+   },
+   {
+    "id": "f6750711bda8",
+    "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-12T11:27:00+00:00"
+   },
+   {
+    "id": "2da0cc3c4e0a",
+    "title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-12T16:18:24+00:00"
+   },
+   {
+    "id": "6adbd30fab97",
+    "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-12T11:24:09+00:00"
+   },
+   {
+    "id": "479ed00d064f",
+    "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+    "country": "Saudi Arabia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T23:52:38+00:00"
+   },
+   {
+    "id": "631a9998522e",
+    "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T16:55:10+00:00"
+   },
+   {
+    "id": "bf313ad87edc",
+    "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
+    "country": "Palestine",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T16:07:16+00:00"
+   }
+  ],
   "Western Europe": [
    {
     "id": "5e55317bafb1",
@@ -24,6 +105,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-12T17:32:06+00:00"
+   },
+   {
+    "id": "2e64ced3e7b8",
+    "title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
+    "country": "France",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T22:10:28+00:00"
    },
    {
     "id": "351fe0227646",
@@ -56,24 +147,24 @@
     "time": "2026-11-12T10:20:02+00:00"
    },
    {
-    "id": "72628031e3bc",
-    "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-    "country": "Spain",
-    "city": "Barcelona",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-11T22:07:37+00:00"
+    "id": "1804314d1aba",
+    "title": "M5.1 earthquake, 39 km S of Moíres, Greece",
+    "country": "Greece",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T00:05:04.104000+00:00"
    },
    {
-    "id": "c6e312f6ec48",
-    "title": "Spain: Clashes erupt in Barcelona after peaceful general strike march",
-    "country": "Spain",
-    "city": "Barcelona",
-    "category": "unrest",
+    "id": "effd915a3789",
+    "title": "M4.6 earthquake, 117 km S of Akureyri, Iceland",
+    "country": "Iceland",
+    "city": null,
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B1",
-    "time": "2026-11-11T22:54:35+00:00"
+    "confidence": "A1",
+    "time": "2026-11-12T21:53:42.535000+00:00"
    },
    {
     "id": "32116dd23bee",
@@ -84,16 +175,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-12T14:20:36+00:00"
-   },
-   {
-    "id": "c3da54333980",
-    "title": "Scott Colom makes history in Mississippi as first Black senator in more than 140 years",
-    "country": "Spain",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-12T10:50:31+00:00"
    }
   ],
   "South Asia": [
@@ -106,16 +187,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-12T15:40:00+00:00"
-   },
-   {
-    "id": "ed266a186c7a",
-    "title": "M4.6 earthquake, 73 km NNW of Gyalshing, India",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-11T23:00:22.433000+00:00"
    }
   ],
   "Oceania": [
@@ -128,6 +199,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-12T14:00:45+00:00"
+   },
+   {
+    "id": "d8564566cb4f",
+    "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T00:34:23+00:00"
    },
    {
     "id": "376cca04eb27",
@@ -158,26 +239,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-12T02:40:18+00:00"
-   },
-   {
-    "id": "38057ccd67a9",
-    "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-11T21:09:56+00:00"
-   },
-   {
-    "id": "e6c3eaa43393",
-    "title": "M4.5 earthquake, south of the Fiji Islands",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-11T19:50:21.669000+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -222,6 +283,16 @@
     "time": "2026-11-12T03:11:52+00:00"
    },
    {
+    "id": "79d89d024880",
+    "title": "Green flood alert in Dominican Republic",
+    "country": "Dominican Republic",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-12T21:54:41+00:00"
+   },
+   {
     "id": "7f10a237065a",
     "title": "Bolivia arrests former judge on suspicion of drug trafficking",
     "country": "Bolivia",
@@ -230,98 +301,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-12T04:40:25+00:00"
-   },
-   {
-    "id": "a9fe6a5c089f",
-    "title": "M4.5 earthquake, 41 km SSE of Camiña, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-11T20:45:04.390000+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "01b5538b6cf8",
-    "title": "Israel targets senior Hamas member in Gaza hospital strike",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-12T11:27:00+00:00"
-   },
-   {
-    "id": "f6750711bda8",
-    "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-12T11:27:00+00:00"
-   },
-   {
-    "id": "2da0cc3c4e0a",
-    "title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-12T16:18:24+00:00"
-   },
-   {
-    "id": "6adbd30fab97",
-    "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-12T11:24:09+00:00"
-   },
-   {
-    "id": "631a9998522e",
-    "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-    "country": "Israel",
-    "city": "Jerusalem",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T16:55:10+00:00"
-   },
-   {
-    "id": "bf313ad87edc",
-    "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
-    "country": "Palestine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T16:07:16+00:00"
-   },
-   {
-    "id": "0ee7f9cfd342",
-    "title": "Why Russian losses in Ukraine are surging — again",
-    "country": "UAE",
-    "city": "Abu Dhabi",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-12T15:08:46+00:00"
-   },
-   {
-    "id": "517b6fc07123",
-    "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T09:43:11+00:00"
    }
   ],
   "Eastern Europe": [
@@ -334,6 +313,16 @@
     "severity": 4,
     "confidence": "C4",
     "time": "2026-11-12T05:51:07+00:00"
+   },
+   {
+    "id": "b9902b639628",
+    "title": "Mass drone attack on Moscow grounds flights at region's airports",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-12T23:32:58+00:00"
    },
    {
     "id": "0b4e15fdacaf",
@@ -394,19 +383,19 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-12T13:02:46+00:00"
-   },
-   {
-    "id": "e75ac8d37c0f",
-    "title": "Russian colonel reportedly killed in car explosion near St. Petersburg",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-12T11:54:13+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "f68859ac3ccf",
+    "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-12T19:45:40+00:00"
+   },
    {
     "id": "cb13b4db6d42",
     "title": "Indonesia vice president resigns amid dispute over eligibility",
@@ -416,6 +405,16 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-11-12T06:38:01+00:00"
+   },
+   {
+    "id": "fa8bbcc19927",
+    "title": "M5.8 earthquake, 148 km NW of Kavieng, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-12T22:04:06.729000+00:00"
    },
    {
     "id": "9399efa06f0f",
@@ -466,29 +465,29 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-12T02:22:48+00:00"
-   },
-   {
-    "id": "791cb3e3d2f5",
-    "title": "Green flood alert in Myanmar",
-    "country": "Myanmar",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-12T07:27:59+00:00"
-   },
-   {
-    "id": "b365b554c360",
-    "title": "M4.8 earthquake, 155 km E of Noda, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-12T04:07:32.379000+00:00"
    }
   ],
   "Sub-Saharan Africa": [
+   {
+    "id": "1b0ae3f1f82f",
+    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-13T00:20:24+00:00"
+   },
+   {
+    "id": "1808940e87ff",
+    "title": "Ngo criticizes UN's response to massacre in South Sudan",
+    "country": "South Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-12T21:20:52+00:00"
+   },
    {
     "id": "a0e508874bfb",
     "title": "Ukraine war latest: Starshield speed restrictions return, Zelensky says",
@@ -498,6 +497,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-12T18:58:32+00:00"
+   },
+   {
+    "id": "132a650f0809",
+    "title": "'Nothing will stop us,' Nigerian opposition leader vows after campaign event attack",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-12T19:17:26+00:00"
    },
    {
     "id": "28f9ae40318d",
@@ -528,46 +537,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-11-12T08:40:22+00:00"
-   },
-   {
-    "id": "a99ac8f48c42",
-    "title": "Tshisekedi paves way for constitutional change",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-11T21:39:46+00:00"
-   },
-   {
-    "id": "c72ab7dce60c",
-    "title": "Green forest fire notification in Nigeria",
-    "country": "Nigeria",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-11T20:20:34+00:00"
-   },
-   {
-    "id": "fadaf5c3b005",
-    "title": "Green forest fire notification in Mozambique",
-    "country": "Mozambique",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-11T20:08:17+00:00"
-   },
-   {
-    "id": "803778de57f0",
-    "title": "Green forest fire notification in Chad",
-    "country": "Chad",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-11T20:02:06+00:00"
    }
   ],
   "North America": [
@@ -612,24 +581,14 @@
     "time": "2026-11-12T03:27:53+00:00"
    },
    {
-    "id": "3cdb351abdac",
-    "title": "Hegseth and team reprimanded by Arlington National Cemetery guard; Trump defends his defense secretary and Iran war - live",
+    "id": "5a2709c612a5",
+    "title": "Washington DC shooting: police identify victim and suspect – as it happened",
     "country": "United States",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-11T22:20:10+00:00"
-   },
-   {
-    "id": "dc70aef6f4b0",
-    "title": "Driver faces DUI and murder charges after three killed in LA crash, officials say",
-    "country": "United States",
-    "city": "Los Angeles",
     "category": "crime",
-    "severity": 3,
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-11T20:30:56+00:00"
+    "time": "2026-11-12T22:54:05+00:00"
    },
    {
     "id": "f7328ba82ae8",
@@ -650,6 +609,16 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-12T18:22:04+00:00"
+   },
+   {
+    "id": "70529b97931d",
+    "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-12T18:02:32+00:00"
    }
   ]
  }
