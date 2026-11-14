@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-14T20:01:06.353589+00:00",
+ "generated": "2026-11-14T23:55:09.484995+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 35,
-  "3": 9,
+  "2": 29,
+  "3": 10,
   "4": 1,
   "5": 1
  },
@@ -51,26 +51,38 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-14T17:50:28+00:00"
-   },
+   }
+  ],
+  "Eastern Europe": [
    {
-    "id": "886911b945be",
-    "title": "CAR: Opposition marches in Bangui against rising cost of living",
-    "country": "CAR",
-    "city": "Bangui",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-13T20:26:04+00:00"
-   },
-   {
-    "id": "fe80d221c72b",
-    "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
-    "country": "Nigeria",
+    "id": "420547764742",
+    "title": "Tsikhanouskaya ally condemns Belarusian athlete for insulting Ukrainian opponent, complacency in Russia's war",
+    "country": "Russia",
     "city": null,
-    "category": "health",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-14T20:56:11+00:00"
+   },
+   {
+    "id": "b71b2794f6df",
+    "title": "General Staff: Russia has lost 1,620,630 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-14T07:42:00+00:00"
+   },
+   {
+    "id": "3dd0473a55bc",
+    "title": "M4.5 earthquake, 137 km SE of Petropavlovsk-Kamchatsky, Russia",
+    "country": "Russia",
+    "city": null,
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T20:12:34+00:00"
+    "confidence": "A1",
+    "time": "2026-11-14T12:28:00.653000+00:00"
    }
   ],
   "East & SE Asia": [
@@ -85,6 +97,16 @@
     "time": "2026-11-14T16:13:43+00:00"
    },
    {
+    "id": "797300b765f8",
+    "title": "M4.5 earthquake, 25 km N of Ruteng, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-14T21:24:20.159000+00:00"
+   },
+   {
     "id": "de9547048272",
     "title": "M4.9 earthquake, 7 km SE of Tagbina, Philippines",
     "country": "Philippines",
@@ -95,24 +117,14 @@
     "time": "2026-11-14T16:04:22.205000+00:00"
    },
    {
-    "id": "ad0921bc8480",
-    "title": "M5.1 earthquake, 153 km NW of Kavieng, Papua New Guinea",
-    "country": "Papua New Guinea",
+    "id": "4681a8cf9e33",
+    "title": "M4.5 earthquake, 22 km NE of Kinablangan, Philippines",
+    "country": "Philippines",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-13T23:30:38.320000+00:00"
-   },
-   {
-    "id": "fa33c870b48a",
-    "title": "M4.6 earthquake, 74 km S of Yudomari, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T23:22:54.402000+00:00"
+    "time": "2026-11-13T23:58:23.875000+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -259,28 +271,6 @@
     "time": "2026-11-14T07:00:37+00:00"
    }
   ],
-  "Eastern Europe": [
-   {
-    "id": "b71b2794f6df",
-    "title": "General Staff: Russia has lost 1,620,630 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-14T07:42:00+00:00"
-   },
-   {
-    "id": "3dd0473a55bc",
-    "title": "M4.5 earthquake, 137 km SE of Petropavlovsk-Kamchatsky, Russia",
-    "country": "Russia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-14T12:28:00.653000+00:00"
-   }
-  ],
   "Latin America & Caribbean": [
    {
     "id": "26d61df78c62",
@@ -341,16 +331,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-13T23:55:15.232000+00:00"
-   },
-   {
-    "id": "d6f6a00ea103",
-    "title": "M4.6 earthquake, 33 km SSW of La Libertad, El Salvador",
-    "country": "Brazil",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T21:19:55.905000+00:00"
    }
   ],
   "North America": [
@@ -393,26 +373,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-14T02:35:48+00:00"
-   },
-   {
-    "id": "8f6eb94e4a72",
-    "title": "US flights resume gradually amid further cancellations",
-    "country": "United States",
-    "city": null,
-    "category": "transport",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T22:43:22+00:00"
-   },
-   {
-    "id": "3e9dd5f23d57",
-    "title": "Passengers face further disruption as US flights slowly resume after ground stop",
-    "country": "United States",
-    "city": null,
-    "category": "transport",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T22:43:22+00:00"
    }
   ],
   "Oceania": [
@@ -465,18 +425,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-14T01:00:30+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "dd87bea69d68",
-    "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T23:11:51+00:00"
    }
   ]
  }
