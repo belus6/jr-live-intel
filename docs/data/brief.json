@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-13T21:39:18.339057+00:00",
+ "generated": "2026-11-14T01:49:22.405571+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 53,
-  "3": 29,
-  "4": 7,
+  "2": 48,
+  "3": 24,
+  "4": 5,
   "5": 4
  },
  "watch_hits": [
@@ -44,16 +44,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-13T08:33:00+00:00"
-   },
-   {
-    "id": "1b0ae3f1f82f",
-    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T00:20:24+00:00"
    },
    {
     "id": "886911b945be",
@@ -94,6 +84,16 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-11-13T12:42:14+00:00"
+   },
+   {
+    "id": "d89890fc27fe",
+    "title": "Green forest fire notification in South Sudan, Sudan",
+    "country": "South Sudan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T12:40:30+00:00"
    }
   ],
   "Western Europe": [
@@ -158,16 +158,6 @@
     "time": "2026-11-13T10:27:02+00:00"
    },
    {
-    "id": "2e64ced3e7b8",
-    "title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
-    "country": "France",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T22:10:28+00:00"
-   },
-   {
     "id": "b1c4b16254d2",
     "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
     "country": "Germany",
@@ -176,6 +166,16 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-13T17:14:56+00:00"
+   },
+   {
+    "id": "a34a255ea8c0",
+    "title": "Cyberattack hits German drone manufacturer supplying Ukraine in late October, company confirms",
+    "country": "Germany",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-13T17:00:12+00:00"
    }
   ],
   "Eastern Europe": [
@@ -240,24 +240,24 @@
     "time": "2026-11-13T07:12:08+00:00"
    },
    {
-    "id": "88500c982620",
-    "title": "Volgograd oil refinery, Rostov-on-Don production facility in flames following Ukrainian drone attack",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-13T01:44:53+00:00"
-   },
-   {
-    "id": "b9902b639628",
-    "title": "Mass drone attack on Moscow grounds flights at region's airports",
+    "id": "ba31645b13f4",
+    "title": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
     "country": "Russia",
     "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-12T23:32:58+00:00"
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T19:46:54+00:00"
+   },
+   {
+    "id": "6dd9e6ee3f8e",
+    "title": "Czechia braces for massive protest against cuts to public media",
+    "country": "Czech Republic",
+    "city": "Prague",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T08:35:00+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -272,16 +272,6 @@
     "time": "2026-11-13T16:47:34+00:00"
    },
    {
-    "id": "97c382278dc4",
-    "title": "Mauritania fishing boats falsely portrayed as migrant fleet bound for Spain",
-    "country": "Mauritania",
-    "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-12T21:56:26+00:00"
-   },
-   {
     "id": "a0f3157afbe4",
     "title": "Iran showcases missiles as military targets US army radar in Bahrain",
     "country": "Bahrain",
@@ -290,6 +280,16 @@
     "severity": 3,
     "confidence": "B1",
     "time": "2026-11-13T11:10:49+00:00"
+   },
+   {
+    "id": "2faf69185add",
+    "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+    "country": "Qatar",
+    "city": "Doha",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-14T00:00:25+00:00"
    },
    {
     "id": "c12b6ff0a401",
@@ -322,16 +322,6 @@
     "time": "2026-11-13T06:05:42+00:00"
    },
    {
-    "id": "479ed00d064f",
-    "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-    "country": "Saudi Arabia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-12T23:52:38+00:00"
-   },
-   {
     "id": "030928adab52",
     "title": "Turkey: Six-metre Trojan Horse spills plastic waste at COP31",
     "country": "Turkey",
@@ -340,6 +330,16 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-11-13T13:36:16+00:00"
+   },
+   {
+    "id": "a3ac36b306c9",
+    "title": "Green forest fire notification in South Sudan, Sudan",
+    "country": "Sudan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T12:03:24+00:00"
    }
   ],
   "South Asia": [
@@ -352,6 +352,26 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-13T11:59:34+00:00"
+   },
+   {
+    "id": "dd87bea69d68",
+    "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T23:11:51+00:00"
+   },
+   {
+    "id": "1d33196b14a2",
+    "title": "Green forest fire notification in India",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T12:39:15+00:00"
    }
   ],
   "North America": [
@@ -364,16 +384,6 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-13T07:55:56+00:00"
-   },
-   {
-    "id": "7b0882867ab7",
-    "title": "‘Peruvian pope’ Leo XIV comes home to a country that shaped his life and faith through 'hardship'",
-    "country": "United States",
-    "city": "Chicago",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-12T23:26:12+00:00"
    },
    {
     "id": "42093c6c297f",
@@ -394,16 +404,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-13T12:38:35+00:00"
-   },
-   {
-    "id": "5a2709c612a5",
-    "title": "Washington DC shooting: police identify victim and suspect – as it happened",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-12T22:54:05+00:00"
    }
   ],
   "East & SE Asia": [
@@ -468,16 +468,6 @@
     "time": "2026-11-13T03:02:06+00:00"
    },
    {
-    "id": "fa8bbcc19927",
-    "title": "M5.8 earthquake, 148 km NW of Kavieng, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-12T22:04:06.729000+00:00"
-   },
-   {
     "id": "f523a98f94fc",
     "title": "M4.8 earthquake, 153 km NW of Kavieng, Papua New Guinea",
     "country": "Papua New Guinea",
@@ -486,6 +476,16 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-13T19:49:21.768000+00:00"
+   },
+   {
+    "id": "ef259045036a",
+    "title": "M5.2 earthquake, 79 km NE of Kuqa, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T16:17:51.680000+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -530,6 +530,16 @@
     "time": "2026-11-13T02:01:26+00:00"
    },
    {
+    "id": "d6f6a00ea103",
+    "title": "M4.6 earthquake, 33 km SSW of La Libertad, El Salvador",
+    "country": "Brazil",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T21:19:55.905000+00:00"
+   },
+   {
     "id": "d5813f6d05c1",
     "title": "M4.5 earthquake, 9 km WSW of Chaparral, Colombia",
     "country": "Colombia",
@@ -558,19 +568,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-13T16:35:58.400000+00:00"
-   },
-   {
-    "id": "94e4db3c2804",
-    "title": "Haitian forces recapture national stadium after two years of gang control",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T15:09:35+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "c8bf40b0232d",
+    "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-14T01:00:30+00:00"
+   },
    {
     "id": "9684025891d1",
     "title": "M4.8 earthquake, 59 km WSW of Houma, Tonga",
@@ -600,16 +610,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-13T02:26:23.505000+00:00"
-   },
-   {
-    "id": "d8564566cb4f",
-    "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T00:34:23+00:00"
    }
   ]
  }
