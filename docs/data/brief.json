@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-14T01:49:22.405571+00:00",
+ "generated": "2026-11-14T08:40:54.314582+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 48,
-  "3": 24,
-  "4": 5,
+  "2": 53,
+  "3": 21,
+  "4": 3,
   "5": 4
  },
  "watch_hits": [
@@ -24,26 +24,6 @@
     "severity": 5,
     "confidence": "B3",
     "time": "2026-11-13T18:44:45+00:00"
-   },
-   {
-    "id": "e9aea276aa49",
-    "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
-    "country": "Burkina Faso",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-13T05:23:31+00:00"
-   },
-   {
-    "id": "a259700d03c0",
-    "title": "After suffering its worst election result, what's next for the ANC — and for South Africa?",
-    "country": "South Africa",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T08:33:00+00:00"
    },
    {
     "id": "886911b945be",
@@ -94,6 +74,26 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-13T12:40:30+00:00"
+   },
+   {
+    "id": "14abf1c38efe",
+    "title": "Green forest fire notification in Mali",
+    "country": "Mali",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T12:07:30+00:00"
+   },
+   {
+    "id": "78e611c2f918",
+    "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T12:00:00+00:00"
    }
   ],
   "Western Europe": [
@@ -158,24 +158,24 @@
     "time": "2026-11-13T10:27:02+00:00"
    },
    {
-    "id": "b1c4b16254d2",
-    "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
-    "country": "Germany",
-    "city": null,
-    "category": "crime",
+    "id": "3b0ee85ee232",
+    "title": "Live: France mobilises in fifth wave of student protests",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-13T17:14:56+00:00"
+    "time": "2026-11-14T07:09:32+00:00"
    },
    {
-    "id": "a34a255ea8c0",
-    "title": "Cyberattack hits German drone manufacturer supplying Ukraine in late October, company confirms",
-    "country": "Germany",
+    "id": "39191e67d2a1",
+    "title": "Bristol aims to become UK’s first ‘wetland city’ and reduce flood risk",
+    "country": "United Kingdom",
     "city": null,
-    "category": "cyber",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-13T17:00:12+00:00"
+    "confidence": "B3",
+    "time": "2026-11-14T07:00:37+00:00"
    }
   ],
   "Eastern Europe": [
@@ -188,6 +188,16 @@
     "severity": 5,
     "confidence": "C4",
     "time": "2026-11-13T11:00:16+00:00"
+   },
+   {
+    "id": "b71b2794f6df",
+    "title": "General Staff: Russia has lost 1,620,630 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-14T07:42:00+00:00"
    },
    {
     "id": "9bbf7c3193b1",
@@ -230,16 +240,6 @@
     "time": "2026-11-13T10:11:38+00:00"
    },
    {
-    "id": "27ddcc828f66",
-    "title": "General Staff: Russia has lost 1,618,920 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-13T07:12:08+00:00"
-   },
-   {
     "id": "ba31645b13f4",
     "title": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
     "country": "Russia",
@@ -248,16 +248,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-13T19:46:54+00:00"
-   },
-   {
-    "id": "6dd9e6ee3f8e",
-    "title": "Czechia braces for massive protest against cuts to public media",
-    "country": "Czech Republic",
-    "city": "Prague",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T08:35:00+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -280,6 +270,26 @@
     "severity": 3,
     "confidence": "B1",
     "time": "2026-11-13T11:10:49+00:00"
+   },
+   {
+    "id": "986107a8c94a",
+    "title": "Sudan: Misery worsens amid plummeting aid for displaced people",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-14T08:31:00+00:00"
+   },
+   {
+    "id": "18790e3ee6fe",
+    "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
+    "country": "Afghanistan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-14T04:03:49+00:00"
    },
    {
     "id": "2faf69185add",
@@ -312,16 +322,6 @@
     "time": "2026-11-13T12:00:00+00:00"
    },
    {
-    "id": "9d4b5f1bf2bf",
-    "title": "UN food agency chief calls for end to Sudan war as famine crisis deepens",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-13T06:05:42+00:00"
-   },
-   {
     "id": "030928adab52",
     "title": "Turkey: Six-metre Trojan Horse spills plastic waste at COP31",
     "country": "Turkey",
@@ -330,16 +330,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-11-13T13:36:16+00:00"
-   },
-   {
-    "id": "a3ac36b306c9",
-    "title": "Green forest fire notification in South Sudan, Sudan",
-    "country": "Sudan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T12:03:24+00:00"
    }
   ],
   "South Asia": [
@@ -374,49 +364,7 @@
     "time": "2026-11-13T12:39:15+00:00"
    }
   ],
-  "North America": [
-   {
-    "id": "5e5cd455b26c",
-    "title": "US terrorism case sheds light on RAF Fairford arrests mystery",
-    "country": "United States",
-    "city": "New York",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-13T07:55:56+00:00"
-   },
-   {
-    "id": "42093c6c297f",
-    "title": "Doctor named as DC gym shooting suspect confessed, detailing dispute over living conditions, police say",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T15:25:28+00:00"
-   },
-   {
-    "id": "0521626e5105",
-    "title": "The scourge of femicide in Mexico: Impunity reigns in state of Morelos",
-    "country": "Mexico",
-    "city": "Mexico City",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T12:38:35+00:00"
-   }
-  ],
   "East & SE Asia": [
-   {
-    "id": "db395f197a9c",
-    "title": "Jensen Huang quits Nvidia as scandal rocks AI giant",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-13T08:37:26+00:00"
-   },
    {
     "id": "3cd23b7683cb",
     "title": "The Nvidia affair: Are markets about to fall out of love with AI?",
@@ -458,14 +406,14 @@
     "time": "2026-11-13T09:41:22+00:00"
    },
    {
-    "id": "bb07702a6064",
-    "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
-    "country": "China",
+    "id": "fa33c870b48a",
+    "title": "M4.6 earthquake, 74 km S of Yudomari, Japan",
+    "country": "Japan",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T03:02:06+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T23:22:54.402000+00:00"
    },
    {
     "id": "f523a98f94fc",
@@ -486,6 +434,16 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-13T16:17:51.680000+00:00"
+   },
+   {
+    "id": "ae28b4d39e68",
+    "title": "Green flood alert in Thailand",
+    "country": "Thailand",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T10:41:16+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -520,14 +478,34 @@
     "time": "2026-11-13T10:55:12.777000+00:00"
    },
    {
-    "id": "a8657d499fc9",
-    "title": "Haitian police retake national stadium from gangs after two years",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T02:01:26+00:00"
+    "id": "00f2d46c0ad4",
+    "title": "M4.8 earthquake, West Chile Rise",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-14T06:33:19.009000+00:00"
+   },
+   {
+    "id": "32f7d1fb9ce3",
+    "title": "M4.7 earthquake, 54 km NW of San Antonio de los Cobres, Argentina",
+    "country": "Argentina",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-14T03:18:26.652000+00:00"
+   },
+   {
+    "id": "fb872c1cc562",
+    "title": "M4.6 earthquake, 100 km WSW of Lebu, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T23:55:15.232000+00:00"
    },
    {
     "id": "d6f6a00ea103",
@@ -548,29 +526,101 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-13T19:43:17.748000+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "743d6e73e9a6",
+    "title": "Protesters heckle Hakeem Jeffries at Democratic conference",
+    "country": "United States",
+    "city": "Denver",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-14T07:18:53+00:00"
    },
    {
-    "id": "781a7cdd7f81",
-    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Peru 13/11/2026 16:43 UTC, 100 thousand in MMI IV.",
-    "country": "Peru",
+    "id": "b9bb835b6d76",
+    "title": "FAA lifts nationwide ground stop on all US flights",
+    "country": "United States",
     "city": null,
-    "category": "hazard",
+    "category": "cyber",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T17:03:43+00:00"
+    "confidence": "B3",
+    "time": "2026-11-14T02:50:21+00:00"
    },
    {
-    "id": "c1cac845ddd1",
-    "title": "M4.8 earthquake, 10 km SW of Guaymate, Dominican Republic",
-    "country": "Dominican Republic",
+    "id": "98fd02ad2dc2",
+    "title": "US flights resume after nationwide ground stop lifted",
+    "country": "United States",
     "city": null,
-    "category": "hazard",
+    "category": "transport",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T16:35:58.400000+00:00"
+    "confidence": "B3",
+    "time": "2026-11-14T02:35:48+00:00"
+   },
+   {
+    "id": "8f6eb94e4a72",
+    "title": "US flights resume gradually amid further cancellations",
+    "country": "United States",
+    "city": null,
+    "category": "transport",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T22:43:22+00:00"
+   },
+   {
+    "id": "42093c6c297f",
+    "title": "Doctor named as DC gym shooting suspect confessed, detailing dispute over living conditions, police say",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T15:25:28+00:00"
+   },
+   {
+    "id": "0521626e5105",
+    "title": "The scourge of femicide in Mexico: Impunity reigns in state of Morelos",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T12:38:35+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "b9bfbee74e32",
+    "title": "M4.6 earthquake, 102 km NNE of Hihifo, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-14T07:02:22.573000+00:00"
+   },
+   {
+    "id": "cdd73ae7cd63",
+    "title": "M5.2 earthquake, State of Yap, Federated States of Micronesia",
+    "country": "Micronesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-14T06:52:26.706000+00:00"
+   },
+   {
+    "id": "07e2864531c6",
+    "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "transport",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-14T04:56:06+00:00"
+   },
    {
     "id": "c8bf40b0232d",
     "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
@@ -590,26 +640,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-13T11:18:12.734000+00:00"
-   },
-   {
-    "id": "3749d64517f8",
-    "title": "‘If I wanted to plan a murder’: Beau Lamarre-Condon tells court what he would have done",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T05:33:48+00:00"
-   },
-   {
-    "id": "a5c068bd1723",
-    "title": "M4.5 earthquake, 278 km E of Levuka, Fiji",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T02:26:23.505000+00:00"
    }
   ]
  }
