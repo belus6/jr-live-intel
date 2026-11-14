@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-14T15:21:46.768022+00:00",
+ "generated": "2026-11-14T20:01:06.353589+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 34,
-  "3": 15,
-  "4": 3,
-  "5": 2
+  "2": 35,
+  "3": 9,
+  "4": 1,
+  "5": 1
  },
  "watch_hits": [],
  "regions": {
@@ -21,16 +21,6 @@
     "severity": 5,
     "confidence": "C4",
     "time": "2026-11-14T08:45:12+00:00"
-   },
-   {
-    "id": "f73f469b0f2b",
-    "title": "At least 10 killed in Guinea clashes over gold mining ban",
-    "country": "Guinea",
-    "city": null,
-    "category": "conflict",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-11-13T18:44:45+00:00"
    },
    {
     "id": "382293bc9dcc",
@@ -53,6 +43,16 @@
     "time": "2026-11-14T12:23:32+00:00"
    },
    {
+    "id": "7767c444bd98",
+    "title": "Rising costs and arrests fuel protests in Central African Republic",
+    "country": "CAR",
+    "city": "Bangui",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-14T17:50:28+00:00"
+   },
+   {
     "id": "886911b945be",
     "title": "CAR: Opposition marches in Bangui against rising cost of living",
     "country": "CAR",
@@ -73,17 +73,49 @@
     "time": "2026-11-13T20:12:34+00:00"
    }
   ],
-  "Middle East & N. Africa": [
+  "East & SE Asia": [
    {
-    "id": "9caa342c02ef",
-    "title": "Crossing Afghanistan along the 'highway of death'",
-    "country": "Afghanistan",
-    "city": "Kabul",
-    "category": "terrorism",
-    "severity": 4,
+    "id": "7615e368988b",
+    "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+    "country": "Myanmar",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-13T16:47:34+00:00"
+    "time": "2026-11-14T16:13:43+00:00"
    },
+   {
+    "id": "de9547048272",
+    "title": "M4.9 earthquake, 7 km SE of Tagbina, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-14T16:04:22.205000+00:00"
+   },
+   {
+    "id": "ad0921bc8480",
+    "title": "M5.1 earthquake, 153 km NW of Kavieng, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T23:30:38.320000+00:00"
+   },
+   {
+    "id": "fa33c870b48a",
+    "title": "M4.6 earthquake, 74 km S of Yudomari, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T23:22:54.402000+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
    {
     "id": "3ec576ff50e7",
     "title": "How does Iran view shift in US approach after JD Vance ordered away?",
@@ -135,27 +167,17 @@
     "time": "2026-11-14T00:00:25+00:00"
    },
    {
-    "id": "c12b6ff0a401",
-    "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-    "country": "Iran",
-    "city": "Tehran",
-    "category": "conflict",
-    "severity": 3,
+    "id": "31df47668495",
+    "title": "COP31: Protesters, UN urge swift climate deal",
+    "country": "Turkey",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-13T18:09:05+00:00"
+    "time": "2026-11-14T17:19:00+00:00"
    }
   ],
   "Western Europe": [
-   {
-    "id": "f0f839784fe4",
-    "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-    "country": "Germany",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-13T15:42:52+00:00"
-   },
    {
     "id": "2c94d40a0f4a",
     "title": "Can Nvidia survive without tech titan Jensen Huang?",
@@ -167,14 +189,24 @@
     "time": "2026-11-14T10:20:11+00:00"
    },
    {
-    "id": "19c8635ca441",
-    "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
-    "country": "Ireland",
-    "city": "Dublin",
-    "category": "conflict",
-    "severity": 3,
+    "id": "8e906dc873a4",
+    "title": "More than 100,000 rally across France in new Yellow Vest protests",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-13T17:28:54+00:00"
+    "time": "2026-11-14T19:46:24+00:00"
+   },
+   {
+    "id": "ca1bb80b4e29",
+    "title": "Tens of thousands march in latest Portugal housing protests",
+    "country": "Portugal",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-14T19:27:55+00:00"
    },
    {
     "id": "36fef520aeec",
@@ -239,16 +271,6 @@
     "time": "2026-11-14T07:42:00+00:00"
    },
    {
-    "id": "9bbf7c3193b1",
-    "title": "Russia strikes targets across Ukraine as Kyiv launches nearly 1,200 drones",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T15:46:36+00:00"
-   },
-   {
     "id": "3dd0473a55bc",
     "title": "M4.5 earthquake, 137 km SE of Petropavlovsk-Kamchatsky, Russia",
     "country": "Russia",
@@ -257,90 +279,38 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-14T12:28:00.653000+00:00"
-   },
-   {
-    "id": "ba31645b13f4",
-    "title": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T19:46:54+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "3cd23b7683cb",
-    "title": "The Nvidia affair: Are markets about to fall out of love with AI?",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T17:02:40+00:00"
-   },
-   {
-    "id": "64e03f7471c1",
-    "title": "Myanmar: Junta carries out double-tap airstrikes targeting civilians",
-    "country": "Myanmar",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T16:41:45+00:00"
-   },
-   {
-    "id": "fa33c870b48a",
-    "title": "M4.6 earthquake, 74 km S of Yudomari, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T23:22:54.402000+00:00"
-   },
-   {
-    "id": "f523a98f94fc",
-    "title": "M4.8 earthquake, 153 km NW of Kavieng, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T19:49:21.768000+00:00"
-   },
-   {
-    "id": "ef259045036a",
-    "title": "M5.2 earthquake, 79 km NE of Kuqa, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T16:17:51.680000+00:00"
    }
   ],
   "Latin America & Caribbean": [
    {
-    "id": "7a50bb6d8eed",
-    "title": "M5.8 earthquake, 79 km WSW of Changuillo, Peru",
-    "country": "Peru",
+    "id": "26d61df78c62",
+    "title": "M4.7 earthquake, 24 km S of Yacuiba, Bolivia",
+    "country": "Bolivia",
     "city": null,
     "category": "hazard",
-    "severity": 3,
+    "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-13T16:43:02.131000+00:00"
+    "time": "2026-11-14T18:04:01.078000+00:00"
    },
    {
-    "id": "89f9b582bf2f",
-    "title": "Why does El Salvador's Bukele have troops in Haiti?",
-    "country": "Haiti",
+    "id": "80a7cb8e7ea0",
+    "title": "M4.6 earthquake, 62 km WNW of San Antonio de los Cobres, Argentina",
+    "country": "Argentina",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-14T16:36:19.635000+00:00"
+   },
+   {
+    "id": "a043f34ff86b",
+    "title": "Fuel crisis and protests pressure Chile's far-right president",
+    "country": "Chile",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-13T15:37:00+00:00"
+    "time": "2026-11-14T16:05:12+00:00"
    },
    {
     "id": "00f2d46c0ad4",
@@ -381,26 +351,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-13T21:19:55.905000+00:00"
-   },
-   {
-    "id": "d5813f6d05c1",
-    "title": "M4.5 earthquake, 9 km WSW of Chaparral, Colombia",
-    "country": "Colombia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T19:43:17.748000+00:00"
-   },
-   {
-    "id": "781a7cdd7f81",
-    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Peru 13/11/2026 16:43 UTC, 100 thousand in MMI IV.",
-    "country": "Peru",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T17:03:43+00:00"
    }
   ],
   "North America": [
@@ -463,16 +413,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-13T22:43:22+00:00"
-   },
-   {
-    "id": "42093c6c297f",
-    "title": "Doctor named as DC gym shooting suspect confessed, detailing dispute over living conditions, police say",
-    "country": "United States",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T15:25:28+00:00"
    }
   ],
   "Oceania": [
@@ -505,6 +445,16 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-14T04:56:06+00:00"
+   },
+   {
+    "id": "06bd9d8d71af",
+    "title": "M4.5 earthquake, Fiji region",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-14T02:21:07.393000+00:00"
    },
    {
     "id": "c8bf40b0232d",
