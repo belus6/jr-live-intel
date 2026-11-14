@@ -1,20 +1,27 @@
 {
- "generated": "2026-11-14T08:40:54.314582+00:00",
+ "generated": "2026-11-14T15:21:46.768022+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 53,
-  "3": 21,
+  "2": 34,
+  "3": 15,
   "4": 3,
-  "5": 4
+  "5": 2
  },
- "watch_hits": [
-  "a1f7b1491431",
-  "0521626e5105"
- ],
+ "watch_hits": [],
  "regions": {
   "Sub-Saharan Africa": [
+   {
+    "id": "61724d4de84e",
+    "title": "DR Congo: At least 44 dead in attack by Islamic State-linked gunmen",
+    "country": "DRC",
+    "city": null,
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "C4",
+    "time": "2026-11-14T08:45:12+00:00"
+   },
    {
     "id": "f73f469b0f2b",
     "title": "At least 10 killed in Guinea clashes over gold mining ban",
@@ -24,6 +31,26 @@
     "severity": 5,
     "confidence": "B3",
     "time": "2026-11-13T18:44:45+00:00"
+   },
+   {
+    "id": "382293bc9dcc",
+    "title": "Burkina Faso issues arrest warrants for around 20 people, including journalists",
+    "country": "Burkina Faso",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-11-14T10:51:15+00:00"
+   },
+   {
+    "id": "1abe498b0041",
+    "title": "Inside Ethiopia's war: Rare access to a hospital treating victims of renewed fighting",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-14T12:23:32+00:00"
    },
    {
     "id": "886911b945be",
@@ -44,210 +71,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-13T20:12:34+00:00"
-   },
-   {
-    "id": "6c1d2c05ee0e",
-    "title": "Nigeria Ebola patient contacts complete 21-day monitoring without signs of infection",
-    "country": "Nigeria",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-13T14:56:21+00:00"
-   },
-   {
-    "id": "a1f7b1491431",
-    "title": "Kenyans brace for El Niño rains as flood survivors fear a repeat of 2024 devastation",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-13T12:42:14+00:00"
-   },
-   {
-    "id": "d89890fc27fe",
-    "title": "Green forest fire notification in South Sudan, Sudan",
-    "country": "South Sudan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T12:40:30+00:00"
-   },
-   {
-    "id": "14abf1c38efe",
-    "title": "Green forest fire notification in Mali",
-    "country": "Mali",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T12:07:30+00:00"
-   },
-   {
-    "id": "78e611c2f918",
-    "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T12:00:00+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "7a6a769d0a8b",
-    "title": "'A lot of emotion' as Paris marks 11 years since terror attacks",
-    "country": "France",
-    "city": "Paris",
-    "category": "terrorism",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-11-13T14:06:44+00:00"
-   },
-   {
-    "id": "d8a91880d85c",
-    "title": "France remembers victims of 2015 Paris terror attacks",
-    "country": "France",
-    "city": "Paris",
-    "category": "terrorism",
-    "severity": 5,
-    "confidence": "B3",
-    "time": "2026-11-13T10:52:36+00:00"
-   },
-   {
-    "id": "f0f839784fe4",
-    "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-    "country": "Germany",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-13T15:42:52+00:00"
-   },
-   {
-    "id": "19c8635ca441",
-    "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
-    "country": "Ireland",
-    "city": "Dublin",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T17:28:54+00:00"
-   },
-   {
-    "id": "b19dfdf34a53",
-    "title": "It's 'game over' for Jensen Huang, king of AI chips",
-    "country": "France",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T11:56:27+00:00"
-   },
-   {
-    "id": "67b6160c19eb",
-    "title": "Toera's homecoming: Madagascar's slain king joins his ancestors after 129 years",
-    "country": "France",
-    "city": "Paris",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T10:27:02+00:00"
-   },
-   {
-    "id": "3b0ee85ee232",
-    "title": "Live: France mobilises in fifth wave of student protests",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-14T07:09:32+00:00"
-   },
-   {
-    "id": "39191e67d2a1",
-    "title": "Bristol aims to become UK’s first ‘wetland city’ and reduce flood risk",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-14T07:00:37+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "b3a409ed7b8f",
-    "title": "Ukraine: Russian drone attacks hit Kyiv hospital, leave two dead in Odesa",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 5,
-    "confidence": "C4",
-    "time": "2026-11-13T11:00:16+00:00"
-   },
-   {
-    "id": "b71b2794f6df",
-    "title": "General Staff: Russia has lost 1,620,630 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-14T07:42:00+00:00"
-   },
-   {
-    "id": "9bbf7c3193b1",
-    "title": "Russia strikes targets across Ukraine as Kyiv launches nearly 1,200 drones",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T15:46:36+00:00"
-   },
-   {
-    "id": "01102f67d69b",
-    "title": "Ukraine seeks explanation on Starshield speed restrictions from US",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-13T13:33:27+00:00"
-   },
-   {
-    "id": "a0ff5dd5f9b3",
-    "title": "Russia's advance in Ukraine has slowed significantly, Air Assault Forces commander says",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-13T13:01:51+00:00"
-   },
-   {
-    "id": "9cc5ac1bd530",
-    "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T10:11:38+00:00"
-   },
-   {
-    "id": "ba31645b13f4",
-    "title": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T19:46:54+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -262,14 +85,24 @@
     "time": "2026-11-13T16:47:34+00:00"
    },
    {
-    "id": "a0f3157afbe4",
-    "title": "Iran showcases missiles as military targets US army radar in Bahrain",
-    "country": "Bahrain",
+    "id": "3ec576ff50e7",
+    "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-14T13:24:44+00:00"
+   },
+   {
+    "id": "a78c811952be",
+    "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+    "country": "Qatar",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-13T11:10:49+00:00"
+    "confidence": "B3",
+    "time": "2026-11-14T09:19:43+00:00"
    },
    {
     "id": "986107a8c94a",
@@ -310,58 +143,130 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-13T18:09:05+00:00"
-   },
-   {
-    "id": "36f1d35426fc",
-    "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
-    "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T12:00:00+00:00"
-   },
-   {
-    "id": "030928adab52",
-    "title": "Turkey: Six-metre Trojan Horse spills plastic waste at COP31",
-    "country": "Turkey",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-13T13:36:16+00:00"
    }
   ],
-  "South Asia": [
+  "Western Europe": [
    {
-    "id": "7c29719f36fa",
-    "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
-    "country": "Pakistan",
+    "id": "f0f839784fe4",
+    "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+    "country": "Germany",
     "city": null,
     "category": "terrorism",
     "severity": 4,
     "confidence": "B3",
-    "time": "2026-11-13T11:59:34+00:00"
+    "time": "2026-11-13T15:42:52+00:00"
    },
    {
-    "id": "dd87bea69d68",
-    "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-    "country": "India",
+    "id": "2c94d40a0f4a",
+    "title": "Can Nvidia survive without tech titan Jensen Huang?",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-14T10:20:11+00:00"
+   },
+   {
+    "id": "19c8635ca441",
+    "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
+    "country": "Ireland",
+    "city": "Dublin",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-13T17:28:54+00:00"
+   },
+   {
+    "id": "36fef520aeec",
+    "title": "France's school principals say threats and violence have become unbearable",
+    "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-13T23:11:51+00:00"
+    "time": "2026-11-14T10:17:21+00:00"
    },
    {
-    "id": "1d33196b14a2",
-    "title": "Green forest fire notification in India",
-    "country": "India",
+    "id": "7722d51d8744",
+    "title": "France protests for fifth Saturday against living costs and heavy-handed policing",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-14T10:15:42+00:00"
+   },
+   {
+    "id": "3b0ee85ee232",
+    "title": "Live: France mobilises in fifth wave of student protests",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-14T07:09:32+00:00"
+   },
+   {
+    "id": "93fa3fc83847",
+    "title": "Live: France deploys 70,000 police for new wave of anti-government protests",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-14T07:09:32+00:00"
+   },
+   {
+    "id": "39191e67d2a1",
+    "title": "Bristol aims to become UK’s first ‘wetland city’ and reduce flood risk",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-14T07:00:37+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "b71b2794f6df",
+    "title": "General Staff: Russia has lost 1,620,630 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-14T07:42:00+00:00"
+   },
+   {
+    "id": "9bbf7c3193b1",
+    "title": "Russia strikes targets across Ukraine as Kyiv launches nearly 1,200 drones",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-13T15:46:36+00:00"
+   },
+   {
+    "id": "3dd0473a55bc",
+    "title": "M4.5 earthquake, 137 km SE of Petropavlovsk-Kamchatsky, Russia",
+    "country": "Russia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-13T12:39:15+00:00"
+    "time": "2026-11-14T12:28:00.653000+00:00"
+   },
+   {
+    "id": "ba31645b13f4",
+    "title": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T19:46:54+00:00"
    }
   ],
   "East & SE Asia": [
@@ -384,26 +289,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-13T16:41:45+00:00"
-   },
-   {
-    "id": "7d8644cbac09",
-    "title": "Nvidia scandal: Was Alice Huang really a Chinese spy?",
-    "country": "China",
-    "city": "Beijing",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T12:02:05+00:00"
-   },
-   {
-    "id": "1648a8e6d16c",
-    "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T09:41:22+00:00"
    },
    {
     "id": "fa33c870b48a",
@@ -434,19 +319,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-13T16:17:51.680000+00:00"
-   },
-   {
-    "id": "ae28b4d39e68",
-    "title": "Green flood alert in Thailand",
-    "country": "Thailand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T10:41:16+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "7a50bb6d8eed",
+    "title": "M5.8 earthquake, 79 km WSW of Changuillo, Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-13T16:43:02.131000+00:00"
+   },
    {
     "id": "89f9b582bf2f",
     "title": "Why does El Salvador's Bukele have troops in Haiti?",
@@ -456,26 +341,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-13T15:37:00+00:00"
-   },
-   {
-    "id": "3d3b2751371a",
-    "title": "Haitian police retake national stadium after two years of gang control",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-13T11:43:08+00:00"
-   },
-   {
-    "id": "58fd5cd02abf",
-    "title": "M4.5 earthquake, 86 km NNE of Lagunas, Peru",
-    "country": "Peru",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-13T10:55:12.777000+00:00"
    },
    {
     "id": "00f2d46c0ad4",
@@ -526,9 +391,29 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-13T19:43:17.748000+00:00"
+   },
+   {
+    "id": "781a7cdd7f81",
+    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Peru 13/11/2026 16:43 UTC, 100 thousand in MMI IV.",
+    "country": "Peru",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-13T17:03:43+00:00"
    }
   ],
   "North America": [
+   {
+    "id": "2777a1e5e4b8",
+    "title": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
+    "country": "United States",
+    "city": null,
+    "category": "transport",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-14T10:14:09+00:00"
+   },
    {
     "id": "743d6e73e9a6",
     "title": "Protesters heckle Hakeem Jeffries at Democratic conference",
@@ -570,6 +455,16 @@
     "time": "2026-11-13T22:43:22+00:00"
    },
    {
+    "id": "3e9dd5f23d57",
+    "title": "Passengers face further disruption as US flights slowly resume after ground stop",
+    "country": "United States",
+    "city": null,
+    "category": "transport",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-13T22:43:22+00:00"
+   },
+   {
     "id": "42093c6c297f",
     "title": "Doctor named as DC gym shooting suspect confessed, detailing dispute over living conditions, police say",
     "country": "United States",
@@ -578,16 +473,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-13T15:25:28+00:00"
-   },
-   {
-    "id": "0521626e5105",
-    "title": "The scourge of femicide in Mexico: Impunity reigns in state of Morelos",
-    "country": "Mexico",
-    "city": "Mexico City",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-13T12:38:35+00:00"
    }
   ],
   "Oceania": [
@@ -630,16 +515,18 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-14T01:00:30+00:00"
-   },
+   }
+  ],
+  "South Asia": [
    {
-    "id": "9684025891d1",
-    "title": "M4.8 earthquake, 59 km WSW of Houma, Tonga",
-    "country": "Tonga",
+    "id": "dd87bea69d68",
+    "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+    "country": "India",
     "city": null,
-    "category": "hazard",
+    "category": "unrest",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T11:18:12.734000+00:00"
+    "confidence": "B3",
+    "time": "2026-11-13T23:11:51+00:00"
    }
   ]
  }
