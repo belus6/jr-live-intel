@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-14T23:55:09.484995+00:00",
+ "generated": "2026-11-15T05:11:54.606223+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 29,
-  "3": 10,
+  "2": 26,
+  "3": 11,
   "4": 1,
   "5": 1
  },
@@ -43,6 +43,16 @@
     "time": "2026-11-14T12:23:32+00:00"
    },
    {
+    "id": "2e8ef2ce7e77",
+    "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-15T00:06:55+00:00"
+   },
+   {
     "id": "7767c444bd98",
     "title": "Rising costs and arrests fuel protests in Central African Republic",
     "country": "CAR",
@@ -54,6 +64,16 @@
    }
   ],
   "Eastern Europe": [
+   {
+    "id": "da506e6e32ac",
+    "title": "Fire reported at industrial facility in Russia's Tatarstan amid drone attack",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-15T03:23:36+00:00"
+   },
    {
     "id": "420547764742",
     "title": "Tsikhanouskaya ally condemns Belarusian athlete for insulting Ukrainian opponent, complacency in Russia's war",
@@ -83,6 +103,68 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-14T12:28:00.653000+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "5b66c76b929c",
+    "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-15T02:59:06+00:00"
+   },
+   {
+    "id": "6a134972054b",
+    "title": "Israeli air strike kills senior Hamas commander in Gaza",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-15T01:00:42+00:00"
+   },
+   {
+    "id": "3ec576ff50e7",
+    "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-14T13:24:44+00:00"
+   },
+   {
+    "id": "a78c811952be",
+    "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+    "country": "Qatar",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-14T09:19:43+00:00"
+   },
+   {
+    "id": "986107a8c94a",
+    "title": "Sudan: Misery worsens amid plummeting aid for displaced people",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-14T08:31:00+00:00"
+   },
+   {
+    "id": "31df47668495",
+    "title": "COP31: Protesters, UN urge swift climate deal",
+    "country": "Turkey",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-14T17:19:00+00:00"
    }
   ],
   "East & SE Asia": [
@@ -115,78 +197,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-14T16:04:22.205000+00:00"
-   },
-   {
-    "id": "4681a8cf9e33",
-    "title": "M4.5 earthquake, 22 km NE of Kinablangan, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T23:58:23.875000+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "3ec576ff50e7",
-    "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-    "country": "Iran",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-14T13:24:44+00:00"
-   },
-   {
-    "id": "a78c811952be",
-    "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
-    "country": "Qatar",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-14T09:19:43+00:00"
-   },
-   {
-    "id": "986107a8c94a",
-    "title": "Sudan: Misery worsens amid plummeting aid for displaced people",
-    "country": "Sudan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-14T08:31:00+00:00"
-   },
-   {
-    "id": "18790e3ee6fe",
-    "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
-    "country": "Afghanistan",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-14T04:03:49+00:00"
-   },
-   {
-    "id": "2faf69185add",
-    "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
-    "country": "Qatar",
-    "city": "Doha",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-14T00:00:25+00:00"
-   },
-   {
-    "id": "31df47668495",
-    "title": "COP31: Protesters, UN urge swift climate deal",
-    "country": "Turkey",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-14T17:19:00+00:00"
    }
   ],
   "Western Europe": [
@@ -199,6 +209,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-14T10:20:11+00:00"
+   },
+   {
+    "id": "fef20b7c66d7",
+    "title": "Hundreds of men march in Switzerland to protest violence against women",
+    "country": "Switzerland",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-15T00:27:14+00:00"
+   },
+   {
+    "id": "ab1c4186b641",
+    "title": "UK government to consider changing age of consent after allegations against Russell Brand",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-15T00:17:14+00:00"
    },
    {
     "id": "8e906dc873a4",
@@ -221,6 +251,16 @@
     "time": "2026-11-14T19:27:55+00:00"
    },
    {
+    "id": "5b069dbc409d",
+    "title": "'No justice, no peace': Fifth round of protests sweep across France",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-14T18:23:25+00:00"
+   },
+   {
     "id": "36fef520aeec",
     "title": "France's school principals say threats and violence have become unbearable",
     "country": "France",
@@ -239,39 +279,19 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-14T10:15:42+00:00"
-   },
-   {
-    "id": "3b0ee85ee232",
-    "title": "Live: France mobilises in fifth wave of student protests",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-14T07:09:32+00:00"
-   },
-   {
-    "id": "93fa3fc83847",
-    "title": "Live: France deploys 70,000 police for new wave of anti-government protests",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-14T07:09:32+00:00"
-   },
-   {
-    "id": "39191e67d2a1",
-    "title": "Bristol aims to become UK’s first ‘wetland city’ and reduce flood risk",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-14T07:00:37+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "6c2149177f90",
+    "title": "M4.8 earthquake, 19 km NW of Albardón, Argentina",
+    "country": "Argentina",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-15T03:59:59.682000+00:00"
+   },
    {
     "id": "26d61df78c62",
     "title": "M4.7 earthquake, 24 km S of Yacuiba, Bolivia",
@@ -311,26 +331,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-14T06:33:19.009000+00:00"
-   },
-   {
-    "id": "32f7d1fb9ce3",
-    "title": "M4.7 earthquake, 54 km NW of San Antonio de los Cobres, Argentina",
-    "country": "Argentina",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-14T03:18:26.652000+00:00"
-   },
-   {
-    "id": "fb872c1cc562",
-    "title": "M4.6 earthquake, 100 km WSW of Lebu, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-13T23:55:15.232000+00:00"
    }
   ],
   "North America": [
@@ -353,26 +353,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-14T07:18:53+00:00"
-   },
-   {
-    "id": "b9bb835b6d76",
-    "title": "FAA lifts nationwide ground stop on all US flights",
-    "country": "United States",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-14T02:50:21+00:00"
-   },
-   {
-    "id": "98fd02ad2dc2",
-    "title": "US flights resume after nationwide ground stop lifted",
-    "country": "United States",
-    "city": null,
-    "category": "transport",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-14T02:35:48+00:00"
    }
   ],
   "Oceania": [
@@ -395,36 +375,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-14T06:52:26.706000+00:00"
-   },
-   {
-    "id": "07e2864531c6",
-    "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "transport",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-14T04:56:06+00:00"
-   },
-   {
-    "id": "06bd9d8d71af",
-    "title": "M4.5 earthquake, Fiji region",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-14T02:21:07.393000+00:00"
-   },
-   {
-    "id": "c8bf40b0232d",
-    "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-14T01:00:30+00:00"
    }
   ]
  }
