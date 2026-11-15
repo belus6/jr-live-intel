@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-15T19:16:30.160524+00:00",
+ "generated": "2026-11-15T23:28:11.860453+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 26,
-  "3": 20,
+  "2": 34,
+  "3": 21,
   "4": 1,
   "5": 0
  },
@@ -31,6 +31,16 @@
     "severity": 3,
     "confidence": "B1",
     "time": "2026-11-15T13:42:58+00:00"
+   },
+   {
+    "id": "c1a79bd85b2b",
+    "title": "Who can force Israel to implement Gaza ceasefire deal?",
+    "country": "Israel",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-15T20:37:43+00:00"
    },
    {
     "id": "768452f210a9",
@@ -81,16 +91,28 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-15T09:59:37+00:00"
-   },
+   }
+  ],
+  "North America": [
    {
-    "id": "5b66c76b929c",
-    "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
+    "id": "abfd6ca878fe",
+    "title": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
+    "country": "United States",
+    "city": "Minneapolis",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-15T02:59:06+00:00"
+    "time": "2026-11-15T21:10:38+00:00"
+   },
+   {
+    "id": "76efb994bcbd",
+    "title": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies aged 80",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-15T22:48:31+00:00"
    }
   ],
   "Eastern Europe": [
@@ -165,14 +187,14 @@
     "time": "2026-11-15T03:23:36+00:00"
    },
    {
-    "id": "420547764742",
-    "title": "Tsikhanouskaya ally condemns Belarusian athlete for insulting Ukrainian opponent, complacency in Russia's war",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-14T20:56:11+00:00"
+    "id": "fbacfc85e234",
+    "title": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
+    "country": "Estonia",
+    "city": "Tallinn",
+    "category": "transport",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-11-15T17:05:14+00:00"
    }
   ],
   "Western Europe": [
@@ -195,6 +217,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-15T11:04:10+00:00"
+   },
+   {
+    "id": "b8e27e88d5fc",
+    "title": "Police ban protests near 10 schools and five universities in Paris",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-15T22:28:54+00:00"
+   },
+   {
+    "id": "b0a3e1163821",
+    "title": "Pragues's fight for public TV - Why Renowned Presenter Will Leave Czech TV Over Reforms",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-15T19:13:35+00:00"
    },
    {
     "id": "c2c7ba3e3ed7",
@@ -235,26 +277,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-15T00:17:14+00:00"
-   },
-   {
-    "id": "8e906dc873a4",
-    "title": "More than 100,000 rally across France in new Yellow Vest protests",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-14T19:46:24+00:00"
-   },
-   {
-    "id": "ca1bb80b4e29",
-    "title": "Tens of thousands march in latest Portugal housing protests",
-    "country": "Portugal",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-14T19:27:55+00:00"
    }
   ],
   "East & SE Asia": [
@@ -267,6 +289,16 @@
     "severity": 3,
     "confidence": "A1",
     "time": "2026-11-15T13:41:35.701000+00:00"
+   },
+   {
+    "id": "671bd3ba220e",
+    "title": "M5.0 earthquake, 256 km SSE of Ambon, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-15T20:51:56.298000+00:00"
    },
    {
     "id": "beba19c61478",
@@ -297,16 +329,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-15T09:49:43+00:00"
-   },
-   {
-    "id": "797300b765f8",
-    "title": "M4.5 earthquake, 25 km N of Ruteng, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-14T21:24:20.159000+00:00"
    }
   ],
   "Oceania": [
@@ -321,8 +343,28 @@
     "time": "2026-11-15T05:15:02.697000+00:00"
    },
    {
+    "id": "b54b3cb89926",
+    "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+    "country": "Australia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-15T22:28:02+00:00"
+   },
+   {
     "id": "2035c7f39766",
     "title": "Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
+    "country": "Cook Islands",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-15T08:51:43+00:00"
+   },
+   {
+    "id": "9d03a8b8a567",
+    "title": "Green notification for tropical cyclone XAVIER-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
     "country": "Cook Islands",
     "city": null,
     "category": "hazard",
@@ -349,6 +391,60 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-15T05:31:38+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "f13e2bd9ea17",
+    "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-15T20:07:06+00:00"
+   },
+   {
+    "id": "6a5ad1a78952",
+    "title": "Green forest fire notification in Niger, Burkina Faso",
+    "country": "Niger",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-15T20:01:45+00:00"
+   },
+   {
+    "id": "31e14fe47bc4",
+    "title": "DR Congo: Ebola-awareness campaigns conducted at schools in Bunia",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-15T07:46:00+00:00"
+   },
+   {
+    "id": "2e8ef2ce7e77",
+    "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-15T00:06:55+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "383cdfb9c668",
+    "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+    "country": "Bangladesh",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-15T16:15:20+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -381,28 +477,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-15T03:59:59.682000+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "31e14fe47bc4",
-    "title": "DR Congo: Ebola-awareness campaigns conducted at schools in Bunia",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-15T07:46:00+00:00"
-   },
-   {
-    "id": "2e8ef2ce7e77",
-    "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-15T00:06:55+00:00"
    }
   ]
  }
