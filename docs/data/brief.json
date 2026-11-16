@@ -1,17 +1,109 @@
 {
- "generated": "2026-11-16T10:57:01.058001+00:00",
+ "generated": "2026-11-16T20:53:06.953989+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 37,
+  "2": 36,
   "3": 22,
-  "4": 2,
-  "5": 0
+  "4": 6,
+  "5": 1
  },
  "watch_hits": [],
  "regions": {
+  "Eastern Europe": [
+   {
+    "id": "f6c92a6f6449",
+    "title": "Komyshuvakha rescue operations cease two weeks after Russian strike, 72 dead, 4 still missing",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "C4",
+    "time": "2026-11-16T20:19:40+00:00"
+   },
+   {
+    "id": "ea404b9420c3",
+    "title": "Cargo ship sinks in Bulgaria's Black Sea after reported drone attack, all 12 crew rescued",
+    "country": "Bulgaria",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-16T19:02:57+00:00"
+   },
+   {
+    "id": "e2a867b3032b",
+    "title": "French military personnel secretly in Ukraine to train troops and maintain equipment, RFI reports",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-16T16:31:22+00:00"
+   },
+   {
+    "id": "9aaa236c4a7a",
+    "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-16T14:58:12+00:00"
+   },
+   {
+    "id": "65deb3a7f77d",
+    "title": "French troops 'deployed in Ukraine on secret mission'",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-16T14:02:12+00:00"
+   },
+   {
+    "id": "63c456042860",
+    "title": "Russia says intercepted over 1,300 Ukrainian drones in a major attack",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-16T14:00:25+00:00"
+   },
+   {
+    "id": "f77f5ef07505",
+    "title": "General Staff: Russia has lost 1,625,420 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-16T07:09:59+00:00"
+   },
+   {
+    "id": "11062f2cdf9e",
+    "title": "Fuel depot in Azov, Russia reportedly in flames following Ukrainian drone attacks",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-16T04:48:49+00:00"
+   }
+  ],
   "Sub-Saharan Africa": [
+   {
+    "id": "2faafb96aba9",
+    "title": "Two mass shootings in South Africa leave 17 dead",
+    "country": "South Africa",
+    "city": "Pretoria",
+    "category": "crime",
+    "severity": 4,
+    "confidence": "B1",
+    "time": "2026-11-16T10:57:48+00:00"
+   },
    {
     "id": "f0ed214f11ff",
     "title": "Gunmen kill 17 in two separate shootings in South Africa",
@@ -33,6 +125,46 @@
     "time": "2026-11-16T07:38:00+00:00"
    },
    {
+    "id": "aa5765c60608",
+    "title": "Green forest fire notification in Central African Republic, Chad",
+    "country": "CAR",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-16T16:23:11+00:00"
+   },
+   {
+    "id": "16ee52970a2d",
+    "title": "Green forest fire notification in Ethiopia, Sudan",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-16T16:06:33+00:00"
+   },
+   {
+    "id": "8cfaaef3fc21",
+    "title": "M4.8 earthquake, 166 km N of Caluula, Somalia",
+    "country": "Somalia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-16T13:30:33.980000+00:00"
+   },
+   {
+    "id": "584cab1669c2",
+    "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
+    "country": "South Africa",
+    "city": "Cape Town",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-16T10:19:08+00:00"
+   },
+   {
     "id": "ab3785ba51de",
     "title": "Green forest fire notification in Benin, Burkina Faso",
     "country": "Benin",
@@ -41,111 +173,133 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-16T08:03:47+00:00"
+   }
+  ],
+  "South Asia": [
+   {
+    "id": "d2af8b2cd4bf",
+    "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (20.826 million in Tropical Storm).",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-11-16T20:06:39+00:00"
    },
    {
-    "id": "f13e2bd9ea17",
-    "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
+    "id": "f23fe37b4a40",
+    "title": "Students protest as air pollution chokes New Delhi",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-15T20:07:06+00:00"
+    "time": "2026-11-16T15:27:07+00:00"
    },
    {
-    "id": "6a5ad1a78952",
-    "title": "Green forest fire notification in Niger, Burkina Faso",
-    "country": "Niger",
+    "id": "63a9d8a9f6eb",
+    "title": "‘I saw a picture of a two-year-old girl buried in mud. I knew we had to do something’ – This is climate breakdown",
+    "country": "Pakistan",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T20:01:45+00:00"
+    "confidence": "B3",
+    "time": "2026-11-16T12:00:59+00:00"
    }
   ],
   "Middle East & N. Africa": [
    {
-    "id": "a9a98d87e45c",
-    "title": "Iran targets US military base in Bahrain with drone attack",
-    "country": "Bahrain",
-    "city": "Manama",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-15T13:42:58+00:00"
+    "id": "00e3dcf5bf86",
+    "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-16T20:00:07+00:00"
    },
    {
-    "id": "0ee0d327eb50",
-    "title": "Iran claims drone attack on US military base in Bahrain",
-    "country": "Bahrain",
-    "city": "Manama",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-15T15:29:22+00:00"
+    "id": "8fba46697ddf",
+    "title": "Israel: Party chiefs say Netanyahu's election fraud claims a coup attempt",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-11-16T13:54:49+00:00"
    },
    {
-    "id": "70e280108189",
-    "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
-    "country": "Iran",
+    "id": "92a176f124f0",
+    "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+    "country": "Saudi Arabia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-16T09:31:36+00:00"
+    "time": "2026-11-16T19:19:21+00:00"
    },
    {
-    "id": "14ced83a959d",
-    "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+    "id": "bd2963ec1f41",
+    "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
     "country": "Yemen",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-16T07:23:23+00:00"
+    "time": "2026-11-16T19:04:07+00:00"
    },
    {
-    "id": "c1a79bd85b2b",
-    "title": "Who can force Israel to implement Gaza ceasefire deal?",
+    "id": "9b898a3e7d3a",
+    "title": "For Putin, foreign troops in Ukraine are unacceptable — unless they're fighting for Russia",
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-16T17:13:13+00:00"
+   },
+   {
+    "id": "a526ceb7a0a9",
+    "title": "Iran braces for natural gas shortages during winter energy imbalance",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-16T16:58:46+00:00"
+   },
+   {
+    "id": "eef99887b7ce",
+    "title": "Yemeni forces retreat to defend port city from Houthis",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-16T11:09:38+00:00"
+   },
+   {
+    "id": "eb9723ca675f",
+    "title": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
     "country": "Israel",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-15T20:37:43+00:00"
-   },
-   {
-    "id": "768452f210a9",
-    "title": "Iran's first women-only military training centre opens in Tehran",
-    "country": "Iran",
-    "city": "Tehran",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-15T16:11:40+00:00"
-   },
-   {
-    "id": "fd079c6f598c",
-    "title": "Bahrain says air defences destroyed several Iranian drones attacking US base",
-    "country": "Iran",
-    "city": "Tehran",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-15T13:55:32+00:00"
-   },
-   {
-    "id": "3b96c2a2f1d1",
-    "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
-    "country": "Oman",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-15T12:21:25+00:00"
+    "time": "2026-11-16T11:00:56+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "edd8c4024be1",
+    "title": "Musk among more than 150,000 calling for Jensen Huang's return to Nvidia",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-16T14:03:14+00:00"
+   },
    {
     "id": "ddc1f12f2d7b",
     "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
@@ -175,16 +329,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-15T23:31:15+00:00"
-   },
-   {
-    "id": "fce97bff15ae",
-    "title": "M5.5 earthquake, 9 km E of Union, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-15T13:41:35.701000+00:00"
    },
    {
     "id": "1072ac873332",
@@ -225,88 +369,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-16T04:11:53+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "f77f5ef07505",
-    "title": "General Staff: Russia has lost 1,625,420 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-16T07:09:59+00:00"
-   },
-   {
-    "id": "11062f2cdf9e",
-    "title": "Fuel depot in Azov, Russia reportedly in flames following Ukrainian drone attacks",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-16T04:48:49+00:00"
-   },
-   {
-    "id": "31c37d05bc82",
-    "title": "Ukrainian drone attacks 'neutralized' 55% of Russia's oil refining capacity, Zelensky says",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-15T23:30:24+00:00"
-   },
-   {
-    "id": "ec3701453c84",
-    "title": "'Fantastic female warrior' – Drone operator Rayana killed fighting Russian forces",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-15T16:44:37+00:00"
-   },
-   {
-    "id": "1bc41870cf07",
-    "title": "Ukrainian drones strike Russia's petrochemical capital in overnight assault",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-15T13:36:53+00:00"
-   },
-   {
-    "id": "dcb6c1601d0b",
-    "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
-    "country": "Czech Republic",
-    "city": "Prague",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-11-15T18:20:36+00:00"
-   },
-   {
-    "id": "fbacfc85e234",
-    "title": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
-    "country": "Estonia",
-    "city": "Tallinn",
-    "category": "transport",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-11-15T17:05:14+00:00"
-   },
-   {
-    "id": "f6e700f203e7",
-    "title": "Green flood alert in Croatia",
-    "country": "Croatia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-16T05:50:23+00:00"
    }
   ],
   "North America": [
@@ -361,26 +423,48 @@
     "time": "2026-11-15T22:48:31+00:00"
    }
   ],
-  "Western Europe": [
+  "Latin America & Caribbean": [
    {
-    "id": "6c7e8e954d7e",
-    "title": "Jensen Huang: The French Connection",
-    "country": "France",
+    "id": "233fcad42e7d",
+    "title": "M5.4 earthquake, 95 km WSW of Changuillo, Peru",
+    "country": "Peru",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-15T15:03:56+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-16T16:16:45.265000+00:00"
    },
    {
-    "id": "40532341a387",
-    "title": "Police confront protesters in clashes across France and Germany",
-    "country": "France",
+    "id": "d54baa010600",
+    "title": "Delaware hit by rare November tornado",
+    "country": "Argentina",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "hazard",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-15T11:04:10+00:00"
+    "time": "2026-11-16T09:27:06+00:00"
+   },
+   {
+    "id": "c85f36c221ef",
+    "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+    "country": "Peru",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-16T01:52:12+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "7acc14c70bea",
+    "title": "Verdict due in French trial over triple murder linked to Marseille drug wars",
+    "country": "France",
+    "city": "Marseille",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-16T15:13:21+00:00"
    },
    {
     "id": "49ca319926f1",
@@ -413,26 +497,6 @@
     "time": "2026-11-15T22:28:54+00:00"
    },
    {
-    "id": "b0a3e1163821",
-    "title": "Pragues's fight for public TV - Why Renowned Presenter Will Leave Czech TV Over Reforms",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-15T19:13:35+00:00"
-   },
-   {
-    "id": "c2c7ba3e3ed7",
-    "title": "The week in pictures: Spain protests, Pope Leo's Peru 'homecoming' and Rocky fans in Philly",
-    "country": "Spain",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-15T13:59:21+00:00"
-   },
-   {
     "id": "236407d57ce7",
     "title": "French Polynesia - Level 1: Exercise Normal Precautions",
     "country": "France",
@@ -441,38 +505,6 @@
     "severity": 1,
     "confidence": "A1",
     "time": "2026-12-02T00:00:00+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "d54baa010600",
-    "title": "Delaware hit by rare November tornado",
-    "country": "Argentina",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-16T09:27:06+00:00"
-   },
-   {
-    "id": "c85f36c221ef",
-    "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
-    "country": "Peru",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-16T01:52:12+00:00"
-   },
-   {
-    "id": "1dcc6a138e07",
-    "title": "Haitians welcome deployment of Salvadoran troops as gang violence rages on",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-15T11:01:51+00:00"
    }
   ],
   "Oceania": [
@@ -495,18 +527,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-15T22:28:02+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "383cdfb9c668",
-    "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-    "country": "Bangladesh",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-15T16:15:20+00:00"
    }
   ]
  }
