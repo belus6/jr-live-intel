@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-15T23:28:11.860453+00:00",
+ "generated": "2026-11-16T02:58:32.906233+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 34,
-  "3": 21,
+  "2": 35,
+  "3": 25,
   "4": 1,
   "5": 0
  },
@@ -31,6 +31,16 @@
     "severity": 3,
     "confidence": "B1",
     "time": "2026-11-15T13:42:58+00:00"
+   },
+   {
+    "id": "0ee0d327eb50",
+    "title": "Iran claims drone attack on US military base in Bahrain",
+    "country": "Bahrain",
+    "city": "Manama",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-15T15:29:22+00:00"
    },
    {
     "id": "c1a79bd85b2b",
@@ -81,19 +91,91 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-15T12:15:51+00:00"
-   },
+   }
+  ],
+  "East & SE Asia": [
    {
-    "id": "b57e498d2917",
-    "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
-    "country": "Sudan",
+    "id": "66a2df88985b",
+    "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+    "country": "China",
     "city": null,
-    "category": "conflict",
+    "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-15T09:59:37+00:00"
+    "time": "2026-11-16T01:01:08+00:00"
+   },
+   {
+    "id": "f6ae7b908633",
+    "title": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-15T23:31:15+00:00"
+   },
+   {
+    "id": "fce97bff15ae",
+    "title": "M5.5 earthquake, 9 km E of Union, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-15T13:41:35.701000+00:00"
+   },
+   {
+    "id": "671bd3ba220e",
+    "title": "M5.0 earthquake, 256 km SSE of Ambon, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-15T20:51:56.298000+00:00"
+   },
+   {
+    "id": "beba19c61478",
+    "title": "M5.1 earthquake, 169 km NW of Gorontalo, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-15T15:41:14.978000+00:00"
+   },
+   {
+    "id": "4f1a20a297c5",
+    "title": "Green earthquake (Magnitude 5.5M, Depth:9.971km) in Philippines 15/11/2026 13:41 UTC, 30 thousand in MMI VI.",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-15T13:55:51+00:00"
+   },
+   {
+    "id": "46e993df72c7",
+    "title": "Protesters condemn US policies as ASEAN summit begins in Manila",
+    "country": "Philippines",
+    "city": "Manila",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-15T09:49:43+00:00"
    }
   ],
   "North America": [
+   {
+    "id": "705755eb971d",
+    "title": "Huge waves pummel California coast, forcing closure of popular piers",
+    "country": "United States",
+    "city": "San Francisco",
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-16T01:00:42+00:00"
+   },
    {
     "id": "abfd6ca878fe",
     "title": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
@@ -103,6 +185,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-15T21:10:38+00:00"
+   },
+   {
+    "id": "16c5f6c77d5d",
+    "title": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies age 80",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-11-15T22:48:31+00:00"
+   },
+   {
+    "id": "95c1e918e201",
+    "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-16T00:51:23+00:00"
    },
    {
     "id": "76efb994bcbd",
@@ -116,6 +218,16 @@
    }
   ],
   "Eastern Europe": [
+   {
+    "id": "31c37d05bc82",
+    "title": "Ukrainian drone attacks 'neutralized' 55% of Russia's oil refining capacity, Zelensky says",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-15T23:30:24+00:00"
+   },
    {
     "id": "ec3701453c84",
     "title": "'Fantastic female warrior' – Drone operator Rayana killed fighting Russian forces",
@@ -185,16 +297,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-15T03:23:36+00:00"
-   },
-   {
-    "id": "fbacfc85e234",
-    "title": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
-    "country": "Estonia",
-    "city": "Tallinn",
-    "category": "transport",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-11-15T17:05:14+00:00"
    }
   ],
   "Western Europe": [
@@ -259,76 +361,14 @@
     "time": "2026-11-15T08:40:37+00:00"
    },
    {
-    "id": "fef20b7c66d7",
-    "title": "Hundreds of men march in Switzerland to protest violence against women",
-    "country": "Switzerland",
+    "id": "236407d57ce7",
+    "title": "French Polynesia - Level 1: Exercise Normal Precautions",
+    "country": "France",
     "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-15T00:27:14+00:00"
-   },
-   {
-    "id": "ab1c4186b641",
-    "title": "UK government to consider changing age of consent after allegations against Russell Brand",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-15T00:17:14+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "fce97bff15ae",
-    "title": "M5.5 earthquake, 9 km E of Union, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
+    "category": "advisory",
+    "severity": 1,
     "confidence": "A1",
-    "time": "2026-11-15T13:41:35.701000+00:00"
-   },
-   {
-    "id": "671bd3ba220e",
-    "title": "M5.0 earthquake, 256 km SSE of Ambon, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T20:51:56.298000+00:00"
-   },
-   {
-    "id": "beba19c61478",
-    "title": "M5.1 earthquake, 169 km NW of Gorontalo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T15:41:14.978000+00:00"
-   },
-   {
-    "id": "4f1a20a297c5",
-    "title": "Green earthquake (Magnitude 5.5M, Depth:9.971km) in Philippines 15/11/2026 13:41 UTC, 30 thousand in MMI VI.",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T13:55:51+00:00"
-   },
-   {
-    "id": "46e993df72c7",
-    "title": "Protesters condemn US policies as ASEAN summit begins in Manila",
-    "country": "Philippines",
-    "city": "Manila",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-15T09:49:43+00:00"
+    "time": "2026-12-02T00:00:00+00:00"
    }
   ],
   "Oceania": [
@@ -341,6 +381,16 @@
     "severity": 3,
     "confidence": "A1",
     "time": "2026-11-15T05:15:02.697000+00:00"
+   },
+   {
+    "id": "18dbc78daa39",
+    "title": "Coles investigating ‘cybersecurity incident’ and apologises to customers",
+    "country": "Australia",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-16T00:25:13+00:00"
    },
    {
     "id": "b54b3cb89926",
@@ -393,6 +443,48 @@
     "time": "2026-11-15T05:31:38+00:00"
    }
   ],
+  "Latin America & Caribbean": [
+   {
+    "id": "c85f36c221ef",
+    "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+    "country": "Peru",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-16T01:52:12+00:00"
+   },
+   {
+    "id": "1dcc6a138e07",
+    "title": "Haitians welcome deployment of Salvadoran troops as gang violence rages on",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-15T11:01:51+00:00"
+   },
+   {
+    "id": "b81a60a934db",
+    "title": "Green forest fire notification in Brazil",
+    "country": "Brazil",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-15T08:19:39+00:00"
+   },
+   {
+    "id": "6c2149177f90",
+    "title": "M4.8 earthquake, 19 km NW of Albardón, Argentina",
+    "country": "Argentina",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-15T03:59:59.682000+00:00"
+   }
+  ],
   "Sub-Saharan Africa": [
    {
     "id": "f13e2bd9ea17",
@@ -423,16 +515,6 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-11-15T07:46:00+00:00"
-   },
-   {
-    "id": "2e8ef2ce7e77",
-    "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-15T00:06:55+00:00"
    }
   ],
   "South Asia": [
@@ -445,38 +527,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-15T16:15:20+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "1dcc6a138e07",
-    "title": "Haitians welcome deployment of Salvadoran troops as gang violence rages on",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-15T11:01:51+00:00"
-   },
-   {
-    "id": "b81a60a934db",
-    "title": "Green forest fire notification in Brazil",
-    "country": "Brazil",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T08:19:39+00:00"
-   },
-   {
-    "id": "6c2149177f90",
-    "title": "M4.8 earthquake, 19 km NW of Albardón, Argentina",
-    "country": "Argentina",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T03:59:59.682000+00:00"
    }
   ]
  }
