@@ -1,27 +1,69 @@
 {
- "generated": "2026-11-16T02:58:32.906233+00:00",
+ "generated": "2026-11-16T10:57:01.058001+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 35,
-  "3": 25,
-  "4": 1,
+  "2": 37,
+  "3": 22,
+  "4": 2,
   "5": 0
  },
  "watch_hits": [],
  "regions": {
-  "Middle East & N. Africa": [
+  "Sub-Saharan Africa": [
    {
-    "id": "09c2146e8f5c",
-    "title": "Three sentenced to death over Jordan church attack",
-    "country": "Jordan",
+    "id": "f0ed214f11ff",
+    "title": "Gunmen kill 17 in two separate shootings in South Africa",
+    "country": "South Africa",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-11-16T09:11:18+00:00"
+   },
+   {
+    "id": "033d525c91d9",
+    "title": "Mozambique's justice under scrutiny as Venancio Mondlane faces trial",
+    "country": "Mozambique",
     "city": null,
     "category": "terrorism",
     "severity": 4,
     "confidence": "B3",
-    "time": "2026-11-15T08:53:39+00:00"
+    "time": "2026-11-16T07:38:00+00:00"
    },
+   {
+    "id": "ab3785ba51de",
+    "title": "Green forest fire notification in Benin, Burkina Faso",
+    "country": "Benin",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-16T08:03:47+00:00"
+   },
+   {
+    "id": "f13e2bd9ea17",
+    "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-15T20:07:06+00:00"
+   },
+   {
+    "id": "6a5ad1a78952",
+    "title": "Green forest fire notification in Niger, Burkina Faso",
+    "country": "Niger",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-15T20:01:45+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
    {
     "id": "a9a98d87e45c",
     "title": "Iran targets US military base in Bahrain with drone attack",
@@ -41,6 +83,26 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-11-15T15:29:22+00:00"
+   },
+   {
+    "id": "70e280108189",
+    "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-16T09:31:36+00:00"
+   },
+   {
+    "id": "14ced83a959d",
+    "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-16T07:23:23+00:00"
    },
    {
     "id": "c1a79bd85b2b",
@@ -81,19 +143,19 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-15T12:21:25+00:00"
-   },
-   {
-    "id": "9309e0070f12",
-    "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
-    "country": "Bahrain",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-15T12:15:51+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "ddc1f12f2d7b",
+    "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-16T08:18:12+00:00"
+   },
    {
     "id": "66a2df88985b",
     "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
@@ -125,44 +187,126 @@
     "time": "2026-11-15T13:41:35.701000+00:00"
    },
    {
-    "id": "671bd3ba220e",
-    "title": "M5.0 earthquake, 256 km SSE of Ambon, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T20:51:56.298000+00:00"
-   },
-   {
-    "id": "beba19c61478",
-    "title": "M5.1 earthquake, 169 km NW of Gorontalo, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T15:41:14.978000+00:00"
-   },
-   {
-    "id": "4f1a20a297c5",
-    "title": "Green earthquake (Magnitude 5.5M, Depth:9.971km) in Philippines 15/11/2026 13:41 UTC, 30 thousand in MMI VI.",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T13:55:51+00:00"
-   },
-   {
-    "id": "46e993df72c7",
-    "title": "Protesters condemn US policies as ASEAN summit begins in Manila",
+    "id": "1072ac873332",
+    "title": "Trump not welcome : Manila erupts in protests ahead of US President Asean visit",
     "country": "Philippines",
     "city": "Manila",
     "category": "unrest",
     "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-16T08:15:00+00:00"
+   },
+   {
+    "id": "d6fd9103858a",
+    "title": "M5.0 earthquake, 68 km S of Sarangani, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-16T07:14:14.483000+00:00"
+   },
+   {
+    "id": "8abf3f9690e6",
+    "title": "M5.4 earthquake, 20 km NW of Anamizu, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-16T04:24:11.718000+00:00"
+   },
+   {
+    "id": "b1e033fb9a1f",
+    "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
+    "country": "Singapore",
+    "city": "Singapore",
+    "category": "hazard",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-15T09:49:43+00:00"
+    "time": "2026-11-16T04:11:53+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "f77f5ef07505",
+    "title": "General Staff: Russia has lost 1,625,420 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-16T07:09:59+00:00"
+   },
+   {
+    "id": "11062f2cdf9e",
+    "title": "Fuel depot in Azov, Russia reportedly in flames following Ukrainian drone attacks",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-16T04:48:49+00:00"
+   },
+   {
+    "id": "31c37d05bc82",
+    "title": "Ukrainian drone attacks 'neutralized' 55% of Russia's oil refining capacity, Zelensky says",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-15T23:30:24+00:00"
+   },
+   {
+    "id": "ec3701453c84",
+    "title": "'Fantastic female warrior' – Drone operator Rayana killed fighting Russian forces",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-15T16:44:37+00:00"
+   },
+   {
+    "id": "1bc41870cf07",
+    "title": "Ukrainian drones strike Russia's petrochemical capital in overnight assault",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-15T13:36:53+00:00"
+   },
+   {
+    "id": "dcb6c1601d0b",
+    "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
+    "country": "Czech Republic",
+    "city": "Prague",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-11-15T18:20:36+00:00"
+   },
+   {
+    "id": "fbacfc85e234",
+    "title": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
+    "country": "Estonia",
+    "city": "Tallinn",
+    "category": "transport",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-11-15T17:05:14+00:00"
+   },
+   {
+    "id": "f6e700f203e7",
+    "title": "Green flood alert in Croatia",
+    "country": "Croatia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-16T05:50:23+00:00"
    }
   ],
   "North America": [
@@ -217,88 +361,6 @@
     "time": "2026-11-15T22:48:31+00:00"
    }
   ],
-  "Eastern Europe": [
-   {
-    "id": "31c37d05bc82",
-    "title": "Ukrainian drone attacks 'neutralized' 55% of Russia's oil refining capacity, Zelensky says",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-15T23:30:24+00:00"
-   },
-   {
-    "id": "ec3701453c84",
-    "title": "'Fantastic female warrior' – Drone operator Rayana killed fighting Russian forces",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-15T16:44:37+00:00"
-   },
-   {
-    "id": "1bc41870cf07",
-    "title": "Ukrainian drones strike Russia's petrochemical capital in overnight assault",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-15T13:36:53+00:00"
-   },
-   {
-    "id": "12b6407de263",
-    "title": "General Staff: Russia has lost 1,622,860 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-15T07:52:18+00:00"
-   },
-   {
-    "id": "4e823b968415",
-    "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-15T06:22:32+00:00"
-   },
-   {
-    "id": "e4f166ff9d2b",
-    "title": "Drone attack kills 1, injures 4 in Russia's Rostov Oblast, governor says",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-15T05:55:31+00:00"
-   },
-   {
-    "id": "da506e6e32ac",
-    "title": "Fire reported at industrial facility in Russia's Tatarstan amid drone attack",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-15T03:23:36+00:00"
-   },
-   {
-    "id": "6d0aa4e0fe57",
-    "title": "Ukraine strikes major Russian petrochemical and oil refining plants, helicopter manufacturer, military confirms",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-15T03:23:36+00:00"
-   }
-  ],
   "Western Europe": [
    {
     "id": "6c7e8e954d7e",
@@ -319,6 +381,26 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-15T11:04:10+00:00"
+   },
+   {
+    "id": "49ca319926f1",
+    "title": "‘It’s like the 16th-century version of doomscrolling’: the Book of Miracles may fetch £1m at auction",
+    "country": "Italy",
+    "city": "Rome",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-16T07:00:38+00:00"
+   },
+   {
+    "id": "6cd5146e31ec",
+    "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-16T06:46:27+00:00"
    },
    {
     "id": "b8e27e88d5fc",
@@ -351,16 +433,6 @@
     "time": "2026-11-15T13:59:21+00:00"
    },
    {
-    "id": "d88042be693c",
-    "title": "Thousands in Portugal protest against surging rental prices",
-    "country": "Portugal",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-15T08:40:37+00:00"
-   },
-   {
     "id": "236407d57ce7",
     "title": "French Polynesia - Level 1: Exercise Normal Precautions",
     "country": "France",
@@ -371,79 +443,17 @@
     "time": "2026-12-02T00:00:00+00:00"
    }
   ],
-  "Oceania": [
-   {
-    "id": "76d5c8036c56",
-    "title": "M5.5 earthquake, Fiji region",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-15T05:15:02.697000+00:00"
-   },
-   {
-    "id": "18dbc78daa39",
-    "title": "Coles investigating ‘cybersecurity incident’ and apologises to customers",
-    "country": "Australia",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-16T00:25:13+00:00"
-   },
-   {
-    "id": "b54b3cb89926",
-    "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-    "country": "Australia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-15T22:28:02+00:00"
-   },
-   {
-    "id": "2035c7f39766",
-    "title": "Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
-    "country": "Cook Islands",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T08:51:43+00:00"
-   },
-   {
-    "id": "9d03a8b8a567",
-    "title": "Green notification for tropical cyclone XAVIER-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm).",
-    "country": "Cook Islands",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T08:51:43+00:00"
-   },
-   {
-    "id": "3034e8528608",
-    "title": "M4.7 earthquake, 92 km NW of Houma, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T07:36:37.211000+00:00"
-   },
-   {
-    "id": "8fa816d42373",
-    "title": "Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.",
-    "country": "Fiji",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T05:31:38+00:00"
-   }
-  ],
   "Latin America & Caribbean": [
+   {
+    "id": "d54baa010600",
+    "title": "Delaware hit by rare November tornado",
+    "country": "Argentina",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-16T09:27:06+00:00"
+   },
    {
     "id": "c85f36c221ef",
     "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
@@ -463,58 +473,28 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-11-15T11:01:51+00:00"
-   },
-   {
-    "id": "b81a60a934db",
-    "title": "Green forest fire notification in Brazil",
-    "country": "Brazil",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T08:19:39+00:00"
-   },
-   {
-    "id": "6c2149177f90",
-    "title": "M4.8 earthquake, 19 km NW of Albardón, Argentina",
-    "country": "Argentina",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T03:59:59.682000+00:00"
    }
   ],
-  "Sub-Saharan Africa": [
+  "Oceania": [
    {
-    "id": "f13e2bd9ea17",
-    "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
-    "country": "DRC",
+    "id": "18dbc78daa39",
+    "title": "Coles investigating ‘cybersecurity incident’ and apologises to customers",
+    "country": "Australia",
     "city": null,
-    "category": "health",
+    "category": "cyber",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-15T20:07:06+00:00"
+    "time": "2026-11-16T00:25:13+00:00"
    },
    {
-    "id": "6a5ad1a78952",
-    "title": "Green forest fire notification in Niger, Burkina Faso",
-    "country": "Niger",
+    "id": "b54b3cb89926",
+    "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+    "country": "Australia",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-15T20:01:45+00:00"
-   },
-   {
-    "id": "31e14fe47bc4",
-    "title": "DR Congo: Ebola-awareness campaigns conducted at schools in Bunia",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-15T07:46:00+00:00"
+    "confidence": "B3",
+    "time": "2026-11-15T22:28:02+00:00"
    }
   ],
   "South Asia": [
