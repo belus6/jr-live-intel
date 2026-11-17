@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-16T20:53:06.953989+00:00",
+ "generated": "2026-11-17T03:27:01.667821+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 36,
+  "2": 33,
   "3": 22,
-  "4": 6,
+  "4": 8,
   "5": 1
  },
  "watch_hits": [],
@@ -21,6 +21,46 @@
     "severity": 5,
     "confidence": "C4",
     "time": "2026-11-16T20:19:40+00:00"
+   },
+   {
+    "id": "9aaa236c4a7a",
+    "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-11-16T14:58:12+00:00"
+   },
+   {
+    "id": "9d68c91f751e",
+    "title": "European foreign ministers call on EU to crack down on Russian crypto networks",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-16T23:49:54+00:00"
+   },
+   {
+    "id": "5a2495a10d63",
+    "title": "Key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-16T22:20:30+00:00"
+   },
+   {
+    "id": "bb6771e80ded",
+    "title": "Zelensky warns of imminent Russian attacks, 'extremely dangerous' North Korean missile development",
+    "country": "Russia",
+    "city": "Moscow",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-16T21:27:18+00:00"
    },
    {
     "id": "ea404b9420c3",
@@ -43,16 +83,6 @@
     "time": "2026-11-16T16:31:22+00:00"
    },
    {
-    "id": "9aaa236c4a7a",
-    "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-16T14:58:12+00:00"
-   },
-   {
     "id": "65deb3a7f77d",
     "title": "French troops 'deployed in Ukraine on secret mission'",
     "country": "Ukraine",
@@ -61,36 +91,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-16T14:02:12+00:00"
-   },
-   {
-    "id": "63c456042860",
-    "title": "Russia says intercepted over 1,300 Ukrainian drones in a major attack",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-16T14:00:25+00:00"
-   },
-   {
-    "id": "f77f5ef07505",
-    "title": "General Staff: Russia has lost 1,625,420 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-16T07:09:59+00:00"
-   },
-   {
-    "id": "11062f2cdf9e",
-    "title": "Fuel depot in Azov, Russia reportedly in flames following Ukrainian drone attacks",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-16T04:48:49+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -125,6 +125,26 @@
     "time": "2026-11-16T07:38:00+00:00"
    },
    {
+    "id": "d8e4d703ab96",
+    "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-17T00:21:19+00:00"
+   },
+   {
+    "id": "cc9ec41b52df",
+    "title": "OIF, violence in South Africa and Ebola in the DRC: your news roundup [Africanews Today]",
+    "country": "South Africa",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-16T21:23:02+00:00"
+   },
+   {
     "id": "aa5765c60608",
     "title": "Green forest fire notification in Central African Republic, Chad",
     "country": "CAR",
@@ -153,32 +173,104 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-16T13:30:33.980000+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "9a91a8cdae30",
+    "title": "M6.6 earthquake, 148 km WSW of Tual, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-11-16T21:11:20.515000+00:00"
    },
    {
-    "id": "584cab1669c2",
-    "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
-    "country": "South Africa",
-    "city": "Cape Town",
-    "category": "unrest",
-    "severity": 2,
+    "id": "edd8c4024be1",
+    "title": "Musk among more than 150,000 calling for Jensen Huang's return to Nvidia",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-16T10:19:08+00:00"
+    "time": "2026-11-16T14:03:14+00:00"
    },
    {
-    "id": "ab3785ba51de",
-    "title": "Green forest fire notification in Benin, Burkina Faso",
-    "country": "Benin",
+    "id": "ddc1f12f2d7b",
+    "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-16T08:18:12+00:00"
+   },
+   {
+    "id": "63ed9d90005e",
+    "title": "Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.",
+    "country": "Indonesia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-16T08:03:47+00:00"
+    "time": "2026-11-16T21:26:52+00:00"
+   },
+   {
+    "id": "1e9ca3dfcad3",
+    "title": "M4.6 earthquake, 144 km NW of Kavieng, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-16T19:33:00.666000+00:00"
+   },
+   {
+    "id": "1072ac873332",
+    "title": "Trump not welcome : Manila erupts in protests ahead of US President Asean visit",
+    "country": "Philippines",
+    "city": "Manila",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-16T08:15:00+00:00"
+   },
+   {
+    "id": "d6fd9103858a",
+    "title": "M5.0 earthquake, 68 km S of Sarangani, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-16T07:14:14.483000+00:00"
+   },
+   {
+    "id": "8abf3f9690e6",
+    "title": "M5.4 earthquake, 20 km NW of Anamizu, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-16T04:24:11.718000+00:00"
    }
   ],
   "South Asia": [
    {
     "id": "d2af8b2cd4bf",
     "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (20.826 million in Tropical Storm).",
+    "country": "India",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-11-16T20:06:39+00:00"
+   },
+   {
+    "id": "373228ab58a2",
+    "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (16.134 million in Tropical Storm).",
     "country": "India",
     "city": null,
     "category": "hazard",
@@ -229,6 +321,16 @@
     "time": "2026-11-16T13:54:49+00:00"
    },
    {
+    "id": "61ec96c38a55",
+    "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-16T21:13:02+00:00"
+   },
+   {
     "id": "92a176f124f0",
     "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
     "country": "Saudi Arabia",
@@ -277,185 +379,51 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-16T11:09:38+00:00"
-   },
-   {
-    "id": "eb9723ca675f",
-    "title": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
-    "country": "Israel",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-16T11:00:56+00:00"
    }
   ],
-  "East & SE Asia": [
+  "Oceania": [
    {
-    "id": "edd8c4024be1",
-    "title": "Musk among more than 150,000 calling for Jensen Huang's return to Nvidia",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-16T14:03:14+00:00"
-   },
-   {
-    "id": "ddc1f12f2d7b",
-    "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-16T08:18:12+00:00"
-   },
-   {
-    "id": "66a2df88985b",
-    "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-16T01:01:08+00:00"
-   },
-   {
-    "id": "f6ae7b908633",
-    "title": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-15T23:31:15+00:00"
-   },
-   {
-    "id": "1072ac873332",
-    "title": "Trump not welcome : Manila erupts in protests ahead of US President Asean visit",
-    "country": "Philippines",
-    "city": "Manila",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-16T08:15:00+00:00"
-   },
-   {
-    "id": "d6fd9103858a",
-    "title": "M5.0 earthquake, 68 km S of Sarangani, Philippines",
-    "country": "Philippines",
+    "id": "855c8492e166",
+    "title": "M5.0 earthquake, 137 km SSE of Kirakira, Solomon Islands",
+    "country": "Solomon Islands",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-16T07:14:14.483000+00:00"
+    "time": "2026-11-17T02:00:17.654000+00:00"
    },
    {
-    "id": "8abf3f9690e6",
-    "title": "M5.4 earthquake, 20 km NW of Anamizu, Japan",
-    "country": "Japan",
+    "id": "29fecd36605e",
+    "title": "M4.6 earthquake, 146 km SSE of Isangel, Vanuatu",
+    "country": "Vanuatu",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-16T04:24:11.718000+00:00"
-   },
-   {
-    "id": "b1e033fb9a1f",
-    "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
-    "country": "Singapore",
-    "city": "Singapore",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-16T04:11:53+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "705755eb971d",
-    "title": "Huge waves pummel California coast, forcing closure of popular piers",
-    "country": "United States",
-    "city": "San Francisco",
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-16T01:00:42+00:00"
-   },
-   {
-    "id": "abfd6ca878fe",
-    "title": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
-    "country": "United States",
-    "city": "Minneapolis",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-15T21:10:38+00:00"
-   },
-   {
-    "id": "16c5f6c77d5d",
-    "title": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies age 80",
-    "country": "Mexico",
-    "city": "Guadalajara",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-11-15T22:48:31+00:00"
-   },
-   {
-    "id": "95c1e918e201",
-    "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
-    "country": "Mexico",
-    "city": "Guadalajara",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-16T00:51:23+00:00"
-   },
-   {
-    "id": "76efb994bcbd",
-    "title": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies aged 80",
-    "country": "Mexico",
-    "city": "Guadalajara",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-15T22:48:31+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "233fcad42e7d",
-    "title": "M5.4 earthquake, 95 km WSW of Changuillo, Peru",
-    "country": "Peru",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-16T16:16:45.265000+00:00"
-   },
-   {
-    "id": "d54baa010600",
-    "title": "Delaware hit by rare November tornado",
-    "country": "Argentina",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-16T09:27:06+00:00"
-   },
-   {
-    "id": "c85f36c221ef",
-    "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
-    "country": "Peru",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-16T01:52:12+00:00"
+    "time": "2026-11-16T21:55:58.945000+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "610e4da0a9ef",
+    "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
+    "country": "Ireland",
+    "city": "Dublin",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-17T01:19:56+00:00"
+   },
+   {
+    "id": "6b9b85a0d952",
+    "title": "Trump says he needs funding for air traffic control after ground stop",
+    "country": "France",
+    "city": null,
+    "category": "transport",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-16T22:01:19+00:00"
+   },
    {
     "id": "7acc14c70bea",
     "title": "Verdict due in French trial over triple murder linked to Marseille drug wars",
@@ -487,16 +455,6 @@
     "time": "2026-11-16T06:46:27+00:00"
    },
    {
-    "id": "b8e27e88d5fc",
-    "title": "Police ban protests near 10 schools and five universities in Paris",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-15T22:28:54+00:00"
-   },
-   {
     "id": "236407d57ce7",
     "title": "French Polynesia - Level 1: Exercise Normal Precautions",
     "country": "France",
@@ -507,26 +465,48 @@
     "time": "2026-12-02T00:00:00+00:00"
    }
   ],
-  "Oceania": [
+  "North America": [
    {
-    "id": "18dbc78daa39",
-    "title": "Coles investigating ‘cybersecurity incident’ and apologises to customers",
-    "country": "Australia",
+    "id": "0f508da2526c",
+    "title": "Chase outage disrupts online banking and Zelle payments in United States",
+    "country": "United States",
     "city": null,
     "category": "cyber",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-16T00:25:13+00:00"
+    "time": "2026-11-16T22:40:51+00:00"
    },
    {
-    "id": "b54b3cb89926",
-    "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-    "country": "Australia",
+    "id": "ff74f59a3f32",
+    "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
+    "country": "United States",
+    "city": "New York",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-16T21:16:02+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "233fcad42e7d",
+    "title": "M5.4 earthquake, 95 km WSW of Changuillo, Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-16T16:16:45.265000+00:00"
+   },
+   {
+    "id": "d54baa010600",
+    "title": "Delaware hit by rare November tornado",
+    "country": "Argentina",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-15T22:28:02+00:00"
+    "time": "2026-11-16T09:27:06+00:00"
    }
   ]
  }
