@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-18T02:56:32.200577+00:00",
+ "generated": "2026-11-18T11:22:03.710464+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 54,
-  "3": 33,
-  "4": 5,
+  "2": 55,
+  "3": 35,
+  "4": 7,
   "5": 3
  },
  "watch_hits": [],
@@ -23,14 +23,34 @@
     "time": "2026-11-18T01:47:34+00:00"
    },
    {
-    "id": "cdc49f7c093a",
-    "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+    "id": "7648366f9fe1",
+    "title": "Evacuations on the rise in eastern Ukraine as fighting intensifies",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-18T10:48:14+00:00"
+   },
+   {
+    "id": "e2ff686148e2",
+    "title": "General Staff: Russia has lost 1,629,010 troops in Ukraine since Feb. 24, 2022",
     "country": "Ukraine",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-17T09:50:45+00:00"
+    "confidence": "C4",
+    "time": "2026-11-18T07:21:01+00:00"
+   },
+   {
+    "id": "00fc74c33388",
+    "title": "2 Russian oil refineries reportedly targeted in overnight drone attack on Krasnodar Krai",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-18T04:56:50+00:00"
    },
    {
     "id": "88b270ffa900",
@@ -71,26 +91,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-17T16:56:38+00:00"
-   },
-   {
-    "id": "81ad30462b13",
-    "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-17T16:40:26+00:00"
-   },
-   {
-    "id": "2e4f1d773968",
-    "title": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-17T16:40:21+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -145,34 +145,116 @@
     "time": "2026-11-17T15:43:00+00:00"
    },
    {
-    "id": "c9196f48c560",
-    "title": "GIEWS Country Brief: Côte d'Ivoire, 16-November-2026",
-    "country": "Cote d'Ivoire",
-    "city": "Abidjan",
+    "id": "350d2502f5c1",
+    "title": "World: MSF calls for stronger AMR response to protect people affected by conflict",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "category": "health",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-18T11:14:38+00:00"
+   },
+   {
+    "id": "8533151e7653",
+    "title": "DR Congo: Compte rendu de la réunion mensuelle du mois d'octobre 2026",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-18T09:37:12+00:00"
+   },
+   {
+    "id": "eb963c928f9b",
+    "title": "Green forest fire notification in South Africa",
+    "country": "South Africa",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-18T08:01:31+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "8241e8c7111a",
+    "title": "Drone strikes in Sudan leave children with nowhere to escape as conflict worsens",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-11-18T11:19:27+00:00"
+   },
+   {
+    "id": "842d63214596",
+    "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+    "country": "Yemen",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-17T16:53:25+00:00"
+   },
+   {
+    "id": "12dfe261cba2",
+    "title": "Democrats’ Peltola ahead as counting nears end in Alaska Senate race – US politics live",
+    "country": "Iran",
+    "city": null,
     "category": "unrest",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-18T01:24:57+00:00"
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-17T11:50:09+00:00"
    },
    {
-    "id": "e9d6d604e289",
-    "title": "Green forest fire notification in Ghana, Burkina Faso",
-    "country": "Ghana",
+    "id": "ed9e162685d7",
+    "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+    "country": "Iran",
     "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-17T20:08:20+00:00"
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-18T00:00:27+00:00"
    },
    {
-    "id": "58a52fbd7818",
-    "title": "Green forest fire notification in Benin",
-    "country": "Benin",
+    "id": "e2dd4d3edca4",
+    "title": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
+    "country": "Iran",
     "city": null,
-    "category": "hazard",
-    "severity": 2,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-18T10:38:13+00:00"
+   },
+   {
+    "id": "87b6c878a680",
+    "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-18T09:58:28+00:00"
+   },
+   {
+    "id": "ec8faa280f04",
+    "title": "At least 64 children killed and 64 injured in Yemen as intensified hostilities approach three-month mark",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
     "confidence": "A1",
-    "time": "2026-11-17T20:08:12+00:00"
+    "time": "2026-11-18T09:03:06+00:00"
+   },
+   {
+    "id": "c9aba0910f9b",
+    "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-18T01:07:01+00:00"
    }
   ],
   "Western Europe": [
@@ -185,6 +267,26 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-17T20:30:57+00:00"
+   },
+   {
+    "id": "0567c9d999fc",
+    "title": "2025 Annual Report: Libya: Division Entrenches Violations and Undermines Accountability [EN/AR]",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-18T09:21:34+00:00"
+   },
+   {
+    "id": "7cd9a9176e0e",
+    "title": "Italy approves anti-semitism law despite concerns over freedom of expression",
+    "country": "Italy",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-18T07:37:42+00:00"
    },
    {
     "id": "34274b164ee3",
@@ -217,26 +319,6 @@
     "time": "2026-11-17T16:21:09+00:00"
    },
    {
-    "id": "44faea3b186a",
-    "title": "French presidential debate: 'Le Pen exposed xenophobic and authoritarian aspects of her policies'",
-    "country": "France",
-    "city": "Paris",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-17T11:20:47+00:00"
-   },
-   {
-    "id": "d6d8da39ed3e",
-    "title": "Germany pledges $300 million for Ukraine weapons to put Putin 'in his place'",
-    "country": "Germany",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-17T10:06:34+00:00"
-   },
-   {
     "id": "8ff2f5a50ea6",
     "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
     "country": "United Kingdom",
@@ -257,88 +339,6 @@
     "time": "2026-11-17T19:09:49+00:00"
    }
   ],
-  "Middle East & N. Africa": [
-   {
-    "id": "842d63214596",
-    "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
-    "country": "Yemen",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-17T16:53:25+00:00"
-   },
-   {
-    "id": "12dfe261cba2",
-    "title": "Democrats’ Peltola ahead as counting nears end in Alaska Senate race – US politics live",
-    "country": "Iran",
-    "city": null,
-    "category": "unrest",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-17T11:50:09+00:00"
-   },
-   {
-    "id": "ed9e162685d7",
-    "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
-    "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-18T00:00:27+00:00"
-   },
-   {
-    "id": "c9aba0910f9b",
-    "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-18T01:07:01+00:00"
-   },
-   {
-    "id": "638e8018bdd1",
-    "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-    "country": "Kuwait",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-17T23:38:38+00:00"
-   },
-   {
-    "id": "bce46817c8d7",
-    "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-    "country": "Kuwait",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-17T21:14:31+00:00"
-   },
-   {
-    "id": "9ab86e9c4dfb",
-    "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-    "country": "Palestine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-17T10:47:18+00:00"
-   },
-   {
-    "id": "b643c382de45",
-    "title": "Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain",
-    "country": "Iran",
-    "city": "Tehran",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-17T10:46:27+00:00"
-   }
-  ],
   "Latin America & Caribbean": [
    {
     "id": "f2df701a703e",
@@ -357,8 +357,28 @@
     "city": "Salvador",
     "category": "conflict",
     "severity": 3,
-    "confidence": "B3",
+    "confidence": "B2",
     "time": "2026-11-18T02:42:21+00:00"
+   },
+   {
+    "id": "e578c218c8ff",
+    "title": "Photos: Thousands march in Haiti in support of Salvadoran troops",
+    "country": "Haiti",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-18T09:23:38+00:00"
+   },
+   {
+    "id": "b2334593f426",
+    "title": "M5.9 earthquake, 85 km WNW of San Juan, Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-18T06:07:42.780000+00:00"
    },
    {
     "id": "9b4c04ef7423",
@@ -381,37 +401,37 @@
     "time": "2026-11-17T21:40:56+00:00"
    },
    {
-    "id": "e2ee9d3a4f3c",
-    "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+    "id": "7ec524a38823",
+    "title": "Venezuela",
+    "country": "Venezuela",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-18T11:13:15+00:00"
+   },
+   {
+    "id": "9a78149ab219",
+    "title": "Haitians rally in celebration of El Salvador’s anti-gang troop deployment",
     "country": "Brazil",
     "city": "Salvador",
     "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-17T23:09:00+00:00"
-   },
-   {
-    "id": "70b24d6e9120",
-    "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-17T12:00:00+00:00"
-   },
-   {
-    "id": "0a88f9786f62",
-    "title": "Level 2 - Malaria in Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-17T05:00:00+00:00"
+    "time": "2026-11-18T08:53:15+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "77d109c38bc8",
+    "title": "Sandpapergate: Cricket Australia to open forum for players, rules out probe",
+    "country": "Australia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-18T09:18:37+00:00"
+   },
    {
     "id": "a58f7f813a26",
     "title": "Australia sanctions individuals and company involved in illegal West Bank settlements",
@@ -423,6 +443,16 @@
     "time": "2026-11-17T20:20:31+00:00"
    },
    {
+    "id": "3db4c67c1af8",
+    "title": "Vanuatu Pertussis Outbreak in Penama Province, Vanuatu: Situation Report 7 - 16-Nov-26",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-18T07:48:34+00:00"
+   },
+   {
     "id": "c6009564da39",
     "title": "M4.5 earthquake, 26 km NW of Port-Vila, Vanuatu",
     "country": "Vanuatu",
@@ -431,29 +461,29 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-17T18:15:19.134000+00:00"
-   },
-   {
-    "id": "220b8afdb692",
-    "title": "M4.9 earthquake, 43 km NW of Oxford, New Zealand",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-17T10:30:48.773000+00:00"
-   },
-   {
-    "id": "4bef10e92204",
-    "title": "M4.9 earthquake, 26 km E of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-17T03:52:32.360000+00:00"
    }
   ],
   "East & SE Asia": [
+   {
+    "id": "c64ae5bd9cf5",
+    "title": "M5.8 earthquake, 99 km ESE of Madang, Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-18T03:42:34.269000+00:00"
+   },
+   {
+    "id": "2be4cb21db46",
+    "title": "M4.8 earthquake, 134 km ENE of Nabire, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-18T03:23:58.023000+00:00"
+   },
    {
     "id": "09f39eb0d3eb",
     "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
@@ -475,67 +505,77 @@
     "time": "2026-11-17T14:53:00+00:00"
    },
    {
-    "id": "7edcb4540a17",
-    "title": "Calls for cooperation as ASEAN summit awaits Trump",
-    "country": "Philippines",
+    "id": "ea8103001c2d",
+    "title": "M5.2 earthquake, 86 km NW of Ryōtsu-minato, Japan",
+    "country": "Japan",
     "city": null,
-    "category": "unrest",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-17T15:37:28+00:00"
+    "confidence": "A1",
+    "time": "2026-11-18T09:37:00.617000+00:00"
    },
    {
-    "id": "962fefb18b9e",
-    "title": "M4.5 earthquake, 95 km W of Alotau, Papua New Guinea",
+    "id": "1ff933fc0040",
+    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 18/11/2026 04:41 UTC, 6 thousand (in MMI>=VII).",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-18T04:57:51+00:00"
+   },
+   {
+    "id": "530cda1d3245",
+    "title": "M5.2 earthquake, 54 km NNE of Ruteng, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-18T04:21:35.658000+00:00"
+   },
+   {
+    "id": "6746b8068f68",
+    "title": "Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.",
     "country": "Papua New Guinea",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-17T12:26:16.641000+00:00"
-   },
+    "time": "2026-11-18T03:56:50+00:00"
+   }
+  ],
+  "North America": [
    {
-    "id": "9d6740f924ee",
-    "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-    "country": "Philippines",
-    "city": "Manila",
-    "category": "unrest",
+    "id": "55335c026634",
+    "title": "Gun control activist faces long recovery after Washington DC mass shooting",
+    "country": "United States",
+    "city": null,
+    "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-17T11:00:39+00:00"
+    "time": "2026-11-18T11:00:57+00:00"
    },
    {
-    "id": "d22b0a55defe",
-    "title": "M4.9 earthquake, 173 km ENE of Noda, Japan",
-    "country": "Japan",
+    "id": "785d7d4bef0e",
+    "title": "US loses measles-free status as cases soar",
+    "country": "United States",
     "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-17T10:32:58.639000+00:00"
-   },
-   {
-    "id": "d3e2e3bbbae3",
-    "title": "Trump arrives in Philippines to kick off Asia trip",
-    "country": "Philippines",
-    "city": null,
-    "category": "unrest",
+    "category": "health",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-17T10:21:23+00:00"
+    "time": "2026-11-18T10:50:41+00:00"
    },
    {
-    "id": "156f3560d091",
-    "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-    "country": "Japan",
+    "id": "b37319bbabf5",
+    "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
+    "country": "United States",
     "city": null,
     "category": "transport",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-17T07:44:17+00:00"
-   }
-  ],
-  "North America": [
+    "time": "2026-11-18T06:26:49+00:00"
+   },
    {
     "id": "d3eb1d9595c1",
     "title": "Afghanistan Development Update: Water for Recovery and Sustainability (November 2026)",
@@ -565,38 +605,18 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-17T21:00:49+00:00"
-   },
-   {
-    "id": "b148a2816df9",
-    "title": "New Orleans police arrest teen over beating death of homeless man ‘unable to defend himself’",
-    "country": "United States",
-    "city": "New Orleans",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-17T11:00:34+00:00"
    }
   ],
-  "South Asia": [
+  "Central Asia": [
    {
-    "id": "0c1185a1fc4d",
-    "title": "Bangladesh police clash with garment workers amid protests over wages",
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-17T11:06:12+00:00"
-   },
-   {
-    "id": "d993e985a7d0",
-    "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-    "country": "India",
+    "id": "735f12d4ba91",
+    "title": "M5.3 earthquake, 7 km SE of Karakenja, Tajikistan",
+    "country": "Tajikistan",
     "city": null,
-    "category": "crime",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-17T09:27:44+00:00"
+    "confidence": "A1",
+    "time": "2026-11-18T00:46:31.418000+00:00"
    }
   ]
  }

@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-18T02:56:32.200577+00:00",
+ "generated": "2026-11-18T11:22:03.710464+00:00",
  "sample": false,
- "count": 401,
+ "count": 409,
  "events": [
   {
    "title": "Ukraine: Protection of Civilians in Armed Conflict - October 2026",
@@ -113,34 +113,6 @@
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "DR Congo: At least 44 dead in attack by Islamic State-linked gunmen",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/11/14/dr-congo-at-least-44-dead-in-attack-by-islamic-state-linked-gunmen/",
-   "time": "2026-11-14T08:45:12+00:00",
-   "tier": "C",
-   "category": "terrorism",
-   "country": "DRC",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/11/14/dr-congo-at-least-44-dead-in-attack-by-islamic-state-linked-gunmen/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-14T15:21:46.768022+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "61724d4de84e",
-   "flag": "🇨🇩",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.69,
    "watch": []
   },
   {
@@ -284,6 +256,62 @@
    "watch": [
     "Field staff, Lebanon"
    ]
+  },
+  {
+   "title": "Drone strikes in Sudan leave children with nowhere to escape as conflict worsens",
+   "summary": "Country: Sudan Source: World Vision More than 800 civilians, including children, have been killed with nearly 100,000 in Blue Nile displaced This month 25 strikes have been recorded in 11 states, with hospitals, power stations, markets and homes all being targeted World Vision calls on all sides to stop killing children and let essential aid flow Drone strikes are killing hundreds of people in Sud",
+   "url": "https://reliefweb.int/report/sudan/drone-strikes-sudan-leave-children-nowhere-escape-conflict-worsens",
+   "time": "2026-11-18T11:19:27+00:00",
+   "tier": "A",
+   "category": "conflict",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/sudan/drone-strikes-sudan-leave-children-nowhere-escape-conflict-worsens",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "8241e8c7111a",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
+   "title": "Evacuations on the rise in eastern Ukraine as fighting intensifies",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261118-evacuations-on-the-rise-in-eastern-ukraine-as-fighting-intensifies",
+   "time": "2026-11-18T10:48:14+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261118-evacuations-on-the-rise-in-eastern-ukraine-as-fighting-intensifies",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7648366f9fe1",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
   },
   {
    "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
@@ -599,6 +627,34 @@
    "watch": []
   },
   {
+   "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (14.328 million in Tropical Storm).",
+   "summary": "From 16/11/2026 to 18/11/2026, a Tropical Storm (maximum wind speed of 83 km/h) AKVAN-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0 (14.328 million in tropical storm).",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001351",
+   "time": "2026-11-16T20:06:39+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "India",
+   "city": null,
+   "lat": 13.1,
+   "lon": 86.9,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001351",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "ad7a43af2d9b",
+   "flag": "🇮🇳",
+   "region": "South Asia",
+   "baseline": 2.54,
+   "watch": []
+  },
+  {
    "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
    "summary": "",
    "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
@@ -677,44 +733,6 @@
    "confidence": "C4",
    "corroboration": 1,
    "id": "9b494e9670e4",
-   "flag": "🇿🇦",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.02,
-   "watch": []
-  },
-  {
-   "title": "Two mass shootings in South Africa leave 17 dead",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-11-16T10:57:48+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "South Africa",
-   "city": "Pretoria",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    },
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/11/16/17-killed-in-two-deadly-shootings-as-south-africa-battles-rising-violent-crime/",
-     "tier": "C"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-16T20:53:06.953989+00:00",
-   "confidence": "B1",
-   "corroboration": 3,
-   "id": "2faafb96aba9",
    "flag": "🇿🇦",
    "region": "Sub-Saharan Africa",
    "baseline": 3.02,
@@ -802,34 +820,6 @@
    "flag": "🇯🇴",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
-   "watch": []
-  },
-  {
-   "title": "Burkina Faso issues arrest warrants for around 20 people, including journalists",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/11/14/burkina-faso-issues-arrest-warrants-for-around-20-people/",
-   "time": "2026-11-14T10:51:15+00:00",
-   "tier": "C",
-   "category": "terrorism",
-   "country": "Burkina Faso",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/11/14/burkina-faso-issues-arrest-warrants-for-around-20-people/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-14T15:21:46.768022+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "382293bc9dcc",
-   "flag": "🇧🇫",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.62,
    "watch": []
   },
   {
@@ -1113,6 +1103,342 @@
    "watch": []
   },
   {
+   "title": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
+   "time": "2026-11-18T10:38:13+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Iran",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e2dd4d3edca4",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+   "time": "2026-11-18T09:58:28+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Israel",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "87b6c878a680",
+   "flag": "🇮🇱",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Photos: Thousands march in Haiti in support of Salvadoran troops",
+   "summary": "",
+   "url": "https://www.aljazeera.com/gallery/2026/11/18/photos-thousands-march-in-haiti-in-support-of-salvadoran-troops?traffic_source=rss",
+   "time": "2026-11-18T09:23:38+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Haiti",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/gallery/2026/11/18/photos-thousands-march-in-haiti-in-support-of-salvadoran-troops?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e578c218c8ff",
+   "flag": "🇭🇹",
+   "region": "Latin America & Caribbean",
+   "baseline": 4.53,
+   "watch": []
+  },
+  {
+   "title": "2025 Annual Report: Libya: Division Entrenches Violations and Undermines Accountability [EN/AR]",
+   "summary": "Country: Libya Source: Libya Crimes Watch Please refer to the attached files. Libya Crimes Watch Issues Its 2025 Annual Report London, 8 April 2026 — Libya Crimes Watch (LCW) has published its 2025 Annual Report, entitled “ LIBYA: DIVISION ENTRENCHES VIOLATIONS AND UNDERMINES ACCOUNTABILITY “, documenting the continued and escalating grave human rights violations and international crimes occurring",
+   "url": "https://reliefweb.int/report/libya/2025-annual-report-libya-division-entrenches-violations-and-undermines-accountability-enar",
+   "time": "2026-11-18T09:21:34+00:00",
+   "tier": "A",
+   "category": "conflict",
+   "country": "United Kingdom",
+   "city": "London",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/libya/2025-annual-report-libya-division-entrenches-violations-and-undermines-accountability-enar",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "0567c9d999fc",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "Sandpapergate: Cricket Australia to open forum for players, rules out probe",
+   "summary": "",
+   "url": "https://www.aljazeera.com/sports/2026/11/18/sandpapergate-cricket-australia-to-open-forum-for-players-rules-out-probe?traffic_source=rss",
+   "time": "2026-11-18T09:18:37+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Australia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/18/sandpapergate-cricket-australia-to-open-forum-for-players-rules-out-probe?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "77d109c38bc8",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "At least 64 children killed and 64 injured in Yemen as intensified hostilities approach three-month mark",
+   "summary": "Country: Yemen Source: UN Children's Fund NEW YORK, 18 November 2026 – At least 64 children have been killed and 64 injured in Yemen since hostilities escalated on 3 September. The number of casualties is likely to increase as renewed fighting continues around densely populated areas, particularly in Taiz and Lahj. “The rising number of children killed and injured in Yemen is devastating. It must ",
+   "url": "https://reliefweb.int/report/yemen/least-64-children-killed-and-64-injured-yemen-intensified-hostilities-approach-three-month-mark",
+   "time": "2026-11-18T09:03:06+00:00",
+   "tier": "A",
+   "category": "conflict",
+   "country": "Yemen",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/yemen/least-64-children-killed-and-64-injured-yemen-intensified-hostilities-approach-three-month-mark",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "ec8faa280f04",
+   "flag": "🇾🇪",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.84,
+   "watch": []
+  },
+  {
+   "title": "Italy approves anti-semitism law despite concerns over freedom of expression",
+   "summary": "",
+   "url": "https://www.france24.com/en/europe/20261118-italy-approves-anti-semitism-law-despite-concerns-over-freedom-of-expression",
+   "time": "2026-11-18T07:37:42+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Italy",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261118-italy-approves-anti-semitism-law-despite-concerns-over-freedom-of-expression",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "7cd9a9176e0e",
+   "flag": "🇮🇹",
+   "region": "Western Europe",
+   "baseline": 1.48,
+   "watch": []
+  },
+  {
+   "title": "General Staff: Russia has lost 1,629,010 troops in Ukraine since Feb. 24, 2022",
+   "summary": "",
+   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-629-010-troops-in-ukraine-since-feb-24-2022/",
+   "time": "2026-11-18T07:21:01+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-629-010-troops-in-ukraine-since-feb-24-2022/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "e2ff686148e2",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "M5.9 earthquake, 85 km WNW of San Juan, Peru",
+   "summary": "Depth 22 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy8",
+   "time": "2026-11-18T06:07:42.780000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Peru",
+   "city": null,
+   "lat": -15.1438,
+   "lon": -75.9238,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy8",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "b2334593f426",
+   "flag": "🇵🇪",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "2 Russian oil refineries reportedly targeted in overnight drone attack on Krasnodar Krai",
+   "summary": "",
+   "url": "https://kyivindependent.com/2-russian-oil-refineries-reportedly-targeted-in-overnight-drone-attack-on-krasnodar-krai/",
+   "time": "2026-11-18T04:56:50+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/2-russian-oil-refineries-reportedly-targeted-in-overnight-drone-attack-on-krasnodar-krai/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "00fc74c33388",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "M5.8 earthquake, 99 km ESE of Madang, Papua New Guinea",
+   "summary": "Depth 52 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2",
+   "time": "2026-11-18T03:42:34.269000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -5.7009,
+   "lon": 146.5479,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "c64ae5bd9cf5",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
+   "watch": []
+  },
+  {
+   "title": "M4.8 earthquake, 134 km ENE of Nabire, Indonesia",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywx",
+   "time": "2026-11-18T03:23:58.023000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -2.9907,
+   "lon": 136.6576,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywx",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "2be4cb21db46",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
    "title": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
    "summary": "",
    "url": "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
@@ -1129,11 +1455,16 @@
      "name": "France 24",
      "url": "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
      "tier": "B"
+    },
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/11/18/haitians-demonstrate-in-support-of-el-salvadors-bukele-and-anti-gang-troops/",
+     "tier": "C"
     }
    ],
    "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
+   "confidence": "B2",
+   "corroboration": 2,
    "id": "864a43b287ac",
    "flag": "🇧🇷",
    "region": "Latin America & Caribbean",
@@ -1451,6 +1782,34 @@
    "flag": "🇦🇺",
    "region": "Oceania",
    "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "‘Godmother’ of illegal Israeli West Bank settler project Daniella Weiss among group sanctioned by Australia",
+   "summary": "",
+   "url": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
+   "time": "2026-11-17T20:20:31+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Palestine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "a574d176a639",
+   "flag": "🇵🇸",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.42,
    "watch": []
   },
   {
@@ -3263,146 +3622,6 @@
    "watch": []
   },
   {
-   "title": "Police confront protesters in clashes across France and Germany",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
-   "time": "2026-11-15T11:04:10+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-15T12:46:13.930318+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "40532341a387",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
-   "summary": "",
-   "url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
-   "time": "2026-11-15T09:59:37+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Sudan",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-15T12:46:13.930318+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b57e498d2917",
-   "flag": "🇸🇩",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "General Staff: Russia has lost 1,622,860 troops in Ukraine since Feb. 24, 2022",
-   "summary": "",
-   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-622-860-troops-in-ukraine-since-feb-24-2022/",
-   "time": "2026-11-15T07:52:18+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-622-860-troops-in-ukraine-since-feb-24-2022/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-15T12:46:13.930318+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "12b6407de263",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-   "time": "2026-11-15T06:22:32+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-15T12:46:13.930318+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "4e823b968415",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Drone attack kills 1, injures 4 in Russia's Rostov Oblast, governor says",
-   "summary": "",
-   "url": "https://kyivindependent.com/drone-attack-kills-1-injures-4-in-russias-rostov-oblast-governor-says/",
-   "time": "2026-11-15T05:55:31+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/drone-attack-kills-1-injures-4-in-russias-rostov-oblast-governor-says/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-15T12:46:13.930318+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "e4f166ff9d2b",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
    "title": "M5.5 earthquake, Fiji region",
    "summary": "Depth 470 km. Alert: green.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
@@ -3428,90 +3647,6 @@
    "flag": "🇫🇯",
    "region": "Oceania",
    "baseline": 2.12,
-   "watch": []
-  },
-  {
-   "title": "Fire reported at industrial facility in Russia's Tatarstan amid drone attack",
-   "summary": "",
-   "url": "https://kyivindependent.com/fire-reported-at-industrial-facility-in-russias-tatarstan-amid-drone-attack/",
-   "time": "2026-11-15T03:23:36+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/fire-reported-at-industrial-facility-in-russias-tatarstan-amid-drone-attack/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-15T05:11:54.606223+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "da506e6e32ac",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Ukraine strikes major Russian petrochemical and oil refining plants, helicopter manufacturer, military confirms",
-   "summary": "",
-   "url": "https://kyivindependent.com/fire-reported-at-industrial-facility-in-russias-tatarstan-amid-drone-attack/",
-   "time": "2026-11-15T03:23:36+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/fire-reported-at-industrial-facility-in-russias-tatarstan-amid-drone-attack/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-15T12:46:13.930318+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "6d0aa4e0fe57",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-   "time": "2026-11-15T02:59:06+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Saudi Arabia",
-   "city": "Riyadh",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-15T05:11:54.606223+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "5b66c76b929c",
-   "flag": "🇸🇦",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
    "watch": []
   },
   {
@@ -3708,34 +3843,6 @@
    "flag": "🇫🇷",
    "region": "Western Europe",
    "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 86 km NNE of Lagunas, Peru",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txza",
-   "time": "2026-11-13T10:55:12.777000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Peru",
-   "city": null,
-   "lat": -4.5227,
-   "lon": -75.3275,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txza",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-13T21:39:18.339057+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "58fd5cd02abf",
-   "flag": "🇵🇪",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.89,
    "watch": []
   },
   {
@@ -4596,62 +4703,6 @@
    "watch": []
   },
   {
-   "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
-   "time": "2026-11-11T09:11:31+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "United States",
-   "city": "New York",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-11T16:29:42.525065+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "64dca5544525",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "US Treasury chief Scott Bessent moves to military base after Iranian threats",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
-   "time": "2026-11-11T08:09:34+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "United States",
-   "city": "New York",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-11T08:26:40.438823+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "29ba0c7cb70f",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
    "title": "Kenya",
    "summary": "FCDO now advises against all but essential travel to Moyale Town and up to 5km around it, including to the border with Ethiopia. Updated information about the Kenya-Ethiopia border ('Warnings and insurance' and 'Regional risks' pages).",
    "url": "https://www.gov.uk/foreign-travel-advice/kenya",
@@ -4733,6 +4784,538 @@
    "flag": "🇬🇧",
    "region": "Western Europe",
    "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "World: MSF calls for stronger AMR response to protect people affected by conflict",
+   "summary": "Country: World Source: Médecins Sans Frontières Rome, 18 Nov 26 - As the world marks World Antimicrobial Resistance (AMR) Awareness Week, MSF called on governments and funders to recognize the enormous toll that antimicrobial resistance is taking in conflict-affected and humanitarian contexts and act urgently by better equipping communities to prevent, detect, and respond to drug-resistant infecti",
+   "url": "https://reliefweb.int/report/world/msf-calls-stronger-amr-response-protect-people-affected-conflict",
+   "time": "2026-11-18T11:14:38+00:00",
+   "tier": "A",
+   "category": "health",
+   "country": "Nigeria",
+   "city": "Abuja",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/world/msf-calls-stronger-amr-response-protect-people-affected-conflict",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "350d2502f5c1",
+   "flag": "🇳🇬",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.3,
+   "watch": []
+  },
+  {
+   "title": "Venezuela",
+   "summary": "Updated information about documents you must show to immigration authorities upon arrival and the ban on any vaping device, including those that do not contain nicotine (‘Entry requirements’ page).",
+   "url": "https://www.gov.uk/foreign-travel-advice/venezuela",
+   "time": "2026-11-18T11:13:15+00:00",
+   "tier": "A",
+   "category": "advisory",
+   "country": "Venezuela",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "UK FCDO travel advice updates",
+     "url": "https://www.gov.uk/foreign-travel-advice/venezuela",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "7ec524a38823",
+   "flag": "🇻🇪",
+   "region": "Latin America & Caribbean",
+   "baseline": 4.49,
+   "watch": []
+  },
+  {
+   "title": "Gun control activist faces long recovery after Washington DC mass shooting",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/washington-dc-logan-circle-shooting-activist",
+   "time": "2026-11-18T11:00:57+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "United States",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/18/washington-dc-logan-circle-shooting-activist",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "55335c026634",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "US loses measles-free status as cases soar",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261118-us-loses-measles-free-status-as-cases-soar",
+   "time": "2026-11-18T10:50:41+00:00",
+   "tier": "B",
+   "category": "health",
+   "country": "United States",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261118-us-loses-measles-free-status-as-cases-soar",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "785d7d4bef0e",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Iran-backed militias tortured him, but Iraqi environmentalist refuses to quit",
+   "summary": "",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
+   "time": "2026-11-18T10:00:00+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Iraq",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "c52bdb10776f",
+   "flag": "🇮🇶",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.28,
+   "watch": []
+  },
+  {
+   "title": "Strongest earthquake in years hits Romania, tremors felt in Ukraine",
+   "summary": "",
+   "url": "https://kyivindependent.com/strongest-earthquake-in-years-hits-romania-tremors-felt-in-ukraine/",
+   "time": "2026-11-18T09:49:11+00:00",
+   "tier": "C",
+   "category": "hazard",
+   "country": "Romania",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/strongest-earthquake-in-years-hits-romania-tremors-felt-in-ukraine/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "5b97a6e7fe64",
+   "flag": "🇷🇴",
+   "region": "Eastern Europe",
+   "baseline": 1.87,
+   "watch": []
+  },
+  {
+   "title": "DR Congo: Compte rendu de la réunion mensuelle du mois d'octobre 2026",
+   "summary": "Country: Democratic Republic of the Congo Sources: Nutrition Cluster, UN Children's Fund Please refer to the attached file. La réunion conjointe PRONANUT-Cluster Nutrition du 27 octobre 2026 a réuni environ 60 partenaires. Les échanges ont porté sur la méthodologie de calcul des personnes dans le besoin pour le HNRP 2027, la préparation de la revue annuelle 2026 du PRONANUT, la réponse nutritionne",
+   "url": "https://reliefweb.int/report/democratic-republic-congo/compte-rendu-de-la-reunion-mensuelle-du-mois-doctobre-2026",
+   "time": "2026-11-18T09:37:12+00:00",
+   "tier": "A",
+   "category": "health",
+   "country": "DRC",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/democratic-republic-congo/compte-rendu-de-la-reunion-mensuelle-du-mois-doctobre-2026",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "8533151e7653",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
+   "watch": []
+  },
+  {
+   "title": "M5.2 earthquake, 86 km NW of Ryōtsu-minato, Japan",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyyw",
+   "time": "2026-11-18T09:37:00.617000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Japan",
+   "city": null,
+   "lat": 38.7192,
+   "lon": 137.8725,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyyw",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "ea8103001c2d",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "oPt: Gaza's Education Crisis: A System-Wide Collapse Threatening an Entire Generation",
+   "summary": "Country: occupied Palestinian territory Source: American Near East Refugee Aid Please refer to the attached file. AN ENTIRE GENERATION OUT OF SCHOOL The war that began on October 7, 2023 did not just interrupt schooling in Gaza, it dismantled the education system that more than 750,000 learners, from preschool through university, once relied on.1 Nearly all schools have been damaged or destroyed, ",
+   "url": "https://reliefweb.int/report/occupied-palestinian-territory/gazas-education-crisis-system-wide-collapse-threatening-entire-generation",
+   "time": "2026-11-18T09:27:46+00:00",
+   "tier": "A",
+   "category": "unrest",
+   "country": "Palestine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/occupied-palestinian-territory/gazas-education-crisis-system-wide-collapse-threatening-entire-generation",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "89b46533db0d",
+   "flag": "🇵🇸",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.42,
+   "watch": []
+  },
+  {
+   "title": "Haitians rally in celebration of El Salvador’s anti-gang troop deployment",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/haitians-rally-in-celebration-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+   "time": "2026-11-18T08:53:15+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Brazil",
+   "city": "Salvador",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/haitians-rally-in-celebration-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "9a78149ab219",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "History of UNHCR in Türkiye 1960 to 2026",
+   "summary": "Country: Türkiye Source: UN High Commissioner for Refugees Please refer to the attached file. UNHCR has been present in Türkiye for more than six decades. Its presence was formally endorsed in 1960, marking the beginning of a long-standing partnership with the Government and people of Türkiye. In April 1962, Türkiye ratified the 1951 Convention relating to the Status of Refugees, becoming its 34th",
+   "url": "https://reliefweb.int/report/turkiye/history-unhcr-turkiye-1960-2026",
+   "time": "2026-11-18T08:03:10+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Turkey",
+   "city": "Istanbul",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/turkiye/history-unhcr-turkiye-1960-2026",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "5717dc3e9c32",
+   "flag": "🇹🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.78,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in South Africa",
+   "summary": "On 17/11/2026, a forest fire started in South Africa, until 18/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033939",
+   "time": "2026-11-18T08:01:31+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "South Africa",
+   "city": null,
+   "lat": -27.772026636382833,
+   "lon": 23.225513165957278,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033939",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "eb963c928f9b",
+   "flag": "🇿🇦",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.02,
+   "watch": []
+  },
+  {
+   "title": "Vanuatu Pertussis Outbreak in Penama Province, Vanuatu: Situation Report 7 - 16-Nov-26",
+   "summary": "Country: Vanuatu Sources: Government of Vanuatu, Pacific Community Please refer to the attached file. DISEASE INFORMATION Suspected case definition: A suspected case is any person with cough illness lasting >2 weeks, with at least one of the following symptoms; fits for coughing, OR; ‘whoop’ when breathing in, OR; vomiting after coughing fits. Confirmed case definition: A confirmed case is a perso",
+   "url": "https://reliefweb.int/report/vanuatu/vanuatu-pertussis-outbreak-penama-province-vanuatu-situation-report-7-16-nov-26",
+   "time": "2026-11-18T07:48:34+00:00",
+   "tier": "A",
+   "category": "health",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/vanuatu/vanuatu-pertussis-outbreak-penama-province-vanuatu-situation-report-7-16-nov-26",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3db4c67c1af8",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+   "time": "2026-11-18T06:26:49+00:00",
+   "tier": "B",
+   "category": "transport",
+   "country": "United States",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b37319bbabf5",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 5.9M, Depth:21.895km) in Peru 18/11/2026 06:07 UTC, 40 thousand in MMI IV.",
+   "summary": "On 11/18/2026 6:07:42 AM, an earthquake occurred in Peru potentially affecting 40 thousand in MMI IV. The earthquake had Magnitude 5.9M, Depth:21.895km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577946",
+   "time": "2026-11-18T06:23:19+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Peru",
+   "city": null,
+   "lat": -15.1438,
+   "lon": -75.9238,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577946",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "14a5349eb2f5",
+   "flag": "🇵🇪",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 18/11/2026 04:41 UTC, 6 thousand (in MMI>=VII).",
+   "summary": "On 11/18/2026 4:41:32 AM, an earthquake occurred in Indonesia potentially affecting 6 thousand (in MMI>=VII). The earthquake had Magnitude 5.8M, Depth:10km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577920",
+   "time": "2026-11-18T04:57:51+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -8.2501,
+   "lon": 120.5285,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577920",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "1ff933fc0040",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "M5.2 earthquake, 54 km NNE of Ruteng, Indonesia",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxc",
+   "time": "2026-11-18T04:21:35.658000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -8.151,
+   "lon": 120.6489,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxc",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "530cda1d3245",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Benin, Niger, Burkina Faso",
+   "summary": "On 13/11/2026, a forest fire started in Benin, Niger, Burkina Faso, until 17/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033927",
+   "time": "2026-11-18T04:06:00+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Benin",
+   "city": null,
+   "lat": 11.710409101334102,
+   "lon": 2.306357964654893,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033927",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "db227737d820",
+   "flag": "🇧🇯",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.24,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.",
+   "summary": "On 11/18/2026 3:42:34 AM, an earthquake occurred in Papua New Guinea potentially affecting 120 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:52.291km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577911",
+   "time": "2026-11-18T03:56:50+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -5.7009,
+   "lon": 146.5479,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577911",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "6746b8068f68",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
    "watch": []
   },
   {
@@ -4873,6 +5456,62 @@
    "flag": "🇷🇴",
    "region": "Eastern Europe",
    "baseline": 1.87,
+   "watch": []
+  },
+  {
+   "title": "M5.3 earthquake, 16 km ESE of Comandău, Romania",
+   "summary": "Depth 130 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
+   "time": "2026-11-18T00:48:56.089000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Romania",
+   "city": null,
+   "lat": 45.6863,
+   "lon": 26.452,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "099a54c7068e",
+   "flag": "🇷🇴",
+   "region": "Eastern Europe",
+   "baseline": 1.87,
+   "watch": []
+  },
+  {
+   "title": "M5.3 earthquake, 7 km SE of Karakenja, Tajikistan",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw6",
+   "time": "2026-11-18T00:46:31.418000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Tajikistan",
+   "city": null,
+   "lat": 39.1912,
+   "lon": 71.5875,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw6",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-18T11:22:03.710464+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "735f12d4ba91",
+   "flag": "🇹🇯",
+   "region": "Central Asia",
+   "baseline": 3.53,
    "watch": []
   },
   {
@@ -6864,62 +7503,6 @@
    "watch": []
   },
   {
-   "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
-   "time": "2026-11-16T10:19:08+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "South Africa",
-   "city": "Cape Town",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-16T20:53:06.953989+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "584cab1669c2",
-   "flag": "🇿🇦",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.02,
-   "watch": []
-  },
-  {
-   "title": "Scattered by war, the band that gave voice to Sudan's revolution plays again",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/11/16/scattered-by-war-the-band-that-gave-voice-to-sudans-revolution-plays-again/",
-   "time": "2026-11-16T10:02:44+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Egypt",
-   "city": "Cairo",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/11/16/scattered-by-war-the-band-that-gave-voice-to-sudans-revolution-plays-again/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-16T10:57:01.058001+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "cb898374f772",
-   "flag": "🇪🇬",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.82,
-   "watch": []
-  },
-  {
    "title": "Delaware hit by rare November tornado",
    "summary": "",
    "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
@@ -6945,34 +7528,6 @@
    "flag": "🇦🇷",
    "region": "Latin America & Caribbean",
    "baseline": 2.14,
-   "watch": []
-  },
-  {
-   "title": "Trump not welcome : Manila erupts in protests ahead of US President Asean visit",
-   "summary": "",
-   "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-not-welcome-manila-erupts-in-protests-ahead-of-us-presidents-asean-visit/articleshow/135875291.cms",
-   "time": "2026-11-16T08:15:00+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Philippines",
-   "city": "Manila",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "economictimes.indiatimes.com (via GDELT)",
-     "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-not-welcome-manila-erupts-in-protests-ahead-of-us-presidents-asean-visit/articleshow/135875291.cms",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-16T10:57:01.058001+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "1072ac873332",
-   "flag": "🇵🇭",
-   "region": "East & SE Asia",
-   "baseline": 3.11,
    "watch": []
   },
   {
@@ -7057,34 +7612,6 @@
    "flag": "🇮🇹",
    "region": "Western Europe",
    "baseline": 1.48,
-   "watch": []
-  },
-  {
-   "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
-   "summary": "",
-   "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
-   "time": "2026-11-16T06:46:27+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "United Kingdom",
-   "city": "London",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-16T10:57:01.058001+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "6cd5146e31ec",
-   "flag": "🇬🇧",
-   "region": "Western Europe",
-   "baseline": 1.29,
    "watch": []
   },
   {
@@ -8882,286 +9409,6 @@
    "watch": []
   },
   {
-   "title": "M4.8 earthquake, 59 km WSW of Houma, Tonga",
-   "summary": "Depth 163 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txzd",
-   "time": "2026-11-13T11:18:12.734000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Tonga",
-   "city": null,
-   "lat": -21.3036,
-   "lon": -175.8541,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txzd",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-13T15:36:11.440712+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "9684025891d1",
-   "flag": "🇹🇴",
-   "region": "Oceania",
-   "baseline": 1.93,
-   "watch": []
-  },
-  {
-   "title": "Green flood alert in Thailand",
-   "summary": "On 06/11/2026, a flood started in Thailand, lasting until 11/11/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104283",
-   "time": "2026-11-13T10:41:16+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Thailand",
-   "city": null,
-   "lat": 15.3912084,
-   "lon": 99.4560531,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104283",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-13T15:36:11.440712+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "ae28b4d39e68",
-   "flag": "🇹🇭",
-   "region": "East & SE Asia",
-   "baseline": 2.27,
-   "watch": []
-  },
-  {
-   "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
-   "time": "2026-11-13T09:43:30+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-13T15:36:11.440712+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b1a2ab1a2901",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 84 km E of Barcelona, Philippines",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txz0",
-   "time": "2026-11-13T09:40:47.087000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Spain",
-   "city": null,
-   "lat": 8.2136,
-   "lon": 127.2035,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txz0",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-13T15:36:11.440712+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "73fe728559cb",
-   "flag": "🇪🇸",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "Humanitarian situation in Gaza worsens amid political deadlock",
-   "summary": "",
-   "url": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-11-13T09:30:00+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-13T15:36:11.440712+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "24424ee108c8",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "summary": "On 09/11/2026, a forest fire started in Australia, until 13/11/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033778",
-   "time": "2026-11-13T09:14:38+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Australia",
-   "city": null,
-   "lat": -17.56473327059437,
-   "lon": 142.71357101504498,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033778",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-14T15:21:46.768022+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "1c78c4282108",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Botswana",
-   "summary": "On 10/11/2026, a forest fire started in Botswana, until 13/11/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033769",
-   "time": "2026-11-13T09:01:53+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Botswana",
-   "city": null,
-   "lat": -24.066608093479413,
-   "lon": 22.36495310022815,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033769",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-14T15:21:46.768022+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "d5782c437ff6",
-   "flag": "🇧🇼",
-   "region": "Sub-Saharan Africa",
-   "baseline": 1.9,
-   "watch": []
-  },
-  {
-   "title": "Storm Charles causes floods and flight cancellations across southern Europe",
-   "summary": "",
-   "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
-   "time": "2026-11-13T08:49:19+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Portugal",
-   "city": "Lisbon",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-13T15:36:11.440712+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ac054497b4f5",
-   "flag": "🇵🇹",
-   "region": "Western Europe",
-   "baseline": 1.0,
-   "watch": []
-  },
-  {
-   "title": "M4.6 earthquake, 18 km WNW of Río Grande, Panama",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txyr",
-   "time": "2026-11-13T08:01:57.936000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Panama",
-   "city": null,
-   "lat": 7.7821,
-   "lon": -81.4943,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txyr",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-13T15:36:11.440712+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "372ed39c2d99",
-   "flag": "🇵🇦",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.22,
-   "watch": []
-  },
-  {
-   "title": "M4.7 earthquake, 27 km NNE of Labuan Lombok, Indonesia",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5",
-   "time": "2026-11-13T04:49:33.549000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": -8.262,
-   "lon": 116.7507,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-13T07:22:23.479969+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "8b7d511f752c",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
    "title": "Georgia",
    "summary": "Updated information about the political situation ('Safety and security' page).",
    "url": "https://www.gov.uk/foreign-travel-advice/georgia",
@@ -10291,34 +10538,6 @@
    "flag": "🇹🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.62,
-   "watch": []
-  },
-  {
-   "title": "US requires air passengers to attest they haven’t visited Ebola-hit DRC",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/11/04/us-requires-air-passengers-to-attest-they-havent-visited-ebola-hit-drc/",
-   "time": "2026-11-04T06:32:13+00:00",
-   "tier": "C",
-   "category": "health",
-   "country": "DRC",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/11/04/us-requires-air-passengers-to-attest-they-havent-visited-ebola-hit-drc/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-04T07:17:40.104065+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "0b3e0267a1ab",
-   "flag": "🇨🇩",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.69,
    "watch": []
   },
   {
