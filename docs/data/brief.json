@@ -1,16 +1,98 @@
 {
- "generated": "2026-11-17T21:13:31.880565+00:00",
+ "generated": "2026-11-18T02:56:32.200577+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 50,
-  "3": 28,
+  "2": 54,
+  "3": 33,
   "4": 5,
-  "5": 2
+  "5": 3
  },
  "watch_hits": [],
  "regions": {
+  "Eastern Europe": [
+   {
+    "id": "069798afe60c",
+    "title": "Ukraine: Protection of Civilians in Armed Conflict - October 2026",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-11-18T01:47:34+00:00"
+   },
+   {
+    "id": "cdc49f7c093a",
+    "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-17T09:50:45+00:00"
+   },
+   {
+    "id": "88b270ffa900",
+    "title": "Ukraine protests IAEA chief's plan to appoint sanctioned Russian official as deputy",
+    "country": "Ukraine",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-18T00:07:44+00:00"
+   },
+   {
+    "id": "ac754edbed40",
+    "title": "Zelensky calls on allies to exchange missiles, provide 40 more F-16 jets for Ukraine",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-17T21:15:41+00:00"
+   },
+   {
+    "id": "ba5edd400e59",
+    "title": "Ukraine war latest: Entire section of Crimean Bridge collapses after 'seven-phase operation,' Zelensky reveals",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-17T19:20:42+00:00"
+   },
+   {
+    "id": "119cf5cc86de",
+    "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-17T16:56:38+00:00"
+   },
+   {
+    "id": "81ad30462b13",
+    "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-17T16:40:26+00:00"
+   },
+   {
+    "id": "2e4f1d773968",
+    "title": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-17T16:40:21+00:00"
+   }
+  ],
   "Sub-Saharan Africa": [
    {
     "id": "4dae11390741",
@@ -43,6 +125,16 @@
     "time": "2026-11-17T13:06:21+00:00"
    },
    {
+    "id": "80fadccd1b19",
+    "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
+    "country": "DRC",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-18T00:57:56+00:00"
+   },
+   {
     "id": "726b49c0664f",
     "title": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
     "country": "Ethiopia",
@@ -53,14 +145,14 @@
     "time": "2026-11-17T15:43:00+00:00"
    },
    {
-    "id": "d8e4d703ab96",
-    "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-17T00:21:19+00:00"
+    "id": "c9196f48c560",
+    "title": "GIEWS Country Brief: Côte d'Ivoire, 16-November-2026",
+    "country": "Cote d'Ivoire",
+    "city": "Abidjan",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-18T01:24:57+00:00"
    },
    {
     "id": "e9d6d604e289",
@@ -81,16 +173,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-17T20:08:12+00:00"
-   },
-   {
-    "id": "8ebb414533b4",
-    "title": "Green forest fire notification in Togo, Benin, Burkina Faso",
-    "country": "Togo",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-17T20:04:53+00:00"
    }
   ],
   "Western Europe": [
@@ -103,6 +185,16 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-17T20:30:57+00:00"
+   },
+   {
+    "id": "34274b164ee3",
+    "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-17T21:28:31+00:00"
    },
    {
     "id": "713953164211",
@@ -145,6 +237,16 @@
     "time": "2026-11-17T10:06:34+00:00"
    },
    {
+    "id": "8ff2f5a50ea6",
+    "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-17T22:50:16+00:00"
+   },
+   {
     "id": "dd8fe0b2f64c",
     "title": "More than 100,000 take part in France pay protests",
     "country": "France",
@@ -153,26 +255,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-17T19:09:49+00:00"
-   },
-   {
-    "id": "7fda30acc93a",
-    "title": "France: Protesters march for better salaries across the country",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-17T17:27:24+00:00"
-   },
-   {
-    "id": "c1a0d7aa4cb6",
-    "title": "Photos: Tens of thousands rally in France over living standards and wages",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-17T16:39:01+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -197,6 +279,46 @@
     "time": "2026-11-17T11:50:09+00:00"
    },
    {
+    "id": "ed9e162685d7",
+    "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-18T00:00:27+00:00"
+   },
+   {
+    "id": "c9aba0910f9b",
+    "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-18T01:07:01+00:00"
+   },
+   {
+    "id": "638e8018bdd1",
+    "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+    "country": "Kuwait",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-17T23:38:38+00:00"
+   },
+   {
+    "id": "bce46817c8d7",
+    "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+    "country": "Kuwait",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-17T21:14:31+00:00"
+   },
+   {
     "id": "9ab86e9c4dfb",
     "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
     "country": "Palestine",
@@ -215,26 +337,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-17T10:46:27+00:00"
-   },
-   {
-    "id": "89ead191f77b",
-    "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
-    "country": "Bahrain",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-17T07:35:54+00:00"
-   },
-   {
-    "id": "159008acac5f",
-    "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
-    "country": "Palestine",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-17T12:00:00+00:00"
    }
   ],
   "Latin America & Caribbean": [
@@ -247,6 +349,46 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-17T11:58:16+00:00"
+   },
+   {
+    "id": "864a43b287ac",
+    "title": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-18T02:42:21+00:00"
+   },
+   {
+    "id": "9b4c04ef7423",
+    "title": "Ecuadorian fishermen sue Trump administration over drone strike",
+    "country": "Ecuador",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-18T01:04:43+00:00"
+   },
+   {
+    "id": "2fed131f0962",
+    "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+    "country": "Brazil",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-17T21:40:56+00:00"
+   },
+   {
+    "id": "e2ee9d3a4f3c",
+    "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-17T23:09:00+00:00"
    },
    {
     "id": "70b24d6e9120",
@@ -267,88 +409,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-17T05:00:00+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "4e467fbdc123",
-    "title": "2 key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B1",
-    "time": "2026-11-16T22:20:30+00:00"
-   },
-   {
-    "id": "cdc49f7c093a",
-    "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-17T09:50:45+00:00"
-   },
-   {
-    "id": "c1f86e93e232",
-    "title": "Live: Bridge to occupied Crimea closed after Ukrainian strikes collapse road section",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-17T01:38:38+00:00"
-   },
-   {
-    "id": "ba5edd400e59",
-    "title": "Ukraine war latest: Entire section of Crimean Bridge collapses after 'seven-phase operation,' Zelensky reveals",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-17T19:20:42+00:00"
-   },
-   {
-    "id": "119cf5cc86de",
-    "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-17T16:56:38+00:00"
-   },
-   {
-    "id": "81ad30462b13",
-    "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-17T16:40:26+00:00"
-   },
-   {
-    "id": "2e4f1d773968",
-    "title": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-17T16:40:21+00:00"
-   },
-   {
-    "id": "5a2c00394fa8",
-    "title": "General Staff: Russia has lost 1,627,040 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-17T11:04:18+00:00"
    }
   ],
   "Oceania": [
@@ -391,26 +451,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-17T03:52:32.360000+00:00"
-   },
-   {
-    "id": "855c8492e166",
-    "title": "M5.0 earthquake, 137 km SSE of Kirakira, Solomon Islands",
-    "country": "Solomon Islands",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-17T02:00:17.654000+00:00"
-   },
-   {
-    "id": "29fecd36605e",
-    "title": "M4.6 earthquake, 146 km SSE of Isangel, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-16T21:55:58.945000+00:00"
    }
   ],
   "East & SE Asia": [
@@ -497,6 +537,26 @@
   ],
   "North America": [
    {
+    "id": "d3eb1d9595c1",
+    "title": "Afghanistan Development Update: Water for Recovery and Sustainability (November 2026)",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-18T02:38:29+00:00"
+   },
+   {
+    "id": "fccc92798254",
+    "title": "US, Mexico and Bolivia lose measles-free status as deaths mount",
+    "country": "Mexico",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-17T21:30:23+00:00"
+   },
+   {
     "id": "74fa54c9ab7c",
     "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
     "country": "United States",
@@ -515,26 +575,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-17T11:00:34+00:00"
-   },
-   {
-    "id": "0f508da2526c",
-    "title": "Chase outage disrupts online banking and Zelle payments in United States",
-    "country": "United States",
-    "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-16T22:40:51+00:00"
-   },
-   {
-    "id": "ff74f59a3f32",
-    "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
-    "country": "United States",
-    "city": "New York",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-16T21:16:02+00:00"
    }
   ],
   "South Asia": [
