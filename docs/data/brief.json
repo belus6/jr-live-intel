@@ -1,17 +1,37 @@
 {
- "generated": "2026-11-20T08:08:01.486057+00:00",
+ "generated": "2026-11-20T16:58:07.092101+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 44,
-  "3": 24,
-  "4": 7,
-  "5": 1
+  "2": 51,
+  "3": 21,
+  "4": 6,
+  "5": 3
  },
  "watch_hits": [],
  "regions": {
   "Sub-Saharan Africa": [
+   {
+    "id": "c4a3d900488e",
+    "title": "South Africa's murder rate falls but killings average 60 a day",
+    "country": "South Africa",
+    "city": null,
+    "category": "crime",
+    "severity": 5,
+    "confidence": "C4",
+    "time": "2026-11-20T14:26:35+00:00"
+   },
+   {
+    "id": "3b4270491095",
+    "title": "DR Congo: The Bundibugyo Ebola Outbreak in Africa: Six-Month Situation and Response Report",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-11-20T12:55:38+00:00"
+   },
    {
     "id": "ade7c831c2da",
     "title": "UNICEF Zambia Humanitarian Flash Update No.1 (Cholera Outbreak), 16 November 2026",
@@ -23,14 +43,24 @@
     "time": "2026-11-20T02:54:17+00:00"
    },
    {
-    "id": "3c13f1fde3b7",
-    "title": "Around 700,000 displaced amid volatile conflict in southern Ethiopia, Islamic Relief says",
-    "country": "Ethiopia",
+    "id": "9fa30e817ded",
+    "title": "Green forest fire notification in Madagascar",
+    "country": "Madagascar",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "hazard",
+    "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-19T12:03:19+00:00"
+    "time": "2026-11-20T16:05:47+00:00"
+   },
+   {
+    "id": "c72ab7dce60c",
+    "title": "Green forest fire notification in Nigeria",
+    "country": "Nigeria",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-20T16:03:52+00:00"
    },
    {
     "id": "a777e532a956",
@@ -41,56 +71,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-20T05:05:32+00:00"
-   },
-   {
-    "id": "8bd754120583",
-    "title": "Madagascar: Southern Africa: El Niño Status and Humanitarian Impacts (October 2026)",
-    "country": "Madagascar",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-19T16:02:55+00:00"
-   },
-   {
-    "id": "c4e52ff03f4e",
-    "title": "Sudan - Concept of Operations, October 2026",
-    "country": "Chad",
-    "city": null,
-    "category": "transport",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-19T15:40:07+00:00"
-   },
-   {
-    "id": "c90d259c28cc",
-    "title": "Anticipatory Action Plan (AAP) for Riverine Floods – Southwest Region Cameroon",
-    "country": "Cameroon",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-19T13:40:28+00:00"
-   },
-   {
-    "id": "b568a67db36a",
-    "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-    "country": "Uganda",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-19T09:21:54+00:00"
-   },
-   {
-    "id": "5db4f3ddd54e",
-    "title": "DR Congo: Ebola response cannot succeed without broader humanitarian effort | NRC",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-19T08:33:06+00:00"
    }
   ],
   "Eastern Europe": [
@@ -105,74 +85,74 @@
     "time": "2026-11-19T23:41:36+00:00"
    },
    {
-    "id": "ce9a5bbfb331",
-    "title": "General Staff: Russia has lost 1,633,130 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-20T07:28:53+00:00"
-   },
-   {
-    "id": "d97fbe2d16fd",
-    "title": "Russia launches mass missile attack against Ukraine after Putin vows revenge",
+    "id": "f0ad8089c2e8",
+    "title": "3 Kyiv bridges struck in massive Russian aerial assault on Ukraine, at least 9 dead",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
-    "severity": 3,
+    "severity": 4,
     "confidence": "C4",
     "time": "2026-11-19T23:41:36+00:00"
    },
    {
-    "id": "471cf3e99ebb",
-    "title": "Coalition of the Willing calls on Russia to accept winter energy truce",
-    "country": "Russia",
+    "id": "d2da71b6171f",
+    "title": "Putin proposes second humanitarian ceasefire — is it a trap?",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-19T20:53:00+00:00"
+   },
+   {
+    "id": "7c00b6aeb2e1",
+    "title": "2 Russian Kh-101 missiles, drone, fall in Poland during Russian attack on Ukraine",
+    "country": "Poland",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-19T21:05:00+00:00"
+    "confidence": "B2",
+    "time": "2026-11-20T09:11:40+00:00"
    },
    {
-    "id": "dba304a90d47",
-    "title": "Facing charges, SBU general goes all-in against anti-graft agencies investigating him",
-    "country": "Ukraine",
-    "city": "Kyiv",
+    "id": "4388ac1ca652",
+    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "country": "Poland",
+    "city": "Warsaw",
     "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-19T17:13:45+00:00"
+    "confidence": "B3",
+    "time": "2026-11-20T16:54:29+00:00"
    },
    {
-    "id": "d455cd41a918",
-    "title": "Russia's newest strike drones still depend on Western technology",
-    "country": "Russia",
+    "id": "3fdd8b8ab108",
+    "title": "Poland condemns Russian ‘provocation’ after airspace violations",
+    "country": "Poland",
     "city": null,
-    "category": "political",
+    "category": "conflict",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-19T16:00:06+00:00"
+    "confidence": "B3",
+    "time": "2026-11-20T15:18:26+00:00"
    },
    {
-    "id": "4566138d4528",
-    "title": "Massive Russian drone attack on Kyiv kills 1, damages Dutch, Austrian embassies",
+    "id": "1adc674e07ac",
+    "title": "What we know about the latest Russian missile strikes on Ukraine",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-20T15:14:01+00:00"
+   },
+   {
+    "id": "719fc26da526",
+    "title": "Ukrainian forces strike 3 Russian ballistic missile launchers, air defense gun-missile system, Kyiv says",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-11-19T13:05:54+00:00"
-   },
-   {
-    "id": "203a889c42df",
-    "title": "'For Russia, nothing is sacred' — Massive Russian drone attack on Kyiv kills 1, damages St. Volodymyr's Cathedral, embassies",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-19T13:05:54+00:00"
+    "time": "2026-11-20T14:47:52+00:00"
    }
   ],
   "Oceania": [
@@ -195,16 +175,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-20T05:02:16+00:00"
-   },
-   {
-    "id": "d398535873e2",
-    "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-19T11:23:41+00:00"
    },
    {
     "id": "daac8a06f27a",
@@ -239,74 +209,74 @@
     "time": "2026-11-19T17:11:11+00:00"
    },
    {
-    "id": "55edded876d0",
-    "title": "Danish MPs approve Greenland security pact with US",
-    "country": "Denmark",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-19T12:33:52+00:00"
-   },
-   {
-    "id": "b24e35b6bd79",
-    "title": "‘We don’t want our future decided by the military’: Young Germans protest",
-    "country": "Germany",
-    "city": null,
+    "id": "985d2ffe7d5e",
+    "title": "Italy strike draws workers, students into nationwide protests over wages and living costs",
+    "country": "Italy",
+    "city": "Rome",
     "category": "unrest",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T06:20:26+00:00"
+    "confidence": "B2",
+    "time": "2026-11-20T11:25:32+00:00"
    },
    {
-    "id": "f130b815e8c3",
-    "title": "‘Welsh can tell any story’: Cymraeg dub of Star Wars premieres in Cardiff",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-19T19:33:00+00:00"
-   },
-   {
-    "id": "efa4a6e937de",
-    "title": "Prosecutors allege British woman ‘trying to find someone who would kill her’ lured to US and murdered",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-19T16:08:17+00:00"
-   },
-   {
-    "id": "6fec4cc894fc",
-    "title": "Xi demonstrating China's 'global status', occupying 'central position' in relation to Trump & Putin",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-19T15:40:14+00:00"
-   },
-   {
-    "id": "ba473babc37a",
-    "title": "France: Retirees march against 2027 budget cuts",
+    "id": "c8deef7613bc",
+    "title": "Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations",
     "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-19T14:32:57+00:00"
-   },
-   {
-    "id": "2cd18468edf2",
-    "title": "Where Roots Lie: Surviving Child Grooming and Exploitation",
-    "country": "United Kingdom",
     "city": null,
     "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-19T13:30:00+00:00"
+    "time": "2026-11-20T16:54:57+00:00"
+   },
+   {
+    "id": "d076148087b4",
+    "title": "France investigates actor Depardieu, writer Houellebecq over alleged gang rape",
+    "country": "France",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-20T16:27:56+00:00"
+   },
+   {
+    "id": "3793ed85e16b",
+    "title": "Gen Z protests spread across Europe: Mass rallies over cost of living in Spain",
+    "country": "Spain",
+    "city": "Madrid",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-20T15:41:34+00:00"
+   },
+   {
+    "id": "b197111b6c5b",
+    "title": "French ex-PM Villepin announces presidential run",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-20T15:40:34+00:00"
+   },
+   {
+    "id": "c8504eb51a58",
+    "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+    "country": "Belgium",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-20T15:15:28+00:00"
+   },
+   {
+    "id": "e8925ddac791",
+    "title": "France probes suspected leak of confidential information to Le Pen's party",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-20T14:35:27+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -319,6 +289,26 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-19T17:03:23+00:00"
+   },
+   {
+    "id": "2bebde4f9207",
+    "title": "Jerusalem Daily: Palestinians return home to ruins",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-20T15:42:04+00:00"
+   },
+   {
+    "id": "e73361b2fc32",
+    "title": "One in four children lived in conflict zones in 2025, Save the Children warns",
+    "country": "Iran",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-20T09:45:03+00:00"
    },
    {
     "id": "fc583b2425ef",
@@ -351,139 +341,27 @@
     "time": "2026-11-19T20:58:41+00:00"
    },
    {
-    "id": "837766574b0b",
-    "title": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
-    "country": "UAE",
-    "city": "Abu Dhabi",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-19T14:34:22+00:00"
-   },
-   {
-    "id": "3018fd04b724",
-    "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-    "country": "Iran",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-19T09:46:24+00:00"
-   },
-   {
-    "id": "d16b9d4e47d2",
-    "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+    "id": "559ebbd3af0d",
+    "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
     "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 3,
+    "city": null,
+    "category": "transport",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-19T08:19:17+00:00"
+    "time": "2026-11-20T14:48:04+00:00"
    },
    {
-    "id": "9aff67df18d5",
-    "title": "World: Global Update | November 2026: An Inter-Agency Report of the Global ENSO Analysis Cell - El Niño Status & Humanitarian Outlook",
-    "country": "Sudan",
+    "id": "02e4d598e973",
+    "title": "COP31 wrapping up in Turkey: Climate deal elusive as fossil fuels go unmentioned",
+    "country": "Turkey",
     "city": null,
     "category": "hazard",
     "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T02:11:18+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "12a8f41c745c",
-    "title": "ICJ ruling on Myanmar genocide: ‘Historic victory for Rohingya, landmark for international justice’",
-    "country": "Myanmar",
-    "city": null,
-    "category": "terrorism",
-    "severity": 4,
     "confidence": "B3",
-    "time": "2026-11-19T15:54:42+00:00"
-   },
-   {
-    "id": "d346e273c2f1",
-    "title": "South Korean court orders retrial for ex-PM Han over martial law attempt",
-    "country": "South Korea",
-    "city": "Seoul",
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-19T13:22:17+00:00"
-   },
-   {
-    "id": "1df7741da039",
-    "title": "In South Korea, women forced into prostitution on US military bases seek justice",
-    "country": "South Korea",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-19T13:21:41+00:00"
-   },
-   {
-    "id": "89dad5bbf4c9",
-    "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-    "country": "Myanmar",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-19T12:29:41+00:00"
-   },
-   {
-    "id": "a1bcaaf41718",
-    "title": "M4.9 earthquake, 54 km W of Madang, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T05:17:45.106000+00:00"
-   },
-   {
-    "id": "dea544fbc8bb",
-    "title": "M4.5 earthquake, 236 km W of Tual, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-19T21:49:33.219000+00:00"
-   },
-   {
-    "id": "1796b3507bce",
-    "title": "M4.9 earthquake, 13 km WNW of Xichang, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-19T18:41:19.631000+00:00"
-   },
-   {
-    "id": "ddb1bb1eec95",
-    "title": "M5.0 earthquake, 31 km WSW of Rabaul, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-19T10:53:07.767000+00:00"
+    "time": "2026-11-20T14:38:56+00:00"
    }
   ],
   "North America": [
-   {
-    "id": "eb9438dd0643",
-    "title": "oPt: One Year On, Gaza’s ‘Peace Plan’ Has Failed, Delivering More Death, Displacement, Despair – Humanitarian Scorecard",
-    "country": "United States",
-    "city": "New York",
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-11-19T12:03:20+00:00"
-   },
    {
     "id": "ab2d7c08e179",
     "title": "World: ICRC: Explosive remnants of war continue to kill and maim civilians long after the fighting ends",
@@ -505,14 +383,34 @@
     "time": "2026-11-19T23:15:42+00:00"
    },
    {
-    "id": "0d622b8e07aa",
-    "title": "Southern California braced for fierce storm after record rain in San Francisco",
+    "id": "24325ca02867",
+    "title": "US: Protesters demand human control over AI after Anthropic's IPO",
     "country": "United States",
     "city": "San Francisco",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-20T10:48:54+00:00"
+   },
+   {
+    "id": "615b52b7a8a5",
+    "title": "Green flood alert in United States",
+    "country": "United States",
+    "city": null,
     "category": "hazard",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-19T16:21:07+00:00"
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-20T09:07:26+00:00"
+   },
+   {
+    "id": "df9c8625c401",
+    "title": "Green flood alert in Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-20T09:07:16+00:00"
    },
    {
     "id": "3d024e9cb16f",
@@ -577,6 +475,46 @@
     "time": "2026-11-19T21:39:39+00:00"
    },
    {
+    "id": "9edc641fc672",
+    "title": "M4.7 earthquake, 94 km W of Illapel, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-20T14:16:15.225000+00:00"
+   },
+   {
+    "id": "6f0828f56bc5",
+    "title": "El Salvador: Nayib Bukele, self-proclaimed “coolest dictator on earth”, is seeking a third term",
+    "country": "Brazil",
+    "city": "Salvador",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-20T12:07:14+00:00"
+   },
+   {
+    "id": "92d88aef9f73",
+    "title": "Green forest fire notification in Bolivia",
+    "country": "Bolivia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-20T12:03:00+00:00"
+   },
+   {
+    "id": "d149d89140ef",
+    "title": "Heavy fighting in Haiti as armed forces battle gangs in capital",
+    "country": "Haiti",
+    "city": "Port-au-Prince",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-20T06:12:26+00:00"
+   },
+   {
     "id": "d7c01d19ef0a",
     "title": "Thousands protest Colombia’s tax plans amid row over US military role",
     "country": "Colombia",
@@ -585,46 +523,48 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-20T03:26:23+00:00"
-   },
+   }
+  ],
+  "East & SE Asia": [
    {
-    "id": "791e5dabb1b6",
-    "title": "M4.8 earthquake, 24 km ESE of Calingasta, Argentina",
-    "country": "Argentina",
+    "id": "04453f17d1ad",
+    "title": "M5.1 earthquake, 15 km SSW of Balangonan, Philippines",
+    "country": "Philippines",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-20T02:57:18.070000+00:00"
+    "time": "2026-11-20T13:09:04.057000+00:00"
    },
    {
-    "id": "dca7b8bff183",
-    "title": "GIEWS Country Brief: Guatemala 19-November-2026",
-    "country": "Guatemala",
+    "id": "a1bcaaf41718",
+    "title": "M4.9 earthquake, 54 km W of Madang, Papua New Guinea",
+    "country": "Papua New Guinea",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-20T01:25:01+00:00"
+    "time": "2026-11-20T05:17:45.106000+00:00"
    },
    {
-    "id": "f8ee48231c26",
-    "title": "Argentina: ARG: Inundación pluvial / riada - 11-2026 - Inundaciones Santa Fe (crecida del Paraná y del Salado) (2026-11-20)",
-    "country": "Argentina",
+    "id": "dea544fbc8bb",
+    "title": "M4.5 earthquake, 236 km W of Tual, Indonesia",
+    "country": "Indonesia",
     "city": null,
-    "category": "health",
+    "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-20T00:51:50+00:00"
+    "time": "2026-11-19T21:49:33.219000+00:00"
    },
    {
-    "id": "08606a270edd",
-    "title": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
-    "country": "Colombia",
+    "id": "1796b3507bce",
+    "title": "M4.9 earthquake, 13 km WNW of Xichang, China",
+    "country": "China",
     "city": null,
-    "category": "crime",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-19T19:53:24+00:00"
+    "confidence": "A1",
+    "time": "2026-11-19T18:41:19.631000+00:00"
    }
   ],
   "South Asia": [
