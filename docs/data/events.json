@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-20T00:47:42.655351+00:00",
+ "generated": "2026-11-20T08:08:01.486057+00:00",
  "sample": false,
- "count": 412,
+ "count": 421,
  "events": [
+  {
+   "title": "UNICEF Zambia Humanitarian Flash Update No.1 (Cholera Outbreak), 16 November 2026",
+   "summary": "Country: Zambia Source: UN Children's Fund Please refer to the attached file. Highlights Outbreak Overview : As of 16 November 2026, ZNPHI reported 3,099 cases and 68 deaths (CFR 2.2%) across 27 districts in seven provinces since 28 July. Children under 15 make up 24.9% of cases with age data (available for ~78.5% of cases). Lusaka and Chibombo are the current hotspots accounting for 75.2% of case",
+   "url": "https://reliefweb.int/report/zambia/unicef-zambia-humanitarian-flash-update-no1-cholera-outbreak-16-november-2026",
+   "time": "2026-11-20T02:54:17+00:00",
+   "tier": "A",
+   "category": "health",
+   "country": "Zambia",
+   "city": "Lusaka",
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/zambia/unicef-zambia-humanitarian-flash-update-no1-cholera-outbreak-16-november-2026",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "ade7c831c2da",
+   "flag": "🇿🇲",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.88,
+   "watch": []
+  },
   {
    "title": "Ebola Bundibugyo virus disease outbreak: Democratic Republic of the Congo | Kenya | Nigeria Weekly External Situation Report 27, Data as of 15 November 2026",
    "summary": "Countries: Democratic Republic of the Congo, Kenya, Nigeria Source: World Health Organization Please refer to the attached file. Event description The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues at a high and sustained level of transmission. During epidemiological week 46 (9 – 15 November 2026), 442 confirmed cases and 239 confirmed deaths were reporte",
@@ -311,6 +339,39 @@
    "flag": "🇦🇺",
    "region": "Oceania",
    "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "3 Kyiv bridges struck in massive Russian aerial assault on Ukraine, at least 5 dead",
+   "summary": "",
+   "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
+   "time": "2026-11-19T23:41:36+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 4,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
+     "tier": "C"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "B2",
+   "corroboration": 2,
+   "id": "acae2c6c2a87",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
    "watch": []
   },
   {
@@ -1047,34 +1108,6 @@
    "watch": []
   },
   {
-   "title": "Mozambique's justice under scrutiny as Venancio Mondlane faces trial",
-   "summary": "",
-   "url": "https://www.dw.com/en/mozambique-s-justice-under-scrutiny-as-venancio-mondlane-faces-trial/a-79949795?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-11-16T07:38:00+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Mozambique",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/mozambique-s-justice-under-scrutiny-as-venancio-mondlane-faces-trial/a-79949795?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-16T10:57:01.058001+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "033d525c91d9",
-   "flag": "🇲🇿",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.83,
-   "watch": []
-  },
-  {
    "title": "Ethiopia",
    "summary": "Update on areas that the FCDO advise against all travel to within 10km of the border with Kenya (Warnings and Insurance page)",
    "url": "https://www.gov.uk/foreign-travel-advice/ethiopia",
@@ -1327,6 +1360,90 @@
    "watch": []
   },
   {
+   "title": "General Staff: Russia has lost 1,633,130 troops in Ukraine since Feb. 24, 2022",
+   "summary": "",
+   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-633-130-troops-in-ukraine-since-feb-24-2022/",
+   "time": "2026-11-20T07:28:53+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-633-130-troops-in-ukraine-since-feb-24-2022/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "ce9a5bbfb331",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "World: ICRC: Explosive remnants of war continue to kill and maim civilians long after the fighting ends",
+   "summary": "Country: World Source: International Committee of the Red Cross Statement on the occasion of 20th Annual Conference of the High-Contracting Parties to Protocol V of the Convention on Certain Conventional Weapons, 12 November 202 In many parts of the world, explosive remnants of war litter cities, agricultural fields and countrysides that are no longer battlefields. They continue to kill and maim t",
+   "url": "https://reliefweb.int/report/world/icrc-explosive-remnants-war-continue-kill-and-maim-civilians-long-after-fighting-ends",
+   "time": "2026-11-20T05:30:58+00:00",
+   "tier": "A",
+   "category": "conflict",
+   "country": "United States",
+   "city": "New York",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/world/icrc-explosive-remnants-war-continue-kill-and-maim-civilians-long-after-fighting-ends",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "ab2d7c08e179",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+   "time": "2026-11-20T05:02:16+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Australia",
+   "city": "Sydney",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "f876adb808c7",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
    "title": "Iran war live: Houthis escalate attacks on Saudi capital",
    "summary": "",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
@@ -1349,6 +1466,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "fc583b2425ef",
+   "flag": "🇸🇦",
+   "region": "Middle East & N. Africa",
+   "baseline": 2.62,
+   "watch": []
+  },
+  {
+   "title": "Iran war live: Saudi coalition says repels Houthi missile, drone attacks",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+   "time": "2026-11-19T23:58:40+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Saudi Arabia",
+   "city": "Riyadh",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "ed8b09a82a9e",
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
@@ -4236,95 +4381,6 @@
    "watch": []
   },
   {
-   "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
-   "time": "2026-11-17T07:35:54+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Bahrain",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-17T12:20:29.895957+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "89ead191f77b",
-   "flag": "🇧🇭",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.54,
-   "watch": []
-  },
-  {
-   "title": "Fire reported at major Russian petrochemical complex in Bashkortostan amid drone attack",
-   "summary": "",
-   "url": "https://kyivindependent.com/fire-reported-at-major-russian-petrochemical-complex-in-bashkortostan-amid-drone-attack/",
-   "time": "2026-11-17T04:23:49+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/fire-reported-at-major-russian-petrochemical-complex-in-bashkortostan-amid-drone-attack/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-17T12:20:29.895957+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "b3884358231a",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Live: Bridge to occupied Crimea closed after Ukrainian strikes collapse road section",
-   "summary": "",
-   "url": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine",
-   "time": "2026-11-17T01:38:38+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine",
-     "tier": "B"
-    },
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-17T12:20:29.895957+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "c1f86e93e232",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "European foreign ministers call on EU to crack down on Russian crypto networks",
    "summary": "",
    "url": "https://kyivindependent.com/european-foreign-ministers-call-on-eu-to-crack-down-on-russian-crypto-networks-financing-war-against-ukraine/",
@@ -4574,34 +4630,6 @@
    "flag": "🇵🇭",
    "region": "East & SE Asia",
    "baseline": 3.11,
-   "watch": []
-  },
-  {
-   "title": "M5.5 earthquake, Fiji region",
-   "summary": "Depth 470 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
-   "time": "2026-11-15T05:15:02.697000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Fiji",
-   "city": null,
-   "lat": -19.5554,
-   "lon": -177.8215,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-15T12:46:13.930318+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "76d5c8036c56",
-   "flag": "🇫🇯",
-   "region": "Oceania",
-   "baseline": 2.12,
    "watch": []
   },
   {
@@ -4862,34 +4890,6 @@
    "watch": []
   },
   {
-   "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
-   "summary": "",
-   "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
-   "time": "2026-11-13T03:02:06+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "China",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-13T07:22:23.479969+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "bb07702a6064",
-   "flag": "🇨🇳",
-   "region": "East & SE Asia",
-   "baseline": 2.75,
-   "watch": []
-  },
-  {
    "title": "Kenya",
    "summary": "FCDO now advises against all but essential travel to Moyale Town and up to 5km around it, including to the border with Ethiopia. Updated information about the Kenya-Ethiopia border ('Warnings and insurance' and 'Regional risks' pages).",
    "url": "https://www.gov.uk/foreign-travel-advice/kenya",
@@ -4915,6 +4915,492 @@
    "flag": "🇰🇪",
    "region": "Sub-Saharan Africa",
    "baseline": 2.97,
+   "watch": []
+  },
+  {
+   "title": "‘We don’t want our future decided by the military’: Young Germans protest",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
+   "time": "2026-11-20T06:20:26+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Germany",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b24e35b6bd79",
+   "flag": "🇩🇪",
+   "region": "Western Europe",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "Czechs protest en masse against 'concentration of power in one hand' and growing control over media",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/spotlight/20261120-czechs-protest-en-masse-against-concentration-of-power-in-one-hand-and-growing-control-over-media",
+   "time": "2026-11-20T06:02:29+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Czech Republic",
+   "city": "Prague",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261120-czechs-protest-en-masse-against-concentration-of-power-in-one-hand-and-growing-control-over-media",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "d0209b1bbf60",
+   "flag": "🇨🇿",
+   "region": "Eastern Europe",
+   "baseline": 1.19,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 54 km W of Madang, Papua New Guinea",
+   "summary": "Depth 98 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc6c",
+   "time": "2026-11-20T05:17:45.106000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Papua New Guinea",
+   "city": null,
+   "lat": -5.219,
+   "lon": 145.2974,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc6c",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "a1bcaaf41718",
+   "flag": "🇵🇬",
+   "region": "East & SE Asia",
+   "baseline": 3.3,
+   "watch": []
+  },
+  {
+   "title": "DR Congo: République Démocratique du Congo - Épidémie de maladie à virus Ebola - Aperçu de la situation, semaine 46 - à la date du 15 novembre 2026",
+   "summary": "Country: Democratic Republic of the Congo Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic.",
+   "url": "https://reliefweb.int/report/democratic-republic-congo/republique-democratique-du-congo-epidemie-de-maladie-virus-ebola-apercu-de-la-situation-semaine-46-la-date-du-15-novembre-2026",
+   "time": "2026-11-20T05:05:32+00:00",
+   "tier": "A",
+   "category": "health",
+   "country": "DRC",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/democratic-republic-congo/republique-democratique-du-congo-epidemie-de-maladie-virus-ebola-apercu-de-la-situation-semaine-46-la-date-du-15-novembre-2026",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "a777e532a956",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
+   "watch": []
+  },
+  {
+   "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
+   "summary": "",
+   "url": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
+   "time": "2026-11-20T05:00:23+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Maldives",
+   "city": "Male",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "5def1bd2c68d",
+   "flag": "🇲🇻",
+   "region": "South Asia",
+   "baseline": 2.32,
+   "watch": []
+  },
+  {
+   "title": "Beau Lamarre-Condon’s explanations of body disposal ‘ring hollow’, court hears",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/20/beau-lamarre-condons-attempts-to-explain-disposal-alleged-victims-bodies-ring-hollow-court-hears-ntwnfb",
+   "time": "2026-11-20T04:58:21+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Australia",
+   "city": "Sydney",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/20/beau-lamarre-condons-attempts-to-explain-disposal-alleged-victims-bodies-ring-hollow-court-hears-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "daac8a06f27a",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
+   "time": "2026-11-20T04:37:08+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Australia",
+   "city": "Melbourne",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "9ea943b670f8",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Thousands protest Colombia’s tax plans amid row over US military role",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
+   "time": "2026-11-20T03:26:23+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Colombia",
+   "city": "Bogota",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "d7c01d19ef0a",
+   "flag": "🇨🇴",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.26,
+   "watch": []
+  },
+  {
+   "title": "M4.8 earthquake, 24 km ESE of Calingasta, Argentina",
+   "summary": "Depth 114 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s",
+   "time": "2026-11-20T02:57:18.070000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Argentina",
+   "city": null,
+   "lat": -31.4302,
+   "lon": -69.1883,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "791e5dabb1b6",
+   "flag": "🇦🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Texas botches execution of Reinaldo Dennes as staffers struggle to find vein",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+   "time": "2026-11-20T02:50:29+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "United States",
+   "city": "Houston",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3d024e9cb16f",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "World: Global Update | November 2026: An Inter-Agency Report of the Global ENSO Analysis Cell - El Niño Status & Humanitarian Outlook",
+   "summary": "Countries: World, Afghanistan, Angola, Bangladesh, Burkina Faso, Burundi, Cambodia, Cameroon, Central African Republic, Chad, Colombia, Cuba, Djibouti, Dominica, Ecuador, El Salvador, Ethiopia, Fiji, Guatemala, Haiti, Honduras, India, Indonesia, Kenya, Madagascar, Malawi, Mali, Marshall Islands, Micronesia (Federated States of), Mozambique, Myanmar, Nepal, Nicaragua, Niger, Nigeria, Pakistan, Papu",
+   "url": "https://reliefweb.int/report/world/global-update-november-2026-inter-agency-report-global-enso-analysis-cell-el-nino-status-humanitarian-outlook",
+   "time": "2026-11-20T02:11:18+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/world/global-update-november-2026-inter-agency-report-global-enso-analysis-cell-el-nino-status-humanitarian-outlook",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "9aff67df18d5",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
+   "title": "Pakistan: Inter-Agency Winterization Strategy 2026 - 2027",
+   "summary": "Country: Pakistan Sources: International Organization for Migration, UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. 1. General Pakistan experiences winter conditions primarily from November to February, with severe cold and snowfall concentrated in northern and high-altitude regions. Winter-related hazards include cold waves, heavy snowfall, avalanches, l",
+   "url": "https://reliefweb.int/report/pakistan/pakistan-inter-agency-winterization-strategy-2026-2027",
+   "time": "2026-11-20T02:00:40+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Pakistan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/pakistan/pakistan-inter-agency-winterization-strategy-2026-2027",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3eee21de94cb",
+   "flag": "🇵🇰",
+   "region": "South Asia",
+   "baseline": 4.31,
+   "watch": []
+  },
+  {
+   "title": "DTM Pakistan: Bi-Weekly Flow Monitoring of Afghan Nationals (16 – 31 October 2026)",
+   "summary": "Countries: Pakistan, Afghanistan Source: International Organization for Migration Please refer to the attached file. The International Organization for Migration (IOM) Pakistan’s FM provides key insights into cross-border migration trends and Afghan nationals returning to Afghanistan, including their profiles, mobility patterns, routes, vulnerabilities, demographics and other social characteristic",
+   "url": "https://reliefweb.int/report/pakistan/dtm-pakistan-bi-weekly-flow-monitoring-afghan-nationals-16-31-october-2026",
+   "time": "2026-11-20T01:33:06+00:00",
+   "tier": "A",
+   "category": "transport",
+   "country": "Pakistan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/pakistan/dtm-pakistan-bi-weekly-flow-monitoring-afghan-nationals-16-31-october-2026",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "fa5d798c3a39",
+   "flag": "🇵🇰",
+   "region": "South Asia",
+   "baseline": 4.31,
+   "watch": []
+  },
+  {
+   "title": "GIEWS Country Brief: Guatemala 19-November-2026",
+   "summary": "Country: Guatemala Source: Food and Agriculture Organization of the United Nations Please refer to the attached file. FOOD SECURITY SNAPSHOT El Niño curtails 2026 Primera maize harvest Postrera maize output anticipated below average, amid adverse weather and high production costs Cereal import requirements forecast above average in 2026/27 El Niño‑related crop losses led prices of white maize and ",
+   "url": "https://reliefweb.int/report/guatemala/giews-country-brief-guatemala-19-november-2026",
+   "time": "2026-11-20T01:25:01+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Guatemala",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/guatemala/giews-country-brief-guatemala-19-november-2026",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "dca7b8bff183",
+   "flag": "🇬🇹",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.4,
+   "watch": []
+  },
+  {
+   "title": "Argentina: ARG: Inundación pluvial / riada - 11-2026 - Inundaciones Santa Fe (crecida del Paraná y del Salado) (2026-11-20)",
+   "summary": "Country: Argentina Sources: Cruz Roja Argentina, International Federation of Red Cross and Red Crescent Societies Please refer to the attached file. Fuentes para datos marcados como Otros El COE provincial reportaba al 16 de noviembre menos de 10 personas evacuadas, entre el 17 y el 18 de noviembre ascendió a 951 las personas desplazadas (entre evacuadas y auto-evacuadas). Secretaría de Protección",
+   "url": "https://reliefweb.int/report/argentina/arg-inundacion-pluvial-riada-11-2026-inundaciones-santa-fe-crecida-del-parana-y-del-salado-2026-11-20",
+   "time": "2026-11-20T00:51:50+00:00",
+   "tier": "A",
+   "category": "health",
+   "country": "Argentina",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/argentina/arg-inundacion-pluvial-riada-11-2026-inundaciones-santa-fe-crecida-del-parana-y-del-salado-2026-11-20",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "f8ee48231c26",
+   "flag": "🇦🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "Armed forces in Haiti kill at least 34 gang members to regain control of key corridor",
+   "summary": "",
+   "url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
+   "time": "2026-11-19T22:31:25+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Haiti",
+   "city": "Port-au-Prince",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
+     "tier": "B"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
+     "tier": "B"
+    },
+    {
+     "name": "Africanews",
+     "url": "http://www.africanews.com/2026/11/20/heavy-fighting-in-haiti-as-armed-forces-battle-gangs-in-capital/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "B1",
+   "corroboration": 3,
+   "id": "511fff0f307f",
+   "flag": "🇭🇹",
+   "region": "Latin America & Caribbean",
+   "baseline": 4.53,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 236 km W of Tual, Indonesia",
+   "summary": "Depth 125 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc3v",
+   "time": "2026-11-19T21:49:33.219000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": -6.0263,
+   "lon": 130.6505,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc3v",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-20T08:08:01.486057+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "dea544fbc8bb",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
    "watch": []
   },
   {
@@ -7275,34 +7761,6 @@
    "watch": []
   },
   {
-   "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-   "time": "2026-11-18T06:26:49+00:00",
-   "tier": "B",
-   "category": "transport",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-18T11:22:03.710464+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "b37319bbabf5",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
    "title": "Green earthquake (Magnitude 5.9M, Depth:21.895km) in Peru 18/11/2026 06:07 UTC, 40 thousand in MMI IV.",
    "summary": "On 11/18/2026 6:07:42 AM, an earthquake occurred in Peru potentially affecting 40 thousand in MMI IV. The earthquake had Magnitude 5.9M, Depth:21.895km.",
    "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577946",
@@ -7527,34 +7985,6 @@
    "watch": []
   },
   {
-   "title": "Afghanistan Development Update: Water for Recovery and Sustainability (November 2026)",
-   "summary": "Country: Afghanistan Source: World Bank Please refer to the attached file. Strong Harvest Lifts Afghanistan’s Economy, but Falling Incomes and Water Shortages Strain Families KABUL, November 18, 2026 — Afghanistan’s economy is expected to grow by 3 percent in 2026, driven almost entirely by a strong harvest. However, output per person is set to fall by 3.3 percent, its third consecutive annual dec",
-   "url": "https://reliefweb.int/report/afghanistan/afghanistan-development-update-water-recovery-and-sustainability-november-2026",
-   "time": "2026-11-18T02:38:29+00:00",
-   "tier": "A",
-   "category": "unrest",
-   "country": "United States",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "ReliefWeb updates",
-     "url": "https://reliefweb.int/report/afghanistan/afghanistan-development-update-water-recovery-and-sustainability-november-2026",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "d3eb1d9595c1",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
    "title": "International hockey federation hit by cyberattack after Russia barred from World Juniors",
    "summary": "",
    "url": "https://kyivindependent.com/international-hockey-federation-hit-by-cyberattack-after-russia-barred-from-world-juniors/",
@@ -7608,34 +8038,6 @@
    "flag": "🇸🇩",
    "region": "Middle East & N. Africa",
    "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "GIEWS Country Brief: Côte d'Ivoire, 16-November-2026",
-   "summary": "Country: Côte d'Ivoire Source: Food and Agriculture Organization of the United Nations Please refer to the attached file. FOOD SECURITY SNAPSHOT Cereal production forecast above average in 2026 Prices of rice near or below year-earlier levels About 1.3 million people severely acute food insecure during 2026 lean season Cereal production forecast above average in 2026 In southern bimodal rainfall a",
-   "url": "https://reliefweb.int/report/cote-divoire/giews-country-brief-cote-divoire-16-november-2026",
-   "time": "2026-11-18T01:24:57+00:00",
-   "tier": "A",
-   "category": "unrest",
-   "country": "Cote d'Ivoire",
-   "city": "Abidjan",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "ReliefWeb updates",
-     "url": "https://reliefweb.int/report/cote-divoire/giews-country-brief-cote-divoire-16-november-2026",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "c9196f48c560",
-   "flag": "🇨🇮",
-   "region": "Sub-Saharan Africa",
-   "baseline": 3.26,
    "watch": []
   },
   {
@@ -9372,146 +9774,6 @@
    "flag": "🇨🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.69,
-   "watch": []
-  },
-  {
-   "title": "M4.7 earthquake, 92 km NW of Houma, Tonga",
-   "summary": "Depth 178 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3",
-   "time": "2026-11-15T07:36:37.211000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Tonga",
-   "city": null,
-   "lat": -20.589,
-   "lon": -175.9354,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-15T12:46:13.930318+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "3034e8528608",
-   "flag": "🇹🇴",
-   "region": "Oceania",
-   "baseline": 1.93,
-   "watch": []
-  },
-  {
-   "title": "Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.",
-   "summary": "On 11/15/2026 5:15:02 AM, an earthquake occurred in Fiji potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.5M, Depth:469.881km.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577445",
-   "time": "2026-11-15T05:31:38+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Fiji",
-   "city": null,
-   "lat": -19.5554,
-   "lon": -177.8215,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1577445",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-15T12:46:13.930318+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "8fa816d42373",
-   "flag": "🇫🇯",
-   "region": "Oceania",
-   "baseline": 2.12,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Sudan, South Sudan",
-   "summary": "On 06/11/2026, a forest fire started in Sudan, South Sudan, until 14/11/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033849",
-   "time": "2026-11-15T04:34:22+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Sudan",
-   "city": null,
-   "lat": 9.716195500109414,
-   "lon": 30.509560592483275,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033849",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-15T12:46:13.930318+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "6ca086297cd6",
-   "flag": "🇸🇩",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Nigeria",
-   "summary": "On 10/11/2026, a forest fire started in Nigeria, until 15/11/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033851",
-   "time": "2026-11-15T04:20:38+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Nigeria",
-   "city": null,
-   "lat": 9.695377452805722,
-   "lon": 10.586507256840319,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033851",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-17T03:27:01.667821+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "c72ab7dce60c",
-   "flag": "🇳🇬",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.3,
-   "watch": []
-  },
-  {
-   "title": "M4.8 earthquake, 19 km NW of Albardón, Argentina",
-   "summary": "Depth 109 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
-   "time": "2026-11-15T03:59:59.682000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Argentina",
-   "city": null,
-   "lat": -31.3221,
-   "lon": -68.6822,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-15T05:11:54.606223+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "6c2149177f90",
-   "flag": "🇦🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.14,
    "watch": []
   },
   {
