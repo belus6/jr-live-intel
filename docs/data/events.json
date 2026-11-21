@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-20T23:01:24.666313+00:00",
+ "generated": "2026-11-21T03:58:32.223738+00:00",
  "sample": false,
- "count": 426,
+ "count": 418,
  "events": [
+  {
+   "title": "M6.7 earthquake, 9 km NE of Carhuamayo, Peru",
+   "summary": "Depth 108 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+   "time": "2026-11-21T00:09:19.667000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Peru",
+   "city": null,
+   "lat": -10.8548,
+   "lon": -75.9779,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-21T03:58:32.223738+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "40cbeab33ac8",
+   "flag": "🇵🇪",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.89,
+   "watch": []
+  },
   {
    "title": "Ecuador: Latin America & The Caribbean Weekly Situation Update as of 20 November 2026",
    "summary": "Countries: Ecuador, Bolivia (Plurinational State of), El Salvador, Guatemala, Haiti, Honduras, Mexico, Panama, Peru, United States of America Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. KEY FIGURES 7.9K people displaced in Haiti since mid-October 3.2M people could face crisis-level food insecurity in Guatemala 93K people affected by El N",
@@ -169,34 +197,6 @@
    "flag": "🇸🇦",
    "region": "Middle East & N. Africa",
    "baseline": 2.62,
-   "watch": []
-  },
-  {
-   "title": "Ukraine: Protection of Civilians in Armed Conflict - October 2026",
-   "summary": "Country: Ukraine Source: UN Office of the High Commissioner for Human Rights Please refer to the attached file. In Ukraine Civilians Die at Alarming Rates Amid Intensifying Attacks, UN Human Rights Officials Say Kyiv, November 17, 2026 -- Powerful weapons of war kill ever growing numbers of civilians across Ukraine, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said today. Attacks in O",
-   "url": "https://reliefweb.int/report/ukraine/ukraine-protection-civilians-armed-conflict-october-2026",
-   "time": "2026-11-18T01:47:34+00:00",
-   "tier": "A",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "ReliefWeb updates",
-     "url": "https://reliefweb.int/report/ukraine/ukraine-protection-civilians-armed-conflict-october-2026",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "069798afe60c",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
    "watch": []
   },
   {
@@ -1497,6 +1497,62 @@
    "flag": "🇰🇼",
    "region": "Middle East & N. Africa",
    "baseline": 2.54,
+   "watch": []
+  },
+  {
+   "title": "oPt: WFP Palestine External Situation Report, 21 November (Reporting Period: 1- 31 October 2026)",
+   "summary": "Country: occupied Palestinian territory Source: World Food Programme Please refer to the attached file. HIGHLIGHTS More than three years into the crisis in Gaza, and one year into the ceasefire, displaced families are facing a fourth winter in tents. Although humanitarian assistance and commercial supplies increased following the October 2025 ceasefire, they remain insufficient against the scale o",
+   "url": "https://reliefweb.int/report/occupied-palestinian-territory/wfp-palestine-external-situation-report-21-november-reporting-period-1-31-october-2026",
+   "time": "2026-11-21T00:52:50+00:00",
+   "tier": "A",
+   "category": "conflict",
+   "country": "Palestine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/occupied-palestinian-territory/wfp-palestine-external-situation-report-21-november-reporting-period-1-31-october-2026",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-21T03:58:32.223738+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "b3a757410207",
+   "flag": "🇵🇸",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.42,
+   "watch": []
+  },
+  {
+   "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+   "time": "2026-11-21T00:00:06+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Iran",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-21T03:58:32.223738+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "3b6f0422d73b",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
    "watch": []
   },
   {
@@ -4063,123 +4119,6 @@
    "watch": []
   },
   {
-   "title": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
-   "summary": "",
-   "url": "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
-   "time": "2026-11-18T02:42:21+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Brazil",
-   "city": "Salvador",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
-     "tier": "B"
-    },
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/11/18/haitians-demonstrate-in-support-of-el-salvadors-bukele-and-anti-gang-troops/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "864a43b287ac",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
-   "watch": []
-  },
-  {
-   "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
-   "time": "2026-11-18T01:07:01+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "c9aba0910f9b",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "Ecuadorian fishermen sue Trump administration over drone strike",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
-   "time": "2026-11-18T01:04:43+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ecuador",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "9b4c04ef7423",
-   "flag": "🇪🇨",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.18,
-   "watch": []
-  },
-  {
-   "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
-   "time": "2026-11-18T00:57:56+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "DRC",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "80fadccd1b19",
-   "flag": "🇨🇩",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.69,
-   "watch": []
-  },
-  {
    "title": "Ukraine protests IAEA chief's plan to appoint sanctioned Russian official as deputy",
    "summary": "",
    "url": "https://kyivindependent.com/ukraine-protests-iaea-chiefs-plan-to-appoint-sanctioned-russian-official-as-deputy-2/",
@@ -4205,67 +4144,6 @@
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
-   "time": "2026-11-18T00:00:27+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Iran",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
-     "tier": "B"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261118-middle-east-live-kuwait-bahrain-report-drone-and-missile-attacks",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "ed9e162685d7",
-   "flag": "🇮🇷",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.58,
-   "watch": []
-  },
-  {
-   "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
-   "time": "2026-11-17T23:38:38+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Kuwait",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "638e8018bdd1",
-   "flag": "🇰🇼",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.54,
    "watch": []
   },
   {
@@ -4605,34 +4483,6 @@
    "watch": []
   },
   {
-   "title": "Huge waves pummel California coast, forcing closure of popular piers",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
-   "time": "2026-11-16T01:00:42+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "United States",
-   "city": "San Francisco",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-16T02:58:32.906233+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "705755eb971d",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
    "title": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief",
    "summary": "",
    "url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
@@ -4798,6 +4648,90 @@
    "flag": "🇰🇪",
    "region": "Sub-Saharan Africa",
    "baseline": 2.97,
+   "watch": []
+  },
+  {
+   "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+   "summary": "",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+   "time": "2026-11-21T01:43:15+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "United States",
+   "city": "Los Angeles",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-21T03:58:32.223738+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "1c6ca8833097",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
+   "time": "2026-11-21T01:12:48+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Denmark",
+   "city": "Copenhagen",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-21T03:58:32.223738+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2a2e62c73df6",
+   "flag": "🇩🇰",
+   "region": "Western Europe",
+   "baseline": 1.0,
+   "watch": []
+  },
+  {
+   "title": "Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.",
+   "summary": "On 11/21/2026 12:09:19 AM, an earthquake occurred in Peru potentially affecting 2 thousand in MMI VI. The earthquake had Magnitude 6.7M, Depth:107.991km.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578468",
+   "time": "2026-11-21T00:18:06+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Peru",
+   "city": null,
+   "lat": -10.8548,
+   "lon": -75.9779,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578468",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-21T03:58:32.223738+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "b3f928f525d1",
+   "flag": "🇵🇪",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.89,
    "watch": []
   },
   {
@@ -7285,34 +7219,6 @@
    "watch": []
   },
   {
-   "title": "World: EU and UNDP Expand Partnership to Strengthen Local Conflict Prevention and Peacebuilding",
-   "summary": "Countries: World, Gambia, Guatemala, Mali, Moldova, Papua New Guinea, Peru, Sri Lanka, Yemen Source: UN Development Programme New phase of Insider Mediation programme will help local peacebuilders respond more rapidly to emerging tensions and prevent conflict. November 17, 2026 New York and Brussels – The United Nations Development Programme (UNDP) and the European Union (EU) have launched a new p",
-   "url": "https://reliefweb.int/report/world/eu-and-undp-expand-partnership-strengthen-local-conflict-prevention-and-peacebuilding",
-   "time": "2026-11-19T02:51:55+00:00",
-   "tier": "A",
-   "category": "unrest",
-   "country": "United States",
-   "city": "New York",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "ReliefWeb updates",
-     "url": "https://reliefweb.int/report/world/eu-and-undp-expand-partnership-strengthen-local-conflict-prevention-and-peacebuilding",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-19T09:14:26.187989+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "93cc52c82700",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
    "title": "Ecuador ENSO Floods 2026 - DREF Operational Update (MDREC032)",
    "summary": "Country: Ecuador Source: International Federation of Red Cross and Red Crescent Societies Please refer to the attached file. Description of the Event Date of event 01-11-2026 What happened, where and when? On 1 November 2026, heavy and persistent rainfall associated with the ongoing El Niño-Southern Oscillation (ENSO) phenomenon triggered flooding, river overflows, landslides and mudslides across ",
    "url": "https://reliefweb.int/report/ecuador/ecuador-enso-floods-2026-dref-operational-update-mdrec032",
@@ -7394,62 +7300,6 @@
    "flag": "🇹🇿",
    "region": "Sub-Saharan Africa",
    "baseline": 2.67,
-   "watch": []
-  },
-  {
-   "title": "Beau Lamarre-Condon’s testimony about Jesse Baird and Luke Davies’ deaths ‘fanciful in the extreme’, crown alleges",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
-   "time": "2026-11-19T01:00:25+00:00",
-   "tier": "B",
-   "category": "crime",
-   "country": "Australia",
-   "city": "Sydney",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-19T01:26:05.888449+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "760985189563",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "World: A record high of nearly one in four children now live in conflict zones - Save the Children report",
-   "summary": "Country: World Source: Save the Children · Nearly one in four children worldwide live in conflict zones, new report finds · Africa now accounts for 44% of children living near conflict worldwide, with an unprecedented two in five African children impacted · Verified incidents of denial of humanitarian access against children have increased almost 16-fold in a decade to almost one an hour AMMAN, 19",
-   "url": "https://reliefweb.int/report/world/record-high-nearly-one-four-children-now-live-conflict-zones-save-children-report",
-   "time": "2026-11-19T00:01:00+00:00",
-   "tier": "A",
-   "category": "crime",
-   "country": "Jordan",
-   "city": "Amman",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "ReliefWeb updates",
-     "url": "https://reliefweb.int/report/world/record-high-nearly-one-four-children-now-live-conflict-zones-save-children-report",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-19T01:26:05.888449+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "66242b465031",
-   "flag": "🇯🇴",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
    "watch": []
   },
   {
@@ -8514,34 +8364,6 @@
    "flag": "🇵🇬",
    "region": "East & SE Asia",
    "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "International hockey federation hit by cyberattack after Russia barred from World Juniors",
-   "summary": "",
-   "url": "https://kyivindependent.com/international-hockey-federation-hit-by-cyberattack-after-russia-barred-from-world-juniors/",
-   "time": "2026-11-18T02:31:23+00:00",
-   "tier": "C",
-   "category": "cyber",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/international-hockey-federation-hit-by-cyberattack-after-russia-barred-from-world-juniors/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "20c49ab9b7b5",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
    "watch": []
   },
   {
@@ -9858,62 +9680,6 @@
    "flag": "🇹🇩",
    "region": "Sub-Saharan Africa",
    "baseline": 4.62,
-   "watch": []
-  },
-  {
-   "title": "Libyan town rebuilt after devastating floods becomes showcase for strongman's rule",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-11-16T00:11:12+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Libya",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-16T10:57:01.058001+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ac97948a9dcc",
-   "flag": "🇱🇾",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.79,
-   "watch": []
-  },
-  {
-   "title": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-11-16T00:11:12+00:00",
-   "tier": "B",
-   "category": "hazard",
-   "country": "Libya",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-16T20:53:06.953989+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "1af4f00de557",
-   "flag": "🇱🇾",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.79,
    "watch": []
   },
   {
