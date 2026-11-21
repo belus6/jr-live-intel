@@ -1,15 +1,17 @@
 {
- "generated": "2026-11-21T19:39:54.598093+00:00",
+ "generated": "2026-11-21T23:55:58.065080+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 41,
-  "3": 26,
-  "4": 0,
+  "2": 40,
+  "3": 24,
+  "4": 1,
   "5": 1
  },
- "watch_hits": [],
+ "watch_hits": [
+  "37341e13bebd"
+ ],
  "regions": {
   "Latin America & Caribbean": [
    {
@@ -23,14 +25,14 @@
     "time": "2026-11-21T00:09:19.667000+00:00"
    },
    {
-    "id": "6df095ffae10",
-    "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-    "country": "Haiti",
+    "id": "2befcfdb0268",
+    "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+    "country": "Brazil",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "political",
+    "severity": 4,
     "confidence": "B3",
-    "time": "2026-11-20T20:59:04+00:00"
+    "time": "2026-11-21T21:02:18+00:00"
    },
    {
     "id": "7daaadf8510c",
@@ -41,6 +43,16 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-21T19:03:04.170000+00:00"
+   },
+   {
+    "id": "211c6c90e720",
+    "title": "M4.5 earthquake, 0 km SSW of La Colorada, Panama",
+    "country": "Panama",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-21T17:14:21.477000+00:00"
    },
    {
     "id": "1163a5e8e7e5",
@@ -81,19 +93,19 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-21T11:00:57+00:00"
-   },
-   {
-    "id": "df604dab1e53",
-    "title": "M4.7 earthquake, 38 km NE of Calama, Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T01:24:09.274000+00:00"
    }
   ],
   "Eastern Europe": [
+   {
+    "id": "817e541fa482",
+    "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-21T18:42:38+00:00"
+   },
    {
     "id": "905da687bc8a",
     "title": "Russian projectiles hit Poland as NATO tensions rise",
@@ -105,14 +117,14 @@
     "time": "2026-11-21T09:47:05+00:00"
    },
    {
-    "id": "817e541fa482",
-    "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-    "country": "Ukraine",
-    "city": "Kyiv",
+    "id": "b8568a22dabb",
+    "title": "Moldova, Finland report Russian airspace violations day after suspected Russian missiles flew into Poland",
+    "country": "Poland",
+    "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-21T18:42:38+00:00"
+    "confidence": "C4",
+    "time": "2026-11-21T23:35:21+00:00"
    },
    {
     "id": "aeb965f50c2e",
@@ -123,6 +135,16 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-21T18:02:23+00:00"
+   },
+   {
+    "id": "62dd5bf8ffe5",
+    "title": "Russian military-linked cargo ship could sink after drone strike in Gulf of Finland, Finnish official warns",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-21T17:39:48+00:00"
    },
    {
     "id": "2a67b575c2e0",
@@ -153,29 +175,19 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-21T12:21:40+00:00"
-   },
-   {
-    "id": "e92b9a8375c0",
-    "title": "Russian attacks kill at least 2, injure 83 across Ukraine, as strikes devastate Kryvyi Rih",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-21T08:58:01+00:00"
-   },
-   {
-    "id": "1f9715f604c2",
-    "title": "General Staff: Russia has lost 1,634,860 troops in Ukraine since Feb. 24, 2022",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-21T07:29:44+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "d3d9bfc63e99",
+    "title": "Swedish Gripen pilot unable to shoot down suspected Russian missile over Poland due to poor weather, commander says",
+    "country": "Sweden",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-21T22:07:35+00:00"
+   },
    {
     "id": "3111a2cc991b",
     "title": "Russia-bound ship attacked in Gulf of Finland",
@@ -227,34 +239,24 @@
     "time": "2026-11-21T12:35:54+00:00"
    },
    {
-    "id": "56188bcf12fd",
-    "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
-    "country": "United Kingdom",
+    "id": "e040fa044fb1",
+    "title": "Thousands protest across Europe over living costs and housing",
+    "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-21T17:57:27+00:00"
+    "time": "2026-11-21T20:47:50+00:00"
    },
    {
-    "id": "1793a800c6a1",
-    "title": "FBI criminal database hacked",
+    "id": "6135bd54077d",
+    "title": "France’s sixth consecutive Saturday of protests draw lower turnout",
     "country": "France",
     "city": null,
-    "category": "cyber",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-21T17:23:18+00:00"
-   },
-   {
-    "id": "115bf997213e",
-    "title": "France: Demonstrations losing steam as movement enters sixth week",
-    "country": "France",
-    "city": "Paris",
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-21T16:00:03+00:00"
+    "time": "2026-11-21T20:20:37+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -279,14 +281,14 @@
     "time": "2026-11-21T07:13:49+00:00"
    },
    {
-    "id": "96084d4ffaea",
-    "title": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
-    "country": "DRC",
+    "id": "16ee52970a2d",
+    "title": "Green forest fire notification in Ethiopia, Sudan",
+    "country": "Ethiopia",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-20T21:53:35+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-21T12:29:09+00:00"
    }
   ],
   "East & SE Asia": [
@@ -383,16 +385,6 @@
     "time": "2026-11-21T00:00:06+00:00"
    },
    {
-    "id": "cca574683a23",
-    "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-20T20:14:56+00:00"
-   },
-   {
     "id": "9ce7ec22ded3",
     "title": "Tanzania rally from two goals down to draw with Costa Rica in U17 World Cup debut",
     "country": "Qatar",
@@ -424,6 +416,16 @@
    }
   ],
   "North America": [
+   {
+    "id": "37341e13bebd",
+    "title": "Mexico captures drug cartel boss ‘El Chapo Isidro’ after deadly firefight",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B1",
+    "time": "2026-11-21T15:00:15+00:00"
+   },
    {
     "id": "1c6ca8833097",
     "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
@@ -517,16 +519,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-21T04:44:00+00:00"
-   },
-   {
-    "id": "7a6dd78f3de3",
-    "title": "M4.9 earthquake, 113 km ESE of Pangai, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T22:34:39.096000+00:00"
    }
   ]
  }
