@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-21T12:25:58.031537+00:00",
+ "generated": "2026-11-21T19:39:54.598093+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 44,
-  "3": 24,
-  "4": 1,
-  "5": 4
+  "2": 41,
+  "3": 26,
+  "4": 0,
+  "5": 1
  },
  "watch_hits": [],
  "regions": {
@@ -23,16 +23,6 @@
     "time": "2026-11-21T00:09:19.667000+00:00"
    },
    {
-    "id": "5d73046143f5",
-    "title": "Ecuador: Latin America & The Caribbean Weekly Situation Update as of 20 November 2026",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "health",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-11-20T18:55:46+00:00"
-   },
-   {
     "id": "6df095ffae10",
     "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
     "country": "Haiti",
@@ -41,6 +31,36 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-20T20:59:04+00:00"
+   },
+   {
+    "id": "7daaadf8510c",
+    "title": "M4.9 earthquake, 88 km WNW of El Aguilar, Argentina",
+    "country": "Argentina",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-21T19:03:04.170000+00:00"
+   },
+   {
+    "id": "1163a5e8e7e5",
+    "title": "M4.6 earthquake, 18 km ESE of La Romana, Dominican Republic",
+    "country": "Dominican Republic",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-21T15:00:13.140000+00:00"
+   },
+   {
+    "id": "531d2b84dc4c",
+    "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-21T12:00:00+00:00"
    },
    {
     "id": "8d1fe092a8fd",
@@ -63,109 +83,17 @@
     "time": "2026-11-21T11:00:57+00:00"
    },
    {
-    "id": "b3f928f525d1",
-    "title": "Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.",
-    "country": "Peru",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T00:18:06+00:00"
-   },
-   {
-    "id": "7ec29e5e71e6",
-    "title": "Jamaica: IOM Hurricane Melissa Situation Report #20",
-    "country": "Jamaica",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T18:46:12+00:00"
-   },
-   {
-    "id": "9edc641fc672",
-    "title": "M4.7 earthquake, 94 km W of Illapel, Chile",
+    "id": "df604dab1e53",
+    "title": "M4.7 earthquake, 38 km NE of Calama, Chile",
     "country": "Chile",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-20T14:16:15.225000+00:00"
-   }
-  ],
-  "Sub-Saharan Africa": [
-   {
-    "id": "c4a3d900488e",
-    "title": "South Africa's murder rate falls but killings average 60 a day",
-    "country": "South Africa",
-    "city": null,
-    "category": "crime",
-    "severity": 5,
-    "confidence": "C4",
-    "time": "2026-11-20T14:26:35+00:00"
-   },
-   {
-    "id": "3b4270491095",
-    "title": "DR Congo: The Bundibugyo Ebola Outbreak in Africa: Six-Month Situation and Response Report",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-11-20T12:55:38+00:00"
-   },
-   {
-    "id": "eb5e492036f7",
-    "title": "Around 700,000 displaced by volatile conflict in southern Ethiopia",
-    "country": "Ethiopia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-21T07:13:49+00:00"
-   },
-   {
-    "id": "96084d4ffaea",
-    "title": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
-    "country": "DRC",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-20T21:53:35+00:00"
-   },
-   {
-    "id": "9fa30e817ded",
-    "title": "Green forest fire notification in Madagascar",
-    "country": "Madagascar",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T16:05:47+00:00"
-   },
-   {
-    "id": "c72ab7dce60c",
-    "title": "Green forest fire notification in Nigeria",
-    "country": "Nigeria",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T16:03:52+00:00"
+    "time": "2026-11-21T01:24:09.274000+00:00"
    }
   ],
   "Eastern Europe": [
-   {
-    "id": "451358ac6c3f",
-    "title": "Ukraine war latest: Russia strikes 3 Kyiv bridges in massive aerial assault on Ukraine, at least 9 dead",
-    "country": "Poland",
-    "city": null,
-    "category": "conflict",
-    "severity": 4,
-    "confidence": "C4",
-    "time": "2026-11-20T19:01:21+00:00"
-   },
    {
     "id": "905da687bc8a",
     "title": "Russian projectiles hit Poland as NATO tensions rise",
@@ -175,6 +103,46 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-11-21T09:47:05+00:00"
+   },
+   {
+    "id": "817e541fa482",
+    "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-21T18:42:38+00:00"
+   },
+   {
+    "id": "aeb965f50c2e",
+    "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-21T18:02:23+00:00"
+   },
+   {
+    "id": "2a67b575c2e0",
+    "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+    "country": "Poland",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-21T17:20:03+00:00"
+   },
+   {
+    "id": "83448a1e7352",
+    "title": "Is Europe finally ready to play hardball with Putin?",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-21T15:52:21+00:00"
    },
    {
     "id": "4afdc635c937",
@@ -205,36 +173,120 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-21T07:29:44+00:00"
-   },
+   }
+  ],
+  "Western Europe": [
    {
-    "id": "c5d202cc4bf8",
-    "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
-    "country": "Ukraine",
-    "city": "Kyiv",
+    "id": "3111a2cc991b",
+    "title": "Russia-bound ship attacked in Gulf of Finland",
+    "country": "Finland",
+    "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-21T05:00:50+00:00"
+    "time": "2026-11-21T19:20:22+00:00"
    },
    {
-    "id": "d6c9cd34c85e",
-    "title": "Russian ballistic missile strikes on Kryvyi Rih kill 7-year-old, paramedic, injure 42 others in double-tap attack",
-    "country": "Russia",
+    "id": "16b8153835ba",
+    "title": "Russian military-linked cargo ship catches fire after reported drone strike in Gulf of Finland",
+    "country": "Finland",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-21T17:39:48+00:00"
+   },
+   {
+    "id": "a4fc7530803c",
+    "title": "Russian helicopter suspected of violating Finnish airspace",
+    "country": "Finland",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-21T17:08:00+00:00"
+   },
+   {
+    "id": "dbd251d0c6f0",
+    "title": "Russia tests NATO’s eastern defences",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-21T12:50:35+00:00"
+   },
+   {
+    "id": "617b8beeb2c4",
+    "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+    "country": "Finland",
+    "city": "Helsinki",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-21T12:35:54+00:00"
+   },
+   {
+    "id": "56188bcf12fd",
+    "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-21T17:57:27+00:00"
+   },
+   {
+    "id": "1793a800c6a1",
+    "title": "FBI criminal database hacked",
+    "country": "France",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-21T17:23:18+00:00"
+   },
+   {
+    "id": "115bf997213e",
+    "title": "France: Demonstrations losing steam as movement enters sixth week",
+    "country": "France",
+    "city": "Paris",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-21T16:00:03+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "77e6b028cc0c",
+    "title": "Ethiopia - Eritrea: Troops mobilise along the border",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-21T12:19:21+00:00"
+   },
+   {
+    "id": "eb5e492036f7",
+    "title": "Around 700,000 displaced by volatile conflict in southern Ethiopia",
+    "country": "Ethiopia",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "C4",
-    "time": "2026-11-20T21:28:48+00:00"
+    "time": "2026-11-21T07:13:49+00:00"
    },
    {
-    "id": "ff87fa54cbf7",
-    "title": "Russian ornithologist jailed over small donations to Navalny's foundation",
-    "country": "Bulgaria",
-    "city": "Sofia",
+    "id": "96084d4ffaea",
+    "title": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
+    "country": "DRC",
+    "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-20T20:45:00+00:00"
+    "time": "2026-11-20T21:53:35+00:00"
    }
   ],
   "East & SE Asia": [
@@ -287,16 +339,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-21T09:54:31+00:00"
-   },
-   {
-    "id": "04453f17d1ad",
-    "title": "M5.1 earthquake, 15 km SSW of Balangonan, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T13:09:04.057000+00:00"
    }
   ],
   "Middle East & N. Africa": [
@@ -351,14 +393,24 @@
     "time": "2026-11-20T20:14:56+00:00"
    },
    {
-    "id": "2bebde4f9207",
-    "title": "Jerusalem Daily: Palestinians return home to ruins",
-    "country": "Palestine",
+    "id": "9ce7ec22ded3",
+    "title": "Tanzania rally from two goals down to draw with Costa Rica in U17 World Cup debut",
+    "country": "Qatar",
+    "city": "Doha",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-21T19:15:43+00:00"
+   },
+   {
+    "id": "ca5f84a2fea0",
+    "title": "Green flood alert in Türkiye",
+    "country": "Turkey",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-20T15:42:04+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-21T12:32:41+00:00"
    },
    {
     "id": "aa3d0b8edade",
@@ -369,16 +421,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-21T09:27:21+00:00"
-   },
-   {
-    "id": "ec71e7232ea4",
-    "title": "oPt: Gaza Strip | Learning Spaces Assessment Report (November 2026)",
-    "country": "Palestine",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T22:27:27+00:00"
    }
   ],
   "North America": [
@@ -393,6 +435,46 @@
     "time": "2026-11-21T01:43:15+00:00"
    },
    {
+    "id": "13edc81660f0",
+    "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+    "country": "Mexico",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-11-21T16:03:16+00:00"
+   },
+   {
+    "id": "f201424f8bc0",
+    "title": "Man convicted of starting Palisades fire in Los Angeles",
+    "country": "United States",
+    "city": "Los Angeles",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B2",
+    "time": "2026-11-21T04:34:00+00:00"
+   },
+   {
+    "id": "4cdf45f6469d",
+    "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
+    "country": "United States",
+    "city": "New Orleans",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-21T18:50:00+00:00"
+   },
+   {
+    "id": "0f2b462ff821",
+    "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+    "country": "Mexico",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-21T18:08:55+00:00"
+   },
+   {
     "id": "2ab3780b1271",
     "title": "Mexico captures FBI-wanted cartel boss in military raid",
     "country": "Mexico",
@@ -401,98 +483,18 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-21T11:53:56+00:00"
-   },
-   {
-    "id": "da129f87834a",
-    "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
-    "country": "United States",
-    "city": "New York",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T18:24:12+00:00"
    }
   ],
-  "Western Europe": [
+  "South Asia": [
    {
-    "id": "e864014be942",
-    "title": "20 years after his murder in Britain, Alexander Litvinenko's wife writes memoir to remind of Russian threat",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-21T12:15:16+00:00"
-   },
-   {
-    "id": "1de3789e23fd",
-    "title": "Face covering restrictions at Britain First rally in Midlands",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-21T11:30:00+00:00"
-   },
-   {
-    "id": "6c0c612cd2c2",
-    "title": "Live: France braces for fresh protests as social unrest enters sixth week",
-    "country": "France",
+    "id": "86846f9e82dc",
+    "title": "India’s opposition stages protests against Meta over account removals",
+    "country": "India",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-21T08:29:53+00:00"
-   },
-   {
-    "id": "60d6ce080817",
-    "title": "Letby trial doctor barred from treating patients was expert witness in another case",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-21T08:00:52+00:00"
-   },
-   {
-    "id": "2a2e62c73df6",
-    "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-    "country": "Denmark",
-    "city": "Copenhagen",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-21T01:12:48+00:00"
-   },
-   {
-    "id": "334afb640479",
-    "title": "Germany: Berlin student protest targets rearmament and compulsory service",
-    "country": "Germany",
-    "city": "Berlin",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-20T22:54:31+00:00"
-   },
-   {
-    "id": "740f1ae49266",
-    "title": "'Licence to kill': French parliament adopts police shootings law slammed by activists",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T21:17:59+00:00"
-   },
-   {
-    "id": "6203fca58b11",
-    "title": "'Licence to kill': France adopts law presuming 'legitimate' self-defence in police shootings",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T21:17:59+00:00"
+    "time": "2026-11-21T16:14:01+00:00"
    }
   ],
   "Oceania": [
@@ -525,28 +527,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-20T22:34:39.096000+00:00"
-   },
-   {
-    "id": "99784d376cf6",
-    "title": "M5.1 earthquake, 32 km NE of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T17:53:15.442000+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "b0d46a722da9",
-    "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-    "country": "India",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T19:27:49+00:00"
    }
   ]
  }
