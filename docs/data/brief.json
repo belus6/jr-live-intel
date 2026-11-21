@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-21T03:58:32.223738+00:00",
+ "generated": "2026-11-21T12:25:58.031537+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 45,
-  "3": 21,
+  "2": 44,
+  "3": 24,
   "4": 1,
   "5": 4
  },
@@ -43,6 +43,26 @@
     "time": "2026-11-20T20:59:04+00:00"
    },
    {
+    "id": "8d1fe092a8fd",
+    "title": "Suriname Indigenous Leaders Threaten Protest",
+    "country": "Suriname",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-21T11:30:00+00:00"
+   },
+   {
+    "id": "5d9ea019cc87",
+    "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
+    "country": "Haiti",
+    "city": "Port-au-Prince",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-21T11:00:57+00:00"
+   },
+   {
     "id": "b3f928f525d1",
     "title": "Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.",
     "country": "Peru",
@@ -71,26 +91,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-20T14:16:15.225000+00:00"
-   },
-   {
-    "id": "6f0828f56bc5",
-    "title": "El Salvador: Nayib Bukele, self-proclaimed “coolest dictator on earth”, is seeking a third term",
-    "country": "Brazil",
-    "city": "Salvador",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T12:07:14+00:00"
-   },
-   {
-    "id": "92d88aef9f73",
-    "title": "Green forest fire notification in Bolivia",
-    "country": "Bolivia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T12:03:00+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -113,6 +113,16 @@
     "severity": 5,
     "confidence": "A1",
     "time": "2026-11-20T12:55:38+00:00"
+   },
+   {
+    "id": "eb5e492036f7",
+    "title": "Around 700,000 displaced by volatile conflict in southern Ethiopia",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-21T07:13:49+00:00"
    },
    {
     "id": "96084d4ffaea",
@@ -143,16 +153,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-20T16:03:52+00:00"
-   },
-   {
-    "id": "a777e532a956",
-    "title": "DR Congo: République Démocratique du Congo - Épidémie de maladie à virus Ebola - Aperçu de la situation, semaine 46 - à la date du 15 novembre 2026",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T05:05:32+00:00"
    }
   ],
   "Eastern Europe": [
@@ -167,14 +167,54 @@
     "time": "2026-11-20T19:01:21+00:00"
    },
    {
-    "id": "7c00b6aeb2e1",
-    "title": "2 Russian Kh-101 missiles, drone, fall in Poland during Russian attack on Ukraine",
+    "id": "905da687bc8a",
+    "title": "Russian projectiles hit Poland as NATO tensions rise",
     "country": "Poland",
-    "city": null,
+    "city": "Warsaw",
     "category": "conflict",
     "severity": 3,
     "confidence": "B2",
-    "time": "2026-11-20T09:11:40+00:00"
+    "time": "2026-11-21T09:47:05+00:00"
+   },
+   {
+    "id": "4afdc635c937",
+    "title": "Russia may need a year to clear collapsed Crimean Bridge section, Ukraine says",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-21T12:21:40+00:00"
+   },
+   {
+    "id": "e92b9a8375c0",
+    "title": "Russian attacks kill at least 2, injure 83 across Ukraine, as strikes devastate Kryvyi Rih",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-21T08:58:01+00:00"
+   },
+   {
+    "id": "1f9715f604c2",
+    "title": "General Staff: Russia has lost 1,634,860 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-21T07:29:44+00:00"
+   },
+   {
+    "id": "c5d202cc4bf8",
+    "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-21T05:00:50+00:00"
    },
    {
     "id": "d6c9cd34c85e",
@@ -195,49 +235,91 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-20T20:45:00+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "8cbee96c97bd",
+    "title": "M5.9 earthquake, 238 km SW of Yanglong, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-21T10:45:33.230000+00:00"
    },
    {
-    "id": "5ed692a95c56",
-    "title": "EU sports chief lambasts FIFA, International Olympic Committee, as 'main architects that support the Kremlin'",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "political",
-    "severity": 3,
+    "id": "0e4c16d1aa93",
+    "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI>=VII).",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-21T11:02:39+00:00"
+   },
+   {
+    "id": "469f9a8d68f1",
+    "title": "Japan: Autonomous air taxi completes passenger flight without a pilot",
+    "country": "Japan",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "C4",
-    "time": "2026-11-20T18:52:57+00:00"
+    "time": "2026-11-21T10:20:32+00:00"
    },
    {
-    "id": "4388ac1ca652",
-    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-    "country": "Poland",
-    "city": "Warsaw",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-20T16:54:29+00:00"
-   },
-   {
-    "id": "3fdd8b8ab108",
-    "title": "Poland condemns Russian ‘provocation’ after airspace violations",
-    "country": "Poland",
+    "id": "953ec94c45c3",
+    "title": "M5.2 earthquake, 112 km SSE of Tateyama, Japan",
+    "country": "Japan",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-20T15:18:26+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-21T10:09:05.474000+00:00"
    },
    {
-    "id": "1adc674e07ac",
-    "title": "What we know about the latest Russian missile strikes on Ukraine",
-    "country": "Ukraine",
+    "id": "ea8542f815a7",
+    "title": "Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 70 thousand in MMI V.",
+    "country": "Indonesia",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-20T15:14:01+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-21T09:54:31+00:00"
+   },
+   {
+    "id": "04453f17d1ad",
+    "title": "M5.1 earthquake, 15 km SSW of Balangonan, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-20T13:09:04.057000+00:00"
    }
   ],
   "Middle East & N. Africa": [
+   {
+    "id": "1a480db844e8",
+    "title": "Houthis launch strikes on Saudi Arabia",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-21T09:49:44+00:00"
+   },
+   {
+    "id": "02354b8fe303",
+    "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+    "country": "Iran",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-21T09:30:24+00:00"
+   },
    {
     "id": "b3a757410207",
     "title": "oPt: WFP Palestine External Situation Report, 21 November (Reporting Period: 1- 31 October 2026)",
@@ -279,14 +361,14 @@
     "time": "2026-11-20T15:42:04+00:00"
    },
    {
-    "id": "e73361b2fc32",
-    "title": "One in four children lived in conflict zones in 2025, Save the Children warns",
+    "id": "aa3d0b8edade",
+    "title": "Green flood alert in Islamic Republic of Iran",
     "country": "Iran",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-20T09:45:03+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-21T09:27:21+00:00"
    },
    {
     "id": "ec71e7232ea4",
@@ -297,39 +379,9 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-20T22:27:27+00:00"
-   },
-   {
-    "id": "cb448ee0c54d",
-    "title": "Former US national security adviser confronted by students on Gaza",
-    "country": "Palestine",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T18:51:26+00:00"
-   },
-   {
-    "id": "559ebbd3af0d",
-    "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
-    "country": "Saudi Arabia",
-    "city": null,
-    "category": "transport",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T14:48:04+00:00"
    }
   ],
   "North America": [
-   {
-    "id": "ab2d7c08e179",
-    "title": "World: ICRC: Explosive remnants of war continue to kill and maim civilians long after the fighting ends",
-    "country": "United States",
-    "city": "New York",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-20T05:30:58+00:00"
-   },
    {
     "id": "1c6ca8833097",
     "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
@@ -337,8 +389,18 @@
     "city": "Los Angeles",
     "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
+    "confidence": "B1",
     "time": "2026-11-21T01:43:15+00:00"
+   },
+   {
+    "id": "2ab3780b1271",
+    "title": "Mexico captures FBI-wanted cartel boss in military raid",
+    "country": "Mexico",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-21T11:53:56+00:00"
    },
    {
     "id": "da129f87834a",
@@ -349,100 +411,48 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-20T18:24:12+00:00"
-   },
-   {
-    "id": "24325ca02867",
-    "title": "US: Protesters demand human control over AI after Anthropic's IPO",
-    "country": "United States",
-    "city": "San Francisco",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-20T10:48:54+00:00"
-   },
-   {
-    "id": "615b52b7a8a5",
-    "title": "Green flood alert in United States",
-    "country": "United States",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T09:07:26+00:00"
-   },
-   {
-    "id": "df9c8625c401",
-    "title": "Green flood alert in Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T09:07:16+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "f876adb808c7",
-    "title": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-20T05:02:16+00:00"
-   },
-   {
-    "id": "7a6dd78f3de3",
-    "title": "M4.9 earthquake, 113 km ESE of Pangai, Tonga",
-    "country": "Tonga",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T22:34:39.096000+00:00"
-   },
-   {
-    "id": "99784d376cf6",
-    "title": "M5.1 earthquake, 32 km NE of Port-Olry, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T17:53:15.442000+00:00"
-   },
-   {
-    "id": "daac8a06f27a",
-    "title": "Beau Lamarre-Condon’s explanations of body disposal ‘ring hollow’, court hears",
-    "country": "Australia",
-    "city": "Sydney",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T04:58:21+00:00"
-   },
-   {
-    "id": "9ea943b670f8",
-    "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
-    "country": "Australia",
-    "city": "Melbourne",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T04:37:08+00:00"
    }
   ],
   "Western Europe": [
    {
-    "id": "985d2ffe7d5e",
-    "title": "Italy strike draws workers, students into nationwide protests over wages and living costs",
-    "country": "Italy",
-    "city": "Rome",
+    "id": "e864014be942",
+    "title": "20 years after his murder in Britain, Alexander Litvinenko's wife writes memoir to remind of Russian threat",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-21T12:15:16+00:00"
+   },
+   {
+    "id": "1de3789e23fd",
+    "title": "Face covering restrictions at Britain First rally in Midlands",
+    "country": "United Kingdom",
+    "city": null,
     "category": "unrest",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-11-20T11:25:32+00:00"
+    "confidence": "C4",
+    "time": "2026-11-21T11:30:00+00:00"
+   },
+   {
+    "id": "6c0c612cd2c2",
+    "title": "Live: France braces for fresh protests as social unrest enters sixth week",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-21T08:29:53+00:00"
+   },
+   {
+    "id": "60d6ce080817",
+    "title": "Letby trial doctor barred from treating patients was expert witness in another case",
+    "country": "United Kingdom",
+    "city": "London",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-21T08:00:52+00:00"
    },
    {
     "id": "2a2e62c73df6",
@@ -475,44 +485,56 @@
     "time": "2026-11-20T21:17:59+00:00"
    },
    {
-    "id": "b86a88577edc",
-    "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T18:36:30+00:00"
-   },
-   {
-    "id": "8557968ccd01",
-    "title": "Protests held across Europe over wages, services, high living costs",
+    "id": "6203fca58b11",
+    "title": "'Licence to kill': France adopts law presuming 'legitimate' self-defence in police shootings",
     "country": "France",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-20T17:32:32+00:00"
+    "time": "2026-11-20T21:17:59+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "e68dc8e69c06",
+    "title": "M4.9 earthquake, 65 km NNW of Port-Vila, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-21T07:20:44.218000+00:00"
    },
    {
-    "id": "c8deef7613bc",
-    "title": "Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations",
-    "country": "France",
-    "city": null,
+    "id": "94acfbc2a6e9",
+    "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+    "country": "Australia",
+    "city": "Melbourne",
     "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-20T16:54:57+00:00"
+    "time": "2026-11-21T04:44:00+00:00"
    },
    {
-    "id": "d076148087b4",
-    "title": "France investigates actor Depardieu, writer Houellebecq over alleged gang rape",
-    "country": "France",
+    "id": "7a6dd78f3de3",
+    "title": "M4.9 earthquake, 113 km ESE of Pangai, Tonga",
+    "country": "Tonga",
     "city": null,
-    "category": "crime",
+    "category": "hazard",
     "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T16:27:56+00:00"
+    "confidence": "A1",
+    "time": "2026-11-20T22:34:39.096000+00:00"
+   },
+   {
+    "id": "99784d376cf6",
+    "title": "M5.1 earthquake, 32 km NE of Port-Olry, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-20T17:53:15.442000+00:00"
    }
   ],
   "South Asia": [
@@ -525,38 +547,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-20T19:27:49+00:00"
-   },
-   {
-    "id": "5def1bd2c68d",
-    "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
-    "country": "Maldives",
-    "city": "Male",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-20T05:00:23+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "04453f17d1ad",
-    "title": "M5.1 earthquake, 15 km SSW of Balangonan, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T13:09:04.057000+00:00"
-   },
-   {
-    "id": "a1bcaaf41718",
-    "title": "M4.9 earthquake, 54 km W of Madang, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-20T05:17:45.106000+00:00"
    }
   ]
  }
