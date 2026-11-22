@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-22T05:45:35.185906+00:00",
+ "generated": "2026-11-22T14:11:15.823601+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 39,
-  "3": 24,
+  "2": 38,
+  "3": 26,
   "4": 2,
   "5": 0
  },
@@ -23,6 +23,26 @@
     "severity": 4,
     "confidence": "B3",
     "time": "2026-11-21T21:02:18+00:00"
+   },
+   {
+    "id": "e0962a63877f",
+    "title": "Green flood alert in Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-22T11:21:43+00:00"
+   },
+   {
+    "id": "e0f2374f0cbf",
+    "title": "M5.0 earthquake, 15 km NNE of Carhuamayo, Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-22T05:51:58.624000+00:00"
    },
    {
     "id": "7daaadf8510c",
@@ -53,36 +73,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-21T15:00:13.140000+00:00"
-   },
-   {
-    "id": "531d2b84dc4c",
-    "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-21T12:00:00+00:00"
-   },
-   {
-    "id": "8d1fe092a8fd",
-    "title": "Suriname Indigenous Leaders Threaten Protest",
-    "country": "Suriname",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-21T11:30:00+00:00"
-   },
-   {
-    "id": "5d9ea019cc87",
-    "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
-    "country": "Haiti",
-    "city": "Port-au-Prince",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-21T11:00:57+00:00"
    }
   ],
   "North America": [
@@ -157,243 +147,37 @@
     "time": "2026-11-21T18:08:55+00:00"
    },
    {
-    "id": "2ab3780b1271",
-    "title": "Mexico captures FBI-wanted cartel boss in military raid",
+    "id": "0721447bafc9",
+    "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
     "country": "Mexico",
     "city": null,
     "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-21T11:53:56+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "817e541fa482",
-    "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-21T18:42:38+00:00"
-   },
-   {
-    "id": "aeb965f50c2e",
-    "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-21T18:02:23+00:00"
-   },
-   {
-    "id": "905da687bc8a",
-    "title": "Russian projectiles hit Poland as NATO tensions rise",
-    "country": "Poland",
-    "city": "Warsaw",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-21T09:47:05+00:00"
-   },
-   {
-    "id": "b8568a22dabb",
-    "title": "Moldova, Finland report Russian airspace violations day after suspected Russian missiles flew into Poland",
-    "country": "Poland",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-21T23:35:21+00:00"
-   },
-   {
-    "id": "62dd5bf8ffe5",
-    "title": "Russian military-linked cargo ship could sink after drone strike in Gulf of Finland, Finnish official warns",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-21T17:39:48+00:00"
-   },
-   {
-    "id": "2a67b575c2e0",
-    "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-    "country": "Poland",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-21T17:20:03+00:00"
-   },
-   {
-    "id": "83448a1e7352",
-    "title": "Is Europe finally ready to play hardball with Putin?",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-21T15:52:21+00:00"
-   },
-   {
-    "id": "4afdc635c937",
-    "title": "Russia may need a year to clear collapsed Crimean Bridge section, Ukraine says",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-21T12:21:40+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "9ea4e399d28f",
-    "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-    "country": "South Korea",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-22T05:04:39+00:00"
-   },
-   {
-    "id": "8cbee96c97bd",
-    "title": "M5.9 earthquake, 238 km SW of Yanglong, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-21T10:45:33.230000+00:00"
-   },
-   {
-    "id": "33ce1dcab126",
-    "title": "M4.6 earthquake, 60 km WNW of Abepura, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T23:16:05.571000+00:00"
-   },
-   {
-    "id": "0e4c16d1aa93",
-    "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI>=VII).",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T11:02:39+00:00"
-   },
-   {
-    "id": "469f9a8d68f1",
-    "title": "Japan: Autonomous air taxi completes passenger flight without a pilot",
-    "country": "Japan",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-21T10:20:32+00:00"
-   },
-   {
-    "id": "953ec94c45c3",
-    "title": "M5.2 earthquake, 112 km SSE of Tateyama, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T10:09:05.474000+00:00"
-   },
-   {
-    "id": "ea8542f815a7",
-    "title": "Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 70 thousand in MMI V.",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T09:54:31+00:00"
-   }
-  ],
-  "Middle East & N. Africa": [
-   {
-    "id": "924eac3f8083",
-    "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-22T02:14:18+00:00"
-   },
-   {
-    "id": "bf4a824c29b6",
-    "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-21T12:00:00+00:00"
-   },
-   {
-    "id": "1a480db844e8",
-    "title": "Houthis launch strikes on Saudi Arabia",
-    "country": "Saudi Arabia",
-    "city": "Riyadh",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-21T09:49:44+00:00"
-   },
-   {
-    "id": "02354b8fe303",
-    "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-    "country": "Iran",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-21T09:30:24+00:00"
-   },
-   {
-    "id": "9ce7ec22ded3",
-    "title": "Tanzania rally from two goals down to draw with Costa Rica in U17 World Cup debut",
-    "country": "Qatar",
-    "city": "Doha",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-21T19:15:43+00:00"
-   },
-   {
-    "id": "ca5f84a2fea0",
-    "title": "Green flood alert in Türkiye",
-    "country": "Turkey",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T12:32:41+00:00"
-   },
-   {
-    "id": "aa3d0b8edade",
-    "title": "Green flood alert in Islamic Republic of Iran",
-    "country": "Iran",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T09:27:21+00:00"
+    "time": "2026-11-21T17:46:55+00:00"
    }
   ],
   "Western Europe": [
+   {
+    "id": "1d0dc5893bf0",
+    "title": "Russian cargo ship still on fire off Finland after drone attack",
+    "country": "Finland",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-22T10:39:50+00:00"
+   },
+   {
+    "id": "5301b402f39e",
+    "title": "UK politics: Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – as it happened",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-22T12:50:11+00:00"
+   },
    {
     "id": "d3d9bfc63e99",
     "title": "Swedish Gripen pilot unable to shoot down suspected Russian missile over Poland due to poor weather, commander says",
@@ -435,79 +219,285 @@
     "time": "2026-11-21T17:08:00+00:00"
    },
    {
-    "id": "dbd251d0c6f0",
-    "title": "Russia tests NATO’s eastern defences",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-21T12:50:35+00:00"
+    "id": "45a9554f4502",
+    "title": "Portugal: Workers brave downpours to demand a more affordable life",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-22T09:41:38+00:00"
    },
    {
-    "id": "617b8beeb2c4",
-    "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
-    "country": "Finland",
-    "city": "Helsinki",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-21T12:35:54+00:00"
-   },
-   {
-    "id": "29278fa83566",
-    "title": "Clashes erupt across France in another night of protest",
-    "country": "France",
+    "id": "78793de47358",
+    "title": "Europe sees new protests over rising costs, inequality and public services",
+    "country": "Portugal",
     "city": null,
     "category": "unrest",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-22T00:37:32+00:00"
-   },
-   {
-    "id": "e040fa044fb1",
-    "title": "Thousands protest across Europe over living costs and housing",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-21T20:47:50+00:00"
+    "time": "2026-11-22T09:41:29+00:00"
    }
   ],
-  "Sub-Saharan Africa": [
+  "East & SE Asia": [
    {
-    "id": "77e6b028cc0c",
-    "title": "Ethiopia - Eritrea: Troops mobilise along the border",
-    "country": "Ethiopia",
+    "id": "2c339bfa37c5",
+    "title": "South Korea education minister resigns over exam cheating scandal",
+    "country": "South Korea",
     "city": null,
-    "category": "conflict",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-22T09:20:45+00:00"
+   },
+   {
+    "id": "3b5170b50e6d",
+    "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+    "country": "South Korea",
+    "city": null,
+    "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-21T12:19:21+00:00"
+    "time": "2026-11-22T12:12:08+00:00"
    },
    {
-    "id": "eb5e492036f7",
-    "title": "Around 700,000 displaced by volatile conflict in southern Ethiopia",
-    "country": "Ethiopia",
+    "id": "9ea4e399d28f",
+    "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+    "country": "South Korea",
     "city": null,
-    "category": "conflict",
+    "category": "political",
     "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-21T07:13:49+00:00"
+    "confidence": "B3",
+    "time": "2026-11-22T05:04:39+00:00"
    },
    {
-    "id": "16ee52970a2d",
-    "title": "Green forest fire notification in Ethiopia, Sudan",
-    "country": "Ethiopia",
+    "id": "58ddfceb67df",
+    "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
+    "country": "China",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T12:36:58+00:00"
+   },
+   {
+    "id": "7bb39412ff51",
+    "title": "M5.1 earthquake, 45 km SE of Ürümqi, China",
+    "country": "China",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-21T12:29:09+00:00"
+    "time": "2026-11-22T09:08:28.009000+00:00"
+   },
+   {
+    "id": "5886cb26e408",
+    "title": "M4.9 earthquake, 246 km ESE of Sarangani, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-22T07:06:58.521000+00:00"
+   },
+   {
+    "id": "33ce1dcab126",
+    "title": "M4.6 earthquake, 60 km WNW of Abepura, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-21T23:16:05.571000+00:00"
+   },
+   {
+    "id": "c253816fb4a3",
+    "title": "M4.6 earthquake, 68 km SSE of Tateyama, Japan",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-21T17:30:44.504000+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "817e541fa482",
+    "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-21T18:42:38+00:00"
+   },
+   {
+    "id": "aeb965f50c2e",
+    "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-21T18:02:23+00:00"
+   },
+   {
+    "id": "a78a1e66a190",
+    "title": "Zelensky says US delays on Patriot missiles are 'difficult to understand' as Russia fires 165 missiles in a week",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-22T10:45:04+00:00"
+   },
+   {
+    "id": "814adc14dce9",
+    "title": "Russian attacks across Ukraine injure 30 over past day as rescue operation continues near Kyiv after drone strike",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-22T09:54:18+00:00"
+   },
+   {
+    "id": "5eb121a9a3a7",
+    "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-22T07:59:29+00:00"
+   },
+   {
+    "id": "cd163b25cdd8",
+    "title": "General Staff: Russia has lost 1,637,170 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-22T07:47:54+00:00"
+   },
+   {
+    "id": "14dfdb2f6cf5",
+    "title": "Live: Ukrainian rescuers search for survivors in residential building rubble after Russian attack",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-22T06:15:38+00:00"
+   },
+   {
+    "id": "b8568a22dabb",
+    "title": "Moldova, Finland report Russian airspace violations day after suspected Russian missiles flew into Poland",
+    "country": "Poland",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-21T23:35:21+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "5f9421339d31",
+    "title": "Israel investigates West Bank fires",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-22T13:47:04+00:00"
+   },
+   {
+    "id": "b22271e94589",
+    "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+    "country": "Yemen",
+    "city": "Sanaa",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-22T13:16:45+00:00"
+   },
+   {
+    "id": "ea13ee9ffe58",
+    "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+    "country": "Iran",
+    "city": "Tehran",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-22T11:46:42+00:00"
+   },
+   {
+    "id": "3372a8940cb9",
+    "title": "Statement by the United Nations Resident and Humanitarian Coordinator in Sudan, Denise Brown, on drone strikes in Khartoum",
+    "country": "Sudan",
+    "city": "Khartoum",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-22T09:00:07+00:00"
+   },
+   {
+    "id": "924eac3f8083",
+    "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-22T02:14:18+00:00"
+   },
+   {
+    "id": "e773ec0b85d3",
+    "title": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
+    "country": "Iran",
+    "city": "Tehran",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T03:24:14+00:00"
+   },
+   {
+    "id": "9ce7ec22ded3",
+    "title": "Tanzania rally from two goals down to draw with Costa Rica in U17 World Cup debut",
+    "country": "Qatar",
+    "city": "Doha",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-21T19:15:43+00:00"
+   }
+  ],
+  "Oceania": [
+   {
+    "id": "2a07afa35197",
+    "title": "M4.9 earthquake, south of the Fiji Islands",
+    "country": "Fiji",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-22T10:46:07.004000+00:00"
    }
   ],
   "South Asia": [
+   {
+    "id": "9de193227857",
+    "title": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
+    "country": "India",
+    "city": "Hyderabad",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T09:14:27+00:00"
+   },
    {
     "id": "86846f9e82dc",
     "title": "India’s opposition stages protests against Meta over account removals",
@@ -517,18 +507,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-21T16:14:01+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "e68dc8e69c06",
-    "title": "M4.9 earthquake, 65 km NNW of Port-Vila, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T07:20:44.218000+00:00"
    }
   ]
  }
