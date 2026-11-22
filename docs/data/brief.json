@@ -1,346 +1,56 @@
 {
- "generated": "2026-11-22T14:11:15.823601+00:00",
+ "generated": "2026-11-22T20:44:03.993411+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 38,
-  "3": 26,
-  "4": 2,
+  "2": 25,
+  "3": 25,
+  "4": 5,
   "5": 0
  },
- "watch_hits": [
-  "37341e13bebd"
- ],
+ "watch_hits": [],
  "regions": {
-  "Latin America & Caribbean": [
-   {
-    "id": "2befcfdb0268",
-    "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-    "country": "Brazil",
-    "city": null,
-    "category": "political",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-21T21:02:18+00:00"
-   },
-   {
-    "id": "e0962a63877f",
-    "title": "Green flood alert in Chile",
-    "country": "Chile",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-22T11:21:43+00:00"
-   },
-   {
-    "id": "e0f2374f0cbf",
-    "title": "M5.0 earthquake, 15 km NNE of Carhuamayo, Peru",
-    "country": "Peru",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-22T05:51:58.624000+00:00"
-   },
-   {
-    "id": "7daaadf8510c",
-    "title": "M4.9 earthquake, 88 km WNW of El Aguilar, Argentina",
-    "country": "Argentina",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T19:03:04.170000+00:00"
-   },
-   {
-    "id": "211c6c90e720",
-    "title": "M4.5 earthquake, 0 km SSW of La Colorada, Panama",
-    "country": "Panama",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T17:14:21.477000+00:00"
-   },
-   {
-    "id": "1163a5e8e7e5",
-    "title": "M4.6 earthquake, 18 km ESE of La Romana, Dominican Republic",
-    "country": "Dominican Republic",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T15:00:13.140000+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "2bd6f7ac7942",
-    "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-    "country": "Mexico",
-    "city": null,
-    "category": "crime",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-21T18:08:55+00:00"
-   },
-   {
-    "id": "37341e13bebd",
-    "title": "Mexico captures drug cartel boss ‘El Chapo Isidro’ after deadly firefight",
-    "country": "Mexico",
-    "city": "Mexico City",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-11-21T15:00:15+00:00"
-   },
-   {
-    "id": "13edc81660f0",
-    "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-    "country": "Mexico",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B2",
-    "time": "2026-11-21T16:03:16+00:00"
-   },
-   {
-    "id": "8bcb7735229a",
-    "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
-    "country": "Mexico",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-22T04:42:02+00:00"
-   },
-   {
-    "id": "aa9b0c2eb58c",
-    "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
-    "country": "Mexico",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-22T03:34:02+00:00"
-   },
-   {
-    "id": "4cdf45f6469d",
-    "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
-    "country": "United States",
-    "city": "New Orleans",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-21T18:50:00+00:00"
-   },
-   {
-    "id": "0f2b462ff821",
-    "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
-    "country": "Mexico",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-21T18:08:55+00:00"
-   },
-   {
-    "id": "0721447bafc9",
-    "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-    "country": "Mexico",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-21T17:46:55+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "1d0dc5893bf0",
-    "title": "Russian cargo ship still on fire off Finland after drone attack",
-    "country": "Finland",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-22T10:39:50+00:00"
-   },
-   {
-    "id": "5301b402f39e",
-    "title": "UK politics: Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – as it happened",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-22T12:50:11+00:00"
-   },
-   {
-    "id": "d3d9bfc63e99",
-    "title": "Swedish Gripen pilot unable to shoot down suspected Russian missile over Poland due to poor weather, commander says",
-    "country": "Sweden",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-21T22:07:35+00:00"
-   },
-   {
-    "id": "3111a2cc991b",
-    "title": "Russia-bound ship attacked in Gulf of Finland",
-    "country": "Finland",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-21T19:20:22+00:00"
-   },
-   {
-    "id": "16b8153835ba",
-    "title": "Russian military-linked cargo ship catches fire after reported drone strike in Gulf of Finland",
-    "country": "Finland",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-21T17:39:48+00:00"
-   },
-   {
-    "id": "a4fc7530803c",
-    "title": "Russian helicopter suspected of violating Finnish airspace",
-    "country": "Finland",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-21T17:08:00+00:00"
-   },
-   {
-    "id": "45a9554f4502",
-    "title": "Portugal: Workers brave downpours to demand a more affordable life",
-    "country": "Portugal",
-    "city": "Lisbon",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-22T09:41:38+00:00"
-   },
-   {
-    "id": "78793de47358",
-    "title": "Europe sees new protests over rising costs, inequality and public services",
-    "country": "Portugal",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-22T09:41:29+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "2c339bfa37c5",
-    "title": "South Korea education minister resigns over exam cheating scandal",
-    "country": "South Korea",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-22T09:20:45+00:00"
-   },
-   {
-    "id": "3b5170b50e6d",
-    "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
-    "country": "South Korea",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-22T12:12:08+00:00"
-   },
-   {
-    "id": "9ea4e399d28f",
-    "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-    "country": "South Korea",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-22T05:04:39+00:00"
-   },
-   {
-    "id": "58ddfceb67df",
-    "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
-    "country": "China",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-22T12:36:58+00:00"
-   },
-   {
-    "id": "7bb39412ff51",
-    "title": "M5.1 earthquake, 45 km SE of Ürümqi, China",
-    "country": "China",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-22T09:08:28.009000+00:00"
-   },
-   {
-    "id": "5886cb26e408",
-    "title": "M4.9 earthquake, 246 km ESE of Sarangani, Philippines",
-    "country": "Philippines",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-22T07:06:58.521000+00:00"
-   },
-   {
-    "id": "33ce1dcab126",
-    "title": "M4.6 earthquake, 60 km WNW of Abepura, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T23:16:05.571000+00:00"
-   },
-   {
-    "id": "c253816fb4a3",
-    "title": "M4.6 earthquake, 68 km SSE of Tateyama, Japan",
-    "country": "Japan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-21T17:30:44.504000+00:00"
-   }
-  ],
   "Eastern Europe": [
    {
-    "id": "817e541fa482",
-    "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+    "id": "d7d24eb65225",
+    "title": "'Routine shopping trip turned tragedy' — Russia attacks Kyiv Oblast supermarket during working hours, killing 3, injuring 15",
     "country": "Ukraine",
     "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-21T18:42:38+00:00"
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-11-22T18:43:47+00:00"
    },
    {
-    "id": "aeb965f50c2e",
-    "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+    "id": "fb28ed6e565d",
+    "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
     "country": "Ukraine",
     "city": "Kyiv",
     "category": "conflict",
     "severity": 3,
     "confidence": "B2",
-    "time": "2026-11-21T18:02:23+00:00"
+    "time": "2026-11-22T14:48:50+00:00"
+   },
+   {
+    "id": "fb33afc93d62",
+    "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-22T17:18:26+00:00"
+   },
+   {
+    "id": "ac774bd8cd34",
+    "title": "Ukrainian troops share battlefield drone expertise with 4 NATO allies in US-led exercise",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-22T15:44:03+00:00"
    },
    {
     "id": "a78a1e66a190",
@@ -381,29 +91,59 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-22T07:47:54+00:00"
-   },
-   {
-    "id": "14dfdb2f6cf5",
-    "title": "Live: Ukrainian rescuers search for survivors in residential building rubble after Russian attack",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-22T06:15:38+00:00"
-   },
-   {
-    "id": "b8568a22dabb",
-    "title": "Moldova, Finland report Russian airspace violations day after suspected Russian missiles flew into Poland",
-    "country": "Poland",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-21T23:35:21+00:00"
    }
   ],
   "Middle East & N. Africa": [
+   {
+    "id": "d21b62dc9873",
+    "title": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-22T16:25:09+00:00"
+   },
+   {
+    "id": "6fa4b87126f0",
+    "title": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-22T15:22:38+00:00"
+   },
+   {
+    "id": "49fd81384dce",
+    "title": "Russian warship docked in Benghazi hit by suspected drone attack, Libyan officials say",
+    "country": "Libya",
+    "city": "Benghazi",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B1",
+    "time": "2026-11-22T18:02:49+00:00"
+   },
+   {
+    "id": "25cd5d35cf77",
+    "title": "Civilians killed in RSF drone strikes in Sudan",
+    "country": "Sudan",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-22T18:12:07+00:00"
+   },
+   {
+    "id": "067d627ca365",
+    "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+    "country": "Sudan",
+    "city": "Khartoum",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-22T15:03:38+00:00"
+   },
    {
     "id": "5f9421339d31",
     "title": "Israel investigates West Bank fires",
@@ -433,49 +173,259 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-22T11:46:42+00:00"
+   }
+  ],
+  "North America": [
+   {
+    "id": "20c0732d7a70",
+    "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+    "country": "Mexico",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-22T14:33:26+00:00"
    },
    {
-    "id": "3372a8940cb9",
-    "title": "Statement by the United Nations Resident and Humanitarian Coordinator in Sudan, Denise Brown, on drone strikes in Khartoum",
-    "country": "Sudan",
-    "city": "Khartoum",
+    "id": "8bcb7735229a",
+    "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
+    "country": "Mexico",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T04:42:02+00:00"
+   },
+   {
+    "id": "aa9b0c2eb58c",
+    "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+    "country": "Mexico",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T03:34:02+00:00"
+   }
+  ],
+  "Latin America & Caribbean": [
+   {
+    "id": "2befcfdb0268",
+    "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+    "country": "Brazil",
+    "city": null,
+    "category": "political",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-21T21:02:18+00:00"
+   },
+   {
+    "id": "e0962a63877f",
+    "title": "Green flood alert in Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-22T11:21:43+00:00"
+   },
+   {
+    "id": "e0f2374f0cbf",
+    "title": "M5.0 earthquake, 15 km NNE of Carhuamayo, Peru",
+    "country": "Peru",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-22T05:51:58.624000+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "1d0dc5893bf0",
+    "title": "Russian cargo ship still on fire off Finland after drone attack",
+    "country": "Finland",
+    "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-22T09:00:07+00:00"
+    "confidence": "B2",
+    "time": "2026-11-22T10:39:50+00:00"
    },
    {
-    "id": "924eac3f8083",
-    "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-    "country": "Palestine",
+    "id": "5301b402f39e",
+    "title": "UK politics: Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – as it happened",
+    "country": "United Kingdom",
     "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-22T02:14:18+00:00"
+    "time": "2026-11-22T12:50:11+00:00"
    },
    {
-    "id": "e773ec0b85d3",
-    "title": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
-    "country": "Iran",
-    "city": "Tehran",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-22T03:24:14+00:00"
+    "id": "d3d9bfc63e99",
+    "title": "Swedish Gripen pilot unable to shoot down suspected Russian missile over Poland due to poor weather, commander says",
+    "country": "Sweden",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-21T22:07:35+00:00"
    },
    {
-    "id": "9ce7ec22ded3",
-    "title": "Tanzania rally from two goals down to draw with Costa Rica in U17 World Cup debut",
-    "country": "Qatar",
-    "city": "Doha",
+    "id": "45a9554f4502",
+    "title": "Portugal: Workers brave downpours to demand a more affordable life",
+    "country": "Portugal",
+    "city": "Lisbon",
     "category": "unrest",
     "severity": 2,
     "confidence": "C4",
-    "time": "2026-11-21T19:15:43+00:00"
+    "time": "2026-11-22T09:41:38+00:00"
+   },
+   {
+    "id": "78793de47358",
+    "title": "Europe sees new protests over rising costs, inequality and public services",
+    "country": "Portugal",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T09:41:29+00:00"
+   },
+   {
+    "id": "adde7f8266af",
+    "title": "English village votes to \"leave UK\"",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T09:40:05+00:00"
+   },
+   {
+    "id": "03e268815a6a",
+    "title": "Photos: People rally across France over living costs, public services",
+    "country": "France",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T09:27:48+00:00"
+   },
+   {
+    "id": "bea6d139dbbe",
+    "title": "The European revolt may be coming to the UK",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T06:59:59+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "2c339bfa37c5",
+    "title": "South Korea education minister resigns over exam cheating scandal",
+    "country": "South Korea",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-22T09:20:45+00:00"
+   },
+   {
+    "id": "062560c061c8",
+    "title": "South Korean education minister resigns over AI-driven exam cheating scandal",
+    "country": "South Korea",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B2",
+    "time": "2026-11-22T03:46:14+00:00"
+   },
+   {
+    "id": "3b5170b50e6d",
+    "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+    "country": "South Korea",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-22T12:12:08+00:00"
+   },
+   {
+    "id": "9ea4e399d28f",
+    "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+    "country": "South Korea",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-22T05:04:39+00:00"
+   },
+   {
+    "id": "7a52a4ee05b4",
+    "title": "The week in pictures: Xi hosts Trump and Putin, COP31 and new French protests",
+    "country": "China",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T14:22:56+00:00"
+   },
+   {
+    "id": "58ddfceb67df",
+    "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
+    "country": "China",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T12:36:58+00:00"
+   },
+   {
+    "id": "7bb39412ff51",
+    "title": "M5.1 earthquake, 45 km SE of Ürümqi, China",
+    "country": "China",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-22T09:08:28.009000+00:00"
+   },
+   {
+    "id": "5886cb26e408",
+    "title": "M4.9 earthquake, 246 km ESE of Sarangani, Philippines",
+    "country": "Philippines",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-22T07:06:58.521000+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "d5782c437ff6",
+    "title": "Green forest fire notification in Botswana",
+    "country": "Botswana",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-22T20:03:06+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "4b7b13ee5f74",
+    "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
+    "country": "Australia",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T19:00:34+00:00"
+   },
    {
     "id": "2a07afa35197",
     "title": "M4.9 earthquake, south of the Fiji Islands",
@@ -489,6 +439,16 @@
   ],
   "South Asia": [
    {
+    "id": "a542f351ee4a",
+    "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+    "country": "India",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-22T14:35:55+00:00"
+   },
+   {
     "id": "9de193227857",
     "title": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
     "country": "India",
@@ -497,16 +457,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-22T09:14:27+00:00"
-   },
-   {
-    "id": "86846f9e82dc",
-    "title": "India’s opposition stages protests against Meta over account removals",
-    "country": "India",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-21T16:14:01+00:00"
    }
   ]
  }
