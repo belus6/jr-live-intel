@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T01:09:27.204105+00:00",
+ "generated": "2026-11-23T09:06:07.787179+00:00",
  "sources": [
   {
    "id": "us-state-advisories",
@@ -7,7 +7,7 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.7
+   "secs": 0.6
   },
   {
    "id": "uk-fcdo",
@@ -15,7 +15,7 @@
    "ok": true,
    "items": 20,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.3
   },
   {
    "id": "cdc-notices",
@@ -23,31 +23,30 @@
    "ok": true,
    "items": 0,
    "note": "ok",
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "id": "usgs-quakes",
    "name": "USGS earthquakes M4.5+",
    "ok": true,
-   "items": 14,
+   "items": 15,
    "note": "ok",
-   "secs": 0.0
+   "secs": 0.1
   },
   {
    "id": "gdacs",
    "name": "GDACS disaster alerts",
    "ok": true,
-   "items": 45,
+   "items": 47,
    "note": "ok",
-   "secs": 3.1
+   "secs": 2.1
   },
   {
    "id": "reliefweb",
    "name": "ReliefWeb updates",
-   "ok": true,
-   "items": 4,
-   "note": "ok",
-   "secs": 1.8
+   "ok": false,
+   "items": 0,
+   "note": "HTTPSConnectionPool(host='reliefweb.int', port=443): Read timed out. (read timeout=25)"
   },
   {
    "id": "un-news",
@@ -55,29 +54,29 @@
    "ok": true,
    "items": 2,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "bbc-world",
    "name": "BBC World",
    "ok": true,
-   "items": 4,
+   "items": 2,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.2
   },
   {
    "id": "aljazeera",
    "name": "Al Jazeera",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.2
   },
   {
    "id": "france24",
    "name": "France 24",
    "ok": true,
-   "items": 12,
+   "items": 10,
    "note": "ok",
    "secs": 0.2
   },
@@ -85,17 +84,17 @@
    "id": "dw",
    "name": "Deutsche Welle",
    "ok": true,
-   "items": 3,
+   "items": 2,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.3
   },
   {
    "id": "guardian-world",
    "name": "The Guardian World",
    "ok": true,
-   "items": 8,
+   "items": 11,
    "note": "ok",
-   "secs": 0.7
+   "secs": 0.5
   },
   {
    "id": "npr-world",
@@ -103,13 +102,13 @@
    "ok": true,
    "items": 2,
    "note": "ok",
-   "secs": 0.1
+   "secs": 0.3
   },
   {
    "id": "africanews",
    "name": "Africanews",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "note": "ok",
    "secs": 0.3
   },
@@ -119,7 +118,7 @@
    "ok": true,
    "items": 11,
    "note": "ok",
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "id": "times-of-israel",
