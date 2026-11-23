@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-22T20:44:03.993411+00:00",
+ "generated": "2026-11-23T01:09:27.204105+00:00",
  "sample": false,
  "count": 375,
  "events": [
+  {
+   "title": "Disease Outbreak News: Ebola disease caused by Bundibugyo virus- Democratic Republic of the Congo, Kenya and Nigeria (20 November 2026)",
+   "summary": "Countries: Democratic Republic of the Congo, Kenya, Nigeria Source: World Health Organization Please refer to the attached file. Situation at a glance Since the publication of the previous Disease Outbreak News on 6 November 2026, additional confirmed cases and deaths have been reported in the Democratic Republic of the Congo. While some areas have seen a slight decline in cases, sustained, high-l",
+   "url": "https://reliefweb.int/report/democratic-republic-congo/disease-outbreak-news-ebola-disease-caused-bundibugyo-virus-democratic-republic-congo-kenya-and-nigeria-20-november-2026",
+   "time": "2026-11-21T08:03:05+00:00",
+   "tier": "A",
+   "category": "health",
+   "country": "Switzerland",
+   "city": "Geneva",
+   "lat": null,
+   "lon": null,
+   "severity": 5,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/democratic-republic-congo/disease-outbreak-news-ebola-disease-caused-bundibugyo-virus-democratic-republic-congo-kenya-and-nigeria-20-november-2026",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "decb2a229fa6",
+   "flag": "🇨🇭",
+   "region": "Western Europe",
+   "baseline": 1.0,
+   "watch": []
+  },
   {
    "title": "M6.7 earthquake, 9 km NE of Carhuamayo, Peru",
    "summary": "Depth 108 km. Alert: green.",
@@ -424,95 +452,6 @@
    "watch": []
   },
   {
-   "title": "3 Kyiv bridges struck in massive Russian aerial assault on Ukraine, at least 5 dead",
-   "summary": "",
-   "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
-   "time": "2026-11-19T23:41:36+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
-     "tier": "C"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-20T08:08:01.486057+00:00",
-   "confidence": "B2",
-   "corroboration": 2,
-   "id": "acae2c6c2a87",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "3 Kyiv bridges struck in massive Russian aerial assault on Ukraine, at least 9 dead",
-   "summary": "",
-   "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
-   "time": "2026-11-19T23:41:36+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-20T16:58:07.092101+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "f0ad8089c2e8",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Putin proposes second humanitarian ceasefire — is it a trap?",
-   "summary": "",
-   "url": "https://www.dw.com/en/putin-proposes-second-humanitarian-ceasefire-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf",
-   "time": "2026-11-19T20:53:00+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "Deutsche Welle",
-     "url": "https://www.dw.com/en/putin-proposes-second-humanitarian-ceasefire-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-20T16:58:07.092101+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "d2da71b6171f",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
    "summary": "",
    "url": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
@@ -622,34 +561,6 @@
    "flag": "🇰🇷",
    "region": "East & SE Asia",
    "baseline": 1.36,
-   "watch": []
-  },
-  {
-   "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "time": "2026-11-18T22:34:56+00:00",
-   "tier": "B",
-   "category": "terrorism",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 4,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-19T01:26:05.888449+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "2adfac31e6a4",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
    "watch": []
   },
   {
@@ -793,6 +704,202 @@
    "watch": []
   },
   {
+   "title": "Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Liberals demand Bowen resign over Cop ‘disaster’",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+   "time": "2026-11-23T00:51:47+00:00",
+   "tier": "B",
+   "category": "political",
+   "country": "Australia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "1113b93a165d",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Drone strikes hit homes, United Nations building in Sudan's capital",
+   "summary": "",
+   "url": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
+   "time": "2026-11-23T00:43:36+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Sudan",
+   "city": "Khartoum",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "4faf9224c89c",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
+   "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+   "time": "2026-11-23T00:39:51+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "DRC",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "9d020962956b",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
+   "watch": []
+  },
+  {
+   "title": "Polish authorities find Russian missile remains at three sites following airspace incursion",
+   "summary": "",
+   "url": "https://kyivindependent.com/polish-authorities-find-russian-missile-remains-at-three-sites-following-airspace-incursion/",
+   "time": "2026-11-22T23:26:30+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Poland",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/polish-authorities-find-russian-missile-remains-at-three-sites-following-airspace-incursion/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "d61e32d8dd87",
+   "flag": "🇵🇱",
+   "region": "Eastern Europe",
+   "baseline": 1.31,
+   "watch": []
+  },
+  {
+   "title": "Ukraine war spilling into NATO territory",
+   "summary": "",
+   "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+   "time": "2026-11-22T22:40:22+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Poland",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "NPR World",
+     "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "d928ced32669",
+   "flag": "🇵🇱",
+   "region": "Eastern Europe",
+   "baseline": 1.31,
+   "watch": []
+  },
+  {
+   "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+   "time": "2026-11-22T22:01:48+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Libya",
+   "city": "Benghazi",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "02714ffd549a",
+   "flag": "🇱🇾",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.79,
+   "watch": []
+  },
+  {
+   "title": "Petition to oust Vitalii Kim as Ukraine's veterans minister crosses key threshold",
+   "summary": "",
+   "url": "https://kyivindependent.com/petition-to-oust-vitalii-kim-as-ukraines-veterans-minister-gains-enough-support-to-prompt-government-response-2/",
+   "time": "2026-11-22T21:24:59+00:00",
+   "tier": "C",
+   "category": "political",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/petition-to-oust-vitalii-kim-as-ukraines-veterans-minister-gains-enough-support-to-prompt-government-response-2/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "9709ec78411f",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
    "title": "Civilians killed in RSF drone strikes in Sudan",
    "summary": "",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
@@ -852,11 +959,16 @@
      "name": "BBC World",
      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
      "tier": "B"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-11-22T20:44:03.993411+00:00",
    "confidence": "B1",
-   "corroboration": 4,
+   "corroboration": 5,
    "id": "49fd81384dce",
    "flag": "🇱🇾",
    "region": "Middle East & N. Africa",
@@ -886,6 +998,34 @@
    "confidence": "B3",
    "corroboration": 1,
    "id": "fb33afc93d62",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Ukraine war latest: US delays on Patriot missiles 'difficult to understand' as Russia fires 165 missiles in single week, Zelensky says",
+   "summary": "",
+   "url": "https://kyivindependent.com/ukraine-war-latest-us-delays-on-patriot-missiles-difficult-to-understand-as-russia-fires-165-missiles-in-single-week-zelensky-says/",
+   "time": "2026-11-22T16:53:12+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": "Kyiv",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-war-latest-us-delays-on-patriot-missiles-difficult-to-understand-as-russia-fires-165-missiles-in-single-week-zelensky-says/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "0d1f0d63ece7",
    "flag": "🇺🇦",
    "region": "Eastern Europe",
    "baseline": 3.63,
@@ -1259,11 +1399,16 @@
      "name": "ReliefWeb updates",
      "url": "https://reliefweb.int/report/sudan/statement-united-nations-resident-and-humanitarian-coordinator-sudan-denise-brown-drone-strikes-khartoum",
      "tier": "A"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum",
+     "tier": "B"
     }
    ],
    "first_seen": "2026-11-22T14:11:15.823601+00:00",
    "confidence": "A1",
-   "corroboration": 1,
+   "corroboration": 2,
    "id": "3372a8940cb9",
    "flag": "🇸🇩",
    "region": "Middle East & N. Africa",
@@ -2752,202 +2897,6 @@
    "watch": []
   },
   {
-   "title": "Iran war live: Houthis escalate attacks on Saudi capital",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-   "time": "2026-11-19T23:58:40+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Saudi Arabia",
-   "city": "Riyadh",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-20T00:47:42.655351+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "fc583b2425ef",
-   "flag": "🇸🇦",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
-   "watch": []
-  },
-  {
-   "title": "Iran war live: Saudi coalition says repels Houthi missile, drone attacks",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-   "time": "2026-11-19T23:58:40+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Saudi Arabia",
-   "city": "Riyadh",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-20T08:08:01.486057+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ed8b09a82a9e",
-   "flag": "🇸🇦",
-   "region": "Middle East & N. Africa",
-   "baseline": 2.62,
-   "watch": []
-  },
-  {
-   "title": "Russia launches mass missile attack against Ukraine after Putin vows revenge",
-   "summary": "",
-   "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
-   "time": "2026-11-19T23:41:36+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": "Kyiv",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-20T00:47:42.655351+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "d97fbe2d16fd",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Florida to carry out record-breaking 20th execution of the year",
-   "summary": "",
-   "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
-   "time": "2026-11-19T23:15:42+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "United States",
-   "city": "Houston",
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-20T00:47:42.655351+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "5a7d2746ab36",
-   "flag": "🇺🇸",
-   "region": "North America",
-   "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "Coalition of the Willing calls on Russia to accept winter energy truce",
-   "summary": "",
-   "url": "https://kyivindependent.com/coalition-of-the-willing-calls-on-russia-to-accept-winter-energy-truce/",
-   "time": "2026-11-19T21:05:00+00:00",
-   "tier": "C",
-   "category": "conflict",
-   "country": "Russia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/coalition-of-the-willing-calls-on-russia-to-accept-winter-energy-truce/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-20T00:47:42.655351+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "471cf3e99ebb",
-   "flag": "🇷🇺",
-   "region": "Eastern Europe",
-   "baseline": 4.39,
-   "watch": []
-  },
-  {
-   "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
-   "summary": "",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
-   "time": "2026-11-19T20:58:41+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-20T00:47:42.655351+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "83787b00b7d7",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved?traffic_source=rss",
-   "time": "2026-11-19T20:54:08+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Haiti",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-20T00:47:42.655351+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "0feb5a7d39d9",
-   "flag": "🇭🇹",
-   "region": "Latin America & Caribbean",
-   "baseline": 4.53,
-   "watch": []
-  },
-  {
    "title": "Southern California braced for fierce storm after record rain in San Francisco",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record",
@@ -3900,62 +3849,6 @@
    "watch": []
   },
   {
-   "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-   "summary": "",
-   "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
-   "time": "2026-11-16T01:01:08+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "China",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-16T02:58:32.906233+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "66a2df88985b",
-   "flag": "🇨🇳",
-   "region": "East & SE Asia",
-   "baseline": 2.75,
-   "watch": []
-  },
-  {
-   "title": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief",
-   "summary": "",
-   "url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
-   "time": "2026-11-15T23:31:15+00:00",
-   "tier": "B",
-   "category": "political",
-   "country": "China",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-16T02:58:32.906233+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f6ae7b908633",
-   "flag": "🇨🇳",
-   "region": "East & SE Asia",
-   "baseline": 2.75,
-   "watch": []
-  },
-  {
    "title": "Kenya",
    "summary": "FCDO now advises against all but essential travel to Moyale Town and up to 5km around it, including to the border with Ethiopia. Updated information about the Kenya-Ethiopia border ('Warnings and insurance' and 'Regional risks' pages).",
    "url": "https://www.gov.uk/foreign-travel-advice/kenya",
@@ -3981,6 +3874,258 @@
    "flag": "🇰🇪",
    "region": "Sub-Saharan Africa",
    "baseline": 2.97,
+   "watch": []
+  },
+  {
+   "title": "Beau Lamarre-Condon ‘executed’ Jesse Baird and Luke Davies then lied about it, prosecution argues",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+   "time": "2026-11-23T00:54:02+00:00",
+   "tier": "B",
+   "category": "crime",
+   "country": "Australia",
+   "city": "Sydney",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "396623e984bb",
+   "flag": "🇦🇺",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Brazil",
+   "summary": "On 17/11/2026, a forest fire started in Brazil, until 22/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034021",
+   "time": "2026-11-23T00:03:45+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Brazil",
+   "city": null,
+   "lat": -1.2357269919718095,
+   "lon": -51.77710443450987,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034021",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "b81a60a934db",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Ghana, Burkina Faso",
+   "summary": "On 19/11/2026, a forest fire started in Ghana, Burkina Faso, until 22/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034013",
+   "time": "2026-11-23T00:01:28+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Ghana",
+   "city": null,
+   "lat": 11.068254896500141,
+   "lon": -1.3534925111586293,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034013",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e9d6d604e289",
+   "flag": "🇬🇭",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.36,
+   "watch": []
+  },
+  {
+   "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+   "summary": "",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+   "time": "2026-11-22T23:59:22+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "Iran",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "08aa2c42f510",
+   "flag": "🇮🇷",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 226 km NW of Tobelo, Indonesia",
+   "summary": "Depth 40 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucv2",
+   "time": "2026-11-22T23:50:44.048000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": 3.0639,
+   "lon": 126.468,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucv2",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "91bdf58673e0",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "M4.9 earthquake, 170 km WNW of Port-Olry, Vanuatu",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuk",
+   "time": "2026-11-22T21:58:15.571000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -14.1955,
+   "lon": 165.7555,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuk",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "edf9b5af1bfe",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, 54 km NNE of Calama, Chile",
+   "summary": "Depth 123 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuj",
+   "time": "2026-11-22T21:47:32.112000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Chile",
+   "city": null,
+   "lat": -21.9972,
+   "lon": -68.7311,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuj",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "c71a162c6d13",
+   "flag": "🇨🇱",
+   "region": "Latin America & Caribbean",
+   "baseline": 1.62,
+   "watch": []
+  },
+  {
+   "title": "M5.4 earthquake, 9 km N of Carhuamayo, Peru",
+   "summary": "Depth 117 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuf",
+   "time": "2026-11-22T21:35:31.763000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Peru",
+   "city": null,
+   "lat": -10.8345,
+   "lon": -76.0169,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuf",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "f08cfc26b8e7",
+   "flag": "🇵🇪",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.89,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 25 km WSW of Isangel, Vanuatu",
+   "summary": "Depth 115 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucu7",
+   "time": "2026-11-22T20:54:52.753000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Vanuatu",
+   "city": null,
+   "lat": -19.6421,
+   "lon": 169.0592,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucu7",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "4865767213b8",
+   "flag": "🇻🇺",
+   "region": "Oceania",
+   "baseline": 2.48,
    "watch": []
   },
   {
@@ -4037,6 +4182,34 @@
    "flag": "🇦🇺",
    "region": "Oceania",
    "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "Historic failure at COP31 is a devasting blow to children around the world – Save the Children",
+   "summary": "Country: World Source: Save the Children Children are extremely vulnerable to the impacts of the climate crisis, with an average of 330 million children per year experiencing severe climate disasters between January 2022 and September 2026—up nearly 50% in the previous five-year period. ANTALYA, 22 NOVEMBER – Children have been dealt a devastating blow at COP31 today after countries failed to agre",
+   "url": "https://reliefweb.int/report/world/historic-failure-cop31-devasting-blow-children-around-world-save-children",
+   "time": "2026-11-22T17:33:04+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Zambia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/world/historic-failure-cop31-devasting-blow-children-around-world-save-children",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "83371f6b0db2",
+   "flag": "🇿🇲",
+   "region": "Sub-Saharan Africa",
+   "baseline": 2.88,
    "watch": []
   },
   {
@@ -4401,6 +4574,34 @@
    "flag": "🇨🇳",
    "region": "East & SE Asia",
    "baseline": 2.75,
+   "watch": []
+  },
+  {
+   "title": "M5.4 earthquake, 224 km NE of Bitung, Indonesia",
+   "summary": "Depth 44 km. Alert: green.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucrb",
+   "time": "2026-11-22T07:54:40.056000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": 3.0314,
+   "lon": 126.3861,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucrb",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "46758101b7d2",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
    "watch": []
   },
   {
@@ -5775,6 +5976,34 @@
    "watch": []
   },
   {
+   "title": "Brazil: Dengue Epidemiological Situation in the Region of the Americas - Epidemiological Week 43, 2026",
+   "summary": "Countries: Brazil, Argentina, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, French Guiana (France), Grenada, Guatemala, Mexico, Paraguay, Peru, Saint Lucia, Saint Vincent and the Grenadines, Suriname, United States Virgin Islands, Venezuela (Bolivarian Republic of) Source: Pan American Health Organization Please refer to the attached file. In the epidemiological week (EW) 43 of 2",
+   "url": "https://reliefweb.int/report/brazil/dengue-epidemiological-situation-region-americas-epidemiological-week-43-2026",
+   "time": "2026-11-21T03:33:18+00:00",
+   "tier": "A",
+   "category": "health",
+   "country": "Brazil",
+   "city": "Salvador",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/brazil/dengue-epidemiological-situation-region-americas-epidemiological-week-43-2026",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-23T01:09:27.204105+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "28a0f82c01eb",
+   "flag": "🇧🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 3.13,
+   "watch": []
+  },
+  {
    "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
    "summary": "",
    "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
@@ -5897,34 +6126,6 @@
    "watch": []
   },
   {
-   "title": "Germany: Berlin student protest targets rearmament and compulsory service",
-   "summary": "",
-   "url": "http://www.africanews.com/2026/11/20/germany-berlin-student-protest-targets-rearmament-and-compulsory-service/",
-   "time": "2026-11-20T22:54:31+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Germany",
-   "city": "Berlin",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Africanews",
-     "url": "http://www.africanews.com/2026/11/20/germany-berlin-student-protest-targets-rearmament-and-compulsory-service/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-20T23:01:24.666313+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "334afb640479",
-   "flag": "🇩🇪",
-   "region": "Western Europe",
-   "baseline": 1.07,
-   "watch": []
-  },
-  {
    "title": "M4.9 earthquake, 113 km ESE of Pangai, Tonga",
    "summary": "Depth 10 km. Alert: none.",
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucf0",
@@ -5950,90 +6151,6 @@
    "flag": "🇹🇴",
    "region": "Oceania",
    "baseline": 1.93,
-   "watch": []
-  },
-  {
-   "title": "oPt: Gaza Strip | Learning Spaces Assessment Report (November 2026)",
-   "summary": "Country: occupied Palestinian territory Source: Education Cluster Please refer to the attached file. The assessment covered 962 learning spaces across Gaza’s five governorates between 21 May and 12 August 2026, reporting 581,111 enrolments and 15,709 teachers. In the absence of permanent education infrastructure, Temporary learning spaces, community-led initiatives and private learning spaces have",
-   "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-strip-learning-spaces-assessment-report-november-2026",
-   "time": "2026-11-20T22:27:27+00:00",
-   "tier": "A",
-   "category": "unrest",
-   "country": "Palestine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "ReliefWeb updates",
-     "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-strip-learning-spaces-assessment-report-november-2026",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-20T23:01:24.666313+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "ec71e7232ea4",
-   "flag": "🇵🇸",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.42,
-   "watch": []
-  },
-  {
-   "title": "'Licence to kill': French parliament adopts police shootings law slammed by activists",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
-   "time": "2026-11-20T21:17:59+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-20T23:01:24.666313+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "740f1ae49266",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
-   "watch": []
-  },
-  {
-   "title": "'Licence to kill': France adopts law presuming 'legitimate' self-defence in police shootings",
-   "summary": "",
-   "url": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
-   "time": "2026-11-20T21:17:59+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-21T12:25:58.031537+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "6203fca58b11",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -8389,90 +8506,6 @@
    "watch": []
   },
   {
-   "title": "M5.3 earthquake, 16 km W of Nereju Mic, Romania",
-   "summary": "Depth 131 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
-   "time": "2026-11-18T00:48:56.322000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Romania",
-   "city": null,
-   "lat": 45.6796,
-   "lon": 26.4891,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "9fb9d3f08ff1",
-   "flag": "🇷🇴",
-   "region": "Eastern Europe",
-   "baseline": 1.87,
-   "watch": []
-  },
-  {
-   "title": "M5.3 earthquake, 16 km ESE of Comandău, Romania",
-   "summary": "Depth 130 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
-   "time": "2026-11-18T00:48:56.089000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Romania",
-   "city": null,
-   "lat": 45.6863,
-   "lon": 26.452,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-18T11:22:03.710464+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "099a54c7068e",
-   "flag": "🇷🇴",
-   "region": "Eastern Europe",
-   "baseline": 1.87,
-   "watch": []
-  },
-  {
-   "title": "M5.3 earthquake, 7 km SE of Karakenja, Tajikistan",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw6",
-   "time": "2026-11-18T00:46:31.418000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Tajikistan",
-   "city": null,
-   "lat": 39.1912,
-   "lon": 71.5875,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw6",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-18T11:22:03.710464+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "735f12d4ba91",
-   "flag": "🇹🇯",
-   "region": "Central Asia",
-   "baseline": 3.53,
-   "watch": []
-  },
-  {
    "title": "South Sudan MVD Readiness - DREF Final Report (MDRSS018)",
    "summary": "Countries: South Sudan, Ethiopia Source: International Federation of Red Cross and Red Crescent Societies Please refer to the attached file. Description of the Event Date when the trigger was met 23-12-2025 What happened, where and when? The Marburg Virus Disease (MVD) outbreak was declared in Ethiopia on 14 November 2025, prompting heightened preparedness measures in neighboring South Sudan due t",
    "url": "https://reliefweb.int/report/south-sudan/south-sudan-mvd-readiness-dref-final-report-mdrss018",
@@ -8498,34 +8531,6 @@
    "flag": "🇸🇩",
    "region": "Middle East & N. Africa",
    "baseline": 4.76,
-   "watch": []
-  },
-  {
-   "title": "Afghanistan: Children on the Move: Displacement Leaves Afghan Children Hungrier and More Vulnerable, Save the Children Warns",
-   "summary": "Country: Afghanistan Source: Save the Children KABUL, 18 November 2026 – More than half of children displaced in Afghanistan said they have less food to eat since leaving their homes, while two in five reported worsening health, according to a new Save the Children report that reveals the severe toll displacement is taking on children across the country. The “Children on the Move” report, based on",
-   "url": "https://reliefweb.int/report/afghanistan/children-move-displacement-leaves-afghan-children-hungrier-and-more-vulnerable-save-children-warns",
-   "time": "2026-11-18T00:01:00+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Afghanistan",
-   "city": "Kabul",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "ReliefWeb updates",
-     "url": "https://reliefweb.int/report/afghanistan/children-move-displacement-leaves-afghan-children-hungrier-and-more-vulnerable-save-children-warns",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-18T02:56:32.200577+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "e311e117bf0c",
-   "flag": "🇦🇫",
-   "region": "Middle East & N. Africa",
-   "baseline": 4.8,
    "watch": []
   },
   {
