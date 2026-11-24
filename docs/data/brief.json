@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-24T05:26:58.531024+00:00",
+ "generated": "2026-11-24T16:13:01.219613+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 42,
+  "2": 48,
   "3": 33,
-  "4": 1,
+  "4": 5,
   "5": 1
  },
  "watch_hits": [],
@@ -23,14 +23,44 @@
     "time": "2026-11-24T02:30:00+00:00"
    },
    {
-    "id": "ffdf4a5a2894",
-    "title": "AI giant Nvidia reinstates Jensen Huang as CEO after spy scandal",
+    "id": "60275e55772a",
+    "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+    "country": "Mexico",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-24T09:09:41+00:00"
+   },
+   {
+    "id": "2c79f1d39ce3",
+    "title": "World: COP31: FAO calls for increased funding for agrifood systems as weather extremes intensify",
     "country": "United States",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-23T16:10:54+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-24T15:09:35+00:00"
+   },
+   {
+    "id": "a1cbd90ab8f1",
+    "title": "M5.2 earthquake, 93 km WSW of Puerto Madero, Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-24T11:51:44.702000+00:00"
+   },
+   {
+    "id": "6a784dc5316b",
+    "title": "Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "advisory",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-24T10:36:16+00:00"
    },
    {
     "id": "60170cf49fff",
@@ -55,6 +85,16 @@
   ],
   "Sub-Saharan Africa": [
    {
+    "id": "665fa770f034",
+    "title": "M6.4 earthquake, Mauritius - Reunion region",
+    "country": "Mauritius",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "A1",
+    "time": "2026-11-24T11:06:14.036000+00:00"
+   },
+   {
     "id": "b4bbc714884b",
     "title": "Ethiopia: Lethal artillery strikes on civilian neighbourhoods in Tigray’s Alamata city must be investigated as war crimes",
     "country": "Ethiopia",
@@ -65,14 +105,34 @@
     "time": "2026-11-24T03:03:40+00:00"
    },
    {
-    "id": "661fc33bc21b",
-    "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+    "id": "70212653c01b",
+    "title": "World: El Niño and Child Rights in Africa: Assessing Risks and Strengthening Child Centred Preparedness - November 2026",
+    "country": "Ethiopia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-24T14:50:09+00:00"
+   },
+   {
+    "id": "329b9b8c177b",
+    "title": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
     "country": "DRC",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "health",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-23T12:00:00+00:00"
+    "time": "2026-11-24T12:00:00+00:00"
+   },
+   {
+    "id": "a2b82e7d90b8",
+    "title": "Green forest fire notification in Burkina Faso",
+    "country": "Burkina Faso",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-24T08:03:34+00:00"
    },
    {
     "id": "204b8de74a6e",
@@ -103,130 +163,58 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-24T00:02:15+00:00"
-   },
-   {
-    "id": "e59a98a065e6",
-    "title": "Green forest fire notification in Nigeria, Cameroon",
-    "country": "Nigeria",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-23T20:12:27+00:00"
-   },
-   {
-    "id": "58a52fbd7818",
-    "title": "Green forest fire notification in Benin",
-    "country": "Benin",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-23T20:05:32+00:00"
-   },
-   {
-    "id": "aa5765c60608",
-    "title": "Green forest fire notification in Central African Republic, Chad",
-    "country": "CAR",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-23T08:18:45+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "fc2b78792d15",
-    "title": "Nvidia reinstates Jensen Huang as CEO",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-23T15:29:07+00:00"
-   },
-   {
-    "id": "849581e6e513",
-    "title": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
-    "country": "Myanmar",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-23T23:10:22+00:00"
-   },
-   {
-    "id": "3605c765dfec",
-    "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
-    "country": "South Korea",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-24T04:14:43+00:00"
-   },
-   {
-    "id": "ae28b4d39e68",
-    "title": "Green flood alert in Thailand",
-    "country": "Thailand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-23T13:55:00+00:00"
-   },
-   {
-    "id": "5e51229f9ba7",
-    "title": "M4.6 earthquake, 30 km SW of Finschhafen, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-23T10:39:26.056000+00:00"
-   },
-   {
-    "id": "d94d458a2def",
-    "title": "M4.5 earthquake, Kepulauan Babar, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-23T06:47:36.803000+00:00"
-   },
-   {
-    "id": "b1c7e32384b4",
-    "title": "M4.7 earthquake, 109 km E of Bitung, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-23T06:28:32.358000+00:00"
    }
   ],
   "Middle East & N. Africa": [
    {
-    "id": "b5e8e040be87",
-    "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
-    "country": "Libya",
-    "city": "Benghazi",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-23T07:37:09+00:00"
+    "id": "bb016583ee44",
+    "title": "Palestine Weekly: A night of arson sees Israel ‘Jewish terrorism’ reckoning",
+    "country": "Palestine",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-24T15:56:07+00:00"
    },
    {
-    "id": "1e8dbcf7b8f7",
-    "title": "Live: Zelensky confirms Ukraine’s military struck Russian ships in Libyan waters",
-    "country": "Libya",
-    "city": "Benghazi",
+    "id": "5e939d3f2e06",
+    "title": "11 injured in Houthi ‘terrorist’ attack on tower in Riyadh",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-24T14:27:38+00:00"
+   },
+   {
+    "id": "c13eb4cb8f0f",
+    "title": "Madagascar seeks arrest warrants for former president Rajoelina and ex-premier",
+    "country": "Iran",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-11-24T13:00:05+00:00"
+   },
+   {
+    "id": "3fe42a287730",
+    "title": "Israeli strikes on Gaza kill senior Hamas security official and six other people, medics say",
+    "country": "Palestine",
+    "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-23T06:10:26+00:00"
+    "confidence": "B1",
+    "time": "2026-11-24T13:07:03+00:00"
+   },
+   {
+    "id": "b7bc4eb1c480",
+    "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
+    "country": "Libya",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-24T09:52:03+00:00"
    },
    {
     "id": "dd5dd70ea451",
@@ -257,39 +245,265 @@
     "severity": 3,
     "confidence": "A1",
     "time": "2026-11-24T01:46:20+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "32e36e2013ab",
+    "title": "Leaked data suggests 500,000 Russian soldiers killed since start of Ukraine invasion",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-24T15:53:03+00:00"
    },
    {
-    "id": "6c4d441a9e38",
-    "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
-    "country": "Iran",
-    "city": "Tehran",
+    "id": "2e065e4ffb9b",
+    "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
+    "country": "Russia",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-24T14:56:18+00:00"
+   },
+   {
+    "id": "d861e63604df",
+    "title": "Australia mulls closing key Russian oil loophole, but with no deadline in mind",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-24T14:51:28+00:00"
+   },
+   {
+    "id": "3674ca47c98d",
+    "title": "World Vision Launches ADH-funded Programme to Address Learning Gaps and Strengthen Child Well-being Across Eight Schools in Ukraine",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-24T13:42:01+00:00"
+   },
+   {
+    "id": "827855225858",
+    "title": "Moldova to bring its Russia, Belarus sanctions in line with EU as part of membership requirements",
+    "country": "Ukraine",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-24T13:17:31+00:00"
+   },
+   {
+    "id": "3ef1f8c078e3",
+    "title": "Ukraine condemns decision to hand world nuclear body lead role to sanctioned Russian",
+    "country": "Ukraine",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-24T12:37:08+00:00"
+   },
+   {
+    "id": "5c1da8541b5b",
+    "title": "Briefing by Alexander De Croo, UNDP Administrator, to the UN Security Council on energy, needs and reconstruction efforts in Ukraine",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-24T03:25:10+00:00"
+   },
+   {
+    "id": "f1c1785b06d2",
+    "title": "Russian unmanned aerial vehicle violates Polish airspace days after missile incursion",
+    "country": "Poland",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-24T00:48:51+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "6778d3249933",
+    "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
+    "country": "China",
+    "city": null,
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-23T21:30:40+00:00"
+    "time": "2026-11-24T15:23:20+00:00"
    },
    {
-    "id": "e3a28b67a76b",
-    "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
-    "country": "Iran",
-    "city": "Tehran",
+    "id": "88195ecee632",
+    "title": "Is North Korea holding back on sending Russia more troops?",
+    "country": "North Korea",
+    "city": "Pyongyang",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-24T12:51:00+00:00"
+   },
+   {
+    "id": "03b968bccb1a",
+    "title": "'Evacuation, air raid,' — Russian military aircraft approach South Korean island, trigger air raid alert",
+    "country": "South Korea",
+    "city": null,
+    "category": "transport",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-24T10:07:17+00:00"
+   },
+   {
+    "id": "b81c23ca340e",
+    "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+    "country": "Myanmar",
+    "city": "Naypyidaw",
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-23T20:26:40+00:00"
+    "time": "2026-11-24T05:54:14+00:00"
    },
    {
-    "id": "3d79fc57b324",
-    "title": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
-    "country": "Libya",
-    "city": "Benghazi",
+    "id": "849581e6e513",
+    "title": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
+    "country": "Myanmar",
+    "city": null,
     "category": "political",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-23T19:41:45+00:00"
+    "time": "2026-11-23T23:10:22+00:00"
+   },
+   {
+    "id": "0adcd15f8171",
+    "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – as it happened",
+    "country": "China",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-24T15:36:28+00:00"
+   },
+   {
+    "id": "af3b64314157",
+    "title": "Myanmar Anticipatory Action Framework for Cyclones (2026)",
+    "country": "Myanmar",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-24T14:29:48+00:00"
+   },
+   {
+    "id": "af0026136e48",
+    "title": "Chinese police contacted members of WeChat group after they discussed Melbourne vigil for HungryPanda rider",
+    "country": "China",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-24T14:00:50+00:00"
+   }
+  ],
+  "Western Europe": [
+   {
+    "id": "179a033962cb",
+    "title": "UK sanctions Yemen’s Houthi group and four of its top officials",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-24T12:55:55+00:00"
+   },
+   {
+    "id": "64619743a8e9",
+    "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-23T21:03:34+00:00"
+   },
+   {
+    "id": "772793f9e57d",
+    "title": "French police officer who shot teenager to face murder trial",
+    "country": "France",
+    "city": "Paris",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-24T15:54:17+00:00"
+   },
+   {
+    "id": "4a75823f37eb",
+    "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
+    "country": "Spain",
+    "city": "Barcelona",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-24T15:52:50+00:00"
+   },
+   {
+    "id": "39f030d3ae18",
+    "title": "France's femicide orphans: The invisible victims of violence against women",
+    "country": "France",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-24T15:08:41+00:00"
+   },
+   {
+    "id": "237b9fae50be",
+    "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+    "country": "Spain",
+    "city": "Barcelona",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-24T12:22:04+00:00"
+   },
+   {
+    "id": "2139716687ed",
+    "title": "Green flood alert in Portugal",
+    "country": "Portugal",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-24T12:04:01+00:00"
+   },
+   {
+    "id": "0b93d02fb890",
+    "title": "Belgian Air Traffic Strike Grounds Brussels and Charleroi Flights for Most of Monday During National Protest",
+    "country": "Belgium",
+    "city": "Brussels",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-24T03:30:00+00:00"
    }
   ],
   "Latin America & Caribbean": [
+   {
+    "id": "175de3252669",
+    "title": "Ecuador: Severe flooding hits Galápagos Islands amid El Niño concerns",
+    "country": "Ecuador",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-24T07:22:52+00:00"
+   },
    {
     "id": "42a5703f4675",
     "title": "WHO chief visits Cuba as healthcare system deteriorates",
@@ -311,6 +525,46 @@
     "time": "2026-11-23T23:49:37+00:00"
    },
    {
+    "id": "99f51638f410",
+    "title": "How Brazil’s mosquitoes are helping to fight dengue",
+    "country": "Brazil",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-24T15:09:00+00:00"
+   },
+   {
+    "id": "05652c89e33b",
+    "title": "M4.8 earthquake, 71 km W of Vallenar, Chile",
+    "country": "Chile",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-24T13:22:38.945000+00:00"
+   },
+   {
+    "id": "d2ea9ade0b56",
+    "title": "Haiti gang suppression force says it has killed multiple gang members",
+    "country": "Haiti",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-24T12:42:07+00:00"
+   },
+   {
+    "id": "5c86347de6b8",
+    "title": "Green forest fire notification in Bolivia, Brazil",
+    "country": "Bolivia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-24T12:06:45+00:00"
+   },
+   {
     "id": "acd3357fcd62",
     "title": "M4.5 earthquake, 9 km NNW of La Tronosa, Panama",
     "country": "Panama",
@@ -319,244 +573,28 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-24T01:55:57.417000+00:00"
-   },
-   {
-    "id": "7ce23e3defd8",
-    "title": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
-    "country": "Haiti",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-24T01:06:00+00:00"
-   },
-   {
-    "id": "51df7ca52a43",
-    "title": "Green flood alert in Colombia",
-    "country": "Colombia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-23T07:13:16+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "5c1da8541b5b",
-    "title": "Briefing by Alexander De Croo, UNDP Administrator, to the UN Security Council on energy, needs and reconstruction efforts in Ukraine",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-24T03:25:10+00:00"
-   },
-   {
-    "id": "f1c1785b06d2",
-    "title": "Russian unmanned aerial vehicle violates Polish airspace days after missile incursion",
-    "country": "Poland",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-24T00:48:51+00:00"
-   },
-   {
-    "id": "e44328043ea4",
-    "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-23T23:26:16+00:00"
-   },
-   {
-    "id": "df643732393b",
-    "title": "Russian incursions into NATO territory are increasing",
-    "country": "Poland",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-23T23:08:51+00:00"
-   },
-   {
-    "id": "db4ab91bbec7",
-    "title": "Ukraine claims it sank Russian warship off Libya",
-    "country": "Russia",
-    "city": "Moscow",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-23T19:39:00+00:00"
-   },
-   {
-    "id": "706ee2a8f6e7",
-    "title": "Ukraine war latest: Russian warship sinks off Libyan coast following 'exemplary' Ukrainian drone attack",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-23T19:11:38+00:00"
-   },
-   {
-    "id": "3c25eb13817b",
-    "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
-    "country": "Russia",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-23T16:42:56+00:00"
-   },
-   {
-    "id": "a6ed059f438a",
-    "title": "EU proposes package of Russian sports sanctions, visa bans, and a Krygyzstan crypto blockade",
-    "country": "Ukraine",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-23T15:12:37+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "64619743a8e9",
-    "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-23T21:03:34+00:00"
-   },
-   {
-    "id": "0b93d02fb890",
-    "title": "Belgian Air Traffic Strike Grounds Brussels and Charleroi Flights for Most of Monday During National Protest",
-    "country": "Belgium",
-    "city": "Brussels",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-24T03:30:00+00:00"
-   },
-   {
-    "id": "4afc7413d971",
-    "title": "Belgium: Workers march against spending cuts as living costs rise",
-    "country": "Belgium",
-    "city": "Brussels",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-23T21:09:53+00:00"
-   },
-   {
-    "id": "2fc3c2cc0e80",
-    "title": "Airports, public transport shut down amid national strike in Belgium",
-    "country": "Belgium",
-    "city": "Brussels",
-    "category": "transport",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-23T16:10:30+00:00"
-   },
-   {
-    "id": "0bc73fdd0342",
-    "title": "Tens of thousands take to streets in Belgium in anti-austerity protests",
-    "country": "Belgium",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-23T15:19:44+00:00"
-   },
-   {
-    "id": "f6ea840a0a9a",
-    "title": "‘Worst possible choice’: Should date of French election be changed?",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-23T14:02:09+00:00"
-   },
-   {
-    "id": "d8dcfe3d1463",
-    "title": "Flights cancelled in Belgium due to cost-of-living strike",
-    "country": "Belgium",
-    "city": null,
-    "category": "transport",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-23T13:34:02+00:00"
-   },
-   {
-    "id": "96da3934e630",
-    "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-    "country": "France",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-23T13:09:52+00:00"
-   }
-  ],
-  "Oceania": [
-   {
-    "id": "df34130ce6a0",
-    "title": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
-    "country": "Australia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-23T13:55:40+00:00"
-   },
-   {
-    "id": "7f0d4c71c0f3",
-    "title": "New Zealand’s Mitchell, Phillips frustrate India as first Test ends in draw",
-    "country": "New Zealand",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-23T05:58:36+00:00"
-   },
-   {
-    "id": "f776666987ed",
-    "title": "M4.8 earthquake, 209 km SSE of Tobi Village, Palau",
-    "country": "Palau",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-23T11:24:31.100000+00:00"
-   },
-   {
-    "id": "c8d27ffbb2de",
-    "title": "M4.5 earthquake, Vanuatu region",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-23T09:35:10.713000+00:00"
    }
   ],
   "South Asia": [
    {
-    "id": "1f76cb07cdee",
-    "title": "India pledges $1.6bn to Nepal in reset of ties",
+    "id": "bc103ef18f29",
+    "title": "World: Epidemic and emerging disease alerts in the Pacific as of 24 November 2026",
     "country": "India",
     "city": "Delhi",
-    "category": "hazard",
+    "category": "health",
     "severity": 2,
-    "confidence": "B2",
-    "time": "2026-11-23T13:39:30+00:00"
+    "confidence": "A1",
+    "time": "2026-11-24T14:43:28+00:00"
+   },
+   {
+    "id": "04af5ac70ec3",
+    "title": "Leader of India’s Cockroach movement says he was stopped from boarding flight to UK",
+    "country": "India",
+    "city": "Delhi",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-24T08:24:26+00:00"
    },
    {
     "id": "6b7fa1faa07c",
