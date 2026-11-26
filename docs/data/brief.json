@@ -1,18 +1,100 @@
 {
- "generated": "2026-11-26T11:24:13.489503+00:00",
+ "generated": "2026-11-26T20:24:33.081562+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 49,
-  "3": 37,
-  "4": 2,
+  "2": 52,
+  "3": 31,
+  "4": 5,
   "5": 2
  },
  "watch_hits": [
   "698f733583b2"
  ],
  "regions": {
+  "Middle East & N. Africa": [
+   {
+    "id": "a2c67750e038",
+    "title": "WHO and partners sustain lifesaving surgical care as conflict escalates in Yemen",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-11-26T13:05:11+00:00"
+   },
+   {
+    "id": "229300733ce7",
+    "title": "Two dead after Iranian drone attack on Kuwait",
+    "country": "Kuwait",
+    "city": null,
+    "category": "conflict",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-26T15:55:15+00:00"
+   },
+   {
+    "id": "7c4ec329b1d8",
+    "title": "Iraqi court sentences 8 French nationals to life in prison for IS group membership",
+    "country": "Iraq",
+    "city": "Baghdad",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-26T06:28:48+00:00"
+   },
+   {
+    "id": "8eb9a33aa32a",
+    "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+    "country": "Palestine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T17:59:44+00:00"
+   },
+   {
+    "id": "5bb46dc3c933",
+    "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+    "country": "Egypt",
+    "city": "Cairo",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T15:45:59+00:00"
+   },
+   {
+    "id": "eb90ef9f0e0e",
+    "title": "Yemen: Calling for Collective Action and Resource Mobilization to Scale Up the Urgent Humanitarian Response",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-26T14:31:34+00:00"
+   },
+   {
+    "id": "ce0377834855",
+    "title": "oPt: Humanitarian Situation Report | 26 November 2026\\",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-26T14:01:46+00:00"
+   },
+   {
+    "id": "31516b51314f",
+    "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T10:00:52+00:00"
+   }
+  ],
   "Latin America & Caribbean": [
    {
     "id": "5b3263d8133c",
@@ -25,26 +107,6 @@
     "time": "2026-11-26T01:03:06+00:00"
    },
    {
-    "id": "3d41536f124f",
-    "title": "Ecuador and US review joint military operations, official says",
-    "country": "Ecuador",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T17:50:41+00:00"
-   },
-   {
-    "id": "40bb2b4b0f62",
-    "title": "Colombian authorities rescue all hostages held at Cartagena supermarket",
-    "country": "Colombia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B1",
-    "time": "2026-11-25T13:56:39+00:00"
-   },
-   {
     "id": "602982a6ca19",
     "title": "Panama: Earthquake in Azuero & Veraguas - Situation Report No. 10 (as of 25 November 2026, 12:00)",
     "country": "Panama",
@@ -53,118 +115,88 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-25T23:53:33+00:00"
-   },
-   {
-    "id": "322fe590a61c",
-    "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
-    "country": "Colombia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-25T20:20:23+00:00"
-   },
-   {
-    "id": "534491e8f5fb",
-    "title": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
-    "country": "Venezuela",
-    "city": "Caracas",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-25T17:05:35+00:00"
-   },
-   {
-    "id": "48b1c912c408",
-    "title": "Colombia: Security forces rescue hostages in supermarket siege",
-    "country": "Colombia",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-25T16:08:44+00:00"
    }
   ],
-  "Sub-Saharan Africa": [
+  "Western Europe": [
    {
-    "id": "d3b6078aa3ad",
-    "title": "Cameroon Cholera Outbreak: Situation Report #8 (November 25, 2026)",
-    "country": "Cameroon",
-    "city": null,
-    "category": "health",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-11-25T19:48:55+00:00"
+    "id": "5389d45158d0",
+    "title": "French woman on trial for IS group propaganda tells court she’s ‘ashamed’",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-26T14:48:32+00:00"
    },
    {
-    "id": "24dbf6ccde06",
-    "title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
-    "country": "South Africa",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B2",
-    "time": "2026-11-25T15:35:33+00:00"
+    "id": "bbf7c64f09a2",
+    "title": "Émilie König, 'the muse of the Islamic State group' goes on trial in France",
+    "country": "France",
+    "city": "Paris",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-26T14:17:30+00:00"
    },
    {
-    "id": "4327076bb966",
-    "title": "Central African Republic: Situation Report No. 95, as of 24 November 2026",
-    "country": "CAR",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-26T09:54:55+00:00"
-   },
-   {
-    "id": "698f733583b2",
-    "title": "'We are not fighting culture, we fight to end FGM: It's a human rights violation of women and girls'",
-    "country": "Kenya",
-    "city": "Nairobi",
+    "id": "4f4e53e6e29a",
+    "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
+    "country": "United Kingdom",
+    "city": "London",
     "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-26T08:39:26+00:00"
+    "time": "2026-11-26T12:37:42+00:00"
    },
    {
-    "id": "bf3ec29ea3fd",
-    "title": "Cape Town court shuts down Ramaphosa's Farmgate scandal",
-    "country": "DRC",
+    "id": "132f51c24a2d",
+    "title": "Beau Lamarre-Condon used his service weapon to murder two men. Did NSW police recruiters miss any red flags?",
+    "country": "United Kingdom",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T21:41:01+00:00"
-   },
-   {
-    "id": "1617f46f4deb",
-    "title": "South Africa's Ramaphosa wins court bid over impeachment report",
-    "country": "South Africa",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-25T20:07:59+00:00"
-   },
-   {
-    "id": "d3508df5e730",
-    "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
-    "country": "Nigeria",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T18:14:44+00:00"
-   },
-   {
-    "id": "cc40cafb6f6c",
-    "title": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
+    "category": "crime",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-26T10:20:05+00:00"
+    "time": "2026-11-26T14:26:00+00:00"
+   },
+   {
+    "id": "bc6a87f42623",
+    "title": "Housing crisis on the ballot: Anger boils over ahead of Spanish election",
+    "country": "Spain",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-26T13:33:21+00:00"
+   },
+   {
+    "id": "3c84cbf6ecf1",
+    "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+    "country": "France",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-26T05:00:27+00:00"
+   },
+   {
+    "id": "2b0fd6dee5fd",
+    "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+    "country": "Germany",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-26T05:00:24+00:00"
+   },
+   {
+    "id": "a1f7ecd2b33f",
+    "title": "California warns of flooding as king tides peak over Thanksgiving",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-26T01:22:55+00:00"
    }
   ],
   "East & SE Asia": [
@@ -199,6 +231,16 @@
     "time": "2026-11-26T09:08:40.640000+00:00"
    },
    {
+    "id": "179efb53c0a1",
+    "title": "M4.8 earthquake, 225 km S of Taliwang, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-26T09:00:41.073000+00:00"
+   },
+   {
     "id": "2b51a28b5c98",
     "title": "How Chinese companies circumvent chips sanctions in Southeast Asia",
     "country": "China",
@@ -209,34 +251,24 @@
     "time": "2026-11-26T06:11:00+00:00"
    },
    {
-    "id": "19936ddede4b",
-    "title": "North Korea expels Swiss diplomat in sanctions row",
-    "country": "China",
-    "city": "Beijing",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T19:19:06+00:00"
+    "id": "a187a6e2f0bd",
+    "title": "M5.1 earthquake, Bonin Islands, Japan region",
+    "country": "Japan",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-26T19:33:08.628000+00:00"
    },
    {
-    "id": "0e4884e163f7",
-    "title": "Switzerland forced to close office in North Korea over sanctions feud",
-    "country": "North Korea",
+    "id": "9cf392b57494",
+    "title": "M4.5 earthquake, 95 km SSE of Sarangani, Philippines",
+    "country": "Philippines",
     "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T16:58:49+00:00"
-   },
-   {
-    "id": "c15507c7d4b4",
-    "title": "Huang's return fails to dispel doubts as Nvidia shares drop",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T16:24:17+00:00"
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-26T16:18:00.760000+00:00"
    },
    {
     "id": "9f488f599ddd",
@@ -249,89 +281,109 @@
     "time": "2026-11-26T09:24:03+00:00"
    }
   ],
-  "Middle East & N. Africa": [
+  "Sub-Saharan Africa": [
    {
-    "id": "7c4ec329b1d8",
-    "title": "Iraqi court sentences 8 French nationals to life in prison for IS group membership",
-    "country": "Iraq",
-    "city": "Baghdad",
-    "category": "terrorism",
-    "severity": 4,
-    "confidence": "B3",
-    "time": "2026-11-26T06:28:48+00:00"
-   },
-   {
-    "id": "31516b51314f",
-    "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
-    "country": "Israel",
-    "city": null,
-    "category": "political",
+    "id": "9d35f6ed4719",
+    "title": "Fighting in eastern Congo forces Ebola workers to evacuate, disrupts outbreak response",
+    "country": "DRC",
+    "city": "Kinshasa",
+    "category": "health",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-26T10:00:52+00:00"
+    "time": "2026-11-26T14:20:13+00:00"
    },
    {
-    "id": "1b4d4f8bf693",
-    "title": "Cyprus takes aim at Turkey's role in helping Russia evade sanctions",
-    "country": "Turkey",
+    "id": "44abe2c8fe2c",
+    "title": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
+    "country": "DRC",
     "city": null,
-    "category": "political",
+    "category": "conflict",
     "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T12:00:00+00:00"
+   },
+   {
+    "id": "4327076bb966",
+    "title": "Central African Republic: Situation Report No. 95, as of 24 November 2026",
+    "country": "CAR",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-26T09:54:55+00:00"
+   },
+   {
+    "id": "698f733583b2",
+    "title": "'We are not fighting culture, we fight to end FGM: It's a human rights violation of women and girls'",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T08:39:26+00:00"
+   },
+   {
+    "id": "bf3ec29ea3fd",
+    "title": "Cape Town court shuts down Ramaphosa's Farmgate scandal",
+    "country": "DRC",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-25T21:41:01+00:00"
+   },
+   {
+    "id": "14abf1c38efe",
+    "title": "Green forest fire notification in Mali",
+    "country": "Mali",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-26T20:01:17+00:00"
+   },
+   {
+    "id": "c97a5b71e416",
+    "title": "Ebola: UN says outbreak driving spike in gender-based violence in Congo",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
     "confidence": "C4",
-    "time": "2026-11-26T09:54:38+00:00"
+    "time": "2026-11-26T17:52:40+00:00"
    },
    {
-    "id": "8cbf7eae6399",
-    "title": "What we carried, what we left behind: Five accounts of displacement in Yemen",
-    "country": "Yemen",
+    "id": "6a87c41e25b8",
+    "title": "US-backed Ebola quarantine centre violated constitution, Kenyan court rules",
+    "country": "Kenya",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-26T09:29:17+00:00"
-   },
-   {
-    "id": "fd457cdbdb08",
-    "title": "Yemen: Catastrophic civilian suffering as donors and media look elsewhere | NRC",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-26T08:33:05+00:00"
-   },
-   {
-    "id": "05a22b0670cf",
-    "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-    "country": "Yemen",
-    "city": "Sanaa",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-26T00:00:00+00:00"
-   },
-   {
-    "id": "a479c1dfd340",
-    "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
-    "country": "Yemen",
-    "city": "Sanaa",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T23:33:39+00:00"
-   },
-   {
-    "id": "87b2a50673ac",
-    "title": "Houthi rebels close in on Aden, Yemeni forces dig in behind fortified line",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T14:52:06+00:00"
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-26T17:52:38+00:00"
    }
   ],
   "Eastern Europe": [
+   {
+    "id": "a8b7fed69d87",
+    "title": "Moscow drone incursions: Poland to create no-fly zone at Ukraine border",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T14:19:11+00:00"
+   },
+   {
+    "id": "90aec4f9c29d",
+    "title": "Russia prepares new mass attack on Ukraine's energy infrastructure, Zelensky says",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-26T11:49:24+00:00"
+   },
    {
     "id": "77262b6df2e9",
     "title": "Russian attacks kill 10, injure 58 across Ukraine over past day, as ballistic missiles strike Kyiv",
@@ -391,26 +443,6 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-25T21:42:35+00:00"
-   },
-   {
-    "id": "7bfbff90c7b1",
-    "title": "Russia slams Kyiv in ballistic missile attack, hits shopping center, injures 7",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-25T21:42:35+00:00"
-   },
-   {
-    "id": "fbaf3b5a2a46",
-    "title": "Ukraine war latest: Poland plans no-fly zone near Ukraine border, asks NATO to intercept Russian missiles over Ukraine",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-25T18:53:38+00:00"
    }
   ],
   "North America": [
@@ -433,6 +465,16 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-25T23:05:31+00:00"
+   },
+   {
+    "id": "a909f596e324",
+    "title": "Politician hosts 400,000 guests at daughter’s wedding in India’s poorest state",
+    "country": "United States",
+    "city": "Atlanta",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-26T15:41:42+00:00"
    },
    {
     "id": "4b398e65221b",
@@ -473,101 +515,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-25T22:33:06+00:00"
-   },
-   {
-    "id": "7d5e5fd5a796",
-    "title": "California braces for flooding threat from huge tides, El Nino",
-    "country": "United States",
-    "city": "San Francisco",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-25T14:07:37+00:00"
-   }
-  ],
-  "Western Europe": [
-   {
-    "id": "56290bc2f6d0",
-    "title": "UK military ‘moving aircraft to hangars in case of drone attacks’",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T19:15:01+00:00"
-   },
-   {
-    "id": "3c84cbf6ecf1",
-    "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-    "country": "France",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-26T05:00:27+00:00"
-   },
-   {
-    "id": "2b0fd6dee5fd",
-    "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-    "country": "Germany",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-26T05:00:24+00:00"
-   },
-   {
-    "id": "a1f7ecd2b33f",
-    "title": "California warns of flooding as king tides peak over Thanksgiving",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-26T01:22:55+00:00"
-   },
-   {
-    "id": "bb2deb2c0b99",
-    "title": "California warns of flooding as King Tides peak over Thanksgiving",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-26T01:22:55+00:00"
-   },
-   {
-    "id": "142c86f96d81",
-    "title": "Le Pen party leaks: prefect dismissed, Paris deputy prosecutor placed under investigation",
-    "country": "France",
-    "city": "Paris",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-25T22:28:58+00:00"
-   },
-   {
-    "id": "0f75da969ff2",
-    "title": "What’s behind Europe’s protests?",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-25T20:30:22+00:00"
-   },
-   {
-    "id": "8ecacdab0673",
-    "title": "Greece: 14,000 march in Athens against rising living costs",
-    "country": "Greece",
-    "city": "Athens",
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-25T18:20:53+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "9867006b48be",
+    "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+    "country": "Australia",
+    "city": "Sydney",
+    "category": "health",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-26T14:00:39+00:00"
+   },
    {
     "id": "1dd589809189",
     "title": "M5.2 earthquake, 265 km WNW of Houma, Tonga",
@@ -607,19 +567,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-25T21:32:33.545000+00:00"
-   },
-   {
-    "id": "465aad440187",
-    "title": "M4.7 earthquake, 13 km NW of Port-Vila, Vanuatu",
-    "country": "Vanuatu",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-25T18:59:29.141000+00:00"
    }
   ],
   "South Asia": [
+   {
+    "id": "6b57c5fe3111",
+    "title": "The Persecution Continues: Minority Communities Under Sustained Attack in Bangladesh (January - October 2026)",
+    "country": "Bangladesh",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-26T13:33:19+00:00"
+   },
    {
     "id": "a353a2031b29",
     "title": "World: Reporting Sexual Violence and Abuse in Conflict - October 2026",
@@ -629,16 +589,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-26T09:00:39+00:00"
-   },
-   {
-    "id": "1d33196b14a2",
-    "title": "Green forest fire notification in India",
-    "country": "India",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-25T16:15:02+00:00"
    }
   ]
  }
