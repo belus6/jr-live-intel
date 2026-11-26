@@ -1,15 +1,17 @@
 {
- "generated": "2026-11-26T02:28:03.862005+00:00",
+ "generated": "2026-11-26T11:24:13.489503+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 54,
-  "3": 32,
-  "4": 1,
+  "2": 49,
+  "3": 37,
+  "4": 2,
   "5": 2
  },
- "watch_hits": [],
+ "watch_hits": [
+  "698f733583b2"
+ ],
  "regions": {
   "Latin America & Caribbean": [
    {
@@ -23,16 +25,6 @@
     "time": "2026-11-26T01:03:06+00:00"
    },
    {
-    "id": "36ea114ba0fb",
-    "title": "Cuba: WHO Director-General's remarks at press conference – 24 November 2026",
-    "country": "Cuba",
-    "city": "Havana",
-    "category": "political",
-    "severity": 4,
-    "confidence": "A1",
-    "time": "2026-11-25T06:15:21+00:00"
-   },
-   {
     "id": "3d41536f124f",
     "title": "Ecuador and US review joint military operations, official says",
     "country": "Ecuador",
@@ -41,16 +33,6 @@
     "severity": 3,
     "confidence": "B3",
     "time": "2026-11-25T17:50:41+00:00"
-   },
-   {
-    "id": "728c588200e3",
-    "title": "World: Presidenta del CICR: Ningún arma, tecnología ni método de guerra debería poner la conducción de las hostilidades más allá de los límites del control humano",
-    "country": "Bolivia",
-    "city": "La Paz",
-    "category": "political",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-25T05:47:55+00:00"
    },
    {
     "id": "40bb2b4b0f62",
@@ -91,6 +73,16 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-25T17:05:35+00:00"
+   },
+   {
+    "id": "48b1c912c408",
+    "title": "Colombia: Security forces rescue hostages in supermarket siege",
+    "country": "Colombia",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-25T16:08:44+00:00"
    }
   ],
   "Sub-Saharan Africa": [
@@ -113,6 +105,26 @@
     "severity": 3,
     "confidence": "B2",
     "time": "2026-11-25T15:35:33+00:00"
+   },
+   {
+    "id": "4327076bb966",
+    "title": "Central African Republic: Situation Report No. 95, as of 24 November 2026",
+    "country": "CAR",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-26T09:54:55+00:00"
+   },
+   {
+    "id": "698f733583b2",
+    "title": "'We are not fighting culture, we fight to end FGM: It's a human rights violation of women and girls'",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T08:39:26+00:00"
    },
    {
     "id": "bf3ec29ea3fd",
@@ -145,34 +157,260 @@
     "time": "2026-11-25T18:14:44+00:00"
    },
    {
-    "id": "e4e8d12a9f47",
-    "title": "From Rainfall Forecasts to Anticipatory Action: A Flood Digital Twin at Work in Dolo Ado, Ethiopia (November 2026)",
-    "country": "Ethiopia",
+    "id": "cc40cafb6f6c",
+    "title": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
+    "country": "Kenya",
     "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-26T00:42:08+00:00"
-   },
-   {
-    "id": "8eb915d6407b",
-    "title": "Zambia bans protest against push to remove presidential term limits",
-    "country": "Zambia",
-    "city": null,
-    "category": "unrest",
+    "category": "health",
     "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-26T00:22:15+00:00"
+    "time": "2026-11-26T10:20:05+00:00"
+   }
+  ],
+  "East & SE Asia": [
+   {
+    "id": "894da691b963",
+    "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-26T07:38:00+00:00"
    },
    {
-    "id": "c72ab7dce60c",
-    "title": "Green forest fire notification in Nigeria",
-    "country": "Nigeria",
+    "id": "d5710f6deaaf",
+    "title": "North Korea pauses military aid to Russia, Ukrainian intelligence says",
+    "country": "North Korea",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-26T09:56:07+00:00"
+   },
+   {
+    "id": "fb7a21de3ba8",
+    "title": "M5.5 earthquake, 204 km S of Taliwang, Indonesia",
+    "country": "Indonesia",
+    "city": null,
+    "category": "hazard",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-26T09:08:40.640000+00:00"
+   },
+   {
+    "id": "2b51a28b5c98",
+    "title": "How Chinese companies circumvent chips sanctions in Southeast Asia",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T06:11:00+00:00"
+   },
+   {
+    "id": "19936ddede4b",
+    "title": "North Korea expels Swiss diplomat in sanctions row",
+    "country": "China",
+    "city": "Beijing",
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-25T19:19:06+00:00"
+   },
+   {
+    "id": "0e4884e163f7",
+    "title": "Switzerland forced to close office in North Korea over sanctions feud",
+    "country": "North Korea",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-25T16:58:49+00:00"
+   },
+   {
+    "id": "c15507c7d4b4",
+    "title": "Huang's return fails to dispel doubts as Nvidia shares drop",
+    "country": "China",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-25T16:24:17+00:00"
+   },
+   {
+    "id": "9f488f599ddd",
+    "title": "Green earthquake (Magnitude 5.5M, Depth:15.139km) in South Of Sumbawa, Indonesia 26/11/2026 09:08 UTC, [unknown].",
+    "country": "Indonesia",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-26T00:06:00+00:00"
+    "time": "2026-11-26T09:24:03+00:00"
+   }
+  ],
+  "Middle East & N. Africa": [
+   {
+    "id": "7c4ec329b1d8",
+    "title": "Iraqi court sentences 8 French nationals to life in prison for IS group membership",
+    "country": "Iraq",
+    "city": "Baghdad",
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "B3",
+    "time": "2026-11-26T06:28:48+00:00"
+   },
+   {
+    "id": "31516b51314f",
+    "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
+    "country": "Israel",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T10:00:52+00:00"
+   },
+   {
+    "id": "1b4d4f8bf693",
+    "title": "Cyprus takes aim at Turkey's role in helping Russia evade sanctions",
+    "country": "Turkey",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-26T09:54:38+00:00"
+   },
+   {
+    "id": "8cbf7eae6399",
+    "title": "What we carried, what we left behind: Five accounts of displacement in Yemen",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-26T09:29:17+00:00"
+   },
+   {
+    "id": "fd457cdbdb08",
+    "title": "Yemen: Catastrophic civilian suffering as donors and media look elsewhere | NRC",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-26T08:33:05+00:00"
+   },
+   {
+    "id": "05a22b0670cf",
+    "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+    "country": "Yemen",
+    "city": "Sanaa",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T00:00:00+00:00"
+   },
+   {
+    "id": "a479c1dfd340",
+    "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+    "country": "Yemen",
+    "city": "Sanaa",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-25T23:33:39+00:00"
+   },
+   {
+    "id": "87b2a50673ac",
+    "title": "Houthi rebels close in on Aden, Yemeni forces dig in behind fortified line",
+    "country": "Yemen",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-25T14:52:06+00:00"
+   }
+  ],
+  "Eastern Europe": [
+   {
+    "id": "77262b6df2e9",
+    "title": "Russian attacks kill 10, injure 58 across Ukraine over past day, as ballistic missiles strike Kyiv",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-26T11:16:46+00:00"
+   },
+   {
+    "id": "a86bad5bccd0",
+    "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T10:02:09+00:00"
+   },
+   {
+    "id": "16c042ddfff9",
+    "title": "General Staff: Russia has lost 1,645,899 troops in Ukraine since Feb. 24, 2022",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-26T07:13:53+00:00"
+   },
+   {
+    "id": "af543117c179",
+    "title": "Exclusive: EU report confirms Trump threw Russian energy sector an economic lifeline even as sanctions, Ukrainian drones, bite hard",
+    "country": "Russia",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-26T05:00:16+00:00"
+   },
+   {
+    "id": "bcc6a34423a3",
+    "title": "Ukrainian drones attack key Russian fertilizer plant linked to explosives production, Stavropol Krai governor says",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-26T03:14:17+00:00"
+   },
+   {
+    "id": "4bfde2a155fb",
+    "title": "Russia slams Kyiv in ballistic missile attack, hits shopping center, injures 4",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-25T21:42:35+00:00"
+   },
+   {
+    "id": "7bfbff90c7b1",
+    "title": "Russia slams Kyiv in ballistic missile attack, hits shopping center, injures 7",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-25T21:42:35+00:00"
+   },
+   {
+    "id": "fbaf3b5a2a46",
+    "title": "Ukraine war latest: Poland plans no-fly zone near Ukraine border, asks NATO to intercept Russian missiles over Ukraine",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-25T18:53:38+00:00"
    }
   ],
   "North America": [
@@ -195,6 +433,26 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-25T23:05:31+00:00"
+   },
+   {
+    "id": "4b398e65221b",
+    "title": "Guatemala: El Niño drought pushes families to sell possessions or send children to work to afford food",
+    "country": "United States",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-26T09:33:09+00:00"
+   },
+   {
+    "id": "3ec0758d2193",
+    "title": "M4.6 earthquake, 97 km SW of Puerto Madero, Mexico",
+    "country": "Mexico",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-26T03:30:28.511000+00:00"
    },
    {
     "id": "d55a10aeb6b3",
@@ -227,242 +485,6 @@
     "time": "2026-11-25T14:07:37+00:00"
    }
   ],
-  "Middle East & N. Africa": [
-   {
-    "id": "05a22b0670cf",
-    "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-    "country": "Yemen",
-    "city": "Sanaa",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-26T00:00:00+00:00"
-   },
-   {
-    "id": "a479c1dfd340",
-    "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
-    "country": "Yemen",
-    "city": "Sanaa",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T23:33:39+00:00"
-   },
-   {
-    "id": "87b2a50673ac",
-    "title": "Houthi rebels close in on Aden, Yemeni forces dig in behind fortified line",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T14:52:06+00:00"
-   },
-   {
-    "id": "35f434b72f7f",
-    "title": "Rising prices push families to the brink in Yemen’s Hodeidah",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T09:00:53+00:00"
-   },
-   {
-    "id": "169c26cac69c",
-    "title": "32 humanitarian organisations call for urgent action to protect civilians in Yemen",
-    "country": "Yemen",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-25T08:09:36+00:00"
-   },
-   {
-    "id": "29a3a7c8c956",
-    "title": "Sudan: INGOs Call for protection of civilians and humanitarian operations following drone strikes in Nyala and Khartoum",
-    "country": "Sudan",
-    "city": "Khartoum",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-25T08:02:28+00:00"
-   },
-   {
-    "id": "2e5349cb76f7",
-    "title": "Sudan: Drone strike kills 10-year-old pupil attending NRC-supported school in attack on family home",
-    "country": "Sudan",
-    "city": "Khartoum",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "A1",
-    "time": "2026-11-25T07:03:07+00:00"
-   },
-   {
-    "id": "ff05e74cd23d",
-    "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
-    "country": "Palestine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T05:27:32+00:00"
-   }
-  ],
-  "Eastern Europe": [
-   {
-    "id": "4bfde2a155fb",
-    "title": "Russia slams Kyiv in ballistic missile attack, hits shopping center, injures 4",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-25T21:42:35+00:00"
-   },
-   {
-    "id": "6a7af2ab9fbb",
-    "title": "Poland plans no-fly zone near Ukraine border, asks NATO to intercept Russian missiles over Ukraine",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-25T16:13:28+00:00"
-   },
-   {
-    "id": "31b94d2469bb",
-    "title": "How Ukraine fought from inside Russian positions in Operation Vivaldi",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-25T15:04:31+00:00"
-   },
-   {
-    "id": "a5e37772f657",
-    "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T14:46:41+00:00"
-   },
-   {
-    "id": "578bde7eced0",
-    "title": "From Crimea to Kaliningrad — Do Ukraine's latest strikes signal a broader campaign?",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-25T14:11:43+00:00"
-   },
-   {
-    "id": "80ea8e04e1a1",
-    "title": "Why Indian nationals are still ending up in Russia's war on Ukraine",
-    "country": "Russia",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T13:17:00+00:00"
-   },
-   {
-    "id": "2c735eaa02ff",
-    "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-    "country": "Ukraine",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T12:21:49+00:00"
-   },
-   {
-    "id": "cec60f426509",
-    "title": "Exclusive: US rules out troops, military bases in Ukraine under post-war security guarantees, falling short of Kyiv's expectations",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-25T07:57:52+00:00"
-   }
-  ],
-  "East & SE Asia": [
-   {
-    "id": "19936ddede4b",
-    "title": "North Korea expels Swiss diplomat in sanctions row",
-    "country": "China",
-    "city": "Beijing",
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T19:19:06+00:00"
-   },
-   {
-    "id": "0e4884e163f7",
-    "title": "Switzerland forced to close office in North Korea over sanctions feud",
-    "country": "North Korea",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T16:58:49+00:00"
-   },
-   {
-    "id": "c15507c7d4b4",
-    "title": "Huang's return fails to dispel doubts as Nvidia shares drop",
-    "country": "China",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T16:24:17+00:00"
-   },
-   {
-    "id": "22e25c5f03d2",
-    "title": "M5.0 earthquake, 67 km NNE of Luwuk, Indonesia",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-25T12:08:12.731000+00:00"
-   },
-   {
-    "id": "2ccbe1e969fb",
-    "title": "M5.3 earthquake, 83 km ESE of Hengchun, Taiwan",
-    "country": "Taiwan",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-25T08:47:16.394000+00:00"
-   },
-   {
-    "id": "42e59d1caeb2",
-    "title": "Rescuers search for dozens trapped in flooded Indonesia gold mine",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-25T08:08:57+00:00"
-   },
-   {
-    "id": "99bd2ba9db49",
-    "title": "M4.7 earthquake, 178 km ESE of Kimbe, Papua New Guinea",
-    "country": "Papua New Guinea",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-25T04:30:32.480000+00:00"
-   }
-  ],
   "Western Europe": [
    {
     "id": "56290bc2f6d0",
@@ -475,18 +497,38 @@
     "time": "2026-11-25T19:15:01+00:00"
    },
    {
-    "id": "16a12bd7e705",
-    "title": "Energy bills in Great Britain to rise 26% in January, lifting annual bills over £2,000",
-    "country": "United Kingdom",
+    "id": "3c84cbf6ecf1",
+    "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+    "country": "France",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "crime",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-25T07:03:21+00:00"
+    "time": "2026-11-26T05:00:27+00:00"
+   },
+   {
+    "id": "2b0fd6dee5fd",
+    "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+    "country": "Germany",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-26T05:00:24+00:00"
    },
    {
     "id": "a1f7ecd2b33f",
     "title": "California warns of flooding as king tides peak over Thanksgiving",
+    "country": "United Kingdom",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-26T01:22:55+00:00"
+   },
+   {
+    "id": "bb2deb2c0b99",
+    "title": "California warns of flooding as King Tides peak over Thanksgiving",
     "country": "United Kingdom",
     "city": null,
     "category": "hazard",
@@ -523,38 +565,28 @@
     "severity": 2,
     "confidence": "C4",
     "time": "2026-11-25T18:20:53+00:00"
-   },
-   {
-    "id": "9863d150c976",
-    "title": "M&G boss urges UK to stem flood of firms leaving London Stock Exchange after Compass exit",
-    "country": "United Kingdom",
-    "city": "London",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-25T09:25:12+00:00"
-   },
-   {
-    "id": "007026da76e1",
-    "title": "World: Justice for women and girls living with HIV: end coercion, protect survivors, end impunity",
-    "country": "Switzerland",
-    "city": "Geneva",
-    "category": "health",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-25T07:33:08+00:00"
    }
   ],
   "Oceania": [
    {
-    "id": "fbf9f28b570b",
-    "title": "‘You’re protecting Trump’: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes – as it happened",
+    "id": "1dd589809189",
+    "title": "M5.2 earthquake, 265 km WNW of Houma, Tonga",
+    "country": "Tonga",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-26T09:22:45.352000+00:00"
+   },
+   {
+    "id": "4aacaaeb2cf3",
+    "title": "Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’ – as it happened",
     "country": "Australia",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "B3",
-    "time": "2026-11-25T07:34:44+00:00"
+    "time": "2026-11-26T06:36:53+00:00"
    },
    {
     "id": "a97903e9db73",
@@ -585,19 +617,19 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-25T18:59:29.141000+00:00"
-   },
-   {
-    "id": "a9fd37870910",
-    "title": "M5.2 earthquake, 175 km N of Hicks Bay, New Zealand",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-25T06:34:08.672000+00:00"
    }
   ],
   "South Asia": [
+   {
+    "id": "a353a2031b29",
+    "title": "World: Reporting Sexual Violence and Abuse in Conflict - October 2026",
+    "country": "India",
+    "city": "Delhi",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-26T09:00:39+00:00"
+   },
    {
     "id": "1d33196b14a2",
     "title": "Green forest fire notification in India",
@@ -607,16 +639,6 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-25T16:15:02+00:00"
-   },
-   {
-    "id": "52d21ec0c1cb",
-    "title": "Bangladesh garment workers win 36% pay rise after weeks of protest",
-    "country": "Bangladesh",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-25T06:58:02+00:00"
    }
   ]
  }
