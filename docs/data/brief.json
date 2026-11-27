@@ -1,18 +1,70 @@
 {
- "generated": "2026-11-26T20:24:33.081562+00:00",
+ "generated": "2026-11-27T03:05:25.266151+00:00",
  "sample": false,
  "window_hours": 24,
  "counts": {
   "1": 1,
-  "2": 52,
-  "3": 31,
-  "4": 5,
+  "2": 60,
+  "3": 30,
+  "4": 6,
   "5": 2
  },
  "watch_hits": [
   "698f733583b2"
  ],
  "regions": {
+  "South Asia": [
+   {
+    "id": "8fbae830f4e1",
+    "title": "COI Query Response - Pakistan: Security Situation in Balochistan Province (January 2026 to 22 November 2026)",
+    "country": "Pakistan",
+    "city": null,
+    "category": "terrorism",
+    "severity": 5,
+    "confidence": "A1",
+    "time": "2026-11-26T15:33:18+00:00"
+   },
+   {
+    "id": "dfc6d4120ce4",
+    "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+    "country": "Bangladesh",
+    "city": null,
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-27T00:47:43+00:00"
+   },
+   {
+    "id": "b91c6f0537f0",
+    "title": "Indian politician facing murder charges hosts 400,000-guest wedding",
+    "country": "India",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-26T20:32:43+00:00"
+   },
+   {
+    "id": "6b57c5fe3111",
+    "title": "The Persecution Continues: Minority Communities Under Sustained Attack in Bangladesh (January - October 2026)",
+    "country": "Bangladesh",
+    "city": null,
+    "category": "crime",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-26T13:33:19+00:00"
+   },
+   {
+    "id": "a353a2031b29",
+    "title": "World: Reporting Sexual Violence and Abuse in Conflict - October 2026",
+    "country": "India",
+    "city": "Delhi",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-26T09:00:39+00:00"
+   }
+  ],
   "Middle East & N. Africa": [
    {
     "id": "a2c67750e038",
@@ -45,6 +97,26 @@
     "time": "2026-11-26T06:28:48+00:00"
    },
    {
+    "id": "d5738aa7c74c",
+    "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
+    "country": "Turkey",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-27T01:36:23+00:00"
+   },
+   {
+    "id": "b7664181e340",
+    "title": "Nigeria faces rising election violence in run up to vote",
+    "country": "Egypt",
+    "city": null,
+    "category": "political",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T21:21:46+00:00"
+   },
+   {
     "id": "8eb9a33aa32a",
     "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
     "country": "Palestine",
@@ -73,48 +145,88 @@
     "severity": 3,
     "confidence": "A1",
     "time": "2026-11-26T14:31:34+00:00"
+   }
+  ],
+  "Sub-Saharan Africa": [
+   {
+    "id": "168ca4a39039",
+    "title": "Nigeria: ISWAP turns to armed drones and global financing networks",
+    "country": "Nigeria",
+    "city": null,
+    "category": "terrorism",
+    "severity": 4,
+    "confidence": "C4",
+    "time": "2026-11-26T21:19:24+00:00"
    },
    {
-    "id": "ce0377834855",
-    "title": "oPt: Humanitarian Situation Report | 26 November 2026\\",
-    "country": "Israel",
-    "city": "Jerusalem",
+    "id": "6ab6365920d9",
+    "title": "Guinea - Bissau military junta postpones elections",
+    "country": "Guinea-Bissau",
+    "city": "Bissau",
+    "category": "political",
+    "severity": 3,
+    "confidence": "C4",
+    "time": "2026-11-27T00:45:00+00:00"
+   },
+   {
+    "id": "9d35f6ed4719",
+    "title": "Fighting in eastern Congo forces Ebola workers to evacuate, disrupts outbreak response",
+    "country": "DRC",
+    "city": "Kinshasa",
+    "category": "health",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T14:20:13+00:00"
+   },
+   {
+    "id": "44abe2c8fe2c",
+    "title": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
+    "country": "DRC",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "B3",
+    "time": "2026-11-26T12:00:00+00:00"
+   },
+   {
+    "id": "4327076bb966",
+    "title": "Central African Republic: Situation Report No. 95, as of 24 November 2026",
+    "country": "CAR",
+    "city": null,
     "category": "conflict",
     "severity": 3,
     "confidence": "A1",
-    "time": "2026-11-26T14:01:46+00:00"
+    "time": "2026-11-26T09:54:55+00:00"
    },
    {
-    "id": "31516b51314f",
-    "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
-    "country": "Israel",
-    "city": null,
-    "category": "political",
+    "id": "698f733583b2",
+    "title": "'We are not fighting culture, we fight to end FGM: It's a human rights violation of women and girls'",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "category": "conflict",
     "severity": 3,
     "confidence": "B3",
-    "time": "2026-11-26T10:00:52+00:00"
-   }
-  ],
-  "Latin America & Caribbean": [
-   {
-    "id": "5b3263d8133c",
-    "title": "Brazil: PAHO calls for stronger surveillance amid increase in mpox cases in the Americas",
-    "country": "Brazil",
-    "city": null,
-    "category": "health",
-    "severity": 5,
-    "confidence": "A1",
-    "time": "2026-11-26T01:03:06+00:00"
+    "time": "2026-11-26T08:39:26+00:00"
    },
    {
-    "id": "602982a6ca19",
-    "title": "Panama: Earthquake in Azuero & Veraguas - Situation Report No. 10 (as of 25 November 2026, 12:00)",
-    "country": "Panama",
+    "id": "14abf1c38efe",
+    "title": "Green forest fire notification in Mali",
+    "country": "Mali",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-25T23:53:33+00:00"
+    "time": "2026-11-26T20:01:17+00:00"
+   },
+   {
+    "id": "c97a5b71e416",
+    "title": "Ebola: UN says outbreak driving spike in gender-based violence in Congo",
+    "country": "DRC",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-26T17:52:40+00:00"
    }
   ],
   "Western Europe": [
@@ -149,6 +261,26 @@
     "time": "2026-11-26T12:37:42+00:00"
    },
    {
+    "id": "2d1138e05cbb",
+    "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+    "country": "France",
+    "city": null,
+    "category": "cyber",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-27T01:07:44+00:00"
+   },
+   {
+    "id": "b3a38a325e6b",
+    "title": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies",
+    "country": "Belgium",
+    "city": "Brussels",
+    "category": "unrest",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-26T20:10:52+00:00"
+   },
+   {
     "id": "132f51c24a2d",
     "title": "Beau Lamarre-Condon used his service weapon to murder two men. Did NSW police recruiters miss any red flags?",
     "country": "United Kingdom",
@@ -177,26 +309,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-26T05:00:27+00:00"
-   },
-   {
-    "id": "2b0fd6dee5fd",
-    "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-    "country": "Germany",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-26T05:00:24+00:00"
-   },
-   {
-    "id": "a1f7ecd2b33f",
-    "title": "California warns of flooding as king tides peak over Thanksgiving",
-    "country": "United Kingdom",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-26T01:22:55+00:00"
    }
   ],
   "East & SE Asia": [
@@ -251,6 +363,16 @@
     "time": "2026-11-26T06:11:00+00:00"
    },
    {
+    "id": "fc270661cd42",
+    "title": "Green forest fire notification in Papua New Guinea",
+    "country": "Papua New Guinea",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-27T00:05:58+00:00"
+   },
+   {
     "id": "a187a6e2f0bd",
     "title": "M5.1 earthquake, Bonin Islands, Japan region",
     "country": "Japan",
@@ -269,101 +391,61 @@
     "severity": 2,
     "confidence": "A1",
     "time": "2026-11-26T16:18:00.760000+00:00"
-   },
-   {
-    "id": "9f488f599ddd",
-    "title": "Green earthquake (Magnitude 5.5M, Depth:15.139km) in South Of Sumbawa, Indonesia 26/11/2026 09:08 UTC, [unknown].",
-    "country": "Indonesia",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-26T09:24:03+00:00"
    }
   ],
-  "Sub-Saharan Africa": [
+  "North America": [
    {
-    "id": "9d35f6ed4719",
-    "title": "Fighting in eastern Congo forces Ebola workers to evacuate, disrupts outbreak response",
-    "country": "DRC",
-    "city": "Kinshasa",
-    "category": "health",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-26T14:20:13+00:00"
-   },
-   {
-    "id": "44abe2c8fe2c",
-    "title": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
-    "country": "DRC",
+    "id": "b67465a314fc",
+    "title": "Starshield restrictions still hampering Ukraine's drone defenses, Zelensky tells BBC",
+    "country": "United States",
     "city": null,
     "category": "conflict",
     "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-26T12:00:00+00:00"
+    "confidence": "C4",
+    "time": "2026-11-27T01:17:50+00:00"
    },
    {
-    "id": "4327076bb966",
-    "title": "Central African Republic: Situation Report No. 95, as of 24 November 2026",
-    "country": "CAR",
+    "id": "a909f596e324",
+    "title": "Politician hosts 400,000 guests at daughter’s wedding in India’s poorest state",
+    "country": "United States",
+    "city": "Atlanta",
+    "category": "crime",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-26T15:41:42+00:00"
+   },
+   {
+    "id": "4b398e65221b",
+    "title": "Guatemala: El Niño drought pushes families to sell possessions or send children to work to afford food",
+    "country": "United States",
     "city": null,
-    "category": "conflict",
-    "severity": 3,
+    "category": "unrest",
+    "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-26T09:54:55+00:00"
+    "time": "2026-11-26T09:33:09+00:00"
    },
    {
-    "id": "698f733583b2",
-    "title": "'We are not fighting culture, we fight to end FGM: It's a human rights violation of women and girls'",
-    "country": "Kenya",
-    "city": "Nairobi",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-26T08:39:26+00:00"
-   },
-   {
-    "id": "bf3ec29ea3fd",
-    "title": "Cape Town court shuts down Ramaphosa's Farmgate scandal",
-    "country": "DRC",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "B3",
-    "time": "2026-11-25T21:41:01+00:00"
-   },
-   {
-    "id": "14abf1c38efe",
-    "title": "Green forest fire notification in Mali",
-    "country": "Mali",
+    "id": "3ec0758d2193",
+    "title": "M4.6 earthquake, 97 km SW of Puerto Madero, Mexico",
+    "country": "Mexico",
     "city": null,
     "category": "hazard",
     "severity": 2,
     "confidence": "A1",
-    "time": "2026-11-26T20:01:17+00:00"
-   },
-   {
-    "id": "c97a5b71e416",
-    "title": "Ebola: UN says outbreak driving spike in gender-based violence in Congo",
-    "country": "DRC",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-26T17:52:40+00:00"
-   },
-   {
-    "id": "6a87c41e25b8",
-    "title": "US-backed Ebola quarantine centre violated constitution, Kenyan court rules",
-    "country": "Kenya",
-    "city": null,
-    "category": "health",
-    "severity": 2,
-    "confidence": "C4",
-    "time": "2026-11-26T17:52:38+00:00"
+    "time": "2026-11-26T03:30:28.511000+00:00"
    }
   ],
   "Eastern Europe": [
+   {
+    "id": "915cd0c76fbd",
+    "title": "Update 377 – IAEA Director General Statement on Situation in Ukraine",
+    "country": "Ukraine",
+    "city": null,
+    "category": "conflict",
+    "severity": 3,
+    "confidence": "A1",
+    "time": "2026-11-26T18:03:06+00:00"
+   },
    {
     "id": "a8b7fed69d87",
     "title": "Moscow drone incursions: Poland to create no-fly zone at Ukraine border",
@@ -433,91 +515,59 @@
     "severity": 3,
     "confidence": "C4",
     "time": "2026-11-26T03:14:17+00:00"
-   },
-   {
-    "id": "4bfde2a155fb",
-    "title": "Russia slams Kyiv in ballistic missile attack, hits shopping center, injures 4",
-    "country": "Ukraine",
-    "city": "Kyiv",
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-25T21:42:35+00:00"
-   }
-  ],
-  "North America": [
-   {
-    "id": "eb1dcbedcc70",
-    "title": "US billionaire, government agency ink deal to acquire sanctioned Russian oil giant Lukoil's global assets",
-    "country": "United States",
-    "city": null,
-    "category": "political",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-26T01:06:49+00:00"
-   },
-   {
-    "id": "6eb52085acae",
-    "title": "No good news from US on accelerating air defense missile deliveries, Zelensky says",
-    "country": "United States",
-    "city": null,
-    "category": "conflict",
-    "severity": 3,
-    "confidence": "C4",
-    "time": "2026-11-25T23:05:31+00:00"
-   },
-   {
-    "id": "a909f596e324",
-    "title": "Politician hosts 400,000 guests at daughter’s wedding in India’s poorest state",
-    "country": "United States",
-    "city": "Atlanta",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-26T15:41:42+00:00"
-   },
-   {
-    "id": "4b398e65221b",
-    "title": "Guatemala: El Niño drought pushes families to sell possessions or send children to work to afford food",
-    "country": "United States",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-26T09:33:09+00:00"
-   },
-   {
-    "id": "3ec0758d2193",
-    "title": "M4.6 earthquake, 97 km SW of Puerto Madero, Mexico",
-    "country": "Mexico",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-26T03:30:28.511000+00:00"
-   },
-   {
-    "id": "d55a10aeb6b3",
-    "title": "Record-breaking California tides cause major flooding of roads and businesses",
-    "country": "United States",
-    "city": "Los Angeles",
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-25T22:56:36+00:00"
-   },
-   {
-    "id": "b43f090d28a0",
-    "title": "World: Global Weather Hazards Summary, November 26, 2026 – December 2, 2026",
-    "country": "United States",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-25T22:33:06+00:00"
    }
   ],
   "Oceania": [
+   {
+    "id": "3f266de144d8",
+    "title": "M5.0 earthquake, 89 km SSE of Sola, Vanuatu",
+    "country": "Vanuatu",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-27T02:13:21.018000+00:00"
+   },
+   {
+    "id": "23627cd27856",
+    "title": "World: Waiting to tackle HIV in the Pacific could double the cost and prevent fewer infections",
+    "country": "Fiji",
+    "city": null,
+    "category": "health",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-27T01:26:02+00:00"
+   },
+   {
+    "id": "08a711d6ba3f",
+    "title": "Auckland 53 volcanoes in order , an animated 193 , 000 year map",
+    "country": "New Zealand",
+    "city": "Auckland",
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "C4",
+    "time": "2026-11-27T00:45:00+00:00"
+   },
+   {
+    "id": "346cba6d4b4f",
+    "title": "M5.1 earthquake, 107 km SSE of Auki, Solomon Islands",
+    "country": "Solomon Islands",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "A1",
+    "time": "2026-11-27T00:07:00.857000+00:00"
+   },
+   {
+    "id": "781e72e95622",
+    "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
+    "country": "Australia",
+    "city": null,
+    "category": "hazard",
+    "severity": 2,
+    "confidence": "B3",
+    "time": "2026-11-26T21:33:36+00:00"
+   },
    {
     "id": "9867006b48be",
     "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
@@ -547,48 +597,6 @@
     "severity": 2,
     "confidence": "B3",
     "time": "2026-11-26T06:36:53+00:00"
-   },
-   {
-    "id": "a97903e9db73",
-    "title": "Australian politics live: Blyth did not ‘feel safe’ in the Liberal party before One Nation defection; ‘coal must be replaced’, Bowen says",
-    "country": "Australia",
-    "city": null,
-    "category": "unrest",
-    "severity": 2,
-    "confidence": "B3",
-    "time": "2026-11-26T01:59:47+00:00"
-   },
-   {
-    "id": "9ae93114de4a",
-    "title": "M4.8 earthquake, 190 km N of Hicks Bay, New Zealand",
-    "country": "New Zealand",
-    "city": null,
-    "category": "hazard",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-25T21:32:33.545000+00:00"
-   }
-  ],
-  "South Asia": [
-   {
-    "id": "6b57c5fe3111",
-    "title": "The Persecution Continues: Minority Communities Under Sustained Attack in Bangladesh (January - October 2026)",
-    "country": "Bangladesh",
-    "city": null,
-    "category": "crime",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-26T13:33:19+00:00"
-   },
-   {
-    "id": "a353a2031b29",
-    "title": "World: Reporting Sexual Violence and Abuse in Conflict - October 2026",
-    "country": "India",
-    "city": "Delhi",
-    "category": "crime",
-    "severity": 2,
-    "confidence": "A1",
-    "time": "2026-11-26T09:00:39+00:00"
    }
   ]
  }
