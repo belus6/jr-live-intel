@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-27T21:32:38.971017+00:00",
+ "generated": "2026-11-28T03:32:50.363019+00:00",
  "sample": false,
- "count": 430,
+ "count": 431,
  "events": [
   {
    "title": "Kenyan starvation cult leader convicted of radicalisation",
@@ -174,34 +174,6 @@
    "flag": "🇦🇫",
    "region": "Middle East & N. Africa",
    "baseline": 4.8,
-   "watch": []
-  },
-  {
-   "title": "M6.5 earthquake, Vanuatu region",
-   "summary": "Depth 598 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm",
-   "time": "2026-11-23T02:40:58.052000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.5846,
-   "lon": 172.2672,
-   "severity": 5,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-23T21:25:55.624148+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "564c3602a048",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
    "watch": []
   },
   {
@@ -1078,6 +1050,146 @@
    "watch": []
   },
   {
+   "title": "'Normal staffing issue' — IAEA chief dismisses criticism over appointment of sanctioned Russian as deputy",
+   "summary": "",
+   "url": "https://kyivindependent.com/normal-staffing-issue-iaea-chief-deflects-criticism-over-appointment-of-sanctioned-russian-as-deputy/",
+   "time": "2026-11-28T02:12:26+00:00",
+   "tier": "C",
+   "category": "political",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/normal-staffing-issue-iaea-chief-deflects-criticism-over-appointment-of-sanctioned-russian-as-deputy/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "d77dca7993fc",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Russian soldier who was 13 when Russia launched full-scale invasion killed in Ukraine, media reports",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-soldier-who-was-13-when-full-scale-invasion-began-killed-in-ukraine-media-reports/",
+   "time": "2026-11-28T00:23:30+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Ukraine",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-soldier-who-was-13-when-full-scale-invasion-began-killed-in-ukraine-media-reports/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "8c630badaff4",
+   "flag": "🇺🇦",
+   "region": "Eastern Europe",
+   "baseline": 3.63,
+   "watch": []
+  },
+  {
+   "title": "Russian drone attack on Kremenchuk injures 4, including 3 children",
+   "summary": "",
+   "url": "https://kyivindependent.com/russian-drone-attack-on-kremenchuk-injures-4-including-3-children/",
+   "time": "2026-11-27T22:13:00+00:00",
+   "tier": "C",
+   "category": "conflict",
+   "country": "Russia",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-drone-attack-on-kremenchuk-injures-4-including-3-children/",
+     "tier": "C"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "C4",
+   "corroboration": 1,
+   "id": "357163816748",
+   "flag": "🇷🇺",
+   "region": "Eastern Europe",
+   "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+   "time": "2026-11-27T21:59:11+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Spain",
+   "city": "Madrid",
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "e301490ad783",
+   "flag": "🇪🇸",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "Uganda to withdraw troops from DR Congo",
+   "summary": "",
+   "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
+   "time": "2026-11-27T21:44:29+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "South Africa",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "438964d708c7",
+   "flag": "🇿🇦",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.02,
+   "watch": []
+  },
+  {
    "title": "Ukraine war latest: Ukraine hits missile fuel production facility in Russia's Tula Oblast, military says",
    "summary": "",
    "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-hits-missile-fuel-production-facility-in-russias-tula-oblast-military-says/",
@@ -1103,6 +1215,34 @@
    "flag": "🇷🇺",
    "region": "Eastern Europe",
    "baseline": 4.39,
+   "watch": []
+  },
+  {
+   "title": "Uganda to withdraw troops from DR Congo town after army chief's threat sparks row",
+   "summary": "",
+   "url": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row",
+   "time": "2026-11-27T17:56:28+00:00",
+   "tier": "B",
+   "category": "conflict",
+   "country": "Uganda",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 3,
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "dd5995e70d82",
+   "flag": "🇺🇬",
+   "region": "Sub-Saharan Africa",
+   "baseline": 3.45,
    "watch": []
   },
   {
@@ -3671,90 +3811,6 @@
    "watch": []
   },
   {
-   "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-11-25T00:56:51+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-25T09:37:22.649288+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "ce785725b11d",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-11-25T00:54:13+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-25T09:37:22.649288+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "69864415c304",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-   "summary": "",
-   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-11-25T00:54:13+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-25T19:36:24.248360+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "5bed6003def5",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
    "title": "What will Victoria’s election result mean for nine datacentre projects awaiting approval?",
    "summary": "",
    "url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
@@ -3780,34 +3836,6 @@
    "flag": "🇦🇺",
    "region": "Oceania",
    "baseline": 1.05,
-   "watch": []
-  },
-  {
-   "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-   "time": "2026-11-24T23:39:13+00:00",
-   "tier": "B",
-   "category": "conflict",
-   "country": "DRC",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 3,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-25T00:49:20.915018+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "041bb21537d6",
-   "flag": "🇨🇩",
-   "region": "Sub-Saharan Africa",
-   "baseline": 4.69,
    "watch": []
   },
   {
@@ -4727,6 +4755,258 @@
    "watch": []
   },
   {
+   "title": "M4.6 earthquake, 26 km NNW of Cuya, Chile",
+   "summary": "Depth 79 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1k",
+   "time": "2026-11-28T02:55:35.595000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Chile",
+   "city": null,
+   "lat": -18.945,
+   "lon": -70.2869,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1k",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e009c0de1180",
+   "flag": "🇨🇱",
+   "region": "Latin America & Caribbean",
+   "baseline": 1.62,
+   "watch": []
+  },
+  {
+   "title": "Australia’s east coast deluged by storms as roads flood and damaging winds forecast for NSW and Victoria",
+   "summary": "",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria",
+   "time": "2026-11-28T02:39:28+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "United Kingdom",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "86d8dd2ef06a",
+   "flag": "🇬🇧",
+   "region": "Western Europe",
+   "baseline": 1.29,
+   "watch": []
+  },
+  {
+   "title": "Bulgarians demand action by French after Marseille match violence",
+   "summary": "",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss",
+   "time": "2026-11-28T02:30:27+00:00",
+   "tier": "B",
+   "category": "unrest",
+   "country": "France",
+   "city": "Marseille",
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "b4eafc9f9e16",
+   "flag": "🇫🇷",
+   "region": "Western Europe",
+   "baseline": 1.39,
+   "watch": []
+  },
+  {
+   "title": "M5.2 earthquake, 93 km W of San Antonio de los Cobres, Argentina",
+   "summary": "Depth 175 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1h",
+   "time": "2026-11-28T02:25:05.520000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Argentina",
+   "city": null,
+   "lat": -24.299,
+   "lon": -67.2363,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1h",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3c490fc28a16",
+   "flag": "🇦🇷",
+   "region": "Latin America & Caribbean",
+   "baseline": 2.14,
+   "watch": []
+  },
+  {
+   "title": "M4.7 earthquake, 130 km NE of Bitung, Indonesia",
+   "summary": "Depth 55 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1d",
+   "time": "2026-11-28T01:36:46.461000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Indonesia",
+   "city": null,
+   "lat": 2.2665,
+   "lon": 125.9667,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1d",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "3f635a0f6339",
+   "flag": "🇮🇩",
+   "region": "East & SE Asia",
+   "baseline": 2.51,
+   "watch": []
+  },
+  {
+   "title": "M5.1 earthquake, 73 km NNW of Phôngsali, Laos",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1b",
+   "time": "2026-11-28T01:17:42.722000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Laos",
+   "city": null,
+   "lat": 22.2546,
+   "lon": 101.7463,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1b",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "c1b477236e5a",
+   "flag": "🇱🇦",
+   "region": "East & SE Asia",
+   "baseline": 2.92,
+   "watch": []
+  },
+  {
+   "title": "M4.8 earthquake, 167 km N of Hicks Bay, New Zealand",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1a",
+   "time": "2026-11-28T01:08:45.950000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "New Zealand",
+   "city": null,
+   "lat": -36.0927,
+   "lon": 178.3785,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1a",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "76fde95a9d0a",
+   "flag": "🇳🇿",
+   "region": "Oceania",
+   "baseline": 1.05,
+   "watch": []
+  },
+  {
+   "title": "M4.5 earthquake, Izu Islands, Japan region",
+   "summary": "Depth 10 km. Alert: none.",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue0a",
+   "time": "2026-11-27T21:47:28.211000+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Japan",
+   "city": null,
+   "lat": 31.1518,
+   "lon": 140.3307,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "USGS earthquakes M4.5+",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue0a",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "be94b2a3a1f5",
+   "flag": "🇯🇵",
+   "region": "East & SE Asia",
+   "baseline": 1.07,
+   "watch": []
+  },
+  {
+   "title": "South Sudan Humanitarian Fund: 2026 monitoring report (1 January to 31 August 2026)",
+   "summary": "Countries: South Sudan, Sudan Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. South Sudan Humanitarian Fund: 2026 monitoring report (1 January to 31 August 2026) The South Sudan Humanitarian Fund (SSHF) monitored 87 projects implemented by 54 partners from 1 January to 31 August 2026. The report describes how partners delivered assistance and manag",
+   "url": "https://reliefweb.int/report/south-sudan/south-sudan-humanitarian-fund-2026-monitoring-report-1-january-31-august-2026",
+   "time": "2026-11-27T21:32:38+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Sudan",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/report/south-sudan/south-sudan-humanitarian-fund-2026-monitoring-report-1-january-31-august-2026",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "e6ca069b48f1",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
+   "watch": []
+  },
+  {
    "title": "Spanish PM and rivals rally supporters in final pitch for votes",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
@@ -4808,6 +5088,34 @@
    "flag": "🇮🇷",
    "region": "Middle East & N. Africa",
    "baseline": 4.58,
+   "watch": []
+  },
+  {
+   "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+   "summary": "",
+   "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-27T16:46:47+00:00",
+   "tier": "B",
+   "category": "hazard",
+   "country": "United States",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+     "tier": "B"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "B3",
+   "corroboration": 1,
+   "id": "2a0bce929493",
+   "flag": "🇺🇸",
+   "region": "North America",
+   "baseline": 1.97,
    "watch": []
   },
   {
@@ -4976,6 +5284,34 @@
    "flag": "🇸🇿",
    "region": "Sub-Saharan Africa",
    "baseline": 2.84,
+   "watch": []
+  },
+  {
+   "title": "DR Congo: Nord-Ubangi - Présence opérationnelle des partenaires de la riposte à Ebola Au 15 novembre 2026",
+   "summary": "Country: Democratic Republic of the Congo Sources: Health Cluster, World Health Organization Please refer to the attached Map. Au 15 novembre 2026, 6 organisations appuient le ministère de la Santé dans la riposte à la 17ᵉ épidémie de maladie à virus Ebola au Nord-Ubangi. La carte recense 3 agences des Nations Unies, 1 ONG internationale, 1 agence de l’Union africaine et 1 observateur. Sur les 11 ",
+   "url": "https://reliefweb.int/map/democratic-republic-congo/nord-ubangi-presence-operationnelle-des-partenaires-de-la-riposte-ebola-au-15-novembre-2026",
+   "time": "2026-11-27T12:55:31+00:00",
+   "tier": "A",
+   "category": "health",
+   "country": "DRC",
+   "city": null,
+   "lat": null,
+   "lon": null,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "ReliefWeb updates",
+     "url": "https://reliefweb.int/map/democratic-republic-congo/nord-ubangi-presence-operationnelle-des-partenaires-de-la-riposte-ebola-au-15-novembre-2026",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "1803726656ff",
+   "flag": "🇨🇩",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.69,
    "watch": []
   },
   {
@@ -5347,6 +5683,34 @@
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in South Sudan",
+   "summary": "On 24/11/2026, a forest fire started in South Sudan, until 27/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034097",
+   "time": "2026-11-27T08:04:05+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "Sudan",
+   "city": null,
+   "lat": 8.295630989375455,
+   "lon": 25.35677242695438,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034097",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "8a90971c128d",
+   "flag": "🇸🇩",
+   "region": "Middle East & N. Africa",
+   "baseline": 4.76,
    "watch": []
   },
   {
@@ -5991,6 +6355,34 @@
    "flag": "🇧🇪",
    "region": "Western Europe",
    "baseline": 1.27,
+   "watch": []
+  },
+  {
+   "title": "Green forest fire notification in Central African Republic",
+   "summary": "On 21/11/2026, a forest fire started in Central African Republic, until 27/11/2026.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034100",
+   "time": "2026-11-26T20:04:48+00:00",
+   "tier": "A",
+   "category": "hazard",
+   "country": "CAR",
+   "city": null,
+   "lat": 9.126013844115771,
+   "lon": 21.601053899377604,
+   "severity": 2,
+   "sources": [
+    {
+     "name": "GDACS disaster alerts",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034100",
+     "tier": "A"
+    }
+   ],
+   "first_seen": "2026-11-28T03:32:50.363019+00:00",
+   "confidence": "A1",
+   "corroboration": 1,
+   "id": "83674748178f",
+   "flag": "🇨🇫",
+   "region": "Sub-Saharan Africa",
+   "baseline": 4.61,
    "watch": []
   },
   {
@@ -7226,62 +7618,6 @@
    "watch": []
   },
   {
-   "title": "Over 30 countries demand Russia stop using chemical agents as weapons of war in Ukraine",
-   "summary": "",
-   "url": "https://kyivindependent.com/over-30-countries-demand-russia-stop-using-chemical-agents-as-weapons-of-war-in-ukraine/",
-   "time": "2026-11-26T02:18:57+00:00",
-   "tier": "C",
-   "category": "unrest",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/over-30-countries-demand-russia-stop-using-chemical-agents-as-weapons-of-war-in-ukraine/",
-     "tier": "C"
-    }
-   ],
-   "first_seen": "2026-11-26T02:28:03.862005+00:00",
-   "confidence": "C4",
-   "corroboration": 1,
-   "id": "de22db0f9a86",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
-   "watch": []
-  },
-  {
-   "title": "Australian politics live: Blyth did not ‘feel safe’ in the Liberal party before One Nation defection; ‘coal must be replaced’, Bowen says",
-   "summary": "",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "time": "2026-11-26T01:59:47+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Australia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-26T02:28:03.862005+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "a97903e9db73",
-   "flag": "🇦🇺",
-   "region": "Oceania",
-   "baseline": 1.05,
-   "watch": []
-  },
-  {
    "title": "California warns of flooding as king tides peak over Thanksgiving",
    "summary": "",
    "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
@@ -7363,34 +7699,6 @@
    "flag": "🇪🇹",
    "region": "Sub-Saharan Africa",
    "baseline": 4.2,
-   "watch": []
-  },
-  {
-   "title": "Zambia bans protest against push to remove presidential term limits",
-   "summary": "",
-   "url": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
-   "time": "2026-11-26T00:22:15+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "Zambia",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-26T02:28:03.862005+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "8eb915d6407b",
-   "flag": "🇿🇲",
-   "region": "Sub-Saharan Africa",
-   "baseline": 2.88,
    "watch": []
   },
   {
@@ -7503,34 +7811,6 @@
    "flag": "🇺🇸",
    "region": "North America",
    "baseline": 1.97,
-   "watch": []
-  },
-  {
-   "title": "Le Pen party leaks: prefect dismissed, Paris deputy prosecutor placed under investigation",
-   "summary": "",
-   "url": "https://www.france24.com/en/le-pen-party-leaks-prefect-dismissed-paris-deputy-prosecutor-placed-under-investigation",
-   "time": "2026-11-25T22:28:58+00:00",
-   "tier": "B",
-   "category": "unrest",
-   "country": "France",
-   "city": "Paris",
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/le-pen-party-leaks-prefect-dismissed-paris-deputy-prosecutor-placed-under-investigation",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-26T02:28:03.862005+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "142c86f96d81",
-   "flag": "🇫🇷",
-   "region": "Western Europe",
-   "baseline": 1.39,
    "watch": []
   },
   {
@@ -8203,34 +8483,6 @@
    "flag": "🇵🇬",
    "region": "East & SE Asia",
    "baseline": 3.3,
-   "watch": []
-  },
-  {
-   "title": "The Russian army’s secret death toll – podcast",
-   "summary": "",
-   "url": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
-   "time": "2026-11-25T03:00:03+00:00",
-   "tier": "B",
-   "category": "cyber",
-   "country": "Ukraine",
-   "city": null,
-   "lat": null,
-   "lon": null,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "The Guardian World",
-     "url": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
-     "tier": "B"
-    }
-   ],
-   "first_seen": "2026-11-25T09:37:22.649288+00:00",
-   "confidence": "B3",
-   "corroboration": 1,
-   "id": "f25439f7dcaf",
-   "flag": "🇺🇦",
-   "region": "Eastern Europe",
-   "baseline": 3.63,
    "watch": []
   },
   {
@@ -9723,118 +9975,6 @@
    "watch": []
   },
   {
-   "title": "Green earthquake (Magnitude 6.5M, Depth:598km) in Vanuatu Islands Region 23/11/2026 02:40 UTC, No people affected in 100km.",
-   "summary": "On 11/23/2026 2:40:57 AM, an earthquake occurred in Vanuatu Islands Region potentially affecting No people affected in 100km. The earthquake had Magnitude 6.5M, Depth:598km.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578798",
-   "time": "2026-11-23T02:48:52+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -13.5846,
-   "lon": 172.2672,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1578798",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-23T09:06:07.787179+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "6ab73cc556ab",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, 39 km NW of Kuqa, China",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvh",
-   "time": "2026-11-23T02:14:59.561000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "China",
-   "city": null,
-   "lat": 41.9264,
-   "lon": 82.544,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvh",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-23T09:06:07.787179+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "2c5ea35e7edc",
-   "flag": "🇨🇳",
-   "region": "East & SE Asia",
-   "baseline": 2.75,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Brazil",
-   "summary": "On 17/11/2026, a forest fire started in Brazil, until 22/11/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034021",
-   "time": "2026-11-23T00:03:45+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Brazil",
-   "city": null,
-   "lat": -1.2357269919718095,
-   "lon": -51.77710443450987,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034021",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-23T01:09:27.204105+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "b81a60a934db",
-   "flag": "🇧🇷",
-   "region": "Latin America & Caribbean",
-   "baseline": 3.13,
-   "watch": []
-  },
-  {
-   "title": "Green forest fire notification in Ghana, Burkina Faso",
-   "summary": "On 19/11/2026, a forest fire started in Ghana, Burkina Faso, until 22/11/2026.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034013",
-   "time": "2026-11-23T00:01:28+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Ghana",
-   "city": null,
-   "lat": 11.068254896500141,
-   "lon": -1.3534925111586293,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "GDACS disaster alerts",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034013",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-23T01:09:27.204105+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "e9d6d604e289",
-   "flag": "🇬🇭",
-   "region": "Sub-Saharan Africa",
-   "baseline": 2.36,
-   "watch": []
-  },
-  {
    "title": "Denmark - Level 2: Exercise Increased Caution",
    "summary": "Exercise increased caution in Denmark due to terrorism . Terrorist groups continue plotting possible attacks in the Kingdom of Denmark. Visit the U.S. Department of State's country reports on terrorism to learn more. Terrorists may attack without warning and target: Tourist locations Transportation hubs (airports) Markets and shopping malls Local government facilities Hotels, clubs, and restaurant",
    "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dnk.html",
@@ -9860,118 +10000,6 @@
    "flag": "🇩🇰",
    "region": "Western Europe",
    "baseline": 1.0,
-   "watch": []
-  },
-  {
-   "title": "M4.7 earthquake, 226 km NW of Tobelo, Indonesia",
-   "summary": "Depth 40 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucv2",
-   "time": "2026-11-22T23:50:44.048000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Indonesia",
-   "city": null,
-   "lat": 3.0639,
-   "lon": 126.468,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucv2",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-23T01:09:27.204105+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "91bdf58673e0",
-   "flag": "🇮🇩",
-   "region": "East & SE Asia",
-   "baseline": 2.51,
-   "watch": []
-  },
-  {
-   "title": "M4.9 earthquake, 170 km WNW of Port-Olry, Vanuatu",
-   "summary": "Depth 10 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuk",
-   "time": "2026-11-22T21:58:15.571000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Vanuatu",
-   "city": null,
-   "lat": -14.1955,
-   "lon": 165.7555,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuk",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-23T01:09:27.204105+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "edf9b5af1bfe",
-   "flag": "🇻🇺",
-   "region": "Oceania",
-   "baseline": 2.48,
-   "watch": []
-  },
-  {
-   "title": "M4.5 earthquake, 54 km NNE of Calama, Chile",
-   "summary": "Depth 123 km. Alert: none.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuj",
-   "time": "2026-11-22T21:47:32.112000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Chile",
-   "city": null,
-   "lat": -21.9972,
-   "lon": -68.7311,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuj",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-23T01:09:27.204105+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "c71a162c6d13",
-   "flag": "🇨🇱",
-   "region": "Latin America & Caribbean",
-   "baseline": 1.62,
-   "watch": []
-  },
-  {
-   "title": "M5.4 earthquake, 9 km N of Carhuamayo, Peru",
-   "summary": "Depth 117 km. Alert: green.",
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuf",
-   "time": "2026-11-22T21:35:31.763000+00:00",
-   "tier": "A",
-   "category": "hazard",
-   "country": "Peru",
-   "city": null,
-   "lat": -10.8345,
-   "lon": -76.0169,
-   "severity": 2,
-   "sources": [
-    {
-     "name": "USGS earthquakes M4.5+",
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuf",
-     "tier": "A"
-    }
-   ],
-   "first_seen": "2026-11-23T01:09:27.204105+00:00",
-   "confidence": "A1",
-   "corroboration": 1,
-   "id": "f08cfc26b8e7",
-   "flag": "🇵🇪",
-   "region": "Latin America & Caribbean",
-   "baseline": 2.89,
    "watch": []
   },
   {
